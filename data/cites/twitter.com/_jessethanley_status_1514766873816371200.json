@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "福岡, Japan " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "˗ˏˋ Jesse Hanley ˎˊ˗" ],
+        "nickname" : [ "jessethanley" ],
+        "numeric-id" : [ "83546545" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1502977934180593668/FVhqrTHh.jpg" ],
+        "published" : [ "2009-10-19T07:37:16+00:00" ],
+        "uid" : [ "tag:twitter.com:jessethanley" ],
+        "url" : [ "https://twitter.com/jessethanley", "https://www.jessehanley.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This email just closed the loop of me thinking of ever moving from Heroku to Render. Comments like this almost *guarantee* bad outages. \n\nRESIST THE DUNK!</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/isamlambert\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/render\"></a>",
+      "value" : "This email just closed the loop of me thinking of ever moving from Heroku to Render. Comments like this almost *guarantee* bad outages. \n\nRESIST THE DUNK!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/isamlambert/status/1514675406577680391" ],
+    "published" : [ "2022-04-15T00:45:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1514766873816371200" ],
+    "url" : [ "https://twitter.com/jessethanley/status/1514766873816371200" ]
+  },
+  "type" : [ "h-entry" ]
+}
