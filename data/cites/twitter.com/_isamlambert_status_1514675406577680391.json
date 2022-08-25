@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Lambert" ],
+        "nickname" : [ "isamlambert" ],
+        "numeric-id" : [ "17093431" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1549872263675072512/fEhzRpYa.jpg" ],
+        "published" : [ "2008-10-31T22:10:16+00:00" ],
+        "uid" : [ "tag:twitter.com:isamlambert" ],
+        "url" : [ "https://twitter.com/isamlambert", "http://samlambert.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Seems like <a href=\"https://twitter.com/render\">@render</a> can't help themselves either.",
+      "value" : "Seems like @render can't help themselves either."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/isamlambert/status/1514652961397350428" ],
+    "photo" : [ "https://pbs.twimg.com/media/FQU1ON7VQA4Woto.jpg" ],
+    "published" : [ "2022-04-14T18:42:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1514675406577680391" ],
+    "url" : [ "https://twitter.com/isamlambert/status/1514675406577680391" ]
+  },
+  "type" : [ "h-entry" ]
+}
