@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1562726551883759621" ],
     "published" : [ "2022-08-25T09:51:00+0100" ],
     "category" : [ "hacktoberfest" ],
     "post-status" : [ "published" ],
