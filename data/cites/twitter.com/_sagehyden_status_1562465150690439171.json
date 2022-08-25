@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "$PresidentToguro " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "President-Elect Toguro" ],
+          "nickname" : [ "PresidentToguro" ],
+          "numeric-id" : [ "264439598" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1465938184123174913/9Gi9eLlC.jpg" ],
+          "published" : [ "2011-03-11T22:35:16+00:00" ],
+          "uid" : [ "tag:twitter.com:PresidentToguro" ],
+          "url" : [ "https://twitter.com/PresidentToguro" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fa41fTFXgAEaSeK.jpg" ],
+      "published" : [ "2022-08-24T01:06:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1562244934324862976" ],
+      "url" : [ "https://twitter.com/PresidentToguro/status/1562244934324862976" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sage Hyden / Just Write" ],
+        "nickname" : [ "sagehyden" ],
+        "numeric-id" : [ "2508793585" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537482032535810049/x05GoH51.jpg" ],
+        "published" : [ "2014-05-19T23:54:26+00:00" ],
+        "uid" : [ "tag:twitter.com:sagehyden" ],
+        "url" : [ "https://twitter.com/sagehyden", "https://www.youtube.com/c/JustWrite", "http://linktr.ee/sagehyden" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "it must be studied how tiktok made \"POV\" mean the opposite of what it means" ],
+    "published" : [ "2022-08-24T15:41:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1562465150690439171" ],
+    "url" : [ "https://twitter.com/sagehyden/status/1562465150690439171" ]
+  },
+  "type" : [ "h-entry" ]
+}
