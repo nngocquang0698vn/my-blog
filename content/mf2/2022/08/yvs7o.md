@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marcandreyko/status/1562632258216873985" ],
     "name" : [ "Like of @marcandreyko's tweet" ],
     "published" : [ "2022-08-25T08:52:00+0100" ],
     "category" : [ "politics", "art" ],
