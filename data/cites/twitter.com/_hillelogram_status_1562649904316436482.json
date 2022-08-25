@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1562693512914690048/K7IiclGS.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://learntla.com", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Code review tip: use emojis to make your reviews more friendly! Instead of writing \"I think you should refactor this code\", you can write \"👩‍🦳🔪🔪😯🩸😵\"" ],
+    "published" : [ "2022-08-25T03:55:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1562649904316436482" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1562649904316436482" ]
+  },
+  "type" : [ "h-entry" ]
+}
