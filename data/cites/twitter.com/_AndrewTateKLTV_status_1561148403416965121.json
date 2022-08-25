@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🤩" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "ry" ],
+          "nickname" : [ "RyUsesTwit" ],
+          "numeric-id" : [ "1291830768021524481" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1428029759418687498/Ol6wrWAh.jpg" ],
+          "published" : [ "2020-08-07T20:17:18+00:00" ],
+          "uid" : [ "tag:twitter.com:RyUsesTwit" ],
+          "url" : [ "https://twitter.com/RyUsesTwit", "https://youtube.com/itzvalk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "This is just some unfortunate weather reporter\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AndrewTateKLTV\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tatafoofafrica\"></a>",
+        "value" : "This is just some unfortunate weather reporter"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/tatafoofafrica/status/1561023322804174850" ],
+      "published" : [ "2022-08-20T23:34:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1561134531633188865" ],
+      "url" : [ "https://twitter.com/RyUsesTwit/status/1561134531633188865" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tyler, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Tate" ],
+        "nickname" : [ "AndrewTateKLTV" ],
+        "numeric-id" : [ "597807215" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377377631654526976/GdeO8HsP.jpg" ],
+        "published" : [ "2012-06-02T22:46:15+00:00" ],
+        "uid" : [ "tag:twitter.com:AndrewTateKLTV" ],
+        "url" : [ "https://twitter.com/AndrewTateKLTV", "http://kltv.com/weather", "http://SeeDisclaimer.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "ANDREW TATE KLTV (\"unfortunate weather reporter\") IS NOT ANDREW TATE THE BOXER FROM TIKTOK. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FapPF1LWYAA8Gnn.png" ],
+    "published" : [ "2022-08-21T00:29:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1561148403416965121" ],
+    "url" : [ "https://twitter.com/AndrewTateKLTV/status/1561148403416965121" ]
+  },
+  "type" : [ "h-entry" ]
+}
