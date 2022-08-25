@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jacobian/status/1562833339345936385" ],
     "name" : [ "Like of @jacobian's tweet" ],
     "published" : [ "2022-08-25T18:48:00+0100" ],
     "like-of" : [ "https://twitter.com/jacobian/status/1562833339345936385" ],
