@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fastworkers6/status/1540890180647002114" ],
     "name" : [ "Like of @fastworkers6's tweet" ],
     "published" : [ "2022-08-25T07:31:00+0100" ],
     "category" : [ "art" ],
