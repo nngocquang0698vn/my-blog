@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1563156385239556096/xA601iN3.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "https://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "there’s no funnier reply than “why tf are you on my timeline??” because it’s like I’m the kool aid man crashing into your house" ],
+    "published" : [ "2022-08-26T21:15:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1563274071282188288" ],
+    "url" : [ "https://twitter.com/lolennui/status/1563274071282188288" ]
+  },
+  "type" : [ "h-entry" ]
+}
