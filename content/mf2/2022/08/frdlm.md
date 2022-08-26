@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/edent/extended-hyperlegible/stargazers" ],
     "published" : [ "2022-08-26T18:45:00+0100" ],
     "category" : [ "accessibility" ],
     "like-of" : [ "https://github.com/edent/extended-hyperlegible" ],
