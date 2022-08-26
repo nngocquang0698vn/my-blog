@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scottlynch78/status/1562921834626125824" ],
     "name" : [ "Like of @scottlynch78's tweet" ],
     "published" : [ "2022-08-26T12:18:00+0100" ],
     "like-of" : [ "https://twitter.com/scottlynch78/status/1562921834626125824" ],
