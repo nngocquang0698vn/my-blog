@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emily_hillstrom/status/1390452703147479042" ],
     "name" : [ "Like of @emily_hillstrom's tweet" ],
     "published" : [ "2022-08-26T17:31:00+0100" ],
     "like-of" : [ "https://twitter.com/emily_hillstrom/status/1390452703147479042" ],
