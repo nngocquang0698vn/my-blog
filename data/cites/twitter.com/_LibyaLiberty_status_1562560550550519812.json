@@ -25,6 +25,12 @@
       "url" : [ "https://twitter.com/BrianLynch/status/1562559732405022720" ]
     },
     "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/brianlynch/sta…" ],
+      "url" : [ "https://twitter.com/brianlynch/status/1562559732405022720" ]
+    },
+    "type" : [ "h-cite" ]
   } ],
   "properties" : {
     "author" : [ {
@@ -45,7 +51,10 @@
       },
       "type" : [ "h-card" ]
     } ],
-    "content" : [ "There’s a Libyan parable about a petty man who was offered a wish under the condition that his neighbor would get double so he asked to be blind in one eye." ],
+    "content" : [ {
+      "html" : "There’s a Libyan parable about a petty man who was offered a wish under the condition that his neighbor would get double so he asked to be blind in one eye.\n<a class=\"tag\" href=\"https://twitter.com/brianlynch/status/1562559732405022720\">twitter.com/brianlynch/sta…</a>",
+      "value" : "There’s a Libyan parable about a petty man who was offered a wish under the condition that his neighbor would get double so he asked to be blind in one eye."
+    } ],
     "published" : [ "2022-08-24T22:00:40+00:00" ],
     "uid" : [ "tag:twitter.com:1562560550550519812" ],
     "url" : [ "https://twitter.com/LibyaLiberty/status/1562560550550519812" ]
