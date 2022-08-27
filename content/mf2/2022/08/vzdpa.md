@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TranslatedCats/status/1563606874871717888" ],
     "name" : [ "Like of @TranslatedCats's tweet" ],
     "published" : [ "2022-08-27T22:22:00+0100" ],
     "category" : [ "cute" ],
