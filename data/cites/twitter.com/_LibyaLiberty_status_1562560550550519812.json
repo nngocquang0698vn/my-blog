@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Brian Lynch" ],
+          "nickname" : [ "BrianLynch" ],
+          "numeric-id" : [ "14973377" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1407456856042139649/L749PZ_a.jpg" ],
+          "published" : [ "2008-06-01T18:00:34+00:00" ],
+          "uid" : [ "tag:twitter.com:BrianLynch" ],
+          "url" : [ "https://twitter.com/BrianLynch", "https://www.scholastic.com/kids/book/toy-academy-by-brian-lynch/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Are there people AGAINST student loan debt relief?  Why would anyone be against that?" ],
+      "published" : [ "2022-08-24T21:57:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1562559732405022720" ],
+      "url" : [ "https://twitter.com/BrianLynch/status/1562559732405022720" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "at the kitchen table" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hend Amry" ],
+        "nickname" : [ "LibyaLiberty" ],
+        "numeric-id" : [ "254873869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1359876318624677888/uMwW3DFi.jpg" ],
+        "published" : [ "2011-02-20T05:27:22+00:00" ],
+        "uid" : [ "tag:twitter.com:LibyaLiberty" ],
+        "url" : [ "https://twitter.com/LibyaLiberty", "http://libyaliberty.tumblr.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There’s a Libyan parable about a petty man who was offered a wish under the condition that his neighbor would get double so he asked to be blind in one eye." ],
+    "published" : [ "2022-08-24T22:00:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1562560550550519812" ],
+    "url" : [ "https://twitter.com/LibyaLiberty/status/1562560550550519812" ]
+  },
+  "type" : [ "h-entry" ]
+}
