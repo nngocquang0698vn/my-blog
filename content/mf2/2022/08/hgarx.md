@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PunishedLink/status/1563247797305892865" ],
     "name" : [ "Like of @PunishedLink's tweet" ],
     "published" : [ "2022-08-27T15:35:00+0100" ],
     "like-of" : [ "https://twitter.com/PunishedLink/status/1563247797305892865" ],
