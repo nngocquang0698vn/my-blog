@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CharlesGobert1/status/1563248154463518720" ],
     "name" : [ "Like of @CharlesGobert1's tweet" ],
     "published" : [ "2022-08-28T08:17:00+0100" ],
     "like-of" : [ "https://twitter.com/CharlesGobert1/status/1563248154463518720" ],
