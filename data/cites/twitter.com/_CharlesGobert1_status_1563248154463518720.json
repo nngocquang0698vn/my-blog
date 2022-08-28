@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charles Gobert" ],
+        "nickname" : [ "CharlesGobert1" ],
+        "numeric-id" : [ "1109310577715892224" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415103378888216578/jFkIgHTG.jpg" ],
+        "published" : [ "2019-03-23T04:27:06+00:00" ],
+        "uid" : [ "tag:twitter.com:CharlesGobert1" ],
+        "url" : [ "https://twitter.com/CharlesGobert1" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You’re projecting your insecurities\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Tyr19871\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ateenyalien\"></a>",
+      "value" : "You’re projecting your insecurities"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Tyr19871/status/1562810404996513797" ],
+    "published" : [ "2022-08-26T19:32:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1563248154463518720" ],
+    "url" : [ "https://twitter.com/CharlesGobert1/status/1563248154463518720" ]
+  },
+  "type" : [ "h-entry" ]
+}
