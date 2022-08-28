@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/feedthedrummer/status/1563847198110060544" ],
     "name" : [ "Like of @feedthedrummer's tweet" ],
     "published" : [ "2022-08-28T17:49:00+0100" ],
     "like-of" : [ "https://twitter.com/feedthedrummer/status/1563847198110060544" ],
