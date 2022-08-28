@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/notreallyjcm/status/1563307956766011395" ],
     "name" : [ "Like of @notreallyjcm's tweet" ],
     "published" : [ "2022-08-28T08:18:00+0100" ],
     "like-of" : [ "https://twitter.com/notreallyjcm/status/1563307956766011395" ],
