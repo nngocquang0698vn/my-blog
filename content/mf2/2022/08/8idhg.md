@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1563781235960414208" ],
     "published" : [ "2022-08-28T07:41:00+0100" ],
     "category" : [ "coronavirus" ],
     "repost-of" : [ "https://twitter.com/meshe/status/1563574934143926272" ],
