@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abskhir/status/1563360419208925184" ],
     "name" : [ "Like of @abskhir's tweet" ],
     "published" : [ "2022-08-28T07:35:00+0100" ],
     "like-of" : [ "https://twitter.com/abskhir/status/1563360419208925184" ],
