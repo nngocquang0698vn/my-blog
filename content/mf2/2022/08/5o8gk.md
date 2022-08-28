@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kvlly/status/1563993011343745027" ],
     "name" : [ "Like of @kvlly's tweet" ],
     "published" : [ "2022-08-28T22:26:00+0100" ],
     "category" : [ "cors" ],
