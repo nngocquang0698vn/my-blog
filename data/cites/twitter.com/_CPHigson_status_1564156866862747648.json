@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "cphigson@gmail.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charlie Higson" ],
+        "nickname" : [ "CPHigson" ],
+        "numeric-id" : [ "1876653788" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1155567614229397505/bspRN7g8.jpg" ],
+        "published" : [ "2013-09-17T19:33:20+00:00" ],
+        "uid" : [ "tag:twitter.com:CPHigson" ],
+        "url" : [ "https://twitter.com/CPHigson", "https://heckifiknowcomics.tumblr.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Why?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ouchmyfeets\"></a>",
+      "value" : "Why?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ouchmyfeets/status/1564156548212936704" ],
+    "published" : [ "2022-08-29T07:43:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1564156866862747648" ],
+    "url" : [ "https://twitter.com/CPHigson/status/1564156866862747648" ]
+  },
+  "type" : [ "h-entry" ]
+}
