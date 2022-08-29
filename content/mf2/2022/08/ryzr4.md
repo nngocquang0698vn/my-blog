@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/i8br/status/1564049814932918273" ],
     "name" : [ "Like of @i8br's tweet" ],
     "published" : [ "2022-08-29T16:17:00+0100" ],
     "like-of" : [ "https://twitter.com/i8br/status/1564049814932918273" ],
