@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sunnydaejones/status/1562604389743083530" ],
     "name" : [ "Like of @sunnydaejones's tweet" ],
     "published" : [ "2022-08-29T15:47:00+0100" ],
     "category" : [ "politics" ],
