@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CPHigson/status/1564155694533730304" ],
     "name" : [ "Like of @CPHigson's tweet" ],
     "published" : [ "2022-08-29T09:55:00+0100" ],
     "category" : [ "the-boys" ],
