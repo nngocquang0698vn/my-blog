@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theofficetv/status/1564659377684246528" ],
     "name" : [ "Like of @theofficetv's tweet" ],
     "published" : [ "2022-08-30T19:41:00+0100" ],
     "like-of" : [ "https://twitter.com/theofficetv/status/1564659377684246528" ],
