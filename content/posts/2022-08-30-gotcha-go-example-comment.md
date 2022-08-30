@@ -1,5 +1,5 @@
 ---
-title: "Gotcha: testable examples in go need an `output` comment"
+title: "Gotcha: testable examples in Go need an `output` comment"
 description: "Beware that your Go `Example` tests may not actually be running."
 date: "2022-08-30T09:20:36+0100"
 syndication:
@@ -38,3 +38,19 @@ This is the crux of this post - if you don't have this `output:` line, your test
 I found this when working through a few internal libraries, and noticed that by changing functionality in the tests - that were designed to make them fail - I saw no errors.
 
 The solution is to make sure that you're always asserting on the `output:` of an example test, but trying to remember that all the time is difficult, so I've [raised this upstream at `golangci-lint`](https://github.com/golangci/golangci-lint/issues/3084) as something we may want to surface in linting. And lo and behold, someone has already prepared a check for it - Open Source is great!
+
+An additional gotcha is that you need to make sure that your comments have a newline between them - for instance the following won't work:
+
+```go
+func ExampleParseAcceptHeaders() {
+	parsed := contentnegotiation.ParseAcceptHeaders("text/html", "application/json")
+	for _, mt := range parsed {
+		fmt.Println(mt.String())
+	}
+
+	// this won't actually work, because the output is inside another command - this needs a newline breaking the comments
+	// output:
+	// text/html
+	// application/json
+}
+```
