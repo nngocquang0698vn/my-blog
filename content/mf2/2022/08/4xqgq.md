@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LifeOfBurr/status/1564404070277959682" ],
     "name" : [ "Like of @LifeOfBurr's tweet" ],
     "published" : [ "2022-08-30T22:56:00+0100" ],
     "like-of" : [ "https://twitter.com/LifeOfBurr/status/1564404070277959682" ],
