@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/goinggodotnet/status/1564253279164456960" ],
     "name" : [ "Like of @goinggodotnet's tweet" ],
     "published" : [ "2022-08-30T10:57:00+0100" ],
     "category" : [ "go" ],
