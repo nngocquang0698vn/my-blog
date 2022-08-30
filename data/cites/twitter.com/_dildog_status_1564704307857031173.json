@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DilDog" ],
+        "nickname" : [ "dildog" ],
+        "numeric-id" : [ "14159456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1548808456471289867/hB8zO-Vj.jpg" ],
+        "published" : [ "2008-03-16T21:15:31+00:00" ],
+        "uid" : [ "tag:twitter.com:dildog" ],
+        "url" : [ "https://twitter.com/dildog", "http://www.cultdeadcow.com", "http://hack.xxx" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "are you an audiophile or an AUDIOPHILE" ],
+    "photo" : [ {
+      "alt" : "sennheiser skp-100 butt plug plug-on transmitter",
+      "value" : "https://pbs.twimg.com/media/FbbyCpYX0AA-ZGD.png"
+    } ],
+    "published" : [ "2022-08-30T19:59:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1564704307857031173" ],
+    "url" : [ "https://twitter.com/dildog/status/1564704307857031173" ]
+  },
+  "type" : [ "h-entry" ]
+}
