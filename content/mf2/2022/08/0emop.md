@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tauriqmoosa/status/1564544526076739585" ],
     "name" : [ "Like of @tauriqmoosa's tweet" ],
     "published" : [ "2022-08-30T11:54:00+0100" ],
     "category" : [ "cryptocurrency" ],
