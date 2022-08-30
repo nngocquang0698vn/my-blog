@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LeonZucchini/status/1564549460264468483" ],
     "name" : [ "Like of @LeonZucchini's tweet" ],
     "published" : [ "2022-08-30T21:43:00+0100" ],
     "like-of" : [ "https://twitter.com/LeonZucchini/status/1564549460264468483" ],
