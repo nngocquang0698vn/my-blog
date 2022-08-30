@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ctrlshifti/status/1564219142848163840" ],
     "name" : [ "Like of @ctrlshifti's tweet" ],
     "published" : [ "2022-08-30T07:29:00+0100" ],
     "category" : [ "salary", "politics" ],
