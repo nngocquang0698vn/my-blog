@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vienna, Austria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Manuel Matuzović" ],
+        "nickname" : [ "mmatuzo" ],
+        "numeric-id" : [ "22161724" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4.jpg" ],
+        "published" : [ "2009-02-27T17:09:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mmatuzo" ],
+        "url" : [ "https://twitter.com/mmatuzo", "http://www.matuzo.at", "http://wien.gv.at" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“oh my god your wrapper class is like so 2021”\n\nCodePen: <a href=\"https://codepen.io/matuzo/pen/qBoeMYg\">codepen.io/matuzo/pen/qBo…</a>\nh/t <a href=\"https://twitter.com/ChallengesCss\">@ChallengesCss</a></div>",
+      "value" : "“oh my god your wrapper class is like so 2021”\n\nCodePen: codepen.io/matuzo/pen/qBo…\nh/t @ChallengesCss"
+    } ],
+    "photo" : [ {
+      "alt" : "/* Boomer wrapper class */\n.wrapper {\n  max-width: 64rem;\n  margin: 0 auto;\n  width: 100%;\n}\n\n/* lit wrapper class */\n.wrapper🔥 {\n  width: min(100%, 64rem);\n  margin-inline: auto;\n}\n\n/* tripple lit wrapper class */\n.wrapper🔥🔥🔥 {\n  margin-inline: max(0px, ((100% - 64rem) / 2)); \n}\n\n\n/* *Don't use emojis in class names in production */",
+      "value" : "https://pbs.twimg.com/media/FbbI0TAXkAMruab.jpg"
+    } ],
+    "published" : [ "2022-08-30T16:58:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1564658925256990722" ],
+    "url" : [ "https://twitter.com/mmatuzo/status/1564658925256990722" ]
+  },
+  "type" : [ "h-entry" ]
+}
