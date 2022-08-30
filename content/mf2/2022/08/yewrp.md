@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/troyhunt/status/1564715155765612544" ],
     "name" : [ "Like of @troyhunt's tweet" ],
     "published" : [ "2022-08-30T21:44:00+0100" ],
     "like-of" : [ "https://twitter.com/troyhunt/status/1564715155765612544" ],
