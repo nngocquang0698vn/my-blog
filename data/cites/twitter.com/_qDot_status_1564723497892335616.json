@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "El Cerrito, CA (SF Bay Area)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "qdot" ],
+        "nickname" : [ "qDot" ],
+        "numeric-id" : [ "770318" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484358109954859010/0zx_A-L9.jpg" ],
+        "published" : [ "2007-02-13T19:13:38+00:00" ],
+        "uid" : [ "tag:twitter.com:qDot" ],
+        "url" : [ "https://twitter.com/qDot", "https://kyle.machul.is", "http://nonpolynomial.com", "http://patreon.com/qdot" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I HAD NOT\n\nNOT ONCE</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dildog\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kraln\"></a>",
+      "value" : "I HAD NOT\n\nNOT ONCE"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kraln/status/1564711883734745091" ],
+    "published" : [ "2022-08-30T21:15:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1564723497892335616" ],
+    "url" : [ "https://twitter.com/qDot/status/1564723497892335616" ]
+  },
+  "type" : [ "h-entry" ]
+}
