@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DrJessicaLanger/status/1561550784407293952" ],
     "name" : [ "Like of @DrJessicaLanger's tweet" ],
     "published" : [ "2022-08-30T13:39:00+0100" ],
     "like-of" : [ "https://twitter.com/DrJessicaLanger/status/1561550784407293952" ],
