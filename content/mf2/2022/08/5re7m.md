@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/guy_freire/status/1564068428331229187" ],
     "name" : [ "Like of @guy_freire's tweet" ],
     "published" : [ "2022-08-30T07:45:00+0100" ],
     "like-of" : [ "https://twitter.com/guy_freire/status/1564068428331229187" ],
