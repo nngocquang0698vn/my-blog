@@ -1,17 +1,17 @@
 ---
 title: "Gotcha: testable examples in go need an `output` comment"
 description: "Beware that your Go `Example` tests may not actually be running."
-date: 2022-08-30T09:20:36+0100
+date: "2022-08-30T09:20:36+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1564531464150073345"
 tags:
 - "go"
 - "testing"
-- blogumentation
+- "blogumentation"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
-slug: gotcha-go-example-comment
+slug: "gotcha-go-example-comment"
 ---
 One thing I really like about building libraries in Go is that you can create [testable examples](https://go.dev/blog/examples) as a first-class citizen of the testing framework. This allows writing example code in the repository in a way that can make sure that expected use cases are always valid and do not break, but because it's annotated as an example test case, it then gets surfaced in documentation as examples.
 
