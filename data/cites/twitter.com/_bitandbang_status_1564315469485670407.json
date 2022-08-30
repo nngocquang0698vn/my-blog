@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Mountain View" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Y Combinator" ],
+          "nickname" : [ "ycombinator" ],
+          "numeric-id" : [ "113130846" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe.jpg" ],
+          "published" : [ "2010-02-10T20:20:37+00:00" ],
+          "uid" : [ "tag:twitter.com:ycombinator" ],
+          "url" : [ "https://twitter.com/ycombinator", "http://ycombinator.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Today we're excited to announce that Garry Tan will be YC's next president and CEO. \n\nWelcome home, <a href=\"https://twitter.com/garrytan\">@garrytan</a>.\n<a href=\"https://www.ycombinator.com/blog/welcome-home-garry-tan\">ycombinator.com/blog/welcome-h…</a></div>",
+        "value" : "Today we're excited to announce that Garry Tan will be YC's next president and CEO. \n\nWelcome home, @garrytan.\nycombinator.com/blog/welcome-h…"
+      } ],
+      "published" : [ "2022-08-29T13:05:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1564237748008992769" ],
+      "url" : [ "https://twitter.com/ycombinator/status/1564237748008992769" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517668176431132673/KXQdgb9H.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "already ahead of the game I guess lmao " ],
+    "photo" : [ {
+      "alt" : "Screenshot of “@garrytan blocked you” on iOS",
+      "value" : "https://pbs.twimg.com/media/FbWQoMbXkAADxi8.jpg"
+    } ],
+    "published" : [ "2022-08-29T18:14:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1564315469485670407" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1564315469485670407" ]
+  },
+  "type" : [ "h-entry" ]
+}
