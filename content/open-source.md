@@ -5,6 +5,7 @@ There are a few Free and Open Source projects that I maintain:
 
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen)
 - [Wiremock](https://github.com/wiremock/wiremock)
+- [openapi-doc-http-handler](https://gitlab.com/jamietanna/openapi-doc-http-handler)
 - [content-negotiation-go](https://gitlab.com/jamietanna/content-negotiation-go)
 - [content-negotiation-test-cases](https://gitlab.com/jamietanna/content-negotiation-test-cases)
 - [Spectral Test Harness](https://gitlab.com/jamietanna/spectral-test-harness)
