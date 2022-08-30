@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yajiinais/status/1564448329395851265" ],
     "name" : [ "Like of @yajiinais's tweet" ],
     "published" : [ "2022-08-30T19:40:00+0100" ],
     "like-of" : [ "https://twitter.com/yajiinais/status/1564448329395851265" ],
