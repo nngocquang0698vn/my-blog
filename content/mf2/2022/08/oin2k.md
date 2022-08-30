@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bestffxivplayer/status/1564376813756977155" ],
     "name" : [ "Like of @bestffxivplayer's tweet" ],
     "published" : [ "2022-08-30T21:43:00+0100" ],
     "like-of" : [ "https://twitter.com/bestffxivplayer/status/1564376813756977155" ],
