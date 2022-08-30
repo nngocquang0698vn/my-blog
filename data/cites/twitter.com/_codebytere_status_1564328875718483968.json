@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "shelley" ],
+        "nickname" : [ "codebytere" ],
+        "numeric-id" : [ "3370776527" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417957152782790660/pV43lotJ.jpg" ],
+        "published" : [ "2015-07-11T13:42:27+00:00" ],
+        "uid" : [ "tag:twitter.com:codebytere" ],
+        "url" : [ "https://twitter.com/codebytere", "http://codebyte.re" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "guy definitely used a blocklist bc same\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>",
+      "value" : "guy definitely used a blocklist bc same"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bitandbang/status/1564315469485670407" ],
+    "published" : [ "2022-08-29T19:07:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1564328875718483968" ],
+    "url" : [ "https://twitter.com/codebytere/status/1564328875718483968" ]
+  },
+  "type" : [ "h-entry" ]
+}
