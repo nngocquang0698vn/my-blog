@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami, FL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "William (Bill) Kennedy" ],
+        "nickname" : [ "goinggodotnet" ],
+        "numeric-id" : [ "1681855874" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1540346469626122240/qWibiKBb.jpg" ],
+        "published" : [ "2013-08-18T23:22:34+00:00" ],
+        "uid" : [ "tag:twitter.com:goinggodotnet" ],
+        "url" : [ "https://twitter.com/goinggodotnet", "http://www.ArdanLabs.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If have a general <a href=\"https://twitter.com/search?q=%23golang\">#golang</a> rule for the following code snippet.\n\nI like the first call to Claim over the second.\n\nGeneral Rule:\nWhen the API is only returning an error value and you are not using the short variable declaration operator ( := ), question the choice.</div>",
+      "value" : "If have a general #golang rule for the following code snippet.\n\nI like the first call to Claim over the second.\n\nGeneral Rule:\nWhen the API is only returning an error value and you are not using the short variable declaration operator ( := ), question the choice."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FbVXHnMXEAAqeVK.jpg" ],
+    "published" : [ "2022-08-29T14:06:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1564253279164456960" ],
+    "url" : [ "https://twitter.com/goinggodotnet/status/1564253279164456960" ]
+  },
+  "type" : [ "h-entry" ]
+}
