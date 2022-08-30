@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TigNotaro/status/1564265256435666944" ],
     "name" : [ "Like of @TigNotaro's tweet" ],
     "published" : [ "2022-08-30T07:23:00+0100" ],
     "like-of" : [ "https://twitter.com/TigNotaro/status/1564265256435666944" ],
