@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "South East, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Peter O'Shaughnessy" ],
+          "nickname" : [ "poshaughnessy" ],
+          "numeric-id" : [ "15834137" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1198274806757625857/k2QhECLD.jpg" ],
+          "published" : [ "2008-08-13T07:34:09+00:00" ],
+          "uid" : [ "tag:twitter.com:poshaughnessy" ],
+          "url" : [ "https://twitter.com/poshaughnessy", "https://peteroshaughnessy.com", "http://toot.cafe/@peter" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">👨‍💻 \"We don't bother testing in Firefox as hardly any of our customers still use it, according to Google Analytics\"\n\nMeanwhile... \n\n🚫 \"88% of Firefox users block GA\" \n\n<a href=\"https://plausible.io/blog/google-analytics-adblockers-missing-data#88-of-firefox-users-block-google-analytics\">plausible.io/blog/google-an…</a> \nHT <a href=\"https://twitter.com/simevidas\">@simevidas</a></div>",
+        "value" : "👨‍💻 \"We don't bother testing in Firefox as hardly any of our customers still use it, according to Google Analytics\"\n\nMeanwhile... \n\n🚫 \"88% of Firefox users block GA\" \n\nplausible.io/blog/google-an… \nHT @simevidas"
+      } ],
+      "published" : [ "2021-08-31T16:28:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1432742083450875907" ],
+      "url" : [ "https://twitter.com/poshaughnessy/status/1432742083450875907" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1496763164846927872/HQhKhxn9.png" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A reminder of this article from last year and why you shouldn’t rely on Google Analytics to conclude what browsers your users are using." ],
+    "published" : [ "2022-08-31T10:26:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1564922682545692677" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1564922682545692677" ]
+  },
+  "type" : [ "h-entry" ]
+}
