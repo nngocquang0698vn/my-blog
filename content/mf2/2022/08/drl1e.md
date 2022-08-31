@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/poshaughnessy/status/1432742083450875907" ],
     "name" : [ "Like of @poshaughnessy's tweet" ],
     "published" : [ "2022-08-31T14:07:00+0100" ],
     "like-of" : [ "https://twitter.com/poshaughnessy/status/1432742083450875907" ],
