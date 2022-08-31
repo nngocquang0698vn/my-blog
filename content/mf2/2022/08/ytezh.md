@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessejanderson/status/1565079170396622848" ],
     "name" : [ "Like of @jessejanderson's tweet" ],
     "published" : [ "2022-08-31T22:28:00+0100" ],
     "like-of" : [ "https://twitter.com/jessejanderson/status/1565079170396622848" ],
