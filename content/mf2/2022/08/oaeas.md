@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PlayApex/status/1564674739989123072" ],
     "name" : [ "Like of @PlayApex's tweet" ],
     "published" : [ "2022-08-31T14:03:00+0100" ],
     "category" : [ "apex-legends" ],
