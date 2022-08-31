@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "swyx 🌲 @CascadiaJS" ],
+        "nickname" : [ "swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "url" : [ "https://twitter.com/swyx", "https://swyx.io", "http://learninpublic.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">the keynote speakers' dilemma:\n\nbe opening speaker - have to wake up early\nbe closing speaker - have anxiety the entire day\n\nthere is no in between</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sarah_edo\"></a>",
+      "value" : "the keynote speakers' dilemma:\n\nbe opening speaker - have to wake up early\nbe closing speaker - have anxiety the entire day\n\nthere is no in between"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sarah_edo/status/1564839366207455232" ],
+    "published" : [ "2022-08-31T05:36:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1564849530096566272" ],
+    "url" : [ "https://twitter.com/swyx/status/1564849530096566272" ]
+  },
+  "type" : [ "h-entry" ]
+}
