@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1564932075190378496" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1564936931770875904" ],
     "photo" : [ {
       "alt" : "Two panel communism meme (in the style of Drake Hotline Bling meme) with the top image of Stalin being unimpressed about the text \"For You Page\", and underneath a happy Stalin with the text \"For Our Page\"",
       "photo" : "https://media.jvt.me/8efc68c959.jpeg"
