@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LiamThorpECHO/status/1565305304195252225" ],
     "name" : [ "Like of @LiamThorpECHO's tweet" ],
     "published" : [ "2022-09-01T18:37:00+0100" ],
     "like-of" : [ "https://twitter.com/LiamThorpECHO/status/1565305304195252225" ],
