@@ -1,0 +1,408 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "cloudflare" ],
+    "pk-num-likes" : [ "15" ],
+    "pk-num-reposts" : [ "1" ],
+    "pk-num-replies" : [ "6" ],
+    "url" : [ "https://aaronparecki.com/2022/08/31/12/cloudflare" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1565066923389267970", "https://micro.blog/aaronpk/13332356" ],
+    "published" : [ "2022-08-31T13:00:03-07:00" ],
+    "content" : [ {
+      "html" : "well I did my (very small) part and migrated my two websites off of Cloudflare today. I'm sure my origin server can handle the extra 26gb/mo of traffic itself just fine.",
+      "value" : "well I did my (very small) part and migrated my two websites off of Cloudflare today. I'm sure my origin server can handle the extra 26gb/mo of traffic itself just fine."
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ "https://aaronparecki.com/images/profile.jpg" ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.tchncs.de/users/Blort#likes/3141672" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "SELECT database *; DROP ALL;" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.tchncs.de/users/Blort" ]
+          },
+          "value" : "SELECT database *; DROP ALL;"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png SELECT database *; DROP ALL;"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://digitalcourage.social/users/mro#likes/146280" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marcus Rohrmoser 🌍" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://digitalcourage.social/users/mro" ]
+          },
+          "value" : "Marcus Rohrmoser 🌍"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Marcus Rohrmoser 🌍"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/users/dch#likes/888246" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "DevOops :flan_whmage:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://bsd.network/users/dch" ]
+          },
+          "value" : "DevOops :flan_whmage:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png DevOops :flan_whmage:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-14861600" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tomas Quinones" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/tomas_quinones" ]
+          },
+          "value" : "Tomas Quinones"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Tomas Quinones"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-16620874" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "loose aggregate of related concerns." ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/laprice" ]
+          },
+          "value" : "loose aggregate of related concerns."
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png loose aggregate of related concerns."
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-18870255" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ciaran McGhie" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/ciaran128" ]
+          },
+          "value" : "Ciaran McGhie"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ciaran McGhie"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-262762865" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "sandfcuk" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/sandfoxthat" ]
+          },
+          "value" : "sandfcuk"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png sandfcuk"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-160687830" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O’Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/whalecoiner" ]
+          },
+          "value" : "Charlie O’Hara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O’Hara"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-14462646" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "wobble walker" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/jelliclematt" ]
+          },
+          "value" : "wobble walker"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png wobble walker"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-698363" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Cam Pegg" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/campegg" ]
+          },
+          "value" : "Cam Pegg"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Cam Pegg"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-44549120" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Miles" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/mileszim" ]
+          },
+          "value" : "Miles"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Miles"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-843408660151844865" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tanver" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/T_H_Noman" ]
+          },
+          "value" : "Tanver"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Tanver"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-107722405" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Bob Allen, M.Sc." ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/BugBobPhoto" ]
+          },
+          "value" : "Bob Allen, M.Sc."
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Bob Allen, M.Sc."
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-1496961237669711872" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Russ Bain" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/RussBain4" ]
+          },
+          "value" : "Russ Bain"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Russ Bain"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1565066923389267970#favorited-by-2254315993" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tanay Pant" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/tanay1337" ]
+          },
+          "value" : "Tanay Pant"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Tanay Pant"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/whalecoiner/status/1565071618313003017" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O’Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/whalecoiner" ]
+          },
+          "value" : "Charlie O’Hara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O’Hara"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://pine.blog/u/sonicrocketman/archive/899dd1d2-d46a-418d-9f91-3d74976c5baa" ],
+        "published" : [ "2022-08-31T13:25:52-07:00" ],
+        "content" : [ {
+          "html" : "<p>Oh no. What did Cloudflare do now?</p>",
+          "value" : "Oh no. What did Cloudflare do now?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "sonicrocketman" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://pine.blog/u/sonicrocketman" ]
+          },
+          "value" : "sonicrocketman"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png sonicrocketman pine.blog/u/sonicrocketman\nOh no. What did Cloudflare do now? Wed, Aug 31, 2022 1:25pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "https://twitter.com/VogonPoetrySlam" ],
+        "url" : [ "https://twitter.com/aaronpk/status/1565070240286789633" ],
+        "published" : [ "2022-08-31T20:13:17+00:00" ],
+        "content" : [ {
+          "html" : "I haven't looked around much yet but I'm sure there are plenty of options. I figured I'd flip this switch off and wait a couple weeks and if it becomes a problem I'll investigate more.\n<a class=\"u-mention\" href=\"https://twitter.com/VogonPoetrySlam\" rel=\"nofollow\"></a>",
+          "value" : "I haven't looked around much yet but I'm sure there are plenty of options. I figured I'd flip this switch off and wait a couple weeks and if it becomes a problem I'll investigate more."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Parecki" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/aaronpk" ]
+          },
+          "value" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Parecki twitter.com/aaronpk I haven't looked around much yet but I'm sure there are plenty of options. I figured I'd flip this switch off and wait a couple weeks and if it becomes a problem I'll investigate more. Wed, Aug 31, 2022 8:13pm +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/VogonPoetrySlam/status/1565068842803421184" ],
+        "published" : [ "2022-08-31T20:07:44+00:00" ],
+        "content" : [ {
+          "html" : "Any suggestions for a solid alternative to Cloudflare if we still need that kind of a service?\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Any suggestions for a solid alternative to Cloudflare if we still need that kind of a service?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Josh" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/VogonPoetrySlam" ]
+          },
+          "value" : "Josh"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Josh twitter.com/VogonPoetrySlam Any suggestions for a solid alternative to Cloudflare if we still need that kind of a service? Wed, Aug 31, 2022 8:07pm +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "https://twitter.com/ColtonIdle" ],
+        "url" : [ "https://twitter.com/aaronpk/status/1565068221396398080" ],
+        "published" : [ "2022-08-31T20:05:16+00:00" ],
+        "content" : [ {
+          "html" : "&#x1F62C; \n\n<a href=\"https://twitter.com/search?q=cloudflare\" rel=\"nofollow\">twitter.com/search?q=cloud&#x2026;</a> \n\n<a href=\"https://www.google.com/search?q=cloudflare&amp;tbm=nws\" rel=\"nofollow\">google.com/search?q=cloud&#x2026;</a>\n\n<a class=\"u-mention\" href=\"https://twitter.com/ColtonIdle\" rel=\"nofollow\"></a>",
+          "value" : "😬 twitter.com/search?q=cloud… google.com/search?q=cloud…"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Parecki" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/aaronpk" ]
+          },
+          "value" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Parecki twitter.com/aaronpk 😬 twitter.com/search?q=cloud… google.com/search?q=cloud… Wed, Aug 31, 2022 8:05pm +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@dch/108919276565644018" ],
+        "published" : [ "2022-08-31T20:04:26+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\" rel=\"nofollow\">@<span>aaronpk</span></a></span> awesome! I did the same last week, and agreed with a customer to move too. Sadly none in the TB/sec range, but every message helps.</p>",
+          "value" : "@aaronpk awesome! I did the same last week, and agreed with a customer to move too. Sadly none in the TB/sec range, but every message helps."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Yak Herder" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://bsd.network/@dch" ]
+          },
+          "value" : "Yak Herder"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Yak Herder bsd.network/@dch\n@aaronpk awesome! I did the same last week, and agreed with a customer to move too. Sadly none in the TB/sec range, but every message helps. Wed, Aug 31, 2022 8:04pm +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/ColtonIdle/status/1565067415016378369" ],
+        "published" : [ "2022-08-31T20:02:03+00:00" ],
+        "content" : [ {
+          "html" : "what happened to cloudflare?\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "what happened to cloudflare?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Colton Idle" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/ColtonIdle" ]
+          },
+          "value" : "Colton Idle"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Colton Idle twitter.com/ColtonIdle what happened to cloudflare? Wed, Aug 31, 2022 8:02pm +00:00 (via brid.gy)"
+    } ]
+  }
+}
