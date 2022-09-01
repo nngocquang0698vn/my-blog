@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/flaxseedthot/status/1540320698299813890" ],
     "name" : [ "Like of @flaxseedthot's tweet" ],
     "published" : [ "2022-09-01T09:30:00+0100" ],
     "like-of" : [ "https://twitter.com/flaxseedthot/status/1540320698299813890" ],
