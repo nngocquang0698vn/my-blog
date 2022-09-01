@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LeftyBesty/status/1565136440983527426" ],
     "name" : [ "Like of @LeftyBesty's tweet" ],
     "published" : [ "2022-09-01T07:43:00+0100" ],
     "like-of" : [ "https://twitter.com/LeftyBesty/status/1565136440983527426" ],
