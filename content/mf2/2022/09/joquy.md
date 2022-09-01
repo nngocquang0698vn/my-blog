@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/janl/status/1565227705934700545" ],
     "name" : [ "Like of @janl's tweet" ],
     "published" : [ "2022-09-01T07:42:00+0100" ],
     "like-of" : [ "https://twitter.com/janl/status/1565227705934700545" ],
