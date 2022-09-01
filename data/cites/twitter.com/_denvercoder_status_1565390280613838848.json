@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Fred Schultz" ],
+          "nickname" : [ "FredSchultz35" ],
+          "numeric-id" : [ "1477610346588381184" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1477617963029217285/CF4aU66G.jpg" ],
+          "published" : [ "2022-01-02T11:59:13+00:00" ],
+          "uid" : [ "tag:twitter.com:FredSchultz35" ],
+          "url" : [ "https://twitter.com/FredSchultz35" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Oh come on! 😳🤯🔥" ],
+      "published" : [ "2022-08-31T19:20:30+00:00" ],
+      "uid" : [ "tag:twitter.com:1565056956628406280" ],
+      "url" : [ "https://twitter.com/FredSchultz35/status/1565056956628406280" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1565056752680321025/pu/vid/720x1280/aqMJ5tTRwoo7NbJi.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tim myers | Chief “Petty” Officer" ],
+        "nickname" : [ "denvercoder" ],
+        "numeric-id" : [ "3118810453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1544239582765514755/doJhzoxq.jpg" ],
+        "published" : [ "2015-03-30T22:56:14+00:00" ],
+        "uid" : [ "tag:twitter.com:denvercoder" ],
+        "url" : [ "https://twitter.com/denvercoder", "https://denvercoder.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Me bringing in 27 bags of groceries at once because I don't want to walk 10 feet back and forth from the car 2-3 times." ],
+    "published" : [ "2022-09-01T17:25:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1565390280613838848" ],
+    "url" : [ "https://twitter.com/denvercoder/status/1565390280613838848" ]
+  },
+  "type" : [ "h-entry" ]
+}
