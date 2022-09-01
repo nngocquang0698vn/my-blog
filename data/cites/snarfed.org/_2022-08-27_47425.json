@@ -1,0 +1,87 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2022-08-27_47425" ],
+    "syndication" : [ "https://twitter.com/schnarfed/status/1563661268560384000", "https://twitter.com/schnarfed/status/1563661268560384000" ],
+    "published" : [ "2022-08-27T15:54:30-07:00" ],
+    "content" : [ {
+      "html" : "<p>One key thing we&#x2019;ve learned about the human brain is that it&#x2019;s just like the rest of the body: every part of it can go wrong, in a million different ways. It&#x2019;s unlikely that the gender identity part is the one special case that always works perfectly and is 100% male or female.</p>",
+      "value" : "One key thing we’ve learned about the human brain is that it’s just like the rest of the body: every part of it can go wrong, in a million different ways. It’s unlikely that the gender identity part is the one special case that always works perfectly and is 100% male or female.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g" ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1563661268560384000#favorited-by-1321791" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "cynthia 🇺🇸" ],
+            "url" : [ "https://twitter.com/cynk" ]
+          },
+          "lang" : "en-US",
+          "value" : "cynthia 🇺🇸"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1563661268560384000#favorited-by-1321791"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1563661268560384000#favorited-by-14182218" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "zooko❤ⓩ🛡🦓🦓🦓" ],
+            "url" : [ "https://twitter.com/zooko" ]
+          },
+          "lang" : "en-US",
+          "value" : "zooko❤ⓩ🛡🦓🦓🦓"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1563661268560384000#favorited-by-14182218"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ "https://snarfed.org/ryan_profile_medium.jpg" ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ]
+    },
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-08-28T07:48:43-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Ryan Barrett" ],
+          "url" : [ "https://snarfed.org/" ]
+        },
+        "lang" : "en-US",
+        "value" : "Ryan Barrett"
+      } ]
+    },
+    "lang" : "en-US"
+  } ]
+}
