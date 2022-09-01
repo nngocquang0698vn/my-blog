@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Lehnardt" ],
+        "nickname" : [ "janl" ],
+        "numeric-id" : [ "819606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151406614752169984/pJdsa0mM.png" ],
+        "published" : [ "2007-03-07T21:36:26+00:00" ],
+        "uid" : [ "tag:twitter.com:janl" ],
+        "url" : [ "https://twitter.com/janl", "https://neighbourhood.ie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All those edge computing enthusiasts are mighty quiet about CloudFlare this week. I wonder why that is." ],
+    "published" : [ "2022-09-01T06:39:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1565227705934700545" ],
+    "url" : [ "https://twitter.com/janl/status/1565227705934700545" ]
+  },
+  "type" : [ "h-entry" ]
+}
