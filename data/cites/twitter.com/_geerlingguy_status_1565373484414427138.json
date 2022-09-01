@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "St. Louis, MO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Geerling" ],
+        "nickname" : [ "geerlingguy" ],
+        "numeric-id" : [ "15481850" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1036035391101386752/GNglMMFb.jpg" ],
+        "published" : [ "2008-07-18T15:07:06+00:00" ],
+        "uid" : [ "tag:twitter.com:geerlingguy" ],
+        "url" : [ "https://twitter.com/geerlingguy", "https://www.jeffgeerling.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Great, now my office is trying to kill me while I record a video." ],
+    "published" : [ "2022-09-01T16:18:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1565373484414427138" ],
+    "url" : [ "https://twitter.com/geerlingguy/status/1565373484414427138" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1565373437970976768/pu/vid/1280x720/aKK3IadsPtOVr4yE.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
