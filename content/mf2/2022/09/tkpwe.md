@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1565630080570859520" ],
     "photo" : [ {
       "alt" : "Black cat (Morph) lying on Jamie's standing desk, in an upright position, with his paws (painfully) kneading Jamie's belly",
       "photo" : "https://media.jvt.me/6f9f424404.jpeg"
