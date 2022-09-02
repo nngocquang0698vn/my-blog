@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/ahx/openapi_first/stargazers" ],
     "published" : [ "2022-09-02T08:23:00+0100" ],
     "category" : [ "ruby", "openapi" ],
     "like-of" : [ "https://github.com/ahx/openapi_first" ],
