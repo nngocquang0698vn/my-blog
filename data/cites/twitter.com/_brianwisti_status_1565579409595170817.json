@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What am I doing? Does TDD even make sense writing Terraform code?\n\nWell of course. That's what they get for calling it a programming language.</div>",
+      "value" : "What am I doing? Does TDD even make sense writing Terraform code?\n\nWell of course. That's what they get for calling it a programming language."
+    } ],
+    "photo" : [ {
+      "alt" : "Simpsons Skinner \"Am I So Out of Touch? No, it's the children who are wrong\" meme, without captions — to imply my words are an equivalent internal debate. ",
+      "value" : "https://pbs.twimg.com/media/FboOKX2WIAA5ep0.jpg"
+    } ],
+    "published" : [ "2022-09-02T05:56:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1565579409595170817" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1565579409595170817" ]
+  },
+  "type" : [ "h-entry" ]
+}
