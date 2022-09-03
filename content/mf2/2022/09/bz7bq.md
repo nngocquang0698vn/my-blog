@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shafikyaghmour/status/1565779886999908352" ],
     "name" : [ "Like of @shafikyaghmour's tweet" ],
     "published" : [ "2022-09-03T11:05:00+0100" ],
     "category" : [ "technical-writing" ],
