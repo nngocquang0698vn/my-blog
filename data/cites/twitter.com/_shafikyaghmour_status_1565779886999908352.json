@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cupertino, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shafik Yaghmour" ],
+        "nickname" : [ "shafikyaghmour" ],
+        "numeric-id" : [ "85827090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1200601050694082560/w4NubWzl.jpg" ],
+        "published" : [ "2009-10-28T14:19:02+00:00" ],
+        "uid" : [ "tag:twitter.com:shafikyaghmour" ],
+        "url" : [ "https://twitter.com/shafikyaghmour", "https://shafik.github.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Technical writing. \n\nThis effects so much: you code comments, your PR descriptions, your commit messages, your code review interactions, design documents, blog posts etc\n\nIt circles back too ... do I know this well enough to explain this clearly and concisely.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pati_gallardo\"></a>",
+      "value" : "Technical writing. \n\nThis effects so much: you code comments, your PR descriptions, your commit messages, your code review interactions, design documents, blog posts etc\n\nIt circles back too ... do I know this well enough to explain this clearly and concisely."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/pati_gallardo/status/1565774247741558784" ],
+    "published" : [ "2022-09-02T19:13:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1565779886999908352" ],
+    "url" : [ "https://twitter.com/shafikyaghmour/status/1565779886999908352" ]
+  },
+  "type" : [ "h-entry" ]
+}
