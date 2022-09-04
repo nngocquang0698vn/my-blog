@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "LONDON" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "DUA LIPA" ],
+          "nickname" : [ "DUALIPA" ],
+          "numeric-id" : [ "154101116" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1243465670454632449/Gm06laC1.jpg" ],
+          "published" : [ "2010-06-10T11:04:31+00:00" ],
+          "uid" : [ "tag:twitter.com:DUALIPA" ],
+          "url" : [ "https://twitter.com/DUALIPA", "https://calvinharris.lnk.to/Potion" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "The brighter the hair the closer to god" ],
+      "photo" : [ "https://pbs.twimg.com/media/EaTy161XQAErMvz.jpg" ],
+      "published" : [ "2020-06-12T11:44:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1271408017196679168" ],
+      "url" : [ "https://twitter.com/DUALIPA/status/1271408017196679168" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "yas 🍄" ],
+        "nickname" : [ "glamourbih" ],
+        "numeric-id" : [ "1148793736597364738" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1557810849003122688/B7GOisZW.jpg" ],
+        "published" : [ "2019-07-10T03:19:05+00:00" ],
+        "uid" : [ "tag:twitter.com:glamourbih" ],
+        "url" : [ "https://twitter.com/glamourbih" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Nobody :\n\nGermany: 1939 - 1945</div>",
+      "value" : "Nobody :\n\nGermany: 1939 - 1945"
+    } ],
+    "published" : [ "2020-06-12T22:47:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1271574886675124224" ],
+    "url" : [ "https://twitter.com/glamourbih/status/1271574886675124224" ]
+  },
+  "type" : [ "h-entry" ]
+}
