@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/glamourbih/status/1271574886675124224" ],
     "name" : [ "Like of @glamourbih's tweet" ],
     "published" : [ "2022-09-04T13:31:00+0100" ],
     "like-of" : [ "https://twitter.com/glamourbih/status/1271574886675124224" ],
