@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hayden Clarkin" ],
+        "nickname" : [ "the_transit_guy" ],
+        "numeric-id" : [ "120924076" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518041264037445633/0VN77Pob.jpg" ],
+        "published" : [ "2010-03-08T00:45:03+00:00" ],
+        "uid" : [ "tag:twitter.com:the_transit_guy" ],
+        "url" : [ "https://twitter.com/the_transit_guy", "http://thetransitguy.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is better than four parked cars." ],
+    "photo" : [ "https://pbs.twimg.com/media/FbwA0FpXwAMAVlF.jpg" ],
+    "published" : [ "2022-09-03T18:15:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1566127670613745664" ],
+    "url" : [ "https://twitter.com/the_transit_guy/status/1566127670613745664" ]
+  },
+  "type" : [ "h-entry" ]
+}
