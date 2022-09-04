@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Westminster" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Guy Fawkes" ],
+        "nickname" : [ "blunted_james" ],
+        "numeric-id" : [ "1039883660319752192" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1451648836275933188/HPqSoDzC.jpg" ],
+        "published" : [ "2018-09-12T14:29:19+00:00" ],
+        "uid" : [ "tag:twitter.com:blunted_james" ],
+        "url" : [ "https://twitter.com/blunted_james" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Christ you’ve tweeted about 50 times about it. Properly rattled you didn’t he.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RobBurl\"></a>",
+      "value" : "Christ you’ve tweeted about 50 times about it. Properly rattled you didn’t he."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RobBurl/status/1566476781472960515" ],
+    "published" : [ "2022-09-04T18:26:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1566492926104010753" ],
+    "url" : [ "https://twitter.com/blunted_james/status/1566492926104010753" ]
+  },
+  "type" : [ "h-entry" ]
+}
