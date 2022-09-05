@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Keith Townsend #CTOARoadTrip" ],
+        "nickname" : [ "CTOAdvisor" ],
+        "numeric-id" : [ "44388921" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1560008921783435264/p8dbxCPn.jpg" ],
+        "published" : [ "2009-06-03T16:05:07+00:00" ],
+        "uid" : [ "tag:twitter.com:CTOAdvisor" ],
+        "url" : [ "https://twitter.com/CTOAdvisor", "http://www.thectoadvisor.com", "http://linkedin.com/in/kltownsend", "http://youtube.com/thectoadvisor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What's the difference between an <a href=\"https://twitter.com/search?q=%23Opensource\">#Opensource</a> conference such as <a href=\"https://twitter.com/search?q=%23Kubecon\">#Kubecon</a> and a vendor-centric conference such as <a href=\"https://twitter.com/search?q=%23VMwareExplore\">#VMwareExplore</a>? Take it from <a href=\"https://twitter.com/kelseyhightower\">@kelseyhightower</a>, who delivered the keynote at both. \n<a href=\"https://twitter.com/search?q=%23CTOAdvisorStudio\">#CTOAdvisorStudio</a> \n\nFull Interview: <a href=\"https://youtu.be/7JYhq-p0eY8\">youtu.be/7JYhq-p0eY8</a></div>",
+      "value" : "What's the difference between an #Opensource conference such as #Kubecon and a vendor-centric conference such as #VMwareExplore? Take it from @kelseyhightower, who delivered the keynote at both. \n#CTOAdvisorStudio \n\nFull Interview: youtu.be/7JYhq-p0eY8"
+    } ],
+    "published" : [ "2022-09-05T01:53:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1566605450191155200" ],
+    "url" : [ "https://twitter.com/CTOAdvisor/status/1566605450191155200" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1566605151883800577/pu/vid/1920x1080/xxv-QrkbFtsZ4LFW.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
