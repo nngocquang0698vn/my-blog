@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/asiaholm/status/1566871786708402180" ],
     "name" : [ "Like of @asiaholm's tweet" ],
     "published" : [ "2022-09-06T15:38:00+0100" ],
     "like-of" : [ "https://twitter.com/asiaholm/status/1566871786708402180" ],
