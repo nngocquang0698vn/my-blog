@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1567101117426765825" ],
     "photo" : [ {
       "alt" : "A screenshot of an Android (13) notification with the top notification being a MyMcDonald's app notification with text, and below an empty notification, also from MyMcDonald's",
       "photo" : "https://media.jvt.me/b190d679b8.png"
