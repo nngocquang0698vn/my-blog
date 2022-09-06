@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wormwood_stars/status/1566935488140828676" ],
     "name" : [ "Like of @wormwood_stars's tweet" ],
     "published" : [ "2022-09-06T07:58:00+0100" ],
     "like-of" : [ "https://twitter.com/wormwood_stars/status/1566935488140828676" ],
