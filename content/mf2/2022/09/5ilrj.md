@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackemled/status/1566938892145754112" ],
     "name" : [ "Like of @jackemled's tweet" ],
     "published" : [ "2022-09-06T01:13:00+0100" ],
     "like-of" : [ "https://twitter.com/jackemled/status/1566938892145754112" ],
