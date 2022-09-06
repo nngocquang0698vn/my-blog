@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mohsen____/status/1566837054444650499" ],
     "name" : [ "Like of @mohsen____'s tweet" ],
     "published" : [ "2022-09-06T08:54:00+0100" ],
     "category" : [ "typescript" ],
