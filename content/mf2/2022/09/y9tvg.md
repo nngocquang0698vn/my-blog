@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NerdyWoffy/status/1566367596101771264" ],
     "name" : [ "Like of @NerdyWoffy's tweet" ],
     "published" : [ "2022-09-06T01:12:00+0100" ],
     "like-of" : [ "https://twitter.com/NerdyWoffy/status/1566367596101771264" ],
