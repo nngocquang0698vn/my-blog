@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mjmarrom/status/1566230413189828611" ],
     "name" : [ "Like of @mjmarrom's tweet" ],
     "published" : [ "2022-09-06T08:54:00+0100" ],
     "like-of" : [ "https://twitter.com/mjmarrom/status/1566230413189828611" ],
