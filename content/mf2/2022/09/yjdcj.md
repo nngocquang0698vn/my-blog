@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scottygb/status/1566748685341425664" ],
     "name" : [ "Like of @scottygb's tweet" ],
     "published" : [ "2022-09-06T01:06:00+0100" ],
     "like-of" : [ "https://twitter.com/scottygb/status/1566748685341425664" ],
