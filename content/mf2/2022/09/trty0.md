@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tabdido/status/1566775637821587458" ],
     "name" : [ "Like of @tabdido's tweet" ],
     "published" : [ "2022-09-06T13:29:00+0100" ],
     "like-of" : [ "https://twitter.com/tabdido/status/1566775637821587458" ],
