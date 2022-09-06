@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ivan Velichko" ],
+        "nickname" : [ "iximiuz" ],
+        "numeric-id" : [ "1432201304" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417581014273122314/2CBEkT0b.jpg" ],
+        "published" : [ "2013-05-16T05:13:13+00:00" ],
+        "uid" : [ "tag:twitter.com:iximiuz" ],
+        "url" : [ "https://twitter.com/iximiuz", "https://iximiuz.com/", "http://iximiuz.com/en/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What Is a Distroless Container Image? 🧵\n\nGo (programming language) is famous for its statically linked binaries. You can take a Go executable, drop it into a \"FROM scratch\" container, and call it a day.\n\nBut there might be a problem (keep reading) 👇</div>",
+      "value" : "What Is a Distroless Container Image? 🧵\n\nGo (programming language) is famous for its statically linked binaries. You can take a Go executable, drop it into a \"FROM scratch\" container, and call it a day.\n\nBut there might be a problem (keep reading) 👇"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fb53yR-XoAMfb_U.png" ],
+    "published" : [ "2022-09-05T16:36:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1566827552781524995" ],
+    "url" : [ "https://twitter.com/iximiuz/status/1566827552781524995" ]
+  },
+  "type" : [ "h-entry" ]
+}
