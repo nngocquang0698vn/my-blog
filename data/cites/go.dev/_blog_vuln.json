@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Vulnerability Management for Go - The Go Programming Language" ],
+    "summary" : [ "Announcing vulnerability management for Go, to help developers learn about known vulnerabilities in their dependencies." ],
+    "featured" : [ "https://go.dev/doc/gopher/gopher5logo.jpg" ],
+    "url" : [ "https://go.dev/blog/vuln" ]
+  }
+}
