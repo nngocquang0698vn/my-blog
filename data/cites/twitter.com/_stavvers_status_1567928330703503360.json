@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Metropolitan Police" ],
+          "nickname" : [ "metpoliceuk" ],
+          "numeric-id" : [ "66967746" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1567950120200671239/IDzU-Uxc.jpg" ],
+          "published" : [ "2009-08-19T10:41:21+00:00" ],
+          "uid" : [ "tag:twitter.com:metpoliceuk" ],
+          "url" : [ "https://twitter.com/metpoliceuk", "https://www.met.police.uk/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "'I would like to offer my heartfelt condolences to the family of Chris Kaba - The Metropolitan Police is co-operating fully with the independent Investigation by the IOPC.' - Commander Alexis Boon." ],
+      "published" : [ "2022-09-08T16:49:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1567918171243388929" ],
+      "url" : [ "https://twitter.com/metpoliceuk/status/1567918171243388929" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1567918072886960129/pu/vid/720x720/YYXOFYSHleGC7YR5.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vampire Castle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Another Angry Woman" ],
+        "nickname" : [ "stavvers" ],
+        "numeric-id" : [ "67319718" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/669599492296073216/kjShSAfJ.jpg" ],
+        "published" : [ "2009-08-20T13:53:10+00:00" ],
+        "uid" : [ "tag:twitter.com:stavvers" ],
+        "url" : [ "https://twitter.com/stavvers", "https://anotherangrywoman.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Met quietly tweeted this out about their killing a Black man in the hope everyone was looking elsewhere right now." ],
+    "published" : [ "2022-09-08T17:30:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1567928330703503360" ],
+    "url" : [ "https://twitter.com/stavvers/status/1567928330703503360" ]
+  },
+  "type" : [ "h-entry" ]
+}
