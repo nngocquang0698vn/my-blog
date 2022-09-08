@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DaniellePartis/status/1567478378567028738" ],
     "name" : [ "Like of @DaniellePartis's tweet" ],
     "published" : [ "2022-09-08T11:50:00+0100" ],
     "like-of" : [ "https://twitter.com/DaniellePartis/status/1567478378567028738" ],
