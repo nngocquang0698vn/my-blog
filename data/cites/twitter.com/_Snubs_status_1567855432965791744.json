@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "nilay patel" ],
+          "nickname" : [ "reckless" ],
+          "numeric-id" : [ "3496641" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/548935852051533824/r9MxISa-.jpeg" ],
+          "published" : [ "2007-04-05T06:32:55+00:00" ],
+          "uid" : [ "tag:twitter.com:reckless" ],
+          "url" : [ "https://twitter.com/reckless", "http://theverge.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">\"I don't hear our users asking that we put a lot of energy\" into RCS, says Tim Cook in response to a question at Code. \"I would love to convert you to an iPhone.\" \n\n\"I can't send my mom certain videos,\" says the questioner.\n\n\"Buy your mom an iPhone,\" says Tim.</div>",
+        "value" : "\"I don't hear our users asking that we put a lot of energy\" into RCS, says Tim Cook in response to a question at Code. \"I would love to convert you to an iPhone.\" \n\n\"I can't send my mom certain videos,\" says the questioner.\n\n\"Buy your mom an iPhone,\" says Tim."
+      } ],
+      "published" : [ "2022-09-08T03:18:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1567713870848086016" ],
+      "url" : [ "https://twitter.com/reckless/status/1567713870848086016" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shannon Morse" ],
+        "nickname" : [ "Snubs" ],
+        "numeric-id" : [ "14203895" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347644418862538756/VVYkBkia.jpg" ],
+        "published" : [ "2008-03-23T22:09:11+00:00" ],
+        "uid" : [ "tag:twitter.com:Snubs" ],
+        "url" : [ "https://twitter.com/Snubs", "https://www.youtube.com/shannonmorse" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What a privileged rich man answer.\n\nTim Cook / Apple don't care about E2EE across platforms. They just want your money.</div>",
+      "value" : "What a privileged rich man answer.\n\nTim Cook / Apple don't care about E2EE across platforms. They just want your money."
+    } ],
+    "published" : [ "2022-09-08T12:40:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1567855432965791744" ],
+    "url" : [ "https://twitter.com/Snubs/status/1567855432965791744" ]
+  },
+  "type" : [ "h-entry" ]
+}
