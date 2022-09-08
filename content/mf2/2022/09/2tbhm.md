@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stavvers/status/1567928330703503360" ],
     "name" : [ "Like of @stavvers's tweet" ],
     "published" : [ "2022-09-08T22:20:00+0100" ],
     "like-of" : [ "https://twitter.com/stavvers/status/1567928330703503360" ],
