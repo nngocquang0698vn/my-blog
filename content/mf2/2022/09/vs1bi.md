@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SectorWriter/status/1567842647615717377" ],
     "name" : [ "Like of @SectorWriter's tweet" ],
     "published" : [ "2022-09-08T13:50:00+0100" ],
     "like-of" : [ "https://twitter.com/SectorWriter/status/1567842647615717377" ],
