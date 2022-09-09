@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/michaelphigham/status/1568041192801341441" ],
     "name" : [ "Like of @michaelphigham's tweet" ],
     "published" : [ "2022-09-09T07:56:00+0100" ],
     "like-of" : [ "https://twitter.com/michaelphigham/status/1568041192801341441" ],
