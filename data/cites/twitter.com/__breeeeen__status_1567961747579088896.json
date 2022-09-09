@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Northern Virginia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Breen" ],
+        "nickname" : [ "_breeeeen_" ],
+        "numeric-id" : [ "476530679" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1545944747428249600/wGGcvB3F.jpg" ],
+        "published" : [ "2012-01-28T07:04:31+00:00" ],
+        "uid" : [ "tag:twitter.com:_breeeeen_" ],
+        "url" : [ "https://twitter.com/_breeeeen_", "https://breen.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The mood at Buckingham Palace is notably grim today" ],
+    "photo" : [ {
+      "alt" : "The San Francisco Armory. picture is during the twilight hours and the building has lights shining on it.",
+      "value" : "https://pbs.twimg.com/media/FcKEvuRWAAEb6gq.jpg"
+    } ],
+    "published" : [ "2022-09-08T19:43:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1567961747579088896" ],
+    "url" : [ "https://twitter.com/_breeeeen_/status/1567961747579088896" ]
+  },
+  "type" : [ "h-entry" ]
+}
