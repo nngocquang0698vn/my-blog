@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ToweringHills/status/1567905186395348995" ],
     "name" : [ "Like of @ToweringHills's tweet" ],
     "published" : [ "2022-09-09T11:15:00+0100" ],
     "like-of" : [ "https://twitter.com/ToweringHills/status/1567905186395348995" ],
