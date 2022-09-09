@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "TechAltar 🇺🇦" ],
+        "nickname" : [ "TechAltar" ],
+        "numeric-id" : [ "3257843402" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013830737559158784/Ir3iztA6.jpg" ],
+        "published" : [ "2015-06-27T14:30:53+00:00" ],
+        "uid" : [ "tag:twitter.com:TechAltar" ],
+        "url" : [ "https://twitter.com/TechAltar", "http://youtube.com/TechAltar" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Implementing RCS is trivially easy for Apple. The technology is already developed and handed to them on a silver platter. And implementing it would improve the user experience for both iOS and Android users in markets that rely on texting." ],
+    "in-reply-to" : [ "https://twitter.com/TechAltar/status/1567974167773065221" ],
+    "published" : [ "2022-09-08T20:32:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1567974169924751360" ],
+    "url" : [ "https://twitter.com/TechAltar/status/1567974169924751360" ]
+  },
+  "type" : [ "h-entry" ]
+}
