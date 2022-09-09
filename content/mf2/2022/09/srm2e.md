@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TechAltar/status/1567974169924751360" ],
     "name" : [ "Like of @TechAltar's tweet" ],
     "published" : [ "2022-09-09T11:18:00+0100" ],
     "like-of" : [ "https://twitter.com/TechAltar/status/1567974169924751360" ],
