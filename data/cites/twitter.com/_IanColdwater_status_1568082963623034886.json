@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Atlanta, GA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sherrod DeGrippo 📬" ],
+          "nickname" : [ "sherrod_im" ],
+          "numeric-id" : [ "88853117" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1535838828807827456/aN_zqfvU.jpg" ],
+          "published" : [ "2009-11-10T04:45:00+00:00" ],
+          "uid" : [ "tag:twitter.com:sherrod_im" ],
+          "url" : [ "https://twitter.com/sherrod_im", "http://sherrod.im" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Thinking about getting into InfoSec? Well I hope you enjoy being tired a lot." ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Atlanta, GA" ],
+          "uid" : [ "tag:twitter.com:8173485c72e78ca5" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2022-09-08T02:26:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1567700843339579392" ],
+      "url" : [ "https://twitter.com/sherrod_im/status/1567700843339579392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1559638466748637192/7D6O2ZIN.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Do you enjoy being right and being ignored? Do I have the job for you!" ],
+    "published" : [ "2022-09-09T03:44:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1568082963623034886" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1568082963623034886" ]
+  },
+  "type" : [ "h-entry" ]
+}
