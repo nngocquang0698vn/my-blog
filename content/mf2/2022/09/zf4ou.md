@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LindseyBoylan/status/1568055030405632002" ],
     "name" : [ "Like of @LindseyBoylan's tweet" ],
     "published" : [ "2022-09-09T08:08:00+0100" ],
     "like-of" : [ "https://twitter.com/LindseyBoylan/status/1568055030405632002" ],
