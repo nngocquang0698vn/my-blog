@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unfortunatalie/status/1567970723091693570" ],
     "name" : [ "Like of @unfortunatalie's tweet" ],
     "published" : [ "2022-09-09T11:14:00+0100" ],
     "like-of" : [ "https://twitter.com/unfortunatalie/status/1567970723091693570" ],
