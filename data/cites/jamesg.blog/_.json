@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Hosting a fun DNS server with Go and a DNS library | James' Coffee Blog" ],
+    "summary" : [ "TL;DR: I now have my own DNS resolver atjamesg.blog with some fun utilities. Read the GitHub documentation for a complete reference manual of all queries, and keep reading below for an explanation of the project and how it works." ],
+    "featured" : [ "/assets/dnsserver.png" ],
+    "url" : [ "https://jamesg.blog" ]
+  }
+}
