@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RandomFuturama/status/1568313292803567616" ],
     "name" : [ "Like of @RandomFuturama's tweet" ],
     "published" : [ "2022-09-09T20:22:00+0100" ],
     "like-of" : [ "https://twitter.com/RandomFuturama/status/1568313292803567616" ],
