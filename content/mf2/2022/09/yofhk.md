@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SelwynGreen2/status/1568007765557399552" ],
     "name" : [ "Like of @SelwynGreen2's tweet" ],
     "published" : [ "2022-09-09T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/SelwynGreen2/status/1568007765557399552" ],
