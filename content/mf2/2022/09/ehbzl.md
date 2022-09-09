@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/neonsystem95/status/1568082106500382720" ],
     "name" : [ "Like of @neonsystem95's tweet" ],
     "published" : [ "2022-09-09T08:04:00+0100" ],
     "like-of" : [ "https://twitter.com/neonsystem95/status/1568082106500382720" ],
