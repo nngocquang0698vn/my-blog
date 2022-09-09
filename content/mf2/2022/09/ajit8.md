@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/annagranta/status/1568126380826628097" ],
     "name" : [ "Like of @annagranta's tweet" ],
     "published" : [ "2022-09-09T10:30:00+0100" ],
     "like-of" : [ "https://twitter.com/annagranta/status/1568126380826628097" ],
