@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nessathewriter/status/1567971187577475072" ],
     "name" : [ "Like of @nessathewriter's tweet" ],
     "published" : [ "2022-09-09T08:02:00+0100" ],
     "like-of" : [ "https://twitter.com/nessathewriter/status/1567971187577475072" ],
