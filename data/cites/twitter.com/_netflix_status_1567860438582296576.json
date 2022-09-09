@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netflix" ],
+        "nickname" : [ "netflix" ],
+        "numeric-id" : [ "16573941" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ],
+        "published" : [ "2008-10-03T04:16:17+00:00" ],
+        "uid" : [ "tag:twitter.com:netflix" ],
+        "url" : [ "https://twitter.com/netflix", "https://www.netflix.com/tudum/fall-preview-hub" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Detective Benoit Blanc is back! \n\nGlassOnion: A Knives Out Mystery — coming soon to select theaters and December 23 on Netflix.</div>",
+      "value" : "Detective Benoit Blanc is back! \n\nGlassOnion: A Knives Out Mystery — coming soon to select theaters and December 23 on Netflix."
+    } ],
+    "published" : [ "2022-09-08T13:00:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1567860438582296576" ],
+    "url" : [ "https://twitter.com/netflix/status/1567860438582296576" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1567850152886505473/vid/1280x720/456HQw1swV_4qhxy.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
