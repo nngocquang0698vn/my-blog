@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/whaleykaley/status/1567988629640814593" ],
     "name" : [ "Like of @whaleykaley's tweet" ],
     "published" : [ "2022-09-10T21:48:00+0100" ],
     "like-of" : [ "https://twitter.com/whaleykaley/status/1567988629640814593" ],
