@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gabe" ],
+        "nickname" : [ "allgarbled" ],
+        "numeric-id" : [ "1545302240344231937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1557207531893583878/qAJS51rg.jpg" ],
+        "published" : [ "2022-07-08T07:02:47+00:00" ],
+        "uid" : [ "tag:twitter.com:allgarbled" ],
+        "url" : [ "https://twitter.com/allgarbled" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "bro literally it’s doing exactly what you told it to 🤣🤣🤣\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kelseywwwaaayyy\"></a>",
+      "value" : "bro literally it’s doing exactly what you told it to 🤣🤣🤣"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kelseywwwaaayyy/status/1568099721079836672" ],
+    "published" : [ "2022-09-09T04:53:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1568100186349772800" ],
+    "url" : [ "https://twitter.com/allgarbled/status/1568100186349772800" ]
+  },
+  "type" : [ "h-entry" ]
+}
