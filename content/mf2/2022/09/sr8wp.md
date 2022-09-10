@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kelseywwwaaayyy/status/1568099721079836672" ],
     "name" : [ "Like of @kelseywwwaaayyy's tweet" ],
     "published" : [ "2022-09-10T11:56:00+0100" ],
     "like-of" : [ "https://twitter.com/kelseywwwaaayyy/status/1568099721079836672" ],
