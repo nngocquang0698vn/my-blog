@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mr_goodwin/status/1568528026018750464" ],
     "name" : [ "Like of @mr_goodwin's tweet" ],
     "published" : [ "2022-09-10T11:55:00+0100" ],
     "like-of" : [ "https://twitter.com/mr_goodwin/status/1568528026018750464" ],
