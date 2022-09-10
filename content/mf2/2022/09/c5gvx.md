@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeriLRyan/status/1568298678322089985" ],
     "name" : [ "Like of @JeriLRyan's tweet" ],
     "published" : [ "2022-09-09T22:30:00+0100" ],
     "like-of" : [ "https://twitter.com/JeriLRyan/status/1568298678322089985" ],
