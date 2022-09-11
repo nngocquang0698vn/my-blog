@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Danny8bit/status/1568773422435676160" ],
     "name" : [ "Like of @Danny8bit's tweet" ],
     "published" : [ "2022-09-11T11:30:00+0100" ],
     "like-of" : [ "https://twitter.com/Danny8bit/status/1568773422435676160" ],
