@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/droewyn/status/1568494835895619584" ],
     "name" : [ "Like of @droewyn's tweet" ],
     "published" : [ "2022-09-11T11:19:00+0100" ],
     "like-of" : [ "https://twitter.com/droewyn/status/1568494835895619584" ],
