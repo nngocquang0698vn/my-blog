@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/moira_robin/status/1568714657321336838" ],
     "name" : [ "Like of @moira_robin's tweet" ],
     "published" : [ "2022-09-11T11:14:00+0100" ],
     "like-of" : [ "https://twitter.com/moira_robin/status/1568714657321336838" ],
