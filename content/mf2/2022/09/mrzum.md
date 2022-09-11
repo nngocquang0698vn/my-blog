@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CThursten/status/1568561846713450496" ],
     "name" : [ "Like of @CThursten's tweet" ],
     "published" : [ "2022-09-11T11:17:00+0100" ],
     "like-of" : [ "https://twitter.com/CThursten/status/1568561846713450496" ],
