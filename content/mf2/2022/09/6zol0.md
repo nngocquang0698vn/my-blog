@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PleaseBeGneiss/status/1568611049389322241" ],
     "name" : [ "Like of @PleaseBeGneiss's tweet" ],
     "published" : [ "2022-09-11T18:41:00+0100" ],
     "like-of" : [ "https://twitter.com/PleaseBeGneiss/status/1568611049389322241" ],
