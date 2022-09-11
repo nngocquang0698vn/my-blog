@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "✪ daniel barnes ✪" ],
+        "nickname" : [ "Danny8bit" ],
+        "numeric-id" : [ "444880629" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488210393440796680/3E0zCaQZ.jpg" ],
+        "published" : [ "2011-12-23T19:07:14+00:00" ],
+        "uid" : [ "tag:twitter.com:Danny8bit" ],
+        "url" : [ "https://twitter.com/Danny8bit", "http://dannybarnes.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I feel like some completely evil and unhinged Disney designer just won a bet" ],
+    "in-reply-to" : [ "https://twitter.com/Danny8bit/status/1568771593312305152" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Bellevue, WA" ],
+        "uid" : [ "tag:twitter.com:df4875cc2df893ed" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-09-11T01:28:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1568773422435676160" ],
+    "url" : [ "https://twitter.com/Danny8bit/status/1568773422435676160" ]
+  },
+  "type" : [ "h-entry" ]
+}
