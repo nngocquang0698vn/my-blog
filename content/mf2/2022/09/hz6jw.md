@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Scott_Oatley_/status/1568876128982401024" ],
     "name" : [ "Like of @Scott_Oatley_'s tweet" ],
     "published" : [ "2022-09-11T11:14:00+0100" ],
     "like-of" : [ "https://twitter.com/Scott_Oatley_/status/1568876128982401024" ],
