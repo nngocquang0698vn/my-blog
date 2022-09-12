@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hotshothamish29/status/1569373658698715136" ],
     "name" : [ "Like of @hotshothamish29's tweet" ],
     "published" : [ "2022-09-12T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/hotshothamish29/status/1569373658698715136" ],
