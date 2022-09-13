@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Battersea, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paddington" ],
+        "nickname" : [ "LittleLostLad" ],
+        "numeric-id" : [ "209011131" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569328050025684992/M1PgK0Kz.jpg" ],
+        "published" : [ "2010-10-28T10:47:22+00:00" ],
+        "uid" : [ "tag:twitter.com:LittleLostLad" ],
+        "url" : [ "https://twitter.com/LittleLostLad" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think that says more about your sandwiches than them, Martin.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/martinscpfc\"></a>",
+      "value" : "I think that says more about your sandwiches than them, Martin."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/martinscpfc/status/1569570183848808449" ],
+    "published" : [ "2022-09-13T09:34:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1569620501173272576" ],
+    "url" : [ "https://twitter.com/LittleLostLad/status/1569620501173272576" ]
+  },
+  "type" : [ "h-entry" ]
+}
