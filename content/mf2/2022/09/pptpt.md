@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kevjs1982/status/1568573836232114179" ],
     "name" : [ "Like of @kevjs1982's tweet" ],
     "published" : [ "2022-09-13T14:00:00+0100" ],
     "category" : [ "nottingham" ],
