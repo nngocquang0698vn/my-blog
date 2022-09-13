@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David__Osland" ],
+        "nickname" : [ "David__Osland" ],
+        "numeric-id" : [ "3407247983" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/887983853004107777/6gZqYNUQ.jpg" ],
+        "published" : [ "2015-08-07T14:02:11+00:00" ],
+        "uid" : [ "tag:twitter.com:David__Osland" ],
+        "url" : [ "https://twitter.com/David__Osland", "http://labourhub.org.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Food banks will close next Monday. Investment banks will remain open." ],
+    "published" : [ "2022-09-13T11:56:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1569656333980270592" ],
+    "url" : [ "https://twitter.com/David__Osland/status/1569656333980270592" ]
+  },
+  "type" : [ "h-entry" ]
+}
