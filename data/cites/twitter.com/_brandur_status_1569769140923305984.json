@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Brandur" ],
+        "nickname" : [ "brandur" ],
+        "numeric-id" : [ "22980330" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/814528256632205312/tBisTEzd.jpg" ],
+        "published" : [ "2009-03-05T21:15:59+00:00" ],
+        "uid" : [ "tag:twitter.com:brandur" ],
+        "url" : [ "https://twitter.com/brandur", "https://brandur.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We've been running govulncheck in CI about a week now. So far the only downside we've noticed is that it breaks every time a new version of Go comes out (including patch versions). Fix is to make sure to use `check-latest` on `actions/setup-go` steps.\n\n<a href=\"https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck\">pkg.go.dev/golang.org/x/v…</a></div>",
+      "value" : "We've been running govulncheck in CI about a week now. So far the only downside we've noticed is that it breaks every time a new version of Go comes out (including patch versions). Fix is to make sure to use `check-latest` on `actions/setup-go` steps.\n\npkg.go.dev/golang.org/x/v…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FcjwqXPagAADoqP.jpg" ],
+    "published" : [ "2022-09-13T19:25:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1569769140923305984" ],
+    "url" : [ "https://twitter.com/brandur/status/1569769140923305984" ]
+  },
+  "type" : [ "h-entry" ]
+}
