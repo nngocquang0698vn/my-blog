@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/misspiggy42/status/1569667566813040640" ],
     "name" : [ "Like of @misspiggy42's tweet" ],
     "published" : [ "2022-09-13T16:09:05.775433645Z" ],
     "like-of" : [ "https://twitter.com/misspiggy42/status/1569667566813040640" ],
