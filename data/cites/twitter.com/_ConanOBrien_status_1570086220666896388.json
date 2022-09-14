@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Conan O'Brien" ],
+        "nickname" : [ "ConanOBrien" ],
+        "numeric-id" : [ "115485051" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/730612231021322240/Rl0_QYhL.jpg" ],
+        "published" : [ "2010-02-18T20:17:16+00:00" ],
+        "uid" : [ "tag:twitter.com:ConanOBrien" ],
+        "url" : [ "https://twitter.com/ConanOBrien", "http://teamcoco.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My wife has cat-like reflexes— she hides under furniture when I’m around." ],
+    "published" : [ "2022-09-14T16:25:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1570086220666896388" ],
+    "url" : [ "https://twitter.com/ConanOBrien/status/1570086220666896388" ]
+  },
+  "type" : [ "h-entry" ]
+}
