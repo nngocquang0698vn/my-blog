@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aidan W Steele" ],
+        "nickname" : [ "__steele" ],
+        "numeric-id" : [ "281819105" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199447204311617537/vzdPtfih.jpg" ],
+        "published" : [ "2011-04-14T01:23:40+00:00" ],
+        "uid" : [ "tag:twitter.com:__steele" ],
+        "url" : [ "https://twitter.com/__steele", "https://awsteele.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">After using AWS for ~14 years, I've internalised a handful of design patterns that I try to apply to my own software. I'm keen to know if it's the same for other folks.\n\nRoughly: tags, IDs (thrice), limits, pagination.\n\n(I'm not going to use the thread emoji)</div>",
+      "value" : "After using AWS for ~14 years, I've internalised a handful of design patterns that I try to apply to my own software. I'm keen to know if it's the same for other folks.\n\nRoughly: tags, IDs (thrice), limits, pagination.\n\n(I'm not going to use the thread emoji)"
+    } ],
+    "published" : [ "2022-09-15T00:29:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1570208081296134145" ],
+    "url" : [ "https://twitter.com/__steele/status/1570208081296134145" ]
+  },
+  "type" : [ "h-entry" ]
+}
