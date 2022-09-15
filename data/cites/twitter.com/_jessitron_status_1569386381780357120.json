@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "St. Louis, MO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica Joy Kerr" ],
+        "nickname" : [ "jessitron" ],
+        "numeric-id" : [ "25103" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541457409834631169/fPwd59zW.jpg" ],
+        "published" : [ "2006-11-27T15:57:55+00:00" ],
+        "uid" : [ "tag:twitter.com:jessitron" ],
+        "url" : [ "https://twitter.com/jessitron", "http://jessitron.com", "http://honeycomb.io/office-hours" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">You: I submitted that pull request. Time to start a new thing!\n\nMe: can we not?\nAre there pull requests to review?\nUntended upkeep, like libraries to upgrade?\n\nTo keep WIP low, avoid starting a new thing. Move anything in-progress forward first.</div>",
+      "value" : "You: I submitted that pull request. Time to start a new thing!\n\nMe: can we not?\nAre there pull requests to review?\nUntended upkeep, like libraries to upgrade?\n\nTo keep WIP low, avoid starting a new thing. Move anything in-progress forward first."
+    } ],
+    "published" : [ "2022-09-12T18:04:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1569386381780357120" ],
+    "url" : [ "https://twitter.com/jessitron/status/1569386381780357120" ]
+  },
+  "type" : [ "h-entry" ]
+}
