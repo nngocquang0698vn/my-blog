@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vxunderground/status/1570626503947485188" ],
     "name" : [ "Like of @vxunderground's tweet" ],
     "published" : [ "2022-09-16T19:42:00+0100" ],
     "like-of" : [ "https://twitter.com/vxunderground/status/1570626503947485188" ],
