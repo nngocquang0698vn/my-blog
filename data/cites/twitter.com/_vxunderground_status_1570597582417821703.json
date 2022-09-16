@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "International" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "vx-underground" ],
+        "nickname" : [ "vxunderground" ],
+        "numeric-id" : [ "1158139840866791424" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1284217861318344706/m__Wj5eV.jpg" ],
+        "published" : [ "2019-08-04T22:17:10+00:00" ],
+        "uid" : [ "tag:twitter.com:vxunderground" ],
+        "url" : [ "https://twitter.com/vxunderground", "https://vx-underground.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Update: A Threat Actor claims to have completely compromised Uber - they have posted screenshots of their AWS instance, HackerOne administration panel, and more.\n\nThey are openly taunting and mocking <a href=\"https://twitter.com/Uber\">@Uber</a>.</div>",
+      "value" : "Update: A Threat Actor claims to have completely compromised Uber - they have posted screenshots of their AWS instance, HackerOne administration panel, and more.\n\nThey are openly taunting and mocking @Uber."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/vxunderground/status/1570595933641113601" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fcvh_DdXgAI5rPR.jpg", "https://pbs.twimg.com/media/Fcvh_tEXkAMsCN4.jpg", "https://pbs.twimg.com/media/FcviAMrXgAUOF5u.jpg", "https://pbs.twimg.com/media/FcviAp1WAAMzxch.jpg" ],
+    "published" : [ "2022-09-16T02:16:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1570597582417821703" ],
+    "url" : [ "https://twitter.com/vxunderground/status/1570597582417821703" ]
+  },
+  "type" : [ "h-entry" ]
+}
