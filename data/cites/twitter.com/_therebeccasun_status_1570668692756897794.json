@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">If nominated for Best Actress, Michelle Yeoh would be only the second Asian actress nominated in lead after Merle Oberon in “The Dark Angel” (1935).\n\n<a href=\"https://bit.ly/3BdA3o8\">bit.ly/3BdA3o8</a></div>",
+        "value" : "If nominated for Best Actress, Michelle Yeoh would be only the second Asian actress nominated in lead after Merle Oberon in “The Dark Angel” (1935).\n\nbit.ly/3BdA3o8"
+      } ],
+      "published" : [ "2022-09-15T23:44:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1570559106964140034" ],
+      "url" : [ "https://twitter.com/Variety/status/1570559106964140034" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rebecca Sun 孫洪美" ],
+        "nickname" : [ "therebeccasun" ],
+        "numeric-id" : [ "117294809" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1288418600210984961/A3ev0ynR.jpg" ],
+        "published" : [ "2010-02-25T04:11:37+00:00" ],
+        "uid" : [ "tag:twitter.com:therebeccasun" ],
+        "url" : [ "https://twitter.com/therebeccasun" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Another fun fact: More white actresses have WON Oscars for playing Asians than Asian actresses have been nominated in the lead category!" ],
+    "published" : [ "2022-09-16T06:59:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1570668692756897794" ],
+    "url" : [ "https://twitter.com/therebeccasun/status/1570668692756897794" ]
+  },
+  "type" : [ "h-entry" ]
+}
