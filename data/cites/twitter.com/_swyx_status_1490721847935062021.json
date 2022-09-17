@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "swyx 🌴" ],
+        "nickname" : [ "swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "url" : [ "https://twitter.com/swyx", "https://swyx.io", "http://learninpublic.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Small tip: a delightful bash alias that helped me today\n\nalias '$'=''\n\nlets you copy tutorials that include '$' verbatim.</div>",
+      "value" : "Small tip: a delightful bash alias that helped me today\n\nalias '$'=''\n\nlets you copy tutorials that include '$' verbatim."
+    } ],
+    "photo" : [ {
+      "alt" : "example usage of the alias",
+      "value" : "https://pbs.twimg.com/media/FLAbiHaUcAE8jKG.png"
+    }, "https://pbs.twimg.com/media/FLAbmNcUUAEotLS.png" ],
+    "published" : [ "2022-02-07T16:19:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1490721847935062021" ],
+    "url" : [ "https://twitter.com/swyx/status/1490721847935062021" ]
+  },
+  "type" : [ "h-entry" ]
+}
