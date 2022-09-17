@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mralistairgreen/status/1570356343306964993" ],
     "name" : [ "Like of @mralistairgreen's tweet" ],
     "published" : [ "2022-09-17T11:43:00+0100" ],
     "like-of" : [ "https://twitter.com/mralistairgreen/status/1570356343306964993" ],
