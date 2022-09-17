@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "World of Statistics" ],
+          "nickname" : [ "stats_feed" ],
+          "numeric-id" : [ "1335132884278108161" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1335168437220421632/VCHg78Nf.jpg" ],
+          "published" : [ "2020-12-05T08:07:34+00:00" ],
+          "uid" : [ "tag:twitter.com:stats_feed" ],
+          "url" : [ "https://twitter.com/stats_feed", "http://youtube.com/c/statisticsfeed" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "The average man spends seven hours a year hiding in the bathroom for \"peace and quiet,\" according to a 2018 survey." ],
+      "published" : [ "2022-09-16T16:45:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1570816069568466946" ],
+      "url" : [ "https://twitter.com/stats_feed/status/1570816069568466946" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Florence, Tuscany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lontra longicaudis" ],
+        "nickname" : [ "AsnoDeBuridan" ],
+        "numeric-id" : [ "3039048208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1535999568554369025/gQrnYz5M.jpg" ],
+        "published" : [ "2015-02-15T13:36:50+00:00" ],
+        "uid" : [ "tag:twitter.com:AsnoDeBuridan" ],
+        "url" : [ "https://twitter.com/AsnoDeBuridan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "*A year*?" ],
+    "published" : [ "2022-09-17T14:44:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1571148192179167235" ],
+    "url" : [ "https://twitter.com/AsnoDeBuridan/status/1571148192179167235" ]
+  },
+  "type" : [ "h-entry" ]
+}
