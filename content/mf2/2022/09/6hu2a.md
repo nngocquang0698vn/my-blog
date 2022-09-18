@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ellewasamistake/status/1571144271797055489" ],
     "name" : [ "Like of @ellewasamistake's tweet" ],
     "published" : [ "2022-09-18T08:57:00+0100" ],
     "like-of" : [ "https://twitter.com/ellewasamistake/status/1571144271797055489" ],
