@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RaggedTP/status/1369422713513721868" ],
     "name" : [ "Like of @RaggedTP's tweet" ],
     "published" : [ "2022-09-18T08:51:00+0100" ],
     "like-of" : [ "https://twitter.com/RaggedTP/status/1369422713513721868" ],
