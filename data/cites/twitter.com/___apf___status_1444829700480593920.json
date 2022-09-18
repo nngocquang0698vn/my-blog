@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Australia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Maz Jovanovich" ],
+          "nickname" : [ "maz_jovanovich" ],
+          "numeric-id" : [ "778055836094435328" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1369555721033904131/SkcVjCe3.jpg" ],
+          "published" : [ "2016-09-20T02:19:01+00:00" ],
+          "uid" : [ "tag:twitter.com:maz_jovanovich" ],
+          "url" : [ "https://twitter.com/maz_jovanovich" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "PSA: As of today, Australia has 5 time zones once again. Apologies in advance to our overseas friends trying to make sense of this temporal anarchy." ],
+      "photo" : [ "https://pbs.twimg.com/media/FAv7UPuVEAA87S9.jpg" ],
+      "published" : [ "2021-10-03T04:47:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1444524436548296705" ],
+      "url" : [ "https://twitter.com/maz_jovanovich/status/1444524436548296705" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "East Bay" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adriana Porter Felt" ],
+        "nickname" : [ "__apf__" ],
+        "numeric-id" : [ "533539874" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1416096791875833858/JVsJlDoX.jpg" ],
+        "published" : [ "2012-03-22T21:42:54+00:00" ],
+        "uid" : [ "tag:twitter.com:__apf__" ],
+        "url" : [ "https://twitter.com/__apf__", "https://www.adrienneporterfelt.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Australia has declared war on software engineering" ],
+    "published" : [ "2021-10-04T01:00:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1444829700480593920" ],
+    "url" : [ "https://twitter.com/__apf__/status/1444829700480593920" ]
+  },
+  "type" : [ "h-entry" ]
+}
