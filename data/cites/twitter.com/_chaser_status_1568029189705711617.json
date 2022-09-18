@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sydney" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Chaser" ],
+        "nickname" : [ "chaser" ],
+        "numeric-id" : [ "38612007" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1554685305940492288/sfK5ANXB.png" ],
+        "published" : [ "2009-05-08T05:12:41+00:00" ],
+        "uid" : [ "tag:twitter.com:chaser" ],
+        "url" : [ "https://twitter.com/chaser", "http://www.chaser.com.au/support" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "JK Rowling furious to hear monarch has transitioned to a man" ],
+    "published" : [ "2022-09-09T00:11:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1568029189705711617" ],
+    "url" : [ "https://twitter.com/chaser/status/1568029189705711617" ]
+  },
+  "type" : [ "h-entry" ]
+}
