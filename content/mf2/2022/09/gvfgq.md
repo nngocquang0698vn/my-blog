@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kaycB2805/status/1571111562148212736" ],
     "name" : [ "Like of @kaycB2805's tweet" ],
     "published" : [ "2022-09-18T08:49:00+0100" ],
     "like-of" : [ "https://twitter.com/kaycB2805/status/1571111562148212736" ],
