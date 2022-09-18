@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swyx/status/1490721847935062021" ],
     "name" : [ "Like of @swyx's tweet" ],
     "published" : [ "2022-09-17T22:38:00+0100" ],
     "category" : [ "shell", "command-line" ],
