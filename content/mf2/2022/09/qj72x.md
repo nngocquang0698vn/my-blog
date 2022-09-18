@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ahvahhhh/status/1570559851562168320" ],
     "name" : [ "Like of @ahvahhhh's tweet" ],
     "published" : [ "2022-09-18T08:39:00+0100" ],
     "like-of" : [ "https://twitter.com/ahvahhhh/status/1570559851562168320" ],
