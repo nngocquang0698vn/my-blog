@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/crystalxduan/status/1570888136728903680" ],
     "name" : [ "Like of @crystalxduan's tweet" ],
     "published" : [ "2022-09-18T08:44:00+0100" ],
     "like-of" : [ "https://twitter.com/crystalxduan/status/1570888136728903680" ],
