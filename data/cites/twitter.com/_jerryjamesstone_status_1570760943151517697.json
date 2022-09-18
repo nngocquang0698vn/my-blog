@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sacramento, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jerry James Stone" ],
+        "nickname" : [ "jerryjamesstone" ],
+        "numeric-id" : [ "14346303" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461178145072029701/8UbH9kXN.jpg" ],
+        "published" : [ "2008-04-09T22:28:40+00:00" ],
+        "uid" : [ "tag:twitter.com:jerryjamesstone" ],
+        "url" : [ "https://twitter.com/jerryjamesstone", "http://www.jerryjamesstone.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Louder for those in back" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Sacramento, CA" ],
+        "uid" : [ "tag:twitter.com:b71fac2ee9792cbe" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fcx2wGaaUAMBFyZ.jpg" ],
+    "published" : [ "2022-09-16T13:06:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1570760943151517697" ],
+    "url" : [ "https://twitter.com/jerryjamesstone/status/1570760943151517697" ]
+  },
+  "type" : [ "h-entry" ]
+}
