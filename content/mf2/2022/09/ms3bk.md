@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MissDSays/status/1571155127121182720" ],
     "name" : [ "Like of @MissDSays's tweet" ],
     "published" : [ "2022-09-18T08:46:00+0100" ],
     "like-of" : [ "https://twitter.com/MissDSays/status/1571155127121182720" ],
