@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zkat__/status/1571354920980451328" ],
     "name" : [ "Like of @zkat__'s tweet" ],
     "published" : [ "2022-09-18T09:05:00+0100" ],
     "like-of" : [ "https://twitter.com/zkat__/status/1571354920980451328" ],
