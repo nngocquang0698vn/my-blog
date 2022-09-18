@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Sacramento, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jerry James Stone" ],
+          "nickname" : [ "jerryjamesstone" ],
+          "numeric-id" : [ "14346303" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1461178145072029701/8UbH9kXN.jpg" ],
+          "published" : [ "2008-04-09T22:28:40+00:00" ],
+          "uid" : [ "tag:twitter.com:jerryjamesstone" ],
+          "url" : [ "https://twitter.com/jerryjamesstone", "http://www.jerryjamesstone.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Louder for those in back" ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Sacramento, CA" ],
+          "uid" : [ "tag:twitter.com:b71fac2ee9792cbe" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fcx2wGaaUAMBFyZ.jpg" ],
+      "published" : [ "2022-09-16T13:06:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1570760943151517697" ],
+      "url" : [ "https://twitter.com/jerryjamesstone/status/1570760943151517697" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "stolen Chochenyo Ohlone land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kat" ],
+        "nickname" : [ "zkat__" ],
+        "numeric-id" : [ "2978661890" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550263449120165888/sM0F_l2i.jpg" ],
+        "published" : [ "2015-01-13T06:07:49+00:00" ],
+        "uid" : [ "tag:twitter.com:zkat__" ],
+        "url" : [ "https://twitter.com/zkat__", "https://toot.cat/@zkat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is what’s ultimately really scary about these tantrums people are throwing. They’re reminders that there’s just so much work left to do and we’re not doing as well as we think." ],
+    "published" : [ "2022-09-18T04:26:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1571354920980451328" ],
+    "url" : [ "https://twitter.com/zkat__/status/1571354920980451328" ]
+  },
+  "type" : [ "h-entry" ]
+}
