@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NicoReznick/status/1571129375252426758" ],
     "name" : [ "Like of @NicoReznick's tweet" ],
     "published" : [ "2022-09-18T08:49:00+0100" ],
     "like-of" : [ "https://twitter.com/NicoReznick/status/1571129375252426758" ],
