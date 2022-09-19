@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "On the farm." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Glasto Thingy" ],
+        "nickname" : [ "TheGlastoThingy" ],
+        "numeric-id" : [ "4870081523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/694230442212466691/WxriXv3W.jpg" ],
+        "published" : [ "2016-02-01T18:43:45+00:00" ],
+        "uid" : [ "tag:twitter.com:TheGlastoThingy" ],
+        "url" : [ "https://twitter.com/TheGlastoThingy", "http://theglastonburythingy.weebly.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Work: We've found your Twitter account.\n\nMe:</div>",
+      "value" : "Work: We've found your Twitter account.\n\nMe:"
+    } ],
+    "published" : [ "2022-09-17T21:20:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1571247825924538369" ],
+    "url" : [ "https://twitter.com/TheGlastoThingy/status/1571247825924538369" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1571247813203222537/pu/vid/476x270/_o6h63vXa3y9v5UZ.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
