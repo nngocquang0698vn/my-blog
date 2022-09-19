@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Maxthepapi/status/1571022560049123328" ],
     "name" : [ "Like of @Maxthepapi's tweet" ],
     "published" : [ "2022-09-19T13:32:00+0100" ],
     "like-of" : [ "https://twitter.com/Maxthepapi/status/1571022560049123328" ],
