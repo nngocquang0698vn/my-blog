@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/iarentspartacus/status/1571124052059881480" ],
     "name" : [ "Like of @iarentspartacus's tweet" ],
     "published" : [ "2022-09-19T13:30:00+0100" ],
     "like-of" : [ "https://twitter.com/iarentspartacus/status/1571124052059881480" ],
