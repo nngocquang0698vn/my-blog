@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gunnar Morling 🌍" ],
+        "nickname" : [ "gunnarmorling" ],
+        "numeric-id" : [ "2342011352" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411051861415759880/4vzagQao.jpg" ],
+        "published" : [ "2014-02-13T13:48:11+00:00" ],
+        "uid" : [ "tag:twitter.com:gunnarmorling" ],
+        "url" : [ "https://twitter.com/gunnarmorling", "https://morling.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hey conference organizers: could you please *always* have unique descriptive URLs for each talk on the agenda?! No JavaScript, no pop-ups, no UUIDs. Let folks share links to the talks they're excited about 🙏!" ],
+    "published" : [ "2022-09-19T14:18:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1571866420006240256" ],
+    "url" : [ "https://twitter.com/gunnarmorling/status/1571866420006240256" ]
+  },
+  "type" : [ "h-entry" ]
+}
