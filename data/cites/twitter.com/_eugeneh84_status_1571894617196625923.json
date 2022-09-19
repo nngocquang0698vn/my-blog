@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cumbria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eugene" ],
+        "nickname" : [ "eugeneh84" ],
+        "numeric-id" : [ "214922756" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568097668135534592/aU3rBjHf.jpg" ],
+        "published" : [ "2010-11-12T15:24:05+00:00" ],
+        "uid" : [ "tag:twitter.com:eugeneh84" ],
+        "url" : [ "https://twitter.com/eugeneh84" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When you've got a tricky shot but the table is near the wall" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Keswick, England" ],
+        "uid" : [ "tag:twitter.com:55db2858598f84fd" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-09-19T16:10:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1571894617196625923" ],
+    "url" : [ "https://twitter.com/eugeneh84/status/1571894617196625923" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1571894445049511937/pu/vid/1280x592/tW0fiC9iM1LybgkQ.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
