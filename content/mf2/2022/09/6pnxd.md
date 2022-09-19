@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KhamarSinclair/status/1571216329138380800" ],
     "name" : [ "Like of @KhamarSinclair's tweet" ],
     "published" : [ "2022-09-18T18:57:00+0100" ],
     "category" : [ "gaming" ],
