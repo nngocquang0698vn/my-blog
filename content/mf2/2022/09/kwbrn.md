@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Nasibu12fkcn3/status/1570742953114734595" ],
     "name" : [ "Like of @Nasibu12fkcn3's tweet" ],
     "published" : [ "2022-09-19T19:12:00+0100" ],
     "like-of" : [ "https://twitter.com/Nasibu12fkcn3/status/1570742953114734595" ],
