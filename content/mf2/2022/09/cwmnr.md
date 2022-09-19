@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kevjs1982/status/1571751090986573824" ],
     "name" : [ "Like of @kevjs1982's tweet" ],
     "published" : [ "2022-09-19T13:30:00+0100" ],
     "like-of" : [ "https://twitter.com/kevjs1982/status/1571751090986573824" ],
