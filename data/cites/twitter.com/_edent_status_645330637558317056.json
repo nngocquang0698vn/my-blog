@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "teacup 🇪🇺" ],
+          "nickname" : [ "teacup" ],
+          "numeric-id" : [ "57823" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/428048672224325633/PnGtJ-PO.jpeg" ],
+          "published" : [ "2006-12-11T17:40:15+00:00" ],
+          "uid" : [ "tag:twitter.com:teacup" ],
+          "url" : [ "https://twitter.com/teacup" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Equality Act 2010: Who is covered by disability law?\n\nRegulations specifically exclude the following conditions:\n• tendencies to set fires</div>",
+        "value" : "Equality Act 2010: Who is covered by disability law?\n\nRegulations specifically exclude the following conditions:\n• tendencies to set fires"
+      } ],
+      "published" : [ "2015-09-19T19:56:32+00:00" ],
+      "uid" : [ "tag:twitter.com:645325620231208964" ],
+      "url" : [ "https://twitter.com/teacup/status/645325620231208964" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "First they came for the firestarters and I did not speak out, for I was not a twisted firestarter… " ],
+    "published" : [ "2015-09-19T20:16:28+00:00" ],
+    "uid" : [ "tag:twitter.com:645330637558317056" ],
+    "url" : [ "https://twitter.com/edent/status/645330637558317056" ]
+  },
+  "type" : [ "h-entry" ]
+}
