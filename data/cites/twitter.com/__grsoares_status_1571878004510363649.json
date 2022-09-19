@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gabriel R. Soares" ],
+        "nickname" : [ "_grsoares" ],
+        "numeric-id" : [ "1221846264440131586" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1556393496084418561/BF004o4G.jpg" ],
+        "published" : [ "2020-01-27T17:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:_grsoares" ],
+        "url" : [ "https://twitter.com/_grsoares", "http://twitch.tv/grsoares", "http://gazeta.dev", "http://anemoi.app", "http://youtu.be/48Yrei0rW_o" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It depends\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sabrinaesaquino\"></a>",
+      "value" : "It depends"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sabrinaesaquino/status/1571877085471195136" ],
+    "published" : [ "2022-09-19T15:04:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1571878004510363649" ],
+    "url" : [ "https://twitter.com/_grsoares/status/1571878004510363649" ]
+  },
+  "type" : [ "h-entry" ]
+}
