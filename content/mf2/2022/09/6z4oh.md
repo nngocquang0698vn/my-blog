@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheGlastoThingy/status/1571247825924538369" ],
     "name" : [ "Like of @TheGlastoThingy's tweet" ],
     "published" : [ "2022-09-19T13:33:00+0100" ],
     "like-of" : [ "https://twitter.com/TheGlastoThingy/status/1571247825924538369" ],
