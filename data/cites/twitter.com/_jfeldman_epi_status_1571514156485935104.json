@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Feldman" ],
+        "nickname" : [ "jfeldman_epi" ],
+        "numeric-id" : [ "139049986" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1530985996141092867/sDCQk-Ge.jpg" ],
+        "published" : [ "2010-05-01T11:46:27+00:00" ],
+        "uid" : [ "tag:twitter.com:jfeldman_epi" ],
+        "url" : [ "https://twitter.com/jfeldman_epi", "https://scholar.harvard.edu/jfeldman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I hate explanations that are like, 'People won't accept new behavioral norms in the name of public health because of centuries-old psychocultural  commitments'. Bro, these same people stopped smoking in restaurants in the 90s." ],
+    "published" : [ "2022-09-18T14:59:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1571514156485935104" ],
+    "url" : [ "https://twitter.com/jfeldman_epi/status/1571514156485935104" ]
+  },
+  "type" : [ "h-entry" ]
+}
