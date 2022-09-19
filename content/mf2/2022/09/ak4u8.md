@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jfeldman_epi/status/1571514156485935104" ],
     "name" : [ "Like of @jfeldman_epi's tweet" ],
     "published" : [ "2022-09-19T12:37:00+0100" ],
     "like-of" : [ "https://twitter.com/jfeldman_epi/status/1571514156485935104" ],
