@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adalimon/status/1570768991446245377" ],
     "name" : [ "Like of @adalimon's tweet" ],
     "published" : [ "2022-09-18T18:54:00+0100" ],
     "like-of" : [ "https://twitter.com/adalimon/status/1570768991446245377" ],
