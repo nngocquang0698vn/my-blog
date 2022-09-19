@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AutisticCallum_/status/1570813107760697345" ],
     "name" : [ "Like of @AutisticCallum_'s tweet" ],
     "published" : [ "2022-09-19T12:36:00+0100" ],
     "like-of" : [ "https://twitter.com/AutisticCallum_/status/1570813107760697345" ],
