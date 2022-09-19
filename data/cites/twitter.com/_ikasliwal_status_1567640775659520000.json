@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "isha" ],
+        "nickname" : [ "ikasliwal" ],
+        "numeric-id" : [ "1698253945" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431285121273921537/6mwUz9q2.jpg" ],
+        "published" : [ "2013-08-25T05:24:48+00:00" ],
+        "uid" : [ "tag:twitter.com:ikasliwal" ],
+        "url" : [ "https://twitter.com/ikasliwal", "http://ikasliwal.com", "http://i.mirror.xyz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The governor has declared a state of emergency and asked all Californians to not run `npm install` between 4 PM and 9 PM today in an effort to save energy." ],
+    "published" : [ "2022-09-07T22:27:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1567640775659520000" ],
+    "url" : [ "https://twitter.com/ikasliwal/status/1567640775659520000" ]
+  },
+  "type" : [ "h-entry" ]
+}
