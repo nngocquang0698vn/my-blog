@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Naarm" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cain Maddox" ],
+        "nickname" : [ "ctrlshifti" ],
+        "numeric-id" : [ "1047644343874465792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488744514009579520/WpPG407Q.jpg" ],
+        "published" : [ "2018-10-04T00:27:30+00:00" ],
+        "uid" : [ "tag:twitter.com:ctrlshifti" ],
+        "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/cainmaddox" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">confused about cloud jargon? don't be, it's simple:\n\nserverless: app has servers, they're just owned by amazon\nmulti-cloud: app is split over two different amazon accounts\nmicroservices: instead of amazon owning one of your big things, they own 100 of your little things (easier!)</div>",
+      "value" : "confused about cloud jargon? don't be, it's simple:\n\nserverless: app has servers, they're just owned by amazon\nmulti-cloud: app is split over two different amazon accounts\nmicroservices: instead of amazon owning one of your big things, they own 100 of your little things (easier!)"
+    } ],
+    "published" : [ "2022-09-20T01:18:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1572032372098605056" ],
+    "url" : [ "https://twitter.com/ctrlshifti/status/1572032372098605056" ]
+  },
+  "type" : [ "h-entry" ]
+}
