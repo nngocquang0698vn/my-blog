@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eugeneh84/status/1571894617196625923" ],
     "name" : [ "Like of @eugeneh84's tweet" ],
     "published" : [ "2022-09-19T20:28:00+0100" ],
     "like-of" : [ "https://twitter.com/eugeneh84/status/1571894617196625923" ],
