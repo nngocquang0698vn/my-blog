@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drakesverse/status/1571235450664243201" ],
     "name" : [ "Like of @drakesverse's tweet" ],
     "published" : [ "2022-09-20T08:07:00+0100" ],
     "like-of" : [ "https://twitter.com/drakesverse/status/1571235450664243201" ],
