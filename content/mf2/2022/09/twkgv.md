@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/perfectsweeties/status/1571994533545807872" ],
     "name" : [ "Like of @perfectsweeties's tweet" ],
     "published" : [ "2022-09-20T14:18:00+0100" ],
     "like-of" : [ "https://twitter.com/perfectsweeties/status/1571994533545807872" ],
