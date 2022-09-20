@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brianwisti/status/1572094575514116097" ],
     "name" : [ "Like of @brianwisti's tweet" ],
     "published" : [ "2022-09-20T08:08:00+0100" ],
     "like-of" : [ "https://twitter.com/brianwisti/status/1572094575514116097" ],
