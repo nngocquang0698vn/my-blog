@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It's pretty, but if I want my own custom local <a href=\"http://devdocs.io\">devdocs.io</a> — and I do — then medium-term I probably want to think about holding it in something more db-driven like Trilium or SiYuan.",
+      "value" : "It's pretty, but if I want my own custom local devdocs.io — and I do — then medium-term I probably want to think about holding it in something more db-driven like Trilium or SiYuan."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/brianwisti/status/1572094561425432580" ],
+    "published" : [ "2022-09-20T05:25:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1572094575514116097" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1572094575514116097" ]
+  },
+  "type" : [ "h-entry" ]
+}
