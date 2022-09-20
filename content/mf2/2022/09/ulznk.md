@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lockdownurlife/status/1571925879743483905" ],
     "name" : [ "Like of @lockdownurlife's tweet" ],
     "published" : [ "2022-09-19T20:33:00+0100" ],
     "like-of" : [ "https://twitter.com/lockdownurlife/status/1571925879743483905" ],
