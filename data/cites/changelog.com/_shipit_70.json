@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Kaizen! Four PRs, one big feature with Adam, Jerod &amp; Lars Wikman (Ship It! #70)" ],
+    "summary" : [ "In today’s Kaizen episode, we talk about shipping Adam’s Christmas present: chapter support for all Changelog episodes that we now publish. This feature was hard because there are many subtle differences in how the ID3 spec is implemented. Of course, once the PR shipped, there were other issues to solve, including an u..." ],
+    "featured" : [ "https://cdn.changelog.com/static/images/share/twitter-shipit-feb3710d53361bb8a02164926b99f023.png" ],
+    "audio" : [ "https://cdn.changelog.com/uploads/shipit/70/ship-it-70.mp3" ],
+    "url" : [ "https://changelog.com/shipit/70" ]
+  }
+}
