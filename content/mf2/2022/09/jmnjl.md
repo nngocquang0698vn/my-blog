@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TreborRhurbarb/status/1571558017878876162" ],
     "name" : [ "Like of @TreborRhurbarb's tweet" ],
     "published" : [ "2022-09-19T19:54:00+0100" ],
     "like-of" : [ "https://twitter.com/TreborRhurbarb/status/1571558017878876162" ],
