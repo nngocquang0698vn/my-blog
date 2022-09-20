@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to read request body twice in Golang middleware?" ],
+    "summary" : [ "In a middleware, I want to read request body to perform some checks. Then, the request is passed to the next middleware where the body will be read again.\nHere's what I do:\n\nbodyBytes, _ := ioutil." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/46948050/how-to-read-request-body-twice-in-golang-middleware" ]
+  }
+}
