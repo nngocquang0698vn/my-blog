@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shinyandnew70/status/1571985820113899521" ],
     "name" : [ "Like of @shinyandnew70's tweet" ],
     "published" : [ "2022-09-20T05:15:00+0100" ],
     "like-of" : [ "https://twitter.com/shinyandnew70/status/1571985820113899521" ],
