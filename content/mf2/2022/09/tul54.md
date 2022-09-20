@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HeidiPriebe1/status/1571872948608471046" ],
     "name" : [ "Like of @HeidiPriebe1's tweet" ],
     "published" : [ "2022-09-19T19:52:00+0100" ],
     "like-of" : [ "https://twitter.com/HeidiPriebe1/status/1571872948608471046" ],
