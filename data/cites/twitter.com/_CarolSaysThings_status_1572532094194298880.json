@@ -1,0 +1,60 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ☔️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/zero_chill_tea/status/1572083464849199104\">@zero_chill_tea</a> fellas is it gay to use “let” for variable assignment"
+    } ],
+    "published" : [ "2022-09-21T10:24:02+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Vancouver, British Columbia" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "ti 👁 〰 👁" ],
+            "nickname" : [ "zero_chill_tea" ],
+            "numeric-id" : [ "740309126501146624" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1537273471620632577/hiuHZkIB.jpg" ],
+            "published" : [ "2016-06-07T22:27:05+00:00" ],
+            "uid" : [ "tag:twitter.com:zero_chill_tea" ],
+            "url" : [ "https://twitter.com/zero_chill_tea", "http://www.nombiezinja.com" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "fellas is it gay to use “let” for variable assignment" ],
+        "photo" : [ {
+          "alt" : "screenshot of phoronix \n\nquote “\"let\" is a common keyword as well across many languages including Kotlin, Swift, Haskell etc and hardly limited to Javascript or Typescript. Declaring  the type manually all the time is a limitation of the C language. If the variable has an assignment, most other programming languages (including recent versions of C+ + via auto keyword) allow you to skip declaring the type manually since the compiler knows what the type is. You could do manually declare it in Rust if you wanted to (ex: let thing 1: (32 = 100). It is just not necessary typically.”\n\nresponse “I'm not used to beg someone to let' me something. The one who chose this word must be some kind of beta. I'd prefer something like: auto name_of_var. Let' is completely unintuitive. Thanks for explanation btw.”",
+          "value" : "https://pbs.twimg.com/media/FdEplFjakAEiakG.jpg"
+        } ],
+        "published" : [ "2022-09-20T04:41:20+00:00" ],
+        "uid" : [ "tag:twitter.com:1572083464849199104" ],
+        "url" : [ "https://twitter.com/zero_chill_tea/status/1572083464849199104" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1572532094194298880" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1572532094194298880" ]
+  },
+  "type" : [ "h-entry" ]
+}
