@@ -1,17 +1,17 @@
 ---
 title: "Lessons learned since posting my salary history publicly"
 description: "What I've learned in the year since posting my salary history publicly."
-date: 2022-09-21T09:13:54+0100
+date: "2022-09-21T09:13:54+0100"
+syndication:
+- "https://twitter.com/JamieTanna/status/1572556404967329793"
 tags:
-- salary
+- "salary"
 - "job"
-- capital-one
-- cddo
-- deliveroo
+- "capital-one"
+- "cddo"
+- "deliveroo"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-syndication:
-- https://brid.gy/publish/twitter
 slug: "year-later-salary-history"
 ---
 Just over a year ago, I did something quite "out there", even for me, and I posted my [salary history publicly](/salary/). This was accompanied by [a blog post](https://www.jvt.me/posts/2021/09/09/public-salary-history/) to explain why I was doing it, and it's certainly been popular.
