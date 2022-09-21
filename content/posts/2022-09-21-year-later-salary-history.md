@@ -40,7 +40,7 @@ So how many people have seen this? My first caveat for these numbers is that pri
     <td>4.1</td>
   </tr>
   <tr>
-    <td><a href="https://www.jvt.me/posts/2021/09/09/public-salary-history/>Salary blog post</a></td>
+    <td><a href="https://www.jvt.me/posts/2021/09/09/public-salary-history/">Salary blog post</a></td>
     <td>3035</td>
     <td>1.1</td>
   </tr>
