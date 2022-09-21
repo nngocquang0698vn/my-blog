@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jamie Tanna | www.jvt.me" ],
+          "nickname" : [ "JamieTanna" ],
+          "numeric-id" : [ "2292531098" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1489593363233976323/xBkjT_8W.jpg" ],
+          "published" : [ "2014-01-15T10:55:11+00:00" ],
+          "uid" : [ "tag:twitter.com:JamieTanna" ],
+          "url" : [ "https://twitter.com/JamieTanna", "https://www.jvt.me" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "What I've learned in the year since posting my salary history publicly.: <a href=\"https://www.jvt.me/posts/2022/09/21/year-later-salary-history/\">jvt.me/posts/2022/09/…</a>",
+        "value" : "What I've learned in the year since posting my salary history publicly.: jvt.me/posts/2022/09/…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FdLXt4AXEAAizFO.jpg" ],
+      "published" : [ "2022-09-21T12:00:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1572556404967329793" ],
+      "url" : [ "https://twitter.com/JamieTanna/status/1572556404967329793" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">An excellent post &amp; set of reflections.\nOne thing to always check is the pension - that's often missing from adverts and negotiations.\nObviously hard to compare DB and DC schemes.</div>",
+      "value" : "An excellent post & set of reflections.\nOne thing to always check is the pension - that's often missing from adverts and negotiations.\nObviously hard to compare DB and DC schemes."
+    } ],
+    "published" : [ "2022-09-21T12:06:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1572557797681762304" ],
+    "url" : [ "https://twitter.com/edent/status/1572557797681762304" ]
+  },
+  "type" : [ "h-entry" ]
+}
