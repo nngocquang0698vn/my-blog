@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you're reading this and you work with me: I'm extremely organised, and you imagined this whole thread" ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1572286142929862656" ],
+    "published" : [ "2022-09-20T18:07:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1572286287981453313" ],
+    "url" : [ "https://twitter.com/type__error/status/1572286287981453313" ]
+  },
+  "type" : [ "h-entry" ]
+}
