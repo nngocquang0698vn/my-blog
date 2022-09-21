@@ -1,0 +1,50 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ☔️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/stinkykatie/status/1567348903707611137\">@stinkykatie</a> "
+    } ],
+    "published" : [ "2022-09-20T19:03:27+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "name" : [ "☁ stinky katie ☁ (she/her)" ],
+            "nickname" : [ "stinkykatie" ],
+            "numeric-id" : [ "1538255926255357953" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1538256791527727106/WAphyvRY.jpg" ],
+            "published" : [ "2022-06-18T20:22:55+00:00" ],
+            "uid" : [ "tag:twitter.com:stinkykatie" ],
+            "url" : [ "https://twitter.com/stinkykatie", "http://linktr.ee/stinkykatie" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "photo" : [ "https://pbs.twimg.com/media/FcBXg3iXkAEFmmX.jpg" ],
+        "published" : [ "2022-09-07T03:07:53+00:00" ],
+        "uid" : [ "tag:twitter.com:1567348903707611137" ],
+        "url" : [ "https://twitter.com/stinkykatie/status/1567348903707611137" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1572300425377845251" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1572300425377845251" ]
+  },
+  "type" : [ "h-entry" ]
+}
