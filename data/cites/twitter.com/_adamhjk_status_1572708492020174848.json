@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mike Julian" ],
+          "nickname" : [ "mike_julian" ],
+          "numeric-id" : [ "245060834" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1165440038269681664/TggSogUh.jpg" ],
+          "published" : [ "2011-01-30T19:53:56+00:00" ],
+          "uid" : [ "tag:twitter.com:mike_julian" ],
+          "url" : [ "https://twitter.com/mike_julian", "https://www.duckbillgroup.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Remember way back in the day when the standard for writing Chef recipes was basically \"fuck the DSL, we'll write raw Ruby!\" ? Before everyone realized maybe that wasn't the best idea?\n\nI just saw AWS CDK code for the first time, and boy, things sure do seem familiar</div>",
+        "value" : "Remember way back in the day when the standard for writing Chef recipes was basically \"fuck the DSL, we'll write raw Ruby!\" ? Before everyone realized maybe that wasn't the best idea?\n\nI just saw AWS CDK code for the first time, and boy, things sure do seem familiar"
+      } ],
+      "published" : [ "2022-09-21T05:24:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1572456740951818243" ],
+      "url" : [ "https://twitter.com/mike_julian/status/1572456740951818243" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This certainly happened, but I don’t think it was ever “the standard”. The fact that it worked, though, made me stoked 100% of the time. I’ll counter with the fact that when this happens, it almost always worked fine for the user." ],
+    "published" : [ "2022-09-21T22:04:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1572708492020174848" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1572708492020174848" ]
+  },
+  "type" : [ "h-entry" ]
+}
