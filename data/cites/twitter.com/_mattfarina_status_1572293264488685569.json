@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Farina" ],
+        "nickname" : [ "mattfarina" ],
+        "numeric-id" : [ "5926692" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/66662481/picture-2.jpg" ],
+        "published" : [ "2007-05-10T11:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:mattfarina" ],
+        "url" : [ "https://twitter.com/mattfarina", "https://www.mattfarina.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why do so many security tools suggest installing them with `curl | bash`?!?!?!" ],
+    "published" : [ "2022-09-20T18:35:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1572293264488685569" ],
+    "url" : [ "https://twitter.com/mattfarina/status/1572293264488685569" ]
+  },
+  "type" : [ "h-entry" ]
+}
