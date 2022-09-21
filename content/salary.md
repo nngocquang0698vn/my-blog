@@ -205,6 +205,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
   </tr>
 
+<!--
   <tr>
     <td>
       2021-08-18
@@ -227,6 +228,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
     </td>
   </tr>
+-->
 
   <tr class=new-salary>
     <td>
