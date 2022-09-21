@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One of the unsung values of posting to HN is the unvarnished feedback if a link hits the front page.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/petecodes\"></a>",
+      "value" : "One of the unsung values of posting to HN is the unvarnished feedback if a link hits the front page."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/petecodes/status/1572558718168080386" ],
+    "published" : [ "2022-09-21T12:22:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1572562026236620801" ],
+    "url" : [ "https://twitter.com/mooreds/status/1572562026236620801" ]
+  },
+  "type" : [ "h-entry" ]
+}
