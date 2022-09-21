@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattfarina/status/1572293264488685569" ],
     "name" : [ "Like of @mattfarina's tweet" ],
     "published" : [ "2022-09-21T23:08:00+0100" ],
     "like-of" : [ "https://twitter.com/mattfarina/status/1572293264488685569" ],
