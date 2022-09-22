@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matthew Siu" ],
+          "nickname" : [ "MatthewWSiu" ],
+          "numeric-id" : [ "4741976232" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1478173317773201408/Enlezsji.jpg" ],
+          "published" : [ "2016-01-11T07:05:18+00:00" ],
+          "uid" : [ "tag:twitter.com:MatthewWSiu" ],
+          "url" : [ "https://twitter.com/MatthewWSiu", "http://matthewsiu.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "imagine if you could take the raw material of websites and shape it into new forms" ],
+      "published" : [ "2022-09-21T22:18:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1572711905776603143" ],
+      "url" : [ "https://twitter.com/MatthewWSiu/status/1572711905776603143" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1572711794619174912/pu/vid/1280x720/lyD0RnQOIBYMuDPO.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Hart 🏳️‍🌈" ],
+        "nickname" : [ "JoeHart" ],
+        "numeric-id" : [ "11385122" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1567976098041937923/ZzYmCfiZ.jpg" ],
+        "published" : [ "2007-12-20T21:27:58+00:00" ],
+        "uid" : [ "tag:twitter.com:JoeHart" ],
+        "url" : [ "https://twitter.com/JoeHart", "https://linktr.ee/Joehart", "http://joehart.fun" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "*Cries in <a href=\"http://schema.org\">schema.org</a>*",
+      "value" : "*Cries in schema.org*"
+    } ],
+    "published" : [ "2022-09-22T08:49:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1572870684296056834" ],
+    "url" : [ "https://twitter.com/JoeHart/status/1572870684296056834" ]
+  },
+  "type" : [ "h-entry" ]
+}
