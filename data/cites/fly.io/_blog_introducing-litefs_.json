@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Introducing LiteFS" ],
+    "summary" : [ "We are building a distributed file system for your SQLite databases. Kinda weird, huh?" ],
+    "featured" : [ "https://fly.io/blog/2022-09-21/litefs-cover.png" ],
+    "url" : [ "https://fly.io/blog/introducing-litefs/" ]
+  }
+}
