@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoeHart/status/1572870684296056834" ],
     "name" : [ "Like of @JoeHart's tweet" ],
     "published" : [ "2022-09-22T09:53:00+0100" ],
     "like-of" : [ "https://twitter.com/JoeHart/status/1572870684296056834" ],
