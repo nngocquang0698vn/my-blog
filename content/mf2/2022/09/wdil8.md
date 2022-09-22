@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheeDoctorB/status/1572013642304065536" ],
     "name" : [ "Like of @TheeDoctorB's tweet" ],
     "published" : [ "2022-09-22T11:14:00+0100" ],
     "like-of" : [ "https://twitter.com/TheeDoctorB/status/1572013642304065536" ],
