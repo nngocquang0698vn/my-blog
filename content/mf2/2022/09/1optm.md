@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fayemikah/status/1572617066502299648" ],
     "name" : [ "Like of @fayemikah's tweet" ],
     "published" : [ "2022-09-22T08:30:03.800302885Z" ],
     "category" : [ "cute" ],
