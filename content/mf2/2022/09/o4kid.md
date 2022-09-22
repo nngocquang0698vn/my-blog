@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trashp4ndasec/status/1572246818830045184" ],
     "name" : [ "Like of @trashp4ndasec's tweet" ],
     "published" : [ "2022-09-22T13:23:46.593792192Z" ],
     "like-of" : [ "https://twitter.com/trashp4ndasec/status/1572246818830045184" ],
