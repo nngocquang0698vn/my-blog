@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Entitlement in Open Source" ],
+    "summary" : [ "There have been discussions in the aftermath of the log4j vulnerability about whether or not open source is broken or sustainable, what we can do to improve the sustainability of the open source ecosystem moving forwards, and the entitlement of users and companies in expecting maintainers to fix their problems." ],
+    "featured" : [ "https://mikemcquaid.com/images/default-card.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mike McQuaid" ]
+      }
+    } ],
+    "url" : [ "https://mikemcquaid.com/entitlement-in-open-source/" ],
+    "published" : [ "2022-09-20T00:00:00+00:00" ]
+  }
+}
