@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rezgirlie/status/1572745225390690304" ],
     "name" : [ "Like of @rezgirlie's tweet" ],
     "published" : [ "2022-09-23T17:21:00+0100" ],
     "like-of" : [ "https://twitter.com/rezgirlie/status/1572745225390690304" ],
