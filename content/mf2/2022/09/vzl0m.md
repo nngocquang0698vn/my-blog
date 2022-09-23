@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/normalgirl222/status/1573158394449563649" ],
     "name" : [ "Like of @normalgirl222's tweet" ],
     "published" : [ "2022-09-23T20:05:00+0100" ],
     "like-of" : [ "https://twitter.com/normalgirl222/status/1573158394449563649" ],
