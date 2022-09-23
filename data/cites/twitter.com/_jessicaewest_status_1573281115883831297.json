@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA || London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica West" ],
+        "nickname" : [ "jessicaewest" ],
+        "numeric-id" : [ "29765369" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1463548365862412288/xH8zH7Sk.jpg" ],
+        "published" : [ "2009-04-08T17:16:18+00:00" ],
+        "uid" : [ "tag:twitter.com:jessicaewest" ],
+        "url" : [ "https://twitter.com/jessicaewest", "http://jessica.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Welp this feels like an backdrop today as I'm hustling to get work done before the West Coast wakes up. 😅" ],
+    "photo" : [ "https://pbs.twimg.com/media/FdVq1j2XkAI0-pM.jpg" ],
+    "published" : [ "2022-09-23T12:00:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1573281115883831297" ],
+    "url" : [ "https://twitter.com/jessicaewest/status/1573281115883831297" ]
+  },
+  "type" : [ "h-entry" ]
+}
