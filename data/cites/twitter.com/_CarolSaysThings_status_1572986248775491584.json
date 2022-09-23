@@ -1,0 +1,51 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ☔️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/1664timemachine/status/1572630052487200768\">@1664timemachine</a> Goldilocks trying the first bowl of porridge"
+    } ],
+    "published" : [ "2022-09-22T16:28:41+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "name" : [ "curt sarj" ],
+            "nickname" : [ "1664timemachine" ],
+            "numeric-id" : [ "1321879103755198464" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1428117904428515332/X1BpzDE_.jpg" ],
+            "published" : [ "2020-10-29T18:18:47+00:00" ],
+            "uid" : [ "tag:twitter.com:1664timemachine" ],
+            "url" : [ "https://twitter.com/1664timemachine" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "Goldilocks trying the first bowl of porridge" ],
+        "photo" : [ "https://pbs.twimg.com/media/FdMasreXkAEFlyq.jpg" ],
+        "published" : [ "2022-09-21T16:53:17+00:00" ],
+        "uid" : [ "tag:twitter.com:1572630052487200768" ],
+        "url" : [ "https://twitter.com/1664timemachine/status/1572630052487200768" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1572986248775491584" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1572986248775491584" ]
+  },
+  "type" : [ "h-entry" ]
+}
