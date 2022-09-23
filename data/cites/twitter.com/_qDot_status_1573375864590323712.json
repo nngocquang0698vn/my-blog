@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "El Cerrito, CA (SF Bay Area)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "qdot" ],
+        "nickname" : [ "qDot" ],
+        "numeric-id" : [ "770318" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565090652257275907/na33YnBR.png" ],
+        "published" : [ "2007-02-13T19:13:38+00:00" ],
+        "uid" : [ "tag:twitter.com:qDot" ],
+        "url" : [ "https://twitter.com/qDot", "https://kyle.machul.is", "http://nonpolynomial.com", "http://patreon.com/qdot" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Never going to understand why people use \"stale\" issue autoclosing bots on github.\n\nJust because you haven't had time to reply to things or address issues doesn't mean bugs magically go away, and requiring people to bump or refile, especially on confirmed issues, seems silly.</div>",
+      "value" : "Never going to understand why people use \"stale\" issue autoclosing bots on github.\n\nJust because you haven't had time to reply to things or address issues doesn't mean bugs magically go away, and requiring people to bump or refile, especially on confirmed issues, seems silly."
+    } ],
+    "published" : [ "2022-09-23T18:16:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1573375864590323712" ],
+    "url" : [ "https://twitter.com/qDot/status/1573375864590323712" ]
+  },
+  "type" : [ "h-entry" ]
+}
