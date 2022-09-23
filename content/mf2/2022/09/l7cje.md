@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElyKreimendahl/status/1573117719364370432" ],
     "name" : [ "Like of @ElyKreimendahl's tweet" ],
     "published" : [ "2022-09-23T09:19:03.605053311Z" ],
     "like-of" : [ "https://twitter.com/ElyKreimendahl/status/1573117719364370432" ],
