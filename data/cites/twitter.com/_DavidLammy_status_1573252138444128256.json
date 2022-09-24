@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tottenham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Lammy" ],
+        "nickname" : [ "DavidLammy" ],
+        "numeric-id" : [ "18020612" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334893581874716683/nI8J96l2.jpg" ],
+        "published" : [ "2008-12-10T14:53:54+00:00" ],
+        "uid" : [ "tag:twitter.com:DavidLammy" ],
+        "url" : [ "https://twitter.com/DavidLammy", "http://tidd.ly/315f030e" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I have a joke about trickle down economics.\n\n99% of you won’t ever get it.</div>",
+      "value" : "I have a joke about trickle down economics.\n\n99% of you won’t ever get it."
+    } ],
+    "published" : [ "2022-09-23T10:05:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1573252138444128256" ],
+    "url" : [ "https://twitter.com/DavidLammy/status/1573252138444128256" ]
+  },
+  "type" : [ "h-entry" ]
+}
