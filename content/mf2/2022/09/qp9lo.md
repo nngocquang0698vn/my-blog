@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/mischievousmeme/status/1573523955478310913" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1573591543688171523" ],
     "published" : [ "2022-09-24T09:24:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
