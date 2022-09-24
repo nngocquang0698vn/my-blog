@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/no-gravity/TwitterToNitter/stargazers" ],
     "published" : [ "2022-09-24T22:16:00+0100" ],
     "category" : [ "twitter", "nitter" ],
     "like-of" : [ "https://github.com/no-gravity/TwitterToNitter" ],
