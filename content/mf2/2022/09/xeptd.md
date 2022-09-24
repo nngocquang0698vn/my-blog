@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CSMFHT/status/1573566900625641473" ],
     "name" : [ "Like of @CSMFHT's tweet" ],
     "published" : [ "2022-09-24T12:18:00+0100" ],
     "like-of" : [ "https://twitter.com/CSMFHT/status/1573566900625641473" ],
