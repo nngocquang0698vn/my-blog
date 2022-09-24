@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Durham, NC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Hi I’m Solomon" ],
+          "nickname" : [ "solomonmissouri" ],
+          "numeric-id" : [ "21063822" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1493440915062595589/yxva1L8i.jpg" ],
+          "published" : [ "2009-02-17T04:25:41+00:00" ],
+          "uid" : [ "tag:twitter.com:solomonmissouri" ],
+          "url" : [ "https://twitter.com/solomonmissouri", "https://linktr.ee/solomonM" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "in-reply-to" : [ "https://twitter.com/solomonmissouri/status/1573318450285608961" ],
+      "photo" : [ "https://pbs.twimg.com/media/FdWNEefWIAAS-ZF.jpg" ],
+      "published" : [ "2022-09-23T14:29:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1573318757392723968" ],
+      "url" : [ "https://twitter.com/solomonmissouri/status/1573318757392723968" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1559638466748637192/7D6O2ZIN.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Are straight people ok" ],
+    "published" : [ "2022-09-24T00:22:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1573467918670626834" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1573467918670626834" ]
+  },
+  "type" : [ "h-entry" ]
+}
