@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Sunshine State" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Rick Scott" ],
+          "nickname" : [ "SenRickScott" ],
+          "numeric-id" : [ "131546062" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW.jpg" ],
+          "published" : [ "2010-04-10T16:03:04+00:00" ],
+          "uid" : [ "tag:twitter.com:SenRickScott" ],
+          "url" : [ "https://twitter.com/SenRickScott", "https://www.rickscott.senate.gov/hurricane-preparedness", "http://instagram.com/flsenrickscott" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Democrats want to CONTROL every aspect of your life. \n \nRepublicans want to give power back to YOU to make your own choices.</div>",
+        "value" : "Democrats want to CONTROL every aspect of your life. \n \nRepublicans want to give power back to YOU to make your own choices."
+      } ],
+      "published" : [ "2022-09-23T20:02:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1573402320687300623" ],
+      "url" : [ "https://twitter.com/SenRickScott/status/1573402320687300623" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Attleboro, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Miranda Yaver, PhD" ],
+        "nickname" : [ "mirandayaver" ],
+        "numeric-id" : [ "1704646470" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573322598708043776/JhJdE9LK.jpg" ],
+        "published" : [ "2013-08-27T13:19:37+00:00" ],
+        "uid" : [ "tag:twitter.com:mirandayaver" ],
+        "url" : [ "https://twitter.com/mirandayaver", "http://mirandayaver.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Choices… you mean, like, whether or not to have a child?" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Attleboro, MA" ],
+        "uid" : [ "tag:twitter.com:51f91ee83c9a8b40" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-09-24T00:36:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1573471311426363392" ],
+    "url" : [ "https://twitter.com/mirandayaver/status/1573471311426363392" ]
+  },
+  "type" : [ "h-entry" ]
+}
