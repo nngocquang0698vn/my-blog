@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IanColdwater/status/1573467918670626834" ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2022-09-24T16:36:00+0100" ],
     "like-of" : [ "https://twitter.com/IanColdwater/status/1573467918670626834" ],
