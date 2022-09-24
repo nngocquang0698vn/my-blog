@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "The Daily Show" ],
+          "nickname" : [ "TheDailyShow" ],
+          "numeric-id" : [ "158414847" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1508550745561337856/VwnhDt5J.jpg" ],
+          "published" : [ "2010-06-22T16:41:05+00:00" ],
+          "uid" : [ "tag:twitter.com:TheDailyShow" ],
+          "url" : [ "https://twitter.com/TheDailyShow", "https://linktr.ee/thedailyshow", "http://dailyshow.com/act" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "With all these book bans, <a href=\"https://twitter.com/levarburton\">@levarburton</a>'s life just got a lot more difficult. <a href=\"https://twitter.com/search?q=%23BannedBooksWeek\">#BannedBooksWeek</a>",
+        "value" : "With all these book bans, @levarburton's life just got a lot more difficult. #BannedBooksWeek"
+      } ],
+      "published" : [ "2022-09-23T18:03:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1573372373507739649" ],
+      "url" : [ "https://twitter.com/TheDailyShow/status/1573372373507739649" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1493810599620403203/vid/1280x720/6wip176D289U9BNb.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/thedailyshow/s…" ],
+      "url" : [ "https://twitter.com/thedailyshow/status/1573372373507739649" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "This Now Moment" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "LeVar Burton" ],
+        "nickname" : [ "levarburton" ],
+        "numeric-id" : [ "18396070" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469355723817566209/h5tTTKdL.jpg" ],
+        "published" : [ "2008-12-26T21:51:53+00:00" ],
+        "uid" : [ "tag:twitter.com:levarburton" ],
+        "url" : [ "https://twitter.com/levarburton", "https://linktr.ee/levarburton" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "For the folks in the back staring at their hymnals avoiding eye contact! <a href=\"https://twitter.com/search?q=%23BannedBooksWeek\">#BannedBooksWeek</a>\n<a class=\"tag\" href=\"https://twitter.com/thedailyshow/status/1573372373507739649\">twitter.com/thedailyshow/s…</a>",
+      "value" : "For the folks in the back staring at their hymnals avoiding eye contact! #BannedBooksWeek"
+    } ],
+    "published" : [ "2022-09-23T23:10:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1573449848216440832" ],
+    "url" : [ "https://twitter.com/levarburton/status/1573449848216440832" ]
+  },
+  "type" : [ "h-entry" ]
+}
