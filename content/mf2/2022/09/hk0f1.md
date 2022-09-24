@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oisouoraul/status/1044043138753605632" ],
     "name" : [ "Like of @oisouoraul's tweet" ],
     "published" : [ "2022-09-24T16:36:00+0100" ],
     "like-of" : [ "https://twitter.com/oisouoraul/status/1044043138753605632" ],
