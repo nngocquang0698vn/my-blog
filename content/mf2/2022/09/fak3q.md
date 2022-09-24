@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dcgrodz/status/1573281650586386433" ],
     "name" : [ "Like of @dcgrodz's tweet" ],
     "published" : [ "2022-09-24T06:04:00+0100" ],
     "like-of" : [ "https://twitter.com/dcgrodz/status/1573281650586386433" ],
