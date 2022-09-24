@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OvOBrezzzy/status/1573004880486219776" ],
     "name" : [ "Like of @OvOBrezzzy's tweet" ],
     "published" : [ "2022-09-24T11:44:00+0100" ],
     "like-of" : [ "https://twitter.com/OvOBrezzzy/status/1573004880486219776" ],
