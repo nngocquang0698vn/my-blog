@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Evan Sutton" ],
+        "nickname" : [ "3vanSutton" ],
+        "numeric-id" : [ "153168449" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1462120116896759813/YwA0QutA.jpg" ],
+        "published" : [ "2010-06-07T21:33:09+00:00" ],
+        "uid" : [ "tag:twitter.com:3vanSutton" ],
+        "url" : [ "https://twitter.com/3vanSutton", "http://firekitcampaigns.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Passive voice ALWAYS absolves someone of responsibility. If you find yourself writing or speaking in passive voice, try to stop and think, \"Who am I giving a free pass to with this language?\" Then take a minute to figure out how you can place the burden of action where it belongs" ],
+    "in-reply-to" : [ "https://twitter.com/3vanSutton/status/1573449480614989824" ],
+    "published" : [ "2022-09-23T23:11:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1573450127678705664" ],
+    "url" : [ "https://twitter.com/3vanSutton/status/1573450127678705664" ]
+  },
+  "type" : [ "h-entry" ]
+}
