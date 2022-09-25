@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Leandro" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "foone" ],
+        "nickname" : [ "Foone" ],
+        "numeric-id" : [ "13502732" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0.jpg" ],
+        "published" : [ "2008-02-15T03:51:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Foone" ],
+        "url" : [ "https://twitter.com/Foone", "https://floppy.foone.org/w/Main_Page", "http://ko-fi.com/fooneturing" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">if your website automatically blocks HTTP requests from suspiciously \"bot\" user-agents, like python/urllib?\n\nyou are a fool and you are going to get scraped just as hard, but now you've pissed off the archivist.</div>",
+      "value" : "if your website automatically blocks HTTP requests from suspiciously \"bot\" user-agents, like python/urllib?\n\nyou are a fool and you are going to get scraped just as hard, but now you've pissed off the archivist."
+    } ],
+    "published" : [ "2022-09-23T02:46:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1573141826793775104" ],
+    "url" : [ "https://twitter.com/Foone/status/1573141826793775104" ]
+  },
+  "type" : [ "h-entry" ]
+}
