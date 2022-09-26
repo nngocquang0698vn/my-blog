@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Jenny, but a Camilla Hect Stan Account" ],
+          "nickname" : [ "readingtheend" ],
+          "numeric-id" : [ "48215528" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/849611507314941952/n44Dzy7c.jpg" ],
+          "published" : [ "2009-06-18T02:36:52+00:00" ],
+          "uid" : [ "tag:twitter.com:readingtheend" ],
+          "url" : [ "https://twitter.com/readingtheend", "http://readingtheend.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "what's your evil job? like if you were Evil You, what unethical job would you excel at?" ],
+      "published" : [ "2021-04-28T20:01:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1387497136833585154" ],
+      "url" : [ "https://twitter.com/readingtheend/status/1387497136833585154" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "El Cerrito, CA (SF Bay Area)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "qdot" ],
+        "nickname" : [ "qDot" ],
+        "numeric-id" : [ "770318" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565090652257275907/na33YnBR.png" ],
+        "published" : [ "2007-02-13T19:13:38+00:00" ],
+        "uid" : [ "tag:twitter.com:qDot" ],
+        "url" : [ "https://twitter.com/qDot", "https://kyle.machul.is", "http://nonpolynomial.com", "http://patreon.com/qdot" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Buttplugs" ],
+    "published" : [ "2022-09-26T04:06:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1574249132931264512" ],
+    "url" : [ "https://twitter.com/qDot/status/1574249132931264512" ]
+  },
+  "type" : [ "h-entry" ]
+}
