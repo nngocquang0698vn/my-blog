@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jim Pickard" ],
+          "nickname" : [ "PickardJE" ],
+          "numeric-id" : [ "69080476" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1553088377934807049/X6OirsG_.jpg" ],
+          "published" : [ "2009-08-26T20:06:27+00:00" ],
+          "uid" : [ "tag:twitter.com:PickardJE" ],
+          "url" : [ "https://twitter.com/PickardJE", "http://ft.com", "http://jimpickard.picfair.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "this is the most interesting thing I’ve read today" ],
+      "photo" : [ "https://pbs.twimg.com/media/FdbPOeDWYAEvLZ1.jpg" ],
+      "published" : [ "2022-09-24T13:57:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1573672973034209280" ],
+      "url" : [ "https://twitter.com/PickardJE/status/1573672973034209280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "numeric-id" : [ "1389781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What the heck? This is why I drink tomato juice on planes and nowhere else?" ],
+    "published" : [ "2022-09-26T05:21:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1574267970578161664" ],
+    "url" : [ "https://twitter.com/sil/status/1574267970578161664" ]
+  },
+  "type" : [ "h-entry" ]
+}
