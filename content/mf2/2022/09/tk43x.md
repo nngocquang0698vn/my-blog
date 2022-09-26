@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LugTheClown/status/1574007005840568322" ],
     "name" : [ "Like of @LugTheClown's tweet" ],
     "published" : [ "2022-09-26T11:00:00+0100" ],
     "like-of" : [ "https://twitter.com/LugTheClown/status/1574007005840568322" ],
