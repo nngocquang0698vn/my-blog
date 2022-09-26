@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/misprintedtype/status/1574280475551612928" ],
     "name" : [ "Like of @misprintedtype's tweet" ],
     "published" : [ "2022-09-26T07:48:00+0100" ],
     "like-of" : [ "https://twitter.com/misprintedtype/status/1574280475551612928" ],
