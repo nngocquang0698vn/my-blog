@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498963563033018374/Hd6rtNUK.jpg" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I also like \"blogumentation\" which I've seen folks like <a href=\"https://twitter.com/lornajane\">@lornajane</a> and <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> do a lot, great for just exploring things you're learning / doing.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mvriel\"></a>",
+      "value" : "I also like \"blogumentation\" which I've seen folks like @lornajane and @JamieTanna do a lot, great for just exploring things you're learning / doing."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mvriel/status/1574297383533518848" ],
+    "published" : [ "2022-09-26T08:04:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1574308817076117504" ],
+    "url" : [ "https://twitter.com/Brunty/status/1574308817076117504" ]
+  },
+  "type" : [ "h-entry" ]
+}
