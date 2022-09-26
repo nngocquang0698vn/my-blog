@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Can new Go errors wrapper replace pkg/errors?" ],
+    "summary" : [ "Go version 1.13 includes new functions to work with errors. These functions are expired by popular github.com/pkg/errors package. Let’s see if new wrapper can replace existing library." ],
+    "url" : [ "https://blog.dharnitski.com/2019/09/09/go-errors-are-not-pkg-errors/" ],
+    "published" : [ "2019-09-09T00:00:00+00:00" ]
+  }
+}
