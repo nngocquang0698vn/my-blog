@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PickardJE/status/1573672973034209280" ],
     "name" : [ "Like of @PickardJE's tweet" ],
     "published" : [ "2022-09-26T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/PickardJE/status/1573672973034209280" ],
