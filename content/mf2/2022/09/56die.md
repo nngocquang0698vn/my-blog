@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theyfemme/status/1574502442917675054" ],
     "name" : [ "Like of @theyfemme's tweet" ],
     "published" : [ "2022-09-26T22:37:00+0100" ],
     "like-of" : [ "https://twitter.com/theyfemme/status/1574502442917675054" ],
