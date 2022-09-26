@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maxine" ],
+        "nickname" : [ "theyfemme" ],
+        "numeric-id" : [ "1179713224696045568" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317234190581190656/lTfxQAyV.jpg" ],
+        "published" : [ "2019-10-03T11:02:13+00:00" ],
+        "uid" : [ "tag:twitter.com:theyfemme" ],
+        "url" : [ "https://twitter.com/theyfemme" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "chronic depression 🤝 SAD" ],
+    "photo" : [ {
+      "alt" : "Merry and Pippin second breakfast meme captioned with: \"We've had one, yes. But what about second depression?\"",
+      "value" : "https://pbs.twimg.com/media/FdnBoDFXwBwSpg6.jpg"
+    } ],
+    "published" : [ "2022-09-26T20:53:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1574502442917675054" ],
+    "url" : [ "https://twitter.com/theyfemme/status/1574502442917675054" ]
+  },
+  "type" : [ "h-entry" ]
+}
