@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thattraumanurse/status/1574443516599488517" ],
     "name" : [ "Like of @thattraumanurse's tweet" ],
     "published" : [ "2022-09-27T22:18:00+0100" ],
     "like-of" : [ "https://twitter.com/thattraumanurse/status/1574443516599488517" ],
