@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/knowmiun/status/1574571981411713025" ],
     "name" : [ "Like of @knowmiun's tweet" ],
     "published" : [ "2022-09-27T10:52:00+0100" ],
     "like-of" : [ "https://twitter.com/knowmiun/status/1574571981411713025" ],
