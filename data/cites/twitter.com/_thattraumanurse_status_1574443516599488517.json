@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chase Strangio" ],
+          "nickname" : [ "chasestrangio" ],
+          "numeric-id" : [ "1476133082" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1571147085713444865/32Rc33gK.jpg" ],
+          "published" : [ "2013-06-02T01:48:45+00:00" ],
+          "uid" : [ "tag:twitter.com:chasestrangio" ],
+          "url" : [ "https://twitter.com/chasestrangio", "https://slate.com/human-interest/2016/07/theres-no-such-thing-as-a-male-body.html" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I had top surgery 13 years ago. There is not a day that goes by that I don’t think about how it was the best thing I have ever done for my survival. I also had orthopedic knee surgery at 14 and often regret it. But no NYTs pieces about orthopedic regret I see." ],
+      "published" : [ "2022-09-26T12:04:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1574369228626563075" ],
+      "url" : [ "https://twitter.com/chasestrangio/status/1574369228626563075" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rook Bartz, superhero 🏳️‍⚧️🏳️‍🌈" ],
+        "nickname" : [ "thattraumanurse" ],
+        "numeric-id" : [ "32345883" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1554131148854333440/tPi6dJGN.jpg" ],
+        "published" : [ "2009-04-17T08:14:26+00:00" ],
+        "uid" : [ "tag:twitter.com:thattraumanurse" ],
+        "url" : [ "https://twitter.com/thattraumanurse" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In case you’re curious: total knee replacement has a 30% regret rate. Cisgender breast augmentation? 30% regret rate. Affirming surgeries have about a 1-2% regret rate." ],
+    "published" : [ "2022-09-26T16:59:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1574443516599488517" ],
+    "url" : [ "https://twitter.com/thattraumanurse/status/1574443516599488517" ]
+  },
+  "type" : [ "h-entry" ]
+}
