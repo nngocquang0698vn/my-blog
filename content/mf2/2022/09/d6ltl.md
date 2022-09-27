@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dhmontgomery/status/1574470985310507009" ],
     "name" : [ "Like of @dhmontgomery's tweet" ],
     "published" : [ "2022-09-27T10:51:00+0100" ],
     "like-of" : [ "https://twitter.com/dhmontgomery/status/1574470985310507009" ],
