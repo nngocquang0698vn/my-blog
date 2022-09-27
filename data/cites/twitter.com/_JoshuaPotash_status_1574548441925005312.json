@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hawthorne, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "SpaceX" ],
+          "nickname" : [ "SpaceX" ],
+          "numeric-id" : [ "34743251" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ.jpg" ],
+          "published" : [ "2009-04-23T21:53:30+00:00" ],
+          "uid" : [ "tag:twitter.com:SpaceX" ],
+          "url" : [ "https://twitter.com/SpaceX", "http://www.spacex.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Congratulations on successfully crashing a spacecraft into an asteroid!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/NASA\"></a>",
+        "value" : "Congratulations on successfully crashing a spacecraft into an asteroid!"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/NASA/status/1574539270987173903" ],
+      "published" : [ "2022-09-26T23:30:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1574541890120081409" ],
+      "url" : [ "https://twitter.com/SpaceX/status/1574541890120081409" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/spacex/status/…" ],
+      "url" : [ "https://twitter.com/spacex/status/1574541890120081409" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Lenapehoking (NYC)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Read Class Struggle Unionism by Joe Burns" ],
+        "nickname" : [ "JoshuaPotash" ],
+        "numeric-id" : [ "1090715513586679813" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1267117596542930949/ja591xA4.jpg" ],
+        "published" : [ "2019-01-30T20:56:57+00:00" ],
+        "uid" : [ "tag:twitter.com:JoshuaPotash" ],
+        "url" : [ "https://twitter.com/JoshuaPotash", "https://www.instagram.com/joshua.potash/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Lol Musk is upset because NASA just pulled off hitting an asteroid, while all his products ever hit are pedestrians.\n<a class=\"tag\" href=\"https://twitter.com/spacex/status/1574541890120081409\">twitter.com/spacex/status/…</a>",
+      "value" : "Lol Musk is upset because NASA just pulled off hitting an asteroid, while all his products ever hit are pedestrians."
+    } ],
+    "published" : [ "2022-09-26T23:56:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1574548441925005312" ],
+    "url" : [ "https://twitter.com/JoshuaPotash/status/1574548441925005312" ]
+  },
+  "type" : [ "h-entry" ]
+}
