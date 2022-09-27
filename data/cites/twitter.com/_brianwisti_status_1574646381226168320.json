@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Slowly but surely learning the difference between a database and an AWS serverless cluster v2.\n\nThe former holds data, while the latter mainly serves to impress people at tech gatherings.\n\nI'm kidding of course.\n\nWhoever heard of a tech gathering?!</div>",
+      "value" : "Slowly but surely learning the difference between a database and an AWS serverless cluster v2.\n\nThe former holds data, while the latter mainly serves to impress people at tech gatherings.\n\nI'm kidding of course.\n\nWhoever heard of a tech gathering?!"
+    } ],
+    "published" : [ "2022-09-27T06:25:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1574646381226168320" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1574646381226168320" ]
+  },
+  "type" : [ "h-entry" ]
+}
