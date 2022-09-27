@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pulchraiaspis/status/1574014961961127939" ],
     "name" : [ "Like of @pulchraiaspis's tweet" ],
     "published" : [ "2022-09-27T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/pulchraiaspis/status/1574014961961127939" ],
