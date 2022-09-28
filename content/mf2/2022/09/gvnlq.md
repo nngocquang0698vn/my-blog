@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheeRogueDM/status/1574812959431352320" ],
     "name" : [ "Like of @TheeRogueDM's tweet" ],
     "published" : [ "2022-09-28T18:29:00+0100" ],
     "like-of" : [ "https://twitter.com/TheeRogueDM/status/1574812959431352320" ],
