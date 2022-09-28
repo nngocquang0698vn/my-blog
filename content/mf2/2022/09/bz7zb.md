@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/keonmalexander/status/1574810106742468614" ],
     "name" : [ "Like of @keonmalexander's tweet" ],
     "published" : [ "2022-09-28T13:34:00+0100" ],
     "like-of" : [ "https://twitter.com/keonmalexander/status/1574810106742468614" ],
