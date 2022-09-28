@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alex_falcone/status/1574801865010663425" ],
     "name" : [ "Like of @alex_falcone's tweet" ],
     "published" : [ "2022-09-28T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/alex_falcone/status/1574801865010663425" ],
