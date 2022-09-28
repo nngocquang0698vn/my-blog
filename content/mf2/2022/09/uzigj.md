@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drjenwolkin/status/1574800323473965059" ],
     "name" : [ "Like of @drjenwolkin's tweet" ],
     "published" : [ "2022-09-28T10:25:00+0100" ],
     "like-of" : [ "https://twitter.com/drjenwolkin/status/1574800323473965059" ],
