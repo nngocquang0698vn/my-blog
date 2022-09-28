@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alex Falcone" ],
+          "nickname" : [ "alex_falcone" ],
+          "numeric-id" : [ "14245318" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1486543108196081669/DPR6vgpi.jpg" ],
+          "published" : [ "2008-03-28T17:21:39+00:00" ],
+          "uid" : [ "tag:twitter.com:alex_falcone" ],
+          "url" : [ "https://twitter.com/alex_falcone", "https://linktr.ee/alexfalcone" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I’ve been lucky enough to be bumped up to first class a couple times recently and my main take away is that it’s not extremely luxurious, it’s just how a normal person should be treated. That’s it. For $3,000 they’ll give you a human sized chair and not be actively mean to you." ],
+      "published" : [ "2022-09-27T16:43:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1574801865010663425" ],
+      "url" : [ "https://twitter.com/alex_falcone/status/1574801865010663425" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kf" ],
+        "nickname" : [ "kf" ],
+        "numeric-id" : [ "7178502" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543440059218595840/JA7MbqB_.jpg" ],
+        "published" : [ "2007-07-01T00:14:33+00:00" ],
+        "uid" : [ "tag:twitter.com:kf" ],
+        "url" : [ "https://twitter.com/kf", "http://kf.gay/about", "http://pronoun.is/they" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">tbh as a tall, fat, queer person who works in tech I've made my employers buy me tickets in first just so I don't get actively harassed in coach\n\nit has always been an extra $1-2k per trip but worth it so I wouldn't get screamed at during cross-country flights\n\nthe bar is so low</div>",
+      "value" : "tbh as a tall, fat, queer person who works in tech I've made my employers buy me tickets in first just so I don't get actively harassed in coach\n\nit has always been an extra $1-2k per trip but worth it so I wouldn't get screamed at during cross-country flights\n\nthe bar is so low"
+    } ],
+    "published" : [ "2022-09-28T05:46:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1574998847780442112" ],
+    "url" : [ "https://twitter.com/kf/status/1574998847780442112" ]
+  },
+  "type" : [ "h-entry" ]
+}
