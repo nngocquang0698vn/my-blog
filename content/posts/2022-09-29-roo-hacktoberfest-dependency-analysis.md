@@ -1,6 +1,6 @@
 ---
 title: "Analysing our dependency trees to determine where we should send Open Source contributions for Hacktoberfest"
-description: "How we're using GitHub Advanced Security's dependency scanning functionality to determine what our most popular dependencies are, and whether we can find any Open Source contributions for the month of Hacktoberfest."
+description: "How we (at Deliveroo) are using GitHub Advanced Security's dependency scanning functionality to determine what our most popular dependencies are, and whether we can find any Open Source contributions for the month of Hacktoberfest."
 date: 2022-09-29T13:10:23+0100
 tags:
 - deliveroo
