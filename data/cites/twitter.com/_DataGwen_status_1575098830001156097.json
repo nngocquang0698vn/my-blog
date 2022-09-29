@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gwen" ],
+        "nickname" : [ "DataGwen" ],
+        "numeric-id" : [ "1225930742540251137" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575224938063069184/Ncz8YHif.jpg" ],
+        "published" : [ "2020-02-07T23:54:11+00:00" ],
+        "uid" : [ "tag:twitter.com:DataGwen" ],
+        "url" : [ "https://twitter.com/DataGwen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "babe are you ok? you’ve barely touched the dashboard you claimed was mission critical" ],
+    "published" : [ "2022-09-28T12:23:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1575098830001156097" ],
+    "url" : [ "https://twitter.com/DataGwen/status/1575098830001156097" ]
+  },
+  "type" : [ "h-entry" ]
+}
