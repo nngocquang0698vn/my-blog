@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoContextTrek/status/1575271098664599552" ],
     "name" : [ "Like of @NoContextTrek's tweet" ],
     "published" : [ "2022-09-29T08:03:00+0100" ],
     "like-of" : [ "https://twitter.com/NoContextTrek/status/1575271098664599552" ],
