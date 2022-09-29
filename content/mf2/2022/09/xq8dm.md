@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DeathxLeopard/status/1575455177947095040" ],
     "name" : [ "Like of @DeathxLeopard's tweet" ],
     "published" : [ "2022-09-29T16:31:00+0100" ],
     "like-of" : [ "https://twitter.com/DeathxLeopard/status/1575455177947095040" ],
