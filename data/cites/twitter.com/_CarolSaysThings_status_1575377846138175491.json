@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ☔️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/aWildSalem/status/1575153989334671360\">@aWildSalem</a> tattoos should make you more employable because they show you can sit in place for hours while tiny needles are jammed into your skin and that’s what every corporate meeting I’ve ever been in has felt like"
+    } ],
+    "published" : [ "2022-09-29T06:52:02+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Ohio, USA" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "hire salem" ],
+            "nickname" : [ "aWildSalem" ],
+            "numeric-id" : [ "1184627119" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1548006499858821121/LZQizm0y.jpg" ],
+            "published" : [ "2013-02-16T04:20:23+00:00" ],
+            "uid" : [ "tag:twitter.com:aWildSalem" ],
+            "url" : [ "https://twitter.com/aWildSalem", "https://salemhoffman.com/" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "tattoos should make you more employable because they show you can sit in place for hours while tiny needles are jammed into your skin and that’s what every corporate meeting I’ve ever been in has felt like" ],
+        "published" : [ "2022-09-28T16:02:30+00:00" ],
+        "uid" : [ "tag:twitter.com:1575153989334671360" ],
+        "url" : [ "https://twitter.com/aWildSalem/status/1575153989334671360" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1575377846138175491" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1575377846138175491" ]
+  },
+  "type" : [ "h-entry" ]
+}
