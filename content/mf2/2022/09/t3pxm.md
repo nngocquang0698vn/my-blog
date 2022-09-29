@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gilderthorpe/status/1575320174189682688" ],
     "name" : [ "Like of @gilderthorpe's tweet" ],
     "published" : [ "2022-09-29T10:56:00+0100" ],
     "like-of" : [ "https://twitter.com/gilderthorpe/status/1575320174189682688" ],
