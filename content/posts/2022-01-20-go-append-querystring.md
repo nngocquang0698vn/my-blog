@@ -19,16 +19,16 @@ With Go, we'd parse the URL, amend the querystring, and then make sure we set th
 func addTracking(theUrl string) string {
 	u, err := url.Parse(theUrl)
 	if err != nil {
-    panic(err)
+		panic(err)
 	}
 
 	queryString := u.Query()
-  // append
+	// append
 	queryString.Add("utm_campaign", "the_tracking_campaign")
-  // override
+	// override
 	queryString.Set("utm_campaign", "the_tracking_campaign")
 
-  // make sure
+	// make sure
 	u.RawQuery = queryString.Encode()
 
 	return u.String()
