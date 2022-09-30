@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RobertGReeve/status/1575719168921718785" ],
     "name" : [ "Like of @RobertGReeve's tweet" ],
     "published" : [ "2022-09-30T11:28:00+0100" ],
     "like-of" : [ "https://twitter.com/RobertGReeve/status/1575719168921718785" ],
