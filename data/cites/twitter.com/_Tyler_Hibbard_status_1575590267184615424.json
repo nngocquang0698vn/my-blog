@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tyler Hibbard" ],
+        "nickname" : [ "Tyler_Hibbard" ],
+        "numeric-id" : [ "17258403" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3563265329/5ad86b6b566cc0d5d8f95fc03b0b3b34.jpeg" ],
+        "published" : [ "2008-11-08T20:08:43+00:00" ],
+        "uid" : [ "tag:twitter.com:Tyler_Hibbard" ],
+        "url" : [ "https://twitter.com/Tyler_Hibbard" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "yikes Jack... \"too critical to humanity\"🙄\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kateconger\"></a>",
+      "value" : "yikes Jack... \"too critical to humanity\"🙄"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kateconger/status/1575589049573601280" ],
+    "published" : [ "2022-09-29T20:56:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1575590267184615424" ],
+    "url" : [ "https://twitter.com/Tyler_Hibbard/status/1575590267184615424" ]
+  },
+  "type" : [ "h-entry" ]
+}
