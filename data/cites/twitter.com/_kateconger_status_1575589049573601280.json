@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kate conger" ],
+        "nickname" : [ "kateconger" ],
+        "numeric-id" : [ "316154811" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389641884054679552/Yjw2e4Ux.jpg" ],
+        "published" : [ "2011-06-13T01:12:40+00:00" ],
+        "uid" : [ "tag:twitter.com:kateconger" ],
+        "url" : [ "https://twitter.com/kateconger", "https://www.nytimes.com/by/kate-conger" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Jack Dorsey organized a last ditch meeting on 4/26 between Elon and Parag Agrawal. It apparently did not go well: Jack vouches for Parag before the meeting, then says afterwards that it's clear Elon can't work with Parag." ],
+    "in-reply-to" : [ "https://twitter.com/kateconger/status/1575586848117702656" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fd2dt1VVIAApv2G.jpg", "https://pbs.twimg.com/media/Fd2dvnYVsAIWEtb.png" ],
+    "published" : [ "2022-09-29T20:51:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1575589049573601280" ],
+    "url" : [ "https://twitter.com/kateconger/status/1575589049573601280" ]
+  },
+  "type" : [ "h-entry" ]
+}
