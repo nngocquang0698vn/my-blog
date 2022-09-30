@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChaelaThomson/status/1575959643020328960" ],
     "name" : [ "Like of @ChaelaThomson's tweet" ],
     "published" : [ "2022-09-30T22:28:00+0100" ],
     "like-of" : [ "https://twitter.com/ChaelaThomson/status/1575959643020328960" ],
