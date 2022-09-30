@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kate conger" ],
+        "nickname" : [ "kateconger" ],
+        "numeric-id" : [ "316154811" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389641884054679552/Yjw2e4Ux.jpg" ],
+        "published" : [ "2011-06-13T01:12:40+00:00" ],
+        "uid" : [ "tag:twitter.com:kateconger" ],
+        "url" : [ "https://twitter.com/kateconger", "https://www.nytimes.com/by/kate-conger" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A bunch of Elon Musk's text messages hit the docket today in Twitter v. Musk. Most of them identify sender & recipient, but this one, apparently about reinstating Trump, does not." ],
+    "photo" : [ "https://pbs.twimg.com/media/Fd2S9ZyVIAA2Zts.jpg" ],
+    "published" : [ "2022-09-29T20:03:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1575577084210032640" ],
+    "url" : [ "https://twitter.com/kateconger/status/1575577084210032640" ]
+  },
+  "type" : [ "h-entry" ]
+}
