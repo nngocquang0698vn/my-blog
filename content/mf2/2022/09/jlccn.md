@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TitPostLeft/status/1575853662542434304" ],
     "name" : [ "Like of @TitPostLeft's tweet" ],
     "published" : [ "2022-09-30T21:59:00+0100" ],
     "like-of" : [ "https://twitter.com/TitPostLeft/status/1575853662542434304" ],
