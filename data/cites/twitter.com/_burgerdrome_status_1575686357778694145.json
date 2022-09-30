@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "kate conger" ],
+          "nickname" : [ "kateconger" ],
+          "numeric-id" : [ "316154811" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1389641884054679552/Yjw2e4Ux.jpg" ],
+          "published" : [ "2011-06-13T01:12:40+00:00" ],
+          "uid" : [ "tag:twitter.com:kateconger" ],
+          "url" : [ "https://twitter.com/kateconger", "https://www.nytimes.com/by/kate-conger" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Jack Dorsey organized a last ditch meeting on 4/26 between Elon and Parag Agrawal. It apparently did not go well: Jack vouches for Parag before the meeting, then says afterwards that it's clear Elon can't work with Parag." ],
+      "in-reply-to" : [ "https://twitter.com/kateconger/status/1575586848117702656" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fd2dt1VVIAApv2G.jpg", "https://pbs.twimg.com/media/Fd2dvnYVsAIWEtb.png" ],
+      "published" : [ "2022-09-29T20:51:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1575589049573601280" ],
+      "url" : [ "https://twitter.com/kateconger/status/1575589049573601280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "logging off" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "timb" ],
+        "nickname" : [ "burgerdrome" ],
+        "numeric-id" : [ "15167540" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1539270581207838720/ZjpOPrvo.jpg" ],
+        "published" : [ "2008-06-19T09:03:33+00:00" ],
+        "uid" : [ "tag:twitter.com:burgerdrome" ],
+        "url" : [ "https://twitter.com/burgerdrome", "http://notsounwashed.com/2020/03/never-tweet/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "jack dorsey describing the safe handover of twitter to elon musk as \"critical for humanity\" is the most deranged CEO shit I've ever seen" ],
+    "published" : [ "2022-09-30T03:17:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1575686357778694145" ],
+    "url" : [ "https://twitter.com/burgerdrome/status/1575686357778694145" ]
+  },
+  "type" : [ "h-entry" ]
+}
