@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Long Beach, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vince" ],
+        "nickname" : [ "vslevin" ],
+        "numeric-id" : [ "17055254" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1572296431091994624/1P1zNUF8.jpg" ],
+        "published" : [ "2008-10-29T23:39:21+00:00" ],
+        "uid" : [ "tag:twitter.com:vslevin" ],
+        "url" : [ "https://twitter.com/vslevin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Google killed the Circle\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/blueminder\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jsstaedtler\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/killedbygoogle\"></a>",
+      "value" : "Google killed the Circle"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jsstaedtler/status/1575535796731322368" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fd2nJaTVEAEJmVp.jpg" ],
+    "published" : [ "2022-09-29T21:31:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1575599227668832257" ],
+    "url" : [ "https://twitter.com/vslevin/status/1575599227668832257" ]
+  },
+  "type" : [ "h-entry" ]
+}
