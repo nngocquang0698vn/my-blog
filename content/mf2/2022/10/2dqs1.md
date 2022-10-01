@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/whitecachalot/status/1575922707006656512" ],
     "name" : [ "Like of @whitecachalot's tweet" ],
     "published" : [ "2022-10-01T10:47:00+0100" ],
     "like-of" : [ "https://twitter.com/whitecachalot/status/1575922707006656512" ],
