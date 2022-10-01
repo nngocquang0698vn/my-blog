@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Everywhere" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CNN International" ],
+          "nickname" : [ "cnni" ],
+          "numeric-id" : [ "2097571" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg" ],
+          "published" : [ "2007-03-24T10:48:14+00:00" ],
+          "uid" : [ "tag:twitter.com:cnni" ],
+          "url" : [ "https://twitter.com/cnni", "http://cnn.com/international" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Switzerland’s highest court has ordered Lidl to destroy its chocolate bunnies <a href=\"https://cnn.it/3RlIJis\">cnn.it/3RlIJis</a>",
+        "value" : "Switzerland’s highest court has ordered Lidl to destroy its chocolate bunnies cnn.it/3RlIJis"
+      } ],
+      "published" : [ "2022-10-01T06:00:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1576089573007949825" ],
+      "url" : [ "https://twitter.com/cnni/status/1576089573007949825" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vinny Thomas" ],
+        "nickname" : [ "vinn_ayy" ],
+        "numeric-id" : [ "867008801433669634" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1571857939962671104/Eq-076H1.jpg" ],
+        "published" : [ "2017-05-23T13:26:21+00:00" ],
+        "uid" : [ "tag:twitter.com:vinn_ayy" ],
+        "url" : [ "https://twitter.com/vinn_ayy", "https://www.instagram.com/vinn_ayy/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is sick. They should be released into a sanctuary." ],
+    "published" : [ "2022-10-01T06:01:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1576089954265927680" ],
+    "url" : [ "https://twitter.com/vinn_ayy/status/1576089954265927680" ]
+  },
+  "type" : [ "h-entry" ]
+}
