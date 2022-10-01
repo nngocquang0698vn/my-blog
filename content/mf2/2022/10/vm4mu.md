@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mooreds/status/1576236396397723648" ],
     "name" : [ "Like of @mooreds's tweet" ],
     "published" : [ "2022-10-01T18:09:00+0100" ],
     "like-of" : [ "https://twitter.com/mooreds/status/1576236396397723648" ],
