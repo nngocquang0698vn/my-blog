@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chernayakoshka/status/1575508391350394880" ],
     "name" : [ "Like of @chernayakoshka's tweet" ],
     "published" : [ "2022-10-01T22:07:00+0100" ],
     "category" : [ "cute" ],
