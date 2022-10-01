@@ -1,0 +1,59 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ☔️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/_patryc_/status/1575919246487363584\">@_patryc_</a> <div style=\"white-space: pre\">in 1920 we took children out of the coal mines \n\nin 2020, the most popular video game on the market is minecraft.\n\nthe children yearn for the mines</div>"
+    } ],
+    "published" : [ "2022-10-01T20:48:16+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Phoenix, AZ" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "patryc🌹dad/daddy🔞" ],
+            "nickname" : [ "_patryc_" ],
+            "numeric-id" : [ "607060058" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1304493723665883136/hzwc-tBt.jpg" ],
+            "published" : [ "2012-06-13T09:38:08+00:00" ],
+            "uid" : [ "tag:twitter.com:_patryc_" ],
+            "url" : [ "https://twitter.com/_patryc_", "http://youtube.com/patrickmichaelsen" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ {
+          "html" : "<div style=\"white-space: pre\">in 1920 we took children out of the coal mines \n\nin 2020, the most popular video game on the market is minecraft.\n\nthe children yearn for the mines</div>",
+          "value" : "in 1920 we took children out of the coal mines \n\nin 2020, the most popular video game on the market is minecraft.\n\nthe children yearn for the mines"
+        } ],
+        "published" : [ "2022-09-30T18:43:22+00:00" ],
+        "uid" : [ "tag:twitter.com:1575919246487363584" ],
+        "url" : [ "https://twitter.com/_patryc_/status/1575919246487363584" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1576313069109915648" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1576313069109915648" ]
+  },
+  "type" : [ "h-entry" ]
+}
