@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/groomyd/status/1575766731787993089" ],
     "name" : [ "Like of @groomyd's tweet" ],
     "published" : [ "2022-10-01T08:10:00+0100" ],
     "like-of" : [ "https://twitter.com/groomyd/status/1575766731787993089" ],
