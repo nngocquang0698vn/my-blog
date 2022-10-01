@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RotoPenguin/status/1576086456250126336" ],
     "name" : [ "Like of @RotoPenguin's tweet" ],
     "published" : [ "2022-10-01T20:21:00+0100" ],
     "like-of" : [ "https://twitter.com/RotoPenguin/status/1576086456250126336" ],
