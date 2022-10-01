@@ -1,63 +1,27 @@
 {
-  "type": [
-    "h-entry"
-  ],
-  "properties": {
-    "uid": [
-      "tag:twitter.com:1255870742727585792"
-    ],
-    "url": [
-      "https://twitter.com/ElleArmageddon/status/1255870742727585792"
-    ],
-    "published": [
-      "2020-04-30T14:44:52+00:00"
-    ],
-    "author": [
-      {
-        "type": [
-          "h-card"
-        ],
-        "properties": {
-          "uid": [
-            "tag:twitter.com:ElleArmageddon"
-          ],
-          "numeric-id": [
-            "385847731"
-          ],
-          "name": [
-            "the apocalypse, but fashion 🦝"
-          ],
-          "nickname": [
-            "ElleArmageddon"
-          ],
-          "url": [
-            "https://twitter.com/ElleArmageddon",
-            "http://blog.totallynotmalware.net"
-          ],
-          "published": [
-            "2011-10-06T07:23:59+00:00"
-          ],
-          "location": [
-            {
-              "type": [
-                "h-card",
-                "p-location"
-              ],
-              "properties": {
-                "name": [
-                  "Oakland, CA"
-                ]
-              }
-            }
-          ],
-          "photo": [
-            "https://pbs.twimg.com/profile_images/1182485650894835713/knpWHlV3.jpg"
-          ]
-        }
-      }
-    ],
-    "content": [
-      "This is your unscheduled reminder that telling early-in-career engineers stories of times you messed something up real bad is a good way to help them combat their own impostor syndrome."
-    ]
-  }
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is your unscheduled reminder that telling early-in-career engineers stories of times you messed something up real bad is a good way to help them combat their own impostor syndrome." ],
+    "published" : [ "2020-04-30T14:44:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1255870742727585792" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1255870742727585792" ]
+  },
+  "type" : [ "h-entry" ]
 }
