@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chloe Condon" ],
+          "nickname" : [ "ChloeCondon" ],
+          "numeric-id" : [ "51529520" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1575885250382610432/UHUaXw8t.jpg" ],
+          "published" : [ "2009-06-27T19:22:37+00:00" ],
+          "uid" : [ "tag:twitter.com:ChloeCondon" ],
+          "url" : [ "https://twitter.com/ChloeCondon", "https://linktr.ee/ChloeCondon" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Most importantly, I think this new change is going to be time saving for both recruiters + candidates and cause a lot less wasted time between folks! No more \"this meeting could have been a job posting\" calls 🙏" ],
+      "in-reply-to" : [ "https://twitter.com/ChloeCondon/status/1575890037182300164" ],
+      "published" : [ "2022-09-30T20:39:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1575948566123593729" ],
+      "url" : [ "https://twitter.com/ChloeCondon/status/1575948566123593729" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is the biggest win for the transparency laws. Some cos were posting ranges before they were required to, for this reason.\n\nIt really stinks (for everyone) to go through an interview process and find out, at the end, that $$$ expectations are radically different.</div>",
+      "value" : "This is the biggest win for the transparency laws. Some cos were posting ranges before they were required to, for this reason.\n\nIt really stinks (for everyone) to go through an interview process and find out, at the end, that $$$ expectations are radically different."
+    } ],
+    "published" : [ "2022-10-01T15:43:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1576236396397723648" ],
+    "url" : [ "https://twitter.com/mooreds/status/1576236396397723648" ]
+  },
+  "type" : [ "h-entry" ]
+}
