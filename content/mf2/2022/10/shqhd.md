@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/twink_suoh_simp/status/1575869973536288768" ],
     "name" : [ "Like of @twink_suoh_simp's tweet" ],
     "published" : [ "2022-10-02T00:37:00+0100" ],
     "like-of" : [ "https://twitter.com/twink_suoh_simp/status/1575869973536288768" ],
