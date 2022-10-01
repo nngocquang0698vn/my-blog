@@ -1,0 +1,50 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ☔️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/Uzair_Jabbar_/status/1575519019146350595\">@Uzair_Jabbar_</a> My toxic Trait is that I give my friends mental health advice when I belong in a asylum"
+    } ],
+    "published" : [ "2022-09-30T21:05:04+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "name" : [ "Uzair Jabbar" ],
+            "nickname" : [ "Uzair_Jabbar_" ],
+            "numeric-id" : [ "1105516837444435971" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1563674975550193664/znfeMoTl.jpg" ],
+            "published" : [ "2019-03-12T17:12:08+00:00" ],
+            "uid" : [ "tag:twitter.com:Uzair_Jabbar_" ],
+            "url" : [ "https://twitter.com/Uzair_Jabbar_", "https://instagram.com/uzair_jabbar_?r=nametag" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "My toxic Trait is that I give my friends mental health advice when I belong in a asylum" ],
+        "published" : [ "2022-09-29T16:13:00+00:00" ],
+        "uid" : [ "tag:twitter.com:1575519019146350595" ],
+        "url" : [ "https://twitter.com/Uzair_Jabbar_/status/1575519019146350595" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1575954907407867904" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1575954907407867904" ]
+  },
+  "type" : [ "h-entry" ]
+}
