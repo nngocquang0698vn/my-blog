@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChloeCondon/status/1575883090311815180" ],
     "name" : [ "Like of @ChloeCondon's tweet" ],
     "published" : [ "2022-10-01T18:10:00+0100" ],
     "like-of" : [ "https://twitter.com/ChloeCondon/status/1575883090311815180" ],
