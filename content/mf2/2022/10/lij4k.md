@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AvantGeekArt/status/1576271433583337473" ],
     "name" : [ "Like of @AvantGeekArt's tweet" ],
     "published" : [ "2022-10-01T21:41:00+0100" ],
     "like-of" : [ "https://twitter.com/AvantGeekArt/status/1576271433583337473" ],
