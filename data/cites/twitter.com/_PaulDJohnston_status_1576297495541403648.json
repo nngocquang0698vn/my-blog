@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - current focus: moving electrons" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489994130004533259/gz6LI1oW.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We have genuinely lost the skill of system design in tech, understanding data flows and access patterns, and abdicated responsibility for most of what we do to \"architecture\", \"frameworks\", \"cloud services\" and hope." ],
+    "in-reply-to" : [ "https://twitter.com/PaulDJohnston/status/1576292925004075009" ],
+    "published" : [ "2022-10-01T19:46:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1576297495541403648" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1576297495541403648" ]
+  },
+  "type" : [ "h-entry" ]
+}
