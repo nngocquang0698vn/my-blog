@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Cavanaugh" ],
+          "nickname" : [ "SeaRyanC" ],
+          "numeric-id" : [ "1177182800" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/877614294694739969/2Y5axr8F.jpg" ],
+          "published" : [ "2013-02-14T00:01:43+00:00" ],
+          "uid" : [ "tag:twitter.com:SeaRyanC" ],
+          "url" : [ "https://twitter.com/SeaRyanC" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "\"I can't believe *none* of the things I'm trying are working here\" - guy who keeps running a different file than the one he is editing" ],
+      "published" : [ "2022-10-01T17:59:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1576270640700878848" ],
+      "url" : [ "https://twitter.com/SeaRyanC/status/1576270640700878848" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "http://alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "*refreshing prod, editing config on dev* WHY ISN’T THE INCIDENT RESOLVING" ],
+    "published" : [ "2022-10-01T22:25:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1576337566231834624" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1576337566231834624" ]
+  },
+  "type" : [ "h-entry" ]
+}
