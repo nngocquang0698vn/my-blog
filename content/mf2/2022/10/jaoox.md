@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PaulDJohnston/status/1576297495541403648" ],
     "name" : [ "Like of @PaulDJohnston's tweet" ],
     "published" : [ "2022-10-01T21:24:00+0100" ],
     "like-of" : [ "https://twitter.com/PaulDJohnston/status/1576297495541403648" ],
