@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/devopsdomi/status/1575857067058929664" ],
     "name" : [ "Like of @devopsdomi's tweet" ],
     "published" : [ "2022-10-01T08:21:00+0100" ],
     "like-of" : [ "https://twitter.com/devopsdomi/status/1575857067058929664" ],
