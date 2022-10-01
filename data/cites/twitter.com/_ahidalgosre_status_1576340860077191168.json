@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "http://alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I'm here to speak the truth! My Twitter feed isn't for the faint of heart!! Here is a picture of Taco sleeping under the covers:\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pearofdoom\"></a>",
+      "value" : "I'm here to speak the truth! My Twitter feed isn't for the faint of heart!! Here is a picture of Taco sleeping under the covers:"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/pearofdoom/status/1576339783281844225" ],
+    "photo" : [ {
+      "alt" : "A blanket on a bed with an outline of a dog underneath it.",
+      "value" : "https://pbs.twimg.com/media/FeBJeY9XEAIS7Wb.jpg"
+    } ],
+    "published" : [ "2022-10-01T22:38:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1576340860077191168" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1576340860077191168" ]
+  },
+  "type" : [ "h-entry" ]
+}
