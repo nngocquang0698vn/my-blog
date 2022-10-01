@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "the apocalypse, but make it fashion. ✨" ],
+          "nickname" : [ "ElleArmageddon" ],
+          "numeric-id" : [ "385847731" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+          "published" : [ "2011-10-06T07:23:59+00:00" ],
+          "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+          "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This is your unscheduled reminder that telling early-in-career engineers stories of times you messed something up real bad is a good way to help them combat their own impostor syndrome." ],
+      "published" : [ "2020-04-30T14:44:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1255870742727585792" ],
+      "url" : [ "https://twitter.com/ElleArmageddon/status/1255870742727585792" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/ellearmageddon…" ],
+      "url" : [ "https://twitter.com/ellearmageddon/status/1255870742727585792" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Someone just reminded me of this ancient thread, and today seems as good a time as any:\n\nSenior folks, tell us about a time you messed up real bad!</div>\n<a class=\"tag\" href=\"https://twitter.com/ellearmageddon/status/1255870742727585792\">twitter.com/ellearmageddon…</a>",
+      "value" : "Someone just reminded me of this ancient thread, and today seems as good a time as any:\n\nSenior folks, tell us about a time you messed up real bad!"
+    } ],
+    "published" : [ "2022-09-28T16:43:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1575164237650853893" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1575164237650853893" ]
+  },
+  "type" : [ "h-entry" ]
+}
