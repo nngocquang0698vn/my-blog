@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Cavanaugh" ],
+        "nickname" : [ "SeaRyanC" ],
+        "numeric-id" : [ "1177182800" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877614294694739969/2Y5axr8F.jpg" ],
+        "published" : [ "2013-02-14T00:01:43+00:00" ],
+        "uid" : [ "tag:twitter.com:SeaRyanC" ],
+        "url" : [ "https://twitter.com/SeaRyanC" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"I can't believe *none* of the things I'm trying are working here\" - guy who keeps running a different file than the one he is editing" ],
+    "published" : [ "2022-10-01T17:59:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1576270640700878848" ],
+    "url" : [ "https://twitter.com/SeaRyanC/status/1576270640700878848" ]
+  },
+  "type" : [ "h-entry" ]
+}
