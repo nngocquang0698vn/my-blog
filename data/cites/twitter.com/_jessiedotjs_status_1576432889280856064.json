@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jessie.js" ],
+        "nickname" : [ "jessiedotjs" ],
+        "numeric-id" : [ "110298748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436157880877531141/2-dt4exX.jpg" ],
+        "published" : [ "2010-02-01T02:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:jessiedotjs" ],
+        "url" : [ "https://twitter.com/jessiedotjs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Gender Fluid will always be vegan and gluten-free with no added sugar" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Paradise, NV" ],
+        "uid" : [ "tag:twitter.com:8fa6d7a33b83ef26" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FeCdQ6UUYAAgxCS.jpg", "https://pbs.twimg.com/media/FeCdQ6XUoAE4ehs.jpg" ],
+    "published" : [ "2022-10-02T04:44:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1576432889280856064" ],
+    "url" : [ "https://twitter.com/jessiedotjs/status/1576432889280856064" ]
+  },
+  "type" : [ "h-entry" ]
+}
