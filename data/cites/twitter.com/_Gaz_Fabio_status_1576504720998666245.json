@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Citizen of everywhere" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Lisa O'Carroll" ],
+          "nickname" : [ "lisaocarroll" ],
+          "numeric-id" : [ "25876418" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3561423749/300f99f1152e297e9f2ed64c510acbe9.jpeg" ],
+          "published" : [ "2009-03-22T20:43:06+00:00" ],
+          "uid" : [ "tag:twitter.com:lisaocarroll" ],
+          "url" : [ "https://twitter.com/lisaocarroll", "http://theguardian.com/securedrop" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Conservative chair Jake Berry: People know when they get their bills, they can either cut their consumption or get higher salaries or higher wages and go out there and get that new job" ],
+      "published" : [ "2022-10-02T07:50:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1576479726696550400" ],
+      "url" : [ "https://twitter.com/lisaocarroll/status/1576479726696550400" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cardiff" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gareth Jones" ],
+        "nickname" : [ "Gaz_Fabio" ],
+        "numeric-id" : [ "415784655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/848138151029813248/ZHw4Mp8e.jpg" ],
+        "published" : [ "2011-11-18T20:22:10+00:00" ],
+        "uid" : [ "tag:twitter.com:Gaz_Fabio" ],
+        "url" : [ "https://twitter.com/Gaz_Fabio" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "British government policy in 2022: " ],
+    "photo" : [ "https://pbs.twimg.com/media/FeDele4XkAEm7mB.png" ],
+    "published" : [ "2022-10-02T09:29:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1576504720998666245" ],
+    "url" : [ "https://twitter.com/Gaz_Fabio/status/1576504720998666245" ]
+  },
+  "type" : [ "h-entry" ]
+}
