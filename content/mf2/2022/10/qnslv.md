@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gaz_Fabio/status/1576504720998666245" ],
     "name" : [ "Like of @Gaz_Fabio's tweet" ],
     "published" : [ "2022-10-02T12:22:00+0100" ],
     "like-of" : [ "https://twitter.com/Gaz_Fabio/status/1576504720998666245" ],
