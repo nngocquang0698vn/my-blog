@@ -1,0 +1,51 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/cvittv/status/1576240750186012672\">@cvittv</a> IT’S OCTOBER BITCHES"
+    } ],
+    "published" : [ "2022-10-02T15:38:35+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "name" : [ "C" ],
+            "nickname" : [ "cvittv" ],
+            "numeric-id" : [ "4520698558" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1569785745594003456/oqyW8zKF.jpg" ],
+            "published" : [ "2015-12-18T03:41:17+00:00" ],
+            "uid" : [ "tag:twitter.com:cvittv" ],
+            "url" : [ "https://twitter.com/cvittv", "http://instagram.com/badgalkitkat" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "IT’S OCTOBER BITCHES" ],
+        "published" : [ "2022-10-01T16:00:54+00:00" ],
+        "uid" : [ "tag:twitter.com:1576240750186012672" ],
+        "url" : [ "https://twitter.com/cvittv/status/1576240750186012672" ],
+        "video" : [ "https://video.twimg.com/ext_tw_video/1576240711032180736/pu/vid/720x1134/a0f5hsbGKBzWBswz.mp4?tag=12" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1576597522306326528" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1576597522306326528" ]
+  },
+  "type" : [ "h-entry" ]
+}
