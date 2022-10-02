@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dirtypoolfilms/status/1576203634521804801" ],
     "name" : [ "Like of @dirtypoolfilms's tweet" ],
     "published" : [ "2022-10-02T12:50:00+0100" ],
     "like-of" : [ "https://twitter.com/dirtypoolfilms/status/1576203634521804801" ],
