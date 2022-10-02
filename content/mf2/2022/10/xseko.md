@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stanzipotenza/status/1573785240438546434" ],
     "name" : [ "Like of @stanzipotenza's tweet" ],
     "published" : [ "2022-10-02T07:46:00+0100" ],
     "like-of" : [ "https://twitter.com/stanzipotenza/status/1573785240438546434" ],
