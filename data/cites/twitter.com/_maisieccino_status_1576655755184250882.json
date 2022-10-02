@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "they/she" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖 v-10 days" ],
+        "nickname" : [ "maisieccino" ],
+        "numeric-id" : [ "1547507513561694208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1574356719173607424/-0dsGI-E.jpg" ],
+        "published" : [ "2022-07-14T09:06:17+00:00" ],
+        "uid" : [ "tag:twitter.com:maisieccino" ],
+        "url" : [ "https://twitter.com/maisieccino", "http://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">lol i’m a software engineer, not james bond.\n\ninstead of a licence to kill i have a license to intellij ultimate edition</div>",
+      "value" : "lol i’m a software engineer, not james bond.\n\ninstead of a licence to kill i have a license to intellij ultimate edition"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/maisieccino/status/1576652842437607424" ],
+    "photo" : [ {
+      "alt" : "body count 😳?",
+      "value" : "https://pbs.twimg.com/media/FeFoDT2XoAIch-g.jpg"
+    } ],
+    "published" : [ "2022-10-02T19:29:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1576655755184250882" ],
+    "url" : [ "https://twitter.com/maisieccino/status/1576655755184250882" ]
+  },
+  "type" : [ "h-entry" ]
+}
