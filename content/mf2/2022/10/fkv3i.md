@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jramseyi/status/1576217823390490624" ],
     "name" : [ "Like of @jramseyi's tweet" ],
     "published" : [ "2022-10-02T09:17:00+0100" ],
     "category" : [ "art", "cute" ],
