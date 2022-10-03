@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maqusan/status/1576885256094785537" ],
     "name" : [ "Like of @maqusan's tweet" ],
     "published" : [ "2022-10-03T21:56:00+0100" ],
     "category" : [ "adhd" ],
