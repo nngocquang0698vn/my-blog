@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "swyx 🌴" ],
+        "nickname" : [ "swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "url" : [ "https://twitter.com/swyx", "https://swyx.io", "http://learninpublic.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">💡A really great way to start a new job is to volunteer to write tests:\n\n✅ There are never enough tests\n✅ Coworkers will be grateful\n✅ Learn the codebase\n✅ You can't break anything\n✅ You will learn things you didn't know about product\n✅ Future you will thank you</div>",
+      "value" : "💡A really great way to start a new job is to volunteer to write tests:\n\n✅ There are never enough tests\n✅ Coworkers will be grateful\n✅ Learn the codebase\n✅ You can't break anything\n✅ You will learn things you didn't know about product\n✅ Future you will thank you"
+    } ],
+    "published" : [ "2018-11-20T04:49:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1064742523426430976" ],
+    "url" : [ "https://twitter.com/swyx/status/1064742523426430976" ]
+  },
+  "type" : [ "h-entry" ]
+}
