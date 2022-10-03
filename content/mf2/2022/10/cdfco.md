@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eiecampaign/status/1576890682727227392" ],
     "name" : [ "Like of @eiecampaign's tweet" ],
     "published" : [ "2022-10-03T13:56:00+0100" ],
     "like-of" : [ "https://twitter.com/eiecampaign/status/1576890682727227392" ],
