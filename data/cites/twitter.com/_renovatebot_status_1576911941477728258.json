@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Gadigal Lands, Eora Nation" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dr Nicky Ringland" ],
+          "nickname" : [ "nickyringland" ],
+          "numeric-id" : [ "17667371" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1050282808411709440/S2t7bnjw.jpg" ],
+          "published" : [ "2008-11-27T02:45:37+00:00" ],
+          "uid" : [ "tag:twitter.com:nickyringland" ],
+          "url" : [ "https://twitter.com/nickyringland" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Is past remediation performance the right signal for assessing future vulnerability exposure risk?\n\nFun stat: \"In npm and PyPI almost 60% of the vulnerabilities in our database were remediated BEFORE the publication of the corresponding advisory.\"\n<a href=\"https://blog.deps.dev/post-advisory-exposure/index.html\">blog.deps.dev/post-advisory-…</a></div>",
+        "value" : "Is past remediation performance the right signal for assessing future vulnerability exposure risk?\n\nFun stat: \"In npm and PyPI almost 60% of the vulnerabilities in our database were remediated BEFORE the publication of the corresponding advisory.\"\nblog.deps.dev/post-advisory-…"
+      } ],
+      "photo" : [ {
+        "alt" : "A timeline of an ideal, coordinated vulnerability disclosure, showing private disclosure, immediately followed by maintainer acknowledgment, then a short time later, patched version release and then advisory being published.",
+        "value" : "https://pbs.twimg.com/media/FdAC4a5akAIDyFI.jpg"
+      } ],
+      "published" : [ "2022-09-19T07:13:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1571759441653174272" ],
+      "url" : [ "https://twitter.com/nickyringland/status/1571759441653174272" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Renovate Bot" ],
+        "nickname" : [ "renovatebot" ],
+        "numeric-id" : [ "885390834790789120" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529476269011771398/3GxVSBCj.png" ],
+        "published" : [ "2017-07-13T06:49:59+00:00" ],
+        "uid" : [ "tag:twitter.com:renovatebot" ],
+        "url" : [ "https://twitter.com/renovatebot", "https://renovatebot.com", "http://github.com/renovatebot" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FeJQ8EFXkAExCZE.png" ],
+    "published" : [ "2022-10-03T12:27:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1576911941477728258" ],
+    "url" : [ "https://twitter.com/renovatebot/status/1576911941477728258" ]
+  },
+  "type" : [ "h-entry" ]
+}
