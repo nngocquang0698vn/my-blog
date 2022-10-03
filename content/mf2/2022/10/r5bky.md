@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LiveFromHK/status/1576734567095934976" ],
     "name" : [ "Like of @LiveFromHK's tweet" ],
     "published" : [ "2022-10-03T08:33:00+0100" ],
     "like-of" : [ "https://twitter.com/LiveFromHK/status/1576734567095934976" ],
