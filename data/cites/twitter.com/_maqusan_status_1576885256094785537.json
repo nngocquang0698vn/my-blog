@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/EwaSR/status/1…" ],
+        "url" : [ "https://twitter.com/EwaSR/status/1178776425752616960" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London/Carcosa" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ewa was a cornflake girl" ],
+          "nickname" : [ "EwaSR" ],
+          "numeric-id" : [ "14441363" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1558155510096056321/9DzrvD0B.jpg" ],
+          "published" : [ "2008-04-19T07:51:28+00:00" ],
+          "uid" : [ "tag:twitter.com:EwaSR" ],
+          "url" : [ "https://twitter.com/EwaSR", "https://linktr.ee/ewasr" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "it's adhd awareness month everyone\n<a class=\"tag\" href=\"https://twitter.com/EwaSR/status/1178776425752616960\">twitter.com/EwaSR/status/1…</a>",
+        "value" : "it's adhd awareness month everyone"
+      } ],
+      "published" : [ "2022-10-03T10:38:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1576884330462613504" ],
+      "url" : [ "https://twitter.com/EwaSR/status/1576884330462613504" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maq" ],
+        "nickname" : [ "maqusan" ],
+        "numeric-id" : [ "21406699" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346552904233209856/2ys0Yb85.jpg" ],
+        "published" : [ "2009-02-20T15:47:47+00:00" ],
+        "uid" : [ "tag:twitter.com:maqusan" ],
+        "url" : [ "https://twitter.com/maqusan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Neurotypicals, you may observe ADHD Awareness Month this month. Fellow ADHD folks we will of course be celebrating \"fuck, was it ADHD Awareness Month?\" on the first of November as usual." ],
+    "published" : [ "2022-10-03T10:41:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1576885256094785537" ],
+    "url" : [ "https://twitter.com/maqusan/status/1576885256094785537" ]
+  },
+  "type" : [ "h-entry" ]
+}
