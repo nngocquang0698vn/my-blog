@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Quick Tip: Hiding local files in Git, just for you" ],
+    "summary" : [ "If you have a local setup, just for you, and want it stored, here's how to do it, while leaving no footprints in the git repository." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Simon Reilly" ]
+      }
+    } ],
+    "url" : [ "https://blog.simonireilly.com/posts/hiding-files-just-for-you" ]
+  }
+}
