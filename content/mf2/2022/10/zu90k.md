@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adrianhon/status/1576557718227124224" ],
     "name" : [ "Like of @adrianhon's tweet" ],
     "published" : [ "2022-10-03T19:39:00+0100" ],
     "like-of" : [ "https://twitter.com/adrianhon/status/1576557718227124224" ],
