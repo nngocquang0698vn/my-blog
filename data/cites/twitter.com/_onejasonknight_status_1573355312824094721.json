@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Knight" ],
+        "nickname" : [ "onejasonknight" ],
+        "numeric-id" : [ "20244980" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1554227111799492620/hLwMD25i.jpg" ],
+        "published" : [ "2009-02-06T15:37:29+00:00" ],
+        "uid" : [ "tag:twitter.com:onejasonknight" ],
+        "url" : [ "https://twitter.com/onejasonknight", "https://okip.link/jason" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Intro slide: \"This is a living document\"\n\nLast updated date: 01-09-2019\n\nLast updated by: Someone who doesn't work here anymore</div>",
+      "value" : "Intro slide: \"This is a living document\"\n\nLast updated date: 01-09-2019\n\nLast updated by: Someone who doesn't work here anymore"
+    } ],
+    "published" : [ "2022-09-23T16:55:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1573355312824094721" ],
+    "url" : [ "https://twitter.com/onejasonknight/status/1573355312824094721" ]
+  },
+  "type" : [ "h-entry" ]
+}
