@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "texas, the great state of" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@joeycastillo@mastodon.social" ],
+        "nickname" : [ "josecastillo" ],
+        "numeric-id" : [ "684143" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1485975267424284678/vu8x99C1.jpg" ],
+        "published" : [ "2007-01-23T03:11:00+00:00" ],
+        "uid" : [ "tag:twitter.com:josecastillo" ],
+        "url" : [ "https://twitter.com/josecastillo", "http://oddlyspecificobjects.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "oh goddamn it OKAY Y'ALL I FIGURED IT OUT. SQLite has a line where if you haven't configured it, it tries to include a config.h file. Because the <a href=\"https://twitter.com/arduino\">@arduino</a> mbed core includes Doom in its libraries — which has an unrelated config.h file — the dependency checker tries to pull it in.",
+      "value" : "oh goddamn it OKAY Y'ALL I FIGURED IT OUT. SQLite has a line where if you haven't configured it, it tries to include a config.h file. Because the @arduino mbed core includes Doom in its libraries — which has an unrelated config.h file — the dependency checker tries to pull it in."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/josecastillo/status/1577048869258506240" ],
+    "photo" : [ {
+      "alt" : "Code excerpt: if SQLITECONFIG_H is not defined, include config.h",
+      "value" : "https://pbs.twimg.com/media/FeMcvCTXkAMlIbq.jpg"
+    }, {
+      "alt" : "Screenshot of config.h in the DOOM library.",
+      "value" : "https://pbs.twimg.com/media/FeMcvlDXgAAtNbp.jpg"
+    } ],
+    "published" : [ "2022-10-04T03:18:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1577136108097314816" ],
+    "url" : [ "https://twitter.com/josecastillo/status/1577136108097314816" ]
+  },
+  "type" : [ "h-entry" ]
+}
