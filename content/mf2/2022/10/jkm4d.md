@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1577237624544272384" ],
     "published" : [ "2022-10-04T10:47:00+0100" ],
     "category" : [ "politics" ],
     "repost-of" : [ "https://twitter.com/HarleyShah/status/1576969363047215110" ],
