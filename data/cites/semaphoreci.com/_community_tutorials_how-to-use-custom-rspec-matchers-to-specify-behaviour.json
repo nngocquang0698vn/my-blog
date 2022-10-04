@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to Use Custom RSpec Matchers to Specify Behaviour - Semaphore" ],
+    "summary" : [ "Learn how to use custom RSpec matchers to write better, less repetitive tests." ],
+    "featured" : [ "https://wpblog.semaphoreci.com/wp-content/uploads/2019/03/semaphore.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Arjan van der Gaag" ]
+      }
+    } ],
+    "url" : [ "https://semaphoreci.com/community/tutorials/how-to-use-custom-rspec-matchers-to-specify-behaviour" ],
+    "published" : [ "2015-07-21T18:49:17+00:00" ]
+  }
+}
