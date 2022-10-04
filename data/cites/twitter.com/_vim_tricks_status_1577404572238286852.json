@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY, US" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "VimTricks" ],
+        "nickname" : [ "vim_tricks" ],
+        "numeric-id" : [ "869181910983094272" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1485063585634131968/n4NY5f7z.jpg" ],
+        "published" : [ "2017-05-29T13:21:31+00:00" ],
+        "uid" : [ "tag:twitter.com:vim_tricks" ],
+        "url" : [ "https://twitter.com/vim_tricks", "https://vimtricks.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Use :set cuc in Vim to enable cursor column - a visual column highlight perfect for yaml, json, and more:\n \n👉 Read the tip: <a href=\"https://bit.ly/2ZO5CDf\">bit.ly/2ZO5CDf</a> \n\n📨 Subscribe for more Vim tips: <a href=\"https://bit.ly/vimtricks\">bit.ly/vimtricks</a></div>",
+      "value" : "Use :set cuc in Vim to enable cursor column - a visual column highlight perfect for yaml, json, and more:\n \n👉 Read the tip: bit.ly/2ZO5CDf \n\n📨 Subscribe for more Vim tips: bit.ly/vimtricks"
+    } ],
+    "published" : [ "2022-10-04T21:05:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1577404572238286852" ],
+    "url" : [ "https://twitter.com/vim_tricks/status/1577404572238286852" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FeQRDa5XEAY5zI4.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
