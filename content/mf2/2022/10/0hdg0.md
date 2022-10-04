@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/onejasonknight/status/1573355312824094721" ],
     "name" : [ "Like of @onejasonknight's tweet" ],
     "published" : [ "2022-10-04T12:59:12.204350441Z" ],
     "like-of" : [ "https://twitter.com/onejasonknight/status/1573355312824094721" ],
