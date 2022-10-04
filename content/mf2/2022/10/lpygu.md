@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HarleyShah/status/1576969942070480901" ],
     "name" : [ "Like of @HarleyShah's tweet" ],
     "published" : [ "2022-10-04T10:47:00+0100" ],
     "like-of" : [ "https://twitter.com/HarleyShah/status/1576969942070480901" ],
