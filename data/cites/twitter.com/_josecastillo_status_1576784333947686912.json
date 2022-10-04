@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "texas, the great state of" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@joeycastillo@mastodon.social" ],
+        "nickname" : [ "josecastillo" ],
+        "numeric-id" : [ "684143" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1485975267424284678/vu8x99C1.jpg" ],
+        "published" : [ "2007-01-23T03:11:00+00:00" ],
+        "uid" : [ "tag:twitter.com:josecastillo" ],
+        "url" : [ "https://twitter.com/josecastillo", "http://oddlyspecificobjects.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I'm not annoyed by this bug, just mystified by how it happens: somehow, every time I add the sqlite amalgamation — sqlite.c and sqlite.h — to my <a href=\"https://twitter.com/PlatformIO_Org\">@PlatformIO_Org</a> project, it adds Doom as one of my dependencies. Easy to work around, but puzzling and also KIND OF HILARIOUS.",
+      "value" : "I'm not annoyed by this bug, just mystified by how it happens: somehow, every time I add the sqlite amalgamation — sqlite.c and sqlite.h — to my @PlatformIO_Org project, it adds Doom as one of my dependencies. Easy to work around, but puzzling and also KIND OF HILARIOUS."
+    } ],
+    "photo" : [ {
+      "alt" : "Screenshot, platformio build log. “Scanning dependencies...Dependency Graph”, a bunch of actual dependences and “Doom @ 1.0”",
+      "value" : "https://pbs.twimg.com/media/FeHckx0WQAAYu4g.jpg"
+    } ],
+    "published" : [ "2022-10-03T04:00:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1576784333947686912" ],
+    "url" : [ "https://twitter.com/josecastillo/status/1576784333947686912" ]
+  },
+  "type" : [ "h-entry" ]
+}
