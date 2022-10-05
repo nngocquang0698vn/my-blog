@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Christopher S. Rice, Ph.D." ],
+          "nickname" : [ "refuturing" ],
+          "numeric-id" : [ "9686792" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1379451902165925889/e9ziRfEa.jpg" ],
+          "published" : [ "2007-10-25T15:45:55+00:00" ],
+          "uid" : [ "tag:twitter.com:refuturing" ],
+          "url" : [ "https://twitter.com/refuturing", "https://refuturing.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Twitter likely becomes another Truth Social or, at best, a Conservative TikTok. Meta (incl Fb & Insta) is sinking faster than most folks understand. No one wants to run federated social on their own server. Social media is passing away at the end of the Long 2010’s. 2/" ],
+      "in-reply-to" : [ "https://twitter.com/refuturing/status/1577382070623653889" ],
+      "published" : [ "2022-10-04T19:36:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1577382072628674560" ],
+      "url" : [ "https://twitter.com/refuturing/status/1577382072628674560" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Blogs and RSS feeds. Not remotely kidding, it's time to fire that stuff back up again. Still works great!" ],
+    "published" : [ "2022-10-05T03:22:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1577499444089454592" ],
+    "url" : [ "https://twitter.com/simonw/status/1577499444089454592" ]
+  },
+  "type" : [ "h-entry" ]
+}
