@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/kloogans/status/1577666614908133378\">@kloogans</a> pretty fucked up that my body, a chemistry lab made of meat, simply chooses to make me feel a little bit nervous for no reason"
+    } ],
+    "published" : [ "2022-10-05T21:05:12+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "swamp" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "jame" ],
+            "nickname" : [ "kloogans" ],
+            "numeric-id" : [ "3078609597" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1569744466281381890/LwVAfRaX.jpg" ],
+            "published" : [ "2015-03-08T03:05:05+00:00" ],
+            "uid" : [ "tag:twitter.com:kloogans" ],
+            "url" : [ "https://twitter.com/kloogans", "http://jame.tech" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "pretty fucked up that my body, a chemistry lab made of meat, simply chooses to make me feel a little bit nervous for no reason" ],
+        "published" : [ "2022-10-05T14:26:47+00:00" ],
+        "uid" : [ "tag:twitter.com:1577666614908133378" ],
+        "url" : [ "https://twitter.com/kloogans/status/1577666614908133378" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1577766880638558212" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1577766880638558212" ]
+  },
+  "type" : [ "h-entry" ]
+}
