@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/biox/shmoji/stargazers" ],
     "published" : [ "2022-10-05T22:31:00+0100" ],
     "category" : [ "emoji", "command-line" ],
     "like-of" : [ "https://github.com/biox/shmoji" ],
