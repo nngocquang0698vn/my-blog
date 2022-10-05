@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/Rycaster/status/1577011913753432064\">@Rycaster</a> "
+    } ],
+    "published" : [ "2022-10-05T18:58:41+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Atlanta, GA" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Pumpkaryan" ],
+            "nickname" : [ "Rycaster" ],
+            "numeric-id" : [ "770769805" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1576327327121870857/hILh5Hnu.jpg" ],
+            "published" : [ "2012-08-21T03:48:24+00:00" ],
+            "uid" : [ "tag:twitter.com:Rycaster" ],
+            "url" : [ "https://twitter.com/Rycaster", "https://linktr.ee/Rycaster" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "photo" : [ "https://pbs.twimg.com/media/FeKr-mbWAAcn8rp.jpg" ],
+        "published" : [ "2022-10-03T19:05:14+00:00" ],
+        "uid" : [ "tag:twitter.com:1577011913753432064" ],
+        "url" : [ "https://twitter.com/Rycaster/status/1577011913753432064" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1577735042331295766" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1577735042331295766" ]
+  },
+  "type" : [ "h-entry" ]
+}
