@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I played with IndieAuth a bit a while back and it felt like a nice evolution of the original URL-based OpenID, but I don't think it's seen very much adoption <a href=\"https://simonwillison.net/2020/Nov/18/indieauth/\">simonwillison.net/2020/Nov/18/in…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kellan\"></a>",
+      "value" : "I played with IndieAuth a bit a while back and it felt like a nice evolution of the original URL-based OpenID, but I don't think it's seen very much adoption simonwillison.net/2020/Nov/18/in…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kellan/status/1577714475381112834" ],
+    "published" : [ "2022-10-05T17:42:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1577715836659253248" ],
+    "url" : [ "https://twitter.com/simonw/status/1577715836659253248" ]
+  },
+  "type" : [ "h-entry" ]
+}
