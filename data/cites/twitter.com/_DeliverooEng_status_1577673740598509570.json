@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DeliverooEng" ],
+        "nickname" : [ "DeliverooEng" ],
+        "numeric-id" : [ "3200498391" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204361659059507202/u-DXddut.jpg" ],
+        "published" : [ "2015-04-24T10:08:05+00:00" ],
+        "uid" : [ "tag:twitter.com:DeliverooEng" ],
+        "url" : [ "https://twitter.com/DeliverooEng", "http://deliveroo.engineering" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "New on the blog: <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> writes about how we've been looking at our <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> dependencies to determine where best to prioritise for contributions over <a href=\"https://twitter.com/search?q=%23Hacktoberfest\">#Hacktoberfest</a> and beyond <a href=\"https://deliveroo.engineering/2022/09/29/hacktoberfest-dependency-analysis.html\">deliveroo.engineering/2022/09/29/hac…</a>",
+      "value" : "New on the blog: @JamieTanna writes about how we've been looking at our #OpenSource dependencies to determine where best to prioritise for contributions over #Hacktoberfest and beyond deliveroo.engineering/2022/09/29/hac…"
+    } ],
+    "published" : [ "2022-10-05T14:55:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1577673740598509570" ],
+    "url" : [ "https://twitter.com/DeliverooEng/status/1577673740598509570" ]
+  },
+  "type" : [ "h-entry" ]
+}
