@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lydia_nmode/status/1577334282695090176" ],
     "name" : [ "Like of @lydia_nmode's tweet" ],
     "published" : [ "2022-10-05T08:11:00+0100" ],
     "like-of" : [ "https://twitter.com/lydia_nmode/status/1577334282695090176" ],
