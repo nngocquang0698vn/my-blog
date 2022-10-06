@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Toronto, Ontario" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Horror4Kids" ],
+          "nickname" : [ "horror4kids" ],
+          "numeric-id" : [ "1258027696237543426" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1277921316994195456/IZ5WTavh.jpg" ],
+          "published" : [ "2020-05-06T13:36:03+00:00" ],
+          "uid" : [ "tag:twitter.com:horror4kids" ],
+          "url" : [ "https://twitter.com/horror4kids", "https://etsy.me/3QwyVCq" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Benedict Cumberbatch as the dragon Smaug in The Hobbit: The Desolation of Smaug" ],
+      "published" : [ "2022-10-05T16:09:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1577692431960735747" ],
+      "url" : [ "https://twitter.com/horror4kids/status/1577692431960735747" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1577691748561833986/pu/vid/1280x720/zRNT1gUWoG5DX6eO.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "los angeles, ca" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "james trevor" ],
+        "nickname" : [ "jaamestrevor" ],
+        "numeric-id" : [ "1385051239876993030" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385054703315132419/tnaneBsg.jpg" ],
+        "published" : [ "2021-04-22T02:02:14+00:00" ],
+        "uid" : [ "tag:twitter.com:jaamestrevor" ],
+        "url" : [ "https://twitter.com/jaamestrevor", "https://youtu.be/mQsNOPVOLEo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "whenever actors do mocap for a role like this i imagine the vfx artists getting the files for it being like “oh awesome super helpful thanks!” and immediately opening up a blank file to start from scratch" ],
+    "published" : [ "2022-10-05T16:29:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1577697443273003010" ],
+    "url" : [ "https://twitter.com/jaamestrevor/status/1577697443273003010" ]
+  },
+  "type" : [ "h-entry" ]
+}
