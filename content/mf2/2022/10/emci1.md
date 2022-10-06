@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Puff_Iya/status/1577402367686983680" ],
     "name" : [ "Like of @Puff_Iya's tweet" ],
     "published" : [ "2022-10-06T12:09:00+0100" ],
     "like-of" : [ "https://twitter.com/Puff_Iya/status/1577402367686983680" ],
