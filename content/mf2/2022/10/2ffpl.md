@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Murraypalooza/status/1577771104239640576" ],
     "name" : [ "Like of @Murraypalooza's tweet" ],
     "published" : [ "2022-10-06T08:44:00+0100" ],
     "like-of" : [ "https://twitter.com/Murraypalooza/status/1577771104239640576" ],
