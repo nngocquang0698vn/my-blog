@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Culver City, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan" ],
+        "nickname" : [ "Murraypalooza" ],
+        "numeric-id" : [ "523862030" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1494384422447042565/ZK_CN8kp.jpg" ],
+        "published" : [ "2012-03-14T00:51:15+00:00" ],
+        "uid" : [ "tag:twitter.com:Murraypalooza" ],
+        "url" : [ "https://twitter.com/Murraypalooza" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Interesting that it keeps track of the likes-per-edit\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MKBHD\"></a>",
+      "value" : "Interesting that it keeps track of the likes-per-edit"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MKBHD/status/1577770849641369615" ],
+    "photo" : [ "https://pbs.twimg.com/media/FeVeae2VIAI7jci.jpg" ],
+    "published" : [ "2022-10-05T21:21:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1577771104239640576" ],
+    "url" : [ "https://twitter.com/Murraypalooza/status/1577771104239640576" ]
+  },
+  "type" : [ "h-entry" ]
+}
