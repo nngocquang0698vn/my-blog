@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KnickOllie/status/1578106884564869122" ],
     "name" : [ "Like of @KnickOllie's tweet" ],
     "published" : [ "2022-10-07T17:53:00+0100" ],
     "like-of" : [ "https://twitter.com/KnickOllie/status/1578106884564869122" ],
