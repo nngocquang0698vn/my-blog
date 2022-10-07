@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OnDeck/status/1578088497759793152" ],
     "name" : [ "Like of @OnDeck's tweet" ],
     "published" : [ "2022-10-07T17:50:00+0100" ],
     "like-of" : [ "https://twitter.com/OnDeck/status/1578088497759793152" ],
