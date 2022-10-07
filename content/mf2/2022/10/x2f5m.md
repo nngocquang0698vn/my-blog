@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrittanyMeansIt/status/1514445272381747205" ],
     "name" : [ "Like of @BrittanyMeansIt's tweet" ],
     "published" : [ "2022-10-07T07:53:00+0100" ],
     "category" : [ "cute" ],
