@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sheffield" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Fenn" ],
+        "nickname" : [ "katie_fenn" ],
+        "numeric-id" : [ "14979616" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565979218588098560/UdbGsoBa.jpg" ],
+        "published" : [ "2008-06-02T12:02:44+00:00" ],
+        "uid" : [ "tag:twitter.com:katie_fenn" ],
+        "url" : [ "https://twitter.com/katie_fenn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "There was a conversation, yes\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/edent\"></a>",
+      "value" : "There was a conversation, yes"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1578298489896935426" ],
+    "published" : [ "2022-10-07T08:18:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1578298701285445632" ],
+    "url" : [ "https://twitter.com/katie_fenn/status/1578298701285445632" ]
+  },
+  "type" : [ "h-entry" ]
+}
