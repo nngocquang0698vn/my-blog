@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All I’m saying is it’s possible this is not the first time that a bunch of tech dudes have sucked all the life out of something and called it engineering" ],
+    "in-reply-to" : [ "https://twitter.com/jna_sh/status/1578299317260980224" ],
+    "published" : [ "2022-10-07T08:21:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1578299521259704320" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1578299521259704320" ]
+  },
+  "type" : [ "h-entry" ]
+}
