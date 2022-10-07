@@ -1,0 +1,50 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/__femb0t/status/1578207700604919842\">@__femb0t</a> "
+    } ],
+    "published" : [ "2022-10-07T15:34:57+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "name" : [ "femb✦t" ],
+            "nickname" : [ "__femb0t" ],
+            "numeric-id" : [ "1357813203019968516" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1455054866699759621/Z90Z1Kmy.jpg" ],
+            "published" : [ "2021-02-05T22:07:54+00:00" ],
+            "uid" : [ "tag:twitter.com:__femb0t" ],
+            "url" : [ "https://twitter.com/__femb0t" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "photo" : [ "https://pbs.twimg.com/media/FebribyX0AEvz_w.jpg" ],
+        "published" : [ "2022-10-07T02:16:52+00:00" ],
+        "uid" : [ "tag:twitter.com:1578207700604919842" ],
+        "url" : [ "https://twitter.com/__femb0t/status/1578207700604919842" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1578408544591822848" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1578408544591822848" ]
+  },
+  "type" : [ "h-entry" ]
+}
