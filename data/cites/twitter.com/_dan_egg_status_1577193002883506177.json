@@ -26,6 +26,12 @@
       "url" : [ "https://twitter.com/Esqueer_/status/1577142896494452737" ]
     },
     "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/esqueer_/statu…" ],
+      "url" : [ "https://twitter.com/esqueer_/status/1577142896494452737" ]
+    },
+    "type" : [ "h-cite" ]
   } ],
   "properties" : {
     "author" : [ {
@@ -46,7 +52,10 @@
       },
       "type" : [ "h-card" ]
     } ],
-    "content" : [ "We should start using ‘friend of JK Rowling’ as a euphemism, it’s like the exact opposite of ‘friend of Dorothy’" ],
+    "content" : [ {
+      "html" : "We should start using ‘friend of JK Rowling’ as a euphemism, it’s like the exact opposite of ‘friend of Dorothy’\n<a class=\"tag\" href=\"https://twitter.com/esqueer_/status/1577142896494452737\">twitter.com/esqueer_/statu…</a>",
+      "value" : "We should start using ‘friend of JK Rowling’ as a euphemism, it’s like the exact opposite of ‘friend of Dorothy’"
+    } ],
     "published" : [ "2022-10-04T07:04:49+00:00" ],
     "uid" : [ "tag:twitter.com:1577193002883506177" ],
     "url" : [ "https://twitter.com/dan_egg/status/1577193002883506177" ]
