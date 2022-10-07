@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fperezroa/status/1578104273942216704" ],
     "name" : [ "Like of @fperezroa's tweet" ],
     "published" : [ "2022-10-07T17:54:00+0100" ],
     "like-of" : [ "https://twitter.com/fperezroa/status/1578104273942216704" ],
