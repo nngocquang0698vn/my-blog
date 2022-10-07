@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hannah Foxwell" ],
+        "nickname" : [ "HannahFoxwell" ],
+        "numeric-id" : [ "407175927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1521084986086014977/v4T_ovd2.jpg" ],
+        "published" : [ "2011-11-07T18:54:15+00:00" ],
+        "uid" : [ "tag:twitter.com:HannahFoxwell" ],
+        "url" : [ "https://twitter.com/HannahFoxwell", "http://hannahfoxwell.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Some news! This week I joined <a href=\"https://twitter.com/snyksec\">@snyksec</a> as Product Director for Snyk Container. Feels so good to be back in R&amp;D but OMG I’ve got a lot to learn! Wish me luck!",
+      "value" : "Some news! This week I joined @snyksec as Product Director for Snyk Container. Feels so good to be back in R&D but OMG I’ve got a lot to learn! Wish me luck!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FeekkEAWYAMVPpp.jpg" ],
+    "published" : [ "2022-10-07T15:45:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1578411142426173440" ],
+    "url" : [ "https://twitter.com/HannahFoxwell/status/1578411142426173440" ]
+  },
+  "type" : [ "h-entry" ]
+}
