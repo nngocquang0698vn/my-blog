@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Emily Anhalt" ],
+        "nickname" : [ "dremilyanhalt" ],
+        "numeric-id" : [ "36582912" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491309120179224582/V05Loga6.jpg" ],
+        "published" : [ "2009-04-30T03:27:54+00:00" ],
+        "uid" : [ "tag:twitter.com:dremilyanhalt" ],
+        "url" : [ "https://twitter.com/dremilyanhalt", "https://www.joincoa.com/emotionally-fit-podcast" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Person: well, my parents did that all the time and I turned out just fine!\n\nNarrator: they did not, in fact, turn out just fine…</div>",
+      "value" : "Person: well, my parents did that all the time and I turned out just fine!\n\nNarrator: they did not, in fact, turn out just fine…"
+    } ],
+    "published" : [ "2022-10-06T15:32:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1578045540872470529" ],
+    "url" : [ "https://twitter.com/dremilyanhalt/status/1578045540872470529" ]
+  },
+  "type" : [ "h-entry" ]
+}
