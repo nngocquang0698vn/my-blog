@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A bunch of tech dudes trying to call themselves “prompt engineers” for replacing an artist with a piece of text containing the artist’s name does cast a certain light on the “software engineer” title debate huh" ],
+    "published" : [ "2022-10-07T08:20:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1578299317260980224" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1578299317260980224" ]
+  },
+  "type" : [ "h-entry" ]
+}
