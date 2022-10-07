@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KennyIBoyle/status/1578298777617563648" ],
     "name" : [ "Like of @KennyIBoyle's tweet" ],
     "published" : [ "2022-10-07T09:34:00+0100" ],
     "like-of" : [ "https://twitter.com/KennyIBoyle/status/1578298777617563648" ],
