@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/notCursedE/status/1578444375872671744" ],
     "name" : [ "Like of @notCursedE's tweet" ],
     "published" : [ "2022-10-07T21:37:00+0100" ],
     "like-of" : [ "https://twitter.com/notCursedE/status/1578444375872671744" ],
