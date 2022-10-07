@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HannahFoxwell/status/1578411142426173440" ],
     "name" : [ "Like of @HannahFoxwell's tweet" ],
     "published" : [ "2022-10-07T17:59:00+0100" ],
     "like-of" : [ "https://twitter.com/HannahFoxwell/status/1578411142426173440" ],
