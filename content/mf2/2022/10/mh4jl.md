@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kefimochi/status/1578270296926081024" ],
     "name" : [ "Like of @kefimochi's tweet" ],
     "published" : [ "2022-10-07T07:52:00+0100" ],
     "category" : [ "adhd" ],
