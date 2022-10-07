@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kyiibaby/status/1578328751909195776" ],
     "name" : [ "Like of @kyiibaby's tweet" ],
     "published" : [ "2022-10-07T17:43:00+0100" ],
     "like-of" : [ "https://twitter.com/kyiibaby/status/1578328751909195776" ],
