@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1578293427262849024" ],
     "photo" : [ {
       "alt" : "Morph the cat sitting on a chair seated at the table, looking up slightly above the camera, with his beautiful green eyes very wide",
       "photo" : "https://media.jvt.me/a455ba4cde.jpeg"
