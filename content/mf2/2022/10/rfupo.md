@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sallydarr/status/1578438771095183360" ],
     "name" : [ "Like of @sallydarr's tweet" ],
     "published" : [ "2022-10-07T22:19:00+0100" ],
     "like-of" : [ "https://twitter.com/sallydarr/status/1578438771095183360" ],
