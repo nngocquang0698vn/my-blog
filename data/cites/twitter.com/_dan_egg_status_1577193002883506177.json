@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Cambridge, MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alejandra Caraballo" ],
+          "nickname" : [ "Esqueer_" ],
+          "numeric-id" : [ "409389074" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1542689700489695232/3WDW90vZ.jpg" ],
+          "published" : [ "2011-11-10T17:29:14+00:00" ],
+          "uid" : [ "tag:twitter.com:Esqueer_" ],
+          "url" : [ "https://twitter.com/Esqueer_", "https://www.buzzsprout.com/1949544" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Anti-LGBTQ activist and friend of JK Rowling, Caroline Farrow is being investigated by British authorities for her alleged accounts on Kiwifarms." ],
+      "photo" : [ "https://pbs.twimg.com/media/FeMjGqaXEAAZEWx.jpg", "https://pbs.twimg.com/media/FeMjG0sXEAUs7sv.jpg" ],
+      "published" : [ "2022-10-04T03:45:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1577142896494452737" ],
+      "url" : [ "https://twitter.com/Esqueer_/status/1577142896494452737" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Egg" ],
+        "nickname" : [ "dan_egg" ],
+        "numeric-id" : [ "20860707" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573983337882030080/ZjwZbkWs.jpg" ],
+        "published" : [ "2009-02-14T17:54:30+00:00" ],
+        "uid" : [ "tag:twitter.com:dan_egg" ],
+        "url" : [ "https://twitter.com/dan_egg", "http://www.instagram.com/dan_egg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We should start using ‘friend of JK Rowling’ as a euphemism, it’s like the exact opposite of ‘friend of Dorothy’" ],
+    "published" : [ "2022-10-04T07:04:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1577193002883506177" ],
+    "url" : [ "https://twitter.com/dan_egg/status/1577193002883506177" ]
+  },
+  "type" : [ "h-entry" ]
+}
