@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/katie_fenn/status/1578298701285445632" ],
     "name" : [ "Like of @katie_fenn's tweet" ],
     "published" : [ "2022-10-07T09:37:00+0100" ],
     "like-of" : [ "https://twitter.com/katie_fenn/status/1578298701285445632" ],
