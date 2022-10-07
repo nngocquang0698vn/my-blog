@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Al Sweigart" ],
+        "nickname" : [ "AlSweigart" ],
+        "numeric-id" : [ "14738418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323917481216364544/jFfHUEmH.jpg" ],
+        "published" : [ "2008-05-12T00:22:27+00:00" ],
+        "uid" : [ "tag:twitter.com:AlSweigart" ],
+        "url" : [ "https://twitter.com/AlSweigart", "https://inventwithpython.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"We'll see who cancels who. I'm escaping to the one place that hasn't been corrupted by transactivism... SPAAACE!\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LilySimpson1312\"></a>",
+      "value" : "\"We'll see who cancels who. I'm escaping to the one place that hasn't been corrupted by transactivism... SPAAACE!\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/LilySimpson1312/status/1577943716056420353" ],
+    "photo" : [ "https://pbs.twimg.com/media/FeY-VbDVEAA8__Y.jpg" ],
+    "published" : [ "2022-10-06T13:41:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1578017527065870336" ],
+    "url" : [ "https://twitter.com/AlSweigart/status/1578017527065870336" ]
+  },
+  "type" : [ "h-entry" ]
+}
