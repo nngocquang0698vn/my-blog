@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Want to know the secret to blogging more often?\n\nLower your standards!\n\nA post which you don't think is ready yet is a LOT better than a giant folder full of drafts that no-one ever gets to see\n\n(Your readers won't ever know how good the thing you wanted to write would have been)</div>",
+      "value" : "Want to know the secret to blogging more often?\n\nLower your standards!\n\nA post which you don't think is ready yet is a LOT better than a giant folder full of drafts that no-one ever gets to see\n\n(Your readers won't ever know how good the thing you wanted to write would have been)"
+    } ],
+    "published" : [ "2022-01-12T16:23:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1481300837154828294" ],
+    "url" : [ "https://twitter.com/simonw/status/1481300837154828294" ]
+  },
+  "type" : [ "h-entry" ]
+}
