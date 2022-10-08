@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CiderBotherer/status/1578717744505057280" ],
     "name" : [ "Like of @CiderBotherer's tweet" ],
     "published" : [ "2022-10-08T14:14:00+0100" ],
     "like-of" : [ "https://twitter.com/CiderBotherer/status/1578717744505057280" ],
