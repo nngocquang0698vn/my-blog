@@ -1,0 +1,45 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Micropub for Bridgy Publish" ],
+    "url" : [ "https://snarfed.org/2022-10-07_micropub-for-bridgy-publish" ],
+    "syndication" : [ "https://news.indieweb.org/en", "https://news.indieweb.org/en" ],
+    "published" : [ "2022-10-07T22:05:58-07:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right third\"><a href=\"https://brid.gy/\">\n<img src=\"https://snarfed.org/bridgy_logo.png\" data-lazy-src=\"/bridgy_logo.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" src=\"https://snarfed.org/bridgy_logo.png\"></noscript>\n<p>I’ve added a significant new <a href=\"https://brid.gy/about#publishing\">Bridgy Publish</a> feature: <a href=\"https://brid.gy/about#micropub\">Micropub support</a>! Up until now, Bridgy Publish offered two ways to post to silos: interactively from user pages and via <a href=\"https://brid.gy/about#webmentions\">webmention trigger</a>. Now there’s a third way: <a href=\"https://micropub.net/\">Micropub</a>.</p>\n<p>You can now connect a Micropub client to Bridgy and use it to publish posts to <a href=\"https://brid.gy/about#publish-types\">any supported silo</a>. Bridgy publishes the exact contents of the Micropub request; it doesn’t depend on or use any original post on your web site. Otherwise, it <a href=\"https://brid.gy/about#microformats\">behaves exactly the same as normal Bridgy Publish, and supports the exact same microformats2 input</a>. It just gets that input from the Micropub request, not from a post on your site.</p>\n<p>To use it, go to your Bridgy user page for a given silo, click the <em>Get token</em> button, and copy and paste the token into your Micropub token. Bridgy’s Micropub endpoint is <code>https://brid.gy/micropub</code>; it supports create and delete and photo/video URLs but not update or file upload. (It doesn’t directly require an original post on your web site, but we expect that will still be the common case, and photos and videos will generally already be online.)</p>\n<p>Feel free to try it out, <a href=\"https://github.com/snarfed/bridgy/issues\">let us know what you think</a>, and happy hacking!</p>",
+      "value" : "https://snarfed.org/bridgy_logo.png https://snarfed.org/bridgy_logo.png\nI’ve added a significant new Bridgy Publish feature: Micropub support! Up until now, Bridgy Publish offered two ways to post to silos: interactively from user pages and via webmention trigger. Now there’s a third way: Micropub.\nYou can now connect a Micropub client to Bridgy and use it to publish posts to any supported silo. Bridgy publishes the exact contents of the Micropub request; it doesn’t depend on or use any original post on your web site. Otherwise, it behaves exactly the same as normal Bridgy Publish, and supports the exact same microformats2 input. It just gets that input from the Micropub request, not from a post on your site.\nTo use it, go to your Bridgy user page for a given silo, click the Get token button, and copy and paste the token into your Micropub token. Bridgy’s Micropub endpoint is https://brid.gy/micropub; it supports create and delete and photo/video URLs but not update or file upload. (It doesn’t directly require an original post on your web site, but we expect that will still be the common case, and photos and videos will generally already be online.)\nFeel free to try it out, let us know what you think, and happy hacking!",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
