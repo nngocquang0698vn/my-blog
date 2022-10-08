@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mikewhoatv/status/1578283276560912385" ],
     "name" : [ "Like of @mikewhoatv's tweet" ],
     "published" : [ "2022-10-08T07:57:00+0100" ],
     "like-of" : [ "https://twitter.com/mikewhoatv/status/1578283276560912385" ],
