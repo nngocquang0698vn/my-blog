@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Beth May" ],
+        "nickname" : [ "HeyBethMay" ],
+        "numeric-id" : [ "3038386956" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1482516291185360896/r668Y1in.jpg" ],
+        "published" : [ "2015-02-23T19:16:44+00:00" ],
+        "uid" : [ "tag:twitter.com:HeyBethMay" ],
+        "url" : [ "https://twitter.com/HeyBethMay", "http://instagram.com/heybethmay" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Sorry I robbed that bank I had the zoomies" ],
+    "published" : [ "2022-10-09T02:49:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1578940712736858112" ],
+    "url" : [ "https://twitter.com/HeyBethMay/status/1578940712736858112" ]
+  },
+  "type" : [ "h-entry" ]
+}
