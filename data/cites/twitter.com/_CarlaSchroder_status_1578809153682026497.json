@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Omar Rivero" ],
+          "nickname" : [ "OmarRiverosays" ],
+          "numeric-id" : [ "1434023908370354177" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1434024201900331015/aViWo4Vz.jpg" ],
+          "published" : [ "2021-09-04T05:22:11+00:00" ],
+          "uid" : [ "tag:twitter.com:OmarRiverosays" ],
+          "url" : [ "https://twitter.com/OmarRiverosays", "http://www.occupydemocrats.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "NEW RULE:  If you mention 40-year inflation is high... then you must also mention that  corporate profits are at 50-year high." ],
+      "published" : [ "2022-10-07T09:17:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1578313614355668992" ],
+      "url" : [ "https://twitter.com/OmarRiverosays/status/1578313614355668992" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carla \"badhcalku\" Schroder" ],
+        "nickname" : [ "CarlaSchroder" ],
+        "numeric-id" : [ "268381487" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1270878549893775360/tRGABqWh.jpg" ],
+        "published" : [ "2011-03-18T17:13:18+00:00" ],
+        "uid" : [ "tag:twitter.com:CarlaSchroder" ],
+        "url" : [ "https://twitter.com/CarlaSchroder", "http://carlaschroder.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Another new rule: When you report on layoffs, also report how many executives were laid off, or took pay cuts." ],
+    "published" : [ "2022-10-08T18:06:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1578809153682026497" ],
+    "url" : [ "https://twitter.com/CarlaSchroder/status/1578809153682026497" ]
+  },
+  "type" : [ "h-entry" ]
+}
