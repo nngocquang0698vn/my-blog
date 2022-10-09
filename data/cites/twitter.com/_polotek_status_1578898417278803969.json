@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "DC ✈ Nigeria (Igbo)" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "jide.omekam(ScM) 🐇🏃🏿‍♂️" ],
+          "nickname" : [ "code_jide" ],
+          "numeric-id" : [ "482440183" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1568473455418376194/x3Cs2QhW.jpg" ],
+          "published" : [ "2012-02-03T22:29:51+00:00" ],
+          "uid" : [ "tag:twitter.com:code_jide" ],
+          "url" : [ "https://twitter.com/code_jide" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Be confident about deleting shit code" ],
+      "published" : [ "2022-10-08T13:44:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1578743199472168961" ],
+      "url" : [ "https://twitter.com/code_jide/status/1578743199472168961" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I feel like a lot of people don't understand how long and hard we fought for decent version control systems. It's so hard to lose code today. We worked to make deleting code cheap and easy to recover from. Go nuts." ],
+    "published" : [ "2022-10-09T00:01:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1578898417278803969" ],
+    "url" : [ "https://twitter.com/polotek/status/1578898417278803969" ]
+  },
+  "type" : [ "h-entry" ]
+}
