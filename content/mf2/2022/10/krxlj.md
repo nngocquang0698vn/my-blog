@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Panzer1939/status/1578973466694283264" ],
     "name" : [ "Like of @Panzer1939's tweet" ],
     "published" : [ "2022-10-09T09:13:00+0100" ],
     "like-of" : [ "https://twitter.com/Panzer1939/status/1578973466694283264" ],
