@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bmrow/status/1578945267260600321" ],
     "name" : [ "Like of @bmrow's tweet" ],
     "published" : [ "2022-10-09T09:13:00+0100" ],
     "like-of" : [ "https://twitter.com/bmrow/status/1578945267260600321" ],
