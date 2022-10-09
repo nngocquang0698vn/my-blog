@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area Containment Zone" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Noah Kantrowitz" ],
+        "nickname" : [ "kantrn" ],
+        "numeric-id" : [ "1841791" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1170359603/avatar_original.png" ],
+        "published" : [ "2007-03-22T05:51:31+00:00" ],
+        "uid" : [ "tag:twitter.com:kantrn" ],
+        "url" : [ "https://twitter.com/kantrn", "https://coderanger.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "First of all how dare you\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bengrue\"></a>",
+      "value" : "First of all how dare you"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bengrue/status/1366920752721657861" ],
+    "published" : [ "2021-03-03T01:31:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1366924248338505730" ],
+    "url" : [ "https://twitter.com/kantrn/status/1366924248338505730" ]
+  },
+  "type" : [ "h-entry" ]
+}
