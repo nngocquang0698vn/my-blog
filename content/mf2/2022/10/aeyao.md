@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AndyBoldEsq/status/1579491016583032833" ],
     "name" : [ "Like of @AndyBoldEsq's tweet" ],
     "published" : [ "2022-10-10T16:31:00+0100" ],
     "like-of" : [ "https://twitter.com/AndyBoldEsq/status/1579491016583032833" ],
