@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SAINTLILITHHH/status/1579262385680154624" ],
     "name" : [ "Like of @SAINTLILITHHH's tweet" ],
     "published" : [ "2022-10-10T08:03:00+0100" ],
     "like-of" : [ "https://twitter.com/SAINTLILITHHH/status/1579262385680154624" ],
