@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Blackler" ],
+        "nickname" : [ "CodeWithStu" ],
+        "numeric-id" : [ "748968196678574081" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568573680803880962/EzLn78YM.jpg" ],
+        "published" : [ "2016-07-01T19:55:08+00:00" ],
+        "uid" : [ "tag:twitter.com:CodeWithStu" ],
+        "url" : [ "https://twitter.com/CodeWithStu", "https://codewithstu.tv", "http://codewithstu.tv", "http://im5tu.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is a great idea <a href=\"https://twitter.com/DeliverooEng\">@DeliverooEng</a> - I wonder whether we can be doing this via SBOMs? <a href=\"https://buff.ly/3M3Bpam\">buff.ly/3M3Bpam</a>",
+      "value" : "This is a great idea @DeliverooEng - I wonder whether we can be doing this via SBOMs? buff.ly/3M3Bpam"
+    } ],
+    "published" : [ "2022-10-03T12:09:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1576907166316888064" ],
+    "url" : [ "https://twitter.com/CodeWithStu/status/1576907166316888064" ]
+  },
+  "type" : [ "h-entry" ]
+}
