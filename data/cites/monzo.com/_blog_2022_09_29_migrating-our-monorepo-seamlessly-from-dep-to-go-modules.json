@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Migrating our monorepo seamlessly from Dep to Go Modules" ],
+    "summary" : [ "Since 2018, we've used Dep to manage our monorepo dependencies, but when it was deprecated switching to Go Modules was a high risk change. This post explains how we reduced that risk by iteratively updating our dependencies for a seamless migration." ],
+    "featured" : [ "https://images.ctfassets.net/ro61k101ee59/3M0SVwdXtloT2dnUhrt0Ln/7032d0ad3f384fed0984e505ce38a266/Tech-Social-Inclusion.png" ],
+    "url" : [ "https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules" ]
+  }
+}
