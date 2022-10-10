@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/CodeWithStu/status/1576907166316888064" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1579461007688101888" ],
     "published" : [ "2022-10-10T14:06:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
