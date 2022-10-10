@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "AndyBold" ],
+          "nickname" : [ "AndyBoldEsq" ],
+          "numeric-id" : [ "1272690397031075840" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1272690680767352832/G-kXCs-_.jpg" ],
+          "published" : [ "2020-06-16T00:40:29+00:00" ],
+          "uid" : [ "tag:twitter.com:AndyBoldEsq" ],
+          "url" : [ "https://twitter.com/AndyBoldEsq" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "👩‍🚀🔫👩‍🚀  A big mistake made by many, including past me, is to not have an owner who runs it like Production. A bigger mistake is everybody owning it. The worst mistake is throwing a collection of CI tools over the wall to another team with a note attached saying “Your problem now”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monkchips\"></a>",
+        "value" : "👩‍🚀🔫👩‍🚀  A big mistake made by many, including past me, is to not have an owner who runs it like Production. A bigger mistake is everybody owning it. The worst mistake is throwing a collection of CI tools over the wall to another team with a note attached saying “Your problem now”"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/monkchips/status/1579488460343488512" ],
+      "published" : [ "2022-10-10T15:16:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1579491016583032833" ],
+      "url" : [ "https://twitter.com/AndyBoldEsq/status/1579491016583032833" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Buck Eleven" ],
+        "nickname" : [ "monkchips" ],
+        "numeric-id" : [ "61233" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336307464564862976/TmUP3ovh.jpg" ],
+        "published" : [ "2006-12-12T17:35:55+00:00" ],
+        "uid" : [ "tag:twitter.com:monkchips" ],
+        "url" : [ "https://twitter.com/monkchips", "http://monkchips.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "all of this. CI is a production environment." ],
+    "published" : [ "2022-10-10T15:19:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1579491704234991616" ],
+    "url" : [ "https://twitter.com/monkchips/status/1579491704234991616" ]
+  },
+  "type" : [ "h-entry" ]
+}
