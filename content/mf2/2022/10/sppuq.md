@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/monkchips/status/1579491704234991616" ],
     "name" : [ "Like of @monkchips's tweet" ],
     "published" : [ "2022-10-10T16:31:00+0100" ],
     "like-of" : [ "https://twitter.com/monkchips/status/1579491704234991616" ],
