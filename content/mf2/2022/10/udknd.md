@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScotNational/status/1579138281245380608" ],
     "name" : [ "Like of @ScotNational's tweet" ],
     "published" : [ "2022-10-11T11:04:00+0100" ],
     "like-of" : [ "https://twitter.com/ScotNational/status/1579138281245380608" ],
