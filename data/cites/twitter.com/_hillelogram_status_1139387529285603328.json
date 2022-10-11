@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1579950235018731523/ToQ8kFH3.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://learntla.com", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">PSA: the &lt;details&gt; html tag is delightful\n\n<a href=\"https://www.jvt.me/posts/2019/05/19/html-toggle/\">jvt.me/posts/2019/05/…</a></div>",
+      "value" : "PSA: the <details> html tag is delightful\n\njvt.me/posts/2019/05/…"
+    } ],
+    "published" : [ "2019-06-14T04:22:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1139387529285603328" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1139387529285603328" ]
+  },
+  "type" : [ "h-entry" ]
+}
