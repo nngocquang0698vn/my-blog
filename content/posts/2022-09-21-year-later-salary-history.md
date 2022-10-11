@@ -16,7 +16,7 @@ slug: "year-later-salary-history"
 ---
 Just over a year ago, I did something quite "out there", even for me, and I posted my [salary history publicly](/salary/). This was accompanied by [a blog post](https://www.jvt.me/posts/2021/09/09/public-salary-history/) to explain why I was doing it, and it's certainly been popular.
 
-When I first posted it, I made a note to myself to come back in a year, and see whether anything had changed, as well as to look back on some of the events that happened immediately after my posting, as it certainly made life interesting in the month or so following the post.
+When I first posted it, I made a note to myself to come back in a year, and see whether anything had changed, as well as to look back on some of the events that happened immediately after my posting, as it certainly made life interesting in the month or so following the post. I [wrote up](/posts/2021/10/13/what-learned-sharing-salary-publicly/) a lightning talk I did the month after, but this should give a bit more insight on further reflection.
 
 The usual caveats apply of the fact that this is a personal post, detailing personal experiences, and doesn't represent the views of any employers. I have also made efforts to remove a number of key details, which would tell a more realistic story, but are probably best told in person, rather than on the Internet.
 
@@ -47,6 +47,12 @@ So how many people have seen this? My first caveat for these numbers is that pri
 </table>
 
 One of the most interesting things is how many direct hits I get on the page - it's often not discovered on my site's header, or via the feed, but it's by someone either arriving through a privacy-preserving referrer, or they're here by a direct link someone else has sent them. Probably the most organic way of building traffic I've ever had, including being featured on a podcast, and in several newsletters!
+
+# I got a lot of (private) thanks
+
+In the days after posting it, I received loads of private messages from folks, a good number from underrepresented backgrounds, to say thank you for posting it, and that it's really been helpful for them. I also know of _at least_ 3 people who've used it to get a considerably better paying job, which is really amazing.
+
+I'd love to hear if it's been great for you, too.
 
 # It's got more people sharing theirs
 
