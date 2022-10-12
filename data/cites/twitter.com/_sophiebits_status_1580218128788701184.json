@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "san francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Alpert" ],
+        "nickname" : [ "sophiebits" ],
+        "numeric-id" : [ "5697222" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396684030913830912/pMZ4ENby.jpg" ],
+        "published" : [ "2007-05-01T23:04:08+00:00" ],
+        "uid" : [ "tag:twitter.com:sophiebits" ],
+        "url" : [ "https://twitter.com/sophiebits", "https://sophiebits.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think it’s a backronym\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ohhoe\"></a>",
+      "value" : "I think it’s a backronym"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ohhoe/status/1580216529635127296" ],
+    "published" : [ "2022-10-12T15:25:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1580218128788701184" ],
+    "url" : [ "https://twitter.com/sophiebits/status/1580218128788701184" ]
+  },
+  "type" : [ "h-entry" ]
+}
