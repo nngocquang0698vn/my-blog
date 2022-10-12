@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/UnchartedWorlds/status/1580133615505002497" ],
     "name" : [ "Like of @UnchartedWorlds's tweet" ],
     "published" : [ "2022-10-12T21:12:00+0100" ],
     "like-of" : [ "https://twitter.com/UnchartedWorlds/status/1580133615505002497" ],
