@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/modernserf/status/1580218047109169156" ],
     "name" : [ "Like of @modernserf's tweet" ],
     "published" : [ "2022-10-12T16:26:00+0100" ],
     "like-of" : [ "https://twitter.com/modernserf/status/1580218047109169156" ],
