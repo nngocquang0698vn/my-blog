@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The New York Times" ],
+        "nickname" : [ "nytimes" ],
+        "numeric-id" : [ "807095" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR.png" ],
+        "published" : [ "2007-03-02T20:41:42+00:00" ],
+        "uid" : [ "tag:twitter.com:nytimes" ],
+        "url" : [ "https://twitter.com/nytimes", "http://www.nytimes.com/", "http://nyti.ms/2FVHq9v" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "As an energy crisis looms, young activists in Paris are using superhero-like Parkour moves to switch off wasteful lights that stores leave on all night. <a href=\"https://nyti.ms/3yZnrRB\">nyti.ms/3yZnrRB</a>",
+      "value" : "As an energy crisis looms, young activists in Paris are using superhero-like Parkour moves to switch off wasteful lights that stores leave on all night. nyti.ms/3yZnrRB"
+    } ],
+    "published" : [ "2022-10-13T10:00:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1580498599133470721" ],
+    "url" : [ "https://twitter.com/nytimes/status/1580498599133470721" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1580477800313753602/vid/720x1280/Q-6s7WGkM5h2AyKE.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
