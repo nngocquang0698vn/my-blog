@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Mainly London/Singapore " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Brendan May" ],
+          "nickname" : [ "bmay" ],
+          "numeric-id" : [ "12321952" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1578769396528545792/Pn2H6T6o.jpg" ],
+          "published" : [ "2008-01-16T16:00:06+00:00" ],
+          "uid" : [ "tag:twitter.com:bmay" ],
+          "url" : [ "https://twitter.com/bmay" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "One of the most sensible takes on ‘cancel culture’ I’ve seen. Sensible, honest, smart. I’m posting the video directly as Times Radio tweeted it with a clickbait and somewhat misleading headline that unintentionally confirmed his point. More of this please. " ],
+      "published" : [ "2022-10-12T17:43:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1580252802101960706" ],
+      "url" : [ "https://twitter.com/bmay/status/1580252802101960706" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1580159574589558791/vid/720x720/897HAqtE4Ho7rIVZ.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Billy Bragg" ],
+        "nickname" : [ "billybragg" ],
+        "numeric-id" : [ "13496142" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414654765485658120/ysewgHA3.jpg" ],
+        "published" : [ "2008-02-15T00:05:10+00:00" ],
+        "uid" : [ "tag:twitter.com:billybragg" ],
+        "url" : [ "https://twitter.com/billybragg", "http://www.billybragg.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Norton really good here on John Cleese, telling him that ‘cancel culture’ is just accountability, and JK Rowling, suggesting that the media talk directly to trans teens and their parents rather than merely amplifying the takes of a celebrity." ],
+    "published" : [ "2022-10-13T15:41:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1580584498978136065" ],
+    "url" : [ "https://twitter.com/billybragg/status/1580584498978136065" ]
+  },
+  "type" : [ "h-entry" ]
+}
