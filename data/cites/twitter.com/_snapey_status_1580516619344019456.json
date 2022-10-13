@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mansfield, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Snape" ],
+        "nickname" : [ "snapey" ],
+        "numeric-id" : [ "18319116" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1221037311988785152/WcWg_3cd.jpg" ],
+        "published" : [ "2008-12-22T22:24:31+00:00" ],
+        "uid" : [ "tag:twitter.com:snapey" ],
+        "url" : [ "https://twitter.com/snapey", "http://www.novate.co.uk", "http://Novate.co.uk", "http://sixtokens.com", "http://speakernet.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> did you know you were mentioned in today's <a href=\"https://twitter.com/tldrnewsletter\">@tldrnewsletter</a> (regarding your salary history)",
+      "value" : "@JamieTanna did you know you were mentioned in today's @tldrnewsletter (regarding your salary history)"
+    } ],
+    "published" : [ "2022-10-13T11:11:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1580516619344019456" ],
+    "url" : [ "https://twitter.com/snapey/status/1580516619344019456" ]
+  },
+  "type" : [ "h-entry" ]
+}
