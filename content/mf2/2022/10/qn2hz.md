@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KatyMontgomerie/status/1580643617412354049" ],
     "name" : [ "Like of @KatyMontgomerie's tweet" ],
     "published" : [ "2022-10-13T23:01:00+0100" ],
     "like-of" : [ "https://twitter.com/KatyMontgomerie/status/1580643617412354049" ],
