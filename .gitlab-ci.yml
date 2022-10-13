@@ -38,7 +38,7 @@ theme_branch:
 build:
   stage: build
   image:
-    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:$HUGO_VERSION
+    name: registry.gitlab.com/tanna.dev/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
   artifacts:
     expire_in: 30 minutes
@@ -54,7 +54,7 @@ build:
 deploy:
   stage: deploy
   image:
-    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:$HUGO_VERSION
+    name: registry.gitlab.com/tanna.dev/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
   resource_group: production
   artifacts:
