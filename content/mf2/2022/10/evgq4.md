@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/posteratlaw/status/1580930925344743425" ],
     "name" : [ "Like of @posteratlaw's tweet" ],
     "published" : [ "2022-10-14T21:02:00+0100" ],
     "like-of" : [ "https://twitter.com/posteratlaw/status/1580930925344743425" ],
