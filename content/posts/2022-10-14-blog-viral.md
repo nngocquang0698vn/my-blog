@@ -1,16 +1,18 @@
 ---
-title: "Phew, that's a lot of traffic 😅 What happens when a blog post goes viral?"
-description: "Looking at some of the things that happen when my posts have gone viral, from how much traffic it brings, to the various sources of traffic."
-date: 2022-10-14T17:13:27+0100
+title: "Phew, that's a lot of traffic \U0001f605 What happens when a blog post goes\
+  \ viral?"
+description: "Looking at some of the things that happen when my posts have gone viral,\
+  \ from how much traffic it brings, to the various sources of traffic."
+date: "2022-10-14T17:13:27+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1580958093466140674"
 tags:
-- blogging
-- analytics
+- "blogging"
+- "analytics"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: https://media.jvt.me/7e69b1931b.png
-slug: blog-viral
+image: "https://media.jvt.me/7e69b1931b.png"
+slug: "blog-viral"
 ---
 In the last few years, I've had a few posts on my site that have been particularly popular, and are arguably "viral". This has meant I've been on the front page of [Hacker News](https://news.ycombinator.com), [/r/programming on reddit](https://reddit.com/r/programming), and [The Changelog](https://changelog.com), as well as being featured in several popular newsletters.
 
