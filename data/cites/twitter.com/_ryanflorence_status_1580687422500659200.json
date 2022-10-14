@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Utah" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Florence" ],
+        "nickname" : [ "ryanflorence" ],
+        "numeric-id" : [ "16468446" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344410501309030403/L2rNpO6h.jpg" ],
+        "published" : [ "2008-09-26T14:41:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ryanflorence" ],
+        "url" : [ "https://twitter.com/ryanflorence", "https://remix.run" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Whenever I see that a service's HTTP API is GraphQL I sigh and then wonder if I *really* want to build this integration or not anymore.\n\nI don't think I'm a gql hater, but, dang, just let me fetch(`${api}/some/thing`) and be on my way.</div>",
+      "value" : "Whenever I see that a service's HTTP API is GraphQL I sigh and then wonder if I *really* want to build this integration or not anymore.\n\nI don't think I'm a gql hater, but, dang, just let me fetch(`${api}/some/thing`) and be on my way."
+    } ],
+    "published" : [ "2022-10-13T22:30:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1580687422500659200" ],
+    "url" : [ "https://twitter.com/ryanflorence/status/1580687422500659200" ]
+  },
+  "type" : [ "h-entry" ]
+}
