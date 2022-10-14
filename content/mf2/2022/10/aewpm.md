@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vibinpain/status/1580615969957113857" ],
     "name" : [ "Like of @vibinpain's tweet" ],
     "published" : [ "2022-10-14T08:59:00+0100" ],
     "like-of" : [ "https://twitter.com/vibinpain/status/1580615969957113857" ],
