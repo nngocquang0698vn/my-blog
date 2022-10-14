@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nikita Bier" ],
+          "nickname" : [ "nikitabier" ],
+          "numeric-id" : [ "636513296" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1482187055220150274/5LIbI3SW.jpg" ],
+          "published" : [ "2012-07-15T22:44:07+00:00" ],
+          "uid" : [ "tag:twitter.com:nikitabier" ],
+          "url" : [ "https://twitter.com/nikitabier", "http://instagram.com/nikitabier" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Ladies and gentlemen, after a 5-year hiatus, I am no longer a one-hit wonder.\n\nIntroducing Gas—No. 1 in the U.S. App Store</div>",
+        "value" : "Ladies and gentlemen, after a 5-year hiatus, I am no longer a one-hit wonder.\n\nIntroducing Gas—No. 1 in the U.S. App Store"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fe0G6vpVEAEj66c.jpg" ],
+      "published" : [ "2022-10-11T20:14:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1579928402487701504" ],
+      "url" : [ "https://twitter.com/nikitabier/status/1579928402487701504" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">FB acquired the app TBH cofounded by Nikita - an app aimed at teens to find out who likes you. In 2018, shut it down down “due to low usage.”\n\nNikita vested out, left FB, and built… pretty much the same app (with some improvements).\n\nIt’s #1 in the US.\n\nHow did FB miss this…</div>",
+      "value" : "FB acquired the app TBH cofounded by Nikita - an app aimed at teens to find out who likes you. In 2018, shut it down down “due to low usage.”\n\nNikita vested out, left FB, and built… pretty much the same app (with some improvements).\n\nIt’s #1 in the US.\n\nHow did FB miss this…"
+    } ],
+    "published" : [ "2022-10-13T07:10:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1580455815051612162" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1580455815051612162" ]
+  },
+  "type" : [ "h-entry" ]
+}
