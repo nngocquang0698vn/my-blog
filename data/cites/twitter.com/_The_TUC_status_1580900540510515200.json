@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Trades Union Congress" ],
+        "nickname" : [ "The_TUC" ],
+        "numeric-id" : [ "48315339" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369265236096716806/LsF_4BZV.jpg" ],
+        "published" : [ "2009-06-18T11:00:57+00:00" ],
+        "uid" : [ "tag:twitter.com:The_TUC" ],
+        "url" : [ "https://twitter.com/The_TUC", "https://www.tuc.org.uk/join-a-union" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Boss blaming you for their decision?\n\nJoin a union.</div>",
+      "value" : "Boss blaming you for their decision?\n\nJoin a union."
+    } ],
+    "published" : [ "2022-10-14T12:37:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1580900540510515200" ],
+    "url" : [ "https://twitter.com/The_TUC/status/1580900540510515200" ]
+  },
+  "type" : [ "h-entry" ]
+}
