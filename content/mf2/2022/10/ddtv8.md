@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dox_gay/status/1580207323876069379" ],
     "name" : [ "Like of @dox_gay's tweet" ],
     "published" : [ "2022-10-14T08:51:00+0100" ],
     "category" : [ "food", "memes" ],
