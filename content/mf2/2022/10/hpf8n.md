@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alistair_hey/status/1580801131223011330" ],
     "name" : [ "Like of @alistair_hey's tweet" ],
     "published" : [ "2022-10-14T07:45:00+0100" ],
     "like-of" : [ "https://twitter.com/alistair_hey/status/1580801131223011330" ],
