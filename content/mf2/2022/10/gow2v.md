@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SpookyGothLoser/status/1580727406079639552" ],
     "name" : [ "Like of @SpookyGothLoser's tweet" ],
     "published" : [ "2022-10-14T21:50:00+0100" ],
     "like-of" : [ "https://twitter.com/SpookyGothLoser/status/1580727406079639552" ],
