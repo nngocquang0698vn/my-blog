@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Fremean/status/1581253218260373506" ],
     "name" : [ "Like of @Fremean's tweet" ],
     "published" : [ "2022-10-15T18:30:00+0100" ],
     "like-of" : [ "https://twitter.com/Fremean/status/1581253218260373506" ],
