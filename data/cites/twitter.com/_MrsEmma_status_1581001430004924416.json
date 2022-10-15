@@ -1,0 +1,83 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Emma Seward" ],
+        "nickname" : [ "MrsEmma" ],
+        "numeric-id" : [ "19500955" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475510745458688004/UB_nAT93.jpg" ],
+        "published" : [ "2009-01-25T19:32:42+00:00" ],
+        "uid" : [ "tag:twitter.com:MrsEmma" ],
+        "url" : [ "https://twitter.com/MrsEmma" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/Ed_Miliband/status/1580931307185401856\">@Ed_Miliband</a> 🤡\n<a class=\"tag\" href=\"https://twitter.com/david_cameron/status/595112367358406656\">twitter.com/david_cameron/…</a>"
+    } ],
+    "published" : [ "2022-10-14T19:18:09+00:00" ],
+    "repost-of" : [ {
+      "children" : [ {
+        "properties" : {
+          "author" : [ {
+            "properties" : {
+              "name" : [ "David Cameron" ],
+              "nickname" : [ "David_Cameron" ],
+              "numeric-id" : [ "103065157" ],
+              "photo" : [ "https://pbs.twimg.com/profile_images/1577310429742784512/LDOxRCel.jpg" ],
+              "published" : [ "2010-01-08T19:23:35+00:00" ],
+              "uid" : [ "tag:twitter.com:David_Cameron" ],
+              "url" : [ "https://twitter.com/David_Cameron", "https://www.davidcameronoffice.org" ]
+            },
+            "type" : [ "h-card" ]
+          } ],
+          "content" : [ {
+            "html" : "Britain faces a simple and inescapable choice - stability and strong Government with me, or chaos with Ed Miliband: <a href=\"https://www.facebook.com/DavidCameronOfficial/posts/979082725449379\">facebook.com/DavidCameronOf…</a>",
+            "value" : "Britain faces a simple and inescapable choice - stability and strong Government with me, or chaos with Ed Miliband: facebook.com/DavidCameronOf…"
+          } ],
+          "published" : [ "2015-05-04T06:26:59+00:00" ],
+          "uid" : [ "tag:twitter.com:595112367358406656" ],
+          "url" : [ "https://twitter.com/David_Cameron/status/595112367358406656" ]
+        },
+        "type" : [ "u-quotation-of", "h-cite" ]
+      }, {
+        "properties" : {
+          "name" : [ "twitter.com/david_cameron/…" ],
+          "url" : [ "https://twitter.com/david_cameron/status/595112367358406656" ]
+        },
+        "type" : [ "h-cite" ]
+      } ],
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "www.labour.org.uk" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Ed Miliband" ],
+            "nickname" : [ "Ed_Miliband" ],
+            "numeric-id" : [ "61781260" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/859337943764410368/Jts3J7JI.jpg" ],
+            "published" : [ "2009-07-31T14:23:21+00:00" ],
+            "uid" : [ "tag:twitter.com:Ed_Miliband" ],
+            "url" : [ "https://twitter.com/Ed_Miliband" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ {
+          "html" : "🤡\n<a class=\"tag\" href=\"https://twitter.com/david_cameron/status/595112367358406656\">twitter.com/david_cameron/…</a>",
+          "value" : "🤡"
+        } ],
+        "published" : [ "2022-10-14T14:39:30+00:00" ],
+        "uid" : [ "tag:twitter.com:1580931307185401856" ],
+        "url" : [ "https://twitter.com/Ed_Miliband/status/1580931307185401856" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1581001430004924416" ],
+    "url" : [ "https://twitter.com/MrsEmma/status/1581001430004924416" ]
+  },
+  "type" : [ "h-entry" ]
+}
