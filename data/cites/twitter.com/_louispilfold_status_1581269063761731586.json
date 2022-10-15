@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Louis Pilfold" ],
+        "nickname" : [ "louispilfold" ],
+        "numeric-id" : [ "2704988466" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1173340756343492608/HL50tEW9.jpg" ],
+        "published" : [ "2014-08-03T22:02:59+00:00" ],
+        "uid" : [ "tag:twitter.com:louispilfold" ],
+        "url" : [ "https://twitter.com/louispilfold", "https://lpil.uk", "http://github.com/sponsors/lpil/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Absolutely awful hostile practice.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>",
+      "value" : "Absolutely awful hostile practice."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/github/status/1580826746294652929" ],
+    "published" : [ "2022-10-15T13:01:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1581269063761731586" ],
+    "url" : [ "https://twitter.com/louispilfold/status/1581269063761731586" ]
+  },
+  "type" : [ "h-entry" ]
+}
