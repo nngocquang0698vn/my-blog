@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Budapest, HU" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Henrik Pauli" ],
+        "nickname" : [ "phl82" ],
+        "numeric-id" : [ "1093244630" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314497686847000577/aKFA7oMF.jpg" ],
+        "published" : [ "2013-01-15T21:04:26+00:00" ],
+        "uid" : [ "tag:twitter.com:phl82" ],
+        "url" : [ "https://twitter.com/phl82" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One of the worst things on Github is any bot that autocloses issues.  There are so many that people keep coming back to comment on just because the devs didn't manage to care about it, it's still an issue, and some bot insists that it's not.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>",
+      "value" : "One of the worst things on Github is any bot that autocloses issues.  There are so many that people keep coming back to comment on just because the devs didn't manage to care about it, it's still an issue, and some bot insists that it's not."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/github/status/1580826746294652929" ],
+    "published" : [ "2022-10-14T09:31:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1580853810410332160" ],
+    "url" : [ "https://twitter.com/phl82/status/1580853810410332160" ]
+  },
+  "type" : [ "h-entry" ]
+}
