@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "GitHub" ],
+          "nickname" : [ "github" ],
+          "numeric-id" : [ "13334762" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9.jpg" ],
+          "published" : [ "2008-02-11T04:41:50+00:00" ],
+          "uid" : [ "tag:twitter.com:github" ],
+          "url" : [ "https://twitter.com/github", "http://github.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">🤖  This handy action flags issues and PRs that go untouched for a certain amount of time.\n\nTry it out in your repo today and start closing out those stale issues! <a href=\"https://github.com/actions/stale\">github.com/actions/stale</a></div>",
+        "value" : "🤖  This handy action flags issues and PRs that go untouched for a certain amount of time.\n\nTry it out in your repo today and start closing out those stale issues! github.com/actions/stale"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FfA5jDjXgAA45I5.jpg" ],
+      "published" : [ "2022-10-14T07:44:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1580826746294652929" ],
+      "url" : [ "https://twitter.com/github/status/1580826746294652929" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "the mountains of Montana" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Martin" ],
+        "nickname" : [ "chris__martin" ],
+        "numeric-id" : [ "18271443" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1427696536104824834/qKYjdUVI.jpg" ],
+        "published" : [ "2008-12-20T19:47:34+00:00" ],
+        "uid" : [ "tag:twitter.com:chris__martin" ],
+        "url" : [ "https://twitter.com/chris__martin", "https://chris-martin.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I never understood what the purpose of this was. The issue list is a list of warnings that users should be aware of. Old stale issues are doubly important in this regard." ],
+    "published" : [ "2022-10-15T17:17:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1581333463101476865" ],
+    "url" : [ "https://twitter.com/chris__martin/status/1581333463101476865" ]
+  },
+  "type" : [ "h-entry" ]
+}
