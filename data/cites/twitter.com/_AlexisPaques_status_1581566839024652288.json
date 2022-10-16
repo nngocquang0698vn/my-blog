@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brussels, Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexis Paques" ],
+        "nickname" : [ "AlexisPaques" ],
+        "numeric-id" : [ "1068770803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1054991507474841606/1gWhgdMP.jpg" ],
+        "published" : [ "2013-01-07T16:59:07+00:00" ],
+        "uid" : [ "tag:twitter.com:AlexisPaques" ],
+        "url" : [ "https://twitter.com/AlexisPaques", "http://alexistm.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is complete disrespect for the to the open source community. Definitely NOT OK. \n\nFurthermore, how would you ever trust Copilot to such complex code?\nIf it is good, it is a plain copy without attributions. If the copy is imperfect, it will have random bugs.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DocSparse\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>",
+      "value" : "This is complete disrespect for the to the open source community. Definitely NOT OK. \n\nFurthermore, how would you ever trust Copilot to such complex code?\nIf it is good, it is a plain copy without attributions. If the copy is imperfect, it will have random bugs."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/DocSparse/status/1581461734665367554" ],
+    "published" : [ "2022-10-16T08:44:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1581566839024652288" ],
+    "url" : [ "https://twitter.com/AlexisPaques/status/1581566839024652288" ]
+  },
+  "type" : [ "h-entry" ]
+}
