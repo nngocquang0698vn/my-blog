@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fucknoshitfuck/status/1581717209013178368" ],
     "name" : [ "Like of @fucknoshitfuck's tweet" ],
     "published" : [ "2022-10-16T22:44:00+0100" ],
     "like-of" : [ "https://twitter.com/fucknoshitfuck/status/1581717209013178368" ],
