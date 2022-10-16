@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottinghamshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Flint" ],
+        "nickname" : [ "mkflint" ],
+        "numeric-id" : [ "73369438" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/541249367949451264/vDVsZrXM.jpeg" ],
+        "published" : [ "2009-09-11T11:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:mkflint" ],
+        "url" : [ "https://twitter.com/mkflint" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Had a lot of fun recently playing with AWS Cloudformation, ECS Fargate, Docker and Ruby lambda.\nNever stop learning :)</div>",
+      "value" : "Had a lot of fun recently playing with AWS Cloudformation, ECS Fargate, Docker and Ruby lambda.\nNever stop learning :)"
+    } ],
+    "published" : [ "2022-10-15T20:16:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1581378383644327941" ],
+    "url" : [ "https://twitter.com/mkflint/status/1581378383644327941" ]
+  },
+  "type" : [ "h-entry" ]
+}
