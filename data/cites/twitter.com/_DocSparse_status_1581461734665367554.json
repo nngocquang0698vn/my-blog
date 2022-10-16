@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "College Station, Texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Davis" ],
+        "nickname" : [ "DocSparse" ],
+        "numeric-id" : [ "634099087" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1058555013285302272/kPkZ2s8k.jpg" ],
+        "published" : [ "2012-07-12T22:25:11+00:00" ],
+        "uid" : [ "tag:twitter.com:DocSparse" ],
+        "url" : [ "https://twitter.com/DocSparse", "http://faculty.cse.tamu.edu/davis", "https://youtu.be/782WMbP4suU" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/github\">@github</a> copilot, with \"public code\" blocked, emits large chunks of my  copyrighted code, with no attribution, no LGPL license.  For example, the simple prompt \"sparse matrix transpose, cs_\" produces my cs_transpose in CSparse. My code on left, github on right. Not OK.",
+      "value" : "@github copilot, with \"public code\" blocked, emits large chunks of my  copyrighted code, with no attribution, no LGPL license.  For example, the simple prompt \"sparse matrix transpose, cs_\" produces my cs_transpose in CSparse. My code on left, github on right. Not OK."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FfJ6TWLWIAA45hV.jpg" ],
+    "published" : [ "2022-10-16T01:47:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1581461734665367554" ],
+    "url" : [ "https://twitter.com/DocSparse/status/1581461734665367554" ]
+  },
+  "type" : [ "h-entry" ]
+}
