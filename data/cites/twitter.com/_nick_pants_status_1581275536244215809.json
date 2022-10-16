@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "nick" ],
+        "nickname" : [ "nick_pants" ],
+        "numeric-id" : [ "371592836" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1577095416969060353/-3-F8pjm.jpg" ],
+        "published" : [ "2011-09-11T04:30:26+00:00" ],
+        "uid" : [ "tag:twitter.com:nick_pants" ],
+        "url" : [ "https://twitter.com/nick_pants" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nytimes\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/nytimes/status/1581273090763653121" ],
+    "photo" : [ "https://pbs.twimg.com/media/FfHRt-LXoAIlTre.jpg" ],
+    "published" : [ "2022-10-15T13:27:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1581275536244215809" ],
+    "url" : [ "https://twitter.com/nick_pants/status/1581275536244215809" ]
+  },
+  "type" : [ "h-entry" ]
+}
