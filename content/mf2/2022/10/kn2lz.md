@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/deportablediz/status/1581599192413536256" ],
     "name" : [ "Like of @deportablediz's tweet" ],
     "published" : [ "2022-10-16T19:27:00+0100" ],
     "like-of" : [ "https://twitter.com/deportablediz/status/1581599192413536256" ],
