@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brussels, Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexis Paques" ],
+        "nickname" : [ "AlexisPaques" ],
+        "numeric-id" : [ "1068770803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1054991507474841606/1gWhgdMP.jpg" ],
+        "published" : [ "2013-01-07T16:59:07+00:00" ],
+        "uid" : [ "tag:twitter.com:AlexisPaques" ],
+        "url" : [ "https://twitter.com/AlexisPaques", "http://alexistm.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "(plus, if you use Copilot for such code, you probably do not understand it 🫣)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DocSparse\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>",
+      "value" : "(plus, if you use Copilot for such code, you probably do not understand it 🫣)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/AlexisPaques/status/1581566839024652288" ],
+    "published" : [ "2022-10-16T08:50:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1581568290488733696" ],
+    "url" : [ "https://twitter.com/AlexisPaques/status/1581568290488733696" ]
+  },
+  "type" : [ "h-entry" ]
+}
