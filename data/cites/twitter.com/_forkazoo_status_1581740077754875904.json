@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Will Rosecrans" ],
+        "nickname" : [ "forkazoo" ],
+        "numeric-id" : [ "65735424" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/859976525596155905/cza-3ltz.jpg" ],
+        "published" : [ "2009-08-14T21:04:50+00:00" ],
+        "uid" : [ "tag:twitter.com:forkazoo" ],
+        "url" : [ "https://twitter.com/forkazoo", "http://willrosecrans.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "As a senior software engineer working on complex topics like GPU acceleration, the code I copy and paste off the internet without understanding is much more obscure and sophisticated than the code that junior developers copy and paste off the internet without understanding." ],
+    "published" : [ "2022-10-16T20:13:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1581740077754875904" ],
+    "url" : [ "https://twitter.com/forkazoo/status/1581740077754875904" ]
+  },
+  "type" : [ "h-entry" ]
+}
