@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kent and London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Spicer" ],
+        "nickname" : [ "MrMichaelSpicer" ],
+        "numeric-id" : [ "93222172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1470769589487345666/CskorzkA.jpg" ],
+        "published" : [ "2009-11-28T17:19:58+00:00" ],
+        "uid" : [ "tag:twitter.com:MrMichaelSpicer" ],
+        "url" : [ "https://twitter.com/MrMichaelSpicer", "https://www.michaelspicer.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "one mp said to me last night" ],
+    "published" : [ "2022-10-14T21:04:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1581028189979041792" ],
+    "url" : [ "https://twitter.com/MrMichaelSpicer/status/1581028189979041792" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1581027652097409025/pu/vid/608x1080/d5ufpq-_GeoJdPlM.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
