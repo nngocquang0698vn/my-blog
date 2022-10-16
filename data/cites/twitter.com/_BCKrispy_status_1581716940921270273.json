@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Arizona, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Krispy" ],
+        "nickname" : [ "BCKrispy" ],
+        "numeric-id" : [ "1315993760" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268750124211040257/bKysdbsv.jpg" ],
+        "published" : [ "2013-03-30T07:53:59+00:00" ],
+        "uid" : [ "tag:twitter.com:BCKrispy" ],
+        "url" : [ "https://twitter.com/BCKrispy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/WinniesWiskers\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nytimes\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wapol_vu\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/wapol_vu/status/1581712914821844992" ],
+    "photo" : [ "https://pbs.twimg.com/media/FfNjLQLUUAAtNSk.jpg" ],
+    "published" : [ "2022-10-16T18:41:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1581716940921270273" ],
+    "url" : [ "https://twitter.com/BCKrispy/status/1581716940921270273" ]
+  },
+  "type" : [ "h-entry" ]
+}
