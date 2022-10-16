@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "GoBlog" ],
+    "url" : [ "https://jlelse.blog/micro/2022/10/goblog-editor-sync" ],
+    "published" : [ "2022-10-15T23:05:10+02:00" ],
+    "content" : [ {
+      "html" : "<p>GoBlog syncs the editor state between browsers in real-time now. ✨ Thanks to WebSockets!</p><p>This way I can start writing on one device, continue on another and publish from just another one. WebSocket connections get also reestablished, when they fail, because the Internet connection changed etc. This was a fun programming evening. 😄</p><p>Tomorrow I will continue with some issues from GitHub…</p>",
+      "value" : "GoBlog syncs the editor state between browsers in real-time now. ✨ Thanks to WebSockets!\nThis way I can start writing on one device, continue on another and publish from just another one. WebSocket connections get also reestablished, when they fail, because the Internet connection changed etc. This was a fun programming evening. 😄\nTomorrow I will continue with some issues from GitHub…",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jan-Lukas Else" ],
+        "photo" : [ "https://jlelse.dev/profile.png" ],
+        "url" : [ "https://jlelse.blog/" ]
+      },
+      "lang" : "en",
+      "value" : "Jan-Lukas Else"
+    } ]
+  },
+  "lang" : "en"
+}
