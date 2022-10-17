@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/highoffness/status/1581793105723854848" ],
     "name" : [ "Like of @highoffness's tweet" ],
     "published" : [ "2022-10-17T22:01:00+0100" ],
     "like-of" : [ "https://twitter.com/highoffness/status/1581793105723854848" ],
