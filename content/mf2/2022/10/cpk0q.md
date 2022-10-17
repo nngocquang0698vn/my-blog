@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/annashipman/status/1582008187900682243" ],
     "name" : [ "Like of @annashipman's tweet" ],
     "published" : [ "2022-10-17T17:12:00+0100" ],
     "like-of" : [ "https://twitter.com/annashipman/status/1582008187900682243" ],
