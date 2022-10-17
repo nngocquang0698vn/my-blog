@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/truesolicitor/status/1581980728052813824" ],
     "name" : [ "Like of @truesolicitor's tweet" ],
     "published" : [ "2022-10-17T21:59:00+0100" ],
     "like-of" : [ "https://twitter.com/truesolicitor/status/1581980728052813824" ],
