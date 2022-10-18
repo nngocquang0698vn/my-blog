@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyGorcenski/status/1582339979946053633" ],
     "name" : [ "Like of @EmilyGorcenski's tweet" ],
     "published" : [ "2022-10-18T13:05:00+0100" ],
     "like-of" : [ "https://twitter.com/EmilyGorcenski/status/1582339979946053633" ],
