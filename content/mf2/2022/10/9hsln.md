@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MartinSLewis/status/1582439925189816321" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1582460322354704384" ],
     "published" : [ "2022-10-18T20:43:00+0100" ],
     "category" : [ "salary", "martin-lewis" ],
     "post-status" : [ "published" ],
