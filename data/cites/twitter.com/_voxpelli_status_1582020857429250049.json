@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1496763164846927872/HQhKhxn9.png" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Got an update on an 8 year old GitHub issue and I love it!\n\nOpen source doesn't have to obey to the stressed out hyper-iteration of modern day startups / tech companies\n\nOpen source can allow itself to opt for longevity\n\nKeep issues open. Nurture them. Curate them. <a href=\"https://twitter.com/search?q=%23noToStaleBot\">#noToStaleBot</a></div>",
+      "value" : "Got an update on an 8 year old GitHub issue and I love it!\n\nOpen source doesn't have to obey to the stressed out hyper-iteration of modern day startups / tech companies\n\nOpen source can allow itself to opt for longevity\n\nKeep issues open. Nurture them. Curate them. #noToStaleBot"
+    } ],
+    "published" : [ "2022-10-17T14:48:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1582020857429250049" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1582020857429250049" ]
+  },
+  "type" : [ "h-entry" ]
+}
