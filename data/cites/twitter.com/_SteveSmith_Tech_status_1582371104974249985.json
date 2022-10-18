@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Smith" ],
+        "nickname" : [ "SteveSmith_Tech" ],
+        "numeric-id" : [ "404991267" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501575939515469825/MrYHdBEO.jpg" ],
+        "published" : [ "2011-11-04T18:00:19+00:00" ],
+        "uid" : [ "tag:twitter.com:SteveSmith_Tech" ],
+        "url" : [ "https://twitter.com/SteveSmith_Tech", "http://www.stevesmith.tech", "http://leanpub.com/u/stevesmith", "http://stevesmith.tech", "http://equalexperts.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Has someone written a takedown of <a href=\"https://twitter.com/search?q=%23innersourcing\">#innersourcing</a>? I'm deeply skeptical",
+      "value" : "Has someone written a takedown of #innersourcing? I'm deeply skeptical"
+    } ],
+    "published" : [ "2022-10-18T14:00:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1582371104974249985" ],
+    "url" : [ "https://twitter.com/SteveSmith_Tech/status/1582371104974249985" ]
+  },
+  "type" : [ "h-entry" ]
+}
