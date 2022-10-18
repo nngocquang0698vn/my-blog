@@ -1,0 +1,63 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2022-10-13_47662" ],
+    "syndication" : [ "https://twitter.com/schnarfed/status/1580646687042727936", "https://twitter.com/schnarfed/status/1580646687042727936" ],
+    "published" : [ "2022-10-13T12:30:30-07:00" ],
+    "content" : [ {
+      "html" : "<p>“Comedy equals tragedy plus blockchain”</p>",
+      "value" : "“Comedy equals tragedy plus blockchain”",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://evgenykuznetsov.org/en/reactions/2022/like-286202440/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Evgeny Kuznetsov" ],
+            "url" : [ "https://evgenykuznetsov.org" ]
+          },
+          "lang" : "en-US",
+          "value" : "Evgeny Kuznetsov"
+        } ]
+      },
+      "id" : "comment-2856760",
+      "lang" : "en-US",
+      "value" : "https://evgenykuznetsov.org/en/reactions/2022/like-286202440/"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
