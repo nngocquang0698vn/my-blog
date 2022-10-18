@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">THE LAST DUEL\n\nRidley Scott’s “The Last Duel,” starring Matt Damon and Ben Affleck, only grossed $10 million in the U.S. The culprit? Scott blamed millennials: \"The millennials do not ever want to be taught anything unless you’re told it on a cellphone.\" <a href=\"https://bit.ly/3CDcztv\">bit.ly/3CDcztv</a></div>",
+        "value" : "THE LAST DUEL\n\nRidley Scott’s “The Last Duel,” starring Matt Damon and Ben Affleck, only grossed $10 million in the U.S. The culprit? Scott blamed millennials: \"The millennials do not ever want to be taught anything unless you’re told it on a cellphone.\" bit.ly/3CDcztv"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/Variety/status/1582128160274931712" ],
+      "photo" : [ "https://pbs.twimg.com/media/FfTXBvJUUAMfdCn.jpg" ],
+      "published" : [ "2022-10-17T21:55:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1582128161449398273" ],
+      "url" : [ "https://twitter.com/Variety/status/1582128161449398273" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily GPU prices" ],
+        "nickname" : [ "EmilyGorcenski" ],
+        "numeric-id" : [ "1483064670" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575264133464866816/AieL_ZvD.jpg" ],
+        "published" : [ "2013-06-04T19:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyGorcenski" ],
+        "url" : [ "https://twitter.com/EmilyGorcenski", "https://www.emilygorcenski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "sure you released a movie in the middle of a deadly pandemic that killed almost 1% of the population but i guess you can blame us millennials and our phone addictions or whatever" ],
+    "published" : [ "2022-10-18T11:56:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1582339783459999745" ],
+    "url" : [ "https://twitter.com/EmilyGorcenski/status/1582339783459999745" ]
+  },
+  "type" : [ "h-entry" ]
+}
