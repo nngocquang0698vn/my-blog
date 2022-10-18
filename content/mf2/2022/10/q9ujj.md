@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TweetsOfCats/status/1582066311974162432" ],
     "name" : [ "Like of @TweetsOfCats's tweet" ],
     "published" : [ "2022-10-18T06:51:00+0100" ],
     "category" : [ "cute", "art" ],
