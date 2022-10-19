@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1582633999448477696" ],
     "photo" : [ {
       "alt" : "Morph the cat is in the conservatory, stretching up against the glass door and meowing to be let into the rest of the house. His belly is exposed and could do with some cuddling",
       "photo" : "https://media.jvt.me/4c33c672b2.jpeg"
