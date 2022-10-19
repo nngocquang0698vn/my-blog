@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LordPelagius/status/1581896885526179840" ],
     "name" : [ "Like of @LordPelagius's tweet" ],
     "published" : [ "2022-10-19T08:45:00+0100" ],
     "like-of" : [ "https://twitter.com/LordPelagius/status/1581896885526179840" ],
