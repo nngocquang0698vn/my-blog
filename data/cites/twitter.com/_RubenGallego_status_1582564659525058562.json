@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "NBC News" ],
+          "nickname" : [ "NBCNews" ],
+          "numeric-id" : [ "14173315" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1338497918387572736/DXHbTEJG.jpg" ],
+          "published" : [ "2008-03-18T23:19:17+00:00" ],
+          "uid" : [ "tag:twitter.com:NBCNews" ],
+          "url" : [ "https://twitter.com/NBCNews", "http://NBCNews.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The state of Texas is sending public school students home with DNA kits designed to help their parents identify their children “in case of an emergency.” <a href=\"https://nbcnews.to/3TdMet7\">nbcnews.to/3TdMet7</a>",
+        "value" : "The state of Texas is sending public school students home with DNA kits designed to help their parents identify their children “in case of an emergency.” nbcnews.to/3TdMet7"
+      } ],
+      "published" : [ "2022-10-19T02:17:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1582556412059738113" ],
+      "url" : [ "https://twitter.com/NBCNews/status/1582556412059738113" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/nbcnews/status…" ],
+      "url" : [ "https://twitter.com/nbcnews/status/1582556412059738113" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Phoenix, Arizona" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ruben Gallego" ],
+        "nickname" : [ "RubenGallego" ],
+        "numeric-id" : [ "49217025" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415785251683536897/fi32BHBD.jpg" ],
+        "published" : [ "2009-06-21T03:26:23+00:00" ],
+        "uid" : [ "tag:twitter.com:RubenGallego" ],
+        "url" : [ "https://twitter.com/RubenGallego", "http://www.gallegoforarizona.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Texas, where they won’t do universal background to stop criminals because it’s too intrusive but will take your kids DNA to ID your kids if there is a school shooting.  <a href=\"https://twitter.com/search?q=%23votebeto\">#votebeto</a>\n<a class=\"tag\" href=\"https://twitter.com/nbcnews/status/1582556412059738113\">twitter.com/nbcnews/status…</a>",
+      "value" : "Texas, where they won’t do universal background to stop criminals because it’s too intrusive but will take your kids DNA to ID your kids if there is a school shooting.  #votebeto"
+    } ],
+    "published" : [ "2022-10-19T02:49:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1582564659525058562" ],
+    "url" : [ "https://twitter.com/RubenGallego/status/1582564659525058562" ]
+  },
+  "type" : [ "h-entry" ]
+}
