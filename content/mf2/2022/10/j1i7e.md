@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SocialistLwyr/status/1581896055024545793" ],
     "name" : [ "Like of @SocialistLwyr's tweet" ],
     "published" : [ "2022-10-19T08:44:00+0100" ],
     "like-of" : [ "https://twitter.com/SocialistLwyr/status/1581896055024545793" ],
