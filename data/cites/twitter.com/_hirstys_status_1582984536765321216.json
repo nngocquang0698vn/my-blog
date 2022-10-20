@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Martin Buhr" ],
+          "nickname" : [ "martinbuhr" ],
+          "numeric-id" : [ "104835676" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/843949549995536384/CFHTFCVL.jpg" ],
+          "published" : [ "2010-01-14T15:06:39+00:00" ],
+          "uid" : [ "tag:twitter.com:martinbuhr" ],
+          "url" : [ "https://twitter.com/martinbuhr", "https://tyk.io", "http://Tyk.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Complexity is your enemy, avoid it at all costs! If you didn’t read the blog - watch the video! <a href=\"https://youtu.be/Cbh6dmepyZI\">youtu.be/Cbh6dmepyZI</a>",
+        "value" : "Complexity is your enemy, avoid it at all costs! If you didn’t read the blog - watch the video! youtu.be/Cbh6dmepyZI"
+      } ],
+      "published" : [ "2022-10-20T04:50:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1582957335231680513" ],
+      "url" : [ "https://twitter.com/martinbuhr/status/1582957335231680513" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Hirst" ],
+        "nickname" : [ "hirstys" ],
+        "numeric-id" : [ "12325262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/828636549491355648/StD6EoXc.jpg" ],
+        "published" : [ "2008-01-16T17:30:42+00:00" ],
+        "uid" : [ "tag:twitter.com:hirstys" ],
+        "url" : [ "https://twitter.com/hirstys", "http://www.tyk.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh great, he’s taken the blog where he trashed a major part of our market and made it into a video. With added profanity! “Have a co-founder” they said, “it will reduce stress”. <sigh>" ],
+    "published" : [ "2022-10-20T06:38:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1582984536765321216" ],
+    "url" : [ "https://twitter.com/hirstys/status/1582984536765321216" ]
+  },
+  "type" : [ "h-entry" ]
+}
