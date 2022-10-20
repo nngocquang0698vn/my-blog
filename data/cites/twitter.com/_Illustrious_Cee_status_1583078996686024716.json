@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Breaking News" ],
+          "nickname" : [ "BBCBreaking" ],
+          "numeric-id" : [ "5402612" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5.jpg" ],
+          "published" : [ "2007-04-22T14:42:37+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCBreaking" ],
+          "url" : [ "https://twitter.com/BBCBreaking", "http://www.bbc.co.uk/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Liz Truss to resign as UK prime minister after 45 days in office <a href=\"https://bbc.in/3TCLYDH\">bbc.in/3TCLYDH</a>",
+        "value" : "Liz Truss to resign as UK prime minister after 45 days in office bbc.in/3TCLYDH"
+      } ],
+      "published" : [ "2022-10-20T12:35:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1583074397765918721" ],
+      "url" : [ "https://twitter.com/BBCBreaking/status/1583074397765918721" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "with the ancestors " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris O. Ògúnmọ́dẹdé" ],
+        "nickname" : [ "Illustrious_Cee" ],
+        "numeric-id" : [ "23259522" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1560611052827529217/dDzN2gBe.jpg" ],
+        "published" : [ "2009-03-08T01:17:04+00:00" ],
+        "uid" : [ "tag:twitter.com:Illustrious_Cee" ],
+        "url" : [ "https://twitter.com/Illustrious_Cee", "https://www.worldpoliticsreview.com/author/chris-olaoluwa-ogunmodede/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Alright Britishians. I have heard all of your appeals for help and have decided to take action. I have met with the rest of the West African delegation, and after careful consultation, we shall convene a new stabilization mission to rescue your troubled little island. Stay tuned." ],
+    "published" : [ "2022-10-20T12:53:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1583078996686024716" ],
+    "url" : [ "https://twitter.com/Illustrious_Cee/status/1583078996686024716" ]
+  },
+  "type" : [ "h-entry" ]
+}
