@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rlazarus/status/1508550333412249604" ],
     "name" : [ "Like of @rlazarus's tweet" ],
     "published" : [ "2022-10-20T13:15:24.941441298Z" ],
     "like-of" : [ "https://twitter.com/rlazarus/status/1508550333412249604" ],
