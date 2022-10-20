@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Shaglom/status/1568010441804206080" ],
     "name" : [ "Like of @Shaglom's tweet" ],
     "published" : [ "2022-10-20T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/Shaglom/status/1568010441804206080" ],
