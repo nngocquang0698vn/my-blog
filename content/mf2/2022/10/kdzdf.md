@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MaxSharpe1990/status/1583208352439742464" ],
     "name" : [ "Like of @MaxSharpe1990's tweet" ],
     "published" : [ "2022-10-20T22:34:00+0100" ],
     "like-of" : [ "https://twitter.com/MaxSharpe1990/status/1583208352439742464" ],
