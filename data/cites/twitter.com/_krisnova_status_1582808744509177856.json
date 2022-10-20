@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1561709394601058304/kujpEvS6.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://twitch.tv/krisnova" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The M1 mac battery life though..." ],
+    "published" : [ "2022-10-19T18:59:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1582808744509177856" ],
+    "url" : [ "https://twitter.com/krisnova/status/1582808744509177856" ]
+  },
+  "type" : [ "h-entry" ]
+}
