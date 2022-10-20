@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maya Kaczorowski" ],
+        "nickname" : [ "MayaKaczorowski" ],
+        "numeric-id" : [ "710705448224096256" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163995808867295232/26nrcEBl.jpg" ],
+        "published" : [ "2016-03-18T05:52:37+00:00" ],
+        "uid" : [ "tag:twitter.com:MayaKaczorowski" ],
+        "url" : [ "https://twitter.com/MayaKaczorowski", "http://www.mayakaczorowski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“When I was 25, I was excited by the idea of running my own Kubernetes cluster.\nNow that I’m in my thirties, I want to deploy my software and just have it work.”</div>",
+      "value" : "“When I was 25, I was excited by the idea of running my own Kubernetes cluster.\nNow that I’m in my thirties, I want to deploy my software and just have it work.”"
+    } ],
+    "published" : [ "2022-10-19T01:09:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1582539317087711233" ],
+    "url" : [ "https://twitter.com/MayaKaczorowski/status/1582539317087711233" ]
+  },
+  "type" : [ "h-entry" ]
+}
