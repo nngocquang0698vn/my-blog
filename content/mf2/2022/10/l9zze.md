@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Alan_McGuinness/status/1582780559989739522" ],
     "name" : [ "Like of @Alan_McGuinness's tweet" ],
     "published" : [ "2022-10-20T12:50:28.381019311Z" ],
     "like-of" : [ "https://twitter.com/Alan_McGuinness/status/1582780559989739522" ],
