@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SaferHaywood/status/1582870942820102145" ],
     "name" : [ "Like of @SaferHaywood's tweet" ],
     "published" : [ "2022-10-20T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/SaferHaywood/status/1582870942820102145" ],
