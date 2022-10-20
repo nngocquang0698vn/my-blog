@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GeorgeMonbiot/status/1583082243899416576" ],
     "name" : [ "Like of @GeorgeMonbiot's tweet" ],
     "published" : [ "2022-10-20T16:53:00+0100" ],
     "like-of" : [ "https://twitter.com/GeorgeMonbiot/status/1583082243899416576" ],
