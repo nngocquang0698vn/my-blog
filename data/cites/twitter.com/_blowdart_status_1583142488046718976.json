@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Barry Dorrans" ],
+        "nickname" : [ "blowdart" ],
+        "numeric-id" : [ "1847381" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501544982997463041/u589EiLK.jpg" ],
+        "published" : [ "2007-03-22T07:22:39+00:00" ],
+        "uid" : [ "tag:twitter.com:blowdart" ],
+        "url" : [ "https://twitter.com/blowdart", "http://idunno.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Please don't forget to put the mission forces under the control of a trading company.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Illustrious_Cee\"></a>",
+      "value" : "Please don't forget to put the mission forces under the control of a trading company."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Illustrious_Cee/status/1583078996686024716" ],
+    "published" : [ "2022-10-20T17:05:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1583142488046718976" ],
+    "url" : [ "https://twitter.com/blowdart/status/1583142488046718976" ]
+  },
+  "type" : [ "h-entry" ]
+}
