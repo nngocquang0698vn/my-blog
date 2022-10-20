@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joelycett/status/1583088316739915776" ],
     "name" : [ "Like of @joelycett's tweet" ],
     "published" : [ "2022-10-20T15:39:19.297458421Z" ],
     "like-of" : [ "https://twitter.com/joelycett/status/1583088316739915776" ],
