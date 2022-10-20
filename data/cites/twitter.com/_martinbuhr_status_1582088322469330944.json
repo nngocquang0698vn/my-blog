@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tyk" ],
+          "nickname" : [ "tyk_io" ],
+          "numeric-id" : [ "3309169642" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1260317528208924676/uhJZD7o3.jpg" ],
+          "published" : [ "2015-06-05T10:16:34+00:00" ],
+          "uid" : [ "tag:twitter.com:tyk_io" ],
+          "url" : [ "https://twitter.com/tyk_io", "http://www.tyk.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Roll up, roll up! \n\nIntroducing our new series, <a href=\"https://twitter.com/search?q=%23HotTyks\">#HotTyks</a>, where we dive into hot topics with varying levels of spicy takes from some of our passionate Tyklings! 🤯\n\n⚠️ Warning: ⚠️ Our first post from Tyk CEO, <a href=\"https://twitter.com/martinbuhr\">@martinbuhr</a> is xtra spicy! Get ready 🌶🌶🌶\n\n<a href=\"https://tykio.info/3TiJxWO\">tykio.info/3TiJxWO</a></div>",
+        "value" : "Roll up, roll up! \n\nIntroducing our new series, #HotTyks, where we dive into hot topics with varying levels of spicy takes from some of our passionate Tyklings! 🤯\n\n⚠️ Warning: ⚠️ Our first post from Tyk CEO, @martinbuhr is xtra spicy! Get ready 🌶🌶🌶\n\ntykio.info/3TiJxWO"
+      } ],
+      "published" : [ "2022-10-17T13:36:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1582002639759282177" ],
+      "url" : [ "https://twitter.com/tyk_io/status/1582002639759282177" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Martin Buhr" ],
+        "nickname" : [ "martinbuhr" ],
+        "numeric-id" : [ "104835676" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/843949549995536384/CFHTFCVL.jpg" ],
+        "published" : [ "2010-01-14T15:06:39+00:00" ],
+        "uid" : [ "tag:twitter.com:martinbuhr" ],
+        "url" : [ "https://twitter.com/martinbuhr", "https://tyk.io", "http://Tyk.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Don't 🔥me ok? 🤣" ],
+    "published" : [ "2022-10-17T19:17:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1582088322469330944" ],
+    "url" : [ "https://twitter.com/martinbuhr/status/1582088322469330944" ]
+  },
+  "type" : [ "h-entry" ]
+}
