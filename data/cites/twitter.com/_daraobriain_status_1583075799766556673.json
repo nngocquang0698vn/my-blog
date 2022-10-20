@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sky News" ],
+          "nickname" : [ "SkyNews" ],
+          "numeric-id" : [ "7587032" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF.jpg" ],
+          "published" : [ "2007-07-19T14:42:53+00:00" ],
+          "uid" : [ "tag:twitter.com:SkyNews" ],
+          "url" : [ "https://twitter.com/SkyNews", "http://news.sky.com/", "http://onelink.to/skynews" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Liz Truss to resign as prime minister, Sky News understands <a href=\"http://news.sky.com/story/liz-truss-to-resign-as-prime-minister-sky-news-understands-12723236\">news.sky.com/story/liz-trus…</a>",
+        "value" : "Liz Truss to resign as prime minister, Sky News understands news.sky.com/story/liz-trus…"
+      } ],
+      "published" : [ "2022-10-20T12:31:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1583073379568865280" ],
+      "url" : [ "https://twitter.com/SkyNews/status/1583073379568865280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/skynews/status…" ],
+      "url" : [ "https://twitter.com/skynews/status/1583073379568865280" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Beneath your wings." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dara Ó Briain" ],
+        "nickname" : [ "daraobriain" ],
+        "numeric-id" : [ "44874400" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/251011476/dobrian08.jpg" ],
+        "published" : [ "2009-06-05T11:45:54+00:00" ],
+        "uid" : [ "tag:twitter.com:daraobriain" ],
+        "url" : [ "https://twitter.com/daraobriain", "http://www.daraobriain.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We recorded the final Mock the Week last night. Jesus, she can’t even get that right.\n<a class=\"tag\" href=\"https://twitter.com/skynews/status/1583073379568865280\">twitter.com/skynews/status…</a>",
+      "value" : "We recorded the final Mock the Week last night. Jesus, she can’t even get that right."
+    } ],
+    "published" : [ "2022-10-20T12:40:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1583075799766556673" ],
+    "url" : [ "https://twitter.com/daraobriain/status/1583075799766556673" ]
+  },
+  "type" : [ "h-entry" ]
+}
