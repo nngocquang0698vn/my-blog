@@ -155,7 +155,7 @@ paths:
             application/json:
               schema:
                 type: object
-                additionalProperties: false
+                # note that we remove additionalProperties to prevent clients from unexpectedly breaking when new fields are sent
                 properties:
                   status:
                     type: string
@@ -193,7 +193,6 @@ I'd also recommend converting this to a reference, so code generators can genera
 +  schemas:
 +    Healthcheck:
 +      type: object
-+      additionalProperties: false
 +      properties:
 +        status:
 +          type: string
@@ -345,12 +344,12 @@ And at this point we can now start to implement the response body. We can start 
 +         id: {}
 ```
 
-Doing this one-by-one allows our test to pass:
+Doing this one-by-one allows our test to pass, and remove `additionalProperties` once passing:
 
 ```diff
      City:
        type: object
-       additionalProperties: false
+-      additionalProperties: false
        properties:
          id: {}
 +        name: {}
@@ -385,7 +384,6 @@ components:
     # ...
     City:
       type: object
-      additionalProperties: false
       properties:
         id:
           type: int
