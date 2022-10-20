@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cardiff/London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stan's Account" ],
+        "nickname" : [ "tristandross" ],
+        "numeric-id" : [ "76718852" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570332879237832704/0EHBoobK.jpg" ],
+        "published" : [ "2009-09-23T18:38:17+00:00" ],
+        "uid" : [ "tag:twitter.com:tristandross" ],
+        "url" : [ "https://twitter.com/tristandross" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "whatever you think of liz truss, it takes real courage to come out and deliver a resignation speech like this with the eyes of the entire country on you" ],
+    "published" : [ "2022-10-20T13:17:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1583085063121809410" ],
+    "url" : [ "https://twitter.com/tristandross/status/1583085063121809410" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1583084850600443906/pu/vid/1280x720/1iCfs0D5rBV-2T49.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
