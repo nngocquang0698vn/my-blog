@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Deliveroo/status/1583087715209207808" ],
     "name" : [ "Like of @Deliveroo's tweet" ],
     "published" : [ "2022-10-20T13:42:02.480744994Z" ],
     "like-of" : [ "https://twitter.com/Deliveroo/status/1583087715209207808" ],
