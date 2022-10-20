@@ -1,0 +1,57 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/youwouldknow/status/1582640553770246144\">@youwouldknow</a> Me getting my clothes caught on a door handle when I’m already in a bad mood"
+    } ],
+    "published" : [ "2022-10-20T10:44:12+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "London via Cymru" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Gwdihŵŵŵ 👻🎃🦉" ],
+            "nickname" : [ "youwouldknow" ],
+            "numeric-id" : [ "24247262" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1218555208344707074/4lL2sFnZ.jpg" ],
+            "published" : [ "2009-03-13T20:31:25+00:00" ],
+            "uid" : [ "tag:twitter.com:youwouldknow" ],
+            "url" : [ "https://twitter.com/youwouldknow" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "Me getting my clothes caught on a door handle when I’m already in a bad mood" ],
+        "photo" : [ "https://pbs.twimg.com/media/FfarMbRXgAAalOy.jpg" ],
+        "published" : [ "2022-10-19T07:51:26+00:00" ],
+        "uid" : [ "tag:twitter.com:1582640553770246144" ],
+        "url" : [ "https://twitter.com/youwouldknow/status/1582640553770246144" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1583046420835467264" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1583046420835467264" ]
+  },
+  "type" : [ "h-entry" ]
+}
