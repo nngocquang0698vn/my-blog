@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/____B_S____/status/1582855934468009984" ],
     "name" : [ "Like of @____B_S____'s tweet" ],
     "published" : [ "2022-10-20T14:34:47.860543365Z" ],
     "category" : [ "cute" ],
