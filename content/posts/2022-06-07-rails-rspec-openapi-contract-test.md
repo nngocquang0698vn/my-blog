@@ -18,7 +18,7 @@ slug: "rails-rspec-openapi-contract-test"
 ---
 I've recently been working on retrofitting an existing Rails application with an [OpenAPI](https://openapis.org) specification, as a way to better understand and interact with the service.
 
-Thanks to the excellent post [_Liked Validating requests and responses using OpenAPI specification with Committee_](https://nicolasiensen.github.io/2022-04-18-validating-requests-and-responses-using-openapi-specification-with-committee/), I learned about how to get [the committee gem](https://github.com/interagent/committee) to perform the testing validation against a fresh Rails app.
+Thanks to the excellent post [_Validating requests and responses using OpenAPI specification with Committee_](https://nicolasiensen.github.io/2022-04-18-validating-requests-and-responses-using-openapi-specification-with-committee/), I learned about how to get [the committee gem](https://github.com/interagent/committee) to perform the testing validation against a fresh Rails app.
 
 However, the assumption in the post above is that it relies on a non-RSpec driven testing lifecycle, which is fairly common, but the codebase I'm using relies on [rspec-rails](https://github.com/rspec/rspec-rails).
 
