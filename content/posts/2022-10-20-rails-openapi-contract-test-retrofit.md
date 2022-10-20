@@ -1,9 +1,10 @@
 ---
 title: "Retrofitting OpenAPI documentation to your Rails codebase"
-description: "How to take a Rails codebase and introduce OpenAPI documentation and contract tests, in a test-driven manner."
-date: 2022-10-20T14:52:38+0100
+description: "How to take a Rails codebase and introduce OpenAPI documentation and\
+  \ contract tests, in a test-driven manner."
+date: "2022-10-20T14:52:38+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1583097120675856384"
 tags:
 - "blogumentation"
 - "ruby"
@@ -12,7 +13,7 @@ tags:
 - "openapi"
 - "testing"
 - "contract-testing"
-- tdd
+- "tdd"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/7be186e7a3.png"
