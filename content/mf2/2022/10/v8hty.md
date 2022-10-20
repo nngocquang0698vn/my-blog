@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/icaito/status/1583207690745966594" ],
     "name" : [ "Like of @icaito's tweet" ],
     "published" : [ "2022-10-20T22:34:00+0100" ],
     "like-of" : [ "https://twitter.com/icaito/status/1583207690745966594" ],
