@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Max Sharpe" ],
+        "nickname" : [ "MaxSharpe1990" ],
+        "numeric-id" : [ "1524681201734361088" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524698075444482048/ADTCG_Mk.jpg" ],
+        "published" : [ "2022-05-12T09:21:45+00:00" ],
+        "uid" : [ "tag:twitter.com:MaxSharpe1990" ],
+        "url" : [ "https://twitter.com/MaxSharpe1990" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "to like your tweets\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ParikPatelCFA\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/unusual_whales\"></a>",
+      "value" : "to like your tweets"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ParikPatelCFA/status/1583208264128266240" ],
+    "published" : [ "2022-10-20T21:27:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1583208352439742464" ],
+    "url" : [ "https://twitter.com/MaxSharpe1990/status/1583208352439742464" ]
+  },
+  "type" : [ "h-entry" ]
+}
