@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt 'msw' Wilson" ],
+        "nickname" : [ "_msw_" ],
+        "numeric-id" : [ "15656207" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457762378506928131/vzTewCB-.jpg" ],
+        "published" : [ "2008-07-30T04:04:46+00:00" ],
+        "uid" : [ "tag:twitter.com:_msw_" ],
+        "url" : [ "https://twitter.com/_msw_", "http://aws.amazon.com/", "http://linkedin.com/in/matthewswilson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Duvet is an <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> tool from developers at AWS that extracts RFC 2119 requirements from IETF specifications, then generates a report on each requirement, where it is honored in source code, as well as how that code is tested.\n\nNeat!\n<a href=\"https://github.com/awslabs/duvet\">github.com/awslabs/duvet</a></div>",
+      "value" : "Duvet is an #OpenSource tool from developers at AWS that extracts RFC 2119 requirements from IETF specifications, then generates a report on each requirement, where it is honored in source code, as well as how that code is tested.\n\nNeat!\ngithub.com/awslabs/duvet"
+    } ],
+    "published" : [ "2022-10-13T21:20:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1580669956018298880" ],
+    "url" : [ "https://twitter.com/_msw_/status/1580669956018298880" ]
+  },
+  "type" : [ "h-entry" ]
+}
