@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RickBetita/status/1583085481712943104" ],
     "name" : [ "Like of @RickBetita's tweet" ],
     "published" : [ "2022-10-20T22:38:00+0100" ],
     "like-of" : [ "https://twitter.com/RickBetita/status/1583085481712943104" ],
