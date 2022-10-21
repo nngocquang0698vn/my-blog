@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/daraobriain/status/1583101164941639680" ],
     "name" : [ "Like of @daraobriain's tweet" ],
     "published" : [ "2022-10-21T07:18:00+0100" ],
     "like-of" : [ "https://twitter.com/daraobriain/status/1583101164941639680" ],
