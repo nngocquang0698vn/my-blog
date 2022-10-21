@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oslo" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Robert Smallshire" ],
+        "nickname" : [ "robsmallshire" ],
+        "numeric-id" : [ "52413000" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/646266292429791232/hv3gI4dz.jpg" ],
+        "published" : [ "2009-06-30T14:46:02+00:00" ],
+        "uid" : [ "tag:twitter.com:robsmallshire" ],
+        "url" : [ "https://twitter.com/robsmallshire" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Regularly rotate your password by using the name of the current UK Prime Minister." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Asker, Norge" ],
+        "uid" : [ "tag:twitter.com:6e42c1b0f12b7bd8" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-10-20T20:21:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1583191789951127552" ],
+    "url" : [ "https://twitter.com/robsmallshire/status/1583191789951127552" ]
+  },
+  "type" : [ "h-entry" ]
+}
