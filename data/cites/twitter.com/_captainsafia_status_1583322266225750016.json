@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Safia" ],
+        "nickname" : [ "captainsafia" ],
+        "numeric-id" : [ "1595809370" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1326233825936961536/xtgedVye.jpg" ],
+        "published" : [ "2013-07-15T13:05:08+00:00" ],
+        "uid" : [ "tag:twitter.com:captainsafia" ],
+        "url" : [ "https://twitter.com/captainsafia", "https://safia.rocks/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Concept: Love is Blind except instead of just talking without seeing each other you match based on how much you like their implementation of a doubly-linked list." ],
+    "published" : [ "2022-10-21T05:00:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1583322266225750016" ],
+    "url" : [ "https://twitter.com/captainsafia/status/1583322266225750016" ]
+  },
+  "type" : [ "h-entry" ]
+}
