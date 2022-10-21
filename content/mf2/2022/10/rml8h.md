@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/heyShubhi/status/1583073295292735488" ],
     "name" : [ "Like of @heyShubhi's tweet" ],
     "published" : [ "2022-10-21T21:09:00+0100" ],
     "like-of" : [ "https://twitter.com/heyShubhi/status/1583073295292735488" ],
