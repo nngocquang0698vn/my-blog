@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BesDMarx/status/1583527119631499264" ],
     "name" : [ "Like of @BesDMarx's tweet" ],
     "published" : [ "2022-10-21T22:26:00+0100" ],
     "like-of" : [ "https://twitter.com/BesDMarx/status/1583527119631499264" ],
