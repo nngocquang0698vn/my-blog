@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Zartana__/status/1583159661926043648" ],
     "name" : [ "Like of @Zartana__'s tweet" ],
     "published" : [ "2022-10-21T07:42:00+0100" ],
     "like-of" : [ "https://twitter.com/Zartana__/status/1583159661926043648" ],
