@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RadderssGaming/status/1583860685792251905" ],
     "name" : [ "Like of @RadderssGaming's tweet" ],
     "published" : [ "2022-10-22T17:45:00+0100" ],
     "like-of" : [ "https://twitter.com/RadderssGaming/status/1583860685792251905" ],
