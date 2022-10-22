@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rclarkie/status/1583364997370900481" ],
     "name" : [ "Like of @rclarkie's tweet" ],
     "published" : [ "2022-10-22T12:26:00+0100" ],
     "like-of" : [ "https://twitter.com/rclarkie/status/1583364997370900481" ],
