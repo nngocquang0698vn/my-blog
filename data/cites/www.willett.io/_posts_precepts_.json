@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to Build Software like an SRE" ],
+    "summary" : [ "I’ve been doing this “reliability” stuff for a little while now (~5 years), at companies ranging from about 20 developers to over 2,000. I’ve always cared primarily about the software elements I describe as living “outside” the application – like, how does it get its configuration? What kinds of instances does it run on, and are those the best kinds to use? What steps does it take on its path from “code in a repository” to “running in production”? And I’ve always kept track of what I liked – which mechanisms allowed fast iteration and which caused frustration, which led to outages and which prevented them." ],
+    "url" : [ "https://www.willett.io/posts/precepts/" ],
+    "published" : [ "2022-10-13T00:00:00+00:00" ]
+  }
+}
