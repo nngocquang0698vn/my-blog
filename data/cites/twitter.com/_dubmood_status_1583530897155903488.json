@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Marseille" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dubmood" ],
+        "nickname" : [ "dubmood" ],
+        "numeric-id" : [ "68812552" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/784399273769263104/36J5urDV.jpg" ],
+        "published" : [ "2009-08-25T21:47:30+00:00" ],
+        "uid" : [ "tag:twitter.com:dubmood" ],
+        "url" : [ "https://twitter.com/dubmood", "http://www.dataairlines.net/dubmood" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This image speaks truth." ],
+    "photo" : [ "https://pbs.twimg.com/media/FfnU686XgA0IrpG.jpg" ],
+    "published" : [ "2022-10-21T18:49:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1583530897155903488" ],
+    "url" : [ "https://twitter.com/dubmood/status/1583530897155903488" ]
+  },
+  "type" : [ "h-entry" ]
+}
