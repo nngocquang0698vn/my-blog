@@ -1,15 +1,16 @@
 ---
 title: "Does the tech industry thrive on free work?"
-description: "Thinking about how there are subtle expectations to work on your career outside of tech, and how it's not necessarily great."
-date: 2022-10-22T09:38:34+0100
+description: "Thinking about how there are subtle expectations to work on your career\
+  \ outside of tech, and how it's not necessarily great."
+date: "2022-10-22T09:38:34+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1583743791353454592"
 tags:
-- career
-- job
-- adhd
-- open-source
-- mental-health
+- "career"
+- "job"
+- "adhd"
+- "open-source"
+- "mental-health"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "tech-industry-free-labour"
