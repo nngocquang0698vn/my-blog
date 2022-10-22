@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DubzBrit/status/1583473844660031488" ],
     "name" : [ "Like of @DubzBrit's tweet" ],
     "published" : [ "2022-10-22T15:25:00+0100" ],
     "like-of" : [ "https://twitter.com/DubzBrit/status/1583473844660031488" ],
