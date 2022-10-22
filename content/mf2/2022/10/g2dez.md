@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/branaby/status/1583782196078256128" ],
     "name" : [ "Like of @branaby's tweet" ],
     "published" : [ "2022-10-22T21:22:00+0100" ],
     "like-of" : [ "https://twitter.com/branaby/status/1583782196078256128" ],
