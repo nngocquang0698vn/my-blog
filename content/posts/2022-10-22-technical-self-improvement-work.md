@@ -1,12 +1,13 @@
 ---
 title: "'Should I be able to learn how to be more productive at work?'"
-description: "Looking at whether learning how to be more productive, during work hours, is a reasonable thing to do."
-date: 2022-10-22T10:10:28+0100
+description: "Looking at whether learning how to be more productive, during work hours,\
+  \ is a reasonable thing to do."
+date: "2022-10-22T10:10:28+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1583757676609036288"
 tags:
-- career
-- productivity
+- "career"
+- "productivity"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "technical-self-improvement-work"
