@@ -9,7 +9,7 @@ tags:
 - productivity
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-slug: "tech-industry-free-labour"
+slug: "technical-self-improvement-work"
 ---
 A few weeks ago I was talking to a colleague about terminals, workflow, and naturally I steered the conversation to Vim. For those who aren't aware, I've been using Vim, and more recently Neovim, as my primary editor and really enjoy it, to the point that using a different editor can be quite frustrating as I need to re-learn how to do things.
 
