@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "São Paulo" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Worms" ],
+        "nickname" : [ "MarcoWorms" ],
+        "numeric-id" : [ "348171329" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1578874677920931840/yLZyfE5S.jpg" ],
+        "published" : [ "2011-08-04T00:23:45+00:00" ],
+        "uid" : [ "tag:twitter.com:MarcoWorms" ],
+        "url" : [ "https://twitter.com/MarcoWorms", "http://worms.io", "http://docs.yearn.finance", "http://medium.com/@marcoworms", "http://github.com/MarcoWorms" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "source: <a href=\"https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f\">wix-ux.com/when-life-give…</a>",
+      "value" : "source: wix-ux.com/when-life-give…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MarcoWorms/status/1582382100564451330" ],
+    "published" : [ "2022-10-18T14:44:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1582382104100282368" ],
+    "url" : [ "https://twitter.com/MarcoWorms/status/1582382104100282368" ]
+  },
+  "type" : [ "h-entry" ]
+}
