@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tartarus" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mr Lunch" ],
+        "nickname" : [ "LunchTodd" ],
+        "numeric-id" : [ "1221095150769922053" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1408034311283134467/pSUKuGxH.jpg" ],
+        "published" : [ "2020-01-25T15:39:25+00:00" ],
+        "uid" : [ "tag:twitter.com:LunchTodd" ],
+        "url" : [ "https://twitter.com/LunchTodd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My toaster set fire to my house, and caused serious structural damage, so I threw it out. Today I decided to fish it out of the bin and plug it back in, because only this toaster can solve my lack of toast problem." ],
+    "published" : [ "2022-10-22T08:05:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1583731294873452545" ],
+    "url" : [ "https://twitter.com/LunchTodd/status/1583731294873452545" ]
+  },
+  "type" : [ "h-entry" ]
+}
