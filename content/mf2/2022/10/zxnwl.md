@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dubmood/status/1583530897155903488" ],
     "name" : [ "Like of @dubmood's tweet" ],
     "published" : [ "2022-10-22T21:22:00+0100" ],
     "like-of" : [ "https://twitter.com/dubmood/status/1583530897155903488" ],
