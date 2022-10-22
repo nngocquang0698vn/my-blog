@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Marseille" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dubmood" ],
+          "nickname" : [ "dubmood" ],
+          "numeric-id" : [ "68812552" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/784399273769263104/36J5urDV.jpg" ],
+          "published" : [ "2009-08-25T21:47:30+00:00" ],
+          "uid" : [ "tag:twitter.com:dubmood" ],
+          "url" : [ "https://twitter.com/dubmood", "http://www.dataairlines.net/dubmood" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This image speaks truth." ],
+      "photo" : [ "https://pbs.twimg.com/media/FfnU686XgA0IrpG.jpg" ],
+      "published" : [ "2022-10-21T18:49:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1583530897155903488" ],
+      "url" : [ "https://twitter.com/dubmood/status/1583530897155903488" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🇺🇦 Barney Dellar" ],
+        "nickname" : [ "branaby" ],
+        "numeric-id" : [ "219929482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542939843122044931/LQlHs6mZ.jpg" ],
+        "published" : [ "2010-11-26T08:41:28+00:00" ],
+        "uid" : [ "tag:twitter.com:branaby" ],
+        "url" : [ "https://twitter.com/branaby", "http://barneydellar.blogspot.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One of the best things I learnt from <a href=\"https://twitter.com/gregcons\">@gregcons</a> is to write help messages, not error messages.",
+      "value" : "One of the best things I learnt from @gregcons is to write help messages, not error messages."
+    } ],
+    "published" : [ "2022-10-22T11:27:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1583782196078256128" ],
+    "url" : [ "https://twitter.com/branaby/status/1583782196078256128" ]
+  },
+  "type" : [ "h-entry" ]
+}
