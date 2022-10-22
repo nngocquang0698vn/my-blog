@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🎥 | Puma 🇺🇸" ],
+        "nickname" : [ "PumaTPG" ],
+        "numeric-id" : [ "15448394" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1370965312280133634/kmpVEoJW.jpg" ],
+        "published" : [ "2008-07-16T00:37:55+00:00" ],
+        "uid" : [ "tag:twitter.com:PumaTPG" ],
+        "url" : [ "https://twitter.com/PumaTPG", "http://www.theprogramllc.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BadLegalTakes\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BadLegalTakes/status/1583822858056146944" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ffrf49FXwAEk79H.jpg" ],
+    "published" : [ "2022-10-22T14:15:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1583824392777510912" ],
+    "url" : [ "https://twitter.com/PumaTPG/status/1583824392777510912" ]
+  },
+  "type" : [ "h-entry" ]
+}
