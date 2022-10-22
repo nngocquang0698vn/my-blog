@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PeopleOfUK/status/1583908671922139136" ],
     "name" : [ "Like of @PeopleOfUK's tweet" ],
     "published" : [ "2022-10-22T21:11:00+0100" ],
     "like-of" : [ "https://twitter.com/PeopleOfUK/status/1583908671922139136" ],
