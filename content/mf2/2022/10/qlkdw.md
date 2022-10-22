@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brittnaynay3/status/1583879676531204096" ],
     "name" : [ "Like of @brittnaynay3's tweet" ],
     "published" : [ "2022-10-22T21:37:00+0100" ],
     "category" : [ "adhd" ],
