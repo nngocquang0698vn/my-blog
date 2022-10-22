@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/parkerfoye/status/1583144326103633920" ],
     "name" : [ "Like of @parkerfoye's tweet" ],
     "published" : [ "2022-10-22T12:27:00+0100" ],
     "like-of" : [ "https://twitter.com/parkerfoye/status/1583144326103633920" ],
