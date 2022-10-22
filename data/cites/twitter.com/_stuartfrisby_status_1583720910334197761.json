@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Devon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Frisby" ],
+        "nickname" : [ "stuartfrisby" ],
+        "numeric-id" : [ "12494" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1561106867509776384/YWE1Bdzs.jpg" ],
+        "published" : [ "2006-11-15T13:07:00+00:00" ],
+        "uid" : [ "tag:twitter.com:stuartfrisby" ],
+        "url" : [ "https://twitter.com/stuartfrisby", "http://mrfrisby.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "👋 I’m at <a href=\"http://mrfrisby.com\">mrfrisby.com</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/NewsBlur\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/benwerd\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/feedly\"></a>",
+      "value" : "👋 I’m at mrfrisby.com"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/benwerd/status/1583717496862830592" ],
+    "published" : [ "2022-10-22T07:24:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1583720910334197761" ],
+    "url" : [ "https://twitter.com/stuartfrisby/status/1583720910334197761" ]
+  },
+  "type" : [ "h-entry" ]
+}
