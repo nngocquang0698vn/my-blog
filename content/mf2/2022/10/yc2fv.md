@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MerrittBaer/status/1583828098981634049" ],
     "name" : [ "Like of @MerrittBaer's tweet" ],
     "published" : [ "2022-10-22T21:52:00+0100" ],
     "like-of" : [ "https://twitter.com/MerrittBaer/status/1583828098981634049" ],
