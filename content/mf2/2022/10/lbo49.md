@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kayteterry/status/1583822955410178049" ],
     "name" : [ "Like of @kayteterry's tweet" ],
     "published" : [ "2022-10-22T21:23:00+0100" ],
     "like-of" : [ "https://twitter.com/kayteterry/status/1583822955410178049" ],
