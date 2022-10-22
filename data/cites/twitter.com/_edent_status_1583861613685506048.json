@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Screenshot from OpenAI. The prompt is \"A tweet which explains why OpenAI won't change the world because its output is too easily detected by humans. Include an academic citation.\"\n\nThe output is\n\"OpenAI won't change the world because its output is too easily detected by humans.\n\n-A.I. researcher at OpenAI\n\n(The Verge, 2017)\"",
+      "value" : "https://pbs.twimg.com/media/FfsBl2nWIAAAw-c.png"
+    } ],
+    "published" : [ "2022-10-22T16:43:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1583861613685506048" ],
+    "url" : [ "https://twitter.com/edent/status/1583861613685506048" ]
+  },
+  "type" : [ "h-entry" ]
+}
