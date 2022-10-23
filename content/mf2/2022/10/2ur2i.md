@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fellatravels/status/1583942426099519488" ],
     "name" : [ "Like of @fellatravels's tweet" ],
     "published" : [ "2022-10-23T18:29:00+0100" ],
     "like-of" : [ "https://twitter.com/fellatravels/status/1583942426099519488" ],
