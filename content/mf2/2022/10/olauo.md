@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/annatariel/status/1582974631874482178" ],
     "name" : [ "Like of @annatariel's tweet" ],
     "published" : [ "2022-10-23T09:05:00+0100" ],
     "like-of" : [ "https://twitter.com/annatariel/status/1582974631874482178" ],
