@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Aachen" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Simons" ],
+        "nickname" : [ "rotnroll666" ],
+        "numeric-id" : [ "1863311" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1494705160135884805/XmkWEYRL.jpg" ],
+        "published" : [ "2007-03-22T11:52:58+00:00" ],
+        "uid" : [ "tag:twitter.com:rotnroll666" ],
+        "url" : [ "https://twitter.com/rotnroll666", "http://michael-simons.eu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Spring Modulith is something that excites me a bit more and it got lost a bit in the Java 17, native application and build tool discussion: <a href=\"https://spring.io/blog/2022/10/21/introducing-spring-modulith\">spring.io/blog/2022/10/2…</a> It excites me as it aims at better quality and maintainability. \nCongrats, Oliver <a href=\"https://twitter.com/odrotbohm\">@odrotbohm</a>.</div>",
+      "value" : "Spring Modulith is something that excites me a bit more and it got lost a bit in the Java 17, native application and build tool discussion: spring.io/blog/2022/10/2… It excites me as it aims at better quality and maintainability. \nCongrats, Oliver @odrotbohm."
+    } ],
+    "published" : [ "2022-10-23T06:37:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1584071513363578881" ],
+    "url" : [ "https://twitter.com/rotnroll666/status/1584071513363578881" ]
+  },
+  "type" : [ "h-entry" ]
+}
