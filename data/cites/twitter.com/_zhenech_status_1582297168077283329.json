@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leichlingen (Rheinland)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Evgeni Golov" ],
+        "nickname" : [ "zhenech" ],
+        "numeric-id" : [ "44971759" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3587741680/8f78d3ae7a67f3b75d308179e2730cc4.png" ],
+        "published" : [ "2009-06-05T19:23:38+00:00" ],
+        "uid" : [ "tag:twitter.com:zhenech" ],
+        "url" : [ "https://twitter.com/zhenech", "https://www.die-welt.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This sounds as good of an advice as blocking all code hosted on GitHub dot com.\nI don't think org.apache does imply any level (or absence) quality/review/etc, as projects under the Apache umbrella can act fully on their own?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/isotopp\"></a>",
+      "value" : "This sounds as good of an advice as blocking all code hosted on GitHub dot com.\nI don't think org.apache does imply any level (or absence) quality/review/etc, as projects under the Apache umbrella can act fully on their own?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/isotopp/status/1582296267803086848" ],
+    "published" : [ "2022-10-18T09:06:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1582297168077283329" ],
+    "url" : [ "https://twitter.com/zhenech/status/1582297168077283329" ]
+  },
+  "type" : [ "h-entry" ]
+}
