@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "DHH" ],
+          "nickname" : [ "dhh" ],
+          "numeric-id" : [ "14561327" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ],
+          "published" : [ "2008-04-27T20:19:25+00:00" ],
+          "uid" : [ "tag:twitter.com:dhh" ],
+          "url" : [ "https://twitter.com/dhh", "https://dhh.dk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\"Twitter in its current form is a dumpster fir that the more than 7K employees still haven't put out after years of trying almost nothing. Yet much of the coverage is focused with hysterical intensity on the dangers of not doing more of the same.\" <a href=\"https://world.hey.com/dhh/need-it-take-7-500-people-to-run-twitter-a8cb36a6\">world.hey.com/dhh/need-it-ta…</a>",
+        "value" : "\"Twitter in its current form is a dumpster fir that the more than 7K employees still haven't put out after years of trying almost nothing. Yet much of the coverage is focused with hysterical intensity on the dangers of not doing more of the same.\" world.hey.com/dhh/need-it-ta…"
+      } ],
+      "published" : [ "2022-10-21T12:38:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1583437540320690176" ],
+      "url" : [ "https://twitter.com/dhh/status/1583437540320690176" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Also see how <a href=\"https://twitter.com/dhh\">@dhh</a> posts things and turns off replies?\n\nThat's not thought leadership, that's top down \"LISTEN TO MEEEE\" behaviour\n\n<a href=\"https://twitter.com/dhh/status/1583437540320690176?s=20&t=L9sdQP4xl9b6bdxTY-oAUA\">twitter.com/dhh/status/158…</a></div>",
+      "value" : "Also see how @dhh posts things and turns off replies?\n\nThat's not thought leadership, that's top down \"LISTEN TO MEEEE\" behaviour\n\ntwitter.com/dhh/status/158…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/tanepiper/status/1584081939639959553" ],
+    "published" : [ "2022-10-23T07:20:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1584082367773564928" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1584082367773564928" ]
+  },
+  "type" : [ "h-entry" ]
+}
