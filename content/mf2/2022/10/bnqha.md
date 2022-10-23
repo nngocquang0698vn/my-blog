@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/coherentstates/status/1583956302459703296" ],
     "name" : [ "Like of @coherentstates's tweet" ],
     "published" : [ "2022-10-23T18:28:00+0100" ],
     "like-of" : [ "https://twitter.com/coherentstates/status/1583956302459703296" ],
