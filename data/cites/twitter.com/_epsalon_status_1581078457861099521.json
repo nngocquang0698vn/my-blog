@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Clara, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Alon Altman 🏳️‍⚧️" ],
+        "nickname" : [ "epsalon" ],
+        "numeric-id" : [ "17206784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1266854992075386880/pafnwaot.jpg" ],
+        "published" : [ "2008-11-06T06:09:41+00:00" ],
+        "uid" : [ "tag:twitter.com:epsalon" ],
+        "url" : [ "https://twitter.com/epsalon", "http://archive.is/9NCX0" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Dear <a href=\"https://twitter.com/TwitterSafety\">@TwitterSafety</a>, why do I have to report every single one of the tweets misgendering Eddie Izzard. Can't you just remove them all on your own?",
+      "value" : "Dear @TwitterSafety, why do I have to report every single one of the tweets misgendering Eddie Izzard. Can't you just remove them all on your own?"
+    } ],
+    "published" : [ "2022-10-15T00:24:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1581078457861099521" ],
+    "url" : [ "https://twitter.com/epsalon/status/1581078457861099521" ]
+  },
+  "type" : [ "h-entry" ]
+}
