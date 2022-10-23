@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Seanatar/status/1583908873312034816" ],
     "name" : [ "Like of @Seanatar's tweet" ],
     "published" : [ "2022-10-23T09:18:00+0100" ],
     "like-of" : [ "https://twitter.com/Seanatar/status/1583908873312034816" ],
