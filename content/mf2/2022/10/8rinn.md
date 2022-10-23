@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MikeHudema/status/1584022326546681858" ],
     "name" : [ "Like of @MikeHudema's tweet" ],
     "published" : [ "2022-10-23T08:57:00+0100" ],
     "like-of" : [ "https://twitter.com/MikeHudema/status/1584022326546681858" ],
