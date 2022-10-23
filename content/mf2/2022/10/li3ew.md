@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BenjaminCrew1/status/1583619070288502787" ],
     "name" : [ "Like of @BenjaminCrew1's tweet" ],
     "published" : [ "2022-10-23T12:12:00+0100" ],
     "like-of" : [ "https://twitter.com/BenjaminCrew1/status/1583619070288502787" ],
