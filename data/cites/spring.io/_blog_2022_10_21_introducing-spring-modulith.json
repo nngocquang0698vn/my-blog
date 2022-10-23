@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Introducing Spring Modulith" ],
+    "summary" : [ "<div class=\"paragraph\"> \n <p>When designing software systems, architects and developers have plenty of architectural options to choose from. Microservice-based systems have become ubiquitous in the last couple of years. However, the idea of monolithic, modular systems has also regained popularity recently. Independent of the architectural style ultimately selected, the individual applications comprising the overall system need their structure to be evolvable and able to follow changes in business requirements.</p> \n</div>\n<div class=\"paragraph\"> \n <p>Traditionally, application frameworks have provided structural guidance by providing abstractions aligned with technical concepts, such as Spring Framework’s stereotype annotations (<code>@Controller</code>, <code>@Service</code>, <code>@Repository</code>, and so on). However, shifting the focus to <a href=\"https://dannorth.net/2022/02/10/cupid-for-joyful-coding/#domain-based\">align code structure with the domain</a> has proven to lead to better structured applications that are ultimately more understandable and maintainable. Until now, the Spring team has given verbal and written guidance on how we recommend structuring your Spring Boot applications. We decided that we can do more than that.</p> \n</div>\n" ],
+    "featured" : [ "https://avatars.githubusercontent.com/u/128577?v=4?s=200" ],
+    "url" : [ "https://spring.io/blog/2022/10/21/introducing-spring-modulith" ]
+  }
+}
