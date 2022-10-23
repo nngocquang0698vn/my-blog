@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1584103122317635584" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2022-10-23T12:14:00+0100" ],
     "like-of" : [ "https://twitter.com/MrAndrew/status/1584103122317635584" ],
