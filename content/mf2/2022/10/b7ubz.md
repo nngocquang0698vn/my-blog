@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/desmostylia/status/1582811367610134528" ],
     "name" : [ "Like of @desmostylia's tweet" ],
     "published" : [ "2022-10-23T09:04:00+0100" ],
     "like-of" : [ "https://twitter.com/desmostylia/status/1582811367610134528" ],
