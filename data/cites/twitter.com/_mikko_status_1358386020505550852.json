@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Finland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@mikko" ],
+        "nickname" : [ "mikko" ],
+        "numeric-id" : [ "23566038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E.jpg" ],
+        "published" : [ "2009-03-10T06:53:11+00:00" ],
+        "uid" : [ "tag:twitter.com:mikko" ],
+        "url" : [ "https://twitter.com/mikko", "https://mikko.com/books" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think we should be glad that NTP breaks so soon. The later something like this breaks the bigger problem it would be.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zeyus\"></a>",
+      "value" : "I think we should be glad that NTP breaks so soon. The later something like this breaks the bigger problem it would be."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/zeyus/status/1358355324160335878" ],
+    "published" : [ "2021-02-07T12:03:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1358386020505550852" ],
+    "url" : [ "https://twitter.com/mikko/status/1358386020505550852" ]
+  },
+  "type" : [ "h-entry" ]
+}
