@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DGBassani/status/1584286007662325760" ],
     "name" : [ "Like of @DGBassani's tweet" ],
     "published" : [ "2022-10-23T22:24:00+0100" ],
     "like-of" : [ "https://twitter.com/DGBassani/status/1584286007662325760" ],
