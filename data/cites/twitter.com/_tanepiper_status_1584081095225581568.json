@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "terry chay" ],
+          "nickname" : [ "tychay" ],
+          "numeric-id" : [ "5668132" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/80848931/me_as_Che.png" ],
+          "published" : [ "2007-04-30T22:48:20+00:00" ],
+          "uid" : [ "tag:twitter.com:tychay" ],
+          "url" : [ "https://twitter.com/tychay", "http://terrychay.com/blog/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "No. Those who have had to fire people KNOW that so many layoffs = lose your best. The ones kept and stay are those who NEED that job bc they have no opportunity outside the org. We see headcount as people; you, DHH and Musk see them as cogs. <a href=\"https://daringfireball.net/linked/2022/10/21/dhh-twitter-headcount\">daringfireball.net/linked/2022/10…</a>",
+        "value" : "No. Those who have had to fire people KNOW that so many layoffs = lose your best. The ones kept and stay are those who NEED that job bc they have no opportunity outside the org. We see headcount as people; you, DHH and Musk see them as cogs. daringfireball.net/linked/2022/10…"
+      } ],
+      "published" : [ "2022-10-23T06:26:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1584068660447977473" ],
+      "url" : [ "https://twitter.com/tychay/status/1584068660447977473" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">7500 to run Twitter Vs 50 to run WhatsApp \n\nBut yes, WhatsApps literally has 5 features, none public facing, no public moderation needs, no media production, etc.\n\nTwitter is effectively a media channel. That needs people. <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> will gut and kill it.</div>",
+      "value" : "7500 to run Twitter Vs 50 to run WhatsApp \n\nBut yes, WhatsApps literally has 5 features, none public facing, no public moderation needs, no media production, etc.\n\nTwitter is effectively a media channel. That needs people. @elonmusk will gut and kill it."
+    } ],
+    "published" : [ "2022-10-23T07:15:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1584081095225581568" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1584081095225581568" ]
+  },
+  "type" : [ "h-entry" ]
+}
