@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Garrison" ],
+        "nickname" : [ "rothgar" ],
+        "numeric-id" : [ "14361975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575266180075442176/yz_pmhBM.jpg" ],
+        "published" : [ "2008-04-11T15:59:21+00:00" ],
+        "uid" : [ "tag:twitter.com:rothgar" ],
+        "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "IMPORTANT <a href=\"https://twitter.com/awscloud\">@awscloud</a> ANNOUNCEMENT!!!",
+      "value" : "IMPORTANT @awscloud ANNOUNCEMENT!!!"
+    } ],
+    "published" : [ "2022-10-21T18:04:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1583519530151600133" ],
+    "url" : [ "https://twitter.com/rothgar/status/1583519530151600133" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1583519405320720389/pu/vid/1080x1920/rM6BCXA_MpMe0lRb.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
