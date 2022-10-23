@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Finland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@mikko" ],
+        "nickname" : [ "mikko" ],
+        "numeric-id" : [ "23566038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E.jpg" ],
+        "published" : [ "2009-03-10T06:53:11+00:00" ],
+        "uid" : [ "tag:twitter.com:mikko" ],
+        "url" : [ "https://twitter.com/mikko", "https://mikko.com/books" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "FOUR BILLION SHOULD BE ENOUGH FOR ANYONE\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/osma\"></a>",
+      "value" : "FOUR BILLION SHOULD BE ENOUGH FOR ANYONE"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/osma/status/1358350427776036869" ],
+    "published" : [ "2021-02-07T12:01:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1358385376977641474" ],
+    "url" : [ "https://twitter.com/mikko/status/1358385376977641474" ]
+  },
+  "type" : [ "h-entry" ]
+}
