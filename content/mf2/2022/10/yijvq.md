@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricaJoy/status/1584408953999437824" ],
     "name" : [ "Like of @EricaJoy's tweet" ],
     "published" : [ "2022-10-24T07:54:00+0100" ],
     "like-of" : [ "https://twitter.com/EricaJoy/status/1584408953999437824" ],
