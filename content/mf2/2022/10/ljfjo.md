@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NadiaWhittomeMP/status/1584534558598651904" ],
     "name" : [ "Like of @NadiaWhittomeMP's tweet" ],
     "published" : [ "2022-10-24T17:16:00+0100" ],
     "like-of" : [ "https://twitter.com/NadiaWhittomeMP/status/1584534558598651904" ],
