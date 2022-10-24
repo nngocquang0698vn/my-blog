@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "numeric-id" : [ "1389781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you're being interviewed for a job in tech, which questions do you think are good to ask because they will reveal red flags about how the company treats their people and the company's attitude to work?" ],
+    "published" : [ "2022-10-24T17:34:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1584599219804913664" ],
+    "url" : [ "https://twitter.com/sil/status/1584599219804913664" ]
+  },
+  "type" : [ "h-entry" ]
+}
