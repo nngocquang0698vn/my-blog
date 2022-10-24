@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SaphireLattice/status/1584624652298878980" ],
     "name" : [ "Like of @SaphireLattice's tweet" ],
     "published" : [ "2022-10-24T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/SaphireLattice/status/1584624652298878980" ],
