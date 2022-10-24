@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mark_Baker/status/1584346513236692992" ],
     "name" : [ "Like of @Mark_Baker's tweet" ],
     "published" : [ "2022-10-24T21:47:00+0100" ],
     "like-of" : [ "https://twitter.com/Mark_Baker/status/1584346513236692992" ],
