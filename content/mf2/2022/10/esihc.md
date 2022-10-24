@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sjkilleen/status/1584261894214680576" ],
     "name" : [ "Like of @sjkilleen's tweet" ],
     "published" : [ "2022-10-24T07:55:00+0100" ],
     "like-of" : [ "https://twitter.com/sjkilleen/status/1584261894214680576" ],
