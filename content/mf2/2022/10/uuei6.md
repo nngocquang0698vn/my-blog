@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Number10cat/status/1584531605305298945" ],
     "name" : [ "Like of @Number10cat's tweet" ],
     "published" : [ "2022-10-24T21:42:00+0100" ],
     "like-of" : [ "https://twitter.com/Number10cat/status/1584531605305298945" ],
