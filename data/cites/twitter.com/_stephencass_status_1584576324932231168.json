@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "stephencass" ],
+        "nickname" : [ "stephencass" ],
+        "numeric-id" : [ "14601208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312608856334389249/OY8uW5n5.jpg" ],
+        "published" : [ "2008-04-30T15:11:35+00:00" ],
+        "uid" : [ "tag:twitter.com:stephencass" ],
+        "url" : [ "https://twitter.com/stephencass", "http://www.stephencass.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The weird cyber dog and the dancing robots were one thing, but these Boston Dynamics demos are really starting to get creepy.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hannahrosewoods\"></a>",
+      "value" : "The weird cyber dog and the dancing robots were one thing, but these Boston Dynamics demos are really starting to get creepy."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hannahrosewoods/status/1584575350649942016" ],
+    "published" : [ "2022-10-24T16:03:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1584576324932231168" ],
+    "url" : [ "https://twitter.com/stephencass/status/1584576324932231168" ]
+  },
+  "type" : [ "h-entry" ]
+}
