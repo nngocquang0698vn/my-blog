@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MarkRuffaloVEVO/status/1584222491211272193" ],
     "name" : [ "Like of @MarkRuffaloVEVO's tweet" ],
     "published" : [ "2022-10-24T07:46:00+0100" ],
     "like-of" : [ "https://twitter.com/MarkRuffaloVEVO/status/1584222491211272193" ],
