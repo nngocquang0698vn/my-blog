@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nicholdav/status/1584257008848769025" ],
     "name" : [ "Like of @nicholdav's tweet" ],
     "published" : [ "2022-10-24T07:56:00+0100" ],
     "like-of" : [ "https://twitter.com/nicholdav/status/1584257008848769025" ],
