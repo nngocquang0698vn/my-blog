@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🌙Saphire Lattice❄️" ],
+        "nickname" : [ "SaphireLattice" ],
+        "numeric-id" : [ "402447226" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508079052187480071/1Leomf_9.jpg" ],
+        "published" : [ "2011-11-01T02:43:17+00:00" ],
+        "uid" : [ "tag:twitter.com:SaphireLattice" ],
+        "url" : [ "https://twitter.com/SaphireLattice", "http://saphi.re" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">IndieAuth implemented, IndieWeb Wiki login successful!\n\nWoo\n\nNow to wrap that in docker, whack out a frontend, actual login page, etc\n\n...feeling like being lazy and slapping an SPA in there &gt;_&gt;\n\nI mean, it's not like I'll share that instance with many people :P</div>",
+      "value" : "IndieAuth implemented, IndieWeb Wiki login successful!\n\nWoo\n\nNow to wrap that in docker, whack out a frontend, actual login page, etc\n\n...feeling like being lazy and slapping an SPA in there >_>\n\nI mean, it's not like I'll share that instance with many people :P"
+    } ],
+    "published" : [ "2022-10-24T19:15:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1584624652298878980" ],
+    "url" : [ "https://twitter.com/SaphireLattice/status/1584624652298878980" ]
+  },
+  "type" : [ "h-entry" ]
+}
