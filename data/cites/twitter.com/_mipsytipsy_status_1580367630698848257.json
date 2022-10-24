@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charity Majors" ],
+        "nickname" : [ "mipsytipsy" ],
+        "numeric-id" : [ "90488576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576759705933819904/iDotz1Gw.jpg" ],
+        "published" : [ "2009-11-16T21:28:13+00:00" ],
+        "uid" : [ "tag:twitter.com:mipsytipsy" ],
+        "url" : [ "https://twitter.com/mipsytipsy", "http://charity.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I am so incredibly happy to share that <a href=\"https://twitter.com/lizthegrey\">@lizthegrey</a> is now our Field CTO.\n\nWe try to handle promotions as confirmation of a job already being well done, and that is definitely the case here. Liz is an excellent developer advocate, but never \"just\" that.\n\n<a href=\"https://www.honeycomb.io/blog/honeycomb-welcomes-new-field-cto\">honeycomb.io/blog/honeycomb…</a></div>",
+      "value" : "I am so incredibly happy to share that @lizthegrey is now our Field CTO.\n\nWe try to handle promotions as confirmation of a job already being well done, and that is definitely the case here. Liz is an excellent developer advocate, but never \"just\" that.\n\nhoneycomb.io/blog/honeycomb…"
+    } ],
+    "published" : [ "2022-10-13T01:19:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1580367630698848257" ],
+    "url" : [ "https://twitter.com/mipsytipsy/status/1580367630698848257" ]
+  },
+  "type" : [ "h-entry" ]
+}
