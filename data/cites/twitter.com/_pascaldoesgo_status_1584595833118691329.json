@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pascal Dennerly" ],
+        "nickname" : [ "pascaldoesgo" ],
+        "numeric-id" : [ "1003529600901767168" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1409275735328575493/IYVIf2-Z.jpg" ],
+        "published" : [ "2018-06-04T06:51:16+00:00" ],
+        "uid" : [ "tag:twitter.com:pascaldoesgo" ],
+        "url" : [ "https://twitter.com/pascaldoesgo", "http://github.com/dnnrly", "https://www.polywork.com/dnnrly" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "That feeling when you check your <a href=\"https://twitter.com/search?q=%23github\">#github</a> project traffic and you see one of the sources is your works private Confluence instance. 😬",
+      "value" : "That feeling when you check your #github project traffic and you see one of the sources is your works private Confluence instance. 😬"
+    } ],
+    "published" : [ "2022-10-24T17:21:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1584595833118691329" ],
+    "url" : [ "https://twitter.com/pascaldoesgo/status/1584595833118691329" ]
+  },
+  "type" : [ "h-entry" ]
+}
