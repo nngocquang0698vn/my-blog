@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/corprteUnicorn/status/1584656368996208641" ],
     "name" : [ "Like of @corprteUnicorn's tweet" ],
     "published" : [ "2022-10-25T12:36:00+0100" ],
     "like-of" : [ "https://twitter.com/corprteUnicorn/status/1584656368996208641" ],
