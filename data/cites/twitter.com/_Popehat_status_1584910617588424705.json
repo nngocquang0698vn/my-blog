@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "FourMonthsHat" ],
+        "nickname" : [ "Popehat" ],
+        "numeric-id" : [ "18839937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5.jpg" ],
+        "published" : [ "2009-01-10T17:24:58+00:00" ],
+        "uid" : [ "tag:twitter.com:Popehat" ],
+        "url" : [ "https://twitter.com/Popehat", "https://popehat.substack.com/", "http://popehat.substack.com", "http://serioustrouble.show" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The new Prime Minister of the UK was born in 1980 which is ridiculous because 12 is too young to run a country" ],
+    "published" : [ "2022-10-25T14:11:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1584910617588424705" ],
+    "url" : [ "https://twitter.com/Popehat/status/1584910617588424705" ]
+  },
+  "type" : [ "h-entry" ]
+}
