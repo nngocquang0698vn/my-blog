@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/acambridgediary/status/1558862499109298176" ],
     "name" : [ "Like of @acambridgediary's tweet" ],
     "published" : [ "2022-10-25T09:28:17.939644512Z" ],
     "like-of" : [ "https://twitter.com/acambridgediary/status/1558862499109298176" ],
