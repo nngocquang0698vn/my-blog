@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "food" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "fucked up looking food" ],
+        "nickname" : [ "fuckedupfoods" ],
+        "numeric-id" : [ "1546497037117579264" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575967979417788417/lBf2xn-Z.jpg" ],
+        "published" : [ "2022-07-11T14:10:13+00:00" ],
+        "uid" : [ "tag:twitter.com:fuckedupfoods" ],
+        "url" : [ "https://twitter.com/fuckedupfoods", "http://fuckedup.shop", "http://discord.gg/K2aAEjUsbR" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "pulled pork waffle sandwich" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ff6u9RNWQAIawAZ.png" ],
+    "published" : [ "2022-10-25T13:16:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1584896618708336641" ],
+    "url" : [ "https://twitter.com/fuckedupfoods/status/1584896618708336641" ]
+  },
+  "type" : [ "h-entry" ]
+}
