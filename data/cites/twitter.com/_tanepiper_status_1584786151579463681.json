@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Guardian" ],
+          "nickname" : [ "guardian" ],
+          "numeric-id" : [ "87818409" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla.png" ],
+          "published" : [ "2009-11-05T23:49:19+00:00" ],
+          "uid" : [ "tag:twitter.com:guardian" ],
+          "url" : [ "https://twitter.com/guardian", "https://www.theguardian.com", "https://support.theguardian.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Who is Rishi Sunak? Everything you need to know about Britain’s next prime minister <a href=\"https://www.theguardian.com/politics/2022/oct/25/who-is-rishi-sunak-everything-you-need-to-know-about-britains-next-prime-minister?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1666671323\">theguardian.com/politics/2022/…</a>",
+        "value" : "Who is Rishi Sunak? Everything you need to know about Britain’s next prime minister theguardian.com/politics/2022/…"
+      } ],
+      "published" : [ "2022-10-25T04:16:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1584760796730605569" ],
+      "url" : [ "https://twitter.com/guardian/status/1584760796730605569" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Britian is proof that it doesn't matter if you are a woman, or a person of colour - they too can be a complete amoral fuckwits and still lead the country." ],
+    "published" : [ "2022-10-25T05:57:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1584786151579463681" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1584786151579463681" ]
+  },
+  "type" : [ "h-entry" ]
+}
