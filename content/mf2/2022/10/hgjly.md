@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ArielleIvy_/status/1584677755484094467" ],
     "name" : [ "Like of @ArielleIvy_'s tweet" ],
     "published" : [ "2022-10-25T07:36:00+0100" ],
     "like-of" : [ "https://twitter.com/ArielleIvy_/status/1584677755484094467" ],
