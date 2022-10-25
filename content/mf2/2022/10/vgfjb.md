@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scretladyspider/status/1584652003695001600" ],
     "name" : [ "Like of @scretladyspider's tweet" ],
     "published" : [ "2022-10-25T07:34:00+0100" ],
     "like-of" : [ "https://twitter.com/scretladyspider/status/1584652003695001600" ],
