@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Deprecating static attributes in factory_bot 4.11" ],
+    "summary" : [ "Static attributes have been the source of much confusion over the years. Their deprecation will come with a rubocop-rspec Cop to automatically replace with dynamic attributes." ],
+    "featured" : [ "https://images.thoughtbot.com/blog-images/social-share-default.png" ],
+    "url" : [ "https://thoughtbot.com/blog/deprecating-static-attributes-in-factory_bot-4-11" ],
+    "published" : [ "2019-03-23 18:22:31 UTC" ]
+  }
+}
