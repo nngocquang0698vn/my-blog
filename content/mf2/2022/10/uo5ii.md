@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Parody_PM/status/1584805930096807936" ],
     "name" : [ "Like of @Parody_PM's tweet" ],
     "published" : [ "2022-10-25T08:33:00+0100" ],
     "like-of" : [ "https://twitter.com/Parody_PM/status/1584805930096807936" ],
