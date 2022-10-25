@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Get Blogging!" ],
+    "summary" : [ "A blog is an easy way to write on the web. Here's how to get started." ],
+    "featured" : [ "https://getblogging.org/fb.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ben Werdmuller" ]
+      }
+    } ],
+    "url" : [ "https://getblogging.org/" ]
+  }
+}
