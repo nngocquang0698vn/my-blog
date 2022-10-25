@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/dbohdan/classless-css/stargazers" ],
     "name" : [ "dbohdan/classless-css: A list of classless CSS themes/frameworks with screenshots" ],
     "published" : [ "2022-10-25T21:58:00+0100" ],
     "category" : [ "css" ],
