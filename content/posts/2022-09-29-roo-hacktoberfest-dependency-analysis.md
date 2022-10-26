@@ -57,9 +57,13 @@ gh api "/orgs/deliveroo/repos?per_page=100&page=$f" | jq '.[].name' >> repos.txt
 #   "deliveroo.engineering"
 #   "determinator"
 ```
+
 This could've been improved with the GraphQL endpoint, but as it was a one-time operation, I decided to go for an inefficient route.
+
 #### Enabling dependency scanning across the org
+
 Now I had all the repositories listed, I needed to make sure that we had all repositories opted-in to dependency scanning. After finding the [GitHub docs to enable vulnerability alerts](https://docs.github.com/en/rest/repos/repos#enable-vulnerability-alerts), this was straightforward as we could script it easily, for instance:
+
 ```sh
 # this is a subset of the 1900(!) repos
 for repo in deliveroo.engineering merge-pr-to-branch jsonrest-go determinator; do
@@ -70,10 +74,15 @@ for repo in deliveroo.engineering merge-pr-to-branch jsonrest-go determinator; d
   /repos/deliveroo/$repo/vulnerability-alerts
 done
 ```
+
 #### Listing the dependency graph
+
 Until I found [Simon Willison's post](https://til.simonwillison.net/github/dependencies-graphql-api) about this, I was getting a bit disheartened that this wasn't possible, but it turns out it was just hidden in a preview API.
+
 While playing around in the GraphQL API docs, I found that this was the best way to get all the packages that a given package has for direct and transitive dependencies.
+
 To script this further I created the file `get.sh`:
+
 ```sh
 #!/usr/bin/env bash
 repo=$1
@@ -104,29 +113,40 @@ curl -s https://api.github.com/graphql -X POST \
 }
 ' '{"query":$query}')"  | jq > data/$repo.json
 ```
+
 #### Converting raw dependency graph into a database
+
 Now I had the raw dependency data, I needed to break it down into a form that we could more easily query. I used `jq` to break this down into a smaller set of JSON objects using the script `filter.sh`:
+
 ```sh
 #!/usr/bin/env bash
 repo="$(basename ${1/.json/})"
 jq '[.data.repository.dependencyGraphManifests.edges[].node as $dep | $dep.dependencies.nodes[] | {repo: "'$repo'", packageName: .packageName, packageManager: .packageManager, filename: $dep.filename, repoPath: ("'$repo'/" + $dep.filename)}]' $1
 ```
+
 #### Tying it all together
+
 Now we have all of the scripts, it was a case of executing them together.
+
 The main script was `do.sh`:
+
 ```sh
 #!/usr/bin/env bash
 [[ ! -f data/"$1.json" ]] && ./get.sh "$1"
 # ./get.sh "$1"
 ./filter.sh data/"$1".json | sqlite-utils insert db.db packages -
 ```
+
 This was invoked one time per repo:
+
 ```sh
 for repo in deliveroo.engineering merge-pr-to-branch jsonrest-go determinator; do
   ./do.sh $repo
 done
 ```
+
 This would then insert all the package information into an SQLite database with the following schema:
+
 ```sql
 CREATE TABLE packages (
   repo,
@@ -137,8 +157,11 @@ CREATE TABLE packages (
   UNIQUE (repo, repoPath, packageName) ON CONFLICT IGNORE
 );
 ```
+
 #### Querying
+
 Finally, once we'd loaded all the data in, I created the following script to allow querying the top direct and transitive dependencies per ecosystem:
+
 ```sh
 #!/usr/bin/env bash
 limit=$1
