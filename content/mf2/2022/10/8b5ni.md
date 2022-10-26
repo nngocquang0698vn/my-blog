@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/houseofdragontv/status/1584882605602000896" ],
     "name" : [ "Like of @houseofdragontv's tweet" ],
     "published" : [ "2022-10-26T08:53:00+0100" ],
     "like-of" : [ "https://twitter.com/houseofdragontv/status/1584882605602000896" ],
