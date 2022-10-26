@@ -1,0 +1,600 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "We’re drowning" ],
+    "url" : [ "https://snarfed.org/2022-03-10_were-drowning-software-dependencies" ],
+    "syndication" : [ "https://twitter.com/schnarfed/status/1501962144522276864", "https://twitter.com/schnarfed/status/1501962144522276864" ],
+    "published" : [ "2022-03-10T08:25:13-08:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right half\" style=\"text-align: center\">\n <a href=\"https://www.theguardian.com/sport/2016/mar/27/cambridge-beat-oxford-win-162-boat-race\">\n  <img class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/sinking_rowboat.webp\" data-lazy-src=\"/sinking_rowboat.webp?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" class=\"shadow\" src=\"https://snarfed.org/sinking_rowboat.webp\"></noscript>\n  <em>Matthew Childs / Reuters</em>\n\n<p>We live in a golden age of software reuse. We’ve never before had such a wealth of freely available code, in so many languages, so easy to find and install.</p>\n<p>And yet, we’re drowning. We slap together rickety rowboats and toss them out on PyPI Ocean and npm Sea, then act surprised when the changes flood in. We ignore the flood as long as we can, then patch the holes with <a href=\"https://softwareengineering.stackexchange.com/questions/340705/when-should-dependencies-be-updated\">duct tape and bilge pumps</a> as if they can hold back the tide. They cannot.</p>\n<p>It’s a wonderful, horrible problem, and I don’t know what to do about it.\n<span id=\"more-45963\"></span></p>\n<h3>Neckbeard prehistory</h3>\n<p>For a long time, the flood was just a trickle. Code reuse dates all the way back to <a href=\"https://en.wikipedia.org/wiki/Subroutine#History\">subroutines in 1945</a>, arguably the first instance of running the same code in more than one place. Functions in higher level languages came next, along with linkers, shared libraries, Unix pipes, and so on. Enterprise people eventually <a href=\"https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish\">embraced and extended</a> this with DCOM, CORBA, Java Beans, SOAP, and a host of other acronyms.</p>\n<p>Our current golden age traces its roots back to two different ancestors: Linux and CGI. Linux distributions were some of the first projects that put together a broad range of code and made it all work together. They added installers like dpkg, yum, and apt-get, with packages on CD-ROM and later online, which led directly to our current language-specific package managers.</p>\n<p>Likewise, web servers originally only served static files, but CGI paved the way for handling requests dynamically, with code. We quickly started making requests <em>from</em> code too, eventually formalized into REST and WSGI and our current world of SaaS and JSON-based APIs, where code is reused live and updated continuously. <a href=\"https://en.wikipedia.org/wiki/Yahoo!_Pipes\">Yahoo Pipes</a> embodied this decades ago, may it rest in peace.</p>\n<p>The dominant form of code reuse now isn’t OS distributions or web APIs, though. If you build a web app these days, you likely start with <code>pip install</code> and <code>npm install</code>. Or composer if you’re on PHP, or gem for Ruby or crate for Rust or go get for Go or nuget for C#, and so on. Each one has well over 100k packages, often many more.</p>\n<h3>npm install everything</h3>\n<p>As an industry, we’ve jumped into this wholeheartedly. <a href=\"https://blog.tidelift.com/dependency-management-and-your-software-health\">You’ve probably seen run-of-the-mill web applications with hundreds of direct dependencies</a>, thousands if you include the <a href=\"https://en.wikipedia.org/wiki/Transitive_dependency#Computer_programs\">transitive closure</a> of indirect dependencies (which you should). It may feel like a lot, but it works, right? All that glorious code reuse, isn’t that the dream?</p>\n<p class=\"left third\" style=\"text-align: center\">\n <a href=\"https://xkcd.com/2347/\">\n  <img src=\"https://snarfed.org/xkcd_dependency.png\" data-lazy-src=\"/xkcd_dependency.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" src=\"https://snarfed.org/xkcd_dependency.png\"></noscript>\n  <em>Randall Munroe / XKCD</em>\n\n<p>In large part, yes. There really is a vast ecosystem of reusable code now, in dozens of languages, easily discoverable, often mature enough to use in production applications. Even docs and licenses are common and standardized. The dream is alive!</p>\n<p>It comes with a nightmare, though: how to upgrade without breaking your application. Most package managers default to installing the latest versions of packages. In some ways, this is what you want: the newest features, bug fixes, etc. Code changes over time, though, and those changes often aren’t backward compatible. If you start using <code>foo</code> 1.0, you’ll likely need to adapt your code to 2.0 when it comes around.</p>\n<p>That may be ok, but if you’re always installing the latest versions, 2.0 can appear and break you at any time. Fortunately, we know how to prevent this: pin versions. If you develop against version 1.0, put exactly that version in your requirements or lock file, eg <code>foo==1.0</code> in <code>requirements.txt</code>. This tells pip to always install 1.0. Most package managers support this, <a href=\"https://bundler.io/rationale.html#checking-your-code-into-version-control\">some even</a> <a href=\"https://yarnpkg.com/features/zero-installs#how-does-yarn-impact-a-projects-stability\">do it</a> <a href=\"https://python-poetry.org/docs/basic-usage/#installing-without-poetrylock\">automatically</a>.</p>\n<p>We now know that we’ll always get 1.0, which helps, but 2.0 was released for a reason. <a href=\"https://depfu.com/blog/2016/12/01/why-you-should-keep-your-dependencies-up-to-date\">Features were added, bugs fixed, security holes patched.</a> Those are all good. We <em>want</em> those things.</p>\n<p>So, we upgrade. We regularly check each dependency for new releases, read the changelogs and maybe even the diffs, upgrade each one in isolation, thoroughly test our application, and then carefully deploy and watch for any problems.</p>\n<h4>This is fine</h4>\n<p><a href=\"https://research.swtch.com/deps\">Who am I kidding?</a> No we don’t. We have thousands of dependencies, and anyway, we have “real work” to do. We put off upgrading as long as possible, until the the bugs become intolerable and we’re embarrassed to tell recruiting candidates and our CISO is breathing down our neck about a vulnerability. Then we upgrade everything all at once, dutifully poke at it on staging, fumble through fixing the most obvious breakages, and when it seems ok, throw it over the wall to production and try to forget about the whole episode.</p>\n<p class=\"right half\" style=\"text-align: center\">\n  <img class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/ostrich_head_sand.webp\" data-lazy-src=\"/ostrich_head_sand.webp?is-pending-load=1\" srcset=\"\"></p><noscript><img data-lazy-fallback=\"1\" class=\"shadow\" src=\"https://snarfed.org/ostrich_head_sand.webp\"></noscript>\n  <a href=\"https://pixabay.com/users/joojoo41-1135596/\"><em>Vicki Nunn</em></a>\n\n<p>We did this for a while – many of us still do – but it’s not great. The new hotness is to apply the agile maxims of continuous integration and <em><a href=\"https://martinfowler.com/bliki/FrequencyReducesDifficulty.html\">if it hurts, do it more often</a></em> and <a href=\"https://depfu.com/blog/updating-dependencies-sucks\">upgrade more frequently</a>. If you upgrade each new dependency release as it happens, in isolation, it’s easier to identify and fix breakages. You don’t have to guess which upgrade broke you; there’s only one suspect.</p>\n<p>Plus, when lazy engineers have to do anything often enough, they’re motivated to automate, and the industry is happy to oblige with new tools. <a href=\"https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates\">GitHub’s Dependabot</a> is probably the best known example, along with <a href=\"https://www.whitesourcesoftware.com/free-developer-tools/renovate/\">Renovate</a>, <a href=\"https://depfu.com/\">Depfu</a>, <a href=\"https://snyk.io/\">Snyk</a>, and others. These tools parse your requirements files, watch for new releases, and automatically send PRs that upgrade them.</p>\n<h3>Millennium Edition</h3>\n<p>This is great, but it’s only one side of the coin. The other side is compatibility. How do we know when we need to change our own code to handle a dependency upgrade?</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Software_versioning\">Some versioning schemes</a> try to tell us. The standard <code>MAJOR.MINOR.PATCH</code> format was popularized by commercial software, which incremented major versions on a schedule, or based on organizational roadmaps, or whenever they needed to sell more units. Open source originally followed this, incrementing versions whenever changes seemed “big enough.”</p>\n<p>More recent versioning schemes, on the other hand, tackle the compatibility question head on. <a href=\"https://semver.org/\">SemVer</a> requires updating the major version whenever a change is backward incompatible, aka breaking. <a href=\"https://calver.org/\">CalVer</a> derives versions from calendar dates for easier comparison. More exotic systems <a href=\"https://avatao.com/blog-semancat-versioning/\">combine both</a>, <a href=\"https://www.honeybadger.io/blog/golang-go-package-management/\">or forbid breaking changes altogether</a>, <a href=\"https://en.wikipedia.org/wiki/Software_versioning#TeX\">or turn versions</a> <a href=\"https://0ver.org/\">into a joke</a>, or give up entirely and abdicate to Linux distributions <a href=\"https://nixos.org/\">or content-addressable hashes</a>.</p>\n<p class=\"left half\" style=\"text-align: center\">\n <a href=\"https://allaboutwindowsphone.com/features/item/23782_Its_obvious_but_Dont_use_WDRT_.php\">\n  <img src=\"https://snarfed.org/lumia_software_version_numbers.png\" data-lazy-src=\"/lumia_software_version_numbers.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" src=\"https://snarfed.org/lumia_software_version_numbers.png\"></noscript>\n  <em>All About Windows Phone</em>\n\n<p>These can help, sometimes, but they’re not guarantees. It’s not always easy to know which versioning scheme a given package follows, if any. Projects occasionally switch from one scheme to another. Backward compatibility can be subtle; it’s easy to introduce breaking changes in a minor or patch version accidentally. Other times, a project may carefully follow semver, and bump the major version for a breaking change, but in a feature you don’t use. Or you use something the developers consider private and not part of the official API, and therefore not subject to versioning guarantees at all. Oops.</p>\n<h3>It worked on my machine</h3>\n<p>We have accepted wisdom for handling this: automated testing. We floss our teeth, we change the oil in our cars (<a href=\"https://evadoption.com/\">for now</a>), and we write tests and run them in CI. Tests are aimed primarily at our own code, but if we upgrade a dependency, and the tests all pass, it’s likely to be safe too.</p>\n<p>Of course, in reality, no one has perfect test coverage, so we combine tests with other safeguards like code review and manual QA. After a developer finishes a PR, they send it to another developer, who reads it and tries to determines if anything is wrong or missing. Similarly, developers often try out their changes manually to make sure they work in practice. <a href=\"https://en.wikipedia.org/wiki/Defence_in_depth\">These additional layers only catch some issues, not all,</a> but together they add up.</p>\n<p>Dependencies are different than your own code, though. You didn’t write them, you don’t know their codebases, and they’re orders of magnitude bigger, cumulatively, than your app. You may occasionally dive into their source to debug an issue, or to see how something works, but not often. You’re not going to read the code changes in every new version, and if you did, it would take extraordinary effort to understand them all.</p>\n<p>Manual testing isn’t much better. When you deploy your own changes, you generally know how to check that they’re working. When a direct dependency changes, you may know roughly where it’s being used, but only roughly, and it’s not always easy to know how a new release will affect you. Indirect dependencies, you may not know at all.</p>\n<p class=\"right half\" style=\"text-align: center\">\n <a href=\"https://simpsons.fandom.com/wiki/Cupcake_Kid\">\n  <img class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bart_simpson_cupcake_shock.jpg\" data-lazy-src=\"/bart_simpson_cupcake_shock.jpg?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" class=\"shadow\" src=\"https://snarfed.org/bart_simpson_cupcake_shock.jpg\"></noscript>\n  <em>Fox / The Simpsons</em>\n\n<p>If we waved a magic wand and gave ourselves perfect test coverage, would that do the trick? Maybe. By definition, our tests would exercise all code paths, including dependencies. That’s quite a magic wand though. Automated testing has grown massively over the last couple generations and replaced wide swathes of human QA, but UI and configuration and data and many other features still stubbornly resist testing.</p>\n<p>So, perfect test coverage is a pipe dream, dependency changes are difficult to review or test manually, and the ease of modern code reuse has swelled a trickle of upgrades into a flood. We’re drowning.</p>\n<h3>These 10 weird tricks</h3>\n<p>To recap, the current best practices seem to be:</p>\n<ol>\n<li>Pin all dependencies…unless you’re a library, <a href=\"https://depfu.com/blog/2017/03/22/a-brief-history-of-dependency-management\">then pin as little as possible</a>. Don’t think too hard about the difference</li>\n<li>Write lots of tests</li>\n<li>Use a tool to generate upgrade PRs</li>\n<li>When you get one:\n<ol>\n<li>If it’s a new major version, check the release notes for breaking changes. Otherwise, roll the dice, hope you feel lucky</li>\n<li>Update your code…maybe?</li>\n<li>Read the source diffs for the new ver…no you won’t, who am I kidding</li>\n<li>If your tests fail, find and fix the breakages</li>\n<li>Guess what to poke at manually</li>\n<li>Repeat until everything works</li>\n<li>Merge the upgrade</li>\n</ol>\n</li>\n<li>Deploy early and often</li>\n<li>Monitor for breakages, fix them as soon as you (read: your users) notice</li>\n</ol>\n<p>Upgrade broke your app in production? Tough luck; debug it and fix it. Calver or other non-semver? You’re on your own. Interested in a new feature? Whoa there, we’re not actually trying to improve anything here, just keep our heads above water.</p>\n<p>More importantly, remember those thousands of dependencies? Release schedules vary, but even if we conservatively assume just a few releases per year on average, add those up and you’re looking at a <em>dozen dependency upgrades every business day</em>. I recently pinned all dependencies and enabled weekly Dependabot PRs on a <a href=\"https://brid.gy/\">handful</a> <a href=\"https://oauth-dropins.appspot.com/\">of</a> <a href=\"https://granary.io/\">side</a> <a href=\"https://fed.brid.gy/\">projects</a>, and I now get 10-20 PRs in my inbox every Monday. Ugh.</p>\n<p class=\"left half\" style=\"text-align: center\">\n <a href=\"https://bonkersworld.net/organizational-charts\">\n  <img src=\"https://snarfed.org/org_charts_microsoft.png\" data-lazy-src=\"/org_charts_microsoft.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" src=\"https://snarfed.org/org_charts_microsoft.png\"></noscript>\n  <em>Manu Cornet</em>\n\n<p>Apart from burying your head in the sand, are there any alternatives? Well…kind of. Many older big tech companies – Google, Microsoft, IBM, Apple – famously avoided external dependencies altogether. They used a few, like Linux and SQLite, but not many, and often <a href=\"https://stackoverflow.com/questions/26217488/what-is-vendoring\">vendored them into their internal codebases</a> and treated them similarly to internal code. This is pejoratively referred to as <a href=\"https://en.wikipedia.org/wiki/Not_invented_here\">NIH syndrome</a>, for good reason, and it avoids the upgrade flood.</p>\n<p>Naturally, it also means that they develop more of their own code instead, which they then reuse across teams internally. Those teams eventually end up with the same problem: how to upgrade their internal dependencies. The difference is, as centralized organizations, they have more tools at their disposal to drive and manage those upgrades. They can enforce standardized versioning, upgrade codebases in bulk, monitor tests across projects, etc.</p>\n<p>For the rest of us, this isn’t really feasible. A big company can afford to build everything in house when that house has tens of thousands of engineers, but most places don’t have that luxury. Reusing external code is a huge advantage, and when everyone does it, it’s also a competitive necessity.</p>\n<p>Interestingly, platforms like GitHub now have enough scale to play some of the same tricks. <a href=\"https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates#about-compatibility-scores\">Dependabot compatibility scores</a> are a clever example: count the repos with CI runs that passed or failed on a given upgrade, then include that fraction as a warning label on those upgrade PRs. This still feels like duct tape though; new and improved, maybe, but still fundamentally inadequate.</p>\n<h3>This is water</h3>\n<p>So we’re drowning, and I don’t know what to do about it. <a href=\"https://www.freecodecamp.org/news/code-dependencies-are-the-devil-35ed28b556d/\">People agree</a>, but they seem surprisingly unconcerned. They have bigger problems, or they think Dependabot and friends will solve it, or they just can’t be bothered. Security people are sounding alarms about <a href=\"https://snyk.io/blog/typosquatting-attacks/\">typosquatting</a> and <a href=\"https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610\">dependency confusion</a> and supply chain security, but that’s a different conversation. The occasional Log4j cannonball blast now and then gets everyone’s attention, but our rickety little rowboats all have thousands of dependency pinholes, and we’re all slowly sinking.</p>\n<p>If you’re staying afloat somehow, please let me know, I’d love to check out your boat. In the meantime, pardon me, I have a fresh batch of Dependabot PRs in my inbox, and they’re not going to review themselves.</p>",
+      "value" : "https://snarfed.org/sinking_rowboat.webp https://snarfed.org/sinking_rowboat.webp Matthew Childs / Reuters\nWe live in a golden age of software reuse. We’ve never before had such a wealth of freely available code, in so many languages, so easy to find and install.\nAnd yet, we’re drowning. We slap together rickety rowboats and toss them out on PyPI Ocean and npm Sea, then act surprised when the changes flood in. We ignore the flood as long as we can, then patch the holes with duct tape and bilge pumps as if they can hold back the tide. They cannot.\nIt’s a wonderful, horrible problem, and I don’t know what to do about it. Neckbeard prehistory\nFor a long time, the flood was just a trickle. Code reuse dates all the way back to subroutines in 1945, arguably the first instance of running the same code in more than one place. Functions in higher level languages came next, along with linkers, shared libraries, Unix pipes, and so on. Enterprise people eventually embraced and extended this with DCOM, CORBA, Java Beans, SOAP, and a host of other acronyms.\nOur current golden age traces its roots back to two different ancestors: Linux and CGI. Linux distributions were some of the first projects that put together a broad range of code and made it all work together. They added installers like dpkg, yum, and apt-get, with packages on CD-ROM and later online, which led directly to our current language-specific package managers.\nLikewise, web servers originally only served static files, but CGI paved the way for handling requests dynamically, with code. We quickly started making requests from code too, eventually formalized into REST and WSGI and our current world of SaaS and JSON-based APIs, where code is reused live and updated continuously. Yahoo Pipes embodied this decades ago, may it rest in peace.\nThe dominant form of code reuse now isn’t OS distributions or web APIs, though. If you build a web app these days, you likely start with pip install and npm install. Or composer if you’re on PHP, or gem for Ruby or crate for Rust or go get for Go or nuget for C#, and so on. Each one has well over 100k packages, often many more. npm install everything\nAs an industry, we’ve jumped into this wholeheartedly. You’ve probably seen run-of-the-mill web applications with hundreds of direct dependencies, thousands if you include the transitive closure of indirect dependencies (which you should). It may feel like a lot, but it works, right? All that glorious code reuse, isn’t that the dream?\nhttps://snarfed.org/xkcd_dependency.png https://snarfed.org/xkcd_dependency.png Randall Munroe / XKCD\nIn large part, yes. There really is a vast ecosystem of reusable code now, in dozens of languages, easily discoverable, often mature enough to use in production applications. Even docs and licenses are common and standardized. The dream is alive!\nIt comes with a nightmare, though: how to upgrade without breaking your application. Most package managers default to installing the latest versions of packages. In some ways, this is what you want: the newest features, bug fixes, etc. Code changes over time, though, and those changes often aren’t backward compatible. If you start using foo 1.0, you’ll likely need to adapt your code to 2.0 when it comes around.\nThat may be ok, but if you’re always installing the latest versions, 2.0 can appear and break you at any time. Fortunately, we know how to prevent this: pin versions. If you develop against version 1.0, put exactly that version in your requirements or lock file, eg foo==1.0 in requirements.txt. This tells pip to always install 1.0. Most package managers support this, some even do it automatically.\nWe now know that we’ll always get 1.0, which helps, but 2.0 was released for a reason. Features were added, bugs fixed, security holes patched. Those are all good. We want those things.\nSo, we upgrade. We regularly check each dependency for new releases, read the changelogs and maybe even the diffs, upgrade each one in isolation, thoroughly test our application, and then carefully deploy and watch for any problems. This is fine\nWho am I kidding? No we don’t. We have thousands of dependencies, and anyway, we have “real work” to do. We put off upgrading as long as possible, until the the bugs become intolerable and we’re embarrassed to tell recruiting candidates and our CISO is breathing down our neck about a vulnerability. Then we upgrade everything all at once, dutifully poke at it on staging, fumble through fixing the most obvious breakages, and when it seems ok, throw it over the wall to production and try to forget about the whole episode.\nhttps://snarfed.org/ostrich_head_sand.webp https://snarfed.org/ostrich_head_sand.webp Vicki Nunn\nWe did this for a while – many of us still do – but it’s not great. The new hotness is to apply the agile maxims of continuous integration and if it hurts, do it more often and upgrade more frequently. If you upgrade each new dependency release as it happens, in isolation, it’s easier to identify and fix breakages. You don’t have to guess which upgrade broke you; there’s only one suspect.\nPlus, when lazy engineers have to do anything often enough, they’re motivated to automate, and the industry is happy to oblige with new tools. GitHub’s Dependabot is probably the best known example, along with Renovate, Depfu, Snyk, and others. These tools parse your requirements files, watch for new releases, and automatically send PRs that upgrade them. Millennium Edition\nThis is great, but it’s only one side of the coin. The other side is compatibility. How do we know when we need to change our own code to handle a dependency upgrade?\nSome versioning schemes try to tell us. The standard MAJOR.MINOR.PATCH format was popularized by commercial software, which incremented major versions on a schedule, or based on organizational roadmaps, or whenever they needed to sell more units. Open source originally followed this, incrementing versions whenever changes seemed “big enough.”\nMore recent versioning schemes, on the other hand, tackle the compatibility question head on. SemVer requires updating the major version whenever a change is backward incompatible, aka breaking. CalVer derives versions from calendar dates for easier comparison. More exotic systems combine both, or forbid breaking changes altogether, or turn versions into a joke, or give up entirely and abdicate to Linux distributions or content-addressable hashes.\nhttps://snarfed.org/lumia_software_version_numbers.png https://snarfed.org/lumia_software_version_numbers.png All About Windows Phone\nThese can help, sometimes, but they’re not guarantees. It’s not always easy to know which versioning scheme a given package follows, if any. Projects occasionally switch from one scheme to another. Backward compatibility can be subtle; it’s easy to introduce breaking changes in a minor or patch version accidentally. Other times, a project may carefully follow semver, and bump the major version for a breaking change, but in a feature you don’t use. Or you use something the developers consider private and not part of the official API, and therefore not subject to versioning guarantees at all. Oops. It worked on my machine\nWe have accepted wisdom for handling this: automated testing. We floss our teeth, we change the oil in our cars (for now), and we write tests and run them in CI. Tests are aimed primarily at our own code, but if we upgrade a dependency, and the tests all pass, it’s likely to be safe too.\nOf course, in reality, no one has perfect test coverage, so we combine tests with other safeguards like code review and manual QA. After a developer finishes a PR, they send it to another developer, who reads it and tries to determines if anything is wrong or missing. Similarly, developers often try out their changes manually to make sure they work in practice. These additional layers only catch some issues, not all, but together they add up.\nDependencies are different than your own code, though. You didn’t write them, you don’t know their codebases, and they’re orders of magnitude bigger, cumulatively, than your app. You may occasionally dive into their source to debug an issue, or to see how something works, but not often. You’re not going to read the code changes in every new version, and if you did, it would take extraordinary effort to understand them all.\nManual testing isn’t much better. When you deploy your own changes, you generally know how to check that they’re working. When a direct dependency changes, you may know roughly where it’s being used, but only roughly, and it’s not always easy to know how a new release will affect you. Indirect dependencies, you may not know at all.\nhttps://snarfed.org/bart_simpson_cupcake_shock.jpg https://snarfed.org/bart_simpson_cupcake_shock.jpg Fox / The Simpsons\nIf we waved a magic wand and gave ourselves perfect test coverage, would that do the trick? Maybe. By definition, our tests would exercise all code paths, including dependencies. That’s quite a magic wand though. Automated testing has grown massively over the last couple generations and replaced wide swathes of human QA, but UI and configuration and data and many other features still stubbornly resist testing.\nSo, perfect test coverage is a pipe dream, dependency changes are difficult to review or test manually, and the ease of modern code reuse has swelled a trickle of upgrades into a flood. We’re drowning. These 10 weird tricks\nTo recap, the current best practices seem to be: Pin all dependencies…unless you’re a library, then pin as little as possible. Don’t think too hard about the difference Write lots of tests Use a tool to generate upgrade PRs When you get one: If it’s a new major version, check the release notes for breaking changes. Otherwise, roll the dice, hope you feel lucky Update your code…maybe? Read the source diffs for the new ver…no you won’t, who am I kidding If your tests fail, find and fix the breakages Guess what to poke at manually Repeat until everything works Merge the upgrade Deploy early and often Monitor for breakages, fix them as soon as you (read: your users) notice\nUpgrade broke your app in production? Tough luck; debug it and fix it. Calver or other non-semver? You’re on your own. Interested in a new feature? Whoa there, we’re not actually trying to improve anything here, just keep our heads above water.\nMore importantly, remember those thousands of dependencies? Release schedules vary, but even if we conservatively assume just a few releases per year on average, add those up and you’re looking at a dozen dependency upgrades every business day. I recently pinned all dependencies and enabled weekly Dependabot PRs on a handful of side projects, and I now get 10-20 PRs in my inbox every Monday. Ugh.\nhttps://snarfed.org/org_charts_microsoft.png https://snarfed.org/org_charts_microsoft.png Manu Cornet\nApart from burying your head in the sand, are there any alternatives? Well…kind of. Many older big tech companies – Google, Microsoft, IBM, Apple – famously avoided external dependencies altogether. They used a few, like Linux and SQLite, but not many, and often vendored them into their internal codebases and treated them similarly to internal code. This is pejoratively referred to as NIH syndrome, for good reason, and it avoids the upgrade flood.\nNaturally, it also means that they develop more of their own code instead, which they then reuse across teams internally. Those teams eventually end up with the same problem: how to upgrade their internal dependencies. The difference is, as centralized organizations, they have more tools at their disposal to drive and manage those upgrades. They can enforce standardized versioning, upgrade codebases in bulk, monitor tests across projects, etc.\nFor the rest of us, this isn’t really feasible. A big company can afford to build everything in house when that house has tens of thousands of engineers, but most places don’t have that luxury. Reusing external code is a huge advantage, and when everyone does it, it’s also a competitive necessity.\nInterestingly, platforms like GitHub now have enough scale to play some of the same tricks. Dependabot compatibility scores are a clever example: count the repos with CI runs that passed or failed on a given upgrade, then include that fraction as a warning label on those upgrade PRs. This still feels like duct tape though; new and improved, maybe, but still fundamentally inadequate. This is water\nSo we’re drowning, and I don’t know what to do about it. People agree, but they seem surprisingly unconcerned. They have bigger problems, or they think Dependabot and friends will solve it, or they just can’t be bothered. Security people are sounding alarms about typosquatting and dependency confusion and supply chain security, but that’s a different conversation. The occasional Log4j cannonball blast now and then gets everyone’s attention, but our rickety little rowboats all have thousands of dependency pinholes, and we’re all slowly sinking.\nIf you’re staying afloat somehow, please let me know, I’d love to check out your boat. In the meantime, pardon me, I have a fresh batch of Dependabot PRs in my inbox, and they’re not going to review themselves.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "mention" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-19T22:10:56-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "HN Front Page" ],
+            "url" : [ "https://twitter.com/hn_frontpage" ]
+          },
+          "lang" : "en-US",
+          "value" : "HN Front Page"
+        } ]
+      },
+      "id" : "li-comment-2856954",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/HN Front Page October 19, 2022_We’re Drowning_L: snarfed.org/2022-03-10_wer…_C: news.ycombinator.com/item?id=332694…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-19T22:19:03-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Winson Tang" ],
+            "url" : [ "https://twitter.com/winsontang" ]
+          },
+          "lang" : "en-US",
+          "value" : "Winson Tang"
+        } ]
+      },
+      "id" : "li-comment-2856953",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Winson Tang October 19, 2022_We’re Drowning snarfed.org/2022-03-10_wer…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-19T22:20:03-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hacker News" ],
+            "url" : [ "https://twitter.com/HNTweets" ]
+          },
+          "lang" : "en-US",
+          "value" : "Hacker News"
+        } ]
+      },
+      "id" : "li-comment-2856956",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Hacker News October 19, 2022_We’re Drowning: snarfed.org/2022-03-10_wer… Comments: news.ycombinator.com/item?id=332694…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-19T22:29:11-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hacker News 20" ],
+            "url" : [ "https://twitter.com/betterhn20" ]
+          },
+          "lang" : "en-US",
+          "value" : "Hacker News 20"
+        } ]
+      },
+      "id" : "li-comment-2856955",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Hacker News 20 October 19, 2022_We’re Drowning snarfed.org/2022-03-10_wer… (news.ycombinator.com/item?id=332694…)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-20T01:48:24-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hacker News記事題日本語翻訳" ],
+            "url" : [ "https://twitter.com/hackernewsj" ]
+          },
+          "lang" : "en-US",
+          "value" : "Hacker News記事題日本語翻訳"
+        } ]
+      },
+      "id" : "li-comment-2856960",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Hacker News記事題日本語翻訳 October 20, 2022_私たちは溺れている snarfed.org/2022-03-10_wer…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-20T01:48:50-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hacker News 50" ],
+            "url" : [ "https://twitter.com/betterhn50" ]
+          },
+          "lang" : "en-US",
+          "value" : "Hacker News 50"
+        } ]
+      },
+      "id" : "li-comment-2856959",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Hacker News 50 October 20, 2022_We’re Drowning snarfed.org/2022-03-10_wer… (news.ycombinator.com/item?id=332694…)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-20T05:08:43-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "HackerNewsTop10" ],
+            "url" : [ "https://twitter.com/HackerNewsTop10" ]
+          },
+          "lang" : "en-US",
+          "value" : "HackerNewsTop10"
+        } ]
+      },
+      "id" : "li-comment-2856963",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/HackerNewsTop10 October 20, 2022_We’re Drowning_Link: snarfed.org/2022-03-10_wer…_Comments: news.ycombinator.com/item?id=332694…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-20T05:16:05-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "M157q News RSS" ],
+            "url" : [ "https://twitter.com/M157q_News_RSS" ]
+          },
+          "lang" : "en-US",
+          "value" : "M157q News RSS"
+        } ]
+      },
+      "id" : "li-comment-2856964",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/M157q News RSS October 20, 2022_We’re Drowning_snarfed.org/2022-03-10_wer…_Article URL: snarfed.org/2022-03-10_wer… Comments URL: news.ycombinator.com/item?id=332694… Points: 100 # Comments: 63"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-20T08:50:04-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Baldur Bjarnason" ],
+            "url" : [ "https://twitter.com/fakebaldur" ]
+          },
+          "lang" : "en-US",
+          "value" : "Baldur Bjarnason"
+        } ]
+      },
+      "id" : "li-comment-2856969",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Baldur Bjarnason October 20, 2022_“We’re drowning – snarfed.org” snarfed.org/2022-03-10_wer…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-20T12:11:01-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "else{}" ],
+            "url" : [ "https://twitter.com/leighelse" ]
+          },
+          "lang" : "en-US",
+          "value" : "else{}"
+        } ]
+      },
+      "id" : "li-comment-2856976",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/else{} October 20, 2022_When designing our web framework, we chose to strictly limit dependencies. A decade later, this strategy has proven its worth; we’ve dodged a continuing fusillade of bullets. snarfed.org/2022-03-10_wer…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-21T03:16:38-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hacker News 中文精选" ],
+            "url" : [ "https://twitter.com/HackerNewsZh" ]
+          },
+          "lang" : "en-US",
+          "value" : "Hacker News 中文精选"
+        } ]
+      },
+      "id" : "li-comment-2857040",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Hacker News 中文精选 October 21, 2022_我们正在淹没_We’re Drowning_👉 147 HN Points: news.ycombinator.com/item?id=332694…_原文地址: snarfed.org/2022-03-10_wer…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-21T06:00:05-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Pinboard Popular" ],
+            "url" : [ "https://twitter.com/pinboard_pop" ]
+          },
+          "lang" : "en-US",
+          "value" : "Pinboard Popular"
+        } ]
+      },
+      "id" : "li-comment-2857045",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Pinboard Popular October 21, 2022_We’re drowning | snarfed.org snarfed.org/2022-03-10_wer…"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-10-22T02:12:44-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Angsuman Chakraborty" ],
+            "url" : [ "https://twitter.com/angsuman" ]
+          },
+          "lang" : "en-US",
+          "value" : "Angsuman Chakraborty"
+        } ]
+      },
+      "id" : "li-comment-2857069",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Angsuman Chakraborty October 22, 2022_We’re Drowning snarfed.org/2022-03-10_wer…"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cj.w6k.ca/2022/04/05/3/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Christopher James \"Chris\" Willcock, MIEEE" ],
+            "url" : [ "https://cj.w6k.ca/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Christopher James \"Chris\" Willcock, MIEEE"
+        } ]
+      },
+      "id" : "comment-2841405",
+      "lang" : "en-US",
+      "value" : "https://cj.w6k.ca/2022/04/05/3/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mblaney.xyz/2022-03-12-httpssnarfedorg2022-03-10_were-drowning-softw" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Malcolm Blaney" ],
+            "url" : [ "https://mblaney.xyz" ]
+          },
+          "lang" : "en-US",
+          "value" : "Malcolm Blaney"
+        } ]
+      },
+      "id" : "comment-2837976",
+      "lang" : "en-US",
+      "value" : "https://mblaney.xyz/2022-03-12-httpssnarfedorg2022-03-10_were-drowning-softw"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://martymcgui.re/2022/03/11/082904/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marty McGuire" ],
+            "url" : [ "https://martymcgui.re/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Marty McGuire"
+        } ]
+      },
+      "id" : "comment-2837846",
+      "lang" : "en-US",
+      "value" : "https://martymcgui.re/2022/03/11/082904/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1501962144522276864#favorited-by-14620262" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sean Gillies" ],
+            "url" : [ "https://twitter.com/sgillies" ]
+          },
+          "lang" : "en-US",
+          "value" : "Sean Gillies"
+        } ]
+      },
+      "id" : "comment-2837773",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1501962144522276864#favorited-by-14620262"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1501962144522276864#favorited-by-1657915478" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Maxwell B. Joseph" ],
+            "url" : [ "https://twitter.com/mxwlj" ]
+          },
+          "lang" : "en-US",
+          "value" : "Maxwell B. Joseph"
+        } ]
+      },
+      "id" : "comment-2837763",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1501962144522276864#favorited-by-1657915478"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1501962144522276864#favorited-by-1835848723" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Falcon | Geekosaur 🍥" ],
+            "url" : [ "https://twitter.com/FalconSensei" ]
+          },
+          "lang" : "en-US",
+          "value" : "Falcon | Geekosaur 🍥"
+        } ]
+      },
+      "id" : "comment-2837755",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1501962144522276864#favorited-by-1835848723"
+    } ],
+    "bookmark" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://www.jvt.me/mf2/2022/10/anuef/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jamie Tanna" ],
+            "url" : [ "https://www.jvt.me" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jamie Tanna"
+        } ]
+      },
+      "id" : "comment-2857060",
+      "lang" : "en-US",
+      "value" : "https://www.jvt.me/mf2/2022/10/anuef/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://reddit.com/r/patient_hackernews/comments/y8uv01/were_drowning/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "PatientModBot" ],
+            "url" : [ "https://reddit.com/user/PatientModBot/" ]
+          },
+          "lang" : "en-US",
+          "value" : "PatientModBot"
+        } ]
+      },
+      "id" : "comment-2856971",
+      "lang" : "en-US",
+      "value" : "https://reddit.com/r/patient_hackernews/comments/y8uv01/were_drowning/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://reddit.com/r/hackernews/comments/y8u03x/were_drowning/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "qznc_bot2" ],
+            "url" : [ "https://reddit.com/user/qznc_bot2/" ]
+          },
+          "lang" : "en-US",
+          "value" : "qznc_bot2"
+        } ]
+      },
+      "id" : "comment-2856972",
+      "lang" : "en-US",
+      "value" : "https://reddit.com/r/hackernews/comments/y8u03x/were_drowning/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://reddit.com/r/hypeurls/comments/y8q4ye/were_drowning/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "TheStartupChime" ],
+            "url" : [ "https://reddit.com/user/TheStartupChime/" ]
+          },
+          "lang" : "en-US",
+          "value" : "TheStartupChime"
+        } ]
+      },
+      "id" : "comment-2856973",
+      "lang" : "en-US",
+      "value" : "https://reddit.com/r/hypeurls/comments/y8q4ye/were_drowning/"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/haxor/status/1502030231770599425" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Brett Slatkin" ],
+            "url" : [ "https://twitter.com/haxor" ]
+          },
+          "lang" : "en-US",
+          "value" : "Brett Slatkin"
+        } ]
+      },
+      "id" : "comment-2837772",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/haxor/status/1502030231770599425"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/FalconSensei/status/1501978217401356302" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Falcon | Geekosaur 🍥" ],
+            "url" : [ "https://twitter.com/FalconSensei" ]
+          },
+          "lang" : "en-US",
+          "value" : "Falcon | Geekosaur 🍥"
+        } ]
+      },
+      "id" : "comment-2837756",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/FalconSensei/status/1501978217401356302"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ]
+    },
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-03-20T09:25:20-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Ryan Barrett" ],
+          "url" : [ "https://snarfed.org/" ]
+        },
+        "lang" : "en-US",
+        "value" : "Ryan Barrett"
+      } ]
+    },
+    "id" : "li-comment-2839211",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-05-04T06:08:33-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Ryan Barrett" ],
+          "url" : [ "https://snarfed.org/" ]
+        },
+        "lang" : "en-US",
+        "value" : "Ryan Barrett"
+      } ]
+    },
+    "id" : "li-comment-2847681",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-05-12T15:29:11-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Ryan Barrett" ],
+          "url" : [ "https://snarfed.org/" ]
+        },
+        "lang" : "en-US",
+        "value" : "Ryan Barrett"
+      } ]
+    },
+    "id" : "li-comment-2848519",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-10-19T23:46:10-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Fazal Majid" ],
+          "url" : [ "https://majid.info/" ]
+        },
+        "lang" : "en-US",
+        "value" : "Fazal Majid"
+      } ]
+    },
+    "id" : "li-comment-2856957",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-10-20T06:32:18-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Krishna Vishnubhotla" ],
+          "url" : [ "http://zimperium.com" ]
+        },
+        "lang" : "en-US",
+        "value" : "Krishna Vishnubhotla"
+      } ]
+    },
+    "id" : "li-comment-2856965",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-10-20T08:28:32-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Anonymous" ]
+        },
+        "lang" : "en-US",
+        "value" : "Anonymous"
+      } ]
+    },
+    "id" : "li-comment-2856966",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-10-20T09:18:13-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Igel" ]
+        },
+        "lang" : "en-US",
+        "value" : "Igel"
+      } ]
+    },
+    "id" : "li-comment-2856967",
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "published" : [ "2022-10-21T00:33:18-07:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Wojtek Mandrysz" ],
+          "url" : [ "https:/wojtekmandrysz.com" ]
+        },
+        "lang" : "en-US",
+        "value" : "Wojtek Mandrysz"
+      } ]
+    },
+    "id" : "li-comment-2857035",
+    "lang" : "en-US"
+  } ]
+}
