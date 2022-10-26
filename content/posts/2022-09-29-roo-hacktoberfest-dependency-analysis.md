@@ -60,6 +60,8 @@ gh api "/orgs/deliveroo/repos?per_page=100&page=$f" | jq '.[].name' >> repos.txt
 
 This could've been improved with the GraphQL endpoint, but as it was a one-time operation, I decided to go for an inefficient route.
 
+Edit: [I've since found a much nicer way of querying this](https://www.jvt.me/posts/2022/10/26/list-github-repos-org/).
+
 #### Enabling dependency scanning across the org
 
 Now I had all the repositories listed, I needed to make sure that we had all repositories opted-in to dependency scanning. After finding the [GitHub docs to enable vulnerability alerts](https://docs.github.com/en/rest/repos/repos#enable-vulnerability-alerts), this was straightforward as we could script it easily, for instance:
