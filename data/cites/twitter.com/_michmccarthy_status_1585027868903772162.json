@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1584764977457397760" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michele McCarthy" ],
+        "nickname" : [ "michmccarthy" ],
+        "numeric-id" : [ "74749064" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/517056617888489472/XYMhZ281.jpeg" ],
+        "published" : [ "2009-09-16T14:54:02+00:00" ],
+        "uid" : [ "tag:twitter.com:michmccarthy" ],
+        "url" : [ "https://twitter.com/michmccarthy", "http://liveingreatness.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "To give people like you the benefit of the doubt.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1584764977457397760\">twitter.com/elonmusk/statu…</a>",
+      "value" : "To give people like you the benefit of the doubt."
+    } ],
+    "published" : [ "2022-10-25T21:57:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1585027868903772162" ],
+    "url" : [ "https://twitter.com/michmccarthy/status/1585027868903772162" ]
+  },
+  "type" : [ "h-entry" ]
+}
