@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jeremycorbyn/status/1585300125659734017" ],
     "name" : [ "Like of @jeremycorbyn's tweet" ],
     "published" : [ "2022-10-26T22:23:00+0100" ],
     "like-of" : [ "https://twitter.com/jeremycorbyn/status/1585300125659734017" ],
