@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beep/status/1585380766967820290" ],
     "name" : [ "Like of @beep's tweet" ],
     "published" : [ "2022-10-26T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/beep/status/1585380766967820290" ],
