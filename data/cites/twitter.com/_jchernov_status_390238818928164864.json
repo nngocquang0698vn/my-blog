@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cary, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Chernov" ],
+        "nickname" : [ "jchernov" ],
+        "numeric-id" : [ "19306636" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163467377306210304/n6FtZhOd.jpg" ],
+        "published" : [ "2009-01-21T20:41:49+00:00" ],
+        "uid" : [ "tag:twitter.com:jchernov" ],
+        "url" : [ "https://twitter.com/jchernov", "http://www.pendo.io", "http://Pendo.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The best time to call me is email." ],
+    "published" : [ "2013-10-15T22:12:39+00:00" ],
+    "uid" : [ "tag:twitter.com:390238818928164864" ],
+    "url" : [ "https://twitter.com/jchernov/status/390238818928164864" ]
+  },
+  "type" : [ "h-entry" ]
+}
