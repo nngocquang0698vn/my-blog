@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luke" ],
+        "nickname" : [ "_luke_warm" ],
+        "numeric-id" : [ "566492242" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323304647361220609/_ZkUzin5.jpg" ],
+        "published" : [ "2012-04-29T17:16:45+00:00" ],
+        "uid" : [ "tag:twitter.com:_luke_warm" ],
+        "url" : [ "https://twitter.com/_luke_warm", "http://github.com/ares42" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yeah well I heard that 100% of them said you’re totally wrong and lie 80 hours a week, so now what?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheNarrenschiff\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/io_aircraft_inc\"></a>",
+      "value" : "Yeah well I heard that 100% of them said you’re totally wrong and lie 80 hours a week, so now what?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/io_aircraft_inc/status/1585090227474812928" ],
+    "published" : [ "2022-10-26T04:57:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1585133474864058369" ],
+    "url" : [ "https://twitter.com/_luke_warm/status/1585133474864058369" ]
+  },
+  "type" : [ "h-entry" ]
+}
