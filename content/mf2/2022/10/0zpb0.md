@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JDAdamsAuthor/status/1584766276307943424" ],
     "name" : [ "Like of @JDAdamsAuthor's tweet" ],
     "published" : [ "2022-10-26T08:42:00+0100" ],
     "like-of" : [ "https://twitter.com/JDAdamsAuthor/status/1584766276307943424" ],
