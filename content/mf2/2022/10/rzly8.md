@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/atotalposer/status/1584961034145894406" ],
     "name" : [ "Like of @atotalposer's tweet" ],
     "published" : [ "2022-10-26T08:53:00+0100" ],
     "like-of" : [ "https://twitter.com/atotalposer/status/1584961034145894406" ],
