@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nashville, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Welch" ],
+        "nickname" : [ "kylewelch" ],
+        "numeric-id" : [ "25129226" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581131092287004672/oqIuz_iP.jpg" ],
+        "published" : [ "2009-03-18T19:01:44+00:00" ],
+        "uid" : [ "tag:twitter.com:kylewelch" ],
+        "url" : [ "https://twitter.com/kylewelch", "http://kwelch.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I am currently fighting the unnecessary urge to make something more complicated than it needs to be." ],
+    "published" : [ "2022-10-26T16:04:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1585301244687810561" ],
+    "url" : [ "https://twitter.com/kylewelch/status/1585301244687810561" ]
+  },
+  "type" : [ "h-entry" ]
+}
