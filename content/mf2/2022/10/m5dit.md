@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hot_doggin_jon/status/1585126562252591104" ],
     "name" : [ "Like of @hot_doggin_jon's tweet" ],
     "published" : [ "2022-10-26T07:50:00+0100" ],
     "like-of" : [ "https://twitter.com/hot_doggin_jon/status/1585126562252591104" ],
