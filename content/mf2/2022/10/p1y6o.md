@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Shelter/status/1580423083361329152" ],
     "name" : [ "Like of @Shelter's tweet" ],
     "published" : [ "2022-10-26T17:19:00+0100" ],
     "like-of" : [ "https://twitter.com/Shelter/status/1580423083361329152" ],
