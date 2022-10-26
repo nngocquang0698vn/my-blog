@@ -31,7 +31,10 @@
       "properties" : {
         "role" : [ "Security Architect" ],
         "name" : [ "Okta" ],
-        "photo" : [ "https://aaronparecki.com/images/okta.png" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/okta.png",
+          "alt" : ""
+        } ],
         "url" : [ "https://developer.okta.com/" ]
       },
       "value" : "Okta"
@@ -40,7 +43,10 @@
       "properties" : {
         "name" : [ "IndieWebCamp" ],
         "role" : [ "Founder" ],
-        "photo" : [ "https://aaronparecki.com/images/indiewebcamp.png" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/indiewebcamp.png",
+          "alt" : ""
+        } ],
         "url" : [ "https://indieweb.org/" ]
       },
       "value" : "IndieWebCamp"
@@ -49,7 +55,10 @@
       "properties" : {
         "name" : [ "OAuth WG" ],
         "role" : [ "Member" ],
-        "photo" : [ "https://aaronparecki.com/images/ietf.ico" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/ietf.ico",
+          "alt" : ""
+        } ],
         "url" : [ "https://oauth.net" ]
       },
       "value" : "OAuth WG"
