@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shelter" ],
+        "nickname" : [ "Shelter" ],
+        "numeric-id" : [ "3704391" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1397307979477786628/j021Vd41.jpg" ],
+        "published" : [ "2007-04-07T12:18:11+00:00" ],
+        "uid" : [ "tag:twitter.com:Shelter" ],
+        "url" : [ "https://twitter.com/Shelter", "https://england.shelter.org.uk/donate" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You could cancel your Netflix account or the government could <a href=\"https://twitter.com/search?q=%23MakeHousingMoreAffordable\">#MakeHousingMoreAffordable</a> – tell us what you'd prefer:",
+      "value" : "You could cancel your Netflix account or the government could #MakeHousingMoreAffordable – tell us what you'd prefer:"
+    } ],
+    "published" : [ "2022-10-13T05:00:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1580423083361329152" ],
+    "url" : [ "https://twitter.com/Shelter/status/1580423083361329152" ]
+  },
+  "type" : [ "h-entry" ]
+}
