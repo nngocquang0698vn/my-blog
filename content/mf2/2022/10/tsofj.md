@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/horseysurprise/status/1584815979481403392" ],
     "name" : [ "Like of @horseysurprise's tweet" ],
     "published" : [ "2022-10-26T08:43:00+0100" ],
     "like-of" : [ "https://twitter.com/horseysurprise/status/1584815979481403392" ],
