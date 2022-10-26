@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "São Paulo, Brasil" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ricardo Katz @ Kubecon NA" ],
+          "nickname" : [ "rpkatz" ],
+          "numeric-id" : [ "438650802" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1582742174713667584/4itCIuxt.jpg" ],
+          "published" : [ "2011-12-16T21:09:50+00:00" ],
+          "uid" : [ "tag:twitter.com:rpkatz" ],
+          "url" : [ "https://twitter.com/rpkatz", "http://www.rkatz.xyz" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Ok, just a warning for Kubecon folks. While leaving a pub we had to call 911 because someone got beaten and robbed in front of our pub by a group. Don’t walk alone after 8pm, call a Uber even if it is close and be careful with your belongings (leave computer in hotel if you can)" ],
+      "published" : [ "2022-10-25T03:36:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1584750647143866368" ],
+      "url" : [ "https://twitter.com/rpkatz/status/1584750647143866368" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matty Stratton" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1578236990390157316/RR5IrxSj.jpg" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "https://matty.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Additionally, do not wear your conference badge outside - it’s a signal that you’re not from here (and other reasons to target you)" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Detroit, MI" ],
+        "uid" : [ "tag:twitter.com:b463d3bd6064861b" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-10-25T13:26:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1584899159860969472" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1584899159860969472" ]
+  },
+  "type" : [ "h-entry" ]
+}
