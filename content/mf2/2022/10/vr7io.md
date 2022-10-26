@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sugaroverflow/status/1584927769917624322" ],
     "name" : [ "Like of @sugaroverflow's tweet" ],
     "published" : [ "2022-10-26T08:39:00+0100" ],
     "like-of" : [ "https://twitter.com/sugaroverflow/status/1584927769917624322" ],
