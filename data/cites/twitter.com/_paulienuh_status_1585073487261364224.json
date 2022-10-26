@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🌎 KubeCon Detroit" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gitpod 🍊KubeCon NA" ],
+          "nickname" : [ "gitpod" ],
+          "numeric-id" : [ "1014467107386511360" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1379769759026315266/0j7jzf4i.jpg" ],
+          "published" : [ "2018-07-04T11:13:01+00:00" ],
+          "uid" : [ "tag:twitter.com:gitpod" ],
+          "url" : [ "https://twitter.com/gitpod", "https://www.gitpod.io/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">It's almost <a href=\"https://twitter.com/KubeCon_\">@KubeCon_</a> NA 🎉 \n\nJoin Ernst Haagsman from <a href=\"https://twitter.com/jetbrains\">@jetbrains</a> at our booth (SU42) who will demo how the Gitpod x JetBrains integration works with a Java-based project as an example. 🍊\n\nFor more information on what we're up to at KubeCon 👉 <a href=\"https://www.gitpod.io/events/kubecon-detroit\">gitpod.io/events/kubecon…</a></div>",
+        "value" : "It's almost @KubeCon_ NA 🎉 \n\nJoin Ernst Haagsman from @jetbrains at our booth (SU42) who will demo how the Gitpod x JetBrains integration works with a Java-based project as an example. 🍊\n\nFor more information on what we're up to at KubeCon 👉 gitpod.io/events/kubecon…"
+      } ],
+      "photo" : [ {
+        "alt" : "JetBrains 🤝 Gitpod",
+        "value" : "https://pbs.twimg.com/media/FfmCdEMWYAAI8NW.jpg"
+      } ],
+      "published" : [ "2022-10-21T14:00:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1583458090309091328" ],
+      "url" : [ "https://twitter.com/gitpod/status/1583458090309091328" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇵🇭 in 🇬🇧 → 🎒🌎" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pauline ⭐️ @ KubeCon NA 🍊" ],
+        "nickname" : [ "paulienuh" ],
+        "numeric-id" : [ "230185453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1561675997518372864/egGY4XvD.jpg" ],
+        "published" : [ "2010-12-24T14:46:00+00:00" ],
+        "uid" : [ "tag:twitter.com:paulienuh" ],
+        "url" : [ "https://twitter.com/paulienuh", "https://pawlean.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Night out with Ernst from <a href=\"https://twitter.com/jetbrains\">@jetbrains</a>, getting ready for the demo at our <a href=\"https://twitter.com/gitpod\">@gitpod</a> booth tomorrow 🍻✨ <a href=\"https://twitter.com/search?q=%23kubeconNA\">#kubeconNA</a> <a href=\"https://twitter.com/CloudNativeFdn\">@CloudNativeFdn</a> ",
+      "value" : "Night out with Ernst from @jetbrains, getting ready for the demo at our @gitpod booth tomorrow 🍻✨ #kubeconNA @CloudNativeFdn "
+    } ],
+    "photo" : [ {
+      "alt" : "Dinner with Gitpodders and Ernst from JetBrains",
+      "value" : "https://pbs.twimg.com/media/Ff9P7PpWAAA40AO.jpg"
+    } ],
+    "published" : [ "2022-10-26T00:59:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1585073487261364224" ],
+    "url" : [ "https://twitter.com/paulienuh/status/1585073487261364224" ]
+  },
+  "type" : [ "h-entry" ]
+}
