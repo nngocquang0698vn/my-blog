@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/reduct_rs/status/1585084602212765696\">@reduct_rs</a> REPORT: Temporary Hack You Made to Get a Feature Out to Become Permanent Part of Codebase"
+    } ],
+    "published" : [ "2022-10-26T06:09:38+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "your compiler warnings" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "ReductRs" ],
+            "nickname" : [ "reduct_rs" ],
+            "numeric-id" : [ "1060299146546958337" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1060309100028784640/AoC1a04b.jpg" ],
+            "published" : [ "2018-11-07T22:33:10+00:00" ],
+            "uid" : [ "tag:twitter.com:reduct_rs" ],
+            "url" : [ "https://twitter.com/reduct_rs", "http://reduct.rs" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "REPORT: Temporary Hack You Made to Get a Feature Out to Become Permanent Part of Codebase" ],
+        "published" : [ "2022-10-26T01:43:13+00:00" ],
+        "uid" : [ "tag:twitter.com:1585084602212765696" ],
+        "url" : [ "https://twitter.com/reduct_rs/status/1585084602212765696" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1585151648124776449" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1585151648124776449" ]
+  },
+  "type" : [ "h-entry" ]
+}
