@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamilton, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wes Bos" ],
+        "nickname" : [ "wesbos" ],
+        "numeric-id" : [ "815246" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca.jpg" ],
+        "published" : [ "2007-03-06T16:10:09+00:00" ],
+        "uid" : [ "tag:twitter.com:wesbos" ],
+        "url" : [ "https://twitter.com/wesbos", "http://wesbos.com", "http://BeginnerJavaScript.com", "http://ReactForBeginners.com", "http://JavaScript30.com", "http://wesbos.com/courses" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "🔥 TypeScript's `never` is great for making sure you hit every scenario when coding an if/else or switch statement" ],
+    "published" : [ "2022-10-27T14:35:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1585641232155348992" ],
+    "url" : [ "https://twitter.com/wesbos/status/1585641232155348992" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1585640500169969669/pu/vid/720x1280/kThiPskV83U8Vv7n.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
