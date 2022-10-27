@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wesbos/status/1585641232155348992" ],
     "name" : [ "Like of @wesbos's tweet" ],
     "published" : [ "2022-10-27T22:31:00+0100" ],
     "category" : [ "typescript" ],
