@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oneunderscore__/status/1585454026098966529" ],
     "name" : [ "Like of @oneunderscore__'s tweet" ],
     "published" : [ "2022-10-27T09:49:00+0100" ],
     "like-of" : [ "https://twitter.com/oneunderscore__/status/1585454026098966529" ],
