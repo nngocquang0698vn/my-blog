@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fpsKabe/status/1585681330368647171" ],
     "name" : [ "Like of @fpsKabe's tweet" ],
     "published" : [ "2022-10-28T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/fpsKabe/status/1585681330368647171" ],
