@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "DC Metro Area" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "M.H. Williams" ],
+          "nickname" : [ "AutomaticZen" ],
+          "numeric-id" : [ "24989711" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/505387281792765953/RamQ_Obe.jpeg" ],
+          "published" : [ "2009-03-18T00:21:51+00:00" ],
+          "uid" : [ "tag:twitter.com:AutomaticZen" ],
+          "url" : [ "https://twitter.com/AutomaticZen", "http://automaticzen.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">My words on Meta's current problems, which happen when you have an expensive solution in search of a problem.\n\n<a href=\"https://www.patreon.com/posts/current-meta-is-73877380\">patreon.com/posts/current-…</a></div>",
+        "value" : "My words on Meta's current problems, which happen when you have an expensive solution in search of a problem.\n\npatreon.com/posts/current-…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FgIR9DrUYAAKkkR.jpg" ],
+      "published" : [ "2022-10-28T04:27:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1585850786793525248" ],
+      "url" : [ "https://twitter.com/AutomaticZen/status/1585850786793525248" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katelyn Gadd" ],
+        "nickname" : [ "antumbral" ],
+        "numeric-id" : [ "19837512" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469080882954735616/wGJLM-fi.png" ],
+        "published" : [ "2009-01-31T23:30:23+00:00" ],
+        "uid" : [ "tag:twitter.com:antumbral" ],
+        "url" : [ "https://twitter.com/antumbral", "http://luminance.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How is Meta's VR division - not the entire company, but one division - losing a billon dollars a month? Staggering expenses for a division that theoretically has been selling products for money for years" ],
+    "published" : [ "2022-10-28T04:36:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1585852880204238850" ],
+    "url" : [ "https://twitter.com/antumbral/status/1585852880204238850" ]
+  },
+  "type" : [ "h-entry" ]
+}
