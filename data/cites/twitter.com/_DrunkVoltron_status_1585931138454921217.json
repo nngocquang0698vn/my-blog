@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/unusual_whales…" ],
+        "url" : [ "https://twitter.com/unusual_whales/status/1585854401532526594" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Edward Snowden" ],
+          "nickname" : [ "Snowden" ],
+          "numeric-id" : [ "2916305152" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj.jpg" ],
+          "published" : [ "2014-12-11T21:24:28+00:00" ],
+          "uid" : [ "tag:twitter.com:Snowden" ],
+          "url" : [ "https://twitter.com/Snowden", "https://edwardsnowden.substack.com", "https://us.macmillan.com/books/9781250237231/permanentrecord" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">This is going to cause controversy, but platform censorship had clearly gone too far. Content moderation should be an individual decision, not a corporate prison. \n\nLet people make their own choices—and not just on Twitter.</div>\n<a class=\"tag\" href=\"https://twitter.com/unusual_whales/status/1585854401532526594\">twitter.com/unusual_whales…</a>",
+        "value" : "This is going to cause controversy, but platform censorship had clearly gone too far. Content moderation should be an individual decision, not a corporate prison. \n\nLet people make their own choices—and not just on Twitter."
+      } ],
+      "published" : [ "2022-10-28T09:44:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1585930606885494786" ],
+      "url" : [ "https://twitter.com/Snowden/status/1585930606885494786" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Jon B" ],
+        "nickname" : [ "DrunkVoltron" ],
+        "numeric-id" : [ "22595916" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1075018885953449984/hyRZncEf.jpg" ],
+        "published" : [ "2009-03-03T06:48:37+00:00" ],
+        "uid" : [ "tag:twitter.com:DrunkVoltron" ],
+        "url" : [ "https://twitter.com/DrunkVoltron" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"> yep! giga-racists and horrendous harassment parties make Twtter great! \n\nan individual cannot block hundreds or thousands of people. \n\nno site should just bulldoze you with hate speech and go \"aww you dont like this? sowwy go cry about it\"</div>",
+      "value" : " yep! giga-racists and horrendous harassment parties make Twtter great! \n\nan individual cannot block hundreds or thousands of people. \n\nno site should just bulldoze you with hate speech and go \"aww you dont like this? sowwy go cry about it\""
+    } ],
+    "published" : [ "2022-10-28T09:47:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1585931138454921217" ],
+    "url" : [ "https://twitter.com/DrunkVoltron/status/1585931138454921217" ]
+  },
+  "type" : [ "h-entry" ]
+}
