@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Stuttgart, Germany" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matthias Ott—bring back @mmatuzo" ],
+          "nickname" : [ "m_ott" ],
+          "numeric-id" : [ "58448784" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1343102302358536192/xdtCGwSB.jpg" ],
+          "published" : [ "2009-07-20T11:18:01+00:00" ],
+          "uid" : [ "tag:twitter.com:m_ott" ],
+          "url" : [ "https://twitter.com/m_ott", "https://matthiasott.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Wow, <a href=\"https://twitter.com/mmatuzo\">@mmatuzo</a> is now suspended? 🤯\n\nManuel is a well-respected member of the web community, accessibility advocate, and international conference speaker. Please look into this, <a href=\"https://twitter.com/TwitterSupport\">@TwitterSupport</a> – there really must be an error here!</div>",
+        "value" : "Wow, @mmatuzo is now suspended? 🤯\n\nManuel is a well-respected member of the web community, accessibility advocate, and international conference speaker. Please look into this, @TwitterSupport – there really must be an error here!"
+      } ],
+      "photo" : [ {
+        "alt" : "Screenshot of suspended account",
+        "value" : "https://pbs.twimg.com/media/Ff3Ng7yXkAEhhBc.jpg"
+      } ],
+      "published" : [ "2022-10-24T20:50:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1584648614282133504" ],
+      "url" : [ "https://twitter.com/m_ott/status/1584648614282133504" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stuttgart, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthias Ott—bring back @mmatuzo" ],
+        "nickname" : [ "m_ott" ],
+        "numeric-id" : [ "58448784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343102302358536192/xdtCGwSB.jpg" ],
+        "published" : [ "2009-07-20T11:18:01+00:00" ],
+        "uid" : [ "tag:twitter.com:m_ott" ],
+        "url" : [ "https://twitter.com/m_ott", "https://matthiasott.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey <a href=\"https://twitter.com/TwitterSupport\">@TwitterSupport</a>! Now that “the bird is free”, could you please also free <a href=\"https://twitter.com/mmatuzo\">@mmatuzo</a>? He’s not a spammer nor a troll. He is a much-needed voice of change in the Web community who creates important work – and you deplatformed him for no reason! That’s just not cool. 😒",
+      "value" : "Hey @TwitterSupport! Now that “the bird is free”, could you please also free @mmatuzo? He’s not a spammer nor a troll. He is a much-needed voice of change in the Web community who creates important work – and you deplatformed him for no reason! That’s just not cool. 😒"
+    } ],
+    "published" : [ "2022-10-28T06:55:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1585887889748918274" ],
+    "url" : [ "https://twitter.com/m_ott/status/1585887889748918274" ]
+  },
+  "type" : [ "h-entry" ]
+}
