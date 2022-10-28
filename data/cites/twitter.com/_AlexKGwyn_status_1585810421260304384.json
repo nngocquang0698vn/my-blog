@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manhattan, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Gwyn" ],
+        "nickname" : [ "AlexKGwyn" ],
+        "numeric-id" : [ "245577010" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1198890355959033857/JgMLB0m5.jpg" ],
+        "published" : [ "2011-02-01T00:44:28+00:00" ],
+        "uid" : [ "tag:twitter.com:AlexKGwyn" ],
+        "url" : [ "https://twitter.com/AlexKGwyn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My favorite part about working at Twitter is hearing news about Twitter on Twitter" ],
+    "published" : [ "2022-10-28T01:47:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1585810421260304384" ],
+    "url" : [ "https://twitter.com/AlexKGwyn/status/1585810421260304384" ]
+  },
+  "type" : [ "h-entry" ]
+}
