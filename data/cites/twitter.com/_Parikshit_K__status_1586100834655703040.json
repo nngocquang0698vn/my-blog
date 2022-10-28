@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "yoni rechtman" ],
+          "nickname" : [ "yrechtman" ],
+          "numeric-id" : [ "3393185261" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1440892013956771840/HLeYukyw.jpg" ],
+          "published" : [ "2015-07-29T03:55:05+00:00" ],
+          "uid" : [ "tag:twitter.com:yrechtman" ],
+          "url" : [ "https://twitter.com/yrechtman", "http://derisible.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Friends inside Twitter tell me that Ruhal Ligma’s boss, Dinesh Sukondeez has also been laid off and is walking out of the building now. <a href=\"https://twitter.com/search?q=%23TwitterTakeover\">#TwitterTakeover</a>",
+        "value" : "Friends inside Twitter tell me that Ruhal Ligma’s boss, Dinesh Sukondeez has also been laid off and is walking out of the building now. #TwitterTakeover"
+      } ],
+      "published" : [ "2022-10-28T18:22:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1586060932404629504" ],
+      "url" : [ "https://twitter.com/yrechtman/status/1586060932404629504" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Reactor 4, Chernobyl" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rm -rf *" ],
+        "nickname" : [ "Parikshit_K_" ],
+        "numeric-id" : [ "1371778526353887236" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581395796049924097/aAfuSpa9.jpg" ],
+        "published" : [ "2021-03-16T11:01:13+00:00" ],
+        "uid" : [ "tag:twitter.com:Parikshit_K_" ],
+        "url" : [ "https://twitter.com/Parikshit_K_" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My friends who are great backend and data engineers have been asked to leave Twitter.\n\nPlease reach out to \nDinesh Sukondeez, \nRahul Ligma, \nSaq Madiq, \nMike Rotchburns\n\nFor any Backend/Data engineering openings</div>",
+      "value" : "My friends who are great backend and data engineers have been asked to leave Twitter.\n\nPlease reach out to \nDinesh Sukondeez, \nRahul Ligma, \nSaq Madiq, \nMike Rotchburns\n\nFor any Backend/Data engineering openings"
+    } ],
+    "published" : [ "2022-10-28T21:01:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1586100834655703040" ],
+    "url" : [ "https://twitter.com/Parikshit_K_/status/1586100834655703040" ]
+  },
+  "type" : [ "h-entry" ]
+}
