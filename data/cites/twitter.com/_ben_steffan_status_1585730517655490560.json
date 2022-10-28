@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bonn, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben" ],
+        "nickname" : [ "ben_steffan" ],
+        "numeric-id" : [ "1484952937583546375" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570158218764075008/UTR3JVxI.jpg" ],
+        "published" : [ "2022-01-22T18:16:05+00:00" ],
+        "uid" : [ "tag:twitter.com:ben_steffan" ],
+        "url" : [ "https://twitter.com/ben_steffan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "🎶 there exists a house which is an element of New Orleans 🎶\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hayden_wlog\"></a>",
+      "value" : "🎶 there exists a house which is an element of New Orleans 🎶"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hayden_wlog/status/1585729551971164160" ],
+    "published" : [ "2022-10-27T20:29:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1585730517655490560" ],
+    "url" : [ "https://twitter.com/ben_steffan/status/1585730517655490560" ]
+  },
+  "type" : [ "h-entry" ]
+}
