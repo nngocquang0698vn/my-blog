@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tszzl/status/1586073290606460928" ],
     "name" : [ "Like of @tszzl's tweet" ],
     "published" : [ "2022-10-28T22:27:00+0100" ],
     "like-of" : [ "https://twitter.com/tszzl/status/1586073290606460928" ],
