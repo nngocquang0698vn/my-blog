@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ben_steffan/status/1585730517655490560" ],
     "name" : [ "Like of @ben_steffan's tweet" ],
     "published" : [ "2022-10-28T08:12:00+0100" ],
     "like-of" : [ "https://twitter.com/ben_steffan/status/1585730517655490560" ],
