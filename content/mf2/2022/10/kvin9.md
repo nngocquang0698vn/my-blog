@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/toshihue/status/1585867753419784200" ],
     "name" : [ "Like of @toshihue's tweet" ],
     "published" : [ "2022-10-28T09:35:00+0100" ],
     "like-of" : [ "https://twitter.com/toshihue/status/1585867753419784200" ],
