@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "ye" ],
+          "nickname" : [ "kanyewest" ],
+          "numeric-id" : [ "169686021" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v.jpg" ],
+          "published" : [ "2010-07-22T23:00:05+00:00" ],
+          "uid" : [ "tag:twitter.com:kanyewest" ],
+          "url" : [ "https://twitter.com/kanyewest", "http://KANYEWEST.COM" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I will never make a diss record" ],
+      "published" : [ "2018-12-14T03:46:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1073424000431329280" ],
+      "url" : [ "https://twitter.com/kanyewest/status/1073424000431329280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Arbroath, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Miri Hexeira 👻🎃🍄" ],
+        "nickname" : [ "AllegedlyMiri" ],
+        "numeric-id" : [ "3325477085" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565634754359304193/rbGdYyyE.jpg" ],
+        "published" : [ "2015-06-14T20:09:04+00:00" ],
+        "uid" : [ "tag:twitter.com:AllegedlyMiri" ],
+        "url" : [ "https://twitter.com/AllegedlyMiri", "https://ko-fi.com/allegedlymiri" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I didn’t know Kanye was Italian" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Stirling, Scotland" ],
+        "uid" : [ "tag:twitter.com:0a1ececfe96235a0" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2021-01-13T02:43:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1349185276543971330" ],
+    "url" : [ "https://twitter.com/AllegedlyMiri/status/1349185276543971330" ]
+  },
+  "type" : [ "h-entry" ]
+}
