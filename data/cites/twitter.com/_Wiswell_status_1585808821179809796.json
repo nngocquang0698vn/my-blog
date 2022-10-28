@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "www.patreon.com/Wiswell" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Wiswell" ],
+        "nickname" : [ "Wiswell" ],
+        "numeric-id" : [ "50343317" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/865790608354496512/w_wCpcnA.jpg" ],
+        "published" : [ "2009-06-24T15:55:27+00:00" ],
+        "uid" : [ "tag:twitter.com:Wiswell" ],
+        "url" : [ "https://twitter.com/Wiswell", "https://johnwiswell.substack.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "A Daily Planet newspaper with the headline LEX LUTHOR BUYS DAILY PLANET",
+      "value" : "https://pbs.twimg.com/media/FgHstccWAAAHiUJ.png"
+    } ],
+    "published" : [ "2022-10-28T01:41:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1585808821179809796" ],
+    "url" : [ "https://twitter.com/Wiswell/status/1585808821179809796" ]
+  },
+  "type" : [ "h-entry" ]
+}
