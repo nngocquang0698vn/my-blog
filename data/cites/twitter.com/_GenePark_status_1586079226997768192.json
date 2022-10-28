@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gene Park" ],
+        "nickname" : [ "GenePark" ],
+        "numeric-id" : [ "15100219" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1451377689269620736/KBRlXrSl.jpg" ],
+        "published" : [ "2008-06-12T19:35:25+00:00" ],
+        "uid" : [ "tag:twitter.com:GenePark" ],
+        "url" : [ "https://twitter.com/GenePark", "https://www.washingtonpost.com/people/gene-park/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "we are all Rahul Ligma" ],
+    "published" : [ "2022-10-28T19:35:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1586079226997768192" ],
+    "url" : [ "https://twitter.com/GenePark/status/1586079226997768192" ]
+  },
+  "type" : [ "h-entry" ]
+}
