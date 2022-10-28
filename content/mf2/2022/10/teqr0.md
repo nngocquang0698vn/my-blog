@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimmyKimmelLive/status/1585853098345394177" ],
     "name" : [ "Like of @JimmyKimmelLive's tweet" ],
     "published" : [ "2022-10-28T22:51:00+0100" ],
     "like-of" : [ "https://twitter.com/JimmyKimmelLive/status/1585853098345394177" ],
