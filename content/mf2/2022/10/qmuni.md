@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dimensionmedia/status/1586050996379308032" ],
     "name" : [ "Like of @dimensionmedia's tweet" ],
     "published" : [ "2022-10-28T20:47:00+0100" ],
     "like-of" : [ "https://twitter.com/dimensionmedia/status/1586050996379308032" ],
