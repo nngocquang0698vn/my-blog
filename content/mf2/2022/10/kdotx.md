@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unusual_whales/status/1586066570459361280" ],
     "name" : [ "Like of @unusual_whales's tweet" ],
     "published" : [ "2022-10-28T22:38:00+0100" ],
     "like-of" : [ "https://twitter.com/unusual_whales/status/1586066570459361280" ],
