@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ben_rosen/status/1585814989683642368" ],
     "name" : [ "Like of @ben_rosen's tweet" ],
     "published" : [ "2022-10-28T22:29:00+0100" ],
     "like-of" : [ "https://twitter.com/ben_rosen/status/1585814989683642368" ],
