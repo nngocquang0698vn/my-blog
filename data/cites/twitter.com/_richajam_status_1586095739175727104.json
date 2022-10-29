@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Richardson" ],
+        "nickname" : [ "richajam" ],
+        "numeric-id" : [ "138523375" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573968689/chicken-crop.jpg" ],
+        "published" : [ "2010-04-29T20:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:richajam" ],
+        "url" : [ "https://twitter.com/richajam" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I love what you did with the colours, but the message gets watered down with the (probably) illegal in the EU cookies overlay, and the grifty timed subscribe popup.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stuartsemple\"></a>",
+      "value" : "I love what you did with the colours, but the message gets watered down with the (probably) illegal in the EU cookies overlay, and the grifty timed subscribe popup."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/stuartsemple/status/1586088201328156672" ],
+    "published" : [ "2022-10-28T20:41:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1586095739175727104" ],
+    "url" : [ "https://twitter.com/richajam/status/1586095739175727104" ]
+  },
+  "type" : [ "h-entry" ]
+}
