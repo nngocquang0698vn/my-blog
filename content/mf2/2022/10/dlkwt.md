@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/0xAmit/status/1585839790712160257" ],
     "name" : [ "Like of @0xAmit's tweet" ],
     "published" : [ "2022-10-29T08:15:00+0100" ],
     "like-of" : [ "https://twitter.com/0xAmit/status/1585839790712160257" ],
