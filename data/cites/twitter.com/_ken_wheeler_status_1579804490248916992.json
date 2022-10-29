@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Jersey Shore" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "lil uzi perf" ],
+        "nickname" : [ "ken_wheeler" ],
+        "numeric-id" : [ "167193309" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1584343135076892683/3ngvuzH_.jpg" ],
+        "published" : [ "2010-07-16T00:05:38+00:00" ],
+        "uid" : [ "tag:twitter.com:ken_wheeler" ],
+        "url" : [ "https://twitter.com/ken_wheeler", "https://linktr.ee/kenwheelerbeats", "http://twitch.tv/thekenwheeler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tech influencers out here with 200k followers and their GitHub is a barely started 100 days of code and a create react app scaffold" ],
+    "published" : [ "2022-10-11T12:01:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1579804490248916992" ],
+    "url" : [ "https://twitter.com/ken_wheeler/status/1579804490248916992" ]
+  },
+  "type" : [ "h-entry" ]
+}
