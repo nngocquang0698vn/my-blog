@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beWORKKK/status/1586277961724219392" ],
     "name" : [ "Like of @beWORKKK's tweet" ],
     "published" : [ "2022-10-29T22:51:00+0100" ],
     "like-of" : [ "https://twitter.com/beWORKKK/status/1586277961724219392" ],
