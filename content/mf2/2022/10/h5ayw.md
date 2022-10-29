@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/James_S_Goral/status/1586369514417008640" ],
     "name" : [ "Like of @James_S_Goral's tweet" ],
     "published" : [ "2022-10-29T16:24:00+0100" ],
     "like-of" : [ "https://twitter.com/James_S_Goral/status/1586369514417008640" ],
