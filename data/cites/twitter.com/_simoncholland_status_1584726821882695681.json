@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Holland" ],
+        "nickname" : [ "simoncholland" ],
+        "numeric-id" : [ "2794563996" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455862379665895427/7c1Uulls.jpg" ],
+        "published" : [ "2014-09-06T19:28:31+00:00" ],
+        "uid" : [ "tag:twitter.com:simoncholland" ],
+        "url" : [ "https://twitter.com/simoncholland", "https://teespring.com/stores/rival-dad-store" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I should put a bowl of this Halloween candy in my office in case anyone wants some.\n\n-Me, working from home. Alone.</div>",
+      "value" : "I should put a bowl of this Halloween candy in my office in case anyone wants some.\n\n-Me, working from home. Alone."
+    } ],
+    "published" : [ "2022-10-25T02:01:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1584726821882695681" ],
+    "url" : [ "https://twitter.com/simoncholland/status/1584726821882695681" ]
+  },
+  "type" : [ "h-entry" ]
+}
