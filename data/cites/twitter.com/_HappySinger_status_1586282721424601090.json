@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Darug country" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dave The Happy Singer" ],
+        "nickname" : [ "HappySinger" ],
+        "numeric-id" : [ "17887403" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344541045007077376/0oVPQ7Ms.jpg" ],
+        "published" : [ "2008-12-05T02:27:47+00:00" ],
+        "uid" : [ "tag:twitter.com:HappySinger" ],
+        "url" : [ "https://twitter.com/HappySinger", "https://www.lyleshelton.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Keeping up with the Kardashians is exhausting tbh." ],
+    "photo" : [ "https://pbs.twimg.com/media/FgObunMakAAJ7kL.jpg" ],
+    "published" : [ "2022-10-29T09:04:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1586282721424601090" ],
+    "url" : [ "https://twitter.com/HappySinger/status/1586282721424601090" ]
+  },
+  "type" : [ "h-entry" ]
+}
