@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/richajam/status/1586095739175727104" ],
     "name" : [ "Like of @richajam's tweet" ],
     "published" : [ "2022-10-29T10:23:00+0100" ],
     "like-of" : [ "https://twitter.com/richajam/status/1586095739175727104" ],
