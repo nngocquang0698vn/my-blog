@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mostly Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "G. Willow Wilson" ],
+        "nickname" : [ "GWillowWilson" ],
+        "numeric-id" : [ "32652567" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1485860363501408256/xsToGkoo.jpg" ],
+        "published" : [ "2009-04-17T23:17:55+00:00" ],
+        "uid" : [ "tag:twitter.com:GWillowWilson" ],
+        "url" : [ "https://twitter.com/GWillowWilson", "http://bookshop.org/shop/gww" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is it. This is the one." ],
+    "photo" : [ "https://pbs.twimg.com/media/FgMSGWCUoAEyzm1.jpg" ],
+    "published" : [ "2022-10-28T23:02:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1586131424842637314" ],
+    "url" : [ "https://twitter.com/GWillowWilson/status/1586131424842637314" ]
+  },
+  "type" : [ "h-entry" ]
+}
