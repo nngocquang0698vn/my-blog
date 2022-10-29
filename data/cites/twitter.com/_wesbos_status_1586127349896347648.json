@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamilton, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wes Bos" ],
+        "nickname" : [ "wesbos" ],
+        "numeric-id" : [ "815246" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca.jpg" ],
+        "published" : [ "2007-03-06T16:10:09+00:00" ],
+        "uid" : [ "tag:twitter.com:wesbos" ],
+        "url" : [ "https://twitter.com/wesbos", "http://wesbos.com", "http://BeginnerJavaScript.com", "http://ReactForBeginners.com", "http://JavaScript30.com", "http://wesbos.com/courses" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "There are two live-streaming engines in the app. Hardly a json parser\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Nikolo_z\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jbrancha\"></a>",
+      "value" : "There are two live-streaming engines in the app. Hardly a json parser"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Nikolo_z/status/1586126788740075521" ],
+    "published" : [ "2022-10-28T22:46:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1586127349896347648" ],
+    "url" : [ "https://twitter.com/wesbos/status/1586127349896347648" ]
+  },
+  "type" : [ "h-entry" ]
+}
