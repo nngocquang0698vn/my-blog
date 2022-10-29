@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This bothered me in later life as El Nombre literally translates to “the name”. He should’ve been called El Número.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JoeHart\"></a>",
+      "value" : "This bothered me in later life as El Nombre literally translates to “the name”. He should’ve been called El Número."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1586311291890647040" ],
+    "published" : [ "2022-10-29T10:58:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1586311592760659968" ],
+    "url" : [ "https://twitter.com/type__error/status/1586311592760659968" ]
+  },
+  "type" : [ "h-entry" ]
+}
