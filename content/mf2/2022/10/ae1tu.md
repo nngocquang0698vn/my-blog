@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/73RDARM/status/1586113359065538560" ],
     "name" : [ "Like of @73RDARM's tweet" ],
     "published" : [ "2022-10-29T12:41:00+0100" ],
     "like-of" : [ "https://twitter.com/73RDARM/status/1586113359065538560" ],
