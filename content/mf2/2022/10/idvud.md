@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/60degree/status/1586369865190936579" ],
     "name" : [ "Like of @60degree's tweet" ],
     "published" : [ "2022-10-29T16:27:00+0100" ],
     "like-of" : [ "https://twitter.com/60degree/status/1586369865190936579" ],
