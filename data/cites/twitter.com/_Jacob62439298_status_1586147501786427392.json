@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/they" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jacob" ],
+        "nickname" : [ "Jacob62439298" ],
+        "numeric-id" : [ "1378284420323479552" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378288394216804352/xLJCQJIS.jpg" ],
+        "published" : [ "2021-04-03T09:53:29+00:00" ],
+        "uid" : [ "tag:twitter.com:Jacob62439298" ],
+        "url" : [ "https://twitter.com/Jacob62439298" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It can be called whatever you want, buddy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Iggy_Lakic\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wesbos\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/yjliang_my\"></a>",
+      "value" : "It can be called whatever you want, buddy"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/yjliang_my/status/1586122908346511360" ],
+    "published" : [ "2022-10-29T00:06:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1586147501786427392" ],
+    "url" : [ "https://twitter.com/Jacob62439298/status/1586147501786427392" ]
+  },
+  "type" : [ "h-entry" ]
+}
