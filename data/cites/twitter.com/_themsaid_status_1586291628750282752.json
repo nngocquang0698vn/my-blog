@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dubai" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mohamed Said" ],
+        "nickname" : [ "themsaid" ],
+        "numeric-id" : [ "261648371" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1528620344055037955/oJY73Gp9.jpg" ],
+        "published" : [ "2011-03-06T11:34:45+00:00" ],
+        "uid" : [ "tag:twitter.com:themsaid" ],
+        "url" : [ "https://twitter.com/themsaid", "http://youtube.com/themsaid", "http://learn-laravel-queues.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">For the past week, I've been going crazy rebuilding a *better* version of an AWS service. Something that I had in mind for over 2 years.\n\nIf it works, I'll open source it. If not, I had a lot of fun.\n\nThe ability to build is magic, and the freedom to build is a bless.</div>",
+      "value" : "For the past week, I've been going crazy rebuilding a *better* version of an AWS service. Something that I had in mind for over 2 years.\n\nIf it works, I'll open source it. If not, I had a lot of fun.\n\nThe ability to build is magic, and the freedom to build is a bless."
+    } ],
+    "published" : [ "2022-10-29T09:39:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1586291628750282752" ],
+    "url" : [ "https://twitter.com/themsaid/status/1586291628750282752" ]
+  },
+  "type" : [ "h-entry" ]
+}
