@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/breaking2morrow/status/1586246596697935872" ],
     "name" : [ "Like of @breaking2morrow's tweet" ],
     "published" : [ "2022-10-29T09:26:00+0100" ],
     "like-of" : [ "https://twitter.com/breaking2morrow/status/1586246596697935872" ],
