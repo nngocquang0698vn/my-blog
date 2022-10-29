@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Leah Culver" ],
+        "nickname" : [ "leahculver" ],
+        "numeric-id" : [ "662433" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1536710267525967875/-lVSmGxI.jpg" ],
+        "published" : [ "2007-01-19T00:07:47+00:00" ],
+        "uid" : [ "tag:twitter.com:leahculver" ],
+        "url" : [ "https://twitter.com/leahculver", "http://leahculver.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Happy Friday all." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Twitter HQ" ],
+        "uid" : [ "tag:twitter.com:07d9cd6afd884001" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Me with sheets of printed code",
+      "value" : "https://pbs.twimg.com/media/FgMfGhvUAAEc733.jpg"
+    } ],
+    "published" : [ "2022-10-28T23:59:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1586145696163373056" ],
+    "url" : [ "https://twitter.com/leahculver/status/1586145696163373056" ]
+  },
+  "type" : [ "h-entry" ]
+}
