@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Sheffield" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Eddie Izzard for Sheffield Central" ],
+          "nickname" : [ "EddieIzzardLab" ],
+          "numeric-id" : [ "1578010796784848897" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1579394688355819524/G5LlQir2.jpg" ],
+          "published" : [ "2022-10-06T13:14:39+00:00" ],
+          "uid" : [ "tag:twitter.com:EddieIzzardLab" ],
+          "url" : [ "https://twitter.com/EddieIzzardLab", "https://www.eddieizzard.uk/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "In solidarity:" ],
+      "photo" : [ "https://pbs.twimg.com/media/Ff_wJsYXoAAVcIQ.jpg" ],
+      "published" : [ "2022-10-26T12:39:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1585249647450542080" ],
+      "url" : [ "https://twitter.com/EddieIzzardLab/status/1585249647450542080" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/eddieizzardlab…" ],
+      "url" : [ "https://twitter.com/eddieizzardlab/status/1585249647450542080" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lucy Powell MP" ],
+        "nickname" : [ "LucyMPowell" ],
+        "numeric-id" : [ "32439211" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1531674625595392001/v0_-dAZE.jpg" ],
+        "published" : [ "2009-04-17T15:09:39+00:00" ],
+        "uid" : [ "tag:twitter.com:LucyMPowell" ],
+        "url" : [ "https://twitter.com/LucyMPowell", "http://www.lucypowell.org.uk", "http://facebook.com/lucy4mcr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’ve been friends with Eddie for many years and the unprovoked attacks on her are unacceptable. Eddie is standing as a candidate after more than a decade of activism &amp; campaigning for Labour. The shaming needs to stop.\n<a class=\"tag\" href=\"https://twitter.com/eddieizzardlab/status/1585249647450542080\">twitter.com/eddieizzardlab…</a>",
+      "value" : "I’ve been friends with Eddie for many years and the unprovoked attacks on her are unacceptable. Eddie is standing as a candidate after more than a decade of activism & campaigning for Labour. The shaming needs to stop."
+    } ],
+    "published" : [ "2022-10-28T11:24:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1585955683492503552" ],
+    "url" : [ "https://twitter.com/LucyMPowell/status/1585955683492503552" ]
+  },
+  "type" : [ "h-entry" ]
+}
