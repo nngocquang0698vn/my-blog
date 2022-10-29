@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pacific Time Zone" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tantek" ],
+        "nickname" : [ "t" ],
+        "numeric-id" : [ "11628" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH.jpeg" ],
+        "published" : [ "2006-11-07T02:26:19+00:00" ],
+        "uid" : [ "tag:twitter.com:t" ],
+        "url" : [ "https://twitter.com/t", "https://tantek.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23TwitterMigration\">#TwitterMigration</a>, first time?\n\nHave posted notes to <a href=\"https://tantek.com/\">tantek.com</a> since 2010, POSSEd tweets &amp; <a href=\"https://twitter.com/search?q=%23AtomFeed\">#AtomFeed</a>.\n\nAdded one .htaccess line today, and thanks to <a href=\"https://twitter.com/search?q=%23BridgyFed\">#BridgyFed</a>, <a href=\"https://twitter.com/search?q=%23Mastodon\">#Mastodon</a> users can follow my <a href=\"https://twitter.com/search?q=%23IndieWeb\">#IndieWeb</a> site\n\n<a href=\"https://twitter.com/tantek\">@tantek</a>.com@tantek.com ...\r<a href=\"https://tantek.com/t5MZ1\">tantek.com/t5MZ1</a></div>",
+      "value" : "#TwitterMigration, first time?\n\nHave posted notes to tantek.com since 2010, POSSEd tweets & #AtomFeed.\n\nAdded one .htaccess line today, and thanks to #BridgyFed, #Mastodon users can follow my #IndieWeb site\n\n@tantek.com@tantek.com ...\rtantek.com/t5MZ1"
+    } ],
+    "published" : [ "2022-10-29T07:51:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1586264352453427201" ],
+    "url" : [ "https://twitter.com/t/status/1586264352453427201" ]
+  },
+  "type" : [ "h-entry" ]
+}
