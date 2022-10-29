@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/whotfisjovana/status/1586147380130238464" ],
     "name" : [ "Like of @whotfisjovana's tweet" ],
     "published" : [ "2022-10-29T22:50:00+0100" ],
     "like-of" : [ "https://twitter.com/whotfisjovana/status/1586147380130238464" ],
