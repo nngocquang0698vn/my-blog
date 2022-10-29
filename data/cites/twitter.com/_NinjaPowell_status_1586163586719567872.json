@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Powell" ],
+        "nickname" : [ "NinjaPowell" ],
+        "numeric-id" : [ "3185408383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/767970052511453184/QX5dpDlk.jpg" ],
+        "published" : [ "2015-05-04T15:43:28+00:00" ],
+        "uid" : [ "tag:twitter.com:NinjaPowell" ],
+        "url" : [ "https://twitter.com/NinjaPowell", "https://www.linkedin.com/in/ian-powell-a7ab951" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Legal got escorted out the door already.  It's a free for all\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/foreignbolt\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/leahculver\"></a>",
+      "value" : "Legal got escorted out the door already.  It's a free for all"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/foreignbolt/status/1586162328273244160" ],
+    "published" : [ "2022-10-29T01:10:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1586163586719567872" ],
+    "url" : [ "https://twitter.com/NinjaPowell/status/1586163586719567872" ]
+  },
+  "type" : [ "h-entry" ]
+}
