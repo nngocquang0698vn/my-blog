@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Ressington" ],
+        "nickname" : [ "JoeRessington" ],
+        "numeric-id" : [ "1444490528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1112197879844823040/xhekGHBJ.jpg" ],
+        "published" : [ "2013-05-20T18:47:56+00:00" ],
+        "uid" : [ "tag:twitter.com:JoeRessington" ],
+        "url" : [ "https://twitter.com/JoeRessington", "http://joeress.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think <a href=\"https://twitter.com/whalecoiner\">@whalecoiner</a> might have nailed it over there.",
+      "value" : "I think @whalecoiner might have nailed it over there."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgMWYbZXkAEHrGV.jpg" ],
+    "published" : [ "2022-10-28T23:21:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1586136112128724994" ],
+    "url" : [ "https://twitter.com/JoeRessington/status/1586136112128724994" ]
+  },
+  "type" : [ "h-entry" ]
+}
