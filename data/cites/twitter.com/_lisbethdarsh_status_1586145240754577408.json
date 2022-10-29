@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lisbeth Darsh 📚" ],
+        "nickname" : [ "lisbethdarsh" ],
+        "numeric-id" : [ "155677093" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1547957174231396354/Xk6JaPsH.jpg" ],
+        "published" : [ "2010-06-14T20:11:29+00:00" ],
+        "uid" : [ "tag:twitter.com:lisbethdarsh" ],
+        "url" : [ "https://twitter.com/lisbethdarsh", "https://www.lisbethdarsh.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">That’s not new. \nIf you don’t want your shares tracked, find the ? and delete the code after that. Works on most sites.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Amy_Siskind\"></a>",
+      "value" : "That’s not new. \nIf you don’t want your shares tracked, find the ? and delete the code after that. Works on most sites."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Amy_Siskind/status/1586134524315856901" ],
+    "published" : [ "2022-10-28T23:57:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1586145240754577408" ],
+    "url" : [ "https://twitter.com/lisbethdarsh/status/1586145240754577408" ]
+  },
+  "type" : [ "h-entry" ]
+}
