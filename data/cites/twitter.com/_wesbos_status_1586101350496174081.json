@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamilton, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wes Bos" ],
+        "nickname" : [ "wesbos" ],
+        "numeric-id" : [ "815246" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca.jpg" ],
+        "published" : [ "2007-03-06T16:10:09+00:00" ],
+        "uid" : [ "tag:twitter.com:wesbos" ],
+        "url" : [ "https://twitter.com/wesbos", "http://wesbos.com", "http://BeginnerJavaScript.com", "http://ReactForBeginners.com", "http://JavaScript30.com", "http://wesbos.com/courses" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "According to hackernews you could build twitter in an afternoon in Lua\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/marktyrrelluk\"></a>",
+      "value" : "According to hackernews you could build twitter in an afternoon in Lua"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/marktyrrelluk/status/1586100915324522501" ],
+    "published" : [ "2022-10-28T21:03:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1586101350496174081" ],
+    "url" : [ "https://twitter.com/wesbos/status/1586101350496174081" ]
+  },
+  "type" : [ "h-entry" ]
+}
