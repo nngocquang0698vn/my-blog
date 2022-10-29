@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AidanTheJester/status/1586307651872473089" ],
     "name" : [ "Like of @AidanTheJester's tweet" ],
     "published" : [ "2022-10-29T12:26:00+0100" ],
     "like-of" : [ "https://twitter.com/AidanTheJester/status/1586307651872473089" ],
