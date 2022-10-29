@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AttenboroughSir/status/1585575701637234688" ],
     "name" : [ "Like of @AttenboroughSir's tweet" ],
     "published" : [ "2022-10-29T08:31:00+0100" ],
     "like-of" : [ "https://twitter.com/AttenboroughSir/status/1585575701637234688" ],
