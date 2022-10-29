@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ephant/status/1586135053477638144" ],
     "name" : [ "Like of @ephant's tweet" ],
     "published" : [ "2022-10-29T08:29:00+0100" ],
     "like-of" : [ "https://twitter.com/ephant/status/1586135053477638144" ],
