@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York City" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Oren Segal" ],
+          "nickname" : [ "orensegal" ],
+          "numeric-id" : [ "18311642" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1406038527587065856/E06oJscm.jpg" ],
+          "published" : [ "2008-12-22T17:41:19+00:00" ],
+          "uid" : [ "tag:twitter.com:orensegal" ],
+          "url" : [ "https://twitter.com/orensegal", "https://open.spotify.com/show/19KuS0zNvErFBOctfERGvx" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Antisemitic campaign tries to capitalize on Elon Musk’s Twitter takeover.\n<a href=\"https://www.nytimes.com/2022/10/28/technology/musk-twitter-antisemitism.amp.html\">nytimes.com/2022/10/28/tec…</a></div>",
+        "value" : "Antisemitic campaign tries to capitalize on Elon Musk’s Twitter takeover.\nnytimes.com/2022/10/28/tec…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FgPMIpwWIAA5iUK.jpg" ],
+      "published" : [ "2022-10-29T12:35:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1586335946936655873" ],
+      "url" : [ "https://twitter.com/orensegal/status/1586335946936655873" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alejandra Caraballo" ],
+        "nickname" : [ "Esqueer_" ],
+        "numeric-id" : [ "409389074" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542689700489695232/3WDW90vZ.jpg" ],
+        "published" : [ "2011-11-10T17:29:14+00:00" ],
+        "uid" : [ "tag:twitter.com:Esqueer_" ],
+        "url" : [ "https://twitter.com/Esqueer_", "https://www.buzzsprout.com/1949544" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Last week, Musk tweeted out a picture of a meme with him and Kanye teaming up. Any surprise that antisemitism is ramping up on Twitter and the trolls on 4chan organizing it are praising Kanye? <a href=\"https://twitter.com/i/web/status/1586344008452042758\">twitter.com/i/web/status/1…</a>",
+      "value" : "Last week, Musk tweeted out a picture of a meme with him and Kanye teaming up. Any surprise that antisemitism is ramping up on Twitter and the trolls on 4chan organizing it are praising Kanye? twitter.com/i/web/status/1…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgPTeBuWQAEjG7B.jpg" ],
+    "published" : [ "2022-10-29T13:07:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1586344008452042758" ],
+    "url" : [ "https://twitter.com/Esqueer_/status/1586344008452042758" ]
+  },
+  "type" : [ "h-entry" ]
+}
