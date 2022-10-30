@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matty Stratton" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1578236990390157316/RR5IrxSj.jpg" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "https://matty.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "And 8 hours later, this account has been removed." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Lisle, IL" ],
+        "uid" : [ "tag:twitter.com:3009292baa8dda23" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgPKnm_WIAI9Qzt.jpg" ],
+    "published" : [ "2022-10-29T12:28:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1586334278941478913" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1586334278941478913" ]
+  },
+  "type" : [ "h-entry" ]
+}
