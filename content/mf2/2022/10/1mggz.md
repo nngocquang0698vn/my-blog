@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/samnewman/status/1586646621412106240" ],
     "name" : [ "Like of @samnewman's tweet" ],
     "published" : [ "2022-10-30T09:19:00+0000" ],
     "like-of" : [ "https://twitter.com/samnewman/status/1586646621412106240" ],
