@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/coolcatsociety/status/1578425379236491264" ],
     "name" : [ "Like of @coolcatsociety's tweet" ],
     "published" : [ "2022-10-30T19:01:00+0000" ],
     "category" : [ "cute" ],
