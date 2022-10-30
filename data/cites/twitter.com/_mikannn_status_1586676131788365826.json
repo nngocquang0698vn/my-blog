@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "São Paulo, Brazil" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sheila de Carvalho" ],
+          "nickname" : [ "she_carvalho" ],
+          "numeric-id" : [ "106594258" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1578532108750004227/me9bE3i2.jpg" ],
+          "published" : [ "2010-01-20T02:03:01+00:00" ],
+          "uid" : [ "tag:twitter.com:she_carvalho" ],
+          "url" : [ "https://twitter.com/she_carvalho" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Uma fato curioso do depoimento de Carla Zambelli na delegacia hj: Ela estava sozinha. Não tinha nenhum bolsonarista ali apoiando, dando qualquer tipo de suporte. Nenhum camisa verde amarela além dela própria. Abriram mão dela muito mais rápido do que largaram o Roberto Jefferson." ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Sao Paulo, Brazil" ],
+          "uid" : [ "tag:twitter.com:68e019afec7d0ba5" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2022-10-30T04:17:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1586573058176913408" ],
+      "url" : [ "https://twitter.com/she_carvalho/status/1586573058176913408" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "São Paulo, Brazil" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "mikannn" ],
+        "nickname" : [ "mikannn" ],
+        "numeric-id" : [ "14270103" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/859256807121969153/JhuGYkkd.jpg" ],
+        "published" : [ "2008-03-31T22:15:45+00:00" ],
+        "uid" : [ "tag:twitter.com:mikannn" ],
+        "url" : [ "https://twitter.com/mikannn", "http://youtube.com/mikannn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Print da revista SALON\n\nTítulo: “Alt-right\" women are upset that \"alt-right\" men are treating them terribly\n\nSubtítulo:\nSome prominent \"alt-right\" women are calling for more equality and acceptance within the movement\n\nBy RACHEL LEAH\n",
+      "value" : "https://pbs.twimg.com/media/FgUBSuLWIAApac8.jpg"
+    } ],
+    "published" : [ "2022-10-30T11:07:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1586676131788365826" ],
+    "url" : [ "https://twitter.com/mikannn/status/1586676131788365826" ]
+  },
+  "type" : [ "h-entry" ]
+}
