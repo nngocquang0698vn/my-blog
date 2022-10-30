@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "François Chollet" ],
+        "nickname" : [ "fchollet" ],
+        "numeric-id" : [ "68746721" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1234692331263016960/7uR-nYW0.jpg" ],
+        "published" : [ "2009-08-25T17:09:25+00:00" ],
+        "uid" : [ "tag:twitter.com:fchollet" ],
+        "url" : [ "https://twitter.com/fchollet", "https://fchollet.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Software companies aren't made of code. They're made of processes that produce and maintain code. And the foremost component of these processes are people.\n\nThe code is just a by-product. More of a liability than an asset.</div>",
+      "value" : "Software companies aren't made of code. They're made of processes that produce and maintain code. And the foremost component of these processes are people.\n\nThe code is just a by-product. More of a liability than an asset."
+    } ],
+    "published" : [ "2022-10-30T03:25:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1586559951715323905" ],
+    "url" : [ "https://twitter.com/fchollet/status/1586559951715323905" ]
+  },
+  "type" : [ "h-entry" ]
+}
