@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "los angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Morgan Murphy" ],
+        "nickname" : [ "morgan_murphy" ],
+        "numeric-id" : [ "21125133" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1277780654827044864/3A7lTKwq.jpg" ],
+        "published" : [ "2009-02-17T20:14:01+00:00" ],
+        "uid" : [ "tag:twitter.com:morgan_murphy" ],
+        "url" : [ "https://twitter.com/morgan_murphy", "http://google.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I do not understand the impulse to expose yourself without consent. I don’t even want to show my body to people who want to see it." ],
+    "published" : [ "2022-10-29T23:43:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1586504136282890240" ],
+    "url" : [ "https://twitter.com/morgan_murphy/status/1586504136282890240" ]
+  },
+  "type" : [ "h-entry" ]
+}
