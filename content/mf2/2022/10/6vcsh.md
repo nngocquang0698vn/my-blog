@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hansdickie/status/1586494841504292864" ],
     "name" : [ "Like of @hansdickie's tweet" ],
     "published" : [ "2022-10-30T07:16:00+0000" ],
     "like-of" : [ "https://twitter.com/hansdickie/status/1586494841504292864" ],
