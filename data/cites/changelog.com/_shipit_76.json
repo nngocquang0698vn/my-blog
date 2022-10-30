@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Container base images with glibc &amp; musl featuring Ariadne Conill, Alpine Linux TSC member &amp; Chainguard SWE  (Ship It! #76)" ],
+    "summary" : [ "In today’s episode, we talk about distroless, ko, apko, melange, musl and glibc. The context is Wolfi OS, a community Linux OS designed for the container and cloud-native era. If you are looking for the lightest possible container base image with 0 CVEs and both glibc and musl support, Wolfi OS &amp;amp; the related chaing..." ],
+    "featured" : [ "https://cdn.changelog.com/static/images/share/twitter-shipit-feb3710d53361bb8a02164926b99f023.png" ],
+    "audio" : [ "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/76/ship-it-76.mp3" ],
+    "url" : [ "https://changelog.com/shipit/76" ]
+  }
+}
