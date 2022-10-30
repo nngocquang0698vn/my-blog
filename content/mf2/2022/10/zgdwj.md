@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jennydoesthings/status/1586688256997036032" ],
     "name" : [ "Like of @jennydoesthings's tweet" ],
     "published" : [ "2022-10-30T13:35:00+0000" ],
     "like-of" : [ "https://twitter.com/jennydoesthings/status/1586688256997036032" ],
