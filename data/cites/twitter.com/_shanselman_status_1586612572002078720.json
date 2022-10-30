@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The humans are still weird but Amsterdam looks amazing in <a href=\"https://twitter.com/search?q=%23CallofDutyModernWarfareII\">#CallofDutyModernWarfareII</a> <a href=\"https://twitter.com/search?q=%23XboxShare\">#XboxShare</a>",
+      "value" : "The humans are still weird but Amsterdam looks amazing in #CallofDutyModernWarfareII #XboxShare"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgTHuDCacAEuu6x.jpg" ],
+    "published" : [ "2022-10-30T06:54:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1586612572002078720" ],
+    "url" : [ "https://twitter.com/shanselman/status/1586612572002078720" ]
+  },
+  "type" : [ "h-entry" ]
+}
