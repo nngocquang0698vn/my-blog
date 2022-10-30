@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Missoula, MT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hank Green" ],
+        "nickname" : [ "hankgreen" ],
+        "numeric-id" : [ "61592079" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1502824671292448768/LbY2Y0Pf.jpg" ],
+        "published" : [ "2009-07-30T20:36:34+00:00" ],
+        "uid" : [ "tag:twitter.com:hankgreen" ],
+        "url" : [ "https://twitter.com/hankgreen", "http://hankgreen.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hahaha this is a bad website." ],
+    "published" : [ "2022-10-30T21:12:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1586828496285769728" ],
+    "url" : [ "https://twitter.com/hankgreen/status/1586828496285769728" ]
+  },
+  "type" : [ "h-entry" ]
+}
