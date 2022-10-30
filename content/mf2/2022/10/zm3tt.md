@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/garrisondinsmo1/status/1586551407842594816" ],
     "name" : [ "Like of @garrisondinsmo1's tweet" ],
     "published" : [ "2022-10-30T07:16:00+0000" ],
     "like-of" : [ "https://twitter.com/garrisondinsmo1/status/1586551407842594816" ],
