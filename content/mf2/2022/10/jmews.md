@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/English_Channel/status/1586352435005513729" ],
     "name" : [ "Like of @English_Channel's tweet" ],
     "published" : [ "2022-10-30T19:33:00+0000" ],
     "like-of" : [ "https://twitter.com/English_Channel/status/1586352435005513729" ],
