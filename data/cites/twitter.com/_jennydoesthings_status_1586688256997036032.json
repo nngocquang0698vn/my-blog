@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Japan" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dev Tester" ],
+          "nickname" : [ "DevTesterBlog" ],
+          "numeric-id" : [ "1183876985644171264" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1183877165646938112/U40UmRB2.png" ],
+          "published" : [ "2019-10-14T22:47:43+00:00" ],
+          "uid" : [ "tag:twitter.com:DevTesterBlog" ],
+          "url" : [ "https://twitter.com/DevTesterBlog", "https://dev-tester.com/", "http://testingwithtestcafe.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I saw this shared in a LinkedIn software testing/QA group.\n\nIf you're a tester and agree with this image, you should reevaluate your role because this just means you're a poor coworker.</div>",
+        "value" : "I saw this shared in a LinkedIn software testing/QA group.\n\nIf you're a tester and agree with this image, you should reevaluate your role because this just means you're a poor coworker."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FgTAijxaAAIdjrT.jpg" ],
+      "published" : [ "2022-10-30T06:23:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1586604671061602306" ],
+      "url" : [ "https://twitter.com/DevTesterBlog/status/1586604671061602306" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/devtesterblog/…" ],
+      "url" : [ "https://twitter.com/devtesterblog/status/1586604671061602306" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Durham, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jenny Bramble" ],
+        "nickname" : [ "jennydoesthings" ],
+        "numeric-id" : [ "829699106322968576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1387968299049312256/-a1aREgN.jpg" ],
+        "published" : [ "2017-02-09T14:30:56+00:00" ],
+        "uid" : [ "tag:twitter.com:jennydoesthings" ],
+        "url" : [ "https://twitter.com/jennydoesthings", "http://jennydoesthings.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Someone asked in my recent keynote “how do we get devs to care about quality?”\n\nStop joking that they’re the enemy. Words have power and every time you joke that you make dev cry or break things, you’re setting up an adversarial, unhealthy relationship.</div>\n<a class=\"tag\" href=\"https://twitter.com/devtesterblog/status/1586604671061602306\">twitter.com/devtesterblog/…</a>",
+      "value" : "Someone asked in my recent keynote “how do we get devs to care about quality?”\n\nStop joking that they’re the enemy. Words have power and every time you joke that you make dev cry or break things, you’re setting up an adversarial, unhealthy relationship."
+    } ],
+    "published" : [ "2022-10-30T11:55:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1586688256997036032" ],
+    "url" : [ "https://twitter.com/jennydoesthings/status/1586688256997036032" ]
+  },
+  "type" : [ "h-entry" ]
+}
