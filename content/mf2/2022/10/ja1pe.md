@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/livingforsolana/status/1586514862888329226" ],
     "name" : [ "Like of @livingforsolana's tweet" ],
     "published" : [ "2022-10-30T07:41:00+0000" ],
     "like-of" : [ "https://twitter.com/livingforsolana/status/1586514862888329226" ],
