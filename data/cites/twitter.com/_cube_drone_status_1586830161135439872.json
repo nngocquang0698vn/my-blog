@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, B.C., Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "cube drone" ],
+        "nickname" : [ "cube_drone" ],
+        "numeric-id" : [ "14689667" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1560060582614577153/ikqX3YBY.jpg" ],
+        "published" : [ "2008-05-07T18:17:06+00:00" ],
+        "uid" : [ "tag:twitter.com:cube_drone" ],
+        "url" : [ "https://twitter.com/cube_drone", "https://cube-drone.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"but won't hundreds or thousands of talented, capable, wealthy strangers take my code and scale it for me for free?\"" ],
+    "in-reply-to" : [ "https://twitter.com/cube_drone/status/1586829977622040577" ],
+    "published" : [ "2022-10-30T21:19:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1586830161135439872" ],
+    "url" : [ "https://twitter.com/cube_drone/status/1586830161135439872" ]
+  },
+  "type" : [ "h-entry" ]
+}
