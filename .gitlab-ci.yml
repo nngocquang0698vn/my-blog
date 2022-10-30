@@ -64,6 +64,7 @@ deploy:
       - public/
   variables:
     GIT_DEPTH: 1
+  retry: 2
   before_script:
     - >
       STS=($(aws sts assume-role-with-web-identity
