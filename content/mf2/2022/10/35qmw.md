@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eevee/status/1587053827936555008" ],
     "name" : [ "Like of @eevee's tweet" ],
     "published" : [ "2022-10-31T12:28:00+0000" ],
     "like-of" : [ "https://twitter.com/eevee/status/1587053827936555008" ],
