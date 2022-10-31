@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Farnborough" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alan Pope" ],
+        "nickname" : [ "popey" ],
+        "numeric-id" : [ "12325402" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1536284028332122112/ae3GEAV3.jpg" ],
+        "published" : [ "2008-01-16T17:35:35+00:00" ],
+        "uid" : [ "tag:twitter.com:popey" ],
+        "url" : [ "https://twitter.com/popey", "https://popey.me/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We lost Albert today. 😿\nGood night little man.</div>",
+      "value" : "We lost Albert today. 😿\nGood night little man."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fgbl4mlWAAY6bAH.jpg" ],
+    "published" : [ "2022-10-31T22:23:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1587208683108417536" ],
+    "url" : [ "https://twitter.com/popey/status/1587208683108417536" ]
+  },
+  "type" : [ "h-entry" ]
+}
