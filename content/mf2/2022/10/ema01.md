@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/keikreutler/status/1586986965043494912" ],
     "name" : [ "Like of @keikreutler's tweet" ],
     "published" : [ "2022-10-31T09:29:00+0000" ],
     "like-of" : [ "https://twitter.com/keikreutler/status/1586986965043494912" ],
