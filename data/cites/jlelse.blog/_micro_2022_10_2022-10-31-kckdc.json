@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "SourceHut is banning cryptocurrency projects" ],
+    "category" : [ "Cryptocurrencies" ],
+    "url" : [ "https://jlelse.blog/micro/2022/10/2022-10-31-kckdc" ],
+    "published" : [ "2022-10-31T16:01:39+01:00" ],
+    "content" : [ {
+      "html" : "<p>SourceHut, a source code hosting service, <a href=\"https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/\" target=\"_blank\" rel=\"noopener\">is banning cryptocurrency- and blockchain-projects</a>:</p><blockquote><p>These domains are strongly associated with fraudulent activities and high-risk investments which take advantage of people who are suffering from economic hardship and growing global wealth inequality. Few to no legitimate use-cases for this technology have been found; instead it is mostly used for fraudulent “get rich quick” schemes and to facilitate criminal activity, such as ransomware, illicit trade, and sanctions evasion. These projects often encourage large-scale energy waste and electronics waste, which contributes to the declining health of Earth’s environment. The presence of these projects on SourceHut exposes new victims to these scams and is harmful to the reputation of SourceHut and its community.</p><p>We recognize that the basic idea of a blockchain, as it were, may be generally useful. However, most projects which market themselves with blockchain technology are subject to the same social ills as cryptocurrency. Consequently, we have chosen to include “blockchain” related projects in this ban for the time being.</p></blockquote><p>That’s a really good summary, in my opinion. I’m not deep into the cryptocurrency and blockchain topic, but I don’t want to be, because everything I’ve seen so far has always been unnecessarily complicated and could be solved more easily without blockchain, or were just made-up problems.</p>",
+      "value" : "SourceHut, a source code hosting service, is banning cryptocurrency- and blockchain-projects:\nThese domains are strongly associated with fraudulent activities and high-risk investments which take advantage of people who are suffering from economic hardship and growing global wealth inequality. Few to no legitimate use-cases for this technology have been found; instead it is mostly used for fraudulent “get rich quick” schemes and to facilitate criminal activity, such as ransomware, illicit trade, and sanctions evasion. These projects often encourage large-scale energy waste and electronics waste, which contributes to the declining health of Earth’s environment. The presence of these projects on SourceHut exposes new victims to these scams and is harmful to the reputation of SourceHut and its community.\nWe recognize that the basic idea of a blockchain, as it were, may be generally useful. However, most projects which market themselves with blockchain technology are subject to the same social ills as cryptocurrency. Consequently, we have chosen to include “blockchain” related projects in this ban for the time being.\nThat’s a really good summary, in my opinion. I’m not deep into the cryptocurrency and blockchain topic, but I don’t want to be, because everything I’ve seen so far has always been unnecessarily complicated and could be solved more easily without blockchain, or were just made-up problems.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jan-Lukas Else" ],
+        "photo" : [ "https://jlelse.dev/profile.png" ],
+        "url" : [ "https://jlelse.blog/" ]
+      },
+      "lang" : "en",
+      "value" : "Jan-Lukas Else"
+    } ]
+  },
+  "lang" : "en"
+}
