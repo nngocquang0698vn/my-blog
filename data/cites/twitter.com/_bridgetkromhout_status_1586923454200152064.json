@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, Minnesota" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bridget Kromhout" ],
+        "nickname" : [ "bridgetkromhout" ],
+        "numeric-id" : [ "1465659204" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/980605942013161474/UaWHHTzU.jpg" ],
+        "published" : [ "2013-05-28T21:02:05+00:00" ],
+        "uid" : [ "tag:twitter.com:bridgetkromhout" ],
+        "url" : [ "https://twitter.com/bridgetkromhout", "https://bridgetkromhout.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I have concerns about any software update that was thought up by a rando and had to somehow be rolled out to production a week later. Like, has anyone in this mix ever... computered? Because this isn't gonna go well; I can tell them that for free!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/abbyfuller\"></a>",
+      "value" : "I have concerns about any software update that was thought up by a rando and had to somehow be rolled out to production a week later. Like, has anyone in this mix ever... computered? Because this isn't gonna go well; I can tell them that for free!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/abbyfuller/status/1586922723540086784" ],
+    "published" : [ "2022-10-31T03:30:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1586923454200152064" ],
+    "url" : [ "https://twitter.com/bridgetkromhout/status/1586923454200152064" ]
+  },
+  "type" : [ "h-entry" ]
+}
