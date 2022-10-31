@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Techmeme" ],
+          "nickname" : [ "Techmeme" ],
+          "numeric-id" : [ "817386" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg.jpg" ],
+          "published" : [ "2007-03-07T07:10:46+00:00" ],
+          "uid" : [ "tag:twitter.com:Techmeme" ],
+          "url" : [ "https://twitter.com/Techmeme", "http://techmeme.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Sources: Twitter is strongly considering making verified users subscribe to Twitter Blue at $4.99 a month or lose their badges (<a href=\"https://twitter.com/CaseyNewton\">@caseynewton</a> / Platformer)\n\n<a href=\"https://www.platformer.news/p/elons-first-big-move-pay-to-remain\">platformer.news/p/elons-first-…</a>\n<a href=\"http://www.techmeme.com/221030/p13#a221030p13\">techmeme.com/221030/p13#a22…</a></div>",
+        "value" : "Sources: Twitter is strongly considering making verified users subscribe to Twitter Blue at $4.99 a month or lose their badges (@caseynewton / Platformer)\n\nplatformer.news/p/elons-first-…\ntechmeme.com/221030/p13#a22…"
+      } ],
+      "published" : [ "2022-10-30T21:06:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1586826867746619392" ],
+      "url" : [ "https://twitter.com/Techmeme/status/1586826867746619392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hanover, NH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brendan Nyhan" ],
+        "nickname" : [ "BrendanNyhan" ],
+        "numeric-id" : [ "84653850" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/909873423031074816/iOz9-iBu.jpg" ],
+        "published" : [ "2009-10-23T18:18:59+00:00" ],
+        "uid" : [ "tag:twitter.com:BrendanNyhan" ],
+        "url" : [ "https://twitter.com/BrendanNyhan", "https://sites.dartmouth.edu/nyhan/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If every account followed by <a href=\"https://twitter.com/verified\">@verified</a> subscribes b/c of this shakedown, that's $26M/year. \n\nMusk owes $1B/year in interest. \n\nNot sure this is the magical solution.\n\n(And the risk of chasing verified users off the platform and confusing everyone seems.... not worth $26M/year.) </div>",
+      "value" : "If every account followed by @verified subscribes b/c of this shakedown, that's $26M/year. \n\nMusk owes $1B/year in interest. \n\nNot sure this is the magical solution.\n\n(And the risk of chasing verified users off the platform and confusing everyone seems.... not worth $26M/year.) "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgWz_FTX0AEX2gs.png" ],
+    "published" : [ "2022-10-31T00:08:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1586872618887544834" ],
+    "url" : [ "https://twitter.com/BrendanNyhan/status/1586872618887544834" ]
+  },
+  "type" : [ "h-entry" ]
+}
