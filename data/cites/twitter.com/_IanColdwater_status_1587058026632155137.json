@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kat Sweet" ],
+          "nickname" : [ "TheSweetKat" ],
+          "numeric-id" : [ "791875428" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1041865669103550464/fOFxU2sx.jpg" ],
+          "published" : [ "2012-08-30T15:56:52+00:00" ],
+          "uid" : [ "tag:twitter.com:TheSweetKat" ],
+          "url" : [ "https://twitter.com/TheSweetKat", "http://www.thesweetkat.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "All checkmarks are blue\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bigendiansmalls\"></a>",
+        "value" : "All checkmarks are blue"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/bigendiansmalls/status/1586918366232600576" ],
+      "published" : [ "2022-10-31T03:53:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1586929283737554945" ],
+      "url" : [ "https://twitter.com/TheSweetKat/status/1586929283737554945" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/thesweetkat/st…" ],
+      "url" : [ "https://twitter.com/thesweetkat/status/1586929283737554945" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 👻🌿" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1559638466748637192/7D6O2ZIN.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "All CEOs Are Buffoons\n<a class=\"tag\" href=\"https://twitter.com/thesweetkat/status/1586929283737554945\">twitter.com/thesweetkat/st…</a>",
+      "value" : "All CEOs Are Buffoons"
+    } ],
+    "published" : [ "2022-10-31T12:24:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1587058026632155137" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1587058026632155137" ]
+  },
+  "type" : [ "h-entry" ]
+}
