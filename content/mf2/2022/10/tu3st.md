@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bridgetkromhout/status/1586935833852084230" ],
     "name" : [ "Like of @bridgetkromhout's tweet" ],
     "published" : [ "2022-10-31T06:31:00+0000" ],
     "like-of" : [ "https://twitter.com/bridgetkromhout/status/1586935833852084230" ],
