@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SilvermanJacob/status/1586899856064389121" ],
     "name" : [ "Like of @SilvermanJacob's tweet" ],
     "published" : [ "2022-10-31T05:59:00+0000" ],
     "like-of" : [ "https://twitter.com/SilvermanJacob/status/1586899856064389121" ],
