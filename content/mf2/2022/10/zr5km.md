@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/primawesome/status/1178671690261286918" ],
     "name" : [ "Like of @primawesome's tweet" ],
     "published" : [ "2022-10-31T17:38:00+0000" ],
     "like-of" : [ "https://twitter.com/primawesome/status/1178671690261286918" ],
