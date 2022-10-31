@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1586885887341645824" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jacob Silverman" ],
+        "nickname" : [ "SilvermanJacob" ],
+        "numeric-id" : [ "4011928402" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586175468885221376/2M6kNUCg.jpg" ],
+        "published" : [ "2015-10-21T20:11:49+00:00" ],
+        "uid" : [ "tag:twitter.com:SilvermanJacob" ],
+        "url" : [ "https://twitter.com/SilvermanJacob", "http://www.jacobsilverman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Earlier today Musk was responding to LeBron with <a href=\"https://twitter.com/yoyoel\">@yoyoel</a>'s tweet. Now he's reading Yoel's Slack messages (I think) from earlier this year. It's like day 4.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1586885887341645824\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Earlier today Musk was responding to LeBron with @yoyoel's tweet. Now he's reading Yoel's Slack messages (I think) from earlier this year. It's like day 4."
+    } ],
+    "published" : [ "2022-10-31T01:51:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1586898614403698688" ],
+    "url" : [ "https://twitter.com/SilvermanJacob/status/1586898614403698688" ]
+  },
+  "type" : [ "h-entry" ]
+}
