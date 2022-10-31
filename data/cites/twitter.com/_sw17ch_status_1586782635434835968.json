@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tacoma, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John VanEnk" ],
+        "nickname" : [ "sw17ch" ],
+        "numeric-id" : [ "21629944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1580746775748804610/8UZd9leE.jpg" ],
+        "published" : [ "2009-02-23T04:09:06+00:00" ],
+        "uid" : [ "tag:twitter.com:sw17ch" ],
+        "url" : [ "https://twitter.com/sw17ch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "inside me there are two programmers: one can bang out a POC for a complex thing that couldn't have existed a year ago, and the other doesn't know how to do authentication properly" ],
+    "published" : [ "2022-10-30T18:10:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1586782635434835968" ],
+    "url" : [ "https://twitter.com/sw17ch/status/1586782635434835968" ]
+  },
+  "type" : [ "h-entry" ]
+}
