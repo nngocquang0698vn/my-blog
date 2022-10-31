@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tiffani/status/1586930270896209920" ],
     "name" : [ "Like of @tiffani's tweet" ],
     "published" : [ "2022-10-31T06:35:00+0000" ],
     "like-of" : [ "https://twitter.com/tiffani/status/1586930270896209920" ],
