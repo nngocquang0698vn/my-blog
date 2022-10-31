@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrendanNyhan/status/1586872618887544834" ],
     "name" : [ "Like of @BrendanNyhan's tweet" ],
     "published" : [ "2022-10-31T06:47:00+0000" ],
     "like-of" : [ "https://twitter.com/BrendanNyhan/status/1586872618887544834" ],
