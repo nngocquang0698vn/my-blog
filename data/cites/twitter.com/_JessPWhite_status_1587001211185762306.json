@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica White 🦎 🎃" ],
+        "nickname" : [ "JessPWhite" ],
+        "numeric-id" : [ "3021209961" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586788682043899904/ucNkJcPl.jpg" ],
+        "published" : [ "2015-02-06T10:02:36+00:00" ],
+        "uid" : [ "tag:twitter.com:JessPWhite" ],
+        "url" : [ "https://twitter.com/JessPWhite", "https://bio.link/jesswhite" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">On this spooky day I'm doing something scary and starting a new job! 👻\n\nToday is my first day at NewDay.</div>",
+      "value" : "On this spooky day I'm doing something scary and starting a new job! 👻\n\nToday is my first day at NewDay."
+    } ],
+    "published" : [ "2022-10-31T08:39:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1587001211185762306" ],
+    "url" : [ "https://twitter.com/JessPWhite/status/1587001211185762306" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FgYpLyFWYAAJ7SG.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
