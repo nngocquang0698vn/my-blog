@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🌎🕸" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dion Almaer" ],
+          "nickname" : [ "dalmaer" ],
+          "numeric-id" : [ "4216361" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3380865881/f73b3687ff39b795db05fcaf35972270.jpeg" ],
+          "published" : [ "2007-04-11T17:46:18+00:00" ],
+          "uid" : [ "tag:twitter.com:dalmaer" ],
+          "url" : [ "https://twitter.com/dalmaer", "https://blog.almaer.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">★ The <a href=\"https://twitter.com/remix_run\">@remix_run</a> team has joined Shopify!\n\nWin-win as we put the power of Shopify behind <a href=\"https://twitter.com/search?q=%23Remix\">#Remix</a> allowing them to accelerate their roadmap &amp; focus on pushing the web forward &amp; they will help deliver next-generation web experiences for our merchants &amp; devs.\n<a href=\"https://shopify.engineering/remix-joins-shopify\">shopify.engineering/remix-joins-sh…</a></div>",
+        "value" : "★ The @remix_run team has joined Shopify!\n\nWin-win as we put the power of Shopify behind #Remix allowing them to accelerate their roadmap & focus on pushing the web forward & they will help deliver next-generation web experiences for our merchants & devs.\nshopify.engineering/remix-joins-sh…"
+      } ],
+      "published" : [ "2022-10-31T14:00:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1587082079698706432" ],
+      "url" : [ "https://twitter.com/dalmaer/status/1587082079698706432" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">You can tell it's getting tight out here, even for tech people. When hardcore open source people have to get salaried jobs.\n\nNo offense to anyone involved here. I'm not judging anybody. I just wanna call out that these things are almost always driven by economics.</div>",
+      "value" : "You can tell it's getting tight out here, even for tech people. When hardcore open source people have to get salaried jobs.\n\nNo offense to anyone involved here. I'm not judging anybody. I just wanna call out that these things are almost always driven by economics."
+    } ],
+    "published" : [ "2022-10-31T15:56:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1587111249149501440" ],
+    "url" : [ "https://twitter.com/polotek/status/1587111249149501440" ]
+  },
+  "type" : [ "h-entry" ]
+}
