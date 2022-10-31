@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/VeryBadLlama/status/1586828811001266179" ],
     "name" : [ "Like of @VeryBadLlama's tweet" ],
     "published" : [ "2022-10-31T06:07:00+0000" ],
     "like-of" : [ "https://twitter.com/VeryBadLlama/status/1586828811001266179" ],
