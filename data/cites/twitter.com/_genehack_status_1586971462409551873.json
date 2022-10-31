@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Pacific Northwest, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "jason wilson" ],
+          "nickname" : [ "jason_a_w" ],
+          "numeric-id" : [ "1622051" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1429977538634215425/SByc76Y2.jpg" ],
+          "published" : [ "2007-03-20T12:43:28+00:00" ],
+          "uid" : [ "tag:twitter.com:jason_a_w" ],
+          "url" : [ "https://twitter.com/jason_a_w", "https://jasonwilson.media", "http://seedisclaimer.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "in conclusion he has been lucky his entire life and he is going to need that to hold up, i think." ],
+      "in-reply-to" : [ "https://twitter.com/jason_a_w/status/1586750404649709568" ],
+      "published" : [ "2022-10-30T16:04:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1586750782963351552" ],
+      "url" : [ "https://twitter.com/jason_a_w/status/1586750782963351552" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salem, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "genecluck" ],
+        "nickname" : [ "genehack" ],
+        "numeric-id" : [ "753743" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1574415437118701568/JSBmeowu.jpg" ],
+        "published" : [ "2007-02-04T03:37:51+00:00" ],
+        "uid" : [ "tag:twitter.com:genehack" ],
+        "url" : [ "https://twitter.com/genehack", "https://genehack.org", "http://genehack.blog", "http://covid.house", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Thread. One of the things that struck me about the Black Swan book that was popular a dozen or so years ago was the notion that it is impossible to tell the difference between a very smart person and one that has been extraordinarily lucky _so far_" ],
+    "published" : [ "2022-10-31T06:40:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1586971462409551873" ],
+    "url" : [ "https://twitter.com/genehack/status/1586971462409551873" ]
+  },
+  "type" : [ "h-entry" ]
+}
