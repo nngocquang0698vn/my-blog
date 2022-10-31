@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Verge" ],
+          "nickname" : [ "verge" ],
+          "numeric-id" : [ "275686563" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL.jpg" ],
+          "published" : [ "2011-04-01T19:54:22+00:00" ],
+          "uid" : [ "tag:twitter.com:verge" ],
+          "url" : [ "https://twitter.com/verge", "http://www.theverge.com", "http://theverge.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Twitter is planning to start charging $20 per month for verification <a href=\"https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter\">theverge.com/2022/10/30/234…</a>",
+        "value" : "Twitter is planning to start charging $20 per month for verification theverge.com/2022/10/30/234…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FgW-eTSXoAo8SN6.jpg" ],
+      "published" : [ "2022-10-31T00:52:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1586883874122264576" ],
+      "url" : [ "https://twitter.com/verge/status/1586883874122264576" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Lol nope" ],
+    "published" : [ "2022-10-31T03:55:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1586929761347141637" ],
+    "url" : [ "https://twitter.com/shanselman/status/1586929761347141637" ]
+  },
+  "type" : [ "h-entry" ]
+}
