@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ann Arbor, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Nover" ],
+        "nickname" : [ "ScottNover" ],
+        "numeric-id" : [ "1611627979" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1549251177870680066/djZfIlHY.jpg" ],
+        "published" : [ "2013-07-21T23:59:14+00:00" ],
+        "uid" : [ "tag:twitter.com:ScottNover" ],
+        "url" : [ "https://twitter.com/ScottNover", "http://www.instagram.com/scott.nover" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don’t think Elon Musk realizes how much money he’s going to lose on Twitter at this rate." ],
+    "published" : [ "2022-10-31T01:34:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1586894291011620865" ],
+    "url" : [ "https://twitter.com/ScottNover/status/1586894291011620865" ]
+  },
+  "type" : [ "h-entry" ]
+}
