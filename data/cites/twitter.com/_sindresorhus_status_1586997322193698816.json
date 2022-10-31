@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Sindre Sorhus" ],
+        "nickname" : [ "sindresorhus" ],
+        "numeric-id" : [ "170686450" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1131626244745834497/0SzJoz_J.png" ],
+        "published" : [ "2010-07-25T13:48:23+00:00" ],
+        "uid" : [ "tag:twitter.com:sindresorhus" ],
+        "url" : [ "https://twitter.com/sindresorhus", "https://sindresorhus.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">good job 🍎\n\n1. Should have been truncated much earlier\n2. Why only show the filename for compress\n3. Why show the filename at all</div>",
+      "value" : "good job 🍎\n\n1. Should have been truncated much earlier\n2. Why only show the filename for compress\n3. Why show the filename at all"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgYlF6xaEAAhrzL.jpg" ],
+    "published" : [ "2022-10-31T08:23:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1586997322193698816" ],
+    "url" : [ "https://twitter.com/sindresorhus/status/1586997322193698816" ]
+  },
+  "type" : [ "h-entry" ]
+}
