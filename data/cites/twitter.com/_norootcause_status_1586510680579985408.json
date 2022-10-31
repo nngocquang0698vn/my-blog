@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lorin Hochstein" ],
+        "nickname" : [ "norootcause" ],
+        "numeric-id" : [ "13097242" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ],
+        "published" : [ "2008-02-05T15:49:35+00:00" ],
+        "uid" : [ "tag:twitter.com:norootcause" ],
+        "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Proposed talk title: “Automation: how to fail at scale”" ],
+    "published" : [ "2022-10-30T00:09:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1586510680579985408" ],
+    "url" : [ "https://twitter.com/norootcause/status/1586510680579985408" ]
+  },
+  "type" : [ "h-entry" ]
+}
