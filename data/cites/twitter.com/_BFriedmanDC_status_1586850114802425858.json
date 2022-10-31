@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Casey Newton" ],
+          "nickname" : [ "CaseyNewton" ],
+          "numeric-id" : [ "69426451" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX.jpg" ],
+          "published" : [ "2009-08-27T22:37:09+00:00" ],
+          "uid" : [ "tag:twitter.com:CaseyNewton" ],
+          "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Some news from inside Elon’s war room: Twitter is strongly considering making verified users pay $4.99 a month to keep their badges.\n\nMany questions remain. Subscribe to read ➡️\n\n<a href=\"https://www.platformer.news/p/elons-first-big-move-pay-to-remain\">platformer.news/p/elons-first-…</a></div>",
+        "value" : "Some news from inside Elon’s war room: Twitter is strongly considering making verified users pay $4.99 a month to keep their badges.\n\nMany questions remain. Subscribe to read ➡️\n\nplatformer.news/p/elons-first-…"
+      } ],
+      "photo" : [ {
+        "alt" : "Twitter is strongly considering making its users pay to remain verified on the service, Platformer has learned. If the project makes forward, users would have to subscribe to Twitter Blue at $4.99 a month or lose their badges.",
+        "value" : "https://pbs.twimg.com/media/FgWJzCuUcAEYElr.jpg"
+      } ],
+      "published" : [ "2022-10-30T21:02:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1586825955871318016" ],
+      "url" : [ "https://twitter.com/CaseyNewton/status/1586825955871318016" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brandon Friedman" ],
+        "nickname" : [ "BFriedmanDC" ],
+        "numeric-id" : [ "15327996" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1238337632087822336/KKRwJDWE.jpg" ],
+        "published" : [ "2008-07-05T20:26:59+00:00" ],
+        "uid" : [ "tag:twitter.com:BFriedmanDC" ],
+        "url" : [ "https://twitter.com/BFriedmanDC", "https://www.rakkasantea.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This falls in line with my theory that Musk bought Twitter punitively because he was humiliated here by powerful influencers. So what's the first thing he does? He makes those influential users bend the knee and pay him to retain their power. If they refuse, then they lose it." ],
+    "published" : [ "2022-10-30T22:38:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1586850114802425858" ],
+    "url" : [ "https://twitter.com/BFriedmanDC/status/1586850114802425858" ]
+  },
+  "type" : [ "h-entry" ]
+}
