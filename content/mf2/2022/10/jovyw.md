@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gitbisect/status/1586045786651254785" ],
     "name" : [ "Like of @gitbisect's tweet" ],
     "published" : [ "2022-10-31T09:32:00+0000" ],
     "like-of" : [ "https://twitter.com/gitbisect/status/1586045786651254785" ],
