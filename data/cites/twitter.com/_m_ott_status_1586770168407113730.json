@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stuttgart, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthias Ott—bring back @mmatuzo" ],
+        "nickname" : [ "m_ott" ],
+        "numeric-id" : [ "58448784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343102302358536192/xdtCGwSB.jpg" ],
+        "published" : [ "2009-07-20T11:18:01+00:00" ],
+        "uid" : [ "tag:twitter.com:m_ott" ],
+        "url" : [ "https://twitter.com/m_ott", "https://matthiasott.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Test, test! ;) This post on the /microblog section of my personal website should now appear on Twitter, <a href=\"http://Micro.blog\">Micro.blog</a>, and …Mastodon!",
+      "value" : "Test, test! ;) This post on the /microblog section of my personal website should now appear on Twitter, Micro.blog, and …Mastodon!"
+    } ],
+    "published" : [ "2022-10-30T17:21:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1586770168407113730" ],
+    "url" : [ "https://twitter.com/m_ott/status/1586770168407113730" ]
+  },
+  "type" : [ "h-entry" ]
+}
