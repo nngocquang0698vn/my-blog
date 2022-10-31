@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "$5. And I constantly mute convos and tweets after sending them. My Twitter is as chill as I am.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bridgetkromhout\"></a>",
+      "value" : "$5. And I constantly mute convos and tweets after sending them. My Twitter is as chill as I am."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bridgetkromhout/status/1586935833852084230" ],
+    "published" : [ "2022-10-31T04:29:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1586938266724749312" ],
+    "url" : [ "https://twitter.com/shanselman/status/1586938266724749312" ]
+  },
+  "type" : [ "h-entry" ]
+}
