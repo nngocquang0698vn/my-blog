@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CurtisRemarc/status/1586859544113647616" ],
     "name" : [ "Like of @CurtisRemarc's tweet" ],
     "published" : [ "2022-10-31T06:41:00+0000" ],
     "like-of" : [ "https://twitter.com/CurtisRemarc/status/1586859544113647616" ],
