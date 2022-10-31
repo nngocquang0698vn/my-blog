@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sw17ch/status/1586782635434835968" ],
     "name" : [ "Like of @sw17ch's tweet" ],
     "published" : [ "2022-10-31T06:09:00+0000" ],
     "like-of" : [ "https://twitter.com/sw17ch/status/1586782635434835968" ],
