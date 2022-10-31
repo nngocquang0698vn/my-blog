@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Duke_of_neural/status/1586919702114500609" ],
     "name" : [ "Like of @Duke_of_neural's tweet" ],
     "published" : [ "2022-10-31T06:27:00+0000" ],
     "like-of" : [ "https://twitter.com/Duke_of_neural/status/1586919702114500609" ],
