@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "old people online" ],
+          "nickname" : [ "oldpplonline" ],
+          "numeric-id" : [ "1525509510495969280" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1585446206477590528/JDVxSLDW.jpg" ],
+          "published" : [ "2022-05-14T16:13:18+00:00" ],
+          "uid" : [ "tag:twitter.com:oldpplonline" ],
+          "url" : [ "https://twitter.com/oldpplonline" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FgCx_ZNWQAMcmQi.jpg" ],
+      "published" : [ "2022-10-27T02:45:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1585462774649569280" ],
+      "url" : [ "https://twitter.com/oldpplonline/status/1585462774649569280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Probably on a plane" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Yee" ],
+        "nickname" : [ "gitbisect" ],
+        "numeric-id" : [ "2680758350" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384729331646095366/tLywd0t-.jpg" ],
+        "published" : [ "2014-07-25T23:47:27+00:00" ],
+        "uid" : [ "tag:twitter.com:gitbisect" ],
+        "url" : [ "https://twitter.com/gitbisect" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How to recruit open source project maintainers... 😆" ],
+    "published" : [ "2022-10-28T17:22:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1586045786651254785" ],
+    "url" : [ "https://twitter.com/gitbisect/status/1586045786651254785" ]
+  },
+  "type" : [ "h-entry" ]
+}
