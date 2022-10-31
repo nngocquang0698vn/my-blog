@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ashedryden/status/1586833533930176512" ],
     "name" : [ "Like of @ashedryden's tweet" ],
     "published" : [ "2022-10-31T06:35:00+0000" ],
     "like-of" : [ "https://twitter.com/ashedryden/status/1586833533930176512" ],
