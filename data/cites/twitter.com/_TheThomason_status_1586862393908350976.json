@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean Thomason" ],
+        "nickname" : [ "TheThomason" ],
+        "numeric-id" : [ "82524253" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1398009110159781889/Cux179ci.jpg" ],
+        "published" : [ "2009-10-15T02:58:27+00:00" ],
+        "uid" : [ "tag:twitter.com:TheThomason" ],
+        "url" : [ "https://twitter.com/TheThomason", "http://rifftrax.com", "http://patreon.com/ringheads" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don’t want to leave twitter because I’m afraid to find out how much more productive I could’ve been without it." ],
+    "published" : [ "2022-10-30T23:27:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1586862393908350976" ],
+    "url" : [ "https://twitter.com/TheThomason/status/1586862393908350976" ]
+  },
+  "type" : [ "h-entry" ]
+}
