@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Altenbeken, Deutschland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Luca Hammer" ],
+          "nickname" : [ "luca" ],
+          "numeric-id" : [ "11985982" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1055807149786439680/sQiHu-95.jpg" ],
+          "published" : [ "2008-01-08T14:18:35+00:00" ],
+          "uid" : [ "tag:twitter.com:luca" ],
+          "url" : [ "https://twitter.com/luca", "https://accountanalysis.app/", "http://vis.social/@luca", "http://det.social/@luca" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I just finished a tiny tool that searches through screen name, description, location and url field to find fediverse handles: <a href=\"https://fedifinder.glitch.me/\">fedifinder.glitch.me</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tinysubversions\"></a>",
+        "value" : "I just finished a tiny tool that searches through screen name, description, location and url field to find fediverse handles: fedifinder.glitch.me"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/tinysubversions/status/1586027417432621056" ],
+      "photo" : [ {
+        "alt" : "Screenshot of three browser windows. The first one shows the fedifinder before logging in. Short description and login button. The second one is a list of found handles. The third one the settings screen of Mastodon where the followings can be imported.",
+        "value" : "https://pbs.twimg.com/media/FgRT10CWQAAK41f.jpg"
+      } ],
+      "published" : [ "2022-10-29T22:33:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1586486300064219136" ],
+      "url" : [ "https://twitter.com/luca/status/1586486300064219136" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anildash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538205790619807744/g2X5fi-M.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anildash.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh this is good." ],
+    "published" : [ "2022-10-31T04:49:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1586943505020211200" ],
+    "url" : [ "https://twitter.com/anildash/status/1586943505020211200" ]
+  },
+  "type" : [ "h-entry" ]
+}
