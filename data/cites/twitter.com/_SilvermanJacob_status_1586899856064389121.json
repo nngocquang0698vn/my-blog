@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jacob Silverman" ],
+        "nickname" : [ "SilvermanJacob" ],
+        "numeric-id" : [ "4011928402" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586175468885221376/2M6kNUCg.jpg" ],
+        "published" : [ "2015-10-21T20:11:49+00:00" ],
+        "uid" : [ "tag:twitter.com:SilvermanJacob" ],
+        "url" : [ "https://twitter.com/SilvermanJacob", "http://www.jacobsilverman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I mean you assume he's going to read people's messages, but actually tweeting a screenshot from a senior employee's private messages is something!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/yoyoel\"></a>",
+      "value" : "I mean you assume he's going to read people's messages, but actually tweeting a screenshot from a senior employee's private messages is something!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SilvermanJacob/status/1586898614403698688" ],
+    "published" : [ "2022-10-31T01:56:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1586899856064389121" ],
+    "url" : [ "https://twitter.com/SilvermanJacob/status/1586899856064389121" ]
+  },
+  "type" : [ "h-entry" ]
+}
