@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DW_reader/status/1586917970294591488" ],
     "name" : [ "Like of @DW_reader's tweet" ],
     "published" : [ "2022-10-31T06:41:00+0000" ],
     "like-of" : [ "https://twitter.com/DW_reader/status/1586917970294591488" ],
