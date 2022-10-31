@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yayedgarhoover/status/1586900560208355330" ],
     "name" : [ "Like of @yayedgarhoover's tweet" ],
     "published" : [ "2022-10-31T06:41:00+0000" ],
     "like-of" : [ "https://twitter.com/yayedgarhoover/status/1586900560208355330" ],
