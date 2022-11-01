@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erikaheidi/status/1587404219673444354" ],
     "name" : [ "Like of @erikaheidi's tweet" ],
     "published" : [ "2022-11-01T11:29:00+0000" ],
     "like-of" : [ "https://twitter.com/erikaheidi/status/1587404219673444354" ],
