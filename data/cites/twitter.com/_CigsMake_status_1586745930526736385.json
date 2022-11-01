@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cigarette Aesthetica" ],
+        "nickname" : [ "CigsMake" ],
+        "numeric-id" : [ "1221441944267653120" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1226870747395743744/PDCqoH7F.jpg" ],
+        "published" : [ "2020-01-26T14:37:19+00:00" ],
+        "uid" : [ "tag:twitter.com:CigsMake" ],
+        "url" : [ "https://twitter.com/CigsMake", "https://instagram.com/aestheticacigs?utm_medium=copy_link" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This was a real ad" ],
+    "photo" : [ "https://pbs.twimg.com/media/FgVBA7rXkAAVz0K.jpg" ],
+    "published" : [ "2022-10-30T15:44:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1586745930526736385" ],
+    "url" : [ "https://twitter.com/CigsMake/status/1586745930526736385" ]
+  },
+  "type" : [ "h-entry" ]
+}
