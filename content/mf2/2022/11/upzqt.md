@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/killuazivert/status/1587242290581757952" ],
     "name" : [ "Like of @killuazivert's tweet" ],
     "published" : [ "2022-11-01T22:44:00+0000" ],
     "like-of" : [ "https://twitter.com/killuazivert/status/1587242290581757952" ],
