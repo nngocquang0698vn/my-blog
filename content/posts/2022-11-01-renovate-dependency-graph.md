@@ -1,19 +1,20 @@
 ---
 title: "Extracting the dependency tree from Renovate for given repositories"
-description: "Creating a (hacky) solution to retrieve the dependency graph from Renovate for a set of repositories."
-date: 2022-11-01T17:03:11+0000
+description: "Creating a (hacky) solution to retrieve the dependency graph from Renovate\
+  \ for a set of repositories."
+date: "2022-11-01T17:03:11+0000"
+syndication:
+- "https://twitter.com/JamieTanna/status/1587494598410223616"
 tags:
-- blogumentation
-- whitesource-renovate
-- open-source
-- security
-- typescript
+- "blogumentation"
+- "whitesource-renovate"
+- "open-source"
+- "security"
+- "typescript"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/6661d55f5a.jpeg"
 slug: "renovate-dependency-graph"
-syndication:
-- https://brid.gy/publish/twitter
 ---
 As I wrote about in [_Analysing our dependency trees to determine where we should send Open Source contributions for Hacktoberfest_](https://www.jvt.me/posts/2022/09/29/roo-hacktoberfest-dependency-analysis/) I've been recently playing around Dependabot and the GitHub Advanced Security API, and using it both for managing maintenance of our dependencies, as well as getting better visibility across dependency usage.
 
