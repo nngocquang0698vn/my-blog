@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1587446169248141312" ],
     "photo" : [ {
       "alt" : "Cookie the puppy in the middle of her comfy bed, instead of lying morally, coiled around the outside of it, with her belly pressing up against the side facing outwards, and her head facing the camera",
       "photo" : "https://media.jvt.me/3230d7ceab.jpeg"
