@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AWizardIsYou/status/1586133465925312519" ],
     "name" : [ "Like of @AWizardIsYou's tweet" ],
     "published" : [ "2022-11-01T07:17:00+0000" ],
     "like-of" : [ "https://twitter.com/AWizardIsYou/status/1586133465925312519" ],
