@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FarrahC32/status/1587331407042740224" ],
     "name" : [ "Like of @FarrahC32's tweet" ],
     "published" : [ "2022-11-01T07:15:00+0000" ],
     "like-of" : [ "https://twitter.com/FarrahC32/status/1587331407042740224" ],
