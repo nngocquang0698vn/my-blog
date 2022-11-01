@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jana_pruden/status/1587236612303642625" ],
     "name" : [ "Like of @jana_pruden's tweet" ],
     "published" : [ "2022-11-01T17:07:00+0000" ],
     "like-of" : [ "https://twitter.com/jana_pruden/status/1587236612303642625" ],
