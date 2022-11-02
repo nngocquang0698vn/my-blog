@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ithayla/status/1587362568733020160" ],
     "name" : [ "Like of @ithayla's tweet" ],
     "published" : [ "2022-11-02T07:23:00+0000" ],
     "like-of" : [ "https://twitter.com/ithayla/status/1587362568733020160" ],
