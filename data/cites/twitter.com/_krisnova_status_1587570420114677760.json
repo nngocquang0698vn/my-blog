@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1561709394601058304/kujpEvS6.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://hachyderm.io/web/@nova" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Between my new job at GitHub and hosting folks from the Kubernetes and Linux community on Mastodon its remarkable how big of a slice of the internet I am now totally not going to fuck up.😅" ],
+    "published" : [ "2022-11-01T22:20:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1587570420114677760" ],
+    "url" : [ "https://twitter.com/krisnova/status/1587570420114677760" ]
+  },
+  "type" : [ "h-entry" ]
+}
