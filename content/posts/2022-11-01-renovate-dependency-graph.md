@@ -212,4 +212,4 @@ npm exec tsup index.ts && node dist/index.js --token $GITHUB_COM_TOKEN --autodis
 
 Which then populates many files in the `out` directory.
 
-Now that we have these JSON files, we could then, similar to my Hacktobefest-related post, convert those JSON files to a queryable SQLite database, and allow us to perform some of our own analysis of the data. I'll leave the coercion of this data to SQLite as an exercise to the reader (and will likely update this post in the next couple of days with details).
+As per the README of the project, you can then use `sqlite-utils` and a hand-rolled script to construct an SQLite database with the data, for easy querying.
