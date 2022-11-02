@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/maciejwalkowiak/status/1587825652211892224" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1587854542648983553" ],
     "published" : [ "2022-11-02T16:58:00+0000" ],
     "post-status" : [ "published" ],
     "content" : [ {
