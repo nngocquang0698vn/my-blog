@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "UK and Ireland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Samaritans" ],
+          "nickname" : [ "samaritans" ],
+          "numeric-id" : [ "404248209" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1105453037848588288/HsBKm8My.png" ],
+          "published" : [ "2011-11-03T17:08:57+00:00" ],
+          "uid" : [ "tag:twitter.com:samaritans" ],
+          "url" : [ "https://twitter.com/samaritans", "http://www.samaritans.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We’re not afraid to talk about suicide. Tap retweet and let’s all break the silence together 💪" ],
+      "photo" : [ {
+        "alt" : "Talking about suicide saves lives.\n\nWe're ready to listen. ",
+        "value" : "https://pbs.twimg.com/media/Fgjw_XYXwAYnFtJ.jpg"
+      } ],
+      "published" : [ "2022-11-02T12:29:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1587783842974384130" ],
+      "url" : [ "https://twitter.com/samaritans/status/1587783842974384130" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rebekah" ],
+        "nickname" : [ "rkulidzan" ],
+        "numeric-id" : [ "1381658287" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1580540046876282882/qvazdlXr.jpg" ],
+        "published" : [ "2013-04-26T11:00:45+00:00" ],
+        "uid" : [ "tag:twitter.com:rkulidzan" ],
+        "url" : [ "https://twitter.com/rkulidzan", "https://linktr.ee/rkulidzan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is why I shared my story. Not for attention. Not for sympathy. Not because it’s easy. Because it’s important\n\n<a href=\"https://twitter.com/samaritans\">@samaritans</a> are always there 💚 116 123</div>",
+      "value" : "This is why I shared my story. Not for attention. Not for sympathy. Not because it’s easy. Because it’s important\n\n@samaritans are always there 💚 116 123"
+    } ],
+    "published" : [ "2022-11-02T15:16:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1587825888296566790" ],
+    "url" : [ "https://twitter.com/rkulidzan/status/1587825888296566790" ]
+  },
+  "type" : [ "h-entry" ]
+}
