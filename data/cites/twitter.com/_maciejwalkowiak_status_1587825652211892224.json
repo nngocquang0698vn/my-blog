@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy", "http://github.com/awspring/spring-cloud-aws" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm really bad with naming so please help me find a name for a maven plugin that runs multiple commands/goals in sequence or parallel 🙏" ],
+    "published" : [ "2022-11-02T15:15:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1587825652211892224" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1587825652211892224" ]
+  },
+  "type" : [ "h-entry" ]
+}
