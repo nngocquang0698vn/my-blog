@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ahidalgosre/status/1587875707086163969" ],
     "name" : [ "Like of @ahidalgosre's tweet" ],
     "published" : [ "2022-11-02T20:49:00+0000" ],
     "like-of" : [ "https://twitter.com/ahidalgosre/status/1587875707086163969" ],
