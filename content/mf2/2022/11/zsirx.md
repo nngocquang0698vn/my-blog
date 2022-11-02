@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BreakingBadIrny/status/1587821842047242240" ],
     "name" : [ "Like of @BreakingBadIrny's tweet" ],
     "published" : [ "2022-11-02T16:57:00+0000" ],
     "like-of" : [ "https://twitter.com/BreakingBadIrny/status/1587821842047242240" ],
