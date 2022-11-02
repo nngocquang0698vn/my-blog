@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rkulidzan/status/1587825888296566790" ],
     "name" : [ "Like of @rkulidzan's tweet" ],
     "published" : [ "2022-11-02T16:05:00+0000" ],
     "like-of" : [ "https://twitter.com/rkulidzan/status/1587825888296566790" ],
