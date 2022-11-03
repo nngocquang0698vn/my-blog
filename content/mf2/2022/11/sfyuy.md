@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/david_edelhart/status/1588253238867898369" ],
     "name" : [ "Like of @david_edelhart's tweet" ],
     "published" : [ "2022-11-03T20:27:00+0000" ],
     "like-of" : [ "https://twitter.com/david_edelhart/status/1588253238867898369" ],
