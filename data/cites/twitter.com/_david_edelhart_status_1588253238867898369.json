@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF / Bay Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dave Edelhart" ],
+        "nickname" : [ "david_edelhart" ],
+        "numeric-id" : [ "106869885" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/929536652585836544/fyHhchz_.jpg" ],
+        "published" : [ "2010-01-20T23:17:20+00:00" ],
+        "uid" : [ "tag:twitter.com:david_edelhart" ],
+        "url" : [ "https://twitter.com/david_edelhart", "http://www.wonderlandlabs.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Really? You call THAT a tweet? Whatever.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/izs\"></a>",
+      "value" : "Really? You call THAT a tweet? Whatever."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/izs/status/1588252511235805184" ],
+    "published" : [ "2022-11-03T19:34:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1588253238867898369" ],
+    "url" : [ "https://twitter.com/david_edelhart/status/1588253238867898369" ]
+  },
+  "type" : [ "h-entry" ]
+}
