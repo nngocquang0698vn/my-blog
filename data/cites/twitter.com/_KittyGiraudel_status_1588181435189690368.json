@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kitty Giraudel" ],
+        "nickname" : [ "KittyGiraudel" ],
+        "numeric-id" : [ "551949534" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542083451062571008/xQA4hrJ4.jpg" ],
+        "published" : [ "2012-04-12T13:39:49+00:00" ],
+        "uid" : [ "tag:twitter.com:KittyGiraudel" ],
+        "url" : [ "https://twitter.com/KittyGiraudel", "https://kittygiraudel.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I just remembered Slack supports sed-like syntax to edit a message. 🤯\n\nFor instance: /s/great/amazing/ would replace the word “great” by “amazing” in the last message. 🔥</div>",
+      "value" : "I just remembered Slack supports sed-like syntax to edit a message. 🤯\n\nFor instance: /s/great/amazing/ would replace the word “great” by “amazing” in the last message. 🔥"
+    } ],
+    "published" : [ "2022-11-03T14:48:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1588181435189690368" ],
+    "url" : [ "https://twitter.com/KittyGiraudel/status/1588181435189690368" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1588181347192954880/pu/vid/810x550/cIylSEyIZgeK4_pd.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
