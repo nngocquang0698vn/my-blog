@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "isaacs" ],
+        "nickname" : [ "izs" ],
+        "numeric-id" : [ "8038312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279598505078611968/XxNORXPs.jpg" ],
+        "published" : [ "2007-08-07T20:44:59+00:00" ],
+        "uid" : [ "tag:twitter.com:izs" ],
+        "url" : [ "https://twitter.com/izs", "https://izs.me", "http://keybase.io/isaacs/chat", "http://izs.me/hire", "http://izs.me/sponsor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There is nothing -- NOTHING -- so innovative, clever, or difficult, that you can *possibly* do, which will not be met with a scoffing \"whatever, we don't need this, I could do that in a weekend\" from some asshat on hacker news." ],
+    "published" : [ "2022-11-03T19:31:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1588252511235805184" ],
+    "url" : [ "https://twitter.com/izs/status/1588252511235805184" ]
+  },
+  "type" : [ "h-entry" ]
+}
