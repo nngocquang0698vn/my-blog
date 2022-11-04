@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CassidyJames/status/1588279198640009218" ],
     "name" : [ "Like of @CassidyJames's tweet" ],
     "published" : [ "2022-11-04T08:20:00+0000" ],
     "like-of" : [ "https://twitter.com/CassidyJames/status/1588279198640009218" ],
