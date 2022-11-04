@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emcorinne/status/1588330203499171840" ],
     "name" : [ "Like of @emcorinne's tweet" ],
     "published" : [ "2022-11-04T08:25:00+0000" ],
     "like-of" : [ "https://twitter.com/emcorinne/status/1588330203499171840" ],
