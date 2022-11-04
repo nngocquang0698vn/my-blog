@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAlexisPereira/status/1588225699575373830" ],
     "name" : [ "Like of @MrAlexisPereira's tweet" ],
     "published" : [ "2022-11-04T20:41:00+0000" ],
     "like-of" : [ "https://twitter.com/MrAlexisPereira/status/1588225699575373830" ],
