@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phonz" ],
+        "nickname" : [ "Phonz" ],
+        "numeric-id" : [ "6069072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1556888358067982339/kWKojbDt.jpg" ],
+        "published" : [ "2007-05-15T18:09:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Phonz" ],
+        "url" : [ "https://twitter.com/Phonz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">wont get to Tweet it, but here it is - the last <a href=\"https://twitter.com/Twitter\">@Twitter</a> Tweet from my team and I\n\nLove y’all and thank you for the honor of a lifetime <a href=\"https://twitter.com/search?q=%23OneTeam\">#OneTeam</a></div>",
+      "value" : "wont get to Tweet it, but here it is - the last @Twitter Tweet from my team and I\n\nLove y’all and thank you for the honor of a lifetime #OneTeam"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FgtLP2AVsAAAbmx.jpg" ],
+    "published" : [ "2022-11-04T08:20:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1588446032459091968" ],
+    "url" : [ "https://twitter.com/Phonz/status/1588446032459091968" ]
+  },
+  "type" : [ "h-entry" ]
+}
