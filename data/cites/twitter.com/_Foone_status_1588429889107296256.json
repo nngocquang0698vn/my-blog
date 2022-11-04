@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Leandro" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "foone🏳️‍⚧️" ],
+        "nickname" : [ "Foone" ],
+        "numeric-id" : [ "13502732" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0.jpg" ],
+        "published" : [ "2008-02-15T03:51:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Foone" ],
+        "url" : [ "https://twitter.com/Foone", "https://floppy.foone.org/w/Main_Page", "http://ko-fi.com/fooneturing" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As a former SRE, I'd just like to say:\nThis site isn't going to burn down. That's way too calm and organized a death for a site this big which apparently just fired most of the on-call staff.</div>",
+      "value" : "As a former SRE, I'd just like to say:\nThis site isn't going to burn down. That's way too calm and organized a death for a site this big which apparently just fired most of the on-call staff."
+    } ],
+    "published" : [ "2022-11-04T07:16:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1588429889107296256" ],
+    "url" : [ "https://twitter.com/Foone/status/1588429889107296256" ]
+  },
+  "type" : [ "h-entry" ]
+}
