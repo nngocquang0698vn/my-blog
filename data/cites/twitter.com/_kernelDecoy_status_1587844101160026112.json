@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Santa Monica, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Naughty Dog" ],
+          "nickname" : [ "Naughty_Dog" ],
+          "numeric-id" : [ "15222083" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1577361605787983872/Gb5coDdB.jpg" ],
+          "published" : [ "2008-06-24T17:51:23+00:00" ],
+          "uid" : [ "tag:twitter.com:Naughty_Dog" ],
+          "url" : [ "https://twitter.com/Naughty_Dog", "https://bit.ly/3AbjHeg" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You have no idea what loss is. <a href=\"https://twitter.com/search?q=%23TheLastofUs\">#TheLastofUs</a> premieres January 15 on <a href=\"https://twitter.com/HBO\">@HBO</a> <a href=\"https://twitter.com/hbomax\">@hbomax</a> <a href=\"https://twitter.com/search?q=%23TLOU\">#TLOU</a>",
+        "value" : "You have no idea what loss is. #TheLastofUs premieres January 15 on @HBO @hbomax #TLOU"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fgkht3XXoAE5FZO.jpg" ],
+      "published" : [ "2022-11-02T16:01:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1587837418748657665" ],
+      "url" : [ "https://twitter.com/Naughty_Dog/status/1587837418748657665" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "🌸 Cute Little Cherry Boy 🍒" ],
+        "nickname" : [ "kernelDecoy" ],
+        "numeric-id" : [ "799731598279184385" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1558082946724151296/mJUxVWZL.jpg" ],
+        "published" : [ "2016-11-18T21:50:46+00:00" ],
+        "uid" : [ "tag:twitter.com:kernelDecoy" ],
+        "url" : [ "https://twitter.com/kernelDecoy", "http://www.furaffinity.net/user/kerneldecoy/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fgknxq9X0AYGvkS.jpg" ],
+    "published" : [ "2022-11-02T16:28:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1587844101160026112" ],
+    "url" : [ "https://twitter.com/kernelDecoy/status/1587844101160026112" ]
+  },
+  "type" : [ "h-entry" ]
+}
