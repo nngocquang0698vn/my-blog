@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kernelDecoy/status/1587844101160026112" ],
     "name" : [ "Like of @kernelDecoy's tweet" ],
     "published" : [ "2022-11-04T08:35:00+0000" ],
     "like-of" : [ "https://twitter.com/kernelDecoy/status/1587844101160026112" ],
