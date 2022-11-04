@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MeganSutherlin/status/1588413701488377856" ],
     "name" : [ "Like of @MeganSutherlin's tweet" ],
     "published" : [ "2022-11-04T19:25:00+0000" ],
     "like-of" : [ "https://twitter.com/MeganSutherlin/status/1588413701488377856" ],
