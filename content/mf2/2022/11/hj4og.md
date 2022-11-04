@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/andypiper/status/1588453008597196800" ],
     "name" : [ "Like of @andypiper's tweet" ],
     "published" : [ "2022-11-04T12:52:00+0000" ],
     "like-of" : [ "https://twitter.com/andypiper/status/1588453008597196800" ],
