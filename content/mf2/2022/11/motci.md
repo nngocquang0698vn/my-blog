@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/iamgabesanchez/status/1588565641233338369" ],
     "name" : [ "Like of @iamgabesanchez's tweet" ],
     "published" : [ "2022-11-04T22:35:00+0000" ],
     "like-of" : [ "https://twitter.com/iamgabesanchez/status/1588565641233338369" ],
