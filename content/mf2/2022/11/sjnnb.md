@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tize4PF/status/1588394104345751553" ],
     "name" : [ "Like of @tize4PF's tweet" ],
     "published" : [ "2022-11-04T22:34:00+0000" ],
     "like-of" : [ "https://twitter.com/tize4PF/status/1588394104345751553" ],
