@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maybettl/status/1587921038540611584" ],
     "name" : [ "Like of @maybettl's tweet" ],
     "published" : [ "2022-11-04T08:26:00+0000" ],
     "like-of" : [ "https://twitter.com/maybettl/status/1587921038540611584" ],
