@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/badbbyaera/status/1588361286844571648" ],
     "name" : [ "Like of @badbbyaera's tweet" ],
     "published" : [ "2022-11-04T22:33:00+0000" ],
     "like-of" : [ "https://twitter.com/badbbyaera/status/1588361286844571648" ],
