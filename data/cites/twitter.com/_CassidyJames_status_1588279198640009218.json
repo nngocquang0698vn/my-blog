@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cassidy James 🐘" ],
+        "nickname" : [ "CassidyJames" ],
+        "numeric-id" : [ "17333065" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588184315514462210/nSSe6vVn.jpg" ],
+        "published" : [ "2008-11-12T05:47:21+00:00" ],
+        "uid" : [ "tag:twitter.com:CassidyJames" ],
+        "url" : [ "https://twitter.com/CassidyJames", "https://mastodon.social/@cassidyjames" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Cool cool, Disney+ added a user agent check and blocks streaming on Linux, now, after engineers at the company previously ensured it works (since they use Linux!). Changing my user agent to Windows makes the service work again.\n\nWhat year is it, Disney?</div>",
+      "value" : "Cool cool, Disney+ added a user agent check and blocks streaming on Linux, now, after engineers at the company previously ensured it works (since they use Linux!). Changing my user agent to Windows makes the service work again.\n\nWhat year is it, Disney?"
+    } ],
+    "published" : [ "2022-11-03T21:17:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1588279198640009218" ],
+    "url" : [ "https://twitter.com/CassidyJames/status/1588279198640009218" ]
+  },
+  "type" : [ "h-entry" ]
+}
