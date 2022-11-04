@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gurkan Oluc" ],
+          "nickname" : [ "grkn" ],
+          "numeric-id" : [ "7567812" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1584615272811560984/84krqTUu.jpg" ],
+          "published" : [ "2007-07-18T19:26:51+00:00" ],
+          "uid" : [ "tag:twitter.com:grkn" ],
+          "url" : [ "https://twitter.com/grkn" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I told her \"If I can login to this computer, I possibly still have a job\". I typed my password, hmm it worked. Then went to my email, ok it seems to still work. Logged out, tried logging in back, ok that's still there." ],
+      "in-reply-to" : [ "https://twitter.com/grkn/status/1588641808363716610" ],
+      "published" : [ "2022-11-04T21:18:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1588641810720903168" ],
+      "url" : [ "https://twitter.com/grkn/status/1588641810720903168" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "bencord0" ],
+        "nickname" : [ "bencord0" ],
+        "numeric-id" : [ "16199761" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1016770575610601472/XdhC26yq.jpg" ],
+        "published" : [ "2008-09-09T08:42:45+00:00" ],
+        "uid" : [ "tag:twitter.com:bencord0" ],
+        "url" : [ "https://twitter.com/bencord0", "http://blog.rebornco.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"If I can login to this computer, I possibly still have a job\"\n\nis not the way we should be learning about this whims of a megalomaniac</div>",
+      "value" : "\"If I can login to this computer, I possibly still have a job\"\n\nis not the way we should be learning about this whims of a megalomaniac"
+    } ],
+    "published" : [ "2022-11-04T22:00:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1588652469844074496" ],
+    "url" : [ "https://twitter.com/bencord0/status/1588652469844074496" ]
+  },
+  "type" : [ "h-entry" ]
+}
