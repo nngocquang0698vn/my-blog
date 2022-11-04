@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RReverser/status/1588546210121424897" ],
     "name" : [ "Like of @RReverser's tweet" ],
     "published" : [ "2022-11-04T15:21:00+0000" ],
     "like-of" : [ "https://twitter.com/RReverser/status/1588546210121424897" ],
