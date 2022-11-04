@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Missoula, MT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hank Green" ],
+        "nickname" : [ "hankgreen" ],
+        "numeric-id" : [ "61592079" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1502824671292448768/LbY2Y0Pf.jpg" ],
+        "published" : [ "2009-07-30T20:36:34+00:00" ],
+        "uid" : [ "tag:twitter.com:hankgreen" ],
+        "url" : [ "https://twitter.com/hankgreen", "http://hankgreen.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You tweeted a conspiracy theory from a website less credible than the National Enquirer like four days ago. We all need to look inward as well as outward.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "You tweeted a conspiracy theory from a website less credible than the National Enquirer like four days ago. We all need to look inward as well as outward."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1588538640401018880" ],
+    "published" : [ "2022-11-04T14:56:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1588545808366211074" ],
+    "url" : [ "https://twitter.com/hankgreen/status/1588545808366211074" ]
+  },
+  "type" : [ "h-entry" ]
+}
