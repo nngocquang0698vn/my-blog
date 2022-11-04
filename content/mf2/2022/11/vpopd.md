@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/roach/status/1588323576121131008" ],
     "name" : [ "Like of @roach's tweet" ],
     "published" : [ "2022-11-04T08:26:00+0000" ],
     "like-of" : [ "https://twitter.com/roach/status/1588323576121131008" ],
