@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elibelly/status/1588375224080531458" ],
     "name" : [ "Like of @elibelly's tweet" ],
     "published" : [ "2022-11-04T08:27:00+0000" ],
     "like-of" : [ "https://twitter.com/elibelly/status/1588375224080531458" ],
