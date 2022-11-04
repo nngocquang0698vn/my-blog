@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EddyWar_/status/1588291804205813762" ],
     "name" : [ "Like of @EddyWar_'s tweet" ],
     "published" : [ "2022-11-04T08:28:00+0000" ],
     "like-of" : [ "https://twitter.com/EddyWar_/status/1588291804205813762" ],
