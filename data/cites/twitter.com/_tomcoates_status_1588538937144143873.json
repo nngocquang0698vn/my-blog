@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Coates" ],
+        "nickname" : [ "tomcoates" ],
+        "numeric-id" : [ "12514" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1270078137636773890/LiYcbb33.jpg" ],
+        "published" : [ "2006-11-15T14:44:26+00:00" ],
+        "uid" : [ "tag:twitter.com:tomcoates" ],
+        "url" : [ "https://twitter.com/tomcoates", "http://www.plasticbag.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "No, Elon - Twitter has a massive drop in revenue because of PEOPLE EXERCISING THEIR FREE SPEECH about you joining the company, trolling the Pelosi family, talking about ‘free speech absolutism’ and there being a 500% increase in racial slurs in days after you arrived.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "No, Elon - Twitter has a massive drop in revenue because of PEOPLE EXERCISING THEIR FREE SPEECH about you joining the company, trolling the Pelosi family, talking about ‘free speech absolutism’ and there being a 500% increase in racial slurs in days after you arrived."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1588538640401018880" ],
+    "published" : [ "2022-11-04T14:29:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1588538937144143873" ],
+    "url" : [ "https://twitter.com/tomcoates/status/1588538937144143873" ]
+  },
+  "type" : [ "h-entry" ]
+}
