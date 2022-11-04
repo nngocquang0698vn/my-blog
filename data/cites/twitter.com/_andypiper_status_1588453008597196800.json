@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kingston upon Thames, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Piper" ],
+        "nickname" : [ "andypiper" ],
+        "numeric-id" : [ "786491" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587468632170307590/6qBFP-v3.jpg" ],
+        "published" : [ "2007-02-21T15:14:48+00:00" ],
+        "uid" : [ "tag:twitter.com:andypiper" ],
+        "url" : [ "https://twitter.com/andypiper", "https://andypiper.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It is done. \n\nI’m incredibly proud of the <a href=\"https://twitter.com/TwitterDev\">@TwitterDev</a> team(s), and the folks I’ve worked with across nearly 9 years to keep the API and developer platform vibrant.\n\nTo those in our developer community: thank you. It was my honour to serve you.</div>",
+      "value" : "It is done. \n\nI’m incredibly proud of the @TwitterDev team(s), and the folks I’ve worked with across nearly 9 years to keep the API and developer platform vibrant.\n\nTo those in our developer community: thank you. It was my honour to serve you."
+    } ],
+    "published" : [ "2022-11-04T08:48:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1588453008597196800" ],
+    "url" : [ "https://twitter.com/andypiper/status/1588453008597196800" ]
+  },
+  "type" : [ "h-entry" ]
+}
