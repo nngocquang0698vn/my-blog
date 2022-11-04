@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marie Le Conte" ],
+        "nickname" : [ "youngvulgarian" ],
+        "numeric-id" : [ "268809577" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1536107811670745089/ecNYhCDO.jpg" ],
+        "published" : [ "2011-03-19T14:21:55+00:00" ],
+        "uid" : [ "tag:twitter.com:youngvulgarian" ],
+        "url" : [ "https://twitter.com/youngvulgarian", "http://marieleconte.tumblr.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "you know the terrible truth is the most obvious replacement for Twitter would actually be Tumblr, the dashboard is basically a good timeline, you can reblog stuff and add your own comments, you can build communities but still be part of a wider whole website, etc etc" ],
+    "published" : [ "2022-11-04T19:03:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1588608012583071744" ],
+    "url" : [ "https://twitter.com/youngvulgarian/status/1588608012583071744" ]
+  },
+  "type" : [ "h-entry" ]
+}
