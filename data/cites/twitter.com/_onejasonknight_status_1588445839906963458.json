@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Knight" ],
+        "nickname" : [ "onejasonknight" ],
+        "numeric-id" : [ "20244980" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587598542322941955/lyAbMkJE.jpg" ],
+        "published" : [ "2009-02-06T15:37:29+00:00" ],
+        "uid" : [ "tag:twitter.com:onejasonknight" ],
+        "url" : [ "https://twitter.com/onejasonknight", "https://okip.link/jason" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Elon Musk firing half of Twitter by email because he overpaid for the company and has no credible idea what to do with it is insane" ],
+    "published" : [ "2022-11-04T08:19:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1588445839906963458" ],
+    "url" : [ "https://twitter.com/onejasonknight/status/1588445839906963458" ]
+  },
+  "type" : [ "h-entry" ]
+}
