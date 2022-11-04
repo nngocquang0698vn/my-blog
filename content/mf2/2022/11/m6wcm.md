@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swodinsky/status/1588501635365752832" ],
     "name" : [ "Like of @swodinsky's tweet" ],
     "published" : [ "2022-11-04T15:09:00+0000" ],
     "like-of" : [ "https://twitter.com/swodinsky/status/1588501635365752832" ],
