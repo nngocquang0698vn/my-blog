@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Conan O'Brien" ],
+        "nickname" : [ "ConanOBrien" ],
+        "numeric-id" : [ "115485051" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/730612231021322240/Rl0_QYhL.jpg" ],
+        "published" : [ "2010-02-18T20:17:16+00:00" ],
+        "uid" : [ "tag:twitter.com:ConanOBrien" ],
+        "url" : [ "https://twitter.com/ConanOBrien", "http://teamcoco.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "For Christmas this year, I’m going to splurge and give everyone in my family blue checks on Twitter." ],
+    "published" : [ "2022-11-04T22:20:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1588657388449570816" ],
+    "url" : [ "https://twitter.com/ConanOBrien/status/1588657388449570816" ]
+  },
+  "type" : [ "h-entry" ]
+}
