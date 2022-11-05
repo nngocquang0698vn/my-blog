@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SillyRobin/status/1589012545091686400" ],
     "name" : [ "Like of @SillyRobin's tweet" ],
     "published" : [ "2022-11-05T22:35:00+0000" ],
     "like-of" : [ "https://twitter.com/SillyRobin/status/1589012545091686400" ],
