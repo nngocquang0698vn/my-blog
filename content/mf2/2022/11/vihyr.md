@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/themaxburns/status/1588682677330522115" ],
     "name" : [ "Like of @themaxburns's tweet" ],
     "published" : [ "2022-11-05T13:45:00+0000" ],
     "like-of" : [ "https://twitter.com/themaxburns/status/1588682677330522115" ],
