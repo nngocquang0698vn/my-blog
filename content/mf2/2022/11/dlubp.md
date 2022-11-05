@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1588968380144521218" ],
     "published" : [ "2022-11-05T18:45:00+0000" ],
     "category" : [ "fediverse" ],
     "post-status" : [ "published" ],
