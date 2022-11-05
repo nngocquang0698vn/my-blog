@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/cowglow/status/1588267705957842945" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1588828651302391809" ],
     "published" : [ "2022-11-05T09:29:00+0000" ],
     "post-status" : [ "published" ],
     "content" : [ {
