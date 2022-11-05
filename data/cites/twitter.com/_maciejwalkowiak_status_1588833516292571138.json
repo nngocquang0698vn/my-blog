@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy", "http://github.com/awspring/spring-cloud-aws" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What I've been working on today morning: Maven Central setup automation for <a href=\"https://twitter.com/ASFMavenProject\">@ASFMavenProject</a>, <a href=\"https://twitter.com/jreleaser\">@jreleaser</a> and Github Actions\n\n- guides through the process\n- checks TXT record\n- creates GPG keys and exports them to GH secrets\n- creates jreleaser config and github action</div>",
+      "value" : "What I've been working on today morning: Maven Central setup automation for @ASFMavenProject, @jreleaser and Github Actions\n\n- guides through the process\n- checks TXT record\n- creates GPG keys and exports them to GH secrets\n- creates jreleaser config and github action"
+    } ],
+    "published" : [ "2022-11-05T10:00:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1588833516292571138" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1588833516292571138" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1588831944376188928/pu/vid/1200x600/jJ5m1y1HhBSX1VpW.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
