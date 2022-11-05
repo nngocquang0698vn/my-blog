@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mmpadellan/status/1588773344018829313" ],
     "name" : [ "Like of @mmpadellan's tweet" ],
     "published" : [ "2022-11-05T10:35:00+0000" ],
     "like-of" : [ "https://twitter.com/mmpadellan/status/1588773344018829313" ],
