@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1588954336004116481" ],
     "photo" : [ {
       "alt" : "Cookie the puppy fast asleep, slightly curled up, on the velvet green footstool. Behind her, slightly blurred as the focus is on Cookie, is the log burner blazing away",
       "photo" : "https://media.jvt.me/e65d9eed76.jpeg"
