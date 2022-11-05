@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ConanOBrien/status/1588657388449570816" ],
     "name" : [ "Like of @ConanOBrien's tweet" ],
     "published" : [ "2022-11-05T13:40:00+0000" ],
     "like-of" : [ "https://twitter.com/ConanOBrien/status/1588657388449570816" ],
