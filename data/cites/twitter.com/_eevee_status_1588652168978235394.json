@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee ❎" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1578966894865891328/w8ryCZZy.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "it seems like elon definitely uses his verified notifications tab which is going to make it really funny when anyone can buy their way onto it" ],
+    "published" : [ "2022-11-04T21:59:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1588652168978235394" ],
+    "url" : [ "https://twitter.com/eevee/status/1588652168978235394" ]
+  },
+  "type" : [ "h-entry" ]
+}
