@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheOnyxGuy/status/1588735787461664769" ],
     "name" : [ "Like of @TheOnyxGuy's tweet" ],
     "published" : [ "2022-11-05T13:48:00+0000" ],
     "like-of" : [ "https://twitter.com/TheOnyxGuy/status/1588735787461664769" ],
