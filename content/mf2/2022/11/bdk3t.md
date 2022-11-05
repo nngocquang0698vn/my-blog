@@ -7,7 +7,7 @@
     "published" : [ "2022-11-05T14:39:47.783505789Z" ],
     "like-of" : [ "https://indieweb.social/@tchambers/109243684867780200" ],
     "post-status" : [ "published" ],
-    "syndication" : [ "<a href=\"https://fed.brid.gy/\"></a>"]
+    "syndication" : [ "https://fed.brid.gy/"]
   },
   "kind" : "likes",
   "slug" : "2022/11/bdk3t",
