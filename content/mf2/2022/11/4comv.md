@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Marcus_Noble_/status/1588968953614843905" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1588972710578847744" ],
     "published" : [ "2022-11-05T19:02:00+0000" ],
     "post-status" : [ "published" ],
     "content" : [ {
