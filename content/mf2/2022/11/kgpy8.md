@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HecticTeacher/status/1588448006084628480" ],
     "name" : [ "Like of @HecticTeacher's tweet" ],
     "published" : [ "2022-11-05T13:46:00+0000" ],
     "like-of" : [ "https://twitter.com/HecticTeacher/status/1588448006084628480" ],
