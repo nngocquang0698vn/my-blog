@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/coolthulu/status/1588736890228084736" ],
     "name" : [ "Like of @coolthulu's tweet" ],
     "published" : [ "2022-11-05T10:45:00+0000" ],
     "like-of" : [ "https://twitter.com/coolthulu/status/1588736890228084736" ],
