@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lincoln W Daniel" ],
+        "nickname" : [ "LincolnWDaniel" ],
+        "numeric-id" : [ "92684785" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1289744508775800832/rk2rBPk-.jpg" ],
+        "published" : [ "2009-11-26T04:37:46+00:00" ],
+        "uid" : [ "tag:twitter.com:LincolnWDaniel" ],
+        "url" : [ "https://twitter.com/LincolnWDaniel", "https://lwd.dev", "http://BullAcademy.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It sounds like you've never actually refactor a system, let alone rebuilt an entire platform without downtime 🙄\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JorgeEscobar\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cassiecodes\"></a>",
+      "value" : "It sounds like you've never actually refactor a system, let alone rebuilt an entire platform without downtime 🙄"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JorgeEscobar/status/1588620301419835392" ],
+    "published" : [ "2022-11-05T03:06:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1588729345878953985" ],
+    "url" : [ "https://twitter.com/LincolnWDaniel/status/1588729345878953985" ]
+  },
+  "type" : [ "h-entry" ]
+}
