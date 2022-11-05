@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1589009644114284544" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "26.504258,-80.145171" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sillyrobin is a fmr Tweep" ],
+        "nickname" : [ "SillyRobin" ],
+        "numeric-id" : [ "14492779" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573835906397589504/JffcIY5M.jpg" ],
+        "published" : [ "2008-04-23T12:54:55+00:00" ],
+        "uid" : [ "tag:twitter.com:SillyRobin" ],
+        "url" : [ "https://twitter.com/SillyRobin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Just to be clear, he *also* fired the team who *built* and *shipped* this.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1589009644114284544\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Just to be clear, he *also* fired the team who *built* and *shipped* this."
+    } ],
+    "published" : [ "2022-11-05T21:51:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1589012545091686400" ],
+    "url" : [ "https://twitter.com/SillyRobin/status/1589012545091686400" ]
+  },
+  "type" : [ "h-entry" ]
+}
