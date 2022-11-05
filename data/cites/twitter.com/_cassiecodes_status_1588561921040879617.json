@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cassie Evans" ],
+        "nickname" : [ "cassiecodes" ],
+        "numeric-id" : [ "758598429115310080" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486429238941134861/y11F6GrI.jpg" ],
+        "published" : [ "2016-07-28T09:42:14+00:00" ],
+        "uid" : [ "tag:twitter.com:cassiecodes" ],
+        "url" : [ "https://twitter.com/cassiecodes", "https://cassie.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Someone remix this meme to be on fire\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/trostcodes\"></a>",
+      "value" : "Someone remix this meme to be on fire"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/trostcodes/status/1588557779736096768" ],
+    "published" : [ "2022-11-04T16:00:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1588561921040879617" ],
+    "url" : [ "https://twitter.com/cassiecodes/status/1588561921040879617" ]
+  },
+  "type" : [ "h-entry" ]
+}
