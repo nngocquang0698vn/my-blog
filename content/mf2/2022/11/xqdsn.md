@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Tymscar/status/1588985056433147904" ],
     "name" : [ "Like of @Tymscar's tweet" ],
     "published" : [ "2022-11-05T20:30:00+0000" ],
     "like-of" : [ "https://twitter.com/Tymscar/status/1588985056433147904" ],
