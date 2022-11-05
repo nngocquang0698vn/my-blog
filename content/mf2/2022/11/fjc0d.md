@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/everestpipkin/status/1588636275942502400" ],
     "name" : [ "Like of @everestpipkin's tweet" ],
     "published" : [ "2022-11-05T13:38:00+0000" ],
     "like-of" : [ "https://twitter.com/everestpipkin/status/1588636275942502400" ],
