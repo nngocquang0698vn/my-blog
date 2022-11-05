@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Max Burns" ],
+        "nickname" : [ "themaxburns" ],
+        "numeric-id" : [ "1599266138" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526783485364604933/jyRTM2xK.jpg" ],
+        "published" : [ "2013-07-16T20:58:10+00:00" ],
+        "uid" : [ "tag:twitter.com:themaxburns" ],
+        "url" : [ "https://twitter.com/themaxburns", "https://thirddegreestrategies.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"Advertise on Twitter or I will unleash my followers on your brand\" is a pretty wild bizdev strategy!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mrddmia\"></a>",
+      "value" : "\"Advertise on Twitter or I will unleash my followers on your brand\" is a pretty wild bizdev strategy!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1588676939463946241" ],
+    "published" : [ "2022-11-05T00:00:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1588682677330522115" ],
+    "url" : [ "https://twitter.com/themaxburns/status/1588682677330522115" ]
+  },
+  "type" : [ "h-entry" ]
+}
