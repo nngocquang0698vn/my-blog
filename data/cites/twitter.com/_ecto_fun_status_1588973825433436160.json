@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "21" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "laura 🦠" ],
+        "nickname" : [ "ecto_fun" ],
+        "numeric-id" : [ "1112586312622592001" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443606931487272971/UhiupkK5.jpg" ],
+        "published" : [ "2019-04-01T05:23:42+00:00" ],
+        "uid" : [ "tag:twitter.com:ecto_fun" ],
+        "url" : [ "https://twitter.com/ecto_fun", "https://www.instagram.com/ecto_fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "some girl just told me to join this if twitter dies" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fg0rRa-XkAAOB8j.jpg", "https://pbs.twimg.com/media/Fg0rRa6XgAAE0VM.jpg", "https://pbs.twimg.com/media/Fg0rRbBXkAAqB0U.jpg" ],
+    "published" : [ "2022-11-05T19:17:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1588973825433436160" ],
+    "url" : [ "https://twitter.com/ecto_fun/status/1588973825433436160" ]
+  },
+  "type" : [ "h-entry" ]
+}
