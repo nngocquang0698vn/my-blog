@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "greenwich meridian" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "tef (tired)" ],
+          "nickname" : [ "tef_ebooks" ],
+          "numeric-id" : [ "3107896458" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1545564596408225792/_pi8gsWk.jpg" ],
+          "published" : [ "2015-03-25T23:17:53+00:00" ],
+          "uid" : [ "tag:twitter.com:tef_ebooks" ],
+          "url" : [ "https://twitter.com/tef_ebooks", "http://tef.darkroom.tech" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">if i have a contentious software opinion, it's that you can build a great product on time without resorting to human sacrifice \n\nwhich doesn't sound that contentious, but wait until you tell a founder slash ceo that you're not a fan of sleep deprivation and unpaid overtime</div>",
+        "value" : "if i have a contentious software opinion, it's that you can build a great product on time without resorting to human sacrifice \n\nwhich doesn't sound that contentious, but wait until you tell a founder slash ceo that you're not a fan of sleep deprivation and unpaid overtime"
+      } ],
+      "published" : [ "2022-11-06T01:33:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1589068335261458433" ],
+      "url" : [ "https://twitter.com/tef_ebooks/status/1589068335261458433" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Seeing all your favourite twitter famous tech ICs turn startup founders trot out to agree with Muskrat and DHH has been…a lot" ],
+    "published" : [ "2022-11-06T13:41:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1589251708613337089" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1589251708613337089" ]
+  },
+  "type" : [ "h-entry" ]
+}
