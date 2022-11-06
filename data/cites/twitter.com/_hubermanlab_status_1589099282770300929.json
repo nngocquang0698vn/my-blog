@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New Orleans, LA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gilp" ],
+          "nickname" : [ "The_Gilp" ],
+          "numeric-id" : [ "929873948547960833" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/929877652898504704/wACwA9-J.jpg" ],
+          "published" : [ "2017-11-13T00:50:00+00:00" ],
+          "uid" : [ "tag:twitter.com:The_Gilp" ],
+          "url" : [ "https://twitter.com/The_Gilp" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Optimizing dopamine loops " ],
+      "published" : [ "2022-11-05T23:19:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1589034596049772546" ],
+      "url" : [ "https://twitter.com/The_Gilp/status/1589034596049772546" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1588590135255236608/pu/vid/576x1024/fVDjJrj-Pz62V7uH.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/the_gilp/statu…" ],
+      "url" : [ "https://twitter.com/the_gilp/status/1589034596049772546" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stanford, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew D. Huberman, Ph.D." ],
+        "nickname" : [ "hubermanlab" ],
+        "numeric-id" : [ "4416456732" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339713932085346306/jDTi4HKH.jpg" ],
+        "published" : [ "2015-12-01T03:52:11+00:00" ],
+        "uid" : [ "tag:twitter.com:hubermanlab" ],
+        "url" : [ "https://twitter.com/hubermanlab", "https://hubermanlab.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Proof that humans will feverishly leverage their dopamine circuits — for the provider, not the self. Look familiar?\n<a class=\"tag\" href=\"https://twitter.com/the_gilp/status/1589034596049772546\">twitter.com/the_gilp/statu…</a>",
+      "value" : "Proof that humans will feverishly leverage their dopamine circuits — for the provider, not the self. Look familiar?"
+    } ],
+    "published" : [ "2022-11-06T03:36:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1589099282770300929" ],
+    "url" : [ "https://twitter.com/hubermanlab/status/1589099282770300929" ]
+  },
+  "type" : [ "h-entry" ]
+}
