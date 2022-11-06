@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThePlanetaryGuy/status/1589013780813713408" ],
     "name" : [ "Like of @ThePlanetaryGuy's tweet" ],
     "published" : [ "2022-11-06T12:20:00+0000" ],
     "like-of" : [ "https://twitter.com/ThePlanetaryGuy/status/1589013780813713408" ],
