@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emmadaboutlife/status/1588677428943400960" ],
     "name" : [ "Like of @emmadaboutlife's tweet" ],
     "published" : [ "2022-11-06T07:38:00+0000" ],
     "like-of" : [ "https://twitter.com/emmadaboutlife/status/1588677428943400960" ],
