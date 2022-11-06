@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Lauren N. Roth 🇺🇸" ],
+          "nickname" : [ "lauren_n_roth" ],
+          "numeric-id" : [ "2886511835" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1583976007861673987/9TwEf1c5.jpg" ],
+          "published" : [ "2014-11-21T04:28:07+00:00" ],
+          "uid" : [ "tag:twitter.com:lauren_n_roth" ],
+          "url" : [ "https://twitter.com/lauren_n_roth" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Um. I was sharing the server I joined on mastodon. How is this harmful <a href=\"https://twitter.com/Twitter\">@twitter</a>? Ffs",
+        "value" : "Um. I was sharing the server I joined on mastodon. How is this harmful @twitter? Ffs"
+      } ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Manhattan, NY" ],
+          "uid" : [ "tag:twitter.com:01a9a39529b27f36" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fg1M4fkX0AA_ypU.jpg" ],
+      "published" : [ "2022-11-05T21:44:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1589010782540288000" ],
+      "url" : [ "https://twitter.com/lauren_n_roth/status/1589010782540288000" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Chartier" ],
+        "nickname" : [ "chartier" ],
+        "numeric-id" : [ "35383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386691461853368323/sw-IoBfM.jpg" ],
+        "published" : [ "2006-12-02T00:01:23+00:00" ],
+        "uid" : [ "tag:twitter.com:chartier" ],
+        "url" : [ "https://twitter.com/chartier", "https://finertech.com", "https://BitAndPen.com", "https://toot.cafe/@chartier" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Mastodon won't have any meaningful impact on Twitter.\"\n\nTwitter: Hold my beer\n\nLol</div>",
+      "value" : "\"Mastodon won't have any meaningful impact on Twitter.\"\n\nTwitter: Hold my beer\n\nLol"
+    } ],
+    "published" : [ "2022-11-06T05:23:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1589126333904605184" ],
+    "url" : [ "https://twitter.com/chartier/status/1589126333904605184" ]
+  },
+  "type" : [ "h-entry" ]
+}
