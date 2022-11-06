@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Cape Town" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Teren" ],
+          "nickname" : [ "davidteren" ],
+          "numeric-id" : [ "582608570" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1581255010863702016/Ec-pXTH5.jpg" ],
+          "published" : [ "2012-05-17T09:29:30+00:00" ],
+          "uid" : [ "tag:twitter.com:davidteren" ],
+          "url" : [ "https://twitter.com/davidteren", "https://www.polywork.com/davidteren" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">\"the Ruby people, strange people\" - Linus Torvalds\n<a href=\"https://twitter.com/search?q=%23damnright\">#damnright</a> \n\nsource: <a href=\"https://www.youtube.com/watch?v=0m4hlWx7oRk&t=1068s\">youtube.com/watch?v=0m4hlW…</a></div>",
+        "value" : "\"the Ruby people, strange people\" - Linus Torvalds\n#damnright \n\nsource: youtube.com/watch?v=0m4hlW…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fgyb64OXoAAOMJ6.jpg" ],
+      "published" : [ "2022-11-05T08:51:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1588816304529891329" ],
+      "url" : [ "https://twitter.com/davidteren/status/1588816304529891329" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Fatih Arslan" ],
+        "nickname" : [ "fatih" ],
+        "numeric-id" : [ "23119057" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525082346508144640/b_T5UXy6.jpg" ],
+        "published" : [ "2009-03-06T21:09:31+00:00" ],
+        "uid" : [ "tag:twitter.com:fatih" ],
+        "url" : [ "https://twitter.com/fatih", "https://arslan.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Ruby people I know are some of the coolest. If only you could read a day of messages in one of our Slack channels 🙃" ],
+    "published" : [ "2022-11-06T04:41:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1589115768985518080" ],
+    "url" : [ "https://twitter.com/fatih/status/1589115768985518080" ]
+  },
+  "type" : [ "h-entry" ]
+}
