@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Eli871/status/1588686379533635586" ],
     "name" : [ "Like of @Eli871's tweet" ],
     "published" : [ "2022-11-06T08:20:00+0000" ],
     "like-of" : [ "https://twitter.com/Eli871/status/1588686379533635586" ],
