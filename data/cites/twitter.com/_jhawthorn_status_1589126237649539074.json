@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Victoria, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Hawthorn" ],
+        "nickname" : [ "jhawthorn" ],
+        "numeric-id" : [ "14076944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315477053165072386/HujaX6dr.jpg" ],
+        "published" : [ "2008-03-04T08:05:27+00:00" ],
+        "uid" : [ "tag:twitter.com:jhawthorn" ],
+        "url" : [ "https://twitter.com/jhawthorn", "https://jhawthorn.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In the middle of moving most of my follows into lists to wean myself from the hellsite, but I guess the twitter API is fighting back" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fg20M2TaYAEcMbB.png" ],
+    "published" : [ "2022-11-06T05:23:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1589126237649539074" ],
+    "url" : [ "https://twitter.com/jhawthorn/status/1589126237649539074" ]
+  },
+  "type" : [ "h-entry" ]
+}
