@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1427987061789843458/tnGJ3Yl9.jpg" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Say what now?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/schnarfed\"></a>",
+      "value" : "Say what now?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1588968380144521218" ],
+    "published" : [ "2022-11-05T22:06:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1589016331499622401" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1589016331499622401" ]
+  },
+  "type" : [ "h-entry" ]
+}
