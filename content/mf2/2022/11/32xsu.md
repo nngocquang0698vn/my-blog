@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/skullmandible/status/1588918102183448578" ],
     "name" : [ "Like of @skullmandible's tweet" ],
     "published" : [ "2022-11-06T11:08:00+0000" ],
     "like-of" : [ "https://twitter.com/skullmandible/status/1588918102183448578" ],
