@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ActualAnnalise/status/1588671950561628160" ],
     "name" : [ "Like of @ActualAnnalise's tweet" ],
     "published" : [ "2022-11-06T08:31:00+0000" ],
     "like-of" : [ "https://twitter.com/ActualAnnalise/status/1588671950561628160" ],
