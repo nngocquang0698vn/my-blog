@@ -1,0 +1,75 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/gergelyorosz/s…" ],
+        "url" : [ "https://twitter.com/gergelyorosz/status/1588992360888774656" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Because Old Twitter did things in phases:\n\n1. Plan it\n2. Build it\n3. Test internally (I understand it was here)\n4. Test with cohorts, take feedback to make it better\n5. Roll out globally</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ascriven01\"></a>\n<a class=\"tag\" href=\"https://twitter.com/gergelyorosz/status/1588992360888774656\">twitter.com/gergelyorosz/s…</a>",
+        "value" : "Because Old Twitter did things in phases:\n\n1. Plan it\n2. Build it\n3. Test internally (I understand it was here)\n4. Test with cohorts, take feedback to make it better\n5. Roll out globally"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/ascriven01/status/1589230897169305601" ],
+      "published" : [ "2022-11-06T12:21:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1589231563832987648" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1589231563832987648" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gergelyorosz/s…" ],
+      "url" : [ "https://twitter.com/gergelyorosz/status/1589231563832987648" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“So if they built it, why didn’t they ship it?”\n\nOld Twitter did things more careful &amp; slow - both to get early feedback, and to not release half-baked features.\n\nThis will clearly change. For the better in speed of release, and perhaps for worse for of quality, bugs, confusion.</div>\n<a class=\"tag\" href=\"https://twitter.com/gergelyorosz/status/1589231563832987648\">twitter.com/gergelyorosz/s…</a>",
+      "value" : "“So if they built it, why didn’t they ship it?”\n\nOld Twitter did things more careful & slow - both to get early feedback, and to not release half-baked features.\n\nThis will clearly change. For the better in speed of release, and perhaps for worse for of quality, bugs, confusion."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1589229849998426113" ],
+    "published" : [ "2022-11-06T13:55:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1589255100417323008" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1589255100417323008" ]
+  },
+  "type" : [ "h-entry" ]
+}
