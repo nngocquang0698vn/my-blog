@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Horse_ebooks/status/218439593240956928" ],
     "name" : [ "Like of @Horse_ebooks's tweet" ],
     "published" : [ "2022-11-06T07:42:00+0000" ],
     "like-of" : [ "https://twitter.com/Horse_ebooks/status/218439593240956928" ],
