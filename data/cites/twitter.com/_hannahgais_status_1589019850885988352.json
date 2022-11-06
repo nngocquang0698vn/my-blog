@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1589009644114284544" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "hannahgais@protonmail.ch" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "hannah gais" ],
+        "nickname" : [ "hannahgais" ],
+        "numeric-id" : [ "369848802" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1552886263572725762/zd4CVo4n.jpg" ],
+        "published" : [ "2011-09-08T01:42:25+00:00" ],
+        "uid" : [ "tag:twitter.com:hannahgais" ],
+        "url" : [ "https://twitter.com/hannahgais", "https://hannahgais.wordpress.com/", "http://seedisclaimer.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "that’s blogging. elon threw a hissy fit and then spent $44 billion to reinvent the blog.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1589009644114284544\">twitter.com/elonmusk/statu…</a>",
+      "value" : "that’s blogging. elon threw a hissy fit and then spent $44 billion to reinvent the blog."
+    } ],
+    "published" : [ "2022-11-05T22:20:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1589019850885988352" ],
+    "url" : [ "https://twitter.com/hannahgais/status/1589019850885988352" ]
+  },
+  "type" : [ "h-entry" ]
+}
