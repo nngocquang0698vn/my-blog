@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568483994471223297/D7gkmiGs.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There’s a lot of talk about me not being cool. Erm, I’ll just leave this here." ],
+    "published" : [ "2022-11-06T09:57:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1589195212420784128" ],
+    "url" : [ "https://twitter.com/matryer/status/1589195212420784128" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1589195199552651264/pu/vid/720x960/IveGUwD1rzYMmzmv.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
