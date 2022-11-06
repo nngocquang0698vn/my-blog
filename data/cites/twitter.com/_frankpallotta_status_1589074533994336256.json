@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Frank Pallotta" ],
+        "nickname" : [ "frankpallotta" ],
+        "numeric-id" : [ "31422711" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350866868484136964/00pnAAJT.jpg" ],
+        "published" : [ "2009-04-15T14:42:58+00:00" ],
+        "uid" : [ "tag:twitter.com:frankpallotta" ],
+        "url" : [ "https://twitter.com/frankpallotta", "https://www.cnn.com/profiles/frank-pallotta" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Twitter: “You sign up for Twitter and start tweeting.”\n\nMastodon: “In order to use Mastodon, you must face three challenges. First, is the Path of God: Only the penitent man shall pass. Second, is the Word of God: Only in the footsteps of God, shall he proceed. Third, is the Brea</div>",
+      "value" : "Twitter: “You sign up for Twitter and start tweeting.”\n\nMastodon: “In order to use Mastodon, you must face three challenges. First, is the Path of God: Only the penitent man shall pass. Second, is the Word of God: Only in the footsteps of God, shall he proceed. Third, is the Brea"
+    } ],
+    "published" : [ "2022-11-06T01:57:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1589074533994336256" ],
+    "url" : [ "https://twitter.com/frankpallotta/status/1589074533994336256" ]
+  },
+  "type" : [ "h-entry" ]
+}
