@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "LA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Mac 🙃" ],
+          "nickname" : [ "RMac18" ],
+          "numeric-id" : [ "47191293" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1386038508070924288/Ml-kne2a.jpg" ],
+          "published" : [ "2009-06-14T22:21:58+00:00" ],
+          "uid" : [ "tag:twitter.com:RMac18" ],
+          "url" : [ "https://twitter.com/RMac18", "https://www.nytimes.com/by/ryan-mac" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We saw internal docs with more insight into the new Twitter Blue:\n\n-Launch on Nov. 7 but only in current markets (US, CA, Aus, NZ)\n-Check marks for subscribers, no current ID authentication\n-Some features announced by Musk won't be ready\n-Euro launch soon\n<a href=\"https://www.nytimes.com/2022/11/03/technology/elon-musk-twitter-money-finances.html\">nytimes.com/2022/11/03/tec…</a></div>",
+        "value" : "We saw internal docs with more insight into the new Twitter Blue:\n\n-Launch on Nov. 7 but only in current markets (US, CA, Aus, NZ)\n-Check marks for subscribers, no current ID authentication\n-Some features announced by Musk won't be ready\n-Euro launch soon\nnytimes.com/2022/11/03/tec…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FgrISOZVUAA4j6v.jpg" ],
+      "published" : [ "2022-11-03T22:56:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1588304086792667136" ],
+      "url" : [ "https://twitter.com/RMac18/status/1588304086792667136" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/rmac18/status/…" ],
+      "url" : [ "https://twitter.com/rmac18/status/1588304086792667136" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rachel Tobac" ],
+        "nickname" : [ "RachelTobac" ],
+        "numeric-id" : [ "3094974153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275847667197730817/EWQUVKJi.jpg" ],
+        "published" : [ "2015-03-18T17:30:53+00:00" ],
+        "uid" : [ "tag:twitter.com:RachelTobac" ],
+        "url" : [ "https://twitter.com/RachelTobac", "https://www.SocialProofSecurity.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">No identity verification, &amp; 8 bucks for a verified account?\nGet ready for the new cyber criminal playbook: use stolen credit card to buy verified Twitter account, impersonate real customer support channels, trick users into handing over account details in DM, account takeover.</div>\n<a class=\"tag\" href=\"https://twitter.com/rmac18/status/1588304086792667136\">twitter.com/rmac18/status/…</a>",
+      "value" : "No identity verification, & 8 bucks for a verified account?\nGet ready for the new cyber criminal playbook: use stolen credit card to buy verified Twitter account, impersonate real customer support channels, trick users into handing over account details in DM, account takeover."
+    } ],
+    "published" : [ "2022-11-04T03:08:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1588367452043235328" ],
+    "url" : [ "https://twitter.com/RachelTobac/status/1588367452043235328" ]
+  },
+  "type" : [ "h-entry" ]
+}
