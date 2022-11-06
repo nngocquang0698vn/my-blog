@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "mars" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Elon Musk" ],
+        "nickname" : [ "jephjacques" ],
+        "numeric-id" : [ "7670202" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588932151243833346/zas15Vn_.jpg" ],
+        "published" : [ "2007-07-24T00:06:15+00:00" ],
+        "uid" : [ "tag:twitter.com:jephjacques" ],
+        "url" : [ "https://twitter.com/jephjacques", "http://robotbutts.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some joker impersonating me said I drink my own urine every morning. This is false. I drink it at various times of the day" ],
+    "published" : [ "2022-11-05T16:52:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1588937231053762562" ],
+    "url" : [ "https://twitter.com/jephjacques/status/1588937231053762562" ]
+  },
+  "type" : [ "h-entry" ]
+}
