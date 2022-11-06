@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_aceinthehole/status/1588734321409818630" ],
     "name" : [ "Like of @_aceinthehole's tweet" ],
     "published" : [ "2022-11-06T12:20:00+0000" ],
     "like-of" : [ "https://twitter.com/_aceinthehole/status/1588734321409818630" ],
