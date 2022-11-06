@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly" ],
+        "nickname" : [ "kng" ],
+        "numeric-id" : [ "349436452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1468682110156382214/Z-owEvOY.jpg" ],
+        "published" : [ "2011-08-06T03:03:50+00:00" ],
+        "uid" : [ "tag:twitter.com:kng" ],
+        "url" : [ "https://twitter.com/kng" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I was not laid off yesterday, but I don’t know how to move forward. Reminders of my friends and teammates are everywhere -- we’re taking over code they drafted, deploying changes they landed on Thursday, and pinging in team channels just to see if anyone is left 💔" ],
+    "published" : [ "2022-11-05T18:16:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1588958322941919232" ],
+    "url" : [ "https://twitter.com/kng/status/1588958322941919232" ]
+  },
+  "type" : [ "h-entry" ]
+}
