@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "DE060" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hugh Wells" ],
+        "nickname" : [ "crablabuk" ],
+        "numeric-id" : [ "1194670910" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1468687619445903364/NZnM6MSA.jpg" ],
+        "published" : [ "2013-02-18T19:50:32+00:00" ],
+        "uid" : [ "tag:twitter.com:crablabuk" ],
+        "url" : [ "https://twitter.com/crablabuk", "http://crablab.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Underrated use of a password manager\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/philsturgeon\"></a>",
+      "value" : "Underrated use of a password manager"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/philsturgeon/status/1588844128003305472" ],
+    "published" : [ "2022-11-06T09:46:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1589192425083633666" ],
+    "url" : [ "https://twitter.com/crablabuk/status/1589192425083633666" ]
+  },
+  "type" : [ "h-entry" ]
+}
