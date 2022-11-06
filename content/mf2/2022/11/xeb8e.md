@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoshuaPHilll/status/1588567999497523202" ],
     "name" : [ "Like of @JoshuaPHilll's tweet" ],
     "published" : [ "2022-11-06T09:58:00+0000" ],
     "like-of" : [ "https://twitter.com/JoshuaPHilll/status/1588567999497523202" ],
