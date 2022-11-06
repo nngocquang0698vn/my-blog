@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Ireland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dr Eva Burke" ],
+          "nickname" : [ "Eva_B89" ],
+          "numeric-id" : [ "42250051" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1539291378974334977/6a67hvJR.jpg" ],
+          "published" : [ "2009-05-24T17:50:25+00:00" ],
+          "uid" : [ "tag:twitter.com:Eva_B89" ],
+          "url" : [ "https://twitter.com/Eva_B89" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Did you know that when a British person wants you to pour the tea, they say \"will you be mother?\" because I didn't and the first time it happened I was convinced I was in a haunted doll possession scenario." ],
+      "published" : [ "2022-11-04T17:25:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1588583185553981440" ],
+      "url" : [ "https://twitter.com/Eva_B89/status/1588583185553981440" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/eva_b89/status…" ],
+      "url" : [ "https://twitter.com/eva_b89/status/1588583185553981440" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "piccalilli_" ],
+        "numeric-id" : [ "98734097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550520415348527109/RW-ktFAH.jpg" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "uid" : [ "tag:twitter.com:piccalilli_" ],
+        "url" : [ "https://twitter.com/piccalilli_", "https://piccalil.li", "http://cube.fyi", "http://every-layout.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "tell me you hang out with tories without telling me you hang out with tories\n<a class=\"tag\" href=\"https://twitter.com/eva_b89/status/1588583185553981440\">twitter.com/eva_b89/status…</a>",
+      "value" : "tell me you hang out with tories without telling me you hang out with tories"
+    } ],
+    "published" : [ "2022-11-06T08:14:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1589169333980127232" ],
+    "url" : [ "https://twitter.com/piccalilli_/status/1589169333980127232" ]
+  },
+  "type" : [ "h-entry" ]
+}
