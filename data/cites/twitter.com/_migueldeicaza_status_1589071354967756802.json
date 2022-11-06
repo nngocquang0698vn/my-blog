@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "boston, ma" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Miguel de Icaza 🐀" ],
+        "nickname" : [ "migueldeicaza" ],
+        "numeric-id" : [ "823083" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586160724279234560/pVvWNdBb.jpg" ],
+        "published" : [ "2007-03-08T21:22:15+00:00" ],
+        "uid" : [ "tag:twitter.com:migueldeicaza" ],
+        "url" : [ "https://twitter.com/migueldeicaza", "http://tirania.org/blog", "http://mastodon.social/@Migueldeicaza" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">At Xamarin I left every day at 5pm and I prioritized a healthy life/work balance - and hope I lead my people that way. \n\nI think that asking people to work extra hours just give you low quality output.  And in the context of these layoffs is crass.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/natfriedman\"></a>",
+      "value" : "At Xamarin I left every day at 5pm and I prioritized a healthy life/work balance - and hope I lead my people that way. \n\nI think that asking people to work extra hours just give you low quality output.  And in the context of these layoffs is crass."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/natfriedman/status/1589051044369420288" ],
+    "published" : [ "2022-11-06T01:45:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1589071354967756802" ],
+    "url" : [ "https://twitter.com/migueldeicaza/status/1589071354967756802" ]
+  },
+  "type" : [ "h-entry" ]
+}
