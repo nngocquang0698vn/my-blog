@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tierney Cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517668176431132673/KXQdgb9H.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "yeah, mine has been like this since I enabled that and I hate it. so useless.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cherthedev\"></a>",
+      "value" : "yeah, mine has been like this since I enabled that and I hate it. so useless."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cherthedev/status/1589130361715707910" ],
+    "published" : [ "2022-11-06T05:40:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1589130652204830725" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1589130652204830725" ]
+  },
+  "type" : [ "h-entry" ]
+}
