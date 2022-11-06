@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ubiquity75/status/1588932780209352704" ],
     "name" : [ "Like of @ubiquity75's tweet" ],
     "published" : [ "2022-11-06T07:49:00+0000" ],
     "like-of" : [ "https://twitter.com/ubiquity75/status/1588932780209352704" ],
