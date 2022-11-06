@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DavidWells/status/1589121382872657920" ],
     "name" : [ "Like of @DavidWells's tweet" ],
     "published" : [ "2022-11-06T07:44:00+0000" ],
     "like-of" : [ "https://twitter.com/DavidWells/status/1589121382872657920" ],
