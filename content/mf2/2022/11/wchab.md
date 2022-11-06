@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/philsturgeon/status/1588844128003305472" ],
     "name" : [ "Like of @philsturgeon's tweet" ],
     "published" : [ "2022-11-06T10:01:00+0000" ],
     "like-of" : [ "https://twitter.com/philsturgeon/status/1588844128003305472" ],
