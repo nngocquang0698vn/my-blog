@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Sarah T. Roberts ubiquity75@mastodon.social" ],
+        "nickname" : [ "ubiquity75" ],
+        "numeric-id" : [ "23451153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/823780775380324352/ab4mXoPE.jpg" ],
+        "published" : [ "2009-03-09T15:56:31+00:00" ],
+        "uid" : [ "tag:twitter.com:ubiquity75" ],
+        "url" : [ "https://twitter.com/ubiquity75", "https://www.behindthescreen-book.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Does this mean, @jack, that you feel the  specific ways in which the “company grew too fast” was in the form of teams like META (ethical AI), Human Rights, Curation (working to stop the flow of global election-related misinformation)?\n\nCurious as to your take.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jack\"></a>",
+      "value" : "Does this mean, @jack, that you feel the  specific ways in which the “company grew too fast” was in the form of teams like META (ethical AI), Human Rights, Curation (working to stop the flow of global election-related misinformation)?\n\nCurious as to your take."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jack/status/1588913276980633600" ],
+    "published" : [ "2022-11-05T16:34:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1588932780209352704" ],
+    "url" : [ "https://twitter.com/ubiquity75/status/1588932780209352704" ]
+  },
+  "type" : [ "h-entry" ]
+}
