@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lillydancyger/status/1588541097265213442" ],
     "name" : [ "Like of @lillydancyger's tweet" ],
     "published" : [ "2022-11-06T07:52:00+0000" ],
     "like-of" : [ "https://twitter.com/lillydancyger/status/1588541097265213442" ],
