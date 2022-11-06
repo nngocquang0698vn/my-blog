@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mastodon" ],
+        "nickname" : [ "joinmastodon" ],
+        "numeric-id" : [ "875882643614814208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542256027348918278/7FXNAQK4.jpg" ],
+        "published" : [ "2017-06-17T01:07:50+00:00" ],
+        "uid" : [ "tag:twitter.com:joinmastodon" ],
+        "url" : [ "https://twitter.com/joinmastodon", "https://joinmastodon.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "...because the point of verification should be about actually verifying who you are, not about paying for fancy badge and utilizing an algorithm to artificially inflate your social media clout. 📈" ],
+    "in-reply-to" : [ "https://twitter.com/joinmastodon/status/1588959499708432384" ],
+    "published" : [ "2022-11-05T18:22:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1588959946535997440" ],
+    "url" : [ "https://twitter.com/joinmastodon/status/1588959946535997440" ]
+  },
+  "type" : [ "h-entry" ]
+}
