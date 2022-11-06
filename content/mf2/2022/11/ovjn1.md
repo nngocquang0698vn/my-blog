@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ryuukaen1/status/1589094439976566784" ],
     "name" : [ "Like of @ryuukaen1's tweet" ],
     "published" : [ "2022-11-06T07:45:00+0000" ],
     "like-of" : [ "https://twitter.com/ryuukaen1/status/1589094439976566784" ],
