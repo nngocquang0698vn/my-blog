@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ryan_vens/status/1589204780072595456" ],
     "name" : [ "Like of @ryan_vens's tweet" ],
     "published" : [ "2022-11-06T12:20:00+0000" ],
     "like-of" : [ "https://twitter.com/ryan_vens/status/1589204780072595456" ],
