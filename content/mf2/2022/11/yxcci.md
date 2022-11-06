@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SketchesbyBoze/status/1589046135590916097" ],
     "name" : [ "Like of @SketchesbyBoze's tweet" ],
     "published" : [ "2022-11-06T07:43:00+0000" ],
     "like-of" : [ "https://twitter.com/SketchesbyBoze/status/1589046135590916097" ],
