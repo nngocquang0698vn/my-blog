@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/addyosmani/status/1589359248118788096" ],
     "name" : [ "Like of @addyosmani's tweet" ],
     "published" : [ "2022-11-06T20:53:00+0000" ],
     "like-of" : [ "https://twitter.com/addyosmani/status/1589359248118788096" ],
