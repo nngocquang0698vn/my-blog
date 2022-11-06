@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Daniel" ],
+          "nickname" : [ "growing_daniel" ],
+          "numeric-id" : [ "1457558434044203013" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1576269129027158017/92sp2xPk.jpg" ],
+          "published" : [ "2021-11-08T03:59:52+00:00" ],
+          "uid" : [ "tag:twitter.com:growing_daniel" ],
+          "url" : [ "https://twitter.com/growing_daniel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Touching base with my husband and wife" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fg2rn2aVUAIF0x9.jpg" ],
+      "published" : [ "2022-11-06T04:38:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1589114953415684097" ],
+      "url" : [ "https://twitter.com/growing_daniel/status/1589114953415684097" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Wells" ],
+        "nickname" : [ "DavidWells" ],
+        "numeric-id" : [ "13638932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275237909763768321/BDIPmrEP.jpg" ],
+        "published" : [ "2008-02-18T19:59:35+00:00" ],
+        "uid" : [ "tag:twitter.com:DavidWells" ],
+        "url" : [ "https://twitter.com/DavidWells", "https://davidwells.io", "http://cognitobook.com", "http://getanalytics.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">OMG plot twist!\n\nLigma is married to Johnson!</div>",
+      "value" : "OMG plot twist!\n\nLigma is married to Johnson!"
+    } ],
+    "published" : [ "2022-11-06T05:03:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1589121382872657920" ],
+    "url" : [ "https://twitter.com/DavidWells/status/1589121382872657920" ]
+  },
+  "type" : [ "h-entry" ]
+}
