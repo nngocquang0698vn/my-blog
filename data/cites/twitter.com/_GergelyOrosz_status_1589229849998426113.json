@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1589009644114284544" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">From a Twitter engineer who was fired on Friday:\n\n“We built this already, and the whole product team that created this functionality was fired. Same with the other product ideas Elon is sharing (eg better search).”</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1589009644114284544\">twitter.com/elonmusk/statu…</a>",
+      "value" : "From a Twitter engineer who was fired on Friday:\n\n“We built this already, and the whole product team that created this functionality was fired. Same with the other product ideas Elon is sharing (eg better search).”"
+    } ],
+    "published" : [ "2022-11-06T12:14:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1589229849998426113" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1589229849998426113" ]
+  },
+  "type" : [ "h-entry" ]
+}
