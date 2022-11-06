@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davenewworld_2/status/1589068934942445568" ],
     "name" : [ "Like of @davenewworld_2's tweet" ],
     "published" : [ "2022-11-06T11:07:00+0000" ],
     "like-of" : [ "https://twitter.com/davenewworld_2/status/1589068934942445568" ],
