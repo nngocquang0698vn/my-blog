@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fatih/status/1589115768985518080" ],
     "name" : [ "Like of @fatih's tweet" ],
     "published" : [ "2022-11-06T07:48:00+0000" ],
     "like-of" : [ "https://twitter.com/fatih/status/1589115768985518080" ],
