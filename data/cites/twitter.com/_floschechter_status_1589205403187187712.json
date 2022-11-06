@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Florence Schechter" ],
+        "nickname" : [ "floschechter" ],
+        "numeric-id" : [ "2416620920" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1557501601820065794/XXdqEkTU.jpg" ],
+        "published" : [ "2014-03-28T23:56:16+00:00" ],
+        "uid" : [ "tag:twitter.com:floschechter" ],
+        "url" : [ "https://twitter.com/floschechter", "https://www.floschechter.com/", "http://floschechter.com/vbook" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "so nazis are ok but people pretending to be elon musk isn't" ],
+    "photo" : [ {
+      "alt" : "a profile with the handle @jephjacques but the name elon musk with a blue tick. the profile says: caution this account is temporarily restricted. you're seeing this warning because there has been some unusual activity from this account. do you still want to view it?",
+      "value" : "https://pbs.twimg.com/media/Fg394zgWYAAj5YL.jpg"
+    } ],
+    "published" : [ "2022-11-06T10:37:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1589205403187187712" ],
+    "url" : [ "https://twitter.com/floschechter/status/1589205403187187712" ]
+  },
+  "type" : [ "h-entry" ]
+}
