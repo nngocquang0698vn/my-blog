@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "iPhone: 34.060616,-118.444359" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Peter H. Diamandis, MD" ],
+          "nickname" : [ "PeterDiamandis" ],
+          "numeric-id" : [ "14710129" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn.jpg" ],
+          "published" : [ "2008-05-09T05:22:23+00:00" ],
+          "uid" : [ "tag:twitter.com:PeterDiamandis" ],
+          "url" : [ "https://twitter.com/PeterDiamandis", "http://diamandis.com/podcast" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Today, the global economic output (productivity) per person is 4.4 times larger than in 1950, even after accounting for inflation. Now, we produce more while working less." ],
+      "photo" : [ "https://pbs.twimg.com/media/Fg02KxxWAAAdC8t.jpg" ],
+      "published" : [ "2022-11-05T20:05:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1588985808920395779" ],
+      "url" : [ "https://twitter.com/PeterDiamandis/status/1588985808920395779" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Four day work weeks should be the norm.\n\nBut no: even now, CEOs have to work multiple jobs to stay afloat.</div>",
+      "value" : "Four day work weeks should be the norm.\n\nBut no: even now, CEOs have to work multiple jobs to stay afloat."
+    } ],
+    "published" : [ "2022-11-06T07:54:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1589164420110102536" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1589164420110102536" ]
+  },
+  "type" : [ "h-entry" ]
+}
