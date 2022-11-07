@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://fedi.simonwillison.net/@simon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Accidentally I ran an interesting experiment comparing Twitter and Mastodon this morning when I tweeted/tooted about a blog post\n\nMastodon: 3,000 followers (all from the last few days), 25 replies, 91 reblogs, 184 faves\nTwitter: 43,000 followers, 7 replies, 31 retweets, 183 likes</div>",
+      "value" : "Accidentally I ran an interesting experiment comparing Twitter and Mastodon this morning when I tweeted/tooted about a blog post\n\nMastodon: 3,000 followers (all from the last few days), 25 replies, 91 reblogs, 184 faves\nTwitter: 43,000 followers, 7 replies, 31 retweets, 183 likes"
+    } ],
+    "photo" : [ {
+      "alt" : "Post by me on Mastodon 9 hours ago:\n\nI wrote about What to blog about: <link>\n\nA big challenge with blogging is feeling the pressure to say something new and unique.\n\nTwo categories of content that completely skip that:\nTILs (Today I Learned) about things you've just learned, and posts that describe projects you've just built.\n\nSo that's my advice for blogging: write about things you've learned, and write about things you've built!",
+      "value" : "https://pbs.twimg.com/media/Fg7chV2VQAAS_dT.jpg"
+    }, {
+      "alt" : "My tweet 9 hours ago:\n\nI wrote about \"What to blog about\" - how to avoid the pressure to try and say something unique and new, which can so often hold you back from publishing anything at all\n\nTLDR: Write about things you've learned, and write about things you've built!",
+      "value" : "https://pbs.twimg.com/media/Fg7chV2VEAArtYL.jpg"
+    } ],
+    "published" : [ "2022-11-07T02:50:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1589450188300910592" ],
+    "url" : [ "https://twitter.com/simonw/status/1589450188300910592" ]
+  },
+  "type" : [ "h-entry" ]
+}
