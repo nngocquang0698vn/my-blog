@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simonw/status/1589450188300910592" ],
     "name" : [ "Like of @simonw's tweet" ],
     "published" : [ "2022-11-07T12:51:00+0000" ],
     "like-of" : [ "https://twitter.com/simonw/status/1589450188300910592" ],
