@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bocxtop/status/1589434930345697280" ],
     "name" : [ "Like of @bocxtop's tweet" ],
     "published" : [ "2022-11-07T13:04:00+0000" ],
     "like-of" : [ "https://twitter.com/bocxtop/status/1589434930345697280" ],
