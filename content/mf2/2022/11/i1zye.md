@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Tymscar/status/1589550831036403713" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1589562672013611008" ],
     "published" : [ "2022-11-07T10:02:00+0000" ],
     "post-status" : [ "published" ],
     "content" : [ {
