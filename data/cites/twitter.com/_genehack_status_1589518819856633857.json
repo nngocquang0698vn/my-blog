@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Lubbock, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Planthropology Podcast🌵" ],
+          "nickname" : [ "Planthropology_" ],
+          "numeric-id" : [ "1179028705785651201" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1477077248276676614/ZwRVQ_yN.jpg" ],
+          "published" : [ "2019-10-01T13:42:11+00:00" ],
+          "uid" : [ "tag:twitter.com:Planthropology_" ],
+          "url" : [ "https://twitter.com/Planthropology_", "https://www.planthropologypod.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Hi there, to round out your weekend, you've officially been notified that there's endemic Mexican maize that has aerial roots that use bacterial colonies to fix nitrogen from the atmosphere. It looks like this. You needed to know that." ],
+      "photo" : [ {
+        "alt" : "A corn plants has large red aerial roots that kind of look like *sausages* that are covered in a clear slime.",
+        "value" : "https://pbs.twimg.com/media/Fg6i3NbWIAEZ8QW.jpg"
+      } ],
+      "published" : [ "2022-11-06T22:39:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1589387124347764737" ],
+      "url" : [ "https://twitter.com/Planthropology_/status/1589387124347764737" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salem, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "genecluck" ],
+        "nickname" : [ "genehack" ],
+        "numeric-id" : [ "753743" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1574415437118701568/JSBmeowu.jpg" ],
+        "published" : [ "2007-02-04T03:37:51+00:00" ],
+        "uid" : [ "tag:twitter.com:genehack" ],
+        "url" : [ "https://twitter.com/genehack", "https://genehack.org", "http://genehack.blog", "http://covid.house", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Forbidden frankfurters" ],
+    "published" : [ "2022-11-07T07:23:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1589518819856633857" ],
+    "url" : [ "https://twitter.com/genehack/status/1589518819856633857" ]
+  },
+  "type" : [ "h-entry" ]
+}
