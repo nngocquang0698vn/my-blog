@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "nickrw" ],
+        "nickname" : [ "nickrw" ],
+        "numeric-id" : [ "15345967" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1544693878774763521/_lOHWt3k.jpg" ],
+        "published" : [ "2008-07-07T20:14:59+00:00" ],
+        "uid" : [ "tag:twitter.com:nickrw" ],
+        "url" : [ "https://twitter.com/nickrw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rawkode\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/type__error\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1589557919015530497" ],
+    "photo" : [ {
+      "alt" : "A screenshot of the pagerduty app, searching for a user called Elon. No results are found.",
+      "value" : "https://pbs.twimg.com/media/Fg8_E3rWYAI2VHP.jpg"
+    } ],
+    "published" : [ "2022-11-07T10:01:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1589558551319412736" ],
+    "url" : [ "https://twitter.com/nickrw/status/1589558551319412736" ]
+  },
+  "type" : [ "h-entry" ]
+}
