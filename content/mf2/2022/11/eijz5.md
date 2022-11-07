@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nickrw/status/1589558551319412736" ],
     "name" : [ "Like of @nickrw's tweet" ],
     "published" : [ "2022-11-07T10:04:00+0000" ],
     "like-of" : [ "https://twitter.com/nickrw/status/1589558551319412736" ],
