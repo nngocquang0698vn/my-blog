@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1561709394601058304/kujpEvS6.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://hachyderm.io/web/@nova" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Other platforms where you may find me:\n\n - <a href=\"https://twitch.tv/krisnova\">twitch.tv/krisnova</a>\n - <a href=\"https://hachyderm.io/web/@nova\">hachyderm.io/web/@nova</a> \n - <a href=\"https://medium.com/@kris-nova\">medium.com/@kris-nova</a>\n - <a href=\"https://nivenly.com\">nivenly.com</a>\n\nKris Nóva &lt;kris@nivenly.com&gt;</div>",
+      "value" : "Other platforms where you may find me:\n\n - twitch.tv/krisnova\n - hachyderm.io/web/@nova \n - medium.com/@kris-nova\n - nivenly.com\n\nKris Nóva <kris@nivenly.com>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/krisnova/status/1589581035792388096" ],
+    "published" : [ "2022-11-07T11:30:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1589581037306544136" ],
+    "url" : [ "https://twitter.com/krisnova/status/1589581037306544136" ]
+  },
+  "type" : [ "h-entry" ]
+}
