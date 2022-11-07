@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krisnova/status/1589581037306544136" ],
     "name" : [ "Like of @krisnova's tweet" ],
     "published" : [ "2022-11-07T13:04:00+0000" ],
     "like-of" : [ "https://twitter.com/krisnova/status/1589581037306544136" ],
