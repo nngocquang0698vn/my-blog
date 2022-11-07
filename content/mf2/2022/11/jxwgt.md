@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RBReich/status/1588236190334955520" ],
     "name" : [ "Like of @RBReich's tweet" ],
     "published" : [ "2022-11-07T08:07:00+0000" ],
     "like-of" : [ "https://twitter.com/RBReich/status/1588236190334955520" ],
