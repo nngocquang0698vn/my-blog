@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rasmus Andersson" ],
+        "nickname" : [ "rsms" ],
+        "numeric-id" : [ "2475171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432033002880520193/nuDFioj3.jpg" ],
+        "published" : [ "2007-03-27T11:55:39+00:00" ],
+        "uid" : [ "tag:twitter.com:rsms" ],
+        "url" : [ "https://twitter.com/rsms", "https://rsms.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This perpetuates a fundamentally bad idea: that you need to sacrifice health and friends etc to succeed in sv tech. Of course that’s not true and it sets young people on the wrong path.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/natfriedman\"></a>",
+      "value" : "This perpetuates a fundamentally bad idea: that you need to sacrifice health and friends etc to succeed in sv tech. Of course that’s not true and it sets young people on the wrong path."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/natfriedman/status/1589051044369420288" ],
+    "published" : [ "2022-11-06T05:16:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1589124600486846466" ],
+    "url" : [ "https://twitter.com/rsms/status/1589124600486846466" ]
+  },
+  "type" : [ "h-entry" ]
+}
