@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586086905589874688/vj9IZxCu.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "https://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">twitter users            stone age \nin 2022                    hunter-gatherers \n                        🤝\n           should we follow \n           that mastodon??</div>",
+      "value" : "twitter users            stone age \nin 2022                    hunter-gatherers \n                        🤝\n           should we follow \n           that mastodon??"
+    } ],
+    "published" : [ "2022-11-06T00:56:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1589059217960624128" ],
+    "url" : [ "https://twitter.com/lolennui/status/1589059217960624128" ]
+  },
+  "type" : [ "h-entry" ]
+}
