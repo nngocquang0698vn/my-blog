@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jasonhebron/status/1589536693102657537" ],
     "name" : [ "Like of @jasonhebron's tweet" ],
     "published" : [ "2022-11-07T13:08:00+0000" ],
     "like-of" : [ "https://twitter.com/jasonhebron/status/1589536693102657537" ],
