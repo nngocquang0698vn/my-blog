@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Coventry, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tymscar ⚙️" ],
+        "nickname" : [ "Tymscar" ],
+        "numeric-id" : [ "417095739" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1514284436489129987/pVmlkfri.jpg" ],
+        "published" : [ "2011-11-20T14:30:13+00:00" ],
+        "uid" : [ "tag:twitter.com:Tymscar" ],
+        "url" : [ "https://twitter.com/Tymscar", "https://tymscar.com", "https://fosstodon.org/@tymscar" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Nope. Its a bit buggy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Marcus_Noble_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/schnarfed\"></a>",
+      "value" : "Nope. Its a bit buggy"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1589539917679497216" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fg84DiMX0AE8sNT.jpg" ],
+    "published" : [ "2022-11-07T09:30:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1589550831036403713" ],
+    "url" : [ "https://twitter.com/Tymscar/status/1589550831036403713" ]
+  },
+  "type" : [ "h-entry" ]
+}
