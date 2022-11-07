@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nowah/status/1589382250508201984" ],
     "name" : [ "Like of @nowah's tweet" ],
     "published" : [ "2022-11-07T17:20:00+0000" ],
     "like-of" : [ "https://twitter.com/nowah/status/1589382250508201984" ],
