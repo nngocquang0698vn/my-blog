@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Your food" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Very Hungry Caterpillar" ],
+        "nickname" : [ "TheVeryHungryC" ],
+        "numeric-id" : [ "1497973634262044682" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1497974074965962752/44xn7g0a.jpg" ],
+        "published" : [ "2022-02-27T16:35:32+00:00" ],
+        "uid" : [ "tag:twitter.com:TheVeryHungryC" ],
+        "url" : [ "https://twitter.com/TheVeryHungryC" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "what the fuck" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fg-PxJGWIAIm-I_.jpg" ],
+    "published" : [ "2022-11-07T15:53:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1589647270550458368" ],
+    "url" : [ "https://twitter.com/TheVeryHungryC/status/1589647270550458368" ]
+  },
+  "type" : [ "h-entry" ]
+}
