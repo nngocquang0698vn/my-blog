@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/williamlegate/status/1589417668695977984" ],
     "name" : [ "Like of @williamlegate's tweet" ],
     "published" : [ "2022-11-07T12:47:00+0000" ],
     "like-of" : [ "https://twitter.com/williamlegate/status/1589417668695977984" ],
