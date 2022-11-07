@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/schnarfed/status/1589670294427693056" ],
     "name" : [ "Like of @schnarfed's tweet" ],
     "published" : [ "2022-11-07T17:58:00+0000" ],
     "like-of" : [ "https://twitter.com/schnarfed/status/1589670294427693056" ],
