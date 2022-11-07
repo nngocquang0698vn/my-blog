@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Apoorva Govind" ],
+          "nickname" : [ "Appyg99" ],
+          "numeric-id" : [ "140825723" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1538558839582339078/B8GCp97N.jpg" ],
+          "published" : [ "2010-05-06T13:19:33+00:00" ],
+          "uid" : [ "tag:twitter.com:Appyg99" ],
+          "url" : [ "https://twitter.com/Appyg99", "https://apoorvagovind.substack.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Here is a big co secret (esp engineers whose main job is to code) — People will look at lines of code written to decide if you’re in or out. You can cry all about how it’s gameable, it’s not efficient etc. But that’s a metric all big cos use to assess poor performers." ],
+      "published" : [ "2022-11-05T15:31:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1588917038881595392" ],
+      "url" : [ "https://twitter.com/Appyg99/status/1588917038881595392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/appyg99/status…" ],
+      "url" : [ "https://twitter.com/appyg99/status/1588917038881595392" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Literally stupid.\n\nIf I write a function, and EVERYONE uses that function over &amp; over &amp; over because it’s so incredibly useful, do I get LOC credit for every where it’s used?\n\nI swear, I’m gonna die whilst yelling “Goodhart’s law! They didn’t listen to Goodhart’s law!”</div>\n<a class=\"tag\" href=\"https://twitter.com/appyg99/status/1588917038881595392\">twitter.com/appyg99/status…</a>",
+      "value" : "Literally stupid.\n\nIf I write a function, and EVERYONE uses that function over & over & over because it’s so incredibly useful, do I get LOC credit for every where it’s used?\n\nI swear, I’m gonna die whilst yelling “Goodhart’s law! They didn’t listen to Goodhart’s law!”"
+    } ],
+    "published" : [ "2022-11-07T06:53:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1589511264396771329" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1589511264396771329" ]
+  },
+  "type" : [ "h-entry" ]
+}
