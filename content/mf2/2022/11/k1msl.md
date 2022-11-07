@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1589709433697079296" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2022-11-07T20:01:00+0000" ],
     "like-of" : [ "https://twitter.com/EmilyKager/status/1589709433697079296" ],
