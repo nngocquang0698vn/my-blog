@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SteveSchmidtSES/status/1589707472948064256" ],
     "name" : [ "Like of @SteveSchmidtSES's tweet" ],
     "published" : [ "2022-11-07T20:17:00+0000" ],
     "like-of" : [ "https://twitter.com/SteveSchmidtSES/status/1589707472948064256" ],
