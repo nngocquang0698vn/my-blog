@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Barrett" ],
+        "nickname" : [ "schnarfed" ],
+        "numeric-id" : [ "139199211" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1031786031832420352/w2Eyoxbi.jpg" ],
+        "published" : [ "2010-05-01T21:42:43+00:00" ],
+        "uid" : [ "tag:twitter.com:schnarfed" ],
+        "url" : [ "https://twitter.com/schnarfed", "https://snarfed.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thanks for reporting, all! This was indeed a Bridgy Fed bug. I've fixed it, feel free to try again. <a href=\"https://github.com/snarfed/bridgy-fed/issues/267\">github.com/snarfed/bridgy…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Marcus_Noble_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Tymscar\"></a>",
+      "value" : "Thanks for reporting, all! This was indeed a Bridgy Fed bug. I've fixed it, feel free to try again. github.com/snarfed/bridgy…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1589562672013611008" ],
+    "published" : [ "2022-11-07T17:25:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1589670294427693056" ],
+    "url" : [ "https://twitter.com/schnarfed/status/1589670294427693056" ]
+  },
+  "type" : [ "h-entry" ]
+}
