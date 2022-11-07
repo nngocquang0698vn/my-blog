@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/esthercrawford…" ],
+        "url" : [ "https://twitter.com/esthercrawford/status/1587709705488830464" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nat Friedman" ],
+          "nickname" : [ "natfriedman" ],
+          "numeric-id" : [ "13235832" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1677873294/image.jpg" ],
+          "published" : [ "2008-02-08T05:20:41+00:00" ],
+          "uid" : [ "tag:twitter.com:natfriedman" ],
+          "url" : [ "https://twitter.com/natfriedman", "http://nat.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "This is how great new things are built, more often than anyone has been willing to say during the last decade's cultural revolution in Silicon Valley.\n<a class=\"tag\" href=\"https://twitter.com/esthercrawford/status/1587709705488830464\">twitter.com/esthercrawford…</a>",
+        "value" : "This is how great new things are built, more often than anyone has been willing to say during the last decade's cultural revolution in Silicon Valley."
+      } ],
+      "published" : [ "2022-11-06T00:24:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1589051044369420288" ],
+      "url" : [ "https://twitter.com/natfriedman/status/1589051044369420288" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">No, this is how sev1 incidents are built.\n\nI don’t want the shitty output people deliver at 80+ hours/week. I want the best work my well-rested colleagues can do in a reasonable number of working hours.\n\nAnd I want people bringing the inspiration they find in outside interests.</div>",
+      "value" : "No, this is how sev1 incidents are built.\n\nI don’t want the shitty output people deliver at 80+ hours/week. I want the best work my well-rested colleagues can do in a reasonable number of working hours.\n\nAnd I want people bringing the inspiration they find in outside interests."
+    } ],
+    "published" : [ "2022-11-07T16:23:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1589654849993740289" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1589654849993740289" ]
+  },
+  "type" : [ "h-entry" ]
+}
