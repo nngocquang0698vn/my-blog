@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adrian Chadd (@erikarn@mstdn.social)" ],
+          "nickname" : [ "erikarn" ],
+          "numeric-id" : [ "16497099" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1494541784885579776/PZeq1zp2.jpg" ],
+          "published" : [ "2008-09-28T10:49:10+00:00" ],
+          "uid" : [ "tag:twitter.com:erikarn" ],
+          "url" : [ "https://twitter.com/erikarn", "http://adrianchadd.blogspot.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">+1000 this\n\nI had friends who fucking died from the grind back in 1999/2000. I was drinking vodka at 3am to get to sleep and sleeping under my desk.\n\nfucking STOP it. it's not healthy.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EmilyKager\"></a>",
+        "value" : "+1000 this\n\nI had friends who fucking died from the grind back in 1999/2000. I was drinking vodka at 3am to get to sleep and sleeping under my desk.\n\nfucking STOP it. it's not healthy."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/EmilyKager/status/1589682771261554688" ],
+      "published" : [ "2022-11-07T18:19:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1589684089892007936" ],
+      "url" : [ "https://twitter.com/erikarn/status/1589684089892007936" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I know multiple people who have been admitted to the hospital bc of overworking themselves. None of this is worth your LIFE." ],
+    "published" : [ "2022-11-07T20:00:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1589709433697079296" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1589709433697079296" ]
+  },
+  "type" : [ "h-entry" ]
+}
