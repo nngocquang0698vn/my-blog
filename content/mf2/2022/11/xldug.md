@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davidbrunelle/status/1589822594018312192" ],
     "name" : [ "Like of @davidbrunelle's tweet" ],
     "published" : [ "2022-11-08T07:54:00+0000" ],
     "like-of" : [ "https://twitter.com/davidbrunelle/status/1589822594018312192" ],
