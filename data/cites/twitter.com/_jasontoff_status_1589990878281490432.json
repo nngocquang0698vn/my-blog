@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Steve Krenzel" ],
+          "nickname" : [ "stevekrenzel" ],
+          "numeric-id" : [ "950920933" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1235045711923666944/_JQv-ISu.jpg" ],
+          "published" : [ "2012-11-16T03:31:24+00:00" ],
+          "uid" : [ "tag:twitter.com:stevekrenzel" ],
+          "url" : [ "https://twitter.com/stevekrenzel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">With Twitter's change in ownership last week, I'm probably in the clear to talk about the most unethical thing I was asked to build while working at Twitter.\n\n🧵</div>",
+        "value" : "With Twitter's change in ownership last week, I'm probably in the clear to talk about the most unethical thing I was asked to build while working at Twitter.\n\n🧵"
+      } ],
+      "published" : [ "2022-11-07T19:26:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1589700721121058817" ],
+      "url" : [ "https://twitter.com/stevekrenzel/status/1589700721121058817" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Allentown, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Toff" ],
+        "nickname" : [ "jasontoff" ],
+        "numeric-id" : [ "6562172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1532458990394916871/RdLl-yHl.jpg" ],
+        "published" : [ "2007-06-04T04:11:53+00:00" ],
+        "uid" : [ "tag:twitter.com:jasontoff" ],
+        "url" : [ "https://twitter.com/jasontoff", "https://www.jasontoff.com", "http://rooms.xyz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is unfortunately not an anomaly. The most unethical thing I was asked to do was shortly after becoming head of Vine. I haven’t spoken publicly about this out of embarrassment and fear of retribution, but probably better overall for the universe to air out these mistakes…" ],
+    "published" : [ "2022-11-08T14:39:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1589990878281490432" ],
+    "url" : [ "https://twitter.com/jasontoff/status/1589990878281490432" ]
+  },
+  "type" : [ "h-entry" ]
+}
