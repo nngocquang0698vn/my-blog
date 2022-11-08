@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://mastodon.social/@shanselman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Got email from Spotify asking to move one of my video podcasts to Spotify (as they are getting into video). Of course, I say. Here's the RSS feed. \n\nThey say \"In order to ...video podcast on Spotify you need to switch from your current hosting to Anchor. \"\n\nWAT? It's RSS.</div>",
+      "value" : "Got email from Spotify asking to move one of my video podcasts to Spotify (as they are getting into video). Of course, I say. Here's the RSS feed. \n\nThey say \"In order to ...video podcast on Spotify you need to switch from your current hosting to Anchor. \"\n\nWAT? It's RSS."
+    } ],
+    "published" : [ "2022-11-07T19:56:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1589708329101987841" ],
+    "url" : [ "https://twitter.com/shanselman/status/1589708329101987841" ]
+  },
+  "type" : [ "h-entry" ]
+}
