@@ -1,0 +1,71 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Clarksville, TN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Damien Scott" ],
+          "nickname" : [ "MadScientistFF" ],
+          "numeric-id" : [ "779078642831859712" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1488462593350062091/MD7Y79RZ.jpg" ],
+          "published" : [ "2016-09-22T22:03:17+00:00" ],
+          "uid" : [ "tag:twitter.com:MadScientistFF" ],
+          "url" : [ "https://twitter.com/MadScientistFF" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What would you add to this sandwich?" ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Pennsylvania, USA" ],
+          "uid" : [ "tag:twitter.com:dd9c503d6c35364b" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fg64kIuXwAAJGhC.jpg" ],
+      "published" : [ "2022-11-07T00:13:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1589410652254507009" ],
+      "url" : [ "https://twitter.com/MadScientistFF/status/1589410652254507009" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/madscientistff…" ],
+      "url" : [ "https://twitter.com/madscientistff/status/1589410652254507009" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Banks: Principal VibeOps Engineer" ],
+        "nickname" : [ "elchefe" ],
+        "numeric-id" : [ "22486576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1483914224841773065/oY-GueOg.jpg" ],
+        "published" : [ "2009-03-02T14:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:elchefe" ],
+        "url" : [ "https://twitter.com/elchefe", "https://venmo.com/code?user_id=1781409760935936183" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Fried egg\n<a class=\"tag\" href=\"https://twitter.com/madscientistff/status/1589410652254507009\">twitter.com/madscientistff…</a>",
+      "value" : "Fried egg"
+    } ],
+    "published" : [ "2022-11-08T12:14:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1589954414533840897" ],
+    "url" : [ "https://twitter.com/elchefe/status/1589954414533840897" ]
+  },
+  "type" : [ "h-entry" ]
+}
