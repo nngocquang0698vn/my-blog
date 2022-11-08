@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MadScientistFF/status/1589410652254507009" ],
     "name" : [ "Like of @MadScientistFF's tweet" ],
     "published" : [ "2022-11-08T15:06:00+0000" ],
     "like-of" : [ "https://twitter.com/MadScientistFF/status/1589410652254507009" ],
