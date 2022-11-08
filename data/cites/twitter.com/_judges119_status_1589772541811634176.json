@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Low Earth Orbit" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Azathoth" ],
+        "nickname" : [ "judges119" ],
+        "numeric-id" : [ "155830878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292265245692420096/adZSmMEQ.jpg" ],
+        "published" : [ "2010-06-15T07:55:02+00:00" ],
+        "uid" : [ "tag:twitter.com:judges119" ],
+        "url" : [ "https://twitter.com/judges119", "https://az.id.au/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "mastodon gets easier once you get the basic idea that toots are homeomorphic endofunctors mapping submanifolds of a Hilbert space." ],
+    "published" : [ "2022-11-08T00:11:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1589772541811634176" ],
+    "url" : [ "https://twitter.com/judges119/status/1589772541811634176" ]
+  },
+  "type" : [ "h-entry" ]
+}
