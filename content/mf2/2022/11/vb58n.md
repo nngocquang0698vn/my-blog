@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/staidindoors/status/1589877247082901504" ],
     "name" : [ "Like of @staidindoors's tweet" ],
     "published" : [ "2022-11-08T08:05:00+0000" ],
     "like-of" : [ "https://twitter.com/staidindoors/status/1589877247082901504" ],
