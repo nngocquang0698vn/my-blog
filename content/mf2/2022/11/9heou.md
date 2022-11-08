@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jasonselvig/status/1589665410085191681" ],
     "name" : [ "Like of @jasonselvig's tweet" ],
     "published" : [ "2022-11-08T08:21:00+0000" ],
     "like-of" : [ "https://twitter.com/jasonselvig/status/1589665410085191681" ],
