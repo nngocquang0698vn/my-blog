@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maobabie/status/1589723144725856256" ],
     "name" : [ "Like of @maobabie's tweet" ],
     "published" : [ "2022-11-08T21:26:00+0000" ],
     "like-of" : [ "https://twitter.com/maobabie/status/1589723144725856256" ],
