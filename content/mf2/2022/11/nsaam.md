@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CubicleApril/status/1589445024604770306" ],
     "name" : [ "Like of @CubicleApril's tweet" ],
     "published" : [ "2022-11-08T15:04:00+0000" ],
     "like-of" : [ "https://twitter.com/CubicleApril/status/1589445024604770306" ],
