@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sfmnemonic/status/1589775186081054721" ],
     "name" : [ "Like of @sfmnemonic's tweet" ],
     "published" : [ "2022-11-08T09:54:00+0000" ],
     "like-of" : [ "https://twitter.com/sfmnemonic/status/1589775186081054721" ],
