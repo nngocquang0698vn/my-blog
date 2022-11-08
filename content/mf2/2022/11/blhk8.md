@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fka_tabs/status/1589989062395367424" ],
     "name" : [ "Like of @fka_tabs's tweet" ],
     "published" : [ "2022-11-08T15:04:00+0000" ],
     "like-of" : [ "https://twitter.com/fka_tabs/status/1589989062395367424" ],
