@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/threepointone/status/1589818666627248128" ],
     "name" : [ "Like of @threepointone's tweet" ],
     "published" : [ "2022-11-08T11:15:00+0000" ],
     "like-of" : [ "https://twitter.com/threepointone/status/1589818666627248128" ],
