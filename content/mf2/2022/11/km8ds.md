@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WhenTheFoxGrins/status/1590022236563726337" ],
     "name" : [ "Like of @WhenTheFoxGrins's tweet" ],
     "published" : [ "2022-11-08T21:03:00+0000" ],
     "like-of" : [ "https://twitter.com/WhenTheFoxGrins/status/1590022236563726337" ],
