@@ -1,0 +1,59 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/D__T_____/status/1589060639502503937\">@D__T_____</a> <div style=\"white-space: pre\">Italians: you shouldn't drink cappuccino after noon\n\nMe: you shouldn't elect Mussolini's descendants to parliament</div>"
+    } ],
+    "published" : [ "2022-11-07T20:46:37+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Auckland, New Zealand" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Dan Taipua" ],
+            "nickname" : [ "D__T_____" ],
+            "numeric-id" : [ "1279146614" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1453468316731723779/VjdhO2YR.jpg" ],
+            "published" : [ "2013-03-19T00:45:19+00:00" ],
+            "uid" : [ "tag:twitter.com:D__T_____" ],
+            "url" : [ "https://twitter.com/D__T_____", "https://linktr.ee/dantaipua" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ {
+          "html" : "<div style=\"white-space: pre\">Italians: you shouldn't drink cappuccino after noon\n\nMe: you shouldn't elect Mussolini's descendants to parliament</div>",
+          "value" : "Italians: you shouldn't drink cappuccino after noon\n\nMe: you shouldn't elect Mussolini's descendants to parliament"
+        } ],
+        "published" : [ "2022-11-06T01:02:34+00:00" ],
+        "uid" : [ "tag:twitter.com:1589060639502503937" ],
+        "url" : [ "https://twitter.com/D__T_____/status/1589060639502503937" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1589721002455740416" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1589721002455740416" ]
+  },
+  "type" : [ "h-entry" ]
+}
