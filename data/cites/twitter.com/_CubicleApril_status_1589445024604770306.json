@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Pig’s Eye, MN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "April King 🌀" ],
+          "nickname" : [ "CubicleApril" ],
+          "numeric-id" : [ "88974227" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1584947376405479424/xyE6qu0O.jpg" ],
+          "published" : [ "2009-11-10T17:19:57+00:00" ],
+          "uid" : [ "tag:twitter.com:CubicleApril" ],
+          "url" : [ "https://twitter.com/CubicleApril", "https://grayduck.mn" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Really annoyed that <a href=\"https://twitter.com/Twitter\">@twitter</a> added what is (presumably) a tracking token every time you share a tweet now.\n\nMakes all my messages look long and ugly, or requires a bunch of pointless busywork.</div>",
+        "value" : "Really annoyed that @twitter added what is (presumably) a tracking token every time you share a tweet now.\n\nMakes all my messages look long and ugly, or requires a bunch of pointless busywork."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FPvcnXdWYAoZmzY.jpg" ],
+      "published" : [ "2022-04-07T12:28:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1512044671383527431" ],
+      "url" : [ "https://twitter.com/CubicleApril/status/1512044671383527431" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/cubicleapril/s…" ],
+      "url" : [ "https://twitter.com/cubicleapril/status/1512044671383527431" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pig’s Eye, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "April King 🌀" ],
+        "nickname" : [ "CubicleApril" ],
+        "numeric-id" : [ "88974227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1584947376405479424/xyE6qu0O.jpg" ],
+        "published" : [ "2009-11-10T17:19:57+00:00" ],
+        "uid" : [ "tag:twitter.com:CubicleApril" ],
+        "url" : [ "https://twitter.com/CubicleApril", "https://grayduck.mn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "these were added while you were on the board of directors, they are not new:\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jack\"></a>\n<a class=\"tag\" href=\"https://twitter.com/cubicleapril/status/1512044671383527431\">twitter.com/cubicleapril/s…</a>",
+      "value" : "these were added while you were on the board of directors, they are not new:"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jack/status/1589442162718277633" ],
+    "published" : [ "2022-11-07T02:29:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1589445024604770306" ],
+    "url" : [ "https://twitter.com/CubicleApril/status/1589445024604770306" ]
+  },
+  "type" : [ "h-entry" ]
+}
