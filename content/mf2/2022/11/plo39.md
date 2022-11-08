@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WeirdDreamBooth/status/1589660350550773760" ],
     "name" : [ "Like of @WeirdDreamBooth's tweet" ],
     "published" : [ "2022-11-08T08:21:00+0000" ],
     "like-of" : [ "https://twitter.com/WeirdDreamBooth/status/1589660350550773760" ],
