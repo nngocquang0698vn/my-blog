@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tinysnekcomics/status/1589684449171902464" ],
     "name" : [ "Like of @tinysnekcomics's tweet" ],
     "published" : [ "2022-11-08T13:36:00+0000" ],
     "like-of" : [ "https://twitter.com/tinysnekcomics/status/1589684449171902464" ],
