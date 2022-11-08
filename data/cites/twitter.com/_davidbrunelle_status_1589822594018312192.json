@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Verge" ],
+          "nickname" : [ "verge" ],
+          "numeric-id" : [ "275686563" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL.jpg" ],
+          "published" : [ "2011-04-01T19:54:22+00:00" ],
+          "uid" : [ "tag:twitter.com:verge" ],
+          "url" : [ "https://twitter.com/verge", "http://www.theverge.com", "http://theverge.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Elon Musk has discussed putting all of Twitter behind a paywall <a href=\"https://www.theverge.com/2022/11/7/23446262/elon-musk-twitter-paywall-possible?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter\">theverge.com/2022/11/7/2344…</a>",
+        "value" : "Elon Musk has discussed putting all of Twitter behind a paywall theverge.com/2022/11/7/2344…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FhAY8X_X0AEXzas.jpg" ],
+      "published" : [ "2022-11-08T01:52:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1589798095877214211" ],
+      "url" : [ "https://twitter.com/verge/status/1589798095877214211" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "PNW" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David" ],
+        "nickname" : [ "davidbrunelle" ],
+        "numeric-id" : [ "2073391" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1052346506622062593/frTDcY9r.jpg" ],
+        "published" : [ "2007-03-24T02:18:58+00:00" ],
+        "uid" : [ "tag:twitter.com:davidbrunelle" ],
+        "url" : [ "https://twitter.com/davidbrunelle", "https://www.davidbrunelle.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Absolutely mind blowing: “any technical manager should expect to manage at least 20 individual contributors, while also spending at least half their time writing code.”" ],
+    "published" : [ "2022-11-08T03:30:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1589822594018312192" ],
+    "url" : [ "https://twitter.com/davidbrunelle/status/1589822594018312192" ]
+  },
+  "type" : [ "h-entry" ]
+}
