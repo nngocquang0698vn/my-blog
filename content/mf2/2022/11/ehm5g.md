@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/silvergelpen/status/1589996179336884225" ],
     "name" : [ "Like of @silvergelpen's tweet" ],
     "published" : [ "2022-11-08T20:26:00+0000" ],
     "like-of" : [ "https://twitter.com/silvergelpen/status/1589996179336884225" ],
