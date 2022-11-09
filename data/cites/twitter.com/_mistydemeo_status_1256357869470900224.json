@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver / Melbourne" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Misty" ],
+        "nickname" : [ "mistydemeo" ],
+        "numeric-id" : [ "296622166" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1099352223744552961/TC2TTEAt.jpg" ],
+        "published" : [ "2011-05-11T03:34:21+00:00" ],
+        "uid" : [ "tag:twitter.com:mistydemeo" ],
+        "url" : [ "https://twitter.com/mistydemeo", "https://cdrom.ca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today's discovery:\n\n1. # is a valid character in git branch names\n2. Not every system URI-encodes strings before looking up git references on the web, e.g. via git REST APIs</div>",
+      "value" : "Today's discovery:\n\n1. # is a valid character in git branch names\n2. Not every system URI-encodes strings before looking up git references on the web, e.g. via git REST APIs"
+    } ],
+    "published" : [ "2020-05-01T23:00:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1256357869470900224" ],
+    "url" : [ "https://twitter.com/mistydemeo/status/1256357869470900224" ]
+  },
+  "type" : [ "h-entry" ]
+}
