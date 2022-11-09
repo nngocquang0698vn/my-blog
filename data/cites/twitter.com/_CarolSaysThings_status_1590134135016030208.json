@@ -1,0 +1,63 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/xdesro/status/1352685996605919232\">@xdesro</a> ✨You can use shy hyphens (&amp;shy;) in your HTML to hint a more design-friendly place for your code to hyphenate:"
+    } ],
+    "published" : [ "2022-11-09T00:08:15+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "nyc" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "henry ✷" ],
+            "nickname" : [ "xdesro" ],
+            "numeric-id" : [ "2509306208" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1556871013249400833/5zC6hXmR.jpg" ],
+            "published" : [ "2014-05-20T04:46:48+00:00" ],
+            "uid" : [ "tag:twitter.com:xdesro" ],
+            "url" : [ "https://twitter.com/xdesro" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "✨You can use shy hyphens (&shy;) in your HTML to hint a more design-friendly place for your code to hyphenate:" ],
+        "photo" : [ {
+          "alt" : "Some HTML code with an h1 element aside a screenshot of that code in context. The word \"portfolio\" in the HTML wraps at the very last letter, so two lines of text are shown: \"portfoli-\" and \"o\".",
+          "value" : "https://pbs.twimg.com/media/EsWz6pLWMAAes-G.png"
+        }, {
+          "alt" : "The same HTML code aside a screenshot of that code, but with a \"shy\" hyphen hinted. The word \"portfolio\" in the HTML now wraps differently, so the first line is \"portfo-\" and the second is \"lio\".",
+          "value" : "https://pbs.twimg.com/media/EsW0PoNXEAE_I1o.png"
+        } ],
+        "published" : [ "2021-01-22T18:34:07+00:00" ],
+        "uid" : [ "tag:twitter.com:1352685996605919232" ],
+        "url" : [ "https://twitter.com/xdesro/status/1352685996605919232" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1590134135016030208" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1590134135016030208" ]
+  },
+  "type" : [ "h-entry" ]
+}
