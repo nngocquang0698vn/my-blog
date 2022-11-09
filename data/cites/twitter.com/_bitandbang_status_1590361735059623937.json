@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tierney Cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517668176431132673/KXQdgb9H.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "please <a href=\"https://twitter.com/Twitter\">@Twitter</a>, I've found an Elon Musk impersonator - <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> doesn't have the \"official\" badge please ban the account so nobody gets confused",
+      "value" : "please @Twitter, I've found an Elon Musk impersonator - @elonmusk doesn't have the \"official\" badge please ban the account so nobody gets confused"
+    } ],
+    "photo" : [ {
+      "alt" : "screenshot of @elonmusk's display name, handle, and bio - notably missing the official check",
+      "value" : "https://pbs.twimg.com/media/FhIZcpDUYAApMmI.png"
+    } ],
+    "published" : [ "2022-11-09T15:12:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1590361735059623937" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1590361735059623937" ]
+  },
+  "type" : [ "h-entry" ]
+}
