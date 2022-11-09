@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Vranas" ],
+        "nickname" : [ "breakdecks" ],
+        "numeric-id" : [ "156010882" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570598863790297089/xsJo2Z85.jpg" ],
+        "published" : [ "2010-06-15T19:43:48+00:00" ],
+        "uid" : [ "tag:twitter.com:breakdecks" ],
+        "url" : [ "https://twitter.com/breakdecks", "http://vran.as/@Alex", "http://cohost.org/BreakDecks" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Mastodon may not replace Twitter, but at least it has better leadership.\n\nMeet Eugen, CEO of Mastodon Social:</div>",
+      "value" : "Mastodon may not replace Twitter, but at least it has better leadership.\n\nMeet Eugen, CEO of Mastodon Social:"
+    } ],
+    "photo" : [ {
+      "alt" : "Eugen, Mastodon Social's CEO, explaining that Nazis are bad, and responding to a troll's very dumb argument to the contrary with \"that bullshit doesn't work on me man\".",
+      "value" : "https://pbs.twimg.com/media/FgzVdj4VUAAqil7.jpg"
+    } ],
+    "published" : [ "2022-11-05T13:02:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1588879474451681280" ],
+    "url" : [ "https://twitter.com/breakdecks/status/1588879474451681280" ]
+  },
+  "type" : [ "h-entry" ]
+}
