@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MalwareTechBlog/status/1590388935661715456" ],
     "name" : [ "Like of @MalwareTechBlog's tweet" ],
     "published" : [ "2022-11-09T22:18:00+0000" ],
     "like-of" : [ "https://twitter.com/MalwareTechBlog/status/1590388935661715456" ],
