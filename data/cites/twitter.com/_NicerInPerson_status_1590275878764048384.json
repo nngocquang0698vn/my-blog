@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Kelly" ],
+        "nickname" : [ "NicerInPerson" ],
+        "numeric-id" : [ "15151905" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1463501914063179789/M_x3wXn5.jpg" ],
+        "published" : [ "2008-06-17T23:55:48+00:00" ],
+        "uid" : [ "tag:twitter.com:NicerInPerson" ],
+        "url" : [ "https://twitter.com/NicerInPerson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why isn't COP27 attendance virtual? That would mean less unnecessary international travel and reduced carbon emissions. It would also lead by example." ],
+    "published" : [ "2022-11-09T09:31:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1590275878764048384" ],
+    "url" : [ "https://twitter.com/NicerInPerson/status/1590275878764048384" ]
+  },
+  "type" : [ "h-entry" ]
+}
