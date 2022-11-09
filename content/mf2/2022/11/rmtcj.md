@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TVsCarlKinsella/status/1590326194058448898" ],
     "name" : [ "Like of @TVsCarlKinsella's tweet" ],
     "published" : [ "2022-11-09T19:25:00+0000" ],
     "like-of" : [ "https://twitter.com/TVsCarlKinsella/status/1590326194058448898" ],
