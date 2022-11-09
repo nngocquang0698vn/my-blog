@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/firefox/status/1590411607049662465" ],
     "name" : [ "Like of @firefox's tweet" ],
     "published" : [ "2022-11-09T22:29:00+0000" ],
     "like-of" : [ "https://twitter.com/firefox/status/1590411607049662465" ],
