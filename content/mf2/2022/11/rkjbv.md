@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScriptsByJames/status/1590202258377314304" ],
     "name" : [ "Like of @ScriptsByJames's tweet" ],
     "published" : [ "2022-11-09T07:45:00+0000" ],
     "like-of" : [ "https://twitter.com/ScriptsByJames/status/1590202258377314304" ],
