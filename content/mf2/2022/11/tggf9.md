@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NicerInPerson/status/1590275878764048384" ],
     "name" : [ "Like of @NicerInPerson's tweet" ],
     "published" : [ "2022-11-09T09:36:00+0000" ],
     "like-of" : [ "https://twitter.com/NicerInPerson/status/1590275878764048384" ],
