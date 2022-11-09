@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kenklippenstein/status/1590224218670911493" ],
     "name" : [ "Like of @kenklippenstein's tweet" ],
     "published" : [ "2022-11-09T16:41:00+0000" ],
     "like-of" : [ "https://twitter.com/kenklippenstein/status/1590224218670911493" ],
