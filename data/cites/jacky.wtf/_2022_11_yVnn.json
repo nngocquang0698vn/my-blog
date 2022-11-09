@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://jacky.wtf/2022/11/yVnn" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1590424344571908096", "https://todon.eu/@jalcine/109315469404706506" ],
+    "published" : [ "2022-11-09T19:21:05Z" ],
+    "content" : [ {
+      "html" : "<p>The way my productivity plummets whenever I use macOS is wild. It's like splashing around in a colorful pile of mud and \"we know what you want, stop thinking otherwise\" land. Frustrated that tech's more-or-less forced people to use it (most of the time) for development, despite the complete opposite powering where it lands.</p>",
+      "value" : "The way my productivity plummets whenever I use macOS is wild. It's like splashing around in a colorful pile of mud and \"we know what you want, stop thinking otherwise\" land. Frustrated that tech's more-or-less forced people to use it (most of the time) for development, despite the complete opposite powering where it lands.",
+      "lang" : "en"
+    } ],
+    "generator" : [ {
+      "type" : [ "h-app" ],
+      "properties" : {
+        "name" : [ "Quill" ],
+        "url" : [ "https://quill.p3k.io/" ]
+      },
+      "lang" : "en",
+      "value" : "https://quill.p3k.io/"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "" ],
+        "url" : [ "https://jacky.wtf/about" ]
+      },
+      "lang" : "en",
+      "value" : "https://jacky.wtf/about"
+    } ]
+  },
+  "lang" : "en"
+}
