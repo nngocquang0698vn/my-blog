@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/breakdecks/status/1588879474451681280" ],
     "name" : [ "Like of @breakdecks's tweet" ],
     "published" : [ "2022-11-09T11:35:00+0000" ],
     "like-of" : [ "https://twitter.com/breakdecks/status/1588879474451681280" ],
