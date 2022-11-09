@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1590036130891976704" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2022-11-09T10:13:00+0000" ],
     "like-of" : [ "https://twitter.com/CarolSaysThings/status/1590036130891976704" ],
