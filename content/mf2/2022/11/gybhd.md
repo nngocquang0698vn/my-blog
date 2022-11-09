@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BriannaWu/status/1590356750309658625" ],
     "name" : [ "Like of @BriannaWu's tweet" ],
     "published" : [ "2022-11-09T16:43:00+0000" ],
     "like-of" : [ "https://twitter.com/BriannaWu/status/1590356750309658625" ],
