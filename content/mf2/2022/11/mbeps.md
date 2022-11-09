@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bitandbang/status/1590361735059623937" ],
     "name" : [ "Like of @bitandbang's tweet" ],
     "published" : [ "2022-11-09T16:41:00+0000" ],
     "like-of" : [ "https://twitter.com/bitandbang/status/1590361735059623937" ],
