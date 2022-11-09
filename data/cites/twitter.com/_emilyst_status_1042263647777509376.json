@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@est@emily.news (https://social.emily.news/@est)" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550346516925100033/jK7wVy1C.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst", "https://social.emily.news/@est" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Git branches are weird. You can put zalgo text in them after all (as numerous people suggested), or even entire Japanese sentences (since those rarely contain whitespace).\n\n(If you use zalgo text, be forewarned, Git might break in weird ways.)</div>",
+      "value" : "Git branches are weird. You can put zalgo text in them after all (as numerous people suggested), or even entire Japanese sentences (since those rarely contain whitespace).\n\n(If you use zalgo text, be forewarned, Git might break in weird ways.)"
+    } ],
+    "photo" : [ {
+      "alt" : "Screenshot of making a new Git project and checking out a new branch named with a glitched version of \"HE-COMES\" (a \"Zalgo\" version).",
+      "value" : "https://pbs.twimg.com/media/DnbdQXpV4AAGvWB.png"
+    }, {
+      "alt" : "Screenshot of making a new Git project and checking out a new branch named with the Japanese sentence, \"吾輩は、猫である\" (\"Wagahai wa, neko de aru\": \"I Am a Cat\").",
+      "value" : "https://pbs.twimg.com/media/DnbdQZPVAAA4fRH.png"
+    } ],
+    "published" : [ "2018-09-19T04:06:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1042263647777509376" ],
+    "url" : [ "https://twitter.com/emilyst/status/1042263647777509376" ]
+  },
+  "type" : [ "h-entry" ]
+}
