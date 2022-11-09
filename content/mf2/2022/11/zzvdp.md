@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CharlotteAlter/status/1590190507778793472" ],
     "name" : [ "Like of @CharlotteAlter's tweet" ],
     "published" : [ "2022-11-09T07:45:00+0000" ],
     "like-of" : [ "https://twitter.com/CharlotteAlter/status/1590190507778793472" ],
