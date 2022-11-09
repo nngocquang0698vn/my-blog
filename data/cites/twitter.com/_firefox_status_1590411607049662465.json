@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "All over the world" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Firefox 🔥" ],
+        "nickname" : [ "firefox" ],
+        "numeric-id" : [ "2142731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520168103660949505/0mAUVASD.jpg" ],
+        "published" : [ "2007-03-24T23:58:14+00:00" ],
+        "uid" : [ "tag:twitter.com:firefox" ],
+        "url" : [ "https://twitter.com/firefox", "http://mozilla.org/firefox" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "18 years and counting. Thank you 🔥" ],
+    "published" : [ "2022-11-09T18:30:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1590411607049662465" ],
+    "url" : [ "https://twitter.com/firefox/status/1590411607049662465" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FhJETgdVUAA4Txd.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
