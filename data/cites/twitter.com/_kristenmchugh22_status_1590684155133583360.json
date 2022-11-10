@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Guardian" ],
+          "nickname" : [ "guardian" ],
+          "numeric-id" : [ "87818409" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla.png" ],
+          "published" : [ "2009-11-05T23:49:19+00:00" ],
+          "uid" : [ "tag:twitter.com:guardian" ],
+          "url" : [ "https://twitter.com/guardian", "https://www.theguardian.com", "https://support.theguardian.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Elon Musk scraps Twitter’s work from home policy <a href=\"https://www.theguardian.com/technology/2022/nov/10/elon-musk-scraps-twitter-work-home-staff?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1668083049-1\">theguardian.com/technology/202…</a>",
+        "value" : "Elon Musk scraps Twitter’s work from home policy theguardian.com/technology/202…"
+      } ],
+      "published" : [ "2022-11-10T12:24:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1590681719576854534" ],
+      "url" : [ "https://twitter.com/guardian/status/1590681719576854534" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, Pa. USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kristen McHugh (pinned still relevant, she/her)" ],
+        "nickname" : [ "kristenmchugh22" ],
+        "numeric-id" : [ "26499221" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588298397899018240/ramCabyT.jpg" ],
+        "published" : [ "2009-03-25T13:44:16+00:00" ],
+        "uid" : [ "tag:twitter.com:kristenmchugh22" ],
+        "url" : [ "https://twitter.com/kristenmchugh22", "http://PayPal.me/kristenmchugh22" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fuck this guy." ],
+    "published" : [ "2022-11-10T12:33:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1590684155133583360" ],
+    "url" : [ "https://twitter.com/kristenmchugh22/status/1590684155133583360" ]
+  },
+  "type" : [ "h-entry" ]
+}
