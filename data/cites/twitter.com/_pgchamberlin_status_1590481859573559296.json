@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Peter Chamberlin" ],
+        "nickname" : [ "pgchamberlin" ],
+        "numeric-id" : [ "21746693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/985986487501156355/CHPwgffc.jpg" ],
+        "published" : [ "2009-02-24T11:40:17+00:00" ],
+        "uid" : [ "tag:twitter.com:pgchamberlin" ],
+        "url" : [ "https://twitter.com/pgchamberlin", "https://peterchamberlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Well, not without tradeoffs. Adding GraalVM to the build chain is not a trouble free thing to do. \n\nIt's nice that *technically* you can make Java perform in Lambda, but you'd only want to do it if you had to.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brianleroux\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/swardley\"></a>",
+      "value" : "Well, not without tradeoffs. Adding GraalVM to the build chain is not a trouble free thing to do. \n\nIt's nice that *technically* you can make Java perform in Lambda, but you'd only want to do it if you had to."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/brianleroux/status/1590477537238736896" ],
+    "published" : [ "2022-11-09T23:09:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1590481859573559296" ],
+    "url" : [ "https://twitter.com/pgchamberlin/status/1590481859573559296" ]
+  },
+  "type" : [ "h-entry" ]
+}
