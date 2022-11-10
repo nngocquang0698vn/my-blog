@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David R. MacIver" ],
+        "nickname" : [ "DRMacIver" ],
+        "numeric-id" : [ "14368342" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379848103117910018/S9QuMkFY.jpg" ],
+        "published" : [ "2008-04-12T11:34:23+00:00" ],
+        "uid" : [ "tag:twitter.com:DRMacIver" ],
+        "url" : [ "https://twitter.com/DRMacIver", "http://drmaciver.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The modern condition is mostly trying to do things on your own that people have historically achieved with a large support network and wondering why you're tired all the time." ],
+    "published" : [ "2022-10-30T22:40:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1586850511726206983" ],
+    "url" : [ "https://twitter.com/DRMacIver/status/1586850511726206983" ]
+  },
+  "type" : [ "h-entry" ]
+}
