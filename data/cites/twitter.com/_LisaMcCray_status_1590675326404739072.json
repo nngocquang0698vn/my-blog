@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Baltimore " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lisa Snowden" ],
+        "nickname" : [ "LisaMcCray" ],
+        "numeric-id" : [ "15999884" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524872239220400130/Y6AVbl0c.jpg" ],
+        "published" : [ "2008-08-26T17:46:23+00:00" ],
+        "uid" : [ "tag:twitter.com:LisaMcCray" ],
+        "url" : [ "https://twitter.com/LisaMcCray", "https://baltimorebeat.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is what Twitter is for" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhM2xznWIAEupfR.jpg" ],
+    "published" : [ "2022-11-10T11:58:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1590675326404739072" ],
+    "url" : [ "https://twitter.com/LisaMcCray/status/1590675326404739072" ]
+  },
+  "type" : [ "h-entry" ]
+}
