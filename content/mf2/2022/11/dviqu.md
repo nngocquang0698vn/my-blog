@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dorrismccomics/status/1590035578724052992" ],
     "name" : [ "Like of @dorrismccomics's tweet" ],
     "published" : [ "2022-11-10T22:12:00+0000" ],
     "like-of" : [ "https://twitter.com/dorrismccomics/status/1590035578724052992" ],
