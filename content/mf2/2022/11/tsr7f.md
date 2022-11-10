@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/meemalee/status/1590622896367751172" ],
     "name" : [ "Like of @meemalee's tweet" ],
     "published" : [ "2022-11-10T10:07:00+0000" ],
     "like-of" : [ "https://twitter.com/meemalee/status/1590622896367751172" ],
