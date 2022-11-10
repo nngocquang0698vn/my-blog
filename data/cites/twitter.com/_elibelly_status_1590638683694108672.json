@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Just in: starting today (Thursday) remote work is not an option at Twitter: all employees are expected to be 40 hours in the office. Only exceptions are for those physically unable to travel to an office or exceptions signed off by Elon.\n\nWhy the sudden change? My take:</div>",
+        "value" : "Just in: starting today (Thursday) remote work is not an option at Twitter: all employees are expected to be 40 hours in the office. Only exceptions are for those physically unable to travel to an office or exceptions signed off by Elon.\n\nWhy the sudden change? My take:"
+      } ],
+      "published" : [ "2022-11-10T08:17:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1590619676467683334" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1590619676467683334" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eli schutze🫡" ],
+        "nickname" : [ "elibelly" ],
+        "numeric-id" : [ "19629753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537726596001431555/dk9eWbVP.jpg" ],
+        "published" : [ "2009-01-28T01:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:elibelly" ],
+        "url" : [ "https://twitter.com/elibelly", "https://www.rupify.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/GergelyOrosz/status/1590619676467683334?t=d1lN8rXL7E8Gczr7BxP9PA&s=19\">twitter.com/GergelyOrosz/s…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/janl\"></a>",
+      "value" : "twitter.com/GergelyOrosz/s…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/janl/status/1590638426378088448" ],
+    "published" : [ "2022-11-10T09:33:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1590638683694108672" ],
+    "url" : [ "https://twitter.com/elibelly/status/1590638683694108672" ]
+  },
+  "type" : [ "h-entry" ]
+}
