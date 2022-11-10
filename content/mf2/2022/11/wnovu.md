@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mcortonscott/status/1590373063170097152" ],
     "name" : [ "Like of @mcortonscott's tweet" ],
     "published" : [ "2022-11-10T10:12:00+0000" ],
     "like-of" : [ "https://twitter.com/mcortonscott/status/1590373063170097152" ],
