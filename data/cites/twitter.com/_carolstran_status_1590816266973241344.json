@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Sorry buddy you’re looking rough but I’m proud of you for expressing your needs" ],
+    "photo" : [ {
+      "alt" : "A bar of soap that has the words “Hold me” professionally etched into it.",
+      "value" : "https://pbs.twimg.com/media/FhO29QhWIAUt_YM.jpg"
+    } ],
+    "published" : [ "2022-11-10T21:18:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1590816266973241344" ],
+    "url" : [ "https://twitter.com/carolstran/status/1590816266973241344" ]
+  },
+  "type" : [ "h-entry" ]
+}
