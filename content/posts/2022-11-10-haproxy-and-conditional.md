@@ -1,15 +1,16 @@
 ---
 title: "Performing `AND` conditionals in HAProxy"
-description: "How to string multiple conditions together in HAProxy to perform an `AND`."
-date: 2022-11-10T12:52:16+0000
+description: "How to string multiple conditions together in HAProxy to perform an\
+  \ `AND`."
+date: "2022-11-10T12:52:16+0000"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1590691703375249409"
 tags:
 - "blogumentation"
 - "haproxy"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: https://media.jvt.me/5f67159543.png
+image: "https://media.jvt.me/5f67159543.png"
 slug: "haproxy-and-conditional"
 ---
 Today I've been playing around with some HAProxy rules, and I wanted to only allow access to a given host if the request was to a specific route.
