@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/molly_knight/status/1590497039947030528" ],
     "name" : [ "Like of @molly_knight's tweet" ],
     "published" : [ "2022-11-10T07:57:00+0000" ],
     "like-of" : [ "https://twitter.com/molly_knight/status/1590497039947030528" ],
