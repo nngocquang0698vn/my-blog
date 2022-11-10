@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jasoncwarner/status/1590790182558912512" ],
     "name" : [ "Like of @jasoncwarner's tweet" ],
     "published" : [ "2022-11-10T19:42:00+0000" ],
     "like-of" : [ "https://twitter.com/jasoncwarner/status/1590790182558912512" ],
