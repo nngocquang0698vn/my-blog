@@ -1,0 +1,94 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/nhqe/status/1590660234020028416\">@nhqe</a> :shocked_pikachu:"
+    } ],
+    "published" : [ "2022-11-10T11:10:17+00:00" ],
+    "repost-of" : [ {
+      "children" : [ {
+        "properties" : {
+          "author" : [ {
+            "properties" : {
+              "location" : [ {
+                "properties" : {
+                  "name" : [ "💜" ]
+                },
+                "type" : [ "h-card", "p-location" ]
+              } ],
+              "name" : [ "MiMi Aye" ],
+              "nickname" : [ "meemalee" ],
+              "numeric-id" : [ "17706519" ],
+              "photo" : [ "https://pbs.twimg.com/profile_images/1488669440497573889/HZhp_JNb.jpg" ],
+              "published" : [ "2008-11-28T11:48:06+00:00" ],
+              "uid" : [ "tag:twitter.com:meemalee" ],
+              "url" : [ "https://twitter.com/meemalee", "https://linktr.ee/meemalee", "https://mastodon.social/@meemalee" ]
+            },
+            "type" : [ "h-card" ]
+          } ],
+          "content" : [ {
+            "html" : "<div style=\"white-space: pre\">The second verified account is actually @/appletvpius - they just capitalised the i.\n\nThis is going swimmingly.</div>",
+            "value" : "The second verified account is actually @/appletvpius - they just capitalised the i.\n\nThis is going swimmingly."
+          } ],
+          "in-reply-to" : [ "https://twitter.com/meemalee/status/1590493144776249344" ],
+          "photo" : [ {
+            "alt" : "The real AppleTV+ account",
+            "value" : "https://pbs.twimg.com/media/FhL8jkOWQAAfLil.jpg"
+          }, {
+            "alt" : "A blue verified account pretending to be AppleTV+",
+            "value" : "https://pbs.twimg.com/media/FhL8jkMXoAA7Qjr.jpg"
+          } ],
+          "published" : [ "2022-11-10T07:44:23+00:00" ],
+          "uid" : [ "tag:twitter.com:1590611311729463296" ],
+          "url" : [ "https://twitter.com/meemalee/status/1590611311729463296" ]
+        },
+        "type" : [ "u-quotation-of", "h-cite" ]
+      } ],
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Manchester, UK" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "ben" ],
+            "nickname" : [ "nhqe" ],
+            "numeric-id" : [ "44999727" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1210308389990875136/NLZB3mK3.jpg" ],
+            "published" : [ "2009-06-05T21:21:20+00:00" ],
+            "uid" : [ "tag:twitter.com:nhqe" ],
+            "url" : [ "https://twitter.com/nhqe", "http://hawkyard.co" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ ":shocked_pikachu:" ],
+        "published" : [ "2022-11-10T10:58:47+00:00" ],
+        "uid" : [ "tag:twitter.com:1590660234020028416" ],
+        "url" : [ "https://twitter.com/nhqe/status/1590660234020028416" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1590663128165289986" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1590663128165289986" ]
+  },
+  "type" : [ "h-entry" ]
+}
