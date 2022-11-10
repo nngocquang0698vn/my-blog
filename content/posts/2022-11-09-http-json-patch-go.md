@@ -1,9 +1,11 @@
 ---
 title: "Creating a JSON Patch endpoint in Go"
 description: "How to create a server-side JSON Patch API endpoint in Go."
-date: 2022-11-09T15:39:14+0000
+date: "2022-11-09T15:39:14+0000"
+aliases:
+- "/posts/2022/11/09/http-json-patch-go/"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1590766324409544704"
 tags:
 - "blogumentation"
 - "api"
@@ -11,9 +13,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
-slug: http-json-patch-go
-aliases:
-- /posts/2022/11/09/http-json-patch-go/
+slug: "http-json-patch-go"
 ---
 [JSON Patch](http://jsonpatch.com/) is a well-defined format for performing updates to HTTP objects, which allows you to avoid needing to design your own means for performing partial changes.
 
