@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Poser" ],
+        "nickname" : [ "J_Poser" ],
+        "numeric-id" : [ "277957114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1534090521316040705/rH904H7E.png" ],
+        "published" : [ "2011-04-06T09:39:14+00:00" ],
+        "uid" : [ "tag:twitter.com:J_Poser" ],
+        "url" : [ "https://twitter.com/J_Poser", "http://jposer.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "turns out the F in FTX was to pay respects to your bank balance" ],
+    "published" : [ "2022-11-10T09:19:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1590635270398844928" ],
+    "url" : [ "https://twitter.com/J_Poser/status/1590635270398844928" ]
+  },
+  "type" : [ "h-entry" ]
+}
