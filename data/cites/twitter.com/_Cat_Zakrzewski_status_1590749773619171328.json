@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cat Zakrzewski" ],
+        "nickname" : [ "Cat_Zakrzewski" ],
+        "numeric-id" : [ "796169341" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1056655522210988037/6ZJYVWY0.jpg" ],
+        "published" : [ "2012-09-01T14:13:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Cat_Zakrzewski" ],
+        "url" : [ "https://twitter.com/Cat_Zakrzewski", "http://wapo.st/tech202" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Strong statement from FTC, following the security and privacy departures at Twitter: \"We are tracking recent developments at Twitter with deep concern. No CEO or company is above the law, and  companies must follow our consent decrees.\"" ],
+    "published" : [ "2022-11-10T16:54:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1590749773619171328" ],
+    "url" : [ "https://twitter.com/Cat_Zakrzewski/status/1590749773619171328" ]
+  },
+  "type" : [ "h-entry" ]
+}
