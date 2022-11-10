@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington and elsewhere." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matt blaze" ],
+        "nickname" : [ "mattblaze" ],
+        "numeric-id" : [ "26567591" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146982498125193216/IiIjunPd.jpg" ],
+        "published" : [ "2009-03-25T19:18:25+00:00" ],
+        "uid" : [ "tag:twitter.com:mattblaze" ],
+        "url" : [ "https://twitter.com/mattblaze", "http://www.mattblaze.org/blog/", "https://federate.social/@mattblaze" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Any Twitter engineer being asked to certify compliance to a regulatory agency (such as the FTC) should seek independent (their own) legal advice before signing anything or making any statement to regulators.\n\nThis is a bus you do NOT want to be thrown under.</div>",
+      "value" : "Any Twitter engineer being asked to certify compliance to a regulatory agency (such as the FTC) should seek independent (their own) legal advice before signing anything or making any statement to regulators.\n\nThis is a bus you do NOT want to be thrown under."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mattblaze/status/1590743928315465729" ],
+    "published" : [ "2022-11-10T16:33:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1590744524875190277" ],
+    "url" : [ "https://twitter.com/mattblaze/status/1590744524875190277" ]
+  },
+  "type" : [ "h-entry" ]
+}
