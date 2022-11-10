@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "💜" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "MiMi Aye" ],
+        "nickname" : [ "meemalee" ],
+        "numeric-id" : [ "17706519" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488669440497573889/HZhp_JNb.jpg" ],
+        "published" : [ "2008-11-28T11:48:06+00:00" ],
+        "uid" : [ "tag:twitter.com:meemalee" ],
+        "url" : [ "https://twitter.com/meemalee", "https://linktr.ee/meemalee", "https://mastodon.social/@meemalee" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fake George W Bush and fake Tony Blair have made friends, I see 👀" ],
+    "in-reply-to" : [ "https://twitter.com/meemalee/status/1590611311729463296" ],
+    "photo" : [ {
+      "alt" : "Verified GeorgeWBushs and verified MPTonyBlair agree that they miss killing Iraqis",
+      "value" : "https://pbs.twimg.com/media/FhMHF4wXkAAbNG1.jpg"
+    } ],
+    "published" : [ "2022-11-10T08:30:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1590622896367751172" ],
+    "url" : [ "https://twitter.com/meemalee/status/1590622896367751172" ]
+  },
+  "type" : [ "h-entry" ]
+}
