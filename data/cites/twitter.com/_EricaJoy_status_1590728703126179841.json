@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Casey Newton" ],
+          "nickname" : [ "CaseyNewton" ],
+          "numeric-id" : [ "69426451" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX.jpg" ],
+          "published" : [ "2009-08-27T22:37:09+00:00" ],
+          "uid" : [ "tag:twitter.com:CaseyNewton" ],
+          "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">According to messages shared in Twitter Slack, Twitter’s CISO, chief privacy office, and chief compliance officer all resigned last night.\n\nAn employee says it will be up to engineers to “self-certify compliance with FTC requirements and other laws.”</div>",
+        "value" : "According to messages shared in Twitter Slack, Twitter’s CISO, chief privacy office, and chief compliance officer all resigned last night.\n\nAn employee says it will be up to engineers to “self-certify compliance with FTC requirements and other laws.”"
+      } ],
+      "published" : [ "2022-11-10T15:13:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1590724257608134657" ],
+      "url" : [ "https://twitter.com/CaseyNewton/status/1590724257608134657" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/caseynewton/st…" ],
+      "url" : [ "https://twitter.com/caseynewton/status/1590724257608134657" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "EricaJoy" ],
+        "nickname" : [ "EricaJoy" ],
+        "numeric-id" : [ "817083" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573015370822098945/VMUhrYhv.jpg" ],
+        "published" : [ "2007-03-07T04:30:38+00:00" ],
+        "uid" : [ "tag:twitter.com:EricaJoy" ],
+        "url" : [ "https://twitter.com/EricaJoy", "https://www.ericabaker.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">do you know what level of fuckery is required to get your CISO, chief privacy officer, and chief compliance officer to all resign at once?\n\ni suspect we’ll have a good idea of exactly what’s going down by EOD and it’s gonna be Bad.</div>\n<a class=\"tag\" href=\"https://twitter.com/caseynewton/status/1590724257608134657\">twitter.com/caseynewton/st…</a>",
+      "value" : "do you know what level of fuckery is required to get your CISO, chief privacy officer, and chief compliance officer to all resign at once?\n\ni suspect we’ll have a good idea of exactly what’s going down by EOD and it’s gonna be Bad."
+    } ],
+    "published" : [ "2022-11-10T15:30:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1590728703126179841" ],
+    "url" : [ "https://twitter.com/EricaJoy/status/1590728703126179841" ]
+  },
+  "type" : [ "h-entry" ]
+}
