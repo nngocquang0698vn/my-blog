@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Frankfurt, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Certified account, trust me 🇺🇦🍥" ],
+        "nickname" : [ "Ocramius" ],
+        "numeric-id" : [ "14288063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275002588698730497/Dr3c3ZyN.jpg" ],
+        "published" : [ "2008-04-02T22:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:Ocramius" ],
+        "url" : [ "https://twitter.com/Ocramius", "https://github.com/Ocramius/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Reviewing an OpenAPI schema written with a click-it-together tool/generator: urgh.\n\nAPI definitions are extremely important: don't just smash them together 😱</div>",
+      "value" : "Reviewing an OpenAPI schema written with a click-it-together tool/generator: urgh.\n\nAPI definitions are extremely important: don't just smash them together 😱"
+    } ],
+    "published" : [ "2022-11-09T10:30:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1590290656647184384" ],
+    "url" : [ "https://twitter.com/Ocramius/status/1590290656647184384" ]
+  },
+  "type" : [ "h-entry" ]
+}
