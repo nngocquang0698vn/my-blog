@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/runasand/status/1590592477345742848" ],
     "name" : [ "Like of @runasand's tweet" ],
     "published" : [ "2022-11-10T12:11:00+0000" ],
     "like-of" : [ "https://twitter.com/runasand/status/1590592477345742848" ],
