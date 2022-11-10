@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HaysKali/status/1590729727459086337" ],
     "name" : [ "Like of @HaysKali's tweet" ],
     "published" : [ "2022-11-10T19:23:00+0000" ],
     "like-of" : [ "https://twitter.com/HaysKali/status/1590729727459086337" ],
