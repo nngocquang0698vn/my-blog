@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karenkho/status/1590445086038380544" ],
     "name" : [ "Like of @karenkho's tweet" ],
     "published" : [ "2022-11-10T07:58:00+0000" ],
     "like-of" : [ "https://twitter.com/karenkho/status/1590445086038380544" ],
