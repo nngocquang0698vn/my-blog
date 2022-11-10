@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1589390597798125568" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Blacksburg, Virginia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Lewis" ],
+        "nickname" : [ "johnlewis" ],
+        "numeric-id" : [ "10501042" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/37714882/lewis.jpg" ],
+        "published" : [ "2007-11-23T20:00:47+00:00" ],
+        "uid" : [ "tag:twitter.com:johnlewis" ],
+        "url" : [ "https://twitter.com/johnlewis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Elon, please do not suspend <a href=\"https://twitter.com/JohnLewisRetail\">@johnlewisretail</a>. They are not doing a parody of me, it's an homage.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1589390597798125568\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Elon, please do not suspend @johnlewisretail. They are not doing a parody of me, it's an homage."
+    } ],
+    "published" : [ "2022-11-09T14:17:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1590347897161515009" ],
+    "url" : [ "https://twitter.com/johnlewis/status/1590347897161515009" ]
+  },
+  "type" : [ "h-entry" ]
+}
