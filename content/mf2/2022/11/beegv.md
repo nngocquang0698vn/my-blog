@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/spilledbagofice/status/1589479106240196608" ],
     "name" : [ "Like of @spilledbagofice's tweet" ],
     "published" : [ "2022-11-11T08:00:00+0000" ],
     "like-of" : [ "https://twitter.com/spilledbagofice/status/1589479106240196608" ],
