@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dungeons & Dragons" ],
+        "nickname" : [ "Wizards_DnD" ],
+        "numeric-id" : [ "90672134" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582055118182453249/8oSuZtW4.jpg" ],
+        "published" : [ "2009-11-17T17:11:20+00:00" ],
+        "uid" : [ "tag:twitter.com:Wizards_DnD" ],
+        "url" : [ "https://twitter.com/Wizards_DnD", "http://dungeonsanddragons.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This treasure chest has been verified by your barbarian's investigation check." ],
+    "photo" : [ {
+      "alt" : "A perfectly normal treasure chest with multiple eyes, gnashing teeth and long tongue that has a Twitter Blue verification checkmark.",
+      "value" : "https://pbs.twimg.com/media/FhOXNO0XwAAK12m.jpg"
+    } ],
+    "published" : [ "2022-11-10T19:00:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1590781352303071247" ],
+    "url" : [ "https://twitter.com/Wizards_DnD/status/1590781352303071247" ]
+  },
+  "type" : [ "h-entry" ]
+}
