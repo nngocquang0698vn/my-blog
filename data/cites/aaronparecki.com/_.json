@@ -1,32 +1,18 @@
 {
   "type" : [ "h-card" ],
   "properties" : {
-    "note" : [ "Hi, I'm Aaron Parecki, co-founder of IndieWebCamp. I maintain oauth.net, write and consult about OAuth, and am the editor of several W3C specifications. I help people learn about video production and livestreaming and dabble in product design.\nI've been tracking my location since 2008 and I wrote 100 songs in 100 days. I've spoken at conferences around the world about owning your data, OAuth, quantified self, and explained why R is a vowel. Read more." ],
+    "note" : [ "Hi, I'm Aaron Parecki, Senior Security Architect at Okta, and co-founder of IndieWebCamp. I maintain oauth.net, write and consult about OAuth, and participate in the OAuth Working Group at the IETF. I also help people learn about video production and livestreaming and dabble in product design.\nI've been tracking my location since 2008 and I wrote 100 songs in 100 days. I've spoken at conferences around the world about owning your data, OAuth, quantified self, and explained why R is a vowel. Read more." ],
     "name" : [ "Aaron Parecki" ],
-    "street-address" : [ "818 SW 3rd Ave #437" ],
+    "street-address" : [ "PO Box 12433" ],
     "locality" : [ "Portland" ],
     "region" : [ "Oregon" ],
     "country-name" : [ "USA" ],
-    "postal-code" : [ "97204" ],
+    "postal-code" : [ "97212" ],
     "url" : [ "https://aaronparecki.com/" ],
     "uid" : [ "https://aaronparecki.com/" ],
     "photo" : [ "https://aaronparecki.com/images/profile.jpg" ],
     "bday" : [ "--12-28" ],
     "org" : [ {
-      "type" : [ "h-card" ],
-      "properties" : {
-        "name" : [ "IndieWebCamp" ],
-        "url" : [ "https://indieweb.org/" ]
-      },
-      "value" : "IndieWebCamp"
-    }, {
-      "type" : [ "h-card" ],
-      "properties" : {
-        "name" : [ "oauth.net" ],
-        "url" : [ "https://oauth.net/" ]
-      },
-      "value" : "oauth.net"
-    }, {
       "type" : [ "h-card" ],
       "properties" : {
         "role" : [ "Security Architect" ],
