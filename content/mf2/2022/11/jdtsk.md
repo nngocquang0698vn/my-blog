@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/obra/status/1590920558598029312" ],
     "name" : [ "Like of @obra's tweet" ],
     "published" : [ "2022-11-11T20:56:00+0000" ],
     "like-of" : [ "https://twitter.com/obra/status/1590920558598029312" ],
