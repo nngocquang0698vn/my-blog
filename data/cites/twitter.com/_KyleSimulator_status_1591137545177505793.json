@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Burlington, VT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Tansley" ],
+        "nickname" : [ "KyleSimulator" ],
+        "numeric-id" : [ "859555566" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517185439827996675/UjDGRZFl.jpg" ],
+        "published" : [ "2012-10-03T11:44:13+00:00" ],
+        "uid" : [ "tag:twitter.com:KyleSimulator" ],
+        "url" : [ "https://twitter.com/KyleSimulator", "http://www.kyletansley.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Well it wont be worth the 44B by the time December 12th rolls around :P\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IurySza\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/obra\"></a>",
+      "value" : "Well it wont be worth the 44B by the time December 12th rolls around :P"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IurySza/status/1591119379319914497" ],
+    "published" : [ "2022-11-11T18:35:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1591137545177505793" ],
+    "url" : [ "https://twitter.com/KyleSimulator/status/1591137545177505793" ]
+  },
+  "type" : [ "h-entry" ]
+}
