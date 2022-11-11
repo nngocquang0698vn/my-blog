@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/handsomeadult/status/1590998112247898113" ],
     "name" : [ "Like of @handsomeadult's tweet" ],
     "published" : [ "2022-11-11T19:04:00+0000" ],
     "like-of" : [ "https://twitter.com/handsomeadult/status/1590998112247898113" ],
