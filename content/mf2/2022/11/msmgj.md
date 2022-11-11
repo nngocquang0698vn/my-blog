@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/endocrimes/status/1591028955657621506" ],
     "name" : [ "Like of @endocrimes's tweet" ],
     "published" : [ "2022-11-11T16:57:00+0000" ],
     "like-of" : [ "https://twitter.com/endocrimes/status/1591028955657621506" ],
