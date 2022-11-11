@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin @ #ffconf" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Some movements bringing back the personal site:\n\nIndieweb: <a href=\"http://indieweb.org\">indieweb.org</a>\n\nYesterweb: <a href=\"http://yesterweb.org\">yesterweb.org</a></div>",
+      "value" : "Some movements bringing back the personal site:\n\nIndieweb: indieweb.org\n\nYesterweb: yesterweb.org"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1591109632113594368" ],
+    "published" : [ "2022-11-11T16:45:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1591109879527358467" ],
+    "url" : [ "https://twitter.com/type__error/status/1591109879527358467" ]
+  },
+  "type" : [ "h-entry" ]
+}
