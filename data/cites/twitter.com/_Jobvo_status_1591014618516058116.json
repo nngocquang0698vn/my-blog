@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Remote" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Job" ],
+        "nickname" : [ "Jobvo" ],
+        "numeric-id" : [ "65750827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1558381282354204673/1JjCO9z_.jpg" ],
+        "published" : [ "2009-08-14T22:16:13+00:00" ],
+        "uid" : [ "tag:twitter.com:Jobvo" ],
+        "url" : [ "https://twitter.com/Jobvo", "https://www.remote.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Amazing person working for 6 months at <a href=\"https://twitter.com/remote\">@remote</a> now:\n\n\"I haven't sent a single email while working here\"\n\n\"I've not sat through a 'death by powerpoint' meeting once\"\n\n\"almost no meetings\"</div>",
+      "value" : "Amazing person working for 6 months at @remote now:\n\n\"I haven't sent a single email while working here\"\n\n\"I've not sat through a 'death by powerpoint' meeting once\"\n\n\"almost no meetings\""
+    } ],
+    "published" : [ "2022-11-11T10:26:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1591014618516058116" ],
+    "url" : [ "https://twitter.com/Jobvo/status/1591014618516058116" ]
+  },
+  "type" : [ "h-entry" ]
+}
