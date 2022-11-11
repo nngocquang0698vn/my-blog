@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Vershbow" ],
+        "nickname" : [ "svershbow" ],
+        "numeric-id" : [ "459815426" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533604298973757443/k0KZ7yeP.jpg" ],
+        "published" : [ "2012-01-10T02:44:48+00:00" ],
+        "uid" : [ "tag:twitter.com:svershbow" ],
+        "url" : [ "https://twitter.com/svershbow", "https://linktr.ee/sophievershbow" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "twitter dying would be great for my mental health but terrible for my career" ],
+    "published" : [ "2022-11-10T16:07:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1590737866195628034" ],
+    "url" : [ "https://twitter.com/svershbow/status/1590737866195628034" ]
+  },
+  "type" : [ "h-entry" ]
+}
