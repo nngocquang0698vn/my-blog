@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/baddestmamajama/status/1590942882512662529" ],
     "name" : [ "Like of @baddestmamajama's tweet" ],
     "published" : [ "2022-11-11T07:59:00+0000" ],
     "like-of" : [ "https://twitter.com/baddestmamajama/status/1590942882512662529" ],
