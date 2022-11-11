@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/craigcalef/status/1588530367476420608" ],
     "name" : [ "Like of @craigcalef's tweet" ],
     "published" : [ "2022-11-11T22:43:00+0000" ],
     "like-of" : [ "https://twitter.com/craigcalef/status/1588530367476420608" ],
