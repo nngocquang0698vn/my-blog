@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brosandprose/status/1590871892835307521" ],
     "name" : [ "Like of @brosandprose's tweet" ],
     "published" : [ "2022-11-11T07:45:00+0000" ],
     "like-of" : [ "https://twitter.com/brosandprose/status/1590871892835307521" ],
