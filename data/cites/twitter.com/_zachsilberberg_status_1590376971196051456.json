@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/him NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "zach silberberg" ],
+        "nickname" : [ "zachsilberberg" ],
+        "numeric-id" : [ "830387870" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565499012970586113/PvnQa1-f.jpg" ],
+        "published" : [ "2012-09-18T05:00:12+00:00" ],
+        "uid" : [ "tag:twitter.com:zachsilberberg" ],
+        "url" : [ "https://twitter.com/zachsilberberg", "http://instagram.com/zachsilberberg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "ahahahaha this is so petty" ],
+    "in-reply-to" : [ "https://twitter.com/zachsilberberg/status/1590362719433424898" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhInaSQXEAEUGEd.png", "https://pbs.twimg.com/media/FhInbC9XwAArmYl.png" ],
+    "published" : [ "2022-11-09T16:13:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1590376971196051456" ],
+    "url" : [ "https://twitter.com/zachsilberberg/status/1590376971196051456" ]
+  },
+  "type" : [ "h-entry" ]
+}
