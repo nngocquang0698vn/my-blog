@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/yayfrens/status/1591103908474392581\">@yayfrens</a> The person you want to become is merely the person you are plus time and energy. You can do it."
+    } ],
+    "published" : [ "2022-11-11T16:55:24+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "All around" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Yayfrens Bot" ],
+            "nickname" : [ "yayfrens" ],
+            "numeric-id" : [ "2999987369" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/559822519205507073/JV_RGMAz.png" ],
+            "published" : [ "2015-01-26T17:21:54+00:00" ],
+            "uid" : [ "tag:twitter.com:yayfrens" ],
+            "url" : [ "https://twitter.com/yayfrens" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "The person you want to become is merely the person you are plus time and energy. You can do it." ],
+        "published" : [ "2022-11-11T16:21:47+00:00" ],
+        "uid" : [ "tag:twitter.com:1591103908474392581" ],
+        "url" : [ "https://twitter.com/yayfrens/status/1591103908474392581" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1591112366942744577" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1591112366942744577" ]
+  },
+  "type" : [ "h-entry" ]
+}
