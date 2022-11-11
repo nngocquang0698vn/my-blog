@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Houston Texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Seth" ],
+        "nickname" : [ "sethrd" ],
+        "numeric-id" : [ "548223122" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/782737576989818880/EOF-cho2.jpg" ],
+        "published" : [ "2012-04-08T07:19:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sethrd" ],
+        "url" : [ "https://twitter.com/sethrd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Tweetdeck itself may work, but if it's communicating to Twitter endpoints over SSL, it's going to be useless once twitters SSLs expire.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GeckoSunday\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ParisSecretLab\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/obra\"></a>",
+      "value" : "Tweetdeck itself may work, but if it's communicating to Twitter endpoints over SSL, it's going to be useless once twitters SSLs expire."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GeckoSunday/status/1590973593558863872" ],
+    "published" : [ "2022-11-11T17:47:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1591125556619509761" ],
+    "url" : [ "https://twitter.com/sethrd/status/1591125556619509761" ]
+  },
+  "type" : [ "h-entry" ]
+}
