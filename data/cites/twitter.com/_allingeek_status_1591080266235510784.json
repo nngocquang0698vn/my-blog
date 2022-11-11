@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Nickoloff" ],
+        "nickname" : [ "allingeek" ],
+        "numeric-id" : [ "3663051" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/627978121749204992/SiX45xIm.jpg" ],
+        "published" : [ "2007-04-06T23:08:44+00:00" ],
+        "uid" : [ "tag:twitter.com:allingeek" ],
+        "url" : [ "https://twitter.com/allingeek" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’ve been asking for registry webhooks or an RSS feed for a long time. Maybe I’ll fix this. LMK if you’re interested.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/adrianmouat\"></a>",
+      "value" : "I’ve been asking for registry webhooks or an RSS feed for a long time. Maybe I’ll fix this. LMK if you’re interested."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/adrianmouat/status/1591014063139852288" ],
+    "published" : [ "2022-11-11T14:47:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1591080266235510784" ],
+    "url" : [ "https://twitter.com/allingeek/status/1591080266235510784" ]
+  },
+  "type" : [ "h-entry" ]
+}
