@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "BOS, SAN, SFO, LAS" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "@cdc@ioc.exchange" ],
+          "nickname" : [ "craigcalef" ],
+          "numeric-id" : [ "155" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1262536611/corgipirate.png" ],
+          "published" : [ "2006-04-28T23:38:44+00:00" ],
+          "uid" : [ "tag:twitter.com:craigcalef" ],
+          "url" : [ "https://twitter.com/craigcalef" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Right now a disk is filling up on a server somewhere in some data center that a person who has just been laid off has been manually clearing every few days and when that disk fills up Twitter will go down.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Foone\"></a>",
+        "value" : "Right now a disk is filling up on a server somewhere in some data center that a person who has just been laid off has been manually clearing every few days and when that disk fills up Twitter will go down."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/Foone/status/1588429889107296256" ],
+      "published" : [ "2022-11-04T13:55:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1588530367476420608" ],
+      "url" : [ "https://twitter.com/craigcalef/status/1588530367476420608" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Roger Lipscombe" ],
+        "nickname" : [ "rogerlipscombe" ],
+        "numeric-id" : [ "389986918" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3762530123/bd82b21020ff0d0c7fcdd04811e4f865.png" ],
+        "published" : [ "2011-10-13T09:00:43+00:00" ],
+        "uid" : [ "tag:twitter.com:rogerlipscombe" ],
+        "url" : [ "https://twitter.com/rogerlipscombe", "https://rogerlipscombe.me/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If it's not that, it'll be an internal TLS cert expiring, and no-one knows where the CA key is kept." ],
+    "published" : [ "2022-11-04T20:40:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1588632252082425856" ],
+    "url" : [ "https://twitter.com/rogerlipscombe/status/1588632252082425856" ]
+  },
+  "type" : [ "h-entry" ]
+}
