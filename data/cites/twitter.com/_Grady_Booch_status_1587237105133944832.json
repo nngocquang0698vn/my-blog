@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Watching @elonmusk + Co take over Twitter is like watching a software engineering case study on how to destroy an already-fragile technical infrastructure and culture of a software-intensive business. Amazing that at some level his clumsy attempts are so basic.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Jessicalessin\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "Watching @elonmusk + Co take over Twitter is like watching a software engineering case study on how to destroy an already-fragile technical infrastructure and culture of a software-intensive business. Amazing that at some level his clumsy attempts are so basic."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Jessicalessin/status/1587165720684601345" ],
+    "published" : [ "2022-11-01T00:16:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1587237105133944832" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1587237105133944832" ]
+  },
+  "type" : [ "h-entry" ]
+}
