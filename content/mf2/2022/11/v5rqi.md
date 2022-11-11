@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edels0n/status/1591141082179702785" ],
     "name" : [ "Like of @edels0n's tweet" ],
     "published" : [ "2022-11-11T22:51:00+0000" ],
     "like-of" : [ "https://twitter.com/edels0n/status/1591141082179702785" ],
