@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rafaelshimunov/status/1591139688467017728" ],
     "name" : [ "Like of @rafaelshimunov's tweet" ],
     "published" : [ "2022-11-11T22:53:00+0000" ],
     "like-of" : [ "https://twitter.com/rafaelshimunov/status/1591139688467017728" ],
