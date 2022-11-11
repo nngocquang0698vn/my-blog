@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GrahamGPorter/status/1589259864597233664" ],
     "name" : [ "Like of @GrahamGPorter's tweet" ],
     "published" : [ "2022-11-11T22:44:00+0000" ],
     "like-of" : [ "https://twitter.com/GrahamGPorter/status/1589259864597233664" ],
