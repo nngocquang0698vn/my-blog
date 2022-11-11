@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/svershbow/status/1590737866195628034" ],
     "name" : [ "Like of @svershbow's tweet" ],
     "published" : [ "2022-11-11T13:18:00+0000" ],
     "like-of" : [ "https://twitter.com/svershbow/status/1590737866195628034" ],
