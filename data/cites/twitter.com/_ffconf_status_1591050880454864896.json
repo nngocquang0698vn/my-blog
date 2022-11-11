@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ffconf" ],
+        "nickname" : [ "ffconf" ],
+        "numeric-id" : [ "26049747" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541015117629988865/_aJu5N8t.jpg" ],
+        "published" : [ "2009-03-23T17:47:11+00:00" ],
+        "uid" : [ "tag:twitter.com:ffconf" ],
+        "url" : [ "https://twitter.com/ffconf", "http://ffconf.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Shout for <a href=\"https://indieweb.org/\">indieweb.org</a> and POSSE <a href=\"https://indieweb.org/POSSE\">indieweb.org/POSSE</a>\n\n<a href=\"https://webmention.io/\">webmention.io</a>\n\n<a href=\"https://twitter.com/search?q=%23ffconflive\">#ffconflive</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ohhoe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/type__error\"></a>",
+      "value" : "Shout for indieweb.org and POSSE indieweb.org/POSSE\n\nwebmention.io\n\n#ffconflive"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ffconf/status/1591050537083891712" ],
+    "published" : [ "2022-11-11T12:51:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1591050880454864896" ],
+    "url" : [ "https://twitter.com/ffconf/status/1591050880454864896" ]
+  },
+  "type" : [ "h-entry" ]
+}
