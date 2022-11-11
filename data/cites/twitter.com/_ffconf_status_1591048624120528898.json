@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ffconf" ],
+        "nickname" : [ "ffconf" ],
+        "numeric-id" : [ "26049747" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541015117629988865/_aJu5N8t.jpg" ],
+        "published" : [ "2009-03-23T17:47:11+00:00" ],
+        "uid" : [ "tag:twitter.com:ffconf" ],
+        "url" : [ "https://twitter.com/ffconf", "http://ffconf.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Rachel White <a href=\"https://twitter.com/ohhoe\">@ohhoe</a>'s Keep the Internet Weird <a href=\"https://medium.com/@ohhoe/keep-the-internet-weird-1137eece27c4\">medium.com/@ohhoe/keep-th…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/type__error\"></a>",
+      "value" : "Rachel White @ohhoe's Keep the Internet Weird medium.com/@ohhoe/keep-th…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ffconf/status/1591048078387208203" ],
+    "published" : [ "2022-11-11T12:42:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1591048624120528898" ],
+    "url" : [ "https://twitter.com/ffconf/status/1591048624120528898" ]
+  },
+  "type" : [ "h-entry" ]
+}
