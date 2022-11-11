@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Wyld/status/1590843099710095363" ],
     "name" : [ "Like of @Wyld's tweet" ],
     "published" : [ "2022-11-11T07:41:00+0000" ],
     "like-of" : [ "https://twitter.com/Wyld/status/1590843099710095363" ],
