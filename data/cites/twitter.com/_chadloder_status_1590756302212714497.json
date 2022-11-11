@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Casey Newton" ],
+          "nickname" : [ "CaseyNewton" ],
+          "numeric-id" : [ "69426451" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX.jpg" ],
+          "published" : [ "2009-08-27T22:37:09+00:00" ],
+          "uid" : [ "tag:twitter.com:CaseyNewton" ],
+          "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">According to messages shared in Twitter Slack, Twitter’s CISO, chief privacy office, and chief compliance officer all resigned last night.\n\nAn employee says it will be up to engineers to “self-certify compliance with FTC requirements and other laws.”</div>",
+        "value" : "According to messages shared in Twitter Slack, Twitter’s CISO, chief privacy office, and chief compliance officer all resigned last night.\n\nAn employee says it will be up to engineers to “self-certify compliance with FTC requirements and other laws.”"
+      } ],
+      "published" : [ "2022-11-10T15:13:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1590724257608134657" ],
+      "url" : [ "https://twitter.com/CaseyNewton/status/1590724257608134657" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/caseynewton/st…" ],
+      "url" : [ "https://twitter.com/caseynewton/status/1590724257608134657" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chad Loder - @chadloder@kolektiva.social" ],
+        "nickname" : [ "chadloder" ],
+        "numeric-id" : [ "98575337" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518675528072318976/DoryveDH.jpg" ],
+        "published" : [ "2009-12-22T07:11:56+00:00" ],
+        "uid" : [ "tag:twitter.com:chadloder" ],
+        "url" : [ "https://twitter.com/chadloder", "https://newsletter.extremism.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Twitter's CISO, chief privacy officer, and chief compliance officer all resigned suddenly last night. Do NOT under any circumstances give your  payment info to Twitter.\n<a class=\"tag\" href=\"https://twitter.com/caseynewton/status/1590724257608134657\">twitter.com/caseynewton/st…</a>",
+      "value" : "Twitter's CISO, chief privacy officer, and chief compliance officer all resigned suddenly last night. Do NOT under any circumstances give your  payment info to Twitter."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/chadloder/status/1590751703594594305" ],
+    "published" : [ "2022-11-10T17:20:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1590756302212714497" ],
+    "url" : [ "https://twitter.com/chadloder/status/1590756302212714497" ]
+  },
+  "type" : [ "h-entry" ]
+}
