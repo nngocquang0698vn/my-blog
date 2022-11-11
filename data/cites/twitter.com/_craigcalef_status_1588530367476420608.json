@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "BOS, SAN, SFO, LAS" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@cdc@ioc.exchange" ],
+        "nickname" : [ "craigcalef" ],
+        "numeric-id" : [ "155" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1262536611/corgipirate.png" ],
+        "published" : [ "2006-04-28T23:38:44+00:00" ],
+        "uid" : [ "tag:twitter.com:craigcalef" ],
+        "url" : [ "https://twitter.com/craigcalef" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Right now a disk is filling up on a server somewhere in some data center that a person who has just been laid off has been manually clearing every few days and when that disk fills up Twitter will go down.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Foone\"></a>",
+      "value" : "Right now a disk is filling up on a server somewhere in some data center that a person who has just been laid off has been manually clearing every few days and when that disk fills up Twitter will go down."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Foone/status/1588429889107296256" ],
+    "published" : [ "2022-11-04T13:55:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1588530367476420608" ],
+    "url" : [ "https://twitter.com/craigcalef/status/1588530367476420608" ]
+  },
+  "type" : [ "h-entry" ]
+}
