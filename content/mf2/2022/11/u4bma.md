@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oclsc/status/1591115615347277824" ],
     "name" : [ "Like of @oclsc's tweet" ],
     "published" : [ "2022-11-11T22:48:00+0000" ],
     "like-of" : [ "https://twitter.com/oclsc/status/1591115615347277824" ],
