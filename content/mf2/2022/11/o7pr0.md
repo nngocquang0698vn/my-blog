@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nuclearpidgeon/status/1590967979348746240" ],
     "name" : [ "Like of @nuclearpidgeon's tweet" ],
     "published" : [ "2022-11-11T16:59:00+0000" ],
     "like-of" : [ "https://twitter.com/nuclearpidgeon/status/1590967979348746240" ],
