@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ffconf" ],
+        "nickname" : [ "ffconf" ],
+        "numeric-id" : [ "26049747" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541015117629988865/_aJu5N8t.jpg" ],
+        "published" : [ "2009-03-23T17:47:11+00:00" ],
+        "uid" : [ "tag:twitter.com:ffconf" ],
+        "url" : [ "https://twitter.com/ffconf", "http://ffconf.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Let's look at some fun, personalised sites:\n\n<a href=\"https://cassie.codes/\">cassie.codes</a>\n<a href=\"https://sadgrl.online/\">sadgrl.online</a>\n<a href=\"http://darn.es/\">darn.es</a>\n<a href=\"https://ghost.computer/\">ghost.computer</a>\n<a href=\"https://carol.gg/\">carol.gg</a>\n\n<a href=\"https://twitter.com/search?q=%23ffconflive\">#ffconflive</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ohhoe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/type__error\"></a>",
+      "value" : "Let's look at some fun, personalised sites:\n\ncassie.codes\nsadgrl.online\ndarn.es\nghost.computer\ncarol.gg\n\n#ffconflive"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ffconf/status/1591049896957812738" ],
+    "published" : [ "2022-11-11T12:49:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1591050537083891712" ],
+    "url" : [ "https://twitter.com/ffconf/status/1591050537083891712" ]
+  },
+  "type" : [ "h-entry" ]
+}
