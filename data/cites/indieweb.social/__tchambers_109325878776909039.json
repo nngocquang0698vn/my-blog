@@ -1,0 +1,98 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://indieweb.social/@tchambers/109325878776909039" ],
+    "uid" : [ "https://indieweb.social/@tchambers/109325878776909039" ],
+    "published" : [ "2022-11-11T15:28:43+00:00" ],
+    "content" : [ {
+      "html" : "<p>Is there a Mastodon List of all former top <a href=\"https://indieweb.social/tags/Twitter\" class=\"mention hashtag\" rel=\"tag\">#<span>Twitter</span></a> executives and technologists now on <a href=\"https://indieweb.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>Mastodon</span></a>?</p><p><a href=\"https://indieweb.social/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"tag\">#<span>TwitterMigration</span></a></p>",
+      "value" : "Is there a Mastodon List of all former top #Twitter executives and technologists now on #Mastodon?\n#TwitterMigration",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Tim Chambers" ],
+        "url" : [ "https://indieweb.social/@tchambers" ],
+        "photo" : [ {
+          "value" : "https://cdn.masto.host/indiewebsocial/accounts/avatars/000/000/002/original/5de753df6fe336d5.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Tim Chambers"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/@RL_Dane/109325980952184259" ],
+        "uid" : [ "https://fosstodon.org/@RL_Dane/109325980952184259" ],
+        "published" : [ "2022-11-11T15:54:42+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@tchambers\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tchambers</span></a></span> <br>I'd love to see this. </p><p>Maybe they're in hiding under fake identities? 😁</p>",
+          "value" : "@tchambers\nI'd love to see this.\nMaybe they're in hiding under fake identities? 😁",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "R. L. Dane" ],
+            "url" : [ "https://fosstodon.org/@RL_Dane" ],
+            "photo" : [ {
+              "value" : "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/108/199/869/839/889/746/original/abf34f47cdfed230.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "R. L. Dane"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://indieweb.social/@tchambers" ],
+          "name" : [ "@tchambers" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 11, 2022, 15:54 R. L. Dane @RL_Dane@fosstodon.org\n@tchambers\nI'd love to see this.\nMaybe they're in hiding under fake identities? 😁 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@dheadshot/109326018505577142" ],
+        "uid" : [ "https://mastodon.social/@dheadshot/109326018505577142" ],
+        "published" : [ "2022-11-11T16:04:15+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@tchambers\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tchambers</span></a></span> Such a thing should only be opt-in, if so...</p>",
+          "value" : "@tchambers Such a thing should only be opt-in, if so...",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Deadly Headshot" ],
+            "url" : [ "https://mastodon.social/@dheadshot" ],
+            "photo" : [ {
+              "value" : "https://cdn.masto.host/indiewebsocial/accounts/avatars/000/004/593/original/e266a8f71388f895.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Deadly Headshot"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://indieweb.social/@tchambers" ],
+          "name" : [ "@tchambers" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 11, 2022, 16:04 Deadly Headshot @dheadshot@mastodon.social\n@tchambers Such a thing should only be opt-in, if so... 0"
+    } ]
+  },
+  "lang" : "en"
+}
