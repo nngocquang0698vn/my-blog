@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "LA/Boston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "mike mulloy: give me $400,000 now." ],
+        "nickname" : [ "handsomeadult" ],
+        "numeric-id" : [ "91620105" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1470901953773244416/VM_2SEhv.jpg" ],
+        "published" : [ "2009-11-21T17:56:30+00:00" ],
+        "uid" : [ "tag:twitter.com:handsomeadult" ],
+        "url" : [ "https://twitter.com/handsomeadult", "http://mikemulloy.com", "http://fadedcomedy.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There’s a nerd who bought this website cuz he was so desperate to be funny and we have a chance to ruin his fucking life. We have a chance to cost him billions but most importantly we have a chance to really hurt his feelings." ],
+    "in-reply-to" : [ "https://twitter.com/handsomeadult/status/1590996872919142400" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Los Angeles, CA" ],
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-11-11T09:21:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1590998112247898113" ],
+    "url" : [ "https://twitter.com/handsomeadult/status/1590998112247898113" ]
+  },
+  "type" : [ "h-entry" ]
+}
