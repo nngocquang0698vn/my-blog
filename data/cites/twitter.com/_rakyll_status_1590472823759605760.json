@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Netherlands - It is a silly place." ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gillian de Nooijer" ],
+          "nickname" : [ "GillianDN" ],
+          "numeric-id" : [ "112552419" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1507008720844165126/t7N7iWog.jpg" ],
+          "published" : [ "2010-02-08T22:40:42+00:00" ],
+          "uid" : [ "tag:twitter.com:GillianDN" ],
+          "url" : [ "https://twitter.com/GillianDN" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">So, does Elon Musk's new paid Twitter Blue verification system lead to more scams? 🤔\n\nHmmm, I don't know, let's ask this Verified Twitter account over here, he seems rather official.🔵Tens of thousands of people seem to agree... ☝️🧐</div>",
+        "value" : "So, does Elon Musk's new paid Twitter Blue verification system lead to more scams? 🤔\n\nHmmm, I don't know, let's ask this Verified Twitter account over here, he seems rather official.🔵Tens of thousands of people seem to agree... ☝️🧐"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FhIus6PXkAAP0Ka.jpg" ],
+      "published" : [ "2022-11-09T16:49:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1590386158240165888" ],
+      "url" : [ "https://twitter.com/GillianDN/status/1590386158240165888" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1492548437996310529/waX1aEU-.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Few notes. If you teach your user base, verification means something specific, it will be hard for them to unlearn it. We learned that it's rare for a verified account trying to phish us. Changing the meaning of the check is a security issue.\n</div>",
+      "value" : "Few notes. If you teach your user base, verification means something specific, it will be hard for them to unlearn it. We learned that it's rare for a verified account trying to phish us. Changing the meaning of the check is a security issue.\n"
+    } ],
+    "published" : [ "2022-11-09T22:34:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1590472823759605760" ],
+    "url" : [ "https://twitter.com/rakyll/status/1590472823759605760" ]
+  },
+  "type" : [ "h-entry" ]
+}
