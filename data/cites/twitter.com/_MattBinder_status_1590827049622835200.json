@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kurt Wagner" ],
+          "nickname" : [ "KurtWagner8" ],
+          "numeric-id" : [ "359425864" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1121824103491497984/_KeWsihV.jpg" ],
+          "published" : [ "2011-08-21T15:29:27+00:00" ],
+          "uid" : [ "tag:twitter.com:KurtWagner8" ],
+          "url" : [ "https://twitter.com/KurtWagner8", "https://www.bloomberg.com/authors/AUD3z6XZVm0/kurt-wagner" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">NEW: Hearing that the top execs remaining at Twitter -- head of Trust &amp; Safety <a href=\"https://twitter.com/yoyoel\">@yoyoel</a> and head of sales <a href=\"https://twitter.com/robinw\">@robinw</a> -- both resigned today\n\nWhen you add in that Musk told employees this afternoon that bankruptcy is possible, it feels like Twitter is almost collapsing in real-time</div>",
+        "value" : "NEW: Hearing that the top execs remaining at Twitter -- head of Trust & Safety @yoyoel and head of sales @robinw -- both resigned today\n\nWhen you add in that Musk told employees this afternoon that bankruptcy is possible, it feels like Twitter is almost collapsing in real-time"
+      } ],
+      "published" : [ "2022-11-10T21:50:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1590824366492643328" ],
+      "url" : [ "https://twitter.com/KurtWagner8/status/1590824366492643328" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Binder" ],
+        "nickname" : [ "MattBinder" ],
+        "numeric-id" : [ "14931637" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1177635972466515968/wagz7QQt.jpg" ],
+        "published" : [ "2008-05-28T07:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:MattBinder" ],
+        "url" : [ "https://twitter.com/MattBinder", "http://patreon.com/mattbinder", "http://ScamEconomy.com", "http://DOOMEDcast.com", "http://youtube.com/MattBinder", "http://misinfo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">the person who Elon Musk kept retweeting whenever he wanted to prove to everyone that things were actually fine just resigned\n\nthe person who hosted the Twitter Space with Elon Musk yesterday to tell advertisers that things were actually fine just resigned </div>",
+      "value" : "the person who Elon Musk kept retweeting whenever he wanted to prove to everyone that things were actually fine just resigned\n\nthe person who hosted the Twitter Space with Elon Musk yesterday to tell advertisers that things were actually fine just resigned "
+    } ],
+    "published" : [ "2022-11-10T22:01:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1590827049622835200" ],
+    "url" : [ "https://twitter.com/MattBinder/status/1590827049622835200" ]
+  },
+  "type" : [ "h-entry" ]
+}
