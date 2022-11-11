@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DaveScheidt/status/1590490025216835584" ],
     "name" : [ "Like of @DaveScheidt's tweet" ],
     "published" : [ "2022-11-11T08:00:00+0000" ],
     "like-of" : [ "https://twitter.com/DaveScheidt/status/1590490025216835584" ],
