@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/its_menieb/status/1591122617725255680" ],
     "name" : [ "Like of @its_menieb's tweet" ],
     "published" : [ "2022-11-11T23:10:00+0000" ],
     "like-of" : [ "https://twitter.com/its_menieb/status/1591122617725255680" ],
