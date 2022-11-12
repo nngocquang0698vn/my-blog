@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Luis Garicano 🇪🇺🇺🇦" ],
+          "nickname" : [ "lugaricano" ],
+          "numeric-id" : [ "117773253" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1088718721785434112/TCQN0rTD.jpg" ],
+          "published" : [ "2010-02-26T15:27:06+00:00" ],
+          "uid" : [ "tag:twitter.com:lugaricano" ],
+          "url" : [ "https://twitter.com/lugaricano", "https://luisgaricano.eu/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "As I said, <a href=\"https://twitter.com/Twitter\">@Twitter</a> is the best source of information there is, by a huge margin, if you know how to use it (hint- not to signal virtue or call names!). Rather than quitting, let´s do our best to help.",
+        "value" : "As I said, @Twitter is the best source of information there is, by a huge margin, if you know how to use it (hint- not to signal virtue or call names!). Rather than quitting, let´s do our best to help."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/lugaricano/status/1591220928478064640" ],
+      "published" : [ "2022-11-12T00:06:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1591220931472805889" ],
+      "url" : [ "https://twitter.com/lugaricano/status/1591220931472805889" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kai Ryssdal" ],
+        "nickname" : [ "kairyssdal" ],
+        "numeric-id" : [ "30013010" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1140444896970461184/3iXxXAIT.jpg" ],
+        "published" : [ "2009-04-09T16:16:44+00:00" ],
+        "uid" : [ "tag:twitter.com:kairyssdal" ],
+        "url" : [ "https://twitter.com/kairyssdal" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">So, look. \n\nI completely agree with this. \n\nAnd I’m obviously vested in this website. \n\nBut when it’s being driven off a cliff by a man-child who thinks the rules of the road don’t apply to him…🤷‍♂️</div>",
+      "value" : "So, look. \n\nI completely agree with this. \n\nAnd I’m obviously vested in this website. \n\nBut when it’s being driven off a cliff by a man-child who thinks the rules of the road don’t apply to him…🤷‍♂️"
+    } ],
+    "published" : [ "2022-11-12T00:43:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1591230277933707264" ],
+    "url" : [ "https://twitter.com/kairyssdal/status/1591230277933707264" ]
+  },
+  "type" : [ "h-entry" ]
+}
