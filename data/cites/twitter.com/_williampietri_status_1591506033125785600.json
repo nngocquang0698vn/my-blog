@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "William Pietri" ],
+        "nickname" : [ "williampietri" ],
+        "numeric-id" : [ "14982149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673948945962303489/5sxyC3Ey.jpg" ],
+        "published" : [ "2008-06-02T16:55:18+00:00" ],
+        "uid" : [ "tag:twitter.com:williampietri" ],
+        "url" : [ "https://twitter.com/williampietri", "http://williampietri.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "And this is his fault. He failed to properly manage the transition by figuring out who knew what, mapping out coverage, and making sure there was time and motivation to hand everything off. So he is eager to fuck over these people to cover up his incompetence." ],
+    "in-reply-to" : [ "https://twitter.com/williampietri/status/1591505810911531008" ],
+    "published" : [ "2022-11-12T18:59:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1591506033125785600" ],
+    "url" : [ "https://twitter.com/williampietri/status/1591506033125785600" ]
+  },
+  "type" : [ "h-entry" ]
+}
