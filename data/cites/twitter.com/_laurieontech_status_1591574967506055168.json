@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New Westminster, BC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Rich Seviora: A Series of Petty Events" ],
+          "nickname" : [ "RichSeviora" ],
+          "numeric-id" : [ "1735284619" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1403372679223119886/_29mRtz2.jpg" ],
+          "published" : [ "2013-09-06T14:16:03+00:00" ],
+          "uid" : [ "tag:twitter.com:RichSeviora" ],
+          "url" : [ "https://twitter.com/RichSeviora" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "what the fuck <a href=\"https://www.nytimes.com/2022/11/11/technology/elon-musk-twitter-takeover.html\">nytimes.com/2022/11/11/tec…</a>",
+        "value" : "what the fuck nytimes.com/2022/11/11/tec…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FhZjEg_aYAAWrVq.jpg" ],
+      "published" : [ "2022-11-12T23:07:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1591568451075997696" ],
+      "url" : [ "https://twitter.com/RichSeviora/status/1591568451075997696" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/richseviora/st…" ],
+      "url" : [ "https://twitter.com/richseviora/status/1591568451075997696" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“I could do code that in 2 hours” said senior 10x engineer who had no idea what the requirements even were\n<a class=\"tag\" href=\"https://twitter.com/richseviora/status/1591568451075997696\">twitter.com/richseviora/st…</a>",
+      "value" : "“I could do code that in 2 hours” said senior 10x engineer who had no idea what the requirements even were"
+    } ],
+    "published" : [ "2022-11-12T23:33:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1591574967506055168" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1591574967506055168" ]
+  },
+  "type" : [ "h-entry" ]
+}
