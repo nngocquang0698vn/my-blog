@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Senior Oops Engineer" ],
+          "nickname" : [ "ReinH" ],
+          "numeric-id" : [ "10255262" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+          "published" : [ "2007-11-14T18:48:39+00:00" ],
+          "uid" : [ "tag:twitter.com:ReinH" ],
+          "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "one thing that normal leaders can do that elon is totally incapable of is nothing, just not doing a thing" ],
+      "published" : [ "2022-11-12T04:08:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1591281753259651075" ],
+      "url" : [ "https://twitter.com/ReinH/status/1591281753259651075" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "as I've said before, <a href=\"https://twitter.com/ReinH/status/1591281753259651075?s=20\">twitter.com/ReinH/status/1…</a>",
+      "value" : "as I've said before, twitter.com/ReinH/status/1…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1591570785000656896" ],
+    "published" : [ "2022-11-12T23:17:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1591570877522784256" ],
+    "url" : [ "https://twitter.com/ReinH/status/1591570877522784256" ]
+  },
+  "type" : [ "h-entry" ]
+}
