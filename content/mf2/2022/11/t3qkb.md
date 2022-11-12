@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vmbrasseur/status/1591123384183967744" ],
     "name" : [ "Like of @vmbrasseur's tweet" ],
     "published" : [ "2022-11-12T18:21:00+0000" ],
     "like-of" : [ "https://twitter.com/vmbrasseur/status/1591123384183967744" ],
