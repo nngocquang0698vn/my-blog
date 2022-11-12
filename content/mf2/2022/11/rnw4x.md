@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kairyssdal/status/1591230277933707264" ],
     "name" : [ "Like of @kairyssdal's tweet" ],
     "published" : [ "2022-11-12T07:17:00+0000" ],
     "like-of" : [ "https://twitter.com/kairyssdal/status/1591230277933707264" ],
