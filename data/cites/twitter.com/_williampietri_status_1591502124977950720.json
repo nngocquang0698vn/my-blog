@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "William Pietri" ],
+        "nickname" : [ "williampietri" ],
+        "numeric-id" : [ "14982149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673948945962303489/5sxyC3Ey.jpg" ],
+        "published" : [ "2008-06-02T16:55:18+00:00" ],
+        "uid" : [ "tag:twitter.com:williampietri" ],
+        "url" : [ "https://twitter.com/williampietri", "http://williampietri.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I want to dig in for a bit on this set of Slack replies from a Twitter manager talking about undoing some of the layoffs." ],
+    "photo" : [ "https://pbs.twimg.com/media/FhYmhUYUoAAiWOn.jpg" ],
+    "published" : [ "2022-11-12T18:44:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1591502124977950720" ],
+    "url" : [ "https://twitter.com/williampietri/status/1591502124977950720" ]
+  },
+  "type" : [ "h-entry" ]
+}
