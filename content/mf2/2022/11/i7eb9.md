@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MilesKlee/status/1591319640177008640" ],
     "name" : [ "Like of @MilesKlee's tweet" ],
     "published" : [ "2022-11-12T08:29:00+0000" ],
     "like-of" : [ "https://twitter.com/MilesKlee/status/1591319640177008640" ],
