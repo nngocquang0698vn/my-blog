@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Scoop from within Twitter: small things are breaking, not enough engineers to fix them.\n\nNoticed that notification counts are not showing? The BE service powering it is down since Thursday. A bug was filed, but the team that would fix it is full on with verification work.</div>",
+      "value" : "Scoop from within Twitter: small things are breaking, not enough engineers to fix them.\n\nNoticed that notification counts are not showing? The BE service powering it is down since Thursday. A bug was filed, but the team that would fix it is full on with verification work."
+    } ],
+    "published" : [ "2022-11-12T14:25:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1591437099496255490" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1591437099496255490" ]
+  },
+  "type" : [ "h-entry" ]
+}
