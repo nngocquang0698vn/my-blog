@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheBoysTV/status/1591324674100559872" ],
     "name" : [ "Like of @TheBoysTV's tweet" ],
     "published" : [ "2022-11-12T08:30:00+0000" ],
     "like-of" : [ "https://twitter.com/TheBoysTV/status/1591324674100559872" ],
