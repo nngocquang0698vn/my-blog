@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/they" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖" ],
+        "nickname" : [ "maisieccino" ],
+        "numeric-id" : [ "1547507513561694208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587839052358844417/JQR7-9wG.jpg" ],
+        "published" : [ "2022-07-14T09:06:17+00:00" ],
+        "uid" : [ "tag:twitter.com:maisieccino" ],
+        "url" : [ "https://twitter.com/maisieccino", "http://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "isn't that just what wearing a collar is? 😌\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/slutty_violet\"></a>",
+      "value" : "isn't that just what wearing a collar is? 😌"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/slutty_violet/status/1591785194276917249" ],
+    "published" : [ "2022-11-13T13:35:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1591786830676074500" ],
+    "url" : [ "https://twitter.com/maisieccino/status/1591786830676074500" ]
+  },
+  "type" : [ "h-entry" ]
+}
