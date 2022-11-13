@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maryland, US" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Brown" ],
+        "nickname" : [ "JustXillow" ],
+        "numeric-id" : [ "719246628" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347051197119787009/Dpy_f3Bk.jpg" ],
+        "published" : [ "2012-07-27T02:27:49+00:00" ],
+        "uid" : [ "tag:twitter.com:JustXillow" ],
+        "url" : [ "https://twitter.com/JustXillow" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This but not evil.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/explodikid\"></a>",
+      "value" : "This but not evil."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/explodikid/status/1591585123623137281" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhZzBYBXkAYZQxM.png" ],
+    "published" : [ "2022-11-13T00:17:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1591586040229273601" ],
+    "url" : [ "https://twitter.com/JustXillow/status/1591586040229273601" ]
+  },
+  "type" : [ "h-entry" ]
+}
