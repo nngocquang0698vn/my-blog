@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RobDenBleyker/status/1591510591356956672" ],
     "name" : [ "Like of @RobDenBleyker's tweet" ],
     "published" : [ "2022-11-13T12:31:00+0000" ],
     "like-of" : [ "https://twitter.com/RobDenBleyker/status/1591510591356956672" ],
