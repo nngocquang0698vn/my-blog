@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mikerhoneTM/status/1591622028016381953" ],
     "name" : [ "Like of @mikerhoneTM's tweet" ],
     "published" : [ "2022-11-13T08:15:00+0000" ],
     "like-of" : [ "https://twitter.com/mikerhoneTM/status/1591622028016381953" ],
