@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/endingwithali/status/1590065518916304897" ],
     "name" : [ "Like of @endingwithali's tweet" ],
     "published" : [ "2022-11-13T17:57:00+0000" ],
     "like-of" : [ "https://twitter.com/endingwithali/status/1590065518916304897" ],
