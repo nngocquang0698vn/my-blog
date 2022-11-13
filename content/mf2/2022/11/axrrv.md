@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoblessMatthew/status/1591413960116506626" ],
     "name" : [ "Like of @JoblessMatthew's tweet" ],
     "published" : [ "2022-11-13T00:35:00+0000" ],
     "like-of" : [ "https://twitter.com/JoblessMatthew/status/1591413960116506626" ],
