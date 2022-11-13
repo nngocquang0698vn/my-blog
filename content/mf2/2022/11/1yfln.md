@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/denvercoder/status/1591718131646763009" ],
     "name" : [ "Like of @denvercoder's tweet" ],
     "published" : [ "2022-11-13T09:53:00+0000" ],
     "like-of" : [ "https://twitter.com/denvercoder/status/1591718131646763009" ],
