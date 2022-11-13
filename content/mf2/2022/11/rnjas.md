@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fakelawn/status/1591615028435865600" ],
     "name" : [ "Like of @fakelawn's tweet" ],
     "published" : [ "2022-11-13T08:15:00+0000" ],
     "like-of" : [ "https://twitter.com/fakelawn/status/1591615028435865600" ],
