@@ -1,0 +1,57 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/TheSamethyst/status/1591179932067303424\">@TheSamethyst</a> I can't explain the energy on Twitter these days with words but it's this."
+    } ],
+    "published" : [ "2022-11-12T17:51:44+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Seattle, WA" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Samantha Nye" ],
+            "nickname" : [ "TheSamethyst" ],
+            "numeric-id" : [ "2932741240" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1427423013352337422/qYifN5A4.jpg" ],
+            "published" : [ "2014-12-19T22:15:05+00:00" ],
+            "uid" : [ "tag:twitter.com:TheSamethyst" ],
+            "url" : [ "https://twitter.com/TheSamethyst", "https://linktr.ee/samethyst" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "I can't explain the energy on Twitter these days with words but it's this." ],
+        "photo" : [ "https://pbs.twimg.com/media/FhUBtogUYAEkkaO.jpg" ],
+        "published" : [ "2022-11-11T21:23:53+00:00" ],
+        "uid" : [ "tag:twitter.com:1591179932067303424" ],
+        "url" : [ "https://twitter.com/TheSamethyst/status/1591179932067303424" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1591488931698479104" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1591488931698479104" ]
+  },
+  "type" : [ "h-entry" ]
+}
