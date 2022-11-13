@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "For those who don't know, that's my inside tech joke. Naive developers love to talk about how they could build Twitter in a weekend. It has become a meme. If this whole thing wasn't horrific, it would actually be hilarious in tech circles." ],
+    "in-reply-to" : [ "https://twitter.com/polotek/status/1591233043075067907" ],
+    "published" : [ "2022-11-12T00:58:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1591234062446104577" ],
+    "url" : [ "https://twitter.com/polotek/status/1591234062446104577" ]
+  },
+  "type" : [ "h-entry" ]
+}
