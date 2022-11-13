@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JuddLegum/status/1591087437857570823" ],
     "name" : [ "Like of @JuddLegum's tweet" ],
     "published" : [ "2022-11-13T08:14:00+0000" ],
     "like-of" : [ "https://twitter.com/JuddLegum/status/1591087437857570823" ],
