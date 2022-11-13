@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Fintwit" ],
+        "nickname" : [ "fintwit_news" ],
+        "numeric-id" : [ "932271127648489473" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1426379083936567298/BenQ-lMj.png" ],
+        "published" : [ "2017-11-19T15:35:32+00:00" ],
+        "uid" : [ "tag:twitter.com:fintwit_news" ],
+        "url" : [ "https://twitter.com/fintwit_news", "http://fintwit.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One tweet wiped out $15 billion in market cap from a pharmaceutical company.\n\nTwitter is alive.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "One tweet wiped out $15 billion in market cap from a pharmaceutical company.\n\nTwitter is alive."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1591842546216763399" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhdeSifXwAAshqY.jpg", "https://pbs.twimg.com/media/FhdeSidWIAUs5x0.jpg" ],
+    "published" : [ "2022-11-13T17:26:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1591844916254367744" ],
+    "url" : [ "https://twitter.com/fintwit_news/status/1591844916254367744" ]
+  },
+  "type" : [ "h-entry" ]
+}
