@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zach_ismyname/status/1591570686715351047" ],
     "name" : [ "Like of @zach_ismyname's tweet" ],
     "published" : [ "2022-11-13T14:24:00+0000" ],
     "like-of" : [ "https://twitter.com/zach_ismyname/status/1591570686715351047" ],
