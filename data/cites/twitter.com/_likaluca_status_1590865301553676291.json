@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lisa Lucas" ],
+        "nickname" : [ "likaluca" ],
+        "numeric-id" : [ "16548412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/808752757121413120/B_kszzgQ.jpg" ],
+        "published" : [ "2008-10-01T19:09:38+00:00" ],
+        "uid" : [ "tag:twitter.com:likaluca" ],
+        "url" : [ "https://twitter.com/likaluca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Wow someone really did this" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhPjj3lXoAAq655.jpg" ],
+    "published" : [ "2022-11-11T00:33:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1590865301553676291" ],
+    "url" : [ "https://twitter.com/likaluca/status/1590865301553676291" ]
+  },
+  "type" : [ "h-entry" ]
+}
