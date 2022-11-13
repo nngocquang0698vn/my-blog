@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kevin" ],
+          "nickname" : [ "kevinkleinpdx" ],
+          "numeric-id" : [ "58299791" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1565846917388849153/WYHxB0E2.jpg" ],
+          "published" : [ "2009-07-19T21:32:21+00:00" ],
+          "uid" : [ "tag:twitter.com:kevinkleinpdx" ],
+          "url" : [ "https://twitter.com/kevinkleinpdx" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This is happening more and more. Kind of like how a restaurant starts to get shabby and the sign outside starts to fade." ],
+      "photo" : [ "https://pbs.twimg.com/media/Fha3k40aAAI3CrF.jpg" ],
+      "published" : [ "2022-11-13T05:16:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1591661364803932161" ],
+      "url" : [ "https://twitter.com/kevinkleinpdx/status/1591661364803932161" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "tim." ],
+        "nickname" : [ "denvercoder" ],
+        "numeric-id" : [ "3118810453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589414538796883969/kAKN7gbg.jpg" ],
+        "published" : [ "2015-03-30T22:56:14+00:00" ],
+        "uid" : [ "tag:twitter.com:denvercoder" ],
+        "url" : [ "https://twitter.com/denvercoder", "https://extwitriates.com/@denvercoder" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">An error was encountered. What would you like to do?\n\nType your answer:\n\n1) Go North\n\n2) Investigate the error\n\n3) Ignore the error\n\n4) Turn the error into a warning. (Requires Magic Level 10 or higher)</div>",
+      "value" : "An error was encountered. What would you like to do?\n\nType your answer:\n\n1) Go North\n\n2) Investigate the error\n\n3) Ignore the error\n\n4) Turn the error into a warning. (Requires Magic Level 10 or higher)"
+    } ],
+    "published" : [ "2022-11-13T09:02:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1591718131646763009" ],
+    "url" : [ "https://twitter.com/denvercoder/status/1591718131646763009" ]
+  },
+  "type" : [ "h-entry" ]
+}
