@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/engineering_bae/status/1591599492549480448" ],
     "name" : [ "Like of @engineering_bae's tweet" ],
     "published" : [ "2022-11-13T13:58:00+0000" ],
     "like-of" : [ "https://twitter.com/engineering_bae/status/1591599492549480448" ],
