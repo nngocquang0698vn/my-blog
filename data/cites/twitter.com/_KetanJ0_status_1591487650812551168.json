@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oslo, Norway (via Australia)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ketan Joshi" ],
+        "nickname" : [ "KetanJ0" ],
+        "numeric-id" : [ "420100653" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1584220835295989760/7AUqjLJr.jpg" ],
+        "published" : [ "2011-11-24T05:45:24+00:00" ],
+        "uid" : [ "tag:twitter.com:KetanJ0" ],
+        "url" : [ "https://twitter.com/KetanJ0", "https://ketanjoshi.co/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Here's the most awkward custom search function I've ever created: everyone you follow, who's also paid Elon $8 for a dodgy tick \n\nThe Search Of Shame\n\n<a href=\"https://twitter.com/search?q=filter%3Afollows%20-filter%3Averified%20filter%3Ablue_verified&src=typed_query&f=live\">twitter.com/search?q=filte…</a></div>",
+      "value" : "Here's the most awkward custom search function I've ever created: everyone you follow, who's also paid Elon $8 for a dodgy tick \n\nThe Search Of Shame\n\ntwitter.com/search?q=filte…"
+    } ],
+    "published" : [ "2022-11-12T17:46:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1591487650812551168" ],
+    "url" : [ "https://twitter.com/KetanJ0/status/1591487650812551168" ]
+  },
+  "type" : [ "h-entry" ]
+}
