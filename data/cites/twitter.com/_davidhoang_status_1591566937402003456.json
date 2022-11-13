@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Hoang" ],
+        "nickname" : [ "davidhoang" ],
+        "numeric-id" : [ "14338572" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1527869577564016640/Y0jNbYgz.jpg" ],
+        "published" : [ "2008-04-09T03:17:33+00:00" ],
+        "uid" : [ "tag:twitter.com:davidhoang" ],
+        "url" : [ "https://twitter.com/davidhoang", "https://www.davidhoang.com/product/proof-of-concept-the-000-series" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I miss when this was the most chaotic thing to happen on Twitter." ],
+    "photo" : [ {
+      "alt" : "Blue and black dress",
+      "value" : "https://pbs.twimg.com/media/FhZhscXUAAA1MJ0.jpg"
+    } ],
+    "published" : [ "2022-11-12T23:01:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1591566937402003456" ],
+    "url" : [ "https://twitter.com/davidhoang/status/1591566937402003456" ]
+  },
+  "type" : [ "h-entry" ]
+}
