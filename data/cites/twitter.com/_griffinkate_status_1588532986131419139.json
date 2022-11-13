@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bitcoinland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Erik Voorhees" ],
+          "nickname" : [ "ErikVoorhees" ],
+          "numeric-id" : [ "61417559" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1585414498654900224/c4BY6yHE.jpg" ],
+          "published" : [ "2009-07-30T06:58:21+00:00" ],
+          "uid" : [ "tag:twitter.com:ErikVoorhees" ],
+          "url" : [ "https://twitter.com/ErikVoorhees", "http://ShapeShift.com", "http://github.com/shapeshift" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Let's remember that <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> charging $8 for premium Twitter experience means Twitter becomes the product again, instead of you.\n\nAnd if $8 is too much, you're free to remain as the product.</div>",
+        "value" : "Let's remember that @elonmusk charging $8 for premium Twitter experience means Twitter becomes the product again, instead of you.\n\nAnd if $8 is too much, you're free to remain as the product."
+      } ],
+      "published" : [ "2022-11-01T21:58:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1587564882177585152" ],
+      "url" : [ "https://twitter.com/ErikVoorhees/status/1587564882177585152" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cardiff, Wales" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Griffin" ],
+        "nickname" : [ "griffinkate" ],
+        "numeric-id" : [ "37696398" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1303019546966663169/zrXalfQK.jpg" ],
+        "published" : [ "2009-05-04T16:32:47+00:00" ],
+        "uid" : [ "tag:twitter.com:griffinkate" ],
+        "url" : [ "https://twitter.com/griffinkate", "http://www.kategriffin.info" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I am sooooooo tirrrrreeddd of rubes thinking they're being cynical by intoning \"If it's free, you are the product.\" If you pay $8, you're still the product, but you're now paying $8." ],
+    "published" : [ "2022-11-04T14:05:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1588532986131419139" ],
+    "url" : [ "https://twitter.com/griffinkate/status/1588532986131419139" ]
+  },
+  "type" : [ "h-entry" ]
+}
