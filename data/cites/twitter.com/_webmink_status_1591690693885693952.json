@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Southampton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Phipps" ],
+        "nickname" : [ "webmink" ],
+        "numeric-id" : [ "752133" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39.jpeg" ],
+        "published" : [ "2007-02-03T17:37:34+00:00" ],
+        "uid" : [ "tag:twitter.com:webmink" ],
+        "url" : [ "https://twitter.com/webmink", "https://meshedinsights.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One of the benefits of the <a href=\"https://twitter.com/search?q=%23Fediverse\">#Fediverse</a> is I can use the system I prefer to post and you can follow and interact with any <a href=\"https://twitter.com/search?q=%23ActivityPub\">#ActivityPub</a> system you prefer. Your choice of, say, a photo sharing platform doesn't dictate that I have to sign up too. It's like RSS you can reply to.",
+      "value" : "One of the benefits of the #Fediverse is I can use the system I prefer to post and you can follow and interact with any #ActivityPub system you prefer. Your choice of, say, a photo sharing platform doesn't dictate that I have to sign up too. It's like RSS you can reply to."
+    } ],
+    "published" : [ "2022-11-13T07:13:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1591690693885693952" ],
+    "url" : [ "https://twitter.com/webmink/status/1591690693885693952" ]
+  },
+  "type" : [ "h-entry" ]
+}
