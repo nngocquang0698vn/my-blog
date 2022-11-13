@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BritishAlba/status/1591752106792595457" ],
     "name" : [ "Like of @BritishAlba's tweet" ],
     "published" : [ "2022-11-13T14:36:00+0000" ],
     "like-of" : [ "https://twitter.com/BritishAlba/status/1591752106792595457" ],
