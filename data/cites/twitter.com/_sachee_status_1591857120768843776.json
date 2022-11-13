@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1591853644944932865" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "pdx | sf" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sach @ the hellsite" ],
+        "nickname" : [ "sachee" ],
+        "numeric-id" : [ "69721758" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576669552678559744/X3haCdsw.jpg" ],
+        "published" : [ "2009-08-28T23:11:59+00:00" ],
+        "uid" : [ "tag:twitter.com:sachee" ],
+        "url" : [ "https://twitter.com/sachee", "http://sashatsolomon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">you did not just layoff almost all of infra and then make some sassy remark about how we do batching \n\nlike did you bother to even learn how graphql works</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1591853644944932865\">twitter.com/elonmusk/statu…</a>",
+      "value" : "you did not just layoff almost all of infra and then make some sassy remark about how we do batching \n\nlike did you bother to even learn how graphql works"
+    } ],
+    "published" : [ "2022-11-13T18:14:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1591857120768843776" ],
+    "url" : [ "https://twitter.com/sachee/status/1591857120768843776" ]
+  },
+  "type" : [ "h-entry" ]
+}
