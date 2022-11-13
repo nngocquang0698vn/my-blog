@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Lycett" ],
+        "nickname" : [ "joelycett" ],
+        "numeric-id" : [ "17948810" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1548902488480301056/uwN4qq-e.jpg" ],
+        "published" : [ "2008-12-07T21:58:37+00:00" ],
+        "uid" : [ "tag:twitter.com:joelycett" ],
+        "url" : [ "https://twitter.com/joelycett", "http://www.joelycett.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://benderslikebeckham.com/\">benderslikebeckham.com</a> 🌈",
+      "value" : "benderslikebeckham.com 🌈"
+    } ],
+    "published" : [ "2022-11-13T12:17:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1591767179707432960" ],
+    "url" : [ "https://twitter.com/joelycett/status/1591767179707432960" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1591766259544252416/pu/vid/1280x720/hkHuoOcVYUaSdI9M.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
