@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/polotek/status/1591233043075067907" ],
     "name" : [ "Like of @polotek's tweet" ],
     "published" : [ "2022-11-13T08:16:00+0000" ],
     "like-of" : [ "https://twitter.com/polotek/status/1591233043075067907" ],
