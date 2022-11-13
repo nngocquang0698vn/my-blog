@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1591853644944932865" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Leib" ],
+        "nickname" : [ "bgleib" ],
+        "numeric-id" : [ "359584190" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/858792184358682624/5MJpka9T.jpg" ],
+        "published" : [ "2011-08-21T20:55:19+00:00" ],
+        "uid" : [ "tag:twitter.com:bgleib" ],
+        "url" : [ "https://twitter.com/bgleib" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "As the former tech lead for timelines infrastructure at Twitter, I can confidently say this man has no idea wtf he's talking about\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1591853644944932865\">twitter.com/elonmusk/statu…</a>",
+      "value" : "As the former tech lead for timelines infrastructure at Twitter, I can confidently say this man has no idea wtf he's talking about"
+    } ],
+    "published" : [ "2022-11-13T19:28:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1591875679377031169" ],
+    "url" : [ "https://twitter.com/bgleib/status/1591875679377031169" ]
+  },
+  "type" : [ "h-entry" ]
+}
