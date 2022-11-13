@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Blockchain" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Autism Capital 🧩" ],
+          "nickname" : [ "AutismCapital" ],
+          "numeric-id" : [ "1297651178256257024" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1587811878486495232/g5yh6tEz.png" ],
+          "published" : [ "2020-08-23T21:45:35+00:00" ],
+          "uid" : [ "tag:twitter.com:AutismCapital" ],
+          "url" : [ "https://twitter.com/AutismCapital", "https://discord.gg/TSDu4qxw54" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "BREAKING: Insiders claim that SBF is still in Nassau. The FTX HQ has been taken over by Royal Bahamian police in civilian clothing. Liquidators, SBF, and SBF's father Joe Bankman have all been meeting." ],
+      "published" : [ "2022-11-12T17:09:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1591478390472978432" ],
+      "url" : [ "https://twitter.com/AutismCapital/status/1591478390472978432" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob DenBleyker" ],
+        "nickname" : [ "RobDenBleyker" ],
+        "numeric-id" : [ "21369740" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486328821049606152/6s-55iqA.jpg" ],
+        "published" : [ "2009-02-20T03:26:24+00:00" ],
+        "uid" : [ "tag:twitter.com:RobDenBleyker" ],
+        "url" : [ "https://twitter.com/RobDenBleyker", "http://www.explosm.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Joe Bankman 😭\n\n<a href=\"https://twitter.com/AutismCapital/status/1591478390472978432?t=vKvyja1k6z9WtLetViu8jw&s=19\">twitter.com/AutismCapital/…</a></div>",
+      "value" : "Joe Bankman 😭\n\ntwitter.com/AutismCapital/…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RobDenBleyker/status/1591482403603845125" ],
+    "published" : [ "2022-11-12T19:17:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1591510591356956672" ],
+    "url" : [ "https://twitter.com/RobDenBleyker/status/1591510591356956672" ]
+  },
+  "type" : [ "h-entry" ]
+}
