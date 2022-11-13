@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/webmink/status/1591690693885693952" ],
     "name" : [ "Like of @webmink's tweet" ],
     "published" : [ "2022-11-13T07:54:00+0000" ],
     "like-of" : [ "https://twitter.com/webmink/status/1591690693885693952" ],
