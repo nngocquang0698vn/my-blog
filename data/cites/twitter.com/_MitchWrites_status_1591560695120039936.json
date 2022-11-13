@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mitch Wright is still writing" ],
+        "nickname" : [ "MitchWrites" ],
+        "numeric-id" : [ "19664362" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399455914906865668/i4tljKSy.jpg" ],
+        "published" : [ "2009-01-28T17:44:44+00:00" ],
+        "uid" : [ "tag:twitter.com:MitchWrites" ],
+        "url" : [ "https://twitter.com/MitchWrites", "http://mitchwritesstuff.tumblr.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Lol\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LukeEvansSimon\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/phocks\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/twoscooters\"></a>",
+      "value" : "Lol"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/phocks/status/1591549286999023616" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhZcA8bXwAMwjrk.jpg" ],
+    "published" : [ "2022-11-12T22:36:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1591560695120039936" ],
+    "url" : [ "https://twitter.com/MitchWrites/status/1591560695120039936" ]
+  },
+  "type" : [ "h-entry" ]
+}
