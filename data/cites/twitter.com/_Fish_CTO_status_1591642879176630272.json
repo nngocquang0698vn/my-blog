@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Aly" ],
+        "nickname" : [ "Fish_CTO" ],
+        "numeric-id" : [ "1226698564555829249" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517080193441038337/50UEQMzH.png" ],
+        "published" : [ "2020-02-10T02:45:34+00:00" ],
+        "uid" : [ "tag:twitter.com:Fish_CTO" ],
+        "url" : [ "https://twitter.com/Fish_CTO", "https://aly.fish/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hello everyone, I have successfully made a Regex which accepts valid JSON and rejects invalid JSON" ],
+    "published" : [ "2022-11-13T04:03:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1591642879176630272" ],
+    "url" : [ "https://twitter.com/Fish_CTO/status/1591642879176630272" ]
+  },
+  "type" : [ "h-entry" ]
+}
