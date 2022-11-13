@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Baltimore Metro Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Johnny Boursiquot" ],
+        "nickname" : [ "jboursiquot" ],
+        "numeric-id" : [ "8861082" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1225245616604942341/KV4HeSLv.jpg" ],
+        "published" : [ "2007-09-13T19:52:17+00:00" ],
+        "uid" : [ "tag:twitter.com:jboursiquot" ],
+        "url" : [ "https://twitter.com/jboursiquot", "https://www.jboursiquot.com", "http://golangjohnny.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "😂 yes, I suppose I am interested in my own <a href=\"https://twitter.com/search?q=%23golang\">#golang</a> course.",
+      "value" : "😂 yes, I suppose I am interested in my own #golang course."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fha9JjPXEAE-qa-.jpg" ],
+    "published" : [ "2022-11-13T05:41:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1591667523618996224" ],
+    "url" : [ "https://twitter.com/jboursiquot/status/1591667523618996224" ]
+  },
+  "type" : [ "h-entry" ]
+}
