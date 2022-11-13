@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jesse" ],
+          "nickname" : [ "obra" ],
+          "numeric-id" : [ "289403" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1579169797815738370/wkHLiZUA.jpg" ],
+          "published" : [ "2006-12-27T16:52:30+00:00" ],
+          "uid" : [ "tag:twitter.com:obra" ],
+          "url" : [ "https://twitter.com/obra", "http://keyboard.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">RT @rwidome@mastodon.social\nHere’s the good news: I think we have at least 6 months before your boss finds this place.\n<a href=\"https://mastodon.social/@rwidome/109333184957781101\">mastodon.social/@rwidome/10933…</a></div>",
+        "value" : "RT @rwidome@mastodon.social\nHere’s the good news: I think we have at least 6 months before your boss finds this place.\nmastodon.social/@rwidome/10933…"
+      } ],
+      "published" : [ "2022-11-13T05:30:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1591664869299847169" ],
+      "url" : [ "https://twitter.com/obra/status/1591664869299847169" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I need to look at the org chart again because a few of them have been there a while because they're big ol' nerds." ],
+    "published" : [ "2022-11-13T05:36:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1591666211490000896" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1591666211490000896" ]
+  },
+  "type" : [ "h-entry" ]
+}
