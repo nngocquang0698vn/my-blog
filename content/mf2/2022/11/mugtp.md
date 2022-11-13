@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pjohhi/status/1591543914137522176" ],
     "name" : [ "Like of @pjohhi's tweet" ],
     "published" : [ "2022-11-13T12:32:00+0000" ],
     "like-of" : [ "https://twitter.com/pjohhi/status/1591543914137522176" ],
