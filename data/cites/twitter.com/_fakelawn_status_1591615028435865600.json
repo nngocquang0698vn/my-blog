@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Metro Detroit, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "fakelawn" ],
+        "nickname" : [ "fakelawn" ],
+        "numeric-id" : [ "243041454" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/748187812382580736/BywuvjO0.jpg" ],
+        "published" : [ "2011-01-26T04:42:34+00:00" ],
+        "uid" : [ "tag:twitter.com:fakelawn" ],
+        "url" : [ "https://twitter.com/fakelawn", "http://mastodon.online" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Elon stans who haven’t paid for his ridiculous checkmark cannot be trusted.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/justquitnow\"></a>",
+      "value" : "Elon stans who haven’t paid for his ridiculous checkmark cannot be trusted."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/justquitnow/status/1591596168961736707" ],
+    "published" : [ "2022-11-13T02:12:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1591615028435865600" ],
+    "url" : [ "https://twitter.com/fakelawn/status/1591615028435865600" ]
+  },
+  "type" : [ "h-entry" ]
+}
