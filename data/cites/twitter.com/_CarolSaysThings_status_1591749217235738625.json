@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/jenlooper/status/1591591946715566080\">@jenlooper</a> The most impressive bon mot I heard this weekend was from a CS teacher giving a talk about playful learning via ScratchJr: \"Coding should be a playground, not a playpen\". This should be taken to ❤️ by every software engineer. You are working within a community, not in isolation."
+    } ],
+    "published" : [ "2022-11-13T11:06:01+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Wellesley, MA" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Jen Looper 🧅 | @jlooper@awscommunity.social" ],
+            "nickname" : [ "jenlooper" ],
+            "numeric-id" : [ "35963991" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1582858169172299776/GoKW1Jj-.jpg" ],
+            "published" : [ "2009-04-28T02:50:12+00:00" ],
+            "uid" : [ "tag:twitter.com:jenlooper" ],
+            "url" : [ "https://twitter.com/jenlooper", "http://www.jenlooper.com" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "The most impressive bon mot I heard this weekend was from a CS teacher giving a talk about playful learning via ScratchJr: \"Coding should be a playground, not a playpen\". This should be taken to ❤️ by every software engineer. You are working within a community, not in isolation." ],
+        "published" : [ "2022-11-13T00:41:05+00:00" ],
+        "uid" : [ "tag:twitter.com:1591591946715566080" ],
+        "url" : [ "https://twitter.com/jenlooper/status/1591591946715566080" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1591749217235738625" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1591749217235738625" ]
+  },
+  "type" : [ "h-entry" ]
+}
