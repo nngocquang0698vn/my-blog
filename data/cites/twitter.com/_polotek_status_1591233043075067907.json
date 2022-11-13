@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "People are starting to say Elon Musk isn't actually a real engineer. But he definitely said \"I don't know why people think Twitter is so complicated. I could fix it in like a weekend.\" And then proceeded to fuck everything up. That's exactly like an engineer." ],
+    "published" : [ "2022-11-12T00:54:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1591233043075067907" ],
+    "url" : [ "https://twitter.com/polotek/status/1591233043075067907" ]
+  },
+  "type" : [ "h-entry" ]
+}
