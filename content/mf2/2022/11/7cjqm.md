@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZuluHeavy/status/1591496858123190273" ],
     "name" : [ "Like of @ZuluHeavy's tweet" ],
     "published" : [ "2022-11-13T08:03:00+0000" ],
     "like-of" : [ "https://twitter.com/ZuluHeavy/status/1591496858123190273" ],
