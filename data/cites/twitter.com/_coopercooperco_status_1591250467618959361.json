@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "somewhere in California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "AK Lingus" ],
+          "nickname" : [ "aklingus" ],
+          "numeric-id" : [ "42041929" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1493605365174386689/7T6rxtHN.jpg" ],
+          "published" : [ "2009-05-23T15:17:12+00:00" ],
+          "uid" : [ "tag:twitter.com:aklingus" ],
+          "url" : [ "https://twitter.com/aklingus" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Enough talk about the good times on this website, let’s talk about the dumbest moments on this website. I’ll start: that time people thought there were two drils and the second one was much less funny" ],
+      "published" : [ "2022-11-11T13:06:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1591054638719324160" ],
+      "url" : [ "https://twitter.com/aklingus/status/1591054638719324160" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "[sighs] brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🏜🔋, fka ☕️" ],
+        "nickname" : [ "coopercooperco" ],
+        "numeric-id" : [ "1102668126603366402" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1188583073207738368/0a2r48DX.jpg" ],
+        "published" : [ "2019-03-04T20:32:22+00:00" ],
+        "uid" : [ "tag:twitter.com:coopercooperco" ],
+        "url" : [ "https://twitter.com/coopercooperco" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Remember when people thought this was incredible or something " ],
+    "photo" : [ "https://pbs.twimg.com/media/FhVB3YSWIAAkuKH.jpg" ],
+    "published" : [ "2022-11-12T02:04:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1591250467618959361" ],
+    "url" : [ "https://twitter.com/coopercooperco/status/1591250467618959361" ]
+  },
+  "type" : [ "h-entry" ]
+}
