@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/williampietri/status/1591505810911531008" ],
     "name" : [ "Like of @williampietri's tweet" ],
     "published" : [ "2022-11-12T23:54:00+0000" ],
     "like-of" : [ "https://twitter.com/williampietri/status/1591505810911531008" ],
