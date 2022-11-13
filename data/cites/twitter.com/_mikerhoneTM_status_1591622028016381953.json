@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Clara, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Rhone" ],
+        "nickname" : [ "mikerhoneTM" ],
+        "numeric-id" : [ "14051384" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333561694530936832/SVqyu7hO.jpg" ],
+        "published" : [ "2008-02-27T21:01:53+00:00" ],
+        "uid" : [ "tag:twitter.com:mikerhoneTM" ],
+        "url" : [ "https://twitter.com/mikerhoneTM" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanMacAllen\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ashleevance\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/joerogan\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/justquitnow\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mtaibbi\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/justquitnow/status/1591596168961736707" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhaTzBSVUAA3CMd.jpg" ],
+    "published" : [ "2022-11-13T02:40:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1591622028016381953" ],
+    "url" : [ "https://twitter.com/mikerhoneTM/status/1591622028016381953" ]
+  },
+  "type" : [ "h-entry" ]
+}
