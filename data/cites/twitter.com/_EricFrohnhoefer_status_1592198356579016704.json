@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592186302379982849" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eric Frohnhoefer @ 🏡" ],
+        "nickname" : [ "EricFrohnhoefer" ],
+        "numeric-id" : [ "408512238" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1584779916046143488/PKywPrnI.jpg" ],
+        "published" : [ "2011-11-09T14:32:44+00:00" ],
+        "uid" : [ "tag:twitter.com:EricFrohnhoefer" ],
+        "url" : [ "https://twitter.com/EricFrohnhoefer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "🫡\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592186302379982849\">twitter.com/elonmusk/statu…</a>",
+      "value" : "🫡"
+    } ],
+    "published" : [ "2022-11-14T16:50:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1592198356579016704" ],
+    "url" : [ "https://twitter.com/EricFrohnhoefer/status/1592198356579016704" ]
+  },
+  "type" : [ "h-entry" ]
+}
