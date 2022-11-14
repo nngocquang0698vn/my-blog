@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cliff 🦖 Jerrison" ],
+        "nickname" : [ "pervocracy" ],
+        "numeric-id" : [ "245521460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1234109367462572032/BHEMotSc.jpg" ],
+        "published" : [ "2011-01-31T21:56:21+00:00" ],
+        "uid" : [ "tag:twitter.com:pervocracy" ],
+        "url" : [ "https://twitter.com/pervocracy", "http://pervocracy.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "oh my god he's doing the \"these system files don't do anything, let's delete them to save space\" thing that I nuked my first computer with when I was, like, 12\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>",
+      "value" : "oh my god he's doing the \"these system files don't do anything, let's delete them to save space\" thing that I nuked my first computer with when I was, like, 12"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1592188128944705537" ],
+    "published" : [ "2022-11-14T16:31:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1592193444763635713" ],
+    "url" : [ "https://twitter.com/pervocracy/status/1592193444763635713" ]
+  },
+  "type" : [ "h-entry" ]
+}
