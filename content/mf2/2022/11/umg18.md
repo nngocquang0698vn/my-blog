@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/fdw/rofimoji/stargazers" ],
     "published" : [ "2022-11-14T07:26:00+0000" ],
     "category" : [ "emoji" ],
     "like-of" : [ "https://github.com/fdw/rofimoji" ],
