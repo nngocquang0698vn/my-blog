@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stupidestMirror/status/1591897134349307904" ],
     "name" : [ "Like of @stupidestMirror's tweet" ],
     "published" : [ "2022-11-14T07:48:00+0000" ],
     "like-of" : [ "https://twitter.com/stupidestMirror/status/1591897134349307904" ],
