@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Calgary, AB" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian 🫠 @iansu@mas.to" ],
+        "nickname" : [ "iansu" ],
+        "numeric-id" : [ "15755614" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/916780671552516096/yzDVUVKY.jpg" ],
+        "published" : [ "2008-08-06T21:40:31+00:00" ],
+        "uid" : [ "tag:twitter.com:iansu" ],
+        "url" : [ "https://twitter.com/iansu", "https://iansutherland.ca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I was just thinking about how this guy is better at business than El*n\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elibelly\"></a>",
+      "value" : "I was just thinking about how this guy is better at business than El*n"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elibelly/status/1591904605398515713" ],
+    "photo" : [ {
+      "alt" : "Russ Hanneman from the show Silicon Valley standing in front of a car",
+      "value" : "https://pbs.twimg.com/media/FheWl4EaUAAxyRV.jpg"
+    } ],
+    "published" : [ "2022-11-13T21:31:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1591906574620319744" ],
+    "url" : [ "https://twitter.com/iansu/status/1591906574620319744" ]
+  },
+  "type" : [ "h-entry" ]
+}
