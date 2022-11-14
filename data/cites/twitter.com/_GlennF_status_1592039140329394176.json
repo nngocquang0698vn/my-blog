@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Glenn Fleishman 🐀🐕" ],
+        "nickname" : [ "GlennF" ],
+        "numeric-id" : [ "8315692" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1024087028332290048/AYADWFAS.jpg" ],
+        "published" : [ "2007-08-20T21:39:39+00:00" ],
+        "uid" : [ "tag:twitter.com:GlennF" ],
+        "url" : [ "https://twitter.com/GlennF", "https://glenn.fun", "http://bit.ly/3mh5U0Z" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I expect the reason Elon keeps posting bad data, like it costs $400 a day per person to feed Twitter employees lunch and dinner, is that his remaining employees hate him and are feeding him bad data of a kind that they know he will uncritically tweet." ],
+    "published" : [ "2022-11-14T06:18:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1592039140329394176" ],
+    "url" : [ "https://twitter.com/GlennF/status/1592039140329394176" ]
+  },
+  "type" : [ "h-entry" ]
+}
