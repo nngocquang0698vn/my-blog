@@ -1,20 +1,21 @@
 ---
 title: "Creating a Personal IndieAuth Server"
-description: "Announcing the release of my personal IndieAuth server, and what I've spent my time on."
-tags:
-- www.jvt.me
-- indieauth.jvt.me
-- indieauth
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2020-12-09T11:49:48+0000
-slug: "personal-indieauth-server"
+description: "Announcing the release of my personal IndieAuth server, and what I've\
+  \ spent my time on."
+date: "2020-12-09T11:49:48+0000"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
-- https://lobste.rs/s/urv2yf/creating_personal_indieauth_server
-- https://news.ycombinator.com/item?id=25357812
-image: https://media.jvt.me/f34f45fbf0.png
+- "https://news.indieweb.org/en/www.jvt.me/posts/2020/12/09/personal-indieauth-server/"
+- "https://indieweb.xyz/en/indieweb"
+- "https://lobste.rs/s/urv2yf/creating_personal_indieauth_server"
+- "https://news.ycombinator.com/item?id=25357812"
+tags:
+- "www.jvt.me"
+- "indieauth.jvt.me"
+- "indieauth"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/f34f45fbf0.png"
+slug: "personal-indieauth-server"
 ---
 I've completed my implementation of an [IndieAuth v1.1 server](https://indieauth.spec.indieweb.org/), which has been a goal of mine for some time.
 
