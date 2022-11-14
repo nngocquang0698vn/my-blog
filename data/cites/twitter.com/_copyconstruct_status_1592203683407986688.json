@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/bibryam/status…" ],
+        "url" : [ "https://twitter.com/bibryam/status/1525719376472723456" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Cindy Sridharan" ],
+          "nickname" : [ "copyconstruct" ],
+          "numeric-id" : [ "161667651" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1347304619118981120/OyPjIuLz.jpg" ],
+          "published" : [ "2010-07-01T12:53:22+00:00" ],
+          "uid" : [ "tag:twitter.com:copyconstruct" ],
+          "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Lol - we’ve seen this movie before, with Dropbox too. See my previous tweet: \n\n<a href=\"https://twitter.com/copyconstruct/status/1371597564194091009?s=21&t=-47-imN00YGnrn0Hvs3BrQ\">twitter.com/copyconstruct/…</a>\n\nAnd “Macroservices” was a term I used sardonically in the past (and many of the blue checks here dunked on me for that). It’s now truly a thing - who’d have thunk?</div>\n<a class=\"tag\" href=\"https://twitter.com/bibryam/status/1525719376472723456\">twitter.com/bibryam/status…</a>",
+        "value" : "Lol - we’ve seen this movie before, with Dropbox too. See my previous tweet: \n\ntwitter.com/copyconstruct/…\n\nAnd “Macroservices” was a term I used sardonically in the past (and many of the blue checks here dunked on me for that). It’s now truly a thing - who’d have thunk?"
+      } ],
+      "published" : [ "2022-05-15T15:26:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1525860086685478912" ],
+      "url" : [ "https://twitter.com/copyconstruct/status/1525860086685478912" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347304619118981120/OyPjIuLz.jpg" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Perhaps not a monolith, but properly sized and scoped services. I’ve called this “macroservices” in the past ironically - maybe it’s time to use it seriously now lol.  \n\nAnd there’s prior art here too …</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "Perhaps not a monolith, but properly sized and scoped services. I’ve called this “macroservices” in the past ironically - maybe it’s time to use it seriously now lol.  \n\nAnd there’s prior art here too …"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1592197910401552384" ],
+    "published" : [ "2022-11-14T17:11:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1592203683407986688" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1592203683407986688" ]
+  },
+  "type" : [ "h-entry" ]
+}
