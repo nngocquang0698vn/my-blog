@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Farnborough" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alan Pope" ],
+        "nickname" : [ "popey" ],
+        "numeric-id" : [ "12325402" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1536284028332122112/ae3GEAV3.jpg" ],
+        "published" : [ "2008-01-16T17:35:35+00:00" ],
+        "uid" : [ "tag:twitter.com:popey" ],
+        "url" : [ "https://twitter.com/popey", "https://popey.me/", "http://ubuntu.social/@popey" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "After getting laid off last week (😢) I moved my workstation setup back home 🏡 from the rented office 🏢 space. Decided to try out the middle monitor in vertical mode for the first time. Wonder how long this will last..." ],
+    "photo" : [ "https://pbs.twimg.com/media/Fhezgt0XEAA3HQX.jpg" ],
+    "published" : [ "2022-11-13T23:44:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1591940062144790528" ],
+    "url" : [ "https://twitter.com/popey/status/1591940062144790528" ]
+  },
+  "type" : [ "h-entry" ]
+}
