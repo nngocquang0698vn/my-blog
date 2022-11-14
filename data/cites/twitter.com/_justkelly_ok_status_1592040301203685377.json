@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Glenn Fleishman 🐀🐕" ],
+          "nickname" : [ "GlennF" ],
+          "numeric-id" : [ "8315692" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1024087028332290048/AYADWFAS.jpg" ],
+          "published" : [ "2007-08-20T21:39:39+00:00" ],
+          "uid" : [ "tag:twitter.com:GlennF" ],
+          "url" : [ "https://twitter.com/GlennF", "https://glenn.fun", "http://bit.ly/3mh5U0Z" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I expect the reason Elon keeps posting bad data, like it costs $400 a day per person to feed Twitter employees lunch and dinner, is that his remaining employees hate him and are feeding him bad data of a kind that they know he will uncritically tweet." ],
+      "published" : [ "2022-11-14T06:18:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1592039140329394176" ],
+      "url" : [ "https://twitter.com/GlennF/status/1592039140329394176" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/glennf/status/…" ],
+      "url" : [ "https://twitter.com/glennf/status/1592039140329394176" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543218193199685632/tOcSbY0j.jpg" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think it could be this, but it also could be that he’s trying to make Twitter look more poorly-managed than it actually was, to make himself look better. And especially to make the layoffs/firings look smart.\n<a class=\"tag\" href=\"https://twitter.com/glennf/status/1592039140329394176\">twitter.com/glennf/status/…</a>",
+      "value" : "I think it could be this, but it also could be that he’s trying to make Twitter look more poorly-managed than it actually was, to make himself look better. And especially to make the layoffs/firings look smart."
+    } ],
+    "published" : [ "2022-11-14T06:22:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1592040301203685377" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1592040301203685377" ]
+  },
+  "type" : [ "h-entry" ]
+}
