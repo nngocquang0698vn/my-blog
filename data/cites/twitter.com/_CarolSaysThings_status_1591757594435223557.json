@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/rdpiazza/status/1590909306953924610\">@rdpiazza</a> One positive: It’s going to be so much easier to explain what product management is and why you need it after this week"
+    } ],
+    "published" : [ "2022-11-13T11:39:18+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Washington, DC" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Rebecca Piazza" ],
+            "nickname" : [ "rdpiazza" ],
+            "numeric-id" : [ "8038692" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1354254227028271113/h5XdSCOm.jpg" ],
+            "published" : [ "2007-08-07T21:05:25+00:00" ],
+            "uid" : [ "tag:twitter.com:rdpiazza" ],
+            "url" : [ "https://twitter.com/rdpiazza" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "One positive: It’s going to be so much easier to explain what product management is and why you need it after this week" ],
+        "published" : [ "2022-11-11T03:28:31+00:00" ],
+        "uid" : [ "tag:twitter.com:1590909306953924610" ],
+        "url" : [ "https://twitter.com/rdpiazza/status/1590909306953924610" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1591757594435223557" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1591757594435223557" ]
+  },
+  "type" : [ "h-entry" ]
+}
