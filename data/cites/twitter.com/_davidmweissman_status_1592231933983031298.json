@@ -1,0 +1,38 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592186302379982849" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Orlando, FL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Weissman ✡️" ],
+        "nickname" : [ "davidmweissman" ],
+        "numeric-id" : [ "880018682" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591073235654819840/w7n5_2j1.jpg" ],
+        "published" : [ "2012-10-14T12:29:54+00:00" ],
+        "uid" : [ "tag:twitter.com:davidmweissman" ],
+        "url" : [ "https://twitter.com/davidmweissman", "https://forward.com/scribe/456581/i-thought-trump-was-for-me-now-im-organizing-against-him/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "How is this not censorship?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bennyjohnson\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592186302379982849\">twitter.com/elonmusk/statu…</a>",
+      "value" : "How is this not censorship?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bennyjohnson/status/1592230874166312960" ],
+    "published" : [ "2022-11-14T19:04:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1592231933983031298" ],
+    "url" : [ "https://twitter.com/davidmweissman/status/1592231933983031298" ]
+  },
+  "type" : [ "h-entry" ]
+}
