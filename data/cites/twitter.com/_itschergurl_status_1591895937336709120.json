@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manhattan, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "iamhunkydory" ],
+        "nickname" : [ "itschergurl" ],
+        "numeric-id" : [ "867960001876250625" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407132225120968704/JzT-qaW8.jpg" ],
+        "published" : [ "2017-05-26T04:26:05+00:00" ],
+        "uid" : [ "tag:twitter.com:itschergurl" ],
+        "url" : [ "https://twitter.com/itschergurl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ms. Frizzle when a concerned parent asks how their child ended up in someone’s colon" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Manhattan, NY" ],
+        "uid" : [ "tag:twitter.com:01a9a39529b27f36" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-11-13T20:49:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1591895937336709120" ],
+    "url" : [ "https://twitter.com/itschergurl/status/1591895937336709120" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1591895919494045698/pu/vid/888x486/BmNvG783d6x541Za.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
