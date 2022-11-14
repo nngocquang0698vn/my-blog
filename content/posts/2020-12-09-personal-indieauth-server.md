@@ -28,7 +28,7 @@ I also wanted to make it compliant with the latest version of the IndieAuth spec
 
 # Authentication via Push Notification
 
-As mentioned in [_Setting up Passwordless Authentication using the Okta Factors API_](/posts/2020/11/10/okta-factors-api-passwordless/), one of the key reasons of building my own IndieAuth server is to tailor my authentication flow to me. This is primarily to make testing with my staging Micropub server easier, but is also so I can authenticate on a device without needing access to i.e. silo accounts for social login, or to go through an email OTP, which is slower.
+As mentioned in [_Setting up Passwordless Authentication using the Okta Factors API_](/posts/2020/11/11/okta-factors-api-passwordless/), one of the key reasons of building my own IndieAuth server is to tailor my authentication flow to me. This is primarily to make testing with my staging Micropub server easier, but is also so I can authenticate on a device without needing access to i.e. silo accounts for social login, or to go through an email OTP, which is slower.
 
 I've followed my article and now get a push notification and can allow/deny it, which simplifies things massively! I don't yet have an alternative for when I'm not on my device, however, so there is a single point of failure here, but so far it's made a huge difference.
 
