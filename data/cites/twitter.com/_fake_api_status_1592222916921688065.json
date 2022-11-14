@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (real, not parody)" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“This code is a mess and it’s a wonder any of it even works” is the view of most people working on any software that’s more than a couple of months or years old, at the latest. This isn’t some huge indicator of a bad team or bad engineering." ],
+    "published" : [ "2022-11-14T18:28:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1592222916921688065" ],
+    "url" : [ "https://twitter.com/fake_api/status/1592222916921688065" ]
+  },
+  "type" : [ "h-entry" ]
+}
