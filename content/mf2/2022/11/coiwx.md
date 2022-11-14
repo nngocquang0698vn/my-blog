@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kubukoz/status/1590135952886075393" ],
     "name" : [ "Like of @kubukoz's tweet" ],
     "published" : [ "2022-11-14T22:32:00+0000" ],
     "like-of" : [ "https://twitter.com/kubukoz/status/1590135952886075393" ],
