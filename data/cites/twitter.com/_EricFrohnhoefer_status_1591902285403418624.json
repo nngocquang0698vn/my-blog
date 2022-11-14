@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1591853644944932865" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eric Frohnhoefer @ 🏡" ],
+        "nickname" : [ "EricFrohnhoefer" ],
+        "numeric-id" : [ "408512238" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1584779916046143488/PKywPrnI.jpg" ],
+        "published" : [ "2011-11-09T14:32:44+00:00" ],
+        "uid" : [ "tag:twitter.com:EricFrohnhoefer" ],
+        "url" : [ "https://twitter.com/EricFrohnhoefer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I have spent ~6yrs working on Twitter for Android and can say this is wrong.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1591853644944932865\">twitter.com/elonmusk/statu…</a>",
+      "value" : "I have spent ~6yrs working on Twitter for Android and can say this is wrong."
+    } ],
+    "published" : [ "2022-11-13T21:14:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1591902285403418624" ],
+    "url" : [ "https://twitter.com/EricFrohnhoefer/status/1591902285403418624" ]
+  },
+  "type" : [ "h-entry" ]
+}
