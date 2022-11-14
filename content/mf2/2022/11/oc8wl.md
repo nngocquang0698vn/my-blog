@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricFrohnhoefer/status/1591902285403418624" ],
     "name" : [ "Like of @EricFrohnhoefer's tweet" ],
     "published" : [ "2022-11-14T07:36:00+0000" ],
     "like-of" : [ "https://twitter.com/EricFrohnhoefer/status/1591902285403418624" ],
