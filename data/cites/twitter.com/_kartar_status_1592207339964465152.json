@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592177471654604800" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn & airport lounges" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Turnbull" ],
+        "nickname" : [ "kartar" ],
+        "numeric-id" : [ "6031" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1359881479522820103/M0OFEVw5.jpg" ],
+        "published" : [ "2006-09-14T01:31:47+00:00" ],
+        "uid" : [ "tag:twitter.com:kartar" ],
+        "url" : [ "https://twitter.com/kartar", "https://linktr.ee/jamtur01" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Awesome to see Elon developing this amazing case study for the chaos engineering community: \"The law of unintended consequences and why Twitter broke...\" <a href=\"https://twitter.com/search?q=%23chaosengineering\">#chaosengineering</a>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592177471654604800\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Awesome to see Elon developing this amazing case study for the chaos engineering community: \"The law of unintended consequences and why Twitter broke...\" #chaosengineering"
+    } ],
+    "published" : [ "2022-11-14T17:26:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1592207339964465152" ],
+    "url" : [ "https://twitter.com/kartar/status/1592207339964465152" ]
+  },
+  "type" : [ "h-entry" ]
+}
