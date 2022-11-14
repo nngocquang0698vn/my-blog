@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gun_toucher/status/1575637957566164994" ],
     "name" : [ "Like of @gun_toucher's tweet" ],
     "published" : [ "2022-11-14T11:52:00+0000" ],
     "like-of" : [ "https://twitter.com/gun_toucher/status/1575637957566164994" ],
