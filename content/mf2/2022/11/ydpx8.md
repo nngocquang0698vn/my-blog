@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pervocracy/status/1592193444763635713" ],
     "name" : [ "Like of @pervocracy's tweet" ],
     "published" : [ "2022-11-14T17:45:00+0000" ],
     "like-of" : [ "https://twitter.com/pervocracy/status/1592193444763635713" ],
