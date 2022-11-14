@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Memphis, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "parseword (@shaun@mastodon.xyz)" ],
+        "nickname" : [ "parseword" ],
+        "numeric-id" : [ "456942899" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501404337767124994/MwMOrPHn.jpg" ],
+        "published" : [ "2012-01-06T21:06:32+00:00" ],
+        "uid" : [ "tag:twitter.com:parseword" ],
+        "url" : [ "https://twitter.com/parseword" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"Supposing you brought the RPCs inside the body, which you can do either through the skin or some other way, and I think we're going to test that, too...\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sachee\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stupidestMirror\"></a>",
+      "value" : "\"Supposing you brought the RPCs inside the body, which you can do either through the skin or some other way, and I think we're going to test that, too...\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/stupidestMirror/status/1591897134349307904" ],
+    "published" : [ "2022-11-13T22:11:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1591916566521982976" ],
+    "url" : [ "https://twitter.com/parseword/status/1591916566521982976" ]
+  },
+  "type" : [ "h-entry" ]
+}
