@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KillshotCryptoX/status/1592180406564319232" ],
     "name" : [ "Like of @KillshotCryptoX's tweet" ],
     "published" : [ "2022-11-14T17:14:00+0000" ],
     "like-of" : [ "https://twitter.com/KillshotCryptoX/status/1592180406564319232" ],
