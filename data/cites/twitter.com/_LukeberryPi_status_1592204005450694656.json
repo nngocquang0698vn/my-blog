@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Florianópolis, Brazil" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lukeberry Pi" ],
+        "nickname" : [ "LukeberryPi" ],
+        "numeric-id" : [ "1452047864142643201" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1580822148981161984/uD-kvabg.jpg" ],
+        "published" : [ "2021-10-23T23:03:17+00:00" ],
+        "uid" : [ "tag:twitter.com:LukeberryPi" ],
+        "url" : [ "https://twitter.com/LukeberryPi", "http://beacons.ai/lukeberrypi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">genuine: why is this broken?\n\nis it lacking the \"category\" info? as in \"Politics\" - Trending on...?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/fold_right\"></a>",
+      "value" : "genuine: why is this broken?\n\nis it lacking the \"category\" info? as in \"Politics\" - Trending on...?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/fold_right/status/1592201933783470081" ],
+    "published" : [ "2022-11-14T17:13:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1592204005450694656" ],
+    "url" : [ "https://twitter.com/LukeberryPi/status/1592204005450694656" ]
+  },
+  "type" : [ "h-entry" ]
+}
