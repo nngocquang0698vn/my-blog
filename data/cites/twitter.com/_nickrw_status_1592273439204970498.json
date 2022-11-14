@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "nickrw" ],
+        "nickname" : [ "nickrw" ],
+        "numeric-id" : [ "15345967" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1544693878774763521/_lOHWt3k.jpg" ],
+        "published" : [ "2008-07-07T20:14:59+00:00" ],
+        "uid" : [ "tag:twitter.com:nickrw" ],
+        "url" : [ "https://twitter.com/nickrw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If we don't get told a reason for the change freeze soon I shall simply assume it's because the microservice-shy experts don't know how to resolve a merge conflict" ],
+    "published" : [ "2022-11-14T21:49:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1592273439204970498" ],
+    "url" : [ "https://twitter.com/nickrw/status/1592273439204970498" ]
+  },
+  "type" : [ "h-entry" ]
+}
