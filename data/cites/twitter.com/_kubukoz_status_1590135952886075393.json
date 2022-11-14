@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "V3JvY8WCYXcsIFBvbGFuZAo=" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jakub Kozłowski 🐀" ],
+        "nickname" : [ "kubukoz" ],
+        "numeric-id" : [ "198579020" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1585030882720731136/XDoxLu1E.jpg" ],
+        "published" : [ "2010-10-04T17:48:47+00:00" ],
+        "uid" : [ "tag:twitter.com:kubukoz" ],
+        "url" : [ "https://twitter.com/kubukoz", "https://github.com/kubukoz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm pleased to announce that git conflict markers are parsed as valid Scala." ],
+    "photo" : [ "https://pbs.twimg.com/media/FhFMLYdXEAAtKqO.jpg" ],
+    "published" : [ "2022-11-09T00:15:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1590135952886075393" ],
+    "url" : [ "https://twitter.com/kubukoz/status/1590135952886075393" ]
+  },
+  "type" : [ "h-entry" ]
+}
