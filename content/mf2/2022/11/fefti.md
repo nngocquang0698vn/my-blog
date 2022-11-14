@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Doogie2K/status/1592194955766009857" ],
     "name" : [ "Like of @Doogie2K's tweet" ],
     "published" : [ "2022-11-14T17:45:00+0000" ],
     "like-of" : [ "https://twitter.com/Doogie2K/status/1592194955766009857" ],
