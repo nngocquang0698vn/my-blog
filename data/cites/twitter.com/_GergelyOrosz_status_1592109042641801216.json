@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Scoop: Twitter went into a stricter-than-ever-before change freeze starting a few hours ago. Not only are deploys not allowed, but Git is now readonly by default (!)\n\nThe mandate is coming from the infra team, \"until further notice.\" Here's why this is an odd one:</div>",
+      "value" : "Scoop: Twitter went into a stricter-than-ever-before change freeze starting a few hours ago. Not only are deploys not allowed, but Git is now readonly by default (!)\n\nThe mandate is coming from the infra team, \"until further notice.\" Here's why this is an odd one:"
+    } ],
+    "published" : [ "2022-11-14T10:55:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1592109042641801216" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1592109042641801216" ]
+  },
+  "type" : [ "h-entry" ]
+}
