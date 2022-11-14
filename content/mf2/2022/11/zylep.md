@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RespectfulMemes/status/1591914049121538048" ],
     "name" : [ "Like of @RespectfulMemes's tweet" ],
     "published" : [ "2022-11-14T07:34:00+0000" ],
     "like-of" : [ "https://twitter.com/RespectfulMemes/status/1591914049121538048" ],
