@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/popey/status/1591940062144790528" ],
     "name" : [ "Like of @popey's tweet" ],
     "published" : [ "2022-11-14T07:29:00+0000" ],
     "like-of" : [ "https://twitter.com/popey/status/1591940062144790528" ],
