@@ -3,7 +3,7 @@ title: "Creating a JSON Patch endpoint in Go"
 description: "How to create a server-side JSON Patch API endpoint in Go."
 date: "2022-11-09T15:39:14+0000"
 aliases:
-- "/posts/2022/11/09/http-json-patch-go/"
+- "/posts/2022/11/09/openapi-json-patch/"
 syndication:
 - "https://twitter.com/JamieTanna/status/1590766324409544704"
 tags:
