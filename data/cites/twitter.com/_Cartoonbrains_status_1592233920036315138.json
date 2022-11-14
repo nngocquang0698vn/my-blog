@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Europe" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Arya" ],
+          "nickname" : [ "FairywrenTech" ],
+          "numeric-id" : [ "1301885892945227777" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1301886352011726849/uZ2h_AjF.png" ],
+          "published" : [ "2020-09-04T14:13:25+00:00" ],
+          "uid" : [ "tag:twitter.com:FairywrenTech" ],
+          "url" : [ "https://twitter.com/FairywrenTech", "http://linktr.ee/CRImier", "http://bit.ly/CRImier_Tindie" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "lmaoooo <a href=\"https://twitter.com/IanColdwater/status/1592188128944705537\">twitter.com/IanColdwater/s…</a>",
+        "value" : "lmaoooo twitter.com/IanColdwater/s…"
+      } ],
+      "photo" : [ {
+        "alt" : "Twitter account holder verification window, saying \"We sent you a code. Enter the verification code sent to ************.\" with a code entry field. Below the field, there's an error message that says \"Can't send the confirmation code right now. Please try again later.\"",
+        "value" : "https://pbs.twimg.com/media/FhiZmw7XgAE7ZQZ.png"
+      } ],
+      "published" : [ "2022-11-14T16:22:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1592191371590631424" ],
+      "url" : [ "https://twitter.com/FairywrenTech/status/1592191371590631424" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Toon Brains" ],
+        "nickname" : [ "Cartoonbrains" ],
+        "numeric-id" : [ "1362913194809978882" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587293752363712512/o6SL1v1N.jpg" ],
+        "published" : [ "2021-02-19T23:54:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Cartoonbrains" ],
+        "url" : [ "https://twitter.com/Cartoonbrains" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Don't log out of Twitter if you have 2FA. The microservice for it has been shut down. You won't be able to log back in." ],
+    "published" : [ "2022-11-14T19:12:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1592233920036315138" ],
+    "url" : [ "https://twitter.com/Cartoonbrains/status/1592233920036315138" ]
+  },
+  "type" : [ "h-entry" ]
+}
