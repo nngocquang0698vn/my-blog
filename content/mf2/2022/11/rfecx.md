@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SolizwithaZ/status/1591813827553001472" ],
     "name" : [ "Like of @SolizwithaZ's tweet" ],
     "published" : [ "2022-11-14T07:49:00+0000" ],
     "like-of" : [ "https://twitter.com/SolizwithaZ/status/1591813827553001472" ],
