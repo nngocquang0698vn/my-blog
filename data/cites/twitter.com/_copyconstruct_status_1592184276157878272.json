@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592177471654604800" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347304619118981120/OyPjIuLz.jpg" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ha! I predicted this correctly!\n\nIn years of discussions about microservices and how it helps solve the org problem, we never stopped to wonder if the (bloated) org *itself* is the problem.\n\nBut now that CEOs are convinced companies are overstaffed and org charts need culling 😉</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592177471654604800\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Ha! I predicted this correctly!\n\nIn years of discussions about microservices and how it helps solve the org problem, we never stopped to wonder if the (bloated) org *itself* is the problem.\n\nBut now that CEOs are convinced companies are overstaffed and org charts need culling 😉"
+    } ],
+    "published" : [ "2022-11-14T15:54:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1592184276157878272" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1592184276157878272" ]
+  },
+  "type" : [ "h-entry" ]
+}
