@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "AZ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "😌" ],
+        "nickname" : [ "chelounger" ],
+        "numeric-id" : [ "122519141" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/932281158066348032/8_GOXWAO.jpg" ],
+        "published" : [ "2010-03-13T00:33:56+00:00" ],
+        "uid" : [ "tag:twitter.com:chelounger" ],
+        "url" : [ "https://twitter.com/chelounger" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Cool meme do advertising revenue next\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/chicago_glenn\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sampullara\"></a>",
+      "value" : "Cool meme do advertising revenue next"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/chicago_glenn/status/1592177822688112640" ],
+    "published" : [ "2022-11-14T16:13:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1592188970175463432" ],
+    "url" : [ "https://twitter.com/chelounger/status/1592188970175463432" ]
+  },
+  "type" : [ "h-entry" ]
+}
