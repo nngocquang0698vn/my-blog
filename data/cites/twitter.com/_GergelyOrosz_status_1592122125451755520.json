@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Correction: branches *cannot* be pushed upstream to origin (that part of Git is 'readonly'). So it's not just main branch.\n\nBut, practically, this is fine because local branches can be pushed to Phab, which runs its own Git server &amp; does  builds, tests etc. So not blocking dev.</div>",
+      "value" : "Correction: branches *cannot* be pushed upstream to origin (that part of Git is 'readonly'). So it's not just main branch.\n\nBut, practically, this is fine because local branches can be pushed to Phab, which runs its own Git server & does  builds, tests etc. So not blocking dev."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1592113422355017729" ],
+    "published" : [ "2022-11-14T11:47:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1592122125451755520" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1592122125451755520" ]
+  },
+  "type" : [ "h-entry" ]
+}
