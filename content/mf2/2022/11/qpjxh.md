@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davidmweissman/status/1592231933983031298" ],
     "name" : [ "Like of @davidmweissman's tweet" ],
     "published" : [ "2022-11-14T19:17:00+0000" ],
     "like-of" : [ "https://twitter.com/davidmweissman/status/1592231933983031298" ],
