@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/InnuendOwO/status/1592186221241192448" ],
     "name" : [ "Like of @InnuendOwO's tweet" ],
     "published" : [ "2022-11-14T21:27:00+0000" ],
     "like-of" : [ "https://twitter.com/InnuendOwO/status/1592186221241192448" ],
