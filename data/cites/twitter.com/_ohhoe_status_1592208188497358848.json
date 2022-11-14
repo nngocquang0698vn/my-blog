@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rachel" ],
+        "nickname" : [ "ohhoe" ],
+        "numeric-id" : [ "2141321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582314545426710528/BuJPO7kn.jpg" ],
+        "published" : [ "2007-03-24T23:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:ohhoe" ],
+        "url" : [ "https://twitter.com/ohhoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "apologizing for twitter “being so slow in some countries” and also saying “device detection is a waste of compute” lolllllll" ],
+    "in-reply-to" : [ "https://twitter.com/ohhoe/status/1592207362357616641" ],
+    "published" : [ "2022-11-14T17:29:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1592208188497358848" ],
+    "url" : [ "https://twitter.com/ohhoe/status/1592208188497358848" ]
+  },
+  "type" : [ "h-entry" ]
+}
