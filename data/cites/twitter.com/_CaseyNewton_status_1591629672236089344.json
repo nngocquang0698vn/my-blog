@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Casey Newton" ],
+        "nickname" : [ "CaseyNewton" ],
+        "numeric-id" : [ "69426451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX.jpg" ],
+        "published" : [ "2009-08-27T22:37:09+00:00" ],
+        "uid" : [ "tag:twitter.com:CaseyNewton" ],
+        "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You don’t have to treat people this way" ],
+    "in-reply-to" : [ "https://twitter.com/CaseyNewton/status/1591608307927556096" ],
+    "photo" : [ {
+      "alt" : "DM: I’m a contractor and you’re reporting is accurate. I just learned I was laid off by reading your tweets and then trying to log in on slack and email and realized it was all gone",
+      "value" : "https://pbs.twimg.com/media/Fhaav54UUAAAri_.jpg"
+    } ],
+    "published" : [ "2022-11-13T03:10:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1591629672236089344" ],
+    "url" : [ "https://twitter.com/CaseyNewton/status/1591629672236089344" ]
+  },
+  "type" : [ "h-entry" ]
+}
