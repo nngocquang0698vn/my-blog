@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1496763164846927872/HQhKhxn9.png" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I’m not straight out leaving Twitter, but I did join Mastodon and I will find time to up my IndieWeb game.\n\nReason? Musk took the fun out of Twitter. Writing here now feels like an endorsement of him and I never want to endorse him :/</div>",
+      "value" : "I’m not straight out leaving Twitter, but I did join Mastodon and I will find time to up my IndieWeb game.\n\nReason? Musk took the fun out of Twitter. Writing here now feels like an endorsement of him and I never want to endorse him :/"
+    } ],
+    "published" : [ "2022-11-14T07:03:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1592050528434937856" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1592050528434937856" ]
+  },
+  "type" : [ "h-entry" ]
+}
