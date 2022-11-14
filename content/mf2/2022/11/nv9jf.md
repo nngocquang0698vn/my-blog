@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ashtonpittman/status/1591992291367190528" ],
     "name" : [ "Like of @ashtonpittman's tweet" ],
     "published" : [ "2022-11-14T07:58:00+0000" ],
     "like-of" : [ "https://twitter.com/ashtonpittman/status/1591992291367190528" ],
