@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mark_dow/status/1591792039380672513" ],
     "name" : [ "Like of @mark_dow's tweet" ],
     "published" : [ "2022-11-14T07:35:00+0000" ],
     "like-of" : [ "https://twitter.com/mark_dow/status/1591792039380672513" ],
