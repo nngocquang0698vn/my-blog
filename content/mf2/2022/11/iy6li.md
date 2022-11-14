@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AdamUltraberg/status/1592198640017477632" ],
     "name" : [ "Like of @AdamUltraberg's tweet" ],
     "published" : [ "2022-11-14T17:23:00+0000" ],
     "like-of" : [ "https://twitter.com/AdamUltraberg/status/1592198640017477632" ],
