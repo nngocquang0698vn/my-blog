@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Downloading my data just in case. It’s sad to think we might lose this platform - I’ve made so many friends and I’m grateful for the platform I’ve had. \n\nNot sure if I’ll get on the mastodon train, but you can always find me at <a href=\"http://localghost.dev\">localghost.dev</a> - subscribe to my RSS feed!</div>",
+      "value" : "Downloading my data just in case. It’s sad to think we might lose this platform - I’ve made so many friends and I’m grateful for the platform I’ve had. \n\nNot sure if I’ll get on the mastodon train, but you can always find me at localghost.dev - subscribe to my RSS feed!"
+    } ],
+    "published" : [ "2022-11-14T20:25:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1592252460944740352" ],
+    "url" : [ "https://twitter.com/type__error/status/1592252460944740352" ]
+  },
+  "type" : [ "h-entry" ]
+}
