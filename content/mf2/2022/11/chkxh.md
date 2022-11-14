@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tveastman/status/1591865414954659843" ],
     "name" : [ "Like of @tveastman's tweet" ],
     "published" : [ "2022-11-14T19:18:00+0000" ],
     "like-of" : [ "https://twitter.com/tveastman/status/1591865414954659843" ],
