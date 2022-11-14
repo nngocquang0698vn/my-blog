@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ruththeartist/status/1591888504749166592" ],
     "name" : [ "Like of @ruththeartist's tweet" ],
     "published" : [ "2022-11-14T08:30:00+0000" ],
     "like-of" : [ "https://twitter.com/ruththeartist/status/1591888504749166592" ],
