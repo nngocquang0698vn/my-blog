@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Cartoonbrains/status/1592233920036315138" ],
     "name" : [ "Like of @Cartoonbrains's tweet" ],
     "published" : [ "2022-11-14T21:29:00+0000" ],
     "like-of" : [ "https://twitter.com/Cartoonbrains/status/1592233920036315138" ],
