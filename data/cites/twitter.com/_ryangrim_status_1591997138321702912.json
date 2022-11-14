@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "washington" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Grim" ],
+        "nickname" : [ "ryangrim" ],
+        "numeric-id" : [ "16170253" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586438019422326784/06z_dvk-.jpg" ],
+        "published" : [ "2008-09-07T15:34:51+00:00" ],
+        "uid" : [ "tag:twitter.com:ryangrim" ],
+        "url" : [ "https://twitter.com/ryangrim", "https://theintercept.com/podcasts/deconstructed/", "http://ryangrimatgmail.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If SBF ends up destroying crypto maybe he was an effective altruist after all" ],
+    "published" : [ "2022-11-14T03:31:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1591997138321702912" ],
+    "url" : [ "https://twitter.com/ryangrim/status/1591997138321702912" ]
+  },
+  "type" : [ "h-entry" ]
+}
