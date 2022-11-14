@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ohhoe/status/1592208188497358848" ],
     "name" : [ "Like of @ohhoe's tweet" ],
     "published" : [ "2022-11-14T17:47:00+0000" ],
     "like-of" : [ "https://twitter.com/ohhoe/status/1592208188497358848" ],
