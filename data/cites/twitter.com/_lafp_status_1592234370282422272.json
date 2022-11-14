@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "L. Pereira" ],
+        "nickname" : [ "lafp" ],
+        "numeric-id" : [ "14276303" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1564680649801605123/T7GHCnqZ.jpg" ],
+        "published" : [ "2008-04-01T17:07:59+00:00" ],
+        "uid" : [ "tag:twitter.com:lafp" ],
+        "url" : [ "https://twitter.com/lafp", "https://tia.mat.br" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In the unlikelihood you've been using Twitter to log onto other websites (OAuth et al), now it might be a good idea to stop doing that." ],
+    "published" : [ "2022-11-14T19:13:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1592234370282422272" ],
+    "url" : [ "https://twitter.com/lafp/status/1592234370282422272" ]
+  },
+  "type" : [ "h-entry" ]
+}
