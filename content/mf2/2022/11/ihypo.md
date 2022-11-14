@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FairywrenTech/status/1592191371590631424" ],
     "name" : [ "Like of @FairywrenTech's tweet" ],
     "published" : [ "2022-11-14T21:30:00+0000" ],
     "like-of" : [ "https://twitter.com/FairywrenTech/status/1592191371590631424" ],
