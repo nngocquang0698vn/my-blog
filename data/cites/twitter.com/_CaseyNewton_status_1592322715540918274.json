@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Casey Newton" ],
+        "nickname" : [ "CaseyNewton" ],
+        "numeric-id" : [ "69426451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX.jpg" ],
+        "published" : [ "2009-08-27T22:37:09+00:00" ],
+        "uid" : [ "tag:twitter.com:CaseyNewton" ],
+        "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">NEW: On Nov. 1, Twitter’s trust and safety team prepared a 7-page document warning Musk and his team about exactly how the rollout of the new “verified” badge would go wrong. \n\nThey were ignored. \n\nAnd then their fears came true\n\nWith <a href=\"https://twitter.com/ZoeSchiffer\">@ZoeSchiffer</a> \n\n<a href=\"https://www.platformer.news/p/elon-only-trusts-elon\">platformer.news/p/elon-only-tr…</a></div>",
+      "value" : "NEW: On Nov. 1, Twitter’s trust and safety team prepared a 7-page document warning Musk and his team about exactly how the rollout of the new “verified” badge would go wrong. \n\nThey were ignored. \n\nAnd then their fears came true\n\nWith @ZoeSchiffer \n\nplatformer.news/p/elon-only-tr…"
+    } ],
+    "photo" : [ {
+      "alt" : "Days before the Nov. 9 launch, the company’s trust and safety team had prepared a seven-page list of recommendations intended to help Musk avoid the most obvious and damaging consequences of his plans for Blue. The document, which was obtained by Platformer, predicts with eerie accuracy some of the events that follow.\n\n“Motivated scammers/bad actors could be willing to pay … to leverage increased amplification to achieve their ends where their upside exceeds the cost,” reads the document’s first recommendation, which the team labeled “P0” to denote a concern in the highest risk category. \n\n“Impersonation of world leaders, advertisers, brand partners, election officials, and other high profile individuals” represented another P0 risk, the team found. “Legacy verification provides a critical signal in enforcing impersonation rules, the loss of which is likely to lead to an increase in impersonation of high-profile accounts on Twitter.”",
+      "value" : "https://pbs.twimg.com/media/FhkREi1UYAAsZl4.jpg"
+    } ],
+    "published" : [ "2022-11-15T01:04:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1592322715540918274" ],
+    "url" : [ "https://twitter.com/CaseyNewton/status/1592322715540918274" ]
+  },
+  "type" : [ "h-entry" ]
+}
