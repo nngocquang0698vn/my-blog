@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">At better tech companies, meritocracy is a given, including pointing out incorrect arguments your boss made *with facts*. And yes, I’ve seen this happen in public enough settings (eg all hands).\n\nA leader wanting to have a culture of meritocracy would handle this different.</div>",
+        "value" : "At better tech companies, meritocracy is a given, including pointing out incorrect arguments your boss made *with facts*. And yes, I’ve seen this happen in public enough settings (eg all hands).\n\nA leader wanting to have a culture of meritocracy would handle this different."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1592427163097014272" ],
+      "published" : [ "2022-11-15T08:13:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1592430554750013441" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1592430554750013441" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gergelyorosz/s…" ],
+      "url" : [ "https://twitter.com/gergelyorosz/status/1592430554750013441" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "danielle 🏳️‍🌈" ],
+        "nickname" : [ "endocrimes" ],
+        "numeric-id" : [ "233679538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410271158759460870/UIMDFj6r.jpg" ],
+        "published" : [ "2011-01-03T21:14:17+00:00" ],
+        "uid" : [ "tag:twitter.com:endocrimes" ],
+        "url" : [ "https://twitter.com/endocrimes", "https://github.com/endocrimes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“Meritocracy is a given”\n\nah yes, notably a thing that exists especially in the tech industry 🤣🤣🤣</div>\n<a class=\"tag\" href=\"https://twitter.com/gergelyorosz/status/1592430554750013441\">twitter.com/gergelyorosz/s…</a>",
+      "value" : "“Meritocracy is a given”\n\nah yes, notably a thing that exists especially in the tech industry 🤣🤣🤣"
+    } ],
+    "published" : [ "2022-11-15T09:49:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1592454762087469056" ],
+    "url" : [ "https://twitter.com/endocrimes/status/1592454762087469056" ]
+  },
+  "type" : [ "h-entry" ]
+}
