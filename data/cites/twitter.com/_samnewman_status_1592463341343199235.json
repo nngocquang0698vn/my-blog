@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Newman" ],
+        "nickname" : [ "samnewman" ],
+        "numeric-id" : [ "6108292" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/585298659589267456/xAPhHpWz.jpg" ],
+        "published" : [ "2007-05-17T14:06:38+00:00" ],
+        "uid" : [ "tag:twitter.com:samnewman" ],
+        "url" : [ "https://twitter.com/samnewman", "https://samnewman.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "So if you’ve just purchased a company that uses microservices and want to understand what the hell they are, and whether or not turning them off randomly will cause issues, this might be helpful:   <a href=\"https://samnewman.io/books/building_microservices_2nd_edition/\">samnewman.io/books/building…</a>",
+      "value" : "So if you’ve just purchased a company that uses microservices and want to understand what the hell they are, and whether or not turning them off randomly will cause issues, this might be helpful:   samnewman.io/books/building…"
+    } ],
+    "published" : [ "2022-11-15T10:23:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1592463341343199235" ],
+    "url" : [ "https://twitter.com/samnewman/status/1592463341343199235" ]
+  },
+  "type" : [ "h-entry" ]
+}
