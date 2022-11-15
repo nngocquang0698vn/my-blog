@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Dan Kim" ],
+          "nickname" : [ "dankim" ],
+          "numeric-id" : [ "7979212" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1588611098114244610/1disYcSO.jpg" ],
+          "published" : [ "2007-08-05T21:47:14+00:00" ],
+          "uid" : [ "tag:twitter.com:dankim" ],
+          "url" : [ "https://twitter.com/dankim", "http://dankim.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "How to be the ultimate professional and still utterly destroy someone, a masterclass by <a href=\"https://twitter.com/EricFrohnhoefer\">@EricFrohnhoefer</a>",
+        "value" : "How to be the ultimate professional and still utterly destroy someone, a masterclass by @EricFrohnhoefer"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FhhaMrRXgAcwn28.jpg" ],
+      "published" : [ "2022-11-14T11:45:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1592121646697037827" ],
+      "url" : [ "https://twitter.com/dankim/status/1592121646697037827" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">In the backchannels I have with software engineers, the act of firing a respected engineer after he publicly responded to Elon criticising Twitter’s engineering team - and explaining choices - broke the straw with many.\n\nIt’s a chilling message. Contradict Elon and you’re fired.</div>",
+      "value" : "In the backchannels I have with software engineers, the act of firing a respected engineer after he publicly responded to Elon criticising Twitter’s engineering team - and explaining choices - broke the straw with many.\n\nIt’s a chilling message. Contradict Elon and you’re fired."
+    } ],
+    "published" : [ "2022-11-14T22:41:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1592286605024415744" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1592286605024415744" ]
+  },
+  "type" : [ "h-entry" ]
+}
