@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlisonLeiby/status/1592603468534935552" ],
     "name" : [ "Like of @AlisonLeiby's tweet" ],
     "published" : [ "2022-11-15T22:24:00+0000" ],
     "like-of" : [ "https://twitter.com/AlisonLeiby/status/1592603468534935552" ],
