@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592177471654604800" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "rabbit hole" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sheon Han" ],
+        "nickname" : [ "sheonhan" ],
+        "numeric-id" : [ "704631919921623040" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589551161979199488/Xhbn9k2G.jpg" ],
+        "published" : [ "2016-03-01T11:38:35+00:00" ],
+        "uid" : [ "tag:twitter.com:sheonhan" ],
+        "url" : [ "https://twitter.com/sheonhan", "https://sheon.tk/about" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "As a Twitter engineer working on a number of those microservices, I'm predicting a massive outage in the next few days if 80% are turned down\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592177471654604800\">twitter.com/elonmusk/statu…</a>",
+      "value" : "As a Twitter engineer working on a number of those microservices, I'm predicting a massive outage in the next few days if 80% are turned down"
+    } ],
+    "published" : [ "2022-11-14T17:33:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1592209112997466113" ],
+    "url" : [ "https://twitter.com/sheonhan/status/1592209112997466113" ]
+  },
+  "type" : [ "h-entry" ]
+}
