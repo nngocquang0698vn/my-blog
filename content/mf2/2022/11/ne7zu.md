@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/christapeterso/status/1592317592966168576" ],
     "name" : [ "Like of @christapeterso's tweet" ],
     "published" : [ "2022-11-15T07:57:00+0000" ],
     "like-of" : [ "https://twitter.com/christapeterso/status/1592317592966168576" ],
