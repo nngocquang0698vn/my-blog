@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ctrlshifti/status/1592632486504587266" ],
     "name" : [ "Like of @ctrlshifti's tweet" ],
     "published" : [ "2022-11-15T22:23:00+0000" ],
     "like-of" : [ "https://twitter.com/ctrlshifti/status/1592632486504587266" ],
