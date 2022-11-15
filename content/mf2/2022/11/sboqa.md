@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kyleshevlin/status/1592405025200181249" ],
     "name" : [ "Like of @kyleshevlin's tweet" ],
     "published" : [ "2022-11-15T07:59:00+0000" ],
     "like-of" : [ "https://twitter.com/kyleshevlin/status/1592405025200181249" ],
