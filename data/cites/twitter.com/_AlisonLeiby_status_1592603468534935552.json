@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Louis CK and Dave Chappelle have both been nominated for best comedy album at the <a href=\"https://twitter.com/search?q=%23GRAMMYS\">#GRAMMYS</a>. <a href=\"https://bit.ly/3hMDKer\">bit.ly/3hMDKer</a> <a href=\"https://twitter.com/i/web/status/1592575546680315904\">twitter.com/i/web/status/1…</a>",
+        "value" : "Louis CK and Dave Chappelle have both been nominated for best comedy album at the #GRAMMYS. bit.ly/3hMDKer twitter.com/i/web/status/1…"
+      } ],
+      "published" : [ "2022-11-15T17:49:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1592575546680315904" ],
+      "url" : [ "https://twitter.com/Variety/status/1592575546680315904" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alison Leiby" ],
+        "nickname" : [ "AlisonLeiby" ],
+        "numeric-id" : [ "186935853" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1564461326390497280/t8bIATD6.jpg" ],
+        "published" : [ "2010-09-04T20:20:47+00:00" ],
+        "uid" : [ "tag:twitter.com:AlisonLeiby" ],
+        "url" : [ "https://twitter.com/AlisonLeiby", "https://www.ohgodshow.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "very cool industry, no notes! also, no women nominees lol." ],
+    "published" : [ "2022-11-15T19:40:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1592603468534935552" ],
+    "url" : [ "https://twitter.com/AlisonLeiby/status/1592603468534935552" ]
+  },
+  "type" : [ "h-entry" ]
+}
