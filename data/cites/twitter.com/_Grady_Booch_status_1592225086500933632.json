@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592186302379982849" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A bold move, to fire key developers who understand Twitter’s codebase and speak truth to your power.\n\nElon is the most incompetent and toxic manager of any software-intensive system than I have ever seen (and in my many years of experience I have seen quite a few).</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592186302379982849\">twitter.com/elonmusk/statu…</a>",
+      "value" : "A bold move, to fire key developers who understand Twitter’s codebase and speak truth to your power.\n\nElon is the most incompetent and toxic manager of any software-intensive system than I have ever seen (and in my many years of experience I have seen quite a few)."
+    } ],
+    "published" : [ "2022-11-14T18:36:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1592225086500933632" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1592225086500933632" ]
+  },
+  "type" : [ "h-entry" ]
+}
