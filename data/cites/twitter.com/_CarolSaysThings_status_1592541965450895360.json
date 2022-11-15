@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/thejasonkirk/status/1592503024328609792\">@thejasonkirk</a> \"Download your twitter archives now, so you can look at your old posts\" is a call to action that does not fill me with urgency"
+    } ],
+    "published" : [ "2022-11-15T15:36:07+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Atlanta ✈ Laniakea" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "https://linktr.ee/jasonkirk" ],
+            "nickname" : [ "thejasonkirk" ],
+            "numeric-id" : [ "8040282" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1570142119070777346/EPtUPror.jpg" ],
+            "published" : [ "2007-08-07T22:43:19+00:00" ],
+            "uid" : [ "tag:twitter.com:thejasonkirk" ],
+            "url" : [ "https://twitter.com/thejasonkirk", "https://linktr.ee/jasonkirk" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "\"Download your twitter archives now, so you can look at your old posts\" is a call to action that does not fill me with urgency" ],
+        "published" : [ "2022-11-15T13:01:22+00:00" ],
+        "uid" : [ "tag:twitter.com:1592503024328609792" ],
+        "url" : [ "https://twitter.com/thejasonkirk/status/1592503024328609792" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1592541965450895360" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1592541965450895360" ]
+  },
+  "type" : [ "h-entry" ]
+}
