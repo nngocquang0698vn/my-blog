@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jmalk/status/1592473160825573376" ],
     "name" : [ "Like of @jmalk's tweet" ],
     "published" : [ "2022-11-15T12:23:00+0000" ],
     "like-of" : [ "https://twitter.com/jmalk/status/1592473160825573376" ],
