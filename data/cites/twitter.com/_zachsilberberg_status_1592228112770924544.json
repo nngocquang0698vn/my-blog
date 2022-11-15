@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1592177471654604800" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/him NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "zach silberberg" ],
+        "nickname" : [ "zachsilberberg" ],
+        "numeric-id" : [ "830387870" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565499012970586113/PvnQa1-f.jpg" ],
+        "published" : [ "2012-09-18T05:00:12+00:00" ],
+        "uid" : [ "tag:twitter.com:zachsilberberg" ],
+        "url" : [ "https://twitter.com/zachsilberberg", "http://instagram.com/zachsilberberg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "apparently they didnt turn off 2-factor authentication but they DID turn off the service that sends you the 2-factor authentication code. so if you log out and try to log in with an authentication code you simply wont receive one. lol. lmao\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1592177471654604800\">twitter.com/elonmusk/statu…</a>",
+      "value" : "apparently they didnt turn off 2-factor authentication but they DID turn off the service that sends you the 2-factor authentication code. so if you log out and try to log in with an authentication code you simply wont receive one. lol. lmao"
+    } ],
+    "published" : [ "2022-11-14T18:48:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1592228112770924544" ],
+    "url" : [ "https://twitter.com/zachsilberberg/status/1592228112770924544" ]
+  },
+  "type" : [ "h-entry" ]
+}
