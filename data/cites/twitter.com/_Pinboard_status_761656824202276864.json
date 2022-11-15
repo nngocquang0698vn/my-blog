@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulevard of broken dreams" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pinboard" ],
+        "nickname" : [ "Pinboard" ],
+        "numeric-id" : [ "55525953" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293623146763804674/_JlO5dQw.jpg" ],
+        "published" : [ "2009-07-10T10:24:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Pinboard" ],
+        "url" : [ "https://twitter.com/Pinboard", "https://pinboard.in", "http://pinboard.in" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Programmers’ Credo: we do these things not because they are easy, but because we thought they were going to be easy" ],
+    "published" : [ "2016-08-05T20:15:12+00:00" ],
+    "uid" : [ "tag:twitter.com:761656824202276864" ],
+    "url" : [ "https://twitter.com/Pinboard/status/761656824202276864" ]
+  },
+  "type" : [ "h-entry" ]
+}
