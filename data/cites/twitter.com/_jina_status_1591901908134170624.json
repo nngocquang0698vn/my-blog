@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Alameda, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jina @ #clarity2022" ],
+        "nickname" : [ "jina" ],
+        "numeric-id" : [ "8501792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591210717893562370/qK6J0oaA.jpg" ],
+        "published" : [ "2007-08-29T03:14:08+00:00" ],
+        "uid" : [ "tag:twitter.com:jina" ],
+        "url" : [ "https://twitter.com/jina", "https://linkin.bio/jina" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Just because academia does it a certain way doesn't mean it's right.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/piccalilli_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/podperson\"></a>",
+      "value" : "Just because academia does it a certain way doesn't mean it's right."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/podperson/status/1591870451785293824" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "New Orleans, LA" ],
+        "uid" : [ "tag:twitter.com:dd3b100831dd1763" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-11-13T21:12:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1591901908134170624" ],
+    "url" : [ "https://twitter.com/jina/status/1591901908134170624" ]
+  },
+  "type" : [ "h-entry" ]
+}
