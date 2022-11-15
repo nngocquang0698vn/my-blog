@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessevondoom/status/1592262105503502336" ],
     "name" : [ "Like of @jessevondoom's tweet" ],
     "published" : [ "2022-11-15T07:59:00+0000" ],
     "like-of" : [ "https://twitter.com/jessevondoom/status/1592262105503502336" ],
