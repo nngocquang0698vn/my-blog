@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nashville, Tennessee" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Colin Wright" ],
+          "nickname" : [ "SwipeWright" ],
+          "numeric-id" : [ "1009716150895341568" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1520907012602839041/ux2O3s7b.jpg" ],
+          "published" : [ "2018-06-21T08:34:24+00:00" ],
+          "uid" : [ "tag:twitter.com:SwipeWright" ],
+          "url" : [ "https://twitter.com/SwipeWright", "https://www.realityslaststand.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Biological sex is real, immutable, and binary." ],
+      "published" : [ "2022-11-13T22:53:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1591927238848819200" ],
+      "url" : [ "https://twitter.com/SwipeWright/status/1591927238848819200" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Sean Carroll" ],
+        "nickname" : [ "seanmcarroll" ],
+        "numeric-id" : [ "21611239" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1080212821831372800/kuD8Y01v.jpg" ],
+        "published" : [ "2009-02-22T23:35:54+00:00" ],
+        "uid" : [ "tag:twitter.com:seanmcarroll" ],
+        "url" : [ "https://twitter.com/seanmcarroll", "http://preposterousuniverse.com/", "https://fediscience.org/web/@seanmcarroll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Actual science would like a word. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FhiEfdqWAAEE24M.jpg" ],
+    "published" : [ "2022-11-14T14:50:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1592168158865281025" ],
+    "url" : [ "https://twitter.com/seanmcarroll/status/1592168158865281025" ]
+  },
+  "type" : [ "h-entry" ]
+}
