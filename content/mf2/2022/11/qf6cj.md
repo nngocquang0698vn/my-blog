@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eliotlu95/status/1592425377955459072" ],
     "name" : [ "Like of @eliotlu95's tweet" ],
     "published" : [ "2022-11-15T07:57:00+0000" ],
     "like-of" : [ "https://twitter.com/eliotlu95/status/1592425377955459072" ],
