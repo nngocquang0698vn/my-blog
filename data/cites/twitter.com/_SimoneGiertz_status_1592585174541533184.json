@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simone Giertz" ],
+        "nickname" : [ "SimoneGiertz" ],
+        "numeric-id" : [ "897861037" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/820864074577645568/Kr_wKdtf.jpg" ],
+        "published" : [ "2012-10-22T15:49:09+00:00" ],
+        "uid" : [ "tag:twitter.com:SimoneGiertz" ],
+        "url" : [ "https://twitter.com/SimoneGiertz", "https://www.youtube.com/simonegiertz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CaseyNewton\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CaseyNewton/status/1592574667470307328" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fhn_xIYUAAEe9OG.jpg" ],
+    "published" : [ "2022-11-15T18:27:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1592585174541533184" ],
+    "url" : [ "https://twitter.com/SimoneGiertz/status/1592585174541533184" ]
+  },
+  "type" : [ "h-entry" ]
+}
