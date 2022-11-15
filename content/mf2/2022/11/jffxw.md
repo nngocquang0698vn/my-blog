@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sandofsky/status/1592223884107218944" ],
     "name" : [ "Like of @sandofsky's tweet" ],
     "published" : [ "2022-11-15T07:45:00+0000" ],
     "like-of" : [ "https://twitter.com/sandofsky/status/1592223884107218944" ],
