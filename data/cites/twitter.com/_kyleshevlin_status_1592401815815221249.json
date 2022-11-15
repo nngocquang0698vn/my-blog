@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ya know, if I wasn’t so bad at systems design interviews (it’s always these that ruin me), I might have gotten an offer from Twitter at the start of the year, and right now would have been a VERY different experience.\n\nSometimes you have to be thankful for what you failed at.</div>",
+      "value" : "Ya know, if I wasn’t so bad at systems design interviews (it’s always these that ruin me), I might have gotten an offer from Twitter at the start of the year, and right now would have been a VERY different experience.\n\nSometimes you have to be thankful for what you failed at."
+    } ],
+    "published" : [ "2022-11-15T06:19:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1592401815815221249" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1592401815815221249" ]
+  },
+  "type" : [ "h-entry" ]
+}
