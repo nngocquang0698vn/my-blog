@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/laurieontech/status/1592633586032979968" ],
     "name" : [ "Like of @laurieontech's tweet" ],
     "published" : [ "2022-11-15T22:16:00+0000" ],
     "like-of" : [ "https://twitter.com/laurieontech/status/1592633586032979968" ],
