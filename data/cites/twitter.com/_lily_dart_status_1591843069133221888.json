@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lily Dart" ],
+        "nickname" : [ "lily_dart" ],
+        "numeric-id" : [ "40762748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/926428958417129472/mJB87BBk.jpg" ],
+        "published" : [ "2009-05-17T23:38:39+00:00" ],
+        "uid" : [ "tag:twitter.com:lily_dart" ],
+        "url" : [ "https://twitter.com/lily_dart", "http://www.lilydart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Which conference has spurred this? I have a seen a few tweets along these lines\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/piccalilli_\"></a>",
+      "value" : "Which conference has spurred this? I have a seen a few tweets along these lines"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/piccalilli_/status/1591795575296589824" ],
+    "published" : [ "2022-11-13T17:18:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1591843069133221888" ],
+    "url" : [ "https://twitter.com/lily_dart/status/1591843069133221888" ]
+  },
+  "type" : [ "h-entry" ]
+}
