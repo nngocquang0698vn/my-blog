@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomdale/status/1592535974088957955" ],
     "name" : [ "Like of @tomdale's tweet" ],
     "published" : [ "2022-11-15T18:03:00+0000" ],
     "like-of" : [ "https://twitter.com/tomdale/status/1592535974088957955" ],
