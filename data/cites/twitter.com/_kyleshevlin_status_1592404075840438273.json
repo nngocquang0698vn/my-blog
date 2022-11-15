@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Them: How would you design the microservice architecture of this feature??\n\nMe: I’ve got no clue. I’ve written like 2 SQL queries in my whole life without an ORM. But I can center a div in every conceivable way! Plus, I’m like super good at React, yo. 🤷🏼‍♂️</div>",
+      "value" : "Them: How would you design the microservice architecture of this feature??\n\nMe: I’ve got no clue. I’ve written like 2 SQL queries in my whole life without an ORM. But I can center a div in every conceivable way! Plus, I’m like super good at React, yo. 🤷🏼‍♂️"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kyleshevlin/status/1592401815815221249" ],
+    "published" : [ "2022-11-15T06:28:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1592404075840438273" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1592404075840438273" ]
+  },
+  "type" : [ "h-entry" ]
+}
