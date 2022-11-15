@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheTweetOfGod/status/1592323229313486848" ],
     "name" : [ "Like of @TheTweetOfGod's tweet" ],
     "published" : [ "2022-11-15T07:58:00+0000" ],
     "like-of" : [ "https://twitter.com/TheTweetOfGod/status/1592323229313486848" ],
