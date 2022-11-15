@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/piccalilli_/status/1591795575296589824" ],
     "name" : [ "Like of @piccalilli_'s tweet" ],
     "published" : [ "2022-11-15T10:32:00+0000" ],
     "like-of" : [ "https://twitter.com/piccalilli_/status/1591795575296589824" ],
