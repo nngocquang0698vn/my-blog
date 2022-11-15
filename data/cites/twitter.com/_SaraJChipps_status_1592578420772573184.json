@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tom Dale" ],
+          "nickname" : [ "tomdale" ],
+          "numeric-id" : [ "668863" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1317834118/avatar.png" ],
+          "published" : [ "2007-01-20T00:04:26+00:00" ],
+          "uid" : [ "tag:twitter.com:tomdale" ],
+          "url" : [ "https://twitter.com/tomdale", "http://tomdale.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Watching Elon operate in a domain I have some familiarity with has put me off ever wanting to own a Tesla." ],
+      "published" : [ "2022-11-15T15:12:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1592535974088957955" ],
+      "url" : [ "https://twitter.com/tomdale/status/1592535974088957955" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sarajo" ],
+        "nickname" : [ "SaraJChipps" ],
+        "numeric-id" : [ "15524875" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489734805092720643/Roq4DASl.jpg" ],
+        "published" : [ "2008-07-22T02:26:37+00:00" ],
+        "uid" : [ "tag:twitter.com:SaraJChipps" ],
+        "url" : [ "https://twitter.com/SaraJChipps", "http://Jewelbots.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Same. I was hyped to get one as our next car (unbeknownst to my husband)." ],
+    "published" : [ "2022-11-15T18:00:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1592578420772573184" ],
+    "url" : [ "https://twitter.com/SaraJChipps/status/1592578420772573184" ]
+  },
+  "type" : [ "h-entry" ]
+}
