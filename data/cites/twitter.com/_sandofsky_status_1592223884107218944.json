@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Sandofsky" ],
+        "nickname" : [ "sandofsky" ],
+        "numeric-id" : [ "699463" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1421519225298903047/w8vlWgD-.jpg" ],
+        "published" : [ "2007-01-25T07:21:42+00:00" ],
+        "uid" : [ "tag:twitter.com:sandofsky" ],
+        "url" : [ "https://twitter.com/sandofsky", "https://halide.cam/download" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">12 years ago, Twitter’s office used a Mac Mini to tunnel into the servers. One day, an IT guy found it in the closet. \n\n“Anyone know who owns this?”\n\n“Unplug it. Someone will show up.”\n\nEveryone lost access to servers. Huge crisis. It became known as the “Load Bearing Mac Mini.”</div>",
+      "value" : "12 years ago, Twitter’s office used a Mac Mini to tunnel into the servers. One day, an IT guy found it in the closet. \n\n“Anyone know who owns this?”\n\n“Unplug it. Someone will show up.”\n\nEveryone lost access to servers. Huge crisis. It became known as the “Load Bearing Mac Mini.”"
+    } ],
+    "published" : [ "2022-11-14T18:32:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1592223884107218944" ],
+    "url" : [ "https://twitter.com/sandofsky/status/1592223884107218944" ]
+  },
+  "type" : [ "h-entry" ]
+}
