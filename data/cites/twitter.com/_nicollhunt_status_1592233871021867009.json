@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London-ish" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nicoll Hunt" ],
+          "nickname" : [ "nicollhunt" ],
+          "numeric-id" : [ "277173619" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/683981419933241344/kbC6DLK3.png" ],
+          "published" : [ "2011-04-04T21:04:14+00:00" ],
+          "uid" : [ "tag:twitter.com:nicollhunt" ],
+          "url" : [ "https://twitter.com/nicollhunt", "http://ifightbears.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I regret nothing" ],
+      "photo" : [ "https://pbs.twimg.com/media/EtyN1s2XMAATJb6.jpg" ],
+      "published" : [ "2021-02-09T12:30:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1359117386582999043" ],
+      "url" : [ "https://twitter.com/nicollhunt/status/1359117386582999043" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicoll Hunt" ],
+        "nickname" : [ "nicollhunt" ],
+        "numeric-id" : [ "277173619" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/683981419933241344/kbC6DLK3.png" ],
+        "published" : [ "2011-04-04T21:04:14+00:00" ],
+        "uid" : [ "tag:twitter.com:nicollhunt" ],
+        "url" : [ "https://twitter.com/nicollhunt", "http://ifightbears.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I absolutely regret this" ],
+    "published" : [ "2022-11-14T19:11:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1592233871021867009" ],
+    "url" : [ "https://twitter.com/nicollhunt/status/1592233871021867009" ]
+  },
+  "type" : [ "h-entry" ]
+}
