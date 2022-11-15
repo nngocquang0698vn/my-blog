@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jmalk" ],
+        "nickname" : [ "jmalk" ],
+        "numeric-id" : [ "21922257" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2452756161/9h6ceh9ssrlkm0ww16y2.jpeg" ],
+        "published" : [ "2009-02-25T21:32:38+00:00" ],
+        "uid" : [ "tag:twitter.com:jmalk" ],
+        "url" : [ "https://twitter.com/jmalk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Goblin mode =&gt; great code\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarolSaysThings\"></a>",
+      "value" : "Goblin mode => great code"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1592469731789131776" ],
+    "published" : [ "2022-11-15T11:02:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1592473160825573376" ],
+    "url" : [ "https://twitter.com/jmalk/status/1592473160825573376" ]
+  },
+  "type" : [ "h-entry" ]
+}
