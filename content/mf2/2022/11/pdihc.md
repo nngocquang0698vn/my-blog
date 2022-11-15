@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CaseyNewton/status/1592322715540918274" ],
     "name" : [ "Like of @CaseyNewton's tweet" ],
     "published" : [ "2022-11-15T08:00:00+0000" ],
     "like-of" : [ "https://twitter.com/CaseyNewton/status/1592322715540918274" ],
