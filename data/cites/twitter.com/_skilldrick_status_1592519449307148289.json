@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nick Morgan (parody)" ],
+        "nickname" : [ "skilldrick" ],
+        "numeric-id" : [ "17736965" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592284277340745729/2_y2nclm.jpg" ],
+        "published" : [ "2008-11-29T16:31:56+00:00" ],
+        "uid" : [ "tag:twitter.com:skilldrick" ],
+        "url" : [ "https://twitter.com/skilldrick", "http://skilldrick.co.uk", "http://cohost.org/skilldrick", "http://macaw.social/@skilldrick" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "🫡" ],
+    "photo" : [ {
+      "alt" : "Termination email to me from Twitter",
+      "value" : "https://pbs.twimg.com/media/FhnD_39UcAAin1a.jpg"
+    } ],
+    "published" : [ "2022-11-15T14:06:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1592519449307148289" ],
+    "url" : [ "https://twitter.com/skilldrick/status/1592519449307148289" ]
+  },
+  "type" : [ "h-entry" ]
+}
