@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stocktalkweekly/status/1592918089771134978" ],
     "name" : [ "Like of @stocktalkweekly's tweet" ],
     "published" : [ "2022-11-16T22:59:00+0000" ],
     "like-of" : [ "https://twitter.com/stocktalkweekly/status/1592918089771134978" ],
