@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://fedi.simonwillison.net/@simon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm honestly having trouble imagining a viable future Twitter alternative that isn't part of the fediverse (Mastodon is currently just the most visible implementation)\n\nAre we really all going to trust some new centralized startup, after how badly we got burned on Twitter?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/editingemily\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wongmjane\"></a>",
+      "value" : "I'm honestly having trouble imagining a viable future Twitter alternative that isn't part of the fediverse (Mastodon is currently just the most visible implementation)\n\nAre we really all going to trust some new centralized startup, after how badly we got burned on Twitter?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/wongmjane/status/1592267283392757760" ],
+    "published" : [ "2022-11-16T00:07:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1592670558277488640" ],
+    "url" : [ "https://twitter.com/simonw/status/1592670558277488640" ]
+  },
+  "type" : [ "h-entry" ]
+}
