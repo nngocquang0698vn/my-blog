@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Here's how I used to run our weekly team meeting while I was at Uber.\n\nI tried to cut down on as many meetings as possible. I found that this meeting: about 45-60 minutes/week was key to everyone being on the same page. And for engineers to be aware of business &amp; product.</div>",
+      "value" : "Here's how I used to run our weekly team meeting while I was at Uber.\n\nI tried to cut down on as many meetings as possible. I found that this meeting: about 45-60 minutes/week was key to everyone being on the same page. And for engineers to be aware of business & product."
+    } ],
+    "photo" : [ {
+      "alt" : "Intro\nPersonal wins (sometimes)\nHighlights\nLowlights\nGIF of the week\nThanks for people / from people\nWhat’s Going On\nUber-wide\nAmsterdam-wide\nTeam-wide\nProduct updates & discussion\nDesign updates\nSupport engineering updates\nProjects\nOverview of all projects: who, ship date\nEach project\nLast week\nWhere we are\nThis week\nRoundtable\nTopics added by anyone on the team!\n",
+      "value" : "https://pbs.twimg.com/media/FPLltJeWQAEMEE4.jpg"
+    } ],
+    "published" : [ "2022-03-31T13:22:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1509521436439941125" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1509521436439941125" ]
+  },
+  "type" : [ "h-entry" ]
+}
