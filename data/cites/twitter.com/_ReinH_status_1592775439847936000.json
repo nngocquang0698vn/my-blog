@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Frank McGovern" ],
+          "nickname" : [ "FrankMcG" ],
+          "numeric-id" : [ "863115334085160960" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1157277713981423616/sHURYdg3.jpg" ],
+          "published" : [ "2017-05-12T19:35:06+00:00" ],
+          "uid" : [ "tag:twitter.com:FrankMcG" ],
+          "url" : [ "https://twitter.com/FrankMcG", "https://www.frankmcg.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">People will stan a CEO billionaire that is PUBLICLY SHITTING on his own team but then call out employees for responding to that PUBLIC SHITTING in a defensive way. Amazing.\n\nIf my manager publicly shit on my work on here, you’re god damn right I would yeet my job into space.</div>",
+        "value" : "People will stan a CEO billionaire that is PUBLICLY SHITTING on his own team but then call out employees for responding to that PUBLIC SHITTING in a defensive way. Amazing.\n\nIf my manager publicly shit on my work on here, you’re god damn right I would yeet my job into space."
+      } ],
+      "published" : [ "2022-11-16T00:45:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1592680120866996225" ],
+      "url" : [ "https://twitter.com/FrankMcG/status/1592680120866996225" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "normalize the yeeting of jobs into space" ],
+    "published" : [ "2022-11-16T07:03:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1592775439847936000" ],
+    "url" : [ "https://twitter.com/ReinH/status/1592775439847936000" ]
+  },
+  "type" : [ "h-entry" ]
+}
