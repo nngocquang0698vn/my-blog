@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Scoop: Elon Musk just sent an email to all staff outlining \"Twitter 2.0\", writing it will\"need to be extremely hardcore\". Long hours, high intensity. \n\nPeople need to click \"yes\" to confirm being part of this by 5pm ET tomorrow, else they get 3 months severance. More details:</div>",
+        "value" : "Scoop: Elon Musk just sent an email to all staff outlining \"Twitter 2.0\", writing it will\"need to be extremely hardcore\". Long hours, high intensity. \n\nPeople need to click \"yes\" to confirm being part of this by 5pm ET tomorrow, else they get 3 months severance. More details:"
+      } ],
+      "published" : [ "2022-11-16T08:46:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1592801188277538818" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1592801188277538818" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gergelyorosz/s…" ],
+      "url" : [ "https://twitter.com/gergelyorosz/status/1592801188277538818" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@dm@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DM of Engineering 🎲" ],
+        "nickname" : [ "dmofengineering" ],
+        "numeric-id" : [ "989316882422353921" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989319601245769728/Hirg-zWU.jpg" ],
+        "published" : [ "2018-04-26T01:35:00+00:00" ],
+        "uid" : [ "tag:twitter.com:dmofengineering" ],
+        "url" : [ "https://twitter.com/dmofengineering", "http://patreon.com/dmofengineering" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The teams to build Twitter 2.0\nare already forming.\nJust not inside Twitter.</div>\n<a class=\"tag\" href=\"https://twitter.com/gergelyorosz/status/1592801188277538818\">twitter.com/gergelyorosz/s…</a>",
+      "value" : "The teams to build Twitter 2.0\nare already forming.\nJust not inside Twitter."
+    } ],
+    "published" : [ "2022-11-16T14:14:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1592883716480638976" ],
+    "url" : [ "https://twitter.com/dmofengineering/status/1592883716480638976" ]
+  },
+  "type" : [ "h-entry" ]
+}
