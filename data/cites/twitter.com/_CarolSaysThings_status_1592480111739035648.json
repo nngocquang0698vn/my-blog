@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/settings/download_your_data\">twitter.com/settings/downl…</a>\n\nI don't this gives you all the info on your contacts, though. I'll take a look at pulling that with the api, and then I can do yours too if you want?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tessacooper5\"></a>",
+      "value" : "twitter.com/settings/downl…\n\nI don't this gives you all the info on your contacts, though. I'll take a look at pulling that with the api, and then I can do yours too if you want?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/tessacooper5/status/1592477870940884993" ],
+    "published" : [ "2022-11-15T11:30:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1592480111739035648" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1592480111739035648" ]
+  },
+  "type" : [ "h-entry" ]
+}
