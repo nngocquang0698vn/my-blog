@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Scoop: Elon Musk just sent an email to all staff outlining \"Twitter 2.0\", writing it will\"need to be extremely hardcore\". Long hours, high intensity. \n\nPeople need to click \"yes\" to confirm being part of this by 5pm ET tomorrow, else they get 3 months severance. More details:</div>",
+        "value" : "Scoop: Elon Musk just sent an email to all staff outlining \"Twitter 2.0\", writing it will\"need to be extremely hardcore\". Long hours, high intensity. \n\nPeople need to click \"yes\" to confirm being part of this by 5pm ET tomorrow, else they get 3 months severance. More details:"
+      } ],
+      "published" : [ "2022-11-16T08:46:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1592801188277538818" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1592801188277538818" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://mastodon.social/@shanselman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "In a perfect world this will be the building at 5:01 PM <a href=\"https://twitter.com/gergelyorosz/status/1592801188277538818\">twitter.com/gergelyorosz/s…</a>",
+      "value" : "In a perfect world this will be the building at 5:01 PM twitter.com/gergelyorosz/s…"
+    } ],
+    "published" : [ "2022-11-16T16:55:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1592924431424573440" ],
+    "url" : [ "https://twitter.com/shanselman/status/1592924431424573440" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fhs0UiEakAE_LLR.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
