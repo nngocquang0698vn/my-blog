@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/roberttheotter/status/1592524055009452033" ],
     "name" : [ "Like of @roberttheotter's tweet" ],
     "published" : [ "2022-11-16T07:46:00+0000" ],
     "like-of" : [ "https://twitter.com/roberttheotter/status/1592524055009452033" ],
