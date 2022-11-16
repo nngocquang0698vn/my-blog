@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Narnia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Broseph" ],
+        "nickname" : [ "oaklandDude" ],
+        "numeric-id" : [ "4891144633" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1416199935863648257/b4HuNi2F.jpg" ],
+        "published" : [ "2016-02-11T04:36:01+00:00" ],
+        "uid" : [ "tag:twitter.com:oaklandDude" ],
+        "url" : [ "https://twitter.com/oaklandDude" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I thought he was sleeping at the office oh wait that’s just his employees 🌈\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stocktalkweekly\"></a>",
+      "value" : "I thought he was sleeping at the office oh wait that’s just his employees 🌈"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/stocktalkweekly/status/1592918089771134978" ],
+    "published" : [ "2022-11-16T17:40:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1592935742292267008" ],
+    "url" : [ "https://twitter.com/oaklandDude/status/1592935742292267008" ]
+  },
+  "type" : [ "h-entry" ]
+}
