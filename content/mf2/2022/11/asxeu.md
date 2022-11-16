@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/steveklabnik/status/1592763764541394944" ],
     "name" : [ "Like of @steveklabnik's tweet" ],
     "published" : [ "2022-11-16T10:01:00+0000" ],
     "like-of" : [ "https://twitter.com/steveklabnik/status/1592763764541394944" ],
