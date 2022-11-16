@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Girona" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nico H" ],
+        "nickname" : [ "pnikosis" ],
+        "numeric-id" : [ "20786017" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582706776805412864/9odJRHLX.jpg" ],
+        "published" : [ "2009-02-13T17:04:56+00:00" ],
+        "uid" : [ "tag:twitter.com:pnikosis" ],
+        "url" : [ "https://twitter.com/pnikosis", "https://soundcloud.com/dr-notsokind" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Since people are asking\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "Since people are asking"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/pnikosis/status/1592802407301681152" ],
+    "photo" : [ {
+      "alt" : "We sent what appeared to be identical emails to all, but each was actually coded with either one or two spaces between sentences, forming a binary signature that identified the leaker. ",
+      "value" : "https://pbs.twimg.com/media/FhrYkW7XkAAgt-8.jpg"
+    } ],
+    "published" : [ "2022-11-16T10:15:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1592823543498436611" ],
+    "url" : [ "https://twitter.com/pnikosis/status/1592823543498436611" ]
+  },
+  "type" : [ "h-entry" ]
+}
