@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/digiphile/status/1592895138967453697" ],
     "name" : [ "Like of @digiphile's tweet" ],
     "published" : [ "2022-11-16T21:55:00+0000" ],
     "like-of" : [ "https://twitter.com/digiphile/status/1592895138967453697" ],
