@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/upblissed/status/1592657947665891328" ],
     "name" : [ "Like of @upblissed's tweet" ],
     "published" : [ "2022-11-16T18:03:00+0000" ],
     "like-of" : [ "https://twitter.com/upblissed/status/1592657947665891328" ],
