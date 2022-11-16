@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TierOnePoster/status/1592894071496142849" ],
     "name" : [ "Like of @TierOnePoster's tweet" ],
     "published" : [ "2022-11-16T15:26:00+0000" ],
     "like-of" : [ "https://twitter.com/TierOnePoster/status/1592894071496142849" ],
