@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "hokkaido" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "fbifemboy" ],
+          "nickname" : [ "0xfbifemboy" ],
+          "numeric-id" : [ "1476863905641033729" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1510041178917404672/42BOYbdJ.png" ],
+          "published" : [ "2021-12-31T10:33:20+00:00" ],
+          "uid" : [ "tag:twitter.com:0xfbifemboy" ],
+          "url" : [ "https://twitter.com/0xfbifemboy", "https://milkyeggs.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">In response to the New York Times' shameful coverage of the thief and liar Sam Bankman-Fried, Milky Eggs is  here to Correct the Record:\n\n<a href=\"https://milkyeggs.com/?p=175\">milkyeggs.com/?p=175</a></div>",
+        "value" : "In response to the New York Times' shameful coverage of the thief and liar Sam Bankman-Fried, Milky Eggs is  here to Correct the Record:\n\nmilkyeggs.com/?p=175"
+      } ],
+      "published" : [ "2022-11-15T05:23:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1592387835440439296" ],
+      "url" : [ "https://twitter.com/0xfbifemboy/status/1592387835440439296" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "cephalopod_v7_no_ftx_final_2.xlsx" ],
+        "nickname" : [ "macrocephalopod" ],
+        "numeric-id" : [ "1341087029048827904" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1583199366839410693/5SmxlFwH.jpg" ],
+        "published" : [ "2020-12-21T18:24:07+00:00" ],
+        "uid" : [ "tag:twitter.com:macrocephalopod" ],
+        "url" : [ "https://twitter.com/macrocephalopod" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Incredible that the most complete and internally consistent account of what happened at FTX/Alameda to date is not the NYT or WSJ or the FT but the blog “milky eggs dot com” written by user “fbi femboy”" ],
+    "published" : [ "2022-11-15T08:19:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1592432125995016192" ],
+    "url" : [ "https://twitter.com/macrocephalopod/status/1592432125995016192" ]
+  },
+  "type" : [ "h-entry" ]
+}
