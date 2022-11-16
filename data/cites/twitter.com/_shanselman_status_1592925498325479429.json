@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://mastodon.social/@shanselman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Literally firing everyone with the skills to build Twitter 2.0. I hope it gets built as a separate company without him." ],
+    "published" : [ "2022-11-16T17:00:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1592925498325479429" ],
+    "url" : [ "https://twitter.com/shanselman/status/1592925498325479429" ]
+  },
+  "type" : [ "h-entry" ]
+}
