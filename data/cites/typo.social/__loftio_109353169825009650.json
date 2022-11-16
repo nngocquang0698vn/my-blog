@@ -1,0 +1,63 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://typo.social/@loftio/109353169825009650" ],
+    "uid" : [ "https://typo.social/@loftio/109353169825009650" ],
+    "published" : [ "2022-11-16T11:09:11+00:00" ],
+    "content" : [ {
+      "html" : "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@type_error\" class=\"u-url mention\">@<span>type_error</span></a></span> </p><p>What is the internet, if not shitposting persevering?</p>",
+      "value" : "@type_error\nWhat is the internet, if not shitposting persevering?",
+      "lang" : "en"
+    } ],
+    "in-reply-to" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/@type_error/109353134047298077" ],
+        "uid" : [ "https://indieweb.social/@type_error/109353134047298077" ],
+        "published" : [ "2022-11-16T11:00:06+00:00" ],
+        "content" : [ {
+          "html" : "<p>I’m really glad that shitposting is alive and well on here</p>",
+          "value" : "I’m really glad that shitposting is alive and well on here",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sophie Koonin" ],
+            "url" : [ "https://indieweb.social/@type_error" ],
+            "photo" : [ {
+              "value" : "https://typo.social/system/cache/accounts/avatars/109/347/759/622/375/381/original/bdabfbfe80d5be21.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Sophie Koonin"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 16, 2022, 11:00 Sophie Koonin @type_error@indieweb.social\nI’m really glad that shitposting is alive and well on here 1"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Lex Lofthouse" ],
+        "url" : [ "https://typo.social/@loftio" ],
+        "photo" : [ {
+          "value" : "https://typo.social/system/accounts/avatars/109/344/336/679/535/269/original/d66a2b9d1e579d2b.jpg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Lex Lofthouse"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "url" : [ "https://indieweb.social/@type_error" ],
+      "name" : [ "@type_error" ]
+    },
+    "lang" : "en"
+  } ]
+}
