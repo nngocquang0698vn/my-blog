@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexandre Leprêtre" ],
+        "nickname" : [ "AlexLepretre" ],
+        "numeric-id" : [ "192993675" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343898084389097473/e-n2MVdh.jpg" ],
+        "published" : [ "2010-09-20T18:13:31+00:00" ],
+        "uid" : [ "tag:twitter.com:AlexLepretre" ],
+        "url" : [ "https://twitter.com/AlexLepretre", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"never worked a real job\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brucefenton\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulg\"></a>",
+      "value" : "\"never worked a real job\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/brucefenton/status/1592861474208509952" ],
+    "photo" : [ "https://pbs.twimg.com/media/FhsDRVPWIAUCcO-.jpg" ],
+    "published" : [ "2022-11-16T13:21:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1592870559330598914" ],
+    "url" : [ "https://twitter.com/AlexLepretre/status/1592870559330598914" ]
+  },
+  "type" : [ "h-entry" ]
+}
