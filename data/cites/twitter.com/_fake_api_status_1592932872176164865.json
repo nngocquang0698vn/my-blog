@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (real, not parody)" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hallmarks of great leaders:\n\n• Public executions. Need to strike the right balance between individual and mass executions to keep people guessing!\n\n• Dancing on graves. All those people you just killed actually SUCKED! Let their families know! Let everyone know! Have a party!</div>",
+      "value" : "Hallmarks of great leaders:\n\n• Public executions. Need to strike the right balance between individual and mass executions to keep people guessing!\n\n• Dancing on graves. All those people you just killed actually SUCKED! Let their families know! Let everyone know! Have a party!"
+    } ],
+    "published" : [ "2022-11-16T17:29:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1592932872176164865" ],
+    "url" : [ "https://twitter.com/fake_api/status/1592932872176164865" ]
+  },
+  "type" : [ "h-entry" ]
+}
