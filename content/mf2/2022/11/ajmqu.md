@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Grady_Booch/status/1592888807464271878" ],
     "name" : [ "Like of @Grady_Booch's tweet" ],
     "published" : [ "2022-11-16T14:51:00+0000" ],
     "like-of" : [ "https://twitter.com/Grady_Booch/status/1592888807464271878" ],
