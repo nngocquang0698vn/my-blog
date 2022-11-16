@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FrankMcG/status/1592680120866996225" ],
     "name" : [ "Like of @FrankMcG's tweet" ],
     "published" : [ "2022-11-16T07:47:00+0000" ],
     "like-of" : [ "https://twitter.com/FrankMcG/status/1592680120866996225" ],
