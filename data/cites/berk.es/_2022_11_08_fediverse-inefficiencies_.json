@@ -1,0 +1,13 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Fediverse is Inefficient (but that's a good trade-off)" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Bèr ‘berkes’ Kessels" ]
+      }
+    } ],
+    "url" : [ "https://berk.es/2022/11/08/fediverse-inefficiencies/" ]
+  }
+}
