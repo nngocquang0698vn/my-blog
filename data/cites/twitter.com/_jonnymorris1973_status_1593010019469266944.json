@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Dallas, Texas" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Stock Talk Weekly" ],
+          "nickname" : [ "stocktalkweekly" ],
+          "numeric-id" : [ "1289823541098143744" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1460801149926260742/lAg9IZFQ.jpg" ],
+          "published" : [ "2020-08-02T07:21:27+00:00" ],
+          "uid" : [ "tag:twitter.com:stocktalkweekly" ],
+          "url" : [ "https://twitter.com/stocktalkweekly", "https://payrole.io/store?seller=633b3600690f2a001304b087" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "BREAKING: <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> says he plans to find someone to replace him as acting CEO of Twitter",
+        "value" : "BREAKING: @elonmusk says he plans to find someone to replace him as acting CEO of Twitter"
+      } ],
+      "published" : [ "2022-11-16T16:30:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1592918089771134978" ],
+      "url" : [ "https://twitter.com/stocktalkweekly/status/1592918089771134978" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Winchester, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonny Morris 🔶" ],
+        "nickname" : [ "jonnymorris1973" ],
+        "numeric-id" : [ "25666091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1567089911529873409/z2HH7aa_.jpg" ],
+        "published" : [ "2009-03-21T12:05:28+00:00" ],
+        "uid" : [ "tag:twitter.com:jonnymorris1973" ],
+        "url" : [ "https://twitter.com/jonnymorris1973", "http://www.averageromp.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Does it involve five children being given a tour of the Twitter building?" ],
+    "published" : [ "2022-11-16T22:35:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1593010019469266944" ],
+    "url" : [ "https://twitter.com/jonnymorris1973/status/1593010019469266944" ]
+  },
+  "type" : [ "h-entry" ]
+}
