@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/GergelyOrosz/s…" ],
+        "url" : [ "https://twitter.com/GergelyOrosz/status/1592801188277538818" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Scoop: I am hearing far fewer than expected devs hit \"yes\".\n\nElon sent out an email relaxing remote working from the former draconian policy.\n\nI'm hearing he is having meetings w top engineers to convince them to stay.\n\nSounds like playing hardball does not work. Ofc it doesn't.</div>\n<a class=\"tag\" href=\"https://twitter.com/GergelyOrosz/status/1592801188277538818\">twitter.com/GergelyOrosz/s…</a>",
+        "value" : "Scoop: I am hearing far fewer than expected devs hit \"yes\".\n\nElon sent out an email relaxing remote working from the former draconian policy.\n\nI'm hearing he is having meetings w top engineers to convince them to stay.\n\nSounds like playing hardball does not work. Ofc it doesn't."
+      } ],
+      "published" : [ "2022-11-17T20:09:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1593335536697090048" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1593335536697090048" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montréal, QC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh W. Comeau" ],
+        "nickname" : [ "JoshWComeau" ],
+        "numeric-id" : [ "2308474213" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588928652452003840/NzvDjlrh.jpg" ],
+        "published" : [ "2014-01-24T14:42:45+00:00" ],
+        "uid" : [ "tag:twitter.com:JoshWComeau" ],
+        "url" : [ "https://twitter.com/JoshWComeau", "https://joshwcomeau.com", "http://css-for-js.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Elon is like a Frankenstein built out of every toxic trait I've ever experienced at a workplace.\n\nI feel so bad for the folks still at twitter ❤️</div>",
+      "value" : "Elon is like a Frankenstein built out of every toxic trait I've ever experienced at a workplace.\n\nI feel so bad for the folks still at twitter ❤️"
+    } ],
+    "published" : [ "2022-11-17T22:08:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1593365597844373506" ],
+    "url" : [ "https://twitter.com/JoshWComeau/status/1593365597844373506" ]
+  },
+  "type" : [ "h-entry" ]
+}
