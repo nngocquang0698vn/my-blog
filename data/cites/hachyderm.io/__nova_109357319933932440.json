@@ -1,0 +1,728 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://hachyderm.io/@nova/109357319933932440" ],
+    "uid" : [ "https://hachyderm.io/@nova/109357319933932440" ],
+    "published" : [ "2022-11-17T04:44:37+00:00" ],
+    "content" : [ {
+      "html" : "<p>Goodnight <a href=\"https://hachyderm.io/tags/IndieWeb\" class=\"mention hashtag\" rel=\"tag\">#<span>IndieWeb</span></a>. Tomorrow is another day. Tell me something kind.</p>",
+      "value" : "Goodnight #IndieWeb. Tomorrow is another day. Tell me something kind.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kris Nóva" ],
+        "url" : [ "https://hachyderm.io/@nova" ],
+        "photo" : [ {
+          "value" : "https://hachyderm.io/system/accounts/avatars/108/203/029/417/865/834/original/610bd31427b0c87c.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Kris Nóva"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/@Aphrodite/109357326212384730" ],
+        "uid" : [ "https://chaos.social/@Aphrodite/109357326212384730" ],
+        "published" : [ "2022-11-17T04:46:13+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> <br>Besides your work thusfar  is amazing? :)</p>",
+          "value" : "@nova\nBesides your work thusfar is amazing? :)",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aphrodite ☑️ :boost_ok:" ],
+            "url" : [ "https://chaos.social/@Aphrodite" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/284/043/345/438/961/original/6d33b9e468b0ca18.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Aphrodite ☑️ :boost_ok:"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:46 Aphrodite ☑️ :boost_ok: @Aphrodite@chaos.social\n@nova\nBesides your work thusfar is amazing? :) 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@wesdottoday/109357328841941021" ],
+        "uid" : [ "https://hachyderm.io/@wesdottoday/109357328841941021" ],
+        "published" : [ "2022-11-17T04:46:53+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> you have created a beautiful, welcoming space for thousands of people - a selfless thing.</p>",
+          "value" : "@nova you have created a beautiful, welcoming space for thousands of people - a selfless thing.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Wes Kennedy" ],
+            "url" : [ "https://hachyderm.io/@wesdottoday" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/334/070/537/722/075/original/598ec7d10f6bcf47.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Wes Kennedy"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:46 Wes Kennedy @wesdottoday@hachyderm.io\n@nova you have created a beautiful, welcoming space for thousands of people - a selfless thing. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://gnulinux.social/@oemb1905/109357331861368275" ],
+        "uid" : [ "https://gnulinux.social/@oemb1905/109357331861368275" ],
+        "published" : [ "2022-11-17T04:47:39+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> Teach for the love of wisdom.</p>",
+          "value" : "@nova Teach for the love of wisdom.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "oemb1905" ],
+            "url" : [ "https://gnulinux.social/@oemb1905" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/298/118/386/338/652/original/973be2c3933c7add.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "oemb1905"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:47 oemb1905 @oemb1905@gnulinux.social\n@nova Teach for the love of wisdom. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@woodwardjd/109357340848029258" ],
+        "uid" : [ "https://hachyderm.io/@woodwardjd/109357340848029258" ],
+        "published" : [ "2022-11-17T04:49:56+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> your efforts are very much appreciated!</p>",
+          "value" : "@nova your efforts are very much appreciated!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jason Woodward" ],
+            "url" : [ "https://hachyderm.io/@woodwardjd" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/288/680/504/837/560/original/76c471b06f868f9a.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Jason Woodward"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:49 Jason Woodward @woodwardjd@hachyderm.io\n@nova your efforts are very much appreciated! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@nicecodes/109357346989092723" ],
+        "uid" : [ "https://hachyderm.io/@nicecodes/109357346989092723" ],
+        "published" : [ "2022-11-17T04:51:30+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> there is an elderly corgi softly snoring in the corner of my room. may her peace be unto you</p>",
+          "value" : "@nova there is an elderly corgi softly snoring in the corner of my room. may her peace be unto you",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Rob Heittman" ],
+            "url" : [ "https://hachyderm.io/@nicecodes" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/351/555/168/802/664/original/5c47f18aec0097b9.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Rob Heittman"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:51 Rob Heittman @nicecodes@hachyderm.io\n@nova there is an elderly corgi softly snoring in the corner of my room. may her peace be unto you 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://infosec.exchange/@amvc/109357362707627498" ],
+        "uid" : [ "https://infosec.exchange/@amvc/109357362707627498" ],
+        "published" : [ "2022-11-17T04:55:29+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> I admire everything you are doing with hachyderm.io, even if I'm just lurking from a distance. Truly an example for others.</p><p>Please take care of yourself!</p>",
+          "value" : "@nova I admire everything you are doing with hachyderm.io, even if I'm just lurking from a distance. Truly an example for others.\nPlease take care of yourself!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "amvc" ],
+            "url" : [ "https://infosec.exchange/@amvc" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/297/557/059/451/577/original/596d84ccc763e0ba.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "amvc"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:55 amvc @amvc@infosec.exchange\n@nova I admire everything you are doing with hachyderm.io, even if I'm just lurking from a distance. Truly an example for others.\nPlease take care of yourself! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.treehouse.systems/@kouhai/109357365412912083" ],
+        "uid" : [ "https://social.treehouse.systems/@kouhai/109357365412912083" ],
+        "published" : [ "2022-11-17T04:56:11+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> you seemingly have boundless energy; this isn't true, but you put so much into hachyderm!</p>",
+          "value" : "@nova you seemingly have boundless energy; this isn't true, but you put so much into hachyderm!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "kouhai(s)" ],
+            "url" : [ "https://social.treehouse.systems/@kouhai" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/108/213/071/795/502/823/original/1f37f6286120520d.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "kouhai(s)"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:56 kouhai(s) @kouhai@treehouse.systems\n@nova you seemingly have boundless energy; this isn't true, but you put so much into hachyderm! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@mario/109357378240844660" ],
+        "uid" : [ "https://hachyderm.io/@mario/109357378240844660" ],
+        "published" : [ "2022-11-17T04:59:27+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> this place is an example of how good the internet could be when nurtured by people who care and know what they’re doing</p><p>Thank you!</p>",
+          "value" : "@nova this place is an example of how good the internet could be when nurtured by people who care and know what they’re doing\nThank you!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mario Sangiorgio" ],
+            "url" : [ "https://hachyderm.io/@mario" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/273/443/652/630/187/original/0b26db5e9f5ed531.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Mario Sangiorgio"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 04:59 Mario Sangiorgio @mario@hachyderm.io\n@nova this place is an example of how good the internet could be when nurtured by people who care and know what they’re doing\nThank you! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@StartupNextDoor/109357441541908861" ],
+        "uid" : [ "https://hachyderm.io/@StartupNextDoor/109357441541908861" ],
+        "published" : [ "2022-11-17T05:15:32+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> A community is only as good as its moderation.</p><p>We're lucky we have you!</p>",
+          "value" : "@nova A community is only as good as its moderation.\nWe're lucky we have you!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "John Washam" ],
+            "url" : [ "https://hachyderm.io/@StartupNextDoor" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/348/999/974/322/883/original/e850491c69c52e21.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "John Washam"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 05:15 John Washam @StartupNextDoor@hachyderm.io\n@nova A community is only as good as its moderation.\nWe're lucky we have you! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@cafechatnoir/109357448128061768" ],
+        "uid" : [ "https://mastodon.social/@cafechatnoir/109357448128061768" ],
+        "published" : [ "2022-11-17T05:17:13+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> Happy you're here!</p>",
+          "value" : "@nova Happy you're here!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "cafechatnoir" ],
+            "url" : [ "https://mastodon.social/@cafechatnoir" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/271/398/895/099/668/original/1380a4c20a6e1e52.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "cafechatnoir"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 05:17 cafechatnoir @cafechatnoir@mastodon.social\n@nova Happy you're here! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@Orwellsanimal/109357472556092143" ],
+        "uid" : [ "https://hachyderm.io/@Orwellsanimal/109357472556092143" ],
+        "published" : [ "2022-11-17T05:23:26+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> </p><p>A Community,<br>Is more than just a platform.<br>Make a shared vision!</p><p><a href=\"https://hachyderm.io/tags/haiku\" class=\"mention hashtag\" rel=\"tag\">#<span>haiku</span></a> <a href=\"https://hachyderm.io/tags/hachyderm\" class=\"mention hashtag\" rel=\"tag\">#<span>hachyderm</span></a> <a href=\"https://hachyderm.io/tags/thanks\" class=\"mention hashtag\" rel=\"tag\">#<span>thanks</span></a></p>",
+          "value" : "@nova\nA Community,\nIs more than just a platform.\nMake a shared vision!\n#haiku #hachyderm #thanks",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Orwellsanimal" ],
+            "url" : [ "https://hachyderm.io/@Orwellsanimal" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/272/006/295/145/304/original/822b77aeb752e92b.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Orwellsanimal"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 05:23 Orwellsanimal @Orwellsanimal@hachyderm.io\n@nova\nA Community,\nIs more than just a platform.\nMake a shared vision!\n#haiku #hachyderm #thanks 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.sdf.org/@stevelatta/109357592795409706" ],
+        "uid" : [ "https://mastodon.sdf.org/@stevelatta/109357592795409706" ],
+        "published" : [ "2022-11-17T05:54:00+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> You’re a good person doing good things and learning/growing as you go. That is amazing and worth celebrating</p>",
+          "value" : "@nova You’re a good person doing good things and learning/growing as you go. That is amazing and worth celebrating",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "SteveL 🏳️‍🌈🇺🇦🥓" ],
+            "url" : [ "https://mastodon.sdf.org/@stevelatta" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/305/333/314/583/543/original/b0eeeb9d2690ec03.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "SteveL 🏳️‍🌈🇺🇦🥓"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 05:54 SteveL 🏳️‍🌈🇺🇦🥓 @stevelatta@mastodon.sdf.org\n@nova You’re a good person doing good things and learning/growing as you go. That is amazing and worth celebrating 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.hyperreal.coffee/@hyperreal/109357619057493764" ],
+        "uid" : [ "https://mastodon.hyperreal.coffee/@hyperreal/109357619057493764" ],
+        "published" : [ "2022-11-17T06:00:41+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> Good night!</p>",
+          "value" : "@nova Good night!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jeffrey Serio" ],
+            "url" : [ "https://mastodon.hyperreal.coffee/@hyperreal" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/356/123/403/668/586/original/bbf1cc1682d8a222.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Jeffrey Serio"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 06:00 Jeffrey Serio @hyperreal@mastodon.hyperreal.coffee\n@nova Good night! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@Comradin/109357714263726802" ],
+        "uid" : [ "https://hachyderm.io/@Comradin/109357714263726802" ],
+        "published" : [ "2022-11-17T06:24:54+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> thanks for hosting us in your living room and all the hard work.</p>",
+          "value" : "@nova thanks for hosting us in your living room and all the hard work.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marcus Franke" ],
+            "url" : [ "https://hachyderm.io/@Comradin" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/341/177/197/641/333/original/7bb8f4555aa40845.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Marcus Franke"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 06:24 Marcus Franke @Comradin@hachyderm.io\n@nova thanks for hosting us in your living room and all the hard work. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@slamp/109357778238240155" ],
+        "uid" : [ "https://hachyderm.io/@slamp/109357778238240155" ],
+        "published" : [ "2022-11-17T06:41:10+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> <a href=\"https://hachyderm.io/tags/hachyderm\" class=\"mention hashtag\" rel=\"tag\">#<span>hachyderm</span></a> is fine , you can go climb this weekend</p>",
+          "value" : "@nova #hachyderm is fine , you can go climb this weekend",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "slamp :antiverified:" ],
+            "url" : [ "https://hachyderm.io/@slamp" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/286/060/673/010/249/original/8bf0cdeac59e51cf.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "slamp :antiverified:"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 06:41 slamp :antiverified: @slamp@hachyderm.io\n@nova #hachyderm is fine , you can go climb this weekend 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@jmintb/109357800647621285" ],
+        "uid" : [ "https://hachyderm.io/@jmintb/109357800647621285" ],
+        "published" : [ "2022-11-17T06:46:52+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> thanks for creating hachyderm.io 🌟</p>",
+          "value" : "@nova thanks for creating hachyderm.io 🌟",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jessie 🐧 🦀 Spencer" ],
+            "url" : [ "https://hachyderm.io/@jmintb" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/340/828/053/463/448/original/4bb6611fcb5e8502.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Jessie 🐧 🦀 Spencer"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 06:46 Jessie 🐧 🦀 Spencer @jmintb@hachyderm.io\n@nova thanks for creating hachyderm.io 🌟 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@tlake/109357865479347154" ],
+        "uid" : [ "https://hachyderm.io/@tlake/109357865479347154" ],
+        "published" : [ "2022-11-17T07:03:21+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> My sweet, precious, dumb, garbage-loving calico cat is named Kintsugi, and your streams have convinced me to play with cool-retro-term.</p><p>These two things are unrelated, but they're both nice.</p>",
+          "value" : "@nova My sweet, precious, dumb, garbage-loving calico cat is named Kintsugi, and your streams have convinced me to play with cool-retro-term.\nThese two things are unrelated, but they're both nice.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "tlake (he/him)" ],
+            "url" : [ "https://hachyderm.io/@tlake" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/avatars/original/missing.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "tlake (he/him)"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 07:03 tlake (he/him) @tlake@hachyderm.io\n@nova My sweet, precious, dumb, garbage-loving calico cat is named Kintsugi, and your streams have convinced me to play with cool-retro-term.\nThese two things are unrelated, but they're both nice. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://foo.sx/@fred/109358007768896778" ],
+        "uid" : [ "https://foo.sx/@fred/109358007768896778" ],
+        "published" : [ "2022-11-17T07:39:32+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> your instance is attracting so many supercool people I greatly respect that I am getting a serious case of the FOMOs</p>",
+          "value" : "@nova your instance is attracting so many supercool people I greatly respect that I am getting a serious case of the FOMOs",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mr. Fred 🔥" ],
+            "url" : [ "https://foo.sx/@fred" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/108/291/373/347/963/981/original/973c9299d2151061.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Mr. Fred 🔥"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 07:39 Mr. Fred 🔥 @fred@foo.sx\n@nova your instance is attracting so many supercool people I greatly respect that I am getting a serious case of the FOMOs 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@nabrahams/109358061596100073" ],
+        "uid" : [ "https://hachyderm.io/@nabrahams/109358061596100073" ],
+        "published" : [ "2022-11-17T07:53:14+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\">@<span>nova</span></a></span> You came up in a conversation about spicy food tonight, and it reminded me there's an amazing spice and tea shop not far from me. :)</p>",
+          "value" : "@nova You came up in a conversation about spicy food tonight, and it reminded me there's an amazing spice and tea shop not far from me. :)",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Noah Abrahams" ],
+            "url" : [ "https://hachyderm.io/@nabrahams" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/accounts/avatars/109/321/080/400/106/309/original/6ea4af252c05464a.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Noah Abrahams"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 07:53 Noah Abrahams @nabrahams@hachyderm.io\n@nova You came up in a conversation about spicy food tonight, and it reminded me there's an amazing spice and tea shop not far from me. :) 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@jjm3x3/109358136031442589" ],
+        "uid" : [ "https://mastodon.social/@jjm3x3/109358136031442589" ],
+        "published" : [ "2022-11-17T08:12:09+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@nova\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nova</span></a></span> I was encouraged to follow you on the bird site years and years ago by a good friend of mine. Following your work, adventures and musings on there and now building and developing <a href=\"https://mastodon.social/tags/hachyderm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hachyderm</span></a> has been such a cool and inspiring journey!</p>",
+          "value" : "@nova I was encouraged to follow you on the bird site years and years ago by a good friend of mine. Following your work, adventures and musings on there and now building and developing #hachyderm has been such a cool and inspiring journey!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jjm3x3" ],
+            "url" : [ "https://mastodon.social/@jjm3x3" ],
+            "photo" : [ {
+              "value" : "https://hachyderm.io/system/cache/accounts/avatars/109/266/773/068/969/097/original/8ac663cc62c1bb95.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "jjm3x3"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://hachyderm.io/@nova" ],
+          "name" : [ "@nova" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 17, 2022, 08:12 jjm3x3 @jjm3x3@mastodon.social\n@nova I was encouraged to follow you on the bird site years and years ago by a good friend of mine. Following your work, adventures and musings on there and now building and developing #hachyderm has been such a cool and inspiring journey! 0"
+    } ]
+  },
+  "lang" : "en"
+}
