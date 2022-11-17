@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/AnaisUrlichs/awesome-career-paths/stargazers" ],
     "name" : [ "AnaisUrlichs/awesome-career-paths: Collection of different career paths -- share your experience" ],
     "published" : [ "2022-11-17T08:24:00+0000" ],
     "category" : [ "career" ],
