@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mike_Laidlaw/status/1593046292145803265" ],
     "name" : [ "Like of @Mike_Laidlaw's tweet" ],
     "published" : [ "2022-11-17T10:58:00+0000" ],
     "like-of" : [ "https://twitter.com/Mike_Laidlaw/status/1593046292145803265" ],
