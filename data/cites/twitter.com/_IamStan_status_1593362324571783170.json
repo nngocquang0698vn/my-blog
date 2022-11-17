@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Community Notes" ],
+          "nickname" : [ "CommunityNotes" ],
+          "numeric-id" : [ "1319036828964454402" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1590766786122653696/dNjmIGfn.jpg" ],
+          "published" : [ "2020-10-21T22:04:47+00:00" ],
+          "uid" : [ "tag:twitter.com:CommunityNotes" ],
+          "url" : [ "https://twitter.com/CommunityNotes", "https://twitter.com/i/communitynotes/rated_helpful", "http://twitter.github.io/communitynotes" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "In the spirit of transparency, Birdwatch makes everything and the kitchen sink public and open source. Today, we’re sharing a paper that details the research, analysis and outcomes that informed its development and helped us understand its performance. 📊 <a href=\"https://github.com/twitter/birdwatch/blob/main/birdwatch_paper_2022_10_27.pdf\">github.com/twitter/birdwa…</a>",
+        "value" : "In the spirit of transparency, Birdwatch makes everything and the kitchen sink public and open source. Today, we’re sharing a paper that details the research, analysis and outcomes that informed its development and helped us understand its performance. 📊 github.com/twitter/birdwa…"
+      } ],
+      "published" : [ "2022-10-28T00:42:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1585794012052611076" ],
+      "url" : [ "https://twitter.com/CommunityNotes/status/1585794012052611076" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Normal Island" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ant Parody Stanley" ],
+        "nickname" : [ "IamStan" ],
+        "numeric-id" : [ "14879896" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1465370020377157633/FcweoAsJ.jpg" ],
+        "published" : [ "2008-05-23T10:13:37+00:00" ],
+        "uid" : [ "tag:twitter.com:IamStan" ],
+        "url" : [ "https://twitter.com/IamStan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Not new. Was Open Source before acquisition. Here is a tweet from that account on acquisition day referencing the repo under the old Birdwatch name <a href=\"https://twitter.com/CommunityNotes/status/1585794012052611076?s=20&t=dQR-djGIRBbqaJ3oPGbFoA\">twitter.com/CommunityNotes…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mjackson\"></a>",
+      "value" : "Not new. Was Open Source before acquisition. Here is a tweet from that account on acquisition day referencing the repo under the old Birdwatch name twitter.com/CommunityNotes…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mjackson/status/1593361109729222656" ],
+    "published" : [ "2022-11-17T21:55:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1593362324571783170" ],
+    "url" : [ "https://twitter.com/IamStan/status/1593362324571783170" ]
+  },
+  "type" : [ "h-entry" ]
+}
