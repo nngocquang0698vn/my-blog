@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oregon, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aleksandr Morozov" ],
+        "nickname" : [ "morozov_dev" ],
+        "numeric-id" : [ "1253267397903089668" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1490257772138549251/B-CZifEa.jpg" ],
+        "published" : [ "2020-04-23T10:20:15+00:00" ],
+        "uid" : [ "tag:twitter.com:morozov_dev" ],
+        "url" : [ "https://twitter.com/morozov_dev", "https://www.linkedin.com/in/aleksandr-mor", "http://GitHub.com/aleksandr-mor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Still doubting if you need an Apple Watch?" ],
+    "published" : [ "2022-11-16T08:22:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1592795334157430784" ],
+    "url" : [ "https://twitter.com/morozov_dev/status/1592795334157430784" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1592795309444591616/pu/vid/738x720/qXhbm2Kw7H-2Iooo.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
