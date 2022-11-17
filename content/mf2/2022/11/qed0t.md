@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KingstonTime/status/1387776027880038413" ],
     "name" : [ "Like of @KingstonTime's tweet" ],
     "published" : [ "2022-11-17T12:09:00+0000" ],
     "like-of" : [ "https://twitter.com/KingstonTime/status/1387776027880038413" ],
