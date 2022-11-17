@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Ports, @dan@discuss.systems" ],
+        "nickname" : [ "danrkports" ],
+        "numeric-id" : [ "727623711721820160" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/733858059303292929/AfOfRY7M.jpg" ],
+        "published" : [ "2016-05-03T22:19:46+00:00" ],
+        "uid" : [ "tag:twitter.com:danrkports" ],
+        "url" : [ "https://twitter.com/danrkports", "https://drkp.net/", "http://discuss.systems/@dan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Learned that the Roomba is programmed in a dialect of Lisp. \n\nI guess that makes sense, because the hardware is optimized for garbage collection.</div>",
+      "value" : "Learned that the Roomba is programmed in a dialect of Lisp. \n\nI guess that makes sense, because the hardware is optimized for garbage collection."
+    } ],
+    "published" : [ "2021-03-02T23:49:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1366898431621406720" ],
+    "url" : [ "https://twitter.com/danrkports/status/1366898431621406720" ]
+  },
+  "type" : [ "h-entry" ]
+}
