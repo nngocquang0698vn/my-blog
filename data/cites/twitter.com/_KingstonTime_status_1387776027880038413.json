@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan Kingston" ],
+        "nickname" : [ "KingstonTime" ],
+        "numeric-id" : [ "38462153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586780314210373633/xguP6qHD.jpg" ],
+        "published" : [ "2009-05-07T16:24:41+00:00" ],
+        "uid" : [ "tag:twitter.com:KingstonTime" ],
+        "url" : [ "https://twitter.com/KingstonTime", "https://mastodon.social/@jkt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "White Cis man screams into a void about cancel culture after cancelling all his employees freedoms." ],
+    "photo" : [ {
+      "alt" : "@dhh reposting some noise about cancel culture after being a prize wassock.",
+      "value" : "https://pbs.twimg.com/media/E0Je2OnXIAAHm6b.jpg"
+    } ],
+    "published" : [ "2021-04-29T14:29:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1387776027880038413" ],
+    "url" : [ "https://twitter.com/KingstonTime/status/1387776027880038413" ]
+  },
+  "type" : [ "h-entry" ]
+}
