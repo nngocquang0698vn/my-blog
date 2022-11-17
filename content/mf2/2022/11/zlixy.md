@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LionsgateUK/status/1590751696636219392" ],
     "name" : [ "Like of @LionsgateUK's tweet" ],
     "published" : [ "2022-11-17T15:04:00+0000" ],
     "like-of" : [ "https://twitter.com/LionsgateUK/status/1590751696636219392" ],
