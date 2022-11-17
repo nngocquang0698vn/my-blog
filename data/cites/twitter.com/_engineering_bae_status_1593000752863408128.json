@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Poindexter" ],
+        "nickname" : [ "engineering_bae" ],
+        "numeric-id" : [ "876448351268380672" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592537312256299011/g6sPQ-W1.jpg" ],
+        "published" : [ "2017-06-18T14:35:45+00:00" ],
+        "uid" : [ "tag:twitter.com:engineering_bae" ],
+        "url" : [ "https://twitter.com/engineering_bae", "http://poindexter.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Don’t confuse social media popularity with someone having actual expertise in a field. These connections here are generally incredibly lightweight so don’t take their high follower counts at face value. The truth will eventually come to light, but it can take some time." ],
+    "published" : [ "2022-11-16T21:59:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1593000752863408128" ],
+    "url" : [ "https://twitter.com/engineering_bae/status/1593000752863408128" ]
+  },
+  "type" : [ "h-entry" ]
+}
