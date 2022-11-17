@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bronx + Queens, NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alexandria Ocasio-Cortez" ],
+          "nickname" : [ "AOC" ],
+          "numeric-id" : [ "138203134" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl.jpg" ],
+          "published" : [ "2010-04-28T22:38:40+00:00" ],
+          "uid" : [ "tag:twitter.com:AOC" ],
+          "url" : [ "https://twitter.com/AOC", "http://www.ocasiocortez.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Daily reminder that Ticketmaster is a monopoly, it’s merger with LiveNation should never have been approved, and they need to be reigned in. \n\nBreak them up.</div>",
+        "value" : "Daily reminder that Ticketmaster is a monopoly, it’s merger with LiveNation should never have been approved, and they need to be reigned in. \n\nBreak them up."
+      } ],
+      "published" : [ "2022-11-15T18:35:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1592587226801934336" ],
+      "url" : [ "https://twitter.com/AOC/status/1592587226801934336" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cyber, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SwiftOnSecurity" ],
+        "nickname" : [ "SwiftOnSecurity" ],
+        "numeric-id" : [ "2436389418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1571346795086626816/ZRtUSwkH.jpg" ],
+        "published" : [ "2014-04-10T02:54:26+00:00" ],
+        "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+        "url" : [ "https://twitter.com/SwiftOnSecurity" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Small domino: Swifties can't get tickets\nLarge domino: President AOC breaks up Amazon",
+      "value" : "https://pbs.twimg.com/media/FhoGjLLXgAIwmFg.jpg"
+    } ],
+    "published" : [ "2022-11-15T18:57:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1592592622413312001" ],
+    "url" : [ "https://twitter.com/SwiftOnSecurity/status/1592592622413312001" ]
+  },
+  "type" : [ "h-entry" ]
+}
