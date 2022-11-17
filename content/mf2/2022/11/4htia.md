@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marinaxdove/status/1593316177543053314" ],
     "name" : [ "Like of @marinaxdove's tweet" ],
     "published" : [ "2022-11-17T18:58:00+0000" ],
     "like-of" : [ "https://twitter.com/marinaxdove/status/1593316177543053314" ],
