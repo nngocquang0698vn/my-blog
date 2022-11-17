@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Pacific Quay, Glasgow" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Scotland News" ],
+          "nickname" : [ "BBCScotlandNews" ],
+          "numeric-id" : [ "15687507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1518499125267992576/1nXW9i4n.jpg" ],
+          "published" : [ "2008-08-01T10:05:21+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCScotlandNews" ],
+          "url" : [ "https://twitter.com/BBCScotlandNews", "http://www.bbc.co.uk/scotlandnews" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Royal Mail asks to stop Saturday letter deliveries <a href=\"https://bbc.in/3hQ7K9u\">bbc.in/3hQ7K9u</a>",
+        "value" : "Royal Mail asks to stop Saturday letter deliveries bbc.in/3hQ7K9u"
+      } ],
+      "published" : [ "2022-11-17T10:46:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1593193751136051201" ],
+      "url" : [ "https://twitter.com/BBCScotlandNews/status/1593193751136051201" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/bbcscotlandnew…" ],
+      "url" : [ "https://twitter.com/bbcscotlandnews/status/1593193751136051201" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "official" ],
+        "nickname" : [ "alexhern" ],
+        "numeric-id" : [ "4004901" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1072939067623530496/rduOc_6m.jpg" ],
+        "published" : [ "2007-04-10T09:02:36+00:00" ],
+        "uid" : [ "tag:twitter.com:alexhern" ],
+        "url" : [ "https://twitter.com/alexhern", "http://theguardian.com/profile/alex-hern" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If Royal Mail cannot turn a profit while providing the services it is legally mandated to provide, then its equity value is zero and it should be renationalised at no cost to the taxpayer\n<a class=\"tag\" href=\"https://twitter.com/bbcscotlandnews/status/1593193751136051201\">twitter.com/bbcscotlandnew…</a>",
+      "value" : "If Royal Mail cannot turn a profit while providing the services it is legally mandated to provide, then its equity value is zero and it should be renationalised at no cost to the taxpayer"
+    } ],
+    "published" : [ "2022-11-17T11:38:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1593206992273043458" ],
+    "url" : [ "https://twitter.com/alexhern/status/1593206992273043458" ]
+  },
+  "type" : [ "h-entry" ]
+}
