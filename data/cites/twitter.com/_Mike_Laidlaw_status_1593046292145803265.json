@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Culture Crave 🍿" ],
+          "nickname" : [ "CultureCrave" ],
+          "numeric-id" : [ "932786452739407872" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/934381355231723522/TJ5PuWkP.jpg" ],
+          "published" : [ "2017-11-21T01:43:15+00:00" ],
+          "uid" : [ "tag:twitter.com:CultureCrave" ],
+          "url" : [ "https://twitter.com/CultureCrave", "http://dexerto.com", "http://bit.ly/3CTXs0G" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Elon Musk intends to reduce his time at Twitter and find someone else to run it" ],
+      "photo" : [ "https://pbs.twimg.com/media/FhuDejHVUAIBhtQ.jpg", "https://pbs.twimg.com/media/FhuDgSzVUAADkh2.png" ],
+      "published" : [ "2022-11-16T22:45:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1593012315841974272" ],
+      "url" : [ "https://twitter.com/CultureCrave/status/1593012315841974272" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/culturecrave/s…" ],
+      "url" : [ "https://twitter.com/culturecrave/status/1593012315841974272" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Quebec City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Laidlaw" ],
+        "nickname" : [ "Mike_Laidlaw" ],
+        "numeric-id" : [ "363426409" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1504114841598013455/iuJWPkAu.jpg" ],
+        "published" : [ "2011-08-28T02:17:51+00:00" ],
+        "uid" : [ "tag:twitter.com:Mike_Laidlaw" ],
+        "url" : [ "https://twitter.com/Mike_Laidlaw", "http://twitch.tv/Mike_Laidlaw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you’re not familiar with the term, the act of flying in, making a lot of noise, shitting on everything, and then flying off again is called “seagull management.”\n<a class=\"tag\" href=\"https://twitter.com/culturecrave/status/1593012315841974272\">twitter.com/culturecrave/s…</a>",
+      "value" : "If you’re not familiar with the term, the act of flying in, making a lot of noise, shitting on everything, and then flying off again is called “seagull management.”"
+    } ],
+    "published" : [ "2022-11-17T01:00:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1593046292145803265" ],
+    "url" : [ "https://twitter.com/Mike_Laidlaw/status/1593046292145803265" ]
+  },
+  "type" : [ "h-entry" ]
+}
