@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hankgreen/status/1593279821894717440" ],
     "name" : [ "Like of @hankgreen's tweet" ],
     "published" : [ "2022-11-17T16:39:00+0000" ],
     "like-of" : [ "https://twitter.com/hankgreen/status/1593279821894717440" ],
