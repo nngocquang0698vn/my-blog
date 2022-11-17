@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "DMV" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bryan Liles" ],
+        "nickname" : [ "bryanl" ],
+        "numeric-id" : [ "659933" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1545547557501272065/KpwgYcZh.jpg" ],
+        "published" : [ "2007-01-18T12:47:55+00:00" ],
+        "uid" : [ "tag:twitter.com:bryanl" ],
+        "url" : [ "https://twitter.com/bryanl", "https://www.google.com/search?q=bryan+liles" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This week, I started a new role at AWS in S3 as a senior principal engineer. Shoutouts to my high school guidance counselor who said I’d never amount to anything. You gave me the courage I needed to get this far." ],
+    "published" : [ "2022-11-16T23:26:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1593022673608937474" ],
+    "url" : [ "https://twitter.com/bryanl/status/1593022673608937474" ]
+  },
+  "type" : [ "h-entry" ]
+}
