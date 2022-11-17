@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bestofdyingtwit/status/1593365945019269120" ],
     "name" : [ "Like of @bestofdyingtwit's tweet" ],
     "published" : [ "2022-11-17T22:20:00+0000" ],
     "like-of" : [ "https://twitter.com/bestofdyingtwit/status/1593365945019269120" ],
