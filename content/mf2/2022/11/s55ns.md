@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wyne/status/1593107895088189440" ],
     "name" : [ "Like of @wyne's tweet" ],
     "published" : [ "2022-11-17T08:19:00+0000" ],
     "like-of" : [ "https://twitter.com/wyne/status/1593107895088189440" ],
