@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SwiftOnSecurity/status/1592592622413312001" ],
     "name" : [ "Like of @SwiftOnSecurity's tweet" ],
     "published" : [ "2022-11-17T16:57:00+0000" ],
     "like-of" : [ "https://twitter.com/SwiftOnSecurity/status/1592592622413312001" ],
