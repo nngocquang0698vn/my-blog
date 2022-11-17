@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Wyne" ],
+        "nickname" : [ "wyne" ],
+        "numeric-id" : [ "794331612" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/870332586450604032/NBXV-fBO.jpg" ],
+        "published" : [ "2012-08-31T17:43:29+00:00" ],
+        "uid" : [ "tag:twitter.com:wyne" ],
+        "url" : [ "https://twitter.com/wyne", "https://www.justinwyne.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I asked my friend at Twitter how he’s doing. He said he can’t complain." ],
+    "published" : [ "2022-11-17T05:04:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1593107895088189440" ],
+    "url" : [ "https://twitter.com/wyne/status/1593107895088189440" ]
+  },
+  "type" : [ "h-entry" ]
+}
