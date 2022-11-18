@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belfast, Northern Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@skipcloud@inane.chat" ],
+        "nickname" : [ "skipcloud" ],
+        "numeric-id" : [ "1007497321276477440" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589614629520646146/PGvy8VMN.jpg" ],
+        "published" : [ "2018-06-15T05:37:34+00:00" ],
+        "uid" : [ "tag:twitter.com:skipcloud" ],
+        "url" : [ "https://twitter.com/skipcloud", "https://inane.chat/@skipcloud" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">last week: \"what's mastodon?\"\n\nthis week: \"let's spin up our own instance for the craic\"</div>",
+      "value" : "last week: \"what's mastodon?\"\n\nthis week: \"let's spin up our own instance for the craic\""
+    } ],
+    "published" : [ "2022-11-12T16:46:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1591472543122493441" ],
+    "url" : [ "https://twitter.com/skipcloud/status/1591472543122493441" ]
+  },
+  "type" : [ "h-entry" ]
+}
