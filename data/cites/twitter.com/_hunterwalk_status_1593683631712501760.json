@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF by way of NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "👨🏻‍💻☕️" ],
+        "nickname" : [ "hunterwalk" ],
+        "numeric-id" : [ "46063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1267974896178491394/PkBtQNt_.jpg" ],
+        "published" : [ "2006-12-06T18:08:13+00:00" ],
+        "uid" : [ "tag:twitter.com:hunterwalk" ],
+        "url" : [ "https://twitter.com/hunterwalk", "https://hunterwalk.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Demonetize me daddy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/goldman\"></a>",
+      "value" : "Demonetize me daddy"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/goldman/status/1593681958013636609" ],
+    "published" : [ "2022-11-18T19:12:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1593683631712501760" ],
+    "url" : [ "https://twitter.com/hunterwalk/status/1593683631712501760" ]
+  },
+  "type" : [ "h-entry" ]
+}
