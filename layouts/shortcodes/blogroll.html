@@ -1,0 +1,20 @@
+This is unfortunately disabled right now, but I'm working on an alternative!
+
+<div style="display: none";>
+  {{ range $.Site.Data.follows }}
+
+  {{ $ctx := . }}
+  {{ $c := .properties }}
+
+  {{ range .properties.url }}
+  {{ $urlId := replaceRE "[^a-zA-Z0-9]+" "_" . }}
+  <article class="h-entry" id="{{ $urlId }}">
+    <a id="{{ $urlId }}"></a>
+
+    <p>I follow <a class="u-follow-of" href="{{ . }}">{{ . }}</a>.</p>
+
+    <a class=u-syndication href="https://fed.brid.gy/" aria-hidden="true"></a>
+  </article>
+  {{ end }}
+  {{ end }}
+<//div>
