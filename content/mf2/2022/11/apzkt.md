@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thomas_k_r/status/1593446656304979969" ],
     "name" : [ "Like of @thomas_k_r's tweet" ],
     "published" : [ "2022-11-18T09:27:00+0000" ],
     "like-of" : [ "https://twitter.com/thomas_k_r/status/1593446656304979969" ],
