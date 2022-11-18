@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/turtlekiosk/status/1593414136477655040" ],
     "name" : [ "Like of @turtlekiosk's tweet" ],
     "published" : [ "2022-11-18T07:53:00+0000" ],
     "like-of" : [ "https://twitter.com/turtlekiosk/status/1593414136477655040" ],
