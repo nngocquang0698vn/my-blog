@@ -1,0 +1,57 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/hwilcove/status/1592995513007497216\">@hwilcove</a> \n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/punished_cait\"></a>"
+    } ],
+    "published" : [ "2022-11-17T23:13:33+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "name" : [ "Hannah misses the sun" ],
+            "nickname" : [ "hwilcove" ],
+            "numeric-id" : [ "944649410" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1419724228983672835/Eb7MVGJv.jpg" ],
+            "published" : [ "2012-11-12T21:45:26+00:00" ],
+            "uid" : [ "tag:twitter.com:hwilcove" ],
+            "url" : [ "https://twitter.com/hwilcove" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ {
+          "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/punished_cait\"></a>"
+        } ],
+        "in-reply-to" : [ "https://twitter.com/punished_cait/status/1592950552358313985" ],
+        "photo" : [ {
+          "alt" : "Screenshot of a tweet that reads:\ngod: i have made Mankind\nangels: you fucked up a perfectly good monkey is what you did. look at it. it’s got anxiety",
+          "value" : "https://pbs.twimg.com/media/Fht0-chXEAAB-Rc.jpg"
+        } ],
+        "published" : [ "2022-11-16T21:38:21+00:00" ],
+        "uid" : [ "tag:twitter.com:1592995513007497216" ],
+        "url" : [ "https://twitter.com/hwilcove/status/1592995513007497216" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1593381859311996928" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1593381859311996928" ]
+  },
+  "type" : [ "h-entry" ]
+}
