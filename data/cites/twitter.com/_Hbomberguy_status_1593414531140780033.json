@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "youtube thing" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hbomberguy" ],
+        "nickname" : [ "Hbomberguy" ],
+        "numeric-id" : [ "29472053" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1530649060943794178/6QE0SnyC.jpg" ],
+        "published" : [ "2009-04-07T15:37:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Hbomberguy" ],
+        "url" : [ "https://twitter.com/Hbomberguy", "https://www.youtube.com/hbomberguy", "http://Patreon.com/Hbomb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you're gonna get on Mastodon, I would like to apologise in advance for being the guy responsible for posts being called \"Toots\". I thought it was funny. And it is, and it's even funnier that some people hate it. I take it back, I'm not sorry. Ha ha. Toots." ],
+    "published" : [ "2022-11-18T01:23:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1593414531140780033" ],
+    "url" : [ "https://twitter.com/Hbomberguy/status/1593414531140780033" ]
+  },
+  "type" : [ "h-entry" ]
+}
