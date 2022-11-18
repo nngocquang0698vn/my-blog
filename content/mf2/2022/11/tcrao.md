@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexeheath/status/1593368576777396226" ],
     "name" : [ "Like of @alexeheath's tweet" ],
     "published" : [ "2022-11-18T07:42:00+0000" ],
     "like-of" : [ "https://twitter.com/alexeheath/status/1593368576777396226" ],
