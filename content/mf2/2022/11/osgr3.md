@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MarlowNYC/status/1593571037207306240" ],
     "name" : [ "Like of @MarlowNYC's tweet" ],
     "published" : [ "2022-11-18T15:47:00+0000" ],
     "like-of" : [ "https://twitter.com/MarlowNYC/status/1593571037207306240" ],
