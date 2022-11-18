@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThisIsJoFrank/status/1593605525446565892" ],
     "name" : [ "Like of @ThisIsJoFrank's tweet" ],
     "published" : [ "2022-11-18T14:03:00+0000" ],
     "like-of" : [ "https://twitter.com/ThisIsJoFrank/status/1593605525446565892" ],
