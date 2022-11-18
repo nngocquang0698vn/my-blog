@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angie Jones" ],
+        "nickname" : [ "techgirl1908" ],
+        "numeric-id" : [ "2932738834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1558092645855121410/4rN25JDj.jpg" ],
+        "published" : [ "2014-12-19T22:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:techgirl1908" ],
+        "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">now yall see why I've been screaming for the past year that we *have* to DECOUPLE OUR DATA FROM THESE APPS! \n\nOne bad sale and now we're all sitting around hoping we don't completely lose the networks and content we've spent years building! 😡</div>",
+      "value" : "now yall see why I've been screaming for the past year that we *have* to DECOUPLE OUR DATA FROM THESE APPS! \n\nOne bad sale and now we're all sitting around hoping we don't completely lose the networks and content we've spent years building! 😡"
+    } ],
+    "published" : [ "2022-11-18T02:34:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1593432482245840898" ],
+    "url" : [ "https://twitter.com/techgirl1908/status/1593432482245840898" ]
+  },
+  "type" : [ "h-entry" ]
+}
