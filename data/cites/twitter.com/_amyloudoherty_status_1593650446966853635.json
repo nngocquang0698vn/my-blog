@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy Doherty" ],
+        "nickname" : [ "amyloudoherty" ],
+        "numeric-id" : [ "884514235" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1398684578584305665/yRDjEsBZ.jpg" ],
+        "published" : [ "2012-10-16T14:01:16+00:00" ],
+        "uid" : [ "tag:twitter.com:amyloudoherty" ],
+        "url" : [ "https://twitter.com/amyloudoherty", "http://amylouisedoherty.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"goodbye forever twitter / you're all over reacting\" is the new glass half empty / half full" ],
+    "published" : [ "2022-11-18T17:00:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1593650446966853635" ],
+    "url" : [ "https://twitter.com/amyloudoherty/status/1593650446966853635" ]
+  },
+  "type" : [ "h-entry" ]
+}
