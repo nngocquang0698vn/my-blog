@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ann Arbor, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Wolfers" ],
+        "nickname" : [ "JustinWolfers" ],
+        "numeric-id" : [ "327577091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323053923083628546/ubjUrwpN.jpg" ],
+        "published" : [ "2011-07-01T20:01:28+00:00" ],
+        "uid" : [ "tag:twitter.com:JustinWolfers" ],
+        "url" : [ "https://twitter.com/JustinWolfers", "http://www.nber.org/~jwolfers" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We’re finally going to see a Musk product in self-driving mode." ],
+    "published" : [ "2022-11-18T01:33:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1593417193865330688" ],
+    "url" : [ "https://twitter.com/JustinWolfers/status/1593417193865330688" ]
+  },
+  "type" : [ "h-entry" ]
+}
