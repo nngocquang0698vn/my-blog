@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ⭐️" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1570848065900126208/7Bs3SMOK.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/Jest_Iris/status/1592738961205886977\">@Jest_Iris</a> so grateful I don't have to brush any other of my bones regularly"
+    } ],
+    "published" : [ "2022-11-17T13:01:54+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "New York" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Iris✨" ],
+            "nickname" : [ "Jest_Iris" ],
+            "numeric-id" : [ "30599715" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1583853905322168325/-xdYLUma.jpg" ],
+            "published" : [ "2009-04-12T04:20:19+00:00" ],
+            "uid" : [ "tag:twitter.com:Jest_Iris" ],
+            "url" : [ "https://twitter.com/Jest_Iris", "https://twitter.com/search/from:@Jest_Iris(exclude:replies)" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "so grateful I don't have to brush any other of my bones regularly" ],
+        "published" : [ "2022-11-16T04:38:54+00:00" ],
+        "uid" : [ "tag:twitter.com:1592738961205886977" ],
+        "url" : [ "https://twitter.com/Jest_Iris/status/1592738961205886977" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1593227934386774016" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1593227934386774016" ]
+  },
+  "type" : [ "h-entry" ]
+}
