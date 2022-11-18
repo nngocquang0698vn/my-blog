@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JUNlPER/status/1593439890389204993" ],
     "name" : [ "Like of @JUNlPER's tweet" ],
     "published" : [ "2022-11-18T07:48:00+0000" ],
     "like-of" : [ "https://twitter.com/JUNlPER/status/1593439890389204993" ],
