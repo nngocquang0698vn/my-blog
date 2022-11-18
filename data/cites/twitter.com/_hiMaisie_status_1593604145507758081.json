@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Mosquito Capital" ],
+          "nickname" : [ "MosquitoCapital" ],
+          "numeric-id" : [ "1587189761327906818" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1587196714674446338/YFMrfnoc.jpg" ],
+          "published" : [ "2022-10-31T21:09:11+00:00" ],
+          "uid" : [ "tag:twitter.com:MosquitoCapital" ],
+          "url" : [ "https://twitter.com/MosquitoCapital" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I've seen a lot of people asking \"why does everyone think Twitter is doomed?\"\n\nAs an SRE and sysadmin with 10+ years of industry experience, I wanted to write up a few scenarios that are real threats to the integrity of the bird site over the coming weeks.</div>",
+        "value" : "I've seen a lot of people asking \"why does everyone think Twitter is doomed?\"\n\nAs an SRE and sysadmin with 10+ years of industry experience, I wanted to write up a few scenarios that are real threats to the integrity of the bird site over the coming weeks."
+      } ],
+      "published" : [ "2022-11-18T09:46:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1593541177965678592" ],
+      "url" : [ "https://twitter.com/MosquitoCapital/status/1593541177965678592" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/mosquitocapita…" ],
+      "url" : [ "https://twitter.com/mosquitocapital/status/1593541177965678592" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/they" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖👩‍💻" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587948047522271233/CxjrdVZW.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "good thread\n<a class=\"tag\" href=\"https://twitter.com/mosquitocapital/status/1593541177965678592\">twitter.com/mosquitocapita…</a>",
+      "value" : "good thread"
+    } ],
+    "published" : [ "2022-11-18T13:56:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1593604145507758081" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1593604145507758081" ]
+  },
+  "type" : [ "h-entry" ]
+}
