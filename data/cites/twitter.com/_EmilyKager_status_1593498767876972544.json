@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "maybe the real treasure were the main characters we dunked on along the way" ],
+    "published" : [ "2022-11-18T06:58:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1593498767876972544" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1593498767876972544" ]
+  },
+  "type" : [ "h-entry" ]
+}
