@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LKTranslator/status/1588817228266622977" ],
     "name" : [ "Like of @LKTranslator's tweet" ],
     "published" : [ "2022-11-18T14:52:00+0000" ],
     "like-of" : [ "https://twitter.com/LKTranslator/status/1588817228266622977" ],
