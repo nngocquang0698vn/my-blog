@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oureric/status/1593455561462489089" ],
     "name" : [ "Like of @oureric's tweet" ],
     "published" : [ "2022-11-18T08:14:00+0000" ],
     "like-of" : [ "https://twitter.com/oureric/status/1593455561462489089" ],
