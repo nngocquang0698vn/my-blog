@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Schaumann" ],
+        "nickname" : [ "jschauma" ],
+        "numeric-id" : [ "169213944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/551217713230528512/t4O7Iflt.jpeg" ],
+        "published" : [ "2010-07-21T20:33:15+00:00" ],
+        "uid" : [ "tag:twitter.com:jschauma" ],
+        "url" : [ "https://twitter.com/jschauma", "https://www.netmeister.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Honestly, *this* is the real Silicon Valley series finale." ],
+    "published" : [ "2022-11-18T02:43:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1593434751414984704" ],
+    "url" : [ "https://twitter.com/jschauma/status/1593434751414984704" ]
+  },
+  "type" : [ "h-entry" ]
+}
