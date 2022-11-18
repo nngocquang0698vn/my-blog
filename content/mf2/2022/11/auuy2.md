@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/willrad/status/677166981116764161" ],
     "name" : [ "Like of @willrad's tweet" ],
     "published" : [ "2022-11-18T07:40:00+0000" ],
     "like-of" : [ "https://twitter.com/willrad/status/677166981116764161" ],
