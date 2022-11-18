@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington D.C." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jasonbaumgartner@infosec.exchange (Mastodon)" ],
+        "nickname" : [ "jasonbaumgartne" ],
+        "numeric-id" : [ "70802518" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1091219066625363968/Xa0TBOEu.jpg" ],
+        "published" : [ "2009-09-01T22:16:09+00:00" ],
+        "uid" : [ "tag:twitter.com:jasonbaumgartne" ],
+        "url" : [ "https://twitter.com/jasonbaumgartne", "http://pushshift.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Pushshift is already seeing a larger number of server side errors coming back from Twitter's API. Approximately 25-30% of all API requests are now failing. \n\nGenerally we see a failure rate well under 1%. Error rates have been increasing steadily since Nov 16.</div>",
+      "value" : "Pushshift is already seeing a larger number of server side errors coming back from Twitter's API. Approximately 25-30% of all API requests are now failing. \n\nGenerally we see a failure rate well under 1%. Error rates have been increasing steadily since Nov 16."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fh2CttbWIAUocvO.jpg" ],
+    "published" : [ "2022-11-18T11:55:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1593573576346517504" ],
+    "url" : [ "https://twitter.com/jasonbaumgartne/status/1593573576346517504" ]
+  },
+  "type" : [ "h-entry" ]
+}
