@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "South Park" ],
+        "nickname" : [ "SouthPark" ],
+        "numeric-id" : [ "23504870" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1554650211921838082/MBYcsno9.jpg" ],
+        "published" : [ "2009-03-09T21:28:12+00:00" ],
+        "uid" : [ "tag:twitter.com:SouthPark" ],
+        "url" : [ "https://twitter.com/SouthPark", "http://cart.mn/concert" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Screw you guys, I’m going home" ],
+    "published" : [ "2022-11-18T04:29:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1593461315502313473" ],
+    "url" : [ "https://twitter.com/SouthPark/status/1593461315502313473" ]
+  },
+  "type" : [ "h-entry" ]
+}
