@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaffathecake/status/1593527984165715969" ],
     "name" : [ "Like of @jaffathecake's tweet" ],
     "published" : [ "2022-11-18T17:41:00+0000" ],
     "like-of" : [ "https://twitter.com/jaffathecake/status/1593527984165715969" ],
