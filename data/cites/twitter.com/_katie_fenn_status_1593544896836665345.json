@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Salford & Preston" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "it's a fuckin emu 🔴" ],
+          "nickname" : [ "adamjamesdavis_" ],
+          "numeric-id" : [ "3368022322" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1411896055881424897/jx90ZZT-.jpg" ],
+          "published" : [ "2015-07-09T17:31:17+00:00" ],
+          "uid" : [ "tag:twitter.com:adamjamesdavis_" ],
+          "url" : [ "https://twitter.com/adamjamesdavis_", "https://photos.app.goo.gl/qGBVk7YV5bnVZ5Ke9" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "\"people tend to think landlords are cashing in on rents going up\"" ],
+      "published" : [ "2022-11-17T14:32:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1593250766088642565" ],
+      "url" : [ "https://twitter.com/adamjamesdavis_/status/1593250766088642565" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1593250672069050368/pu/vid/1280x720/vsWFl_t_nWFAQ9i8.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sheffield" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Fenn" ],
+        "nickname" : [ "katie_fenn" ],
+        "numeric-id" : [ "14979616" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565979218588098560/UdbGsoBa.jpg" ],
+        "published" : [ "2008-06-02T12:02:44+00:00" ],
+        "uid" : [ "tag:twitter.com:katie_fenn" ],
+        "url" : [ "https://twitter.com/katie_fenn", "https://front-end.social/web/@katiefenn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is indistinguishable from Brass Eye." ],
+    "published" : [ "2022-11-18T10:01:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1593544896836665345" ],
+    "url" : [ "https://twitter.com/katie_fenn/status/1593544896836665345" ]
+  },
+  "type" : [ "h-entry" ]
+}
