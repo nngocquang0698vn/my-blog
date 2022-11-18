@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/veryimportant/status/1590820547612798976" ],
     "name" : [ "Like of @veryimportant's tweet" ],
     "published" : [ "2022-11-18T15:47:00+0000" ],
     "like-of" : [ "https://twitter.com/veryimportant/status/1590820547612798976" ],
