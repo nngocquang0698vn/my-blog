@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "los angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "steph mccann" ],
+        "nickname" : [ "steph_mcca" ],
+        "numeric-id" : [ "33079963" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1519158088695132160/vsRHNhQB.jpg" ],
+        "published" : [ "2009-04-19T01:19:31+00:00" ],
+        "uid" : [ "tag:twitter.com:steph_mcca" ],
+        "url" : [ "https://twitter.com/steph_mcca", "http://instagram.com/stephmcca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "loving how clear it is none of us understand what it takes for a website to actually break" ],
+    "published" : [ "2022-11-18T01:21:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1593414128206376961" ],
+    "url" : [ "https://twitter.com/steph_mcca/status/1593414128206376961" ]
+  },
+  "type" : [ "h-entry" ]
+}
