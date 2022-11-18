@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patrick Cosmos" ],
+        "nickname" : [ "veryimportant" ],
+        "numeric-id" : [ "7998632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/806234462505709568/kt-zeSbE.jpg" ],
+        "published" : [ "2007-08-06T18:04:38+00:00" ],
+        "uid" : [ "tag:twitter.com:veryimportant" ],
+        "url" : [ "https://twitter.com/veryimportant", "http://veryimportant.lawyer/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "having ever thought elon musk is smart or talented is now a permanently disqualifying trait, like supporting the iraq war" ],
+    "published" : [ "2022-11-10T21:35:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1590820547612798976" ],
+    "url" : [ "https://twitter.com/veryimportant/status/1590820547612798976" ]
+  },
+  "type" : [ "h-entry" ]
+}
