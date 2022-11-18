@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (real, not parody)" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We’ve been seeing issues in the app for a day or two now with replies suddenly reordering or tweets disappearing or showing as unavailable after being posted, despite still being available elsewhere.\n\nThis is surely the fault of everyone who was fired &amp; not anyone named Elon Musk</div>",
+      "value" : "We’ve been seeing issues in the app for a day or two now with replies suddenly reordering or tweets disappearing or showing as unavailable after being posted, despite still being available elsewhere.\n\nThis is surely the fault of everyone who was fired & not anyone named Elon Musk"
+    } ],
+    "published" : [ "2022-11-18T17:44:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1593661333970599936" ],
+    "url" : [ "https://twitter.com/fake_api/status/1593661333970599936" ]
+  },
+  "type" : [ "h-entry" ]
+}
