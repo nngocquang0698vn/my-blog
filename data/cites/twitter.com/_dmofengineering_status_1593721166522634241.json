@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@dm@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DM of Engineering 🎲" ],
+        "nickname" : [ "dmofengineering" ],
+        "numeric-id" : [ "989316882422353921" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989319601245769728/Hirg-zWU.jpg" ],
+        "published" : [ "2018-04-26T01:35:00+00:00" ],
+        "uid" : [ "tag:twitter.com:dmofengineering" ],
+        "url" : [ "https://twitter.com/dmofengineering", "http://patreon.com/dmofengineering" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">To all the press reaching out in my DMs:\n\nNo, I will not speculate on distributed systems failure modes for you, for two reasons:\n\n1. There are many highly qualified, publicly available people you can, and should reach out to.\n\n2. I am a 20-sided die on a hellsite.</div>",
+      "value" : "To all the press reaching out in my DMs:\n\nNo, I will not speculate on distributed systems failure modes for you, for two reasons:\n\n1. There are many highly qualified, publicly available people you can, and should reach out to.\n\n2. I am a 20-sided die on a hellsite."
+    } ],
+    "published" : [ "2022-11-18T21:41:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1593721166522634241" ],
+    "url" : [ "https://twitter.com/dmofengineering/status/1593721166522634241" ]
+  },
+  "type" : [ "h-entry" ]
+}
