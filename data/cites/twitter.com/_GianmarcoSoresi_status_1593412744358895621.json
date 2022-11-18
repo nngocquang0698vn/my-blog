@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gianmarco" ],
+        "nickname" : [ "GianmarcoSoresi" ],
+        "numeric-id" : [ "589431637" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1444809097048514565/xRk56a9m.jpg" ],
+        "published" : [ "2012-05-24T21:14:37+00:00" ],
+        "uid" : [ "tag:twitter.com:GianmarcoSoresi" ],
+        "url" : [ "https://twitter.com/GianmarcoSoresi", "https://open.spotify.com/show/3UbITi7D5ELEIng9YfWyTV?si=sIdAfddNRcC-Mf_Mrd4g4w" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is way worse" ],
+    "in-reply-to" : [ "https://twitter.com/GianmarcoSoresi/status/1593411151035092998" ],
+    "published" : [ "2022-11-18T01:16:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1593412744358895621" ],
+    "url" : [ "https://twitter.com/GianmarcoSoresi/status/1593412744358895621" ]
+  },
+  "type" : [ "h-entry" ]
+}
