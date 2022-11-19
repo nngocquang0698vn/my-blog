@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/irin/status/1593634177504755712" ],
     "name" : [ "Like of @irin's tweet" ],
     "published" : [ "2022-11-18T22:34:00+0000" ],
     "like-of" : [ "https://twitter.com/irin/status/1593634177504755712" ],
