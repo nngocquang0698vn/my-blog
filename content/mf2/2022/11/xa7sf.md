@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kenchengcomedy/status/1593546381662322690" ],
     "name" : [ "Like of @kenchengcomedy's tweet" ],
     "published" : [ "2022-11-18T22:18:00+0000" ],
     "like-of" : [ "https://twitter.com/kenchengcomedy/status/1593546381662322690" ],
