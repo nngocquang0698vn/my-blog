@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/burtn2thistaylr/status/1593448011409117184" ],
     "name" : [ "Like of @burtn2thistaylr's tweet" ],
     "published" : [ "2022-11-18T22:50:00+0000" ],
     "like-of" : [ "https://twitter.com/burtn2thistaylr/status/1593448011409117184" ],
