@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Minneapolis, Minnesota" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Will Stancil" ],
+          "nickname" : [ "whstancil" ],
+          "numeric-id" : [ "47063142" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1590923042116538368/1NSpgcCH.jpg" ],
+          "published" : [ "2009-06-14T09:07:42+00:00" ],
+          "uid" : [ "tag:twitter.com:whstancil" ],
+          "url" : [ "https://twitter.com/whstancil" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Let me suggest the contempt in that second tweet - “please, surely he can manage a social network” - is a big part of why he’s very visibly failing at managing this social network." ],
+      "photo" : [ "https://pbs.twimg.com/media/FhsEI7hXEAAF6kx.jpg" ],
+      "published" : [ "2022-11-16T13:25:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1592871447688806403" ],
+      "url" : [ "https://twitter.com/whstancil/status/1592871447688806403" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Goldman" ],
+        "nickname" : [ "goldman" ],
+        "numeric-id" : [ "291" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509220029023207424/AgqmeyP-.jpg" ],
+        "published" : [ "2006-05-20T19:46:03+00:00" ],
+        "uid" : [ "tag:twitter.com:goldman" ],
+        "url" : [ "https://twitter.com/goldman", "http://dunepod.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Social media has long been sneered at by “hardcore engineers” since before social media was a term. It was a dynamic at Google versus Blogger. The challenges of building systems that amplify human weirdness and wonder as distinct from search, commerce, cars just never computes." ],
+    "published" : [ "2022-11-16T15:31:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1592903096094535680" ],
+    "url" : [ "https://twitter.com/goldman/status/1592903096094535680" ]
+  },
+  "type" : [ "h-entry" ]
+}
