@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "/usr/local/sin" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "malice ghoulpus" ],
+          "nickname" : [ "alicegoldfuss" ],
+          "numeric-id" : [ "163154809" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ],
+          "published" : [ "2010-07-05T17:51:34+00:00" ],
+          "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+          "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Software Engineers\n\n20-25: gotta get a job gotta get a job gotta get a job\n25-29: gotta get promoted gotta get promoted gotta get promoted \n30: makes their own pickles</div>",
+        "value" : "Software Engineers\n\n20-25: gotta get a job gotta get a job gotta get a job\n25-29: gotta get promoted gotta get promoted gotta get promoted \n30: makes their own pickles"
+      } ],
+      "published" : [ "2020-01-16T17:27:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1217860920824565760" ],
+      "url" : [ "https://twitter.com/alicegoldfuss/status/1217860920824565760" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "sarah_edo@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Drasner" ],
+        "nickname" : [ "sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras", "http://codepen.io/sdras" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Before it all ends, I just want you to know this is the best tweet that’s been tweeted" ],
+    "published" : [ "2022-11-19T03:06:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1593802841180672001" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1593802841180672001" ]
+  },
+  "type" : [ "h-entry" ]
+}
