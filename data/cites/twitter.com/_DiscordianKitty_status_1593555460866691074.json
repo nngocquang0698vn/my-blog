@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "youtube thing" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Hbomberguy" ],
+          "nickname" : [ "Hbomberguy" ],
+          "numeric-id" : [ "29472053" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1530649060943794178/6QE0SnyC.jpg" ],
+          "published" : [ "2009-04-07T15:37:12+00:00" ],
+          "uid" : [ "tag:twitter.com:Hbomberguy" ],
+          "url" : [ "https://twitter.com/Hbomberguy", "https://www.youtube.com/hbomberguy", "http://Patreon.com/Hbomb" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If you're gonna get on Mastodon, I would like to apologise in advance for being the guy responsible for posts being called \"Toots\". I thought it was funny. And it is, and it's even funnier that some people hate it. I take it back, I'm not sorry. Ha ha. Toots." ],
+      "published" : [ "2022-11-18T01:23:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1593414531140780033" ],
+      "url" : [ "https://twitter.com/Hbomberguy/status/1593414531140780033" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laura Shortridge-Scott 🐈💙🏴󠁧󠁢󠁳󠁣󠁴󠁿" ],
+        "nickname" : [ "DiscordianKitty" ],
+        "numeric-id" : [ "64960410" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1545788850659786754/JTEjM-Dq.jpg" ],
+        "published" : [ "2009-08-12T06:27:17+00:00" ],
+        "uid" : [ "tag:twitter.com:DiscordianKitty" ],
+        "url" : [ "https://twitter.com/DiscordianKitty", "https://linktr.ee/discordiankitty" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "W H A T " ],
+    "photo" : [ {
+      "alt" : "Probably not a lot of people know this now, but Mastodon's web app started out with \"Publish\". In 2016 a famous YouTuber jokingly offered to support Mastodon's Patreon forever if I change the button to say \"Toot\" instead. Needless to say, this was a really early, and not very informed decision. The first glimpse of attention and financial support. As a non-native speaker I had no idea there was another meeting.",
+      "value" : "https://pbs.twimg.com/media/Fh1yPk6XwAAfoCa.png"
+    } ],
+    "published" : [ "2022-11-18T10:43:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1593555460866691074" ],
+    "url" : [ "https://twitter.com/DiscordianKitty/status/1593555460866691074" ]
+  },
+  "type" : [ "h-entry" ]
+}
