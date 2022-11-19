@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, DE" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charlie O’Hara" ],
+        "nickname" : [ "whalecoiner" ],
+        "numeric-id" : [ "160687830" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1535268946018029570/2m_PaXGL.jpg" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "uid" : [ "tag:twitter.com:whalecoiner" ],
+        "url" : [ "https://twitter.com/whalecoiner", "https://indieweb.social/@whalecoiner" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hang on, this is Gen Ashley of Women Who Code Gen Ashley?? Fucking hell.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cassiecodes\"></a>",
+      "value" : "Hang on, this is Gen Ashley of Women Who Code Gen Ashley?? Fucking hell."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cassiecodes/status/1593675948410507266" ],
+    "published" : [ "2022-11-19T00:53:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1593769365610323968" ],
+    "url" : [ "https://twitter.com/whalecoiner/status/1593769365610323968" ]
+  },
+  "type" : [ "h-entry" ]
+}
