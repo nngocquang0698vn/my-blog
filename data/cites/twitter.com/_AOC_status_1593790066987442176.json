@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1593767953706921985" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bronx + Queens, NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexandria Ocasio-Cortez" ],
+        "nickname" : [ "AOC" ],
+        "numeric-id" : [ "138203134" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl.jpg" ],
+        "published" : [ "2010-04-28T22:38:40+00:00" ],
+        "uid" : [ "tag:twitter.com:AOC" ],
+        "url" : [ "https://twitter.com/AOC", "http://www.ocasiocortez.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Idk man, last time he was here this platform was used to incite an insurrection, multiple people died, the Vice President of the United States was nearly assassinated, and hundreds were injured but I guess that’s not enough for you to answer the question. Twitter poll it is\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1593767953706921985\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Idk man, last time he was here this platform was used to incite an insurrection, multiple people died, the Vice President of the United States was nearly assassinated, and hundreds were injured but I guess that’s not enough for you to answer the question. Twitter poll it is"
+    } ],
+    "published" : [ "2022-11-19T02:15:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1593790066987442176" ],
+    "url" : [ "https://twitter.com/AOC/status/1593790066987442176" ]
+  },
+  "type" : [ "h-entry" ]
+}
