@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/steph_mcca/status/1593414128206376961" ],
     "name" : [ "Like of @steph_mcca's tweet" ],
     "published" : [ "2022-11-18T22:48:00+0000" ],
     "like-of" : [ "https://twitter.com/steph_mcca/status/1593414128206376961" ],
