@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "new york " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "John Herrman" ],
+          "nickname" : [ "jwherrman" ],
+          "numeric-id" : [ "27941766" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2323995886/qd19dnalzx0tjf99nivo.gif" ],
+          "published" : [ "2009-03-31T19:27:57+00:00" ],
+          "uid" : [ "tag:twitter.com:jwherrman" ],
+          "url" : [ "https://twitter.com/jwherrman" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "one video chat broke my heart in a different way. a sweet photographer and crypto newbie who is too embarrassed to tell his friends what happened. larry!! larry, look what you did!!!!" ],
+      "in-reply-to" : [ "https://twitter.com/jwherrman/status/1593998670306869248" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fh8Dq_mXgAMJY4S.png" ],
+      "published" : [ "2022-11-19T16:04:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1593998671515127808" ],
+      "url" : [ "https://twitter.com/jwherrman/status/1593998671515127808" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "genocide deniers get blocked" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Palmer" ],
+        "nickname" : [ "BeijingPalmer" ],
+        "numeric-id" : [ "1254412448" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1456703700739706881/yN01rgEL.jpg" ],
+        "published" : [ "2013-03-09T13:43:21+00:00" ],
+        "uid" : [ "tag:twitter.com:BeijingPalmer" ],
+        "url" : [ "https://twitter.com/BeijingPalmer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think a lot of us laugh at celeb ads but they do in fact work and in the case of celebs flogging criminal products there should be some sense of the damage they did" ],
+    "published" : [ "2022-11-19T16:26:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1594004219899543554" ],
+    "url" : [ "https://twitter.com/BeijingPalmer/status/1594004219899543554" ]
+  },
+  "type" : [ "h-entry" ]
+}
