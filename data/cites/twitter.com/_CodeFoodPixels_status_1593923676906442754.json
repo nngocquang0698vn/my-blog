@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ayr, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "CodeFoodPixels@indieweb.social" ],
+        "nickname" : [ "CodeFoodPixels" ],
+        "numeric-id" : [ "14615608" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1258417787837526016/l4naubnM.jpg" ],
+        "published" : [ "2008-05-01T15:46:39+00:00" ],
+        "uid" : [ "tag:twitter.com:CodeFoodPixels" ],
+        "url" : [ "https://twitter.com/CodeFoodPixels", "https://lukeb.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've stopped procrastinating (<a href=\"https://twitter.com/search?q=%23ADHD\">#ADHD</a>) and finally got myself on Mastodon\n\n@codefoodpixels@indieweb.social\n\n<a href=\"https://indieweb.social/@codefoodpixels\">indieweb.social/@codefoodpixels</a></div>",
+      "value" : "I've stopped procrastinating (#ADHD) and finally got myself on Mastodon\n\n@codefoodpixels@indieweb.social\n\nindieweb.social/@codefoodpixels"
+    } ],
+    "published" : [ "2022-11-19T11:06:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1593923676906442754" ],
+    "url" : [ "https://twitter.com/CodeFoodPixels/status/1593923676906442754" ]
+  },
+  "type" : [ "h-entry" ]
+}
