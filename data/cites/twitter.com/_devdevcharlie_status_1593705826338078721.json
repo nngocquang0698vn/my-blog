@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charlie Gerard | @devdevcharlie@hachyderm.io" ],
+        "nickname" : [ "devdevcharlie" ],
+        "numeric-id" : [ "99135401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499428216108294152/KA6f3tkM.jpg" ],
+        "published" : [ "2009-12-24T16:53:15+00:00" ],
+        "uid" : [ "tag:twitter.com:devdevcharlie" ],
+        "url" : [ "https://twitter.com/devdevcharlie", "https://charliegerard.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thanks again for sharing! I brought this up to my manager as my company was sponsoring and I doubt we'll do it again. That part wasn't handled well by them either apparently 🫤 and I'd rather us sponsor a more community-focused conf.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cassiecodes\"></a>",
+      "value" : "Thanks again for sharing! I brought this up to my manager as my company was sponsoring and I doubt we'll do it again. That part wasn't handled well by them either apparently 🫤 and I'd rather us sponsor a more community-focused conf."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cassiecodes/status/1593675948410507266" ],
+    "published" : [ "2022-11-18T20:40:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1593705826338078721" ],
+    "url" : [ "https://twitter.com/devdevcharlie/status/1593705826338078721" ]
+  },
+  "type" : [ "h-entry" ]
+}
