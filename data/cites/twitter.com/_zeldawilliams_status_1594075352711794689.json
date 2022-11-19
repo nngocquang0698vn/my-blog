@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bears. Beets. More Bears." ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gail Simone 💙💛" ],
+          "nickname" : [ "GailSimone" ],
+          "numeric-id" : [ "16024323" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1422233334810255360/7HFX4oYp.jpg" ],
+          "published" : [ "2008-08-28T07:19:24+00:00" ],
+          "uid" : [ "tag:twitter.com:GailSimone" ],
+          "url" : [ "https://twitter.com/GailSimone" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Zelda banged Mario." ],
+      "published" : [ "2022-11-19T18:00:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1594027729313112064" ],
+      "url" : [ "https://twitter.com/GailSimone/status/1594027729313112064" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gailsimone/sta…" ],
+      "url" : [ "https://twitter.com/gailsimone/status/1594027729313112064" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Zelda Williams" ],
+        "nickname" : [ "zeldawilliams" ],
+        "numeric-id" : [ "33473521" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533962859582853120/ol5FV4mi.jpg" ],
+        "published" : [ "2009-04-20T10:04:39+00:00" ],
+        "uid" : [ "tag:twitter.com:zeldawilliams" ],
+        "url" : [ "https://twitter.com/zeldawilliams" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "*pegged\n<a class=\"tag\" href=\"https://twitter.com/gailsimone/status/1594027729313112064\">twitter.com/gailsimone/sta…</a>",
+      "value" : "*pegged"
+    } ],
+    "published" : [ "2022-11-19T21:09:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1594075352711794689" ],
+    "url" : [ "https://twitter.com/zeldawilliams/status/1594075352711794689" ]
+  },
+  "type" : [ "h-entry" ]
+}
