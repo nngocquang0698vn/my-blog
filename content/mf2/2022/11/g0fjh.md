@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kchironis/status/1593462037081792513" ],
     "name" : [ "Like of @kchironis's tweet" ],
     "published" : [ "2022-11-18T22:53:00+0000" ],
     "like-of" : [ "https://twitter.com/kchironis/status/1593462037081792513" ],
