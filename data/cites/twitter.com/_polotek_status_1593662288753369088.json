@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "People who need IT support from their children every Thanksgiving because they can't print anymore keep asking why Twitter won't just keep running with no employees." ],
+    "published" : [ "2022-11-18T17:47:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1593662288753369088" ],
+    "url" : [ "https://twitter.com/polotek/status/1593662288753369088" ]
+  },
+  "type" : [ "h-entry" ]
+}
