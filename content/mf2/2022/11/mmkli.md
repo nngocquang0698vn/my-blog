@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SafeSpaceDrWho/status/1593428082764836864" ],
     "name" : [ "Like of @SafeSpaceDrWho's tweet" ],
     "published" : [ "2022-11-18T22:36:00+0000" ],
     "like-of" : [ "https://twitter.com/SafeSpaceDrWho/status/1593428082764836864" ],
