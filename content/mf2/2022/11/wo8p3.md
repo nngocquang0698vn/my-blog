@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Steph_I_Will/status/1593404493827391488" ],
     "name" : [ "Like of @Steph_I_Will's tweet" ],
     "published" : [ "2022-11-18T22:42:00+0000" ],
     "like-of" : [ "https://twitter.com/Steph_I_Will/status/1593404493827391488" ],
