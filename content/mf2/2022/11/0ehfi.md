@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qkate/status/1593725606533136384" ],
     "name" : [ "Like of @qkate's tweet" ],
     "published" : [ "2022-11-18T22:32:00+0000" ],
     "like-of" : [ "https://twitter.com/qkate/status/1593725606533136384" ],
