@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmojiMashupBot/status/1593443021189685250" ],
     "name" : [ "Like of @EmojiMashupBot's tweet" ],
     "published" : [ "2022-11-18T22:43:00+0000" ],
     "like-of" : [ "https://twitter.com/EmojiMashupBot/status/1593443021189685250" ],
