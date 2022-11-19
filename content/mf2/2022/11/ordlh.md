@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StorySlug/status/1593656647716667392" ],
     "name" : [ "Like of @StorySlug's tweet" ],
     "published" : [ "2022-11-18T22:31:00+0000" ],
     "like-of" : [ "https://twitter.com/StorySlug/status/1593656647716667392" ],
