@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "alex" ],
+        "nickname" : [ "shizzlegtx" ],
+        "numeric-id" : [ "18291952" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1301496250206883842/3l-wV7FL.jpg" ],
+        "published" : [ "2008-12-21T20:12:41+00:00" ],
+        "uid" : [ "tag:twitter.com:shizzlegtx" ],
+        "url" : [ "https://twitter.com/shizzlegtx" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "i remember this, this was the moment racism ended\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/biancaxunise\"></a>",
+      "value" : "i remember this, this was the moment racism ended"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/biancaxunise/status/1593732231595450369" ],
+    "published" : [ "2022-11-19T05:37:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1593840991974195202" ],
+    "url" : [ "https://twitter.com/shizzlegtx/status/1593840991974195202" ]
+  },
+  "type" : [ "h-entry" ]
+}
