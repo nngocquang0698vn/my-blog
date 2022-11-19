@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Job Queues in Go - OpsDash" ],
+    "summary" : [ "Constructs and snippets to build your job queue in Golang." ],
+    "featured" : [ "https://www.opsdash.com/static/images/apple-touch-icon-120x120.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "RapidLoop" ]
+      }
+    } ],
+    "url" : [ "https://www.opsdash.com/blog/job-queues-in-go.html" ]
+  }
+}
