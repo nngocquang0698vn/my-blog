@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karaswisher/status/1593970881352826880" ],
     "name" : [ "Like of @karaswisher's tweet" ],
     "published" : [ "2022-11-19T14:52:00+0000" ],
     "like-of" : [ "https://twitter.com/karaswisher/status/1593970881352826880" ],
