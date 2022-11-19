@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hollywood, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Hollywood Reporter" ],
+          "nickname" : [ "THR" ],
+          "numeric-id" : [ "17446621" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/528317230367268865/Po8lHinI.jpeg" ],
+          "published" : [ "2008-11-17T18:10:33+00:00" ],
+          "uid" : [ "tag:twitter.com:THR" ],
+          "url" : [ "https://twitter.com/THR", "http://hollywoodreporter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "James Gunn Talks Writing ‘The Guardians of the Galaxy Holiday Special’ in Just a Few Hours and the Latest on His Final ‘Guardians’ Film <a href=\"https://www.hollywoodreporter.com/movies/movie-features/james-gunn-guardians-of-the-galaxy-holiday-special-1235265608/\">hollywoodreporter.com/movies/movie-f…</a>",
+        "value" : "James Gunn Talks Writing ‘The Guardians of the Galaxy Holiday Special’ in Just a Few Hours and the Latest on His Final ‘Guardians’ Film hollywoodreporter.com/movies/movie-f…"
+      } ],
+      "published" : [ "2022-11-18T23:07:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1593742828412321797" ],
+      "url" : [ "https://twitter.com/THR/status/1593742828412321797" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Gunn" ],
+        "nickname" : [ "JamesGunn" ],
+        "numeric-id" : [ "14982315" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576360797936050176/p76wVpiq.jpg" ],
+        "published" : [ "2008-06-02T17:09:39+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesGunn" ],
+        "url" : [ "https://twitter.com/JamesGunn", "http://www.instagram.com/jamesgunn", "http://c.im/@jamesgunn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "btw I didn't actually write the whole thing in a couple hours. The basic story & treatment WAS literally a few hours, but then it took me a few more days to put the whole thing together. Vol 3, on the other hand, took an entire year or more of writing. You never know." ],
+    "published" : [ "2022-11-19T01:35:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1593779872312090625" ],
+    "url" : [ "https://twitter.com/JamesGunn/status/1593779872312090625" ]
+  },
+  "type" : [ "h-entry" ]
+}
