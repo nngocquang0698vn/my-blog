@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "gRPC &amp; protocol buffers with Askhay Shah (Go Time #256)" ],
+    "summary" : [ "On a previous episode of Go Time we discussed binary bloat, and how the Go protocol buffer implementation is a big offender. In this episode we dive into the history of protocol buffers and gRPC, then we discuss how the protocol and the implementation can vary and lead to things like binary bloat. " ],
+    "featured" : [ "https://cdn.changelog.com/static/images/share/twitter-gotime-a47cdd7bb3e3357398eda827d9cc3615.png" ],
+    "audio" : [ "https://op3.dev/e/https://cdn.changelog.com/uploads/gotime/256/go-time-256.mp3" ],
+    "url" : [ "https://changelog.com/gotime/256" ]
+  }
+}
