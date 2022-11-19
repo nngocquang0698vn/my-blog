@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Ann Arbor, MI   DM’s open" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Turner Novak 🍌🧢" ],
+          "nickname" : [ "TurnerNovak" ],
+          "numeric-id" : [ "35647451" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1484379336857640960/Sis6_GKv.png" ],
+          "published" : [ "2009-04-27T02:48:23+00:00" ],
+          "uid" : [ "tag:twitter.com:TurnerNovak" ],
+          "url" : [ "https://twitter.com/TurnerNovak", "https://www.thespl.it/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">In Google’s early days, founders Sergei and Brian manually provided the links for each search query. They wrote down the most popular links on paper and alternated shifts so the other could sleep.\n\nToday, Google‘s the most valuable company in the world\n\nDo things that don’t scale</div>",
+        "value" : "In Google’s early days, founders Sergei and Brian manually provided the links for each search query. They wrote down the most popular links on paper and alternated shifts so the other could sleep.\n\nToday, Google‘s the most valuable company in the world\n\nDo things that don’t scale"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Eyu3FWjXEAg06Yd.jpg" ],
+      "published" : [ "2021-04-12T00:09:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1381399020304797704" ],
+      "url" : [ "https://twitter.com/TurnerNovak/status/1381399020304797704" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/turnernovak/st…" ],
+      "url" : [ "https://twitter.com/turnernovak/status/1381399020304797704" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Trung Phan" ],
+        "nickname" : [ "TrungTPhan" ],
+        "numeric-id" : [ "945817135816654848" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1506362585448296448/LJg8kVSD.jpg" ],
+        "published" : [ "2017-12-27T00:42:32+00:00" ],
+        "uid" : [ "tag:twitter.com:TrungTPhan" ],
+        "url" : [ "https://twitter.com/TrungTPhan", "https://bearly.ai" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“do things that don’t scale”\n<a class=\"tag\" href=\"https://twitter.com/turnernovak/status/1381399020304797704\">twitter.com/turnernovak/st…</a>",
+      "value" : "“do things that don’t scale”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TrungTPhan/status/1593731597085573120" ],
+    "published" : [ "2022-11-18T23:17:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1593745344550277120" ],
+    "url" : [ "https://twitter.com/TrungTPhan/status/1593745344550277120" ]
+  },
+  "type" : [ "h-entry" ]
+}
