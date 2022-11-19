@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "My experience at Modern Frontends Live" ],
+    "summary" : [ "I spoke at an event that turned out to have some lies surrounding it, documenting this for future reference." ],
+    "featured" : [ "https://hidde.blog/_images/mfl.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Hidde de Vries" ]
+      }
+    } ],
+    "url" : [ "https://hidde.blog/modern-frontends-live/" ]
+  }
+}
