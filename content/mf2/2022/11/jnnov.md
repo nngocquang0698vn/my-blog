@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KumarsSalehi/status/980892054094954496" ],
     "name" : [ "Like of @KumarsSalehi's tweet" ],
     "published" : [ "2022-11-18T22:15:00+0000" ],
     "like-of" : [ "https://twitter.com/KumarsSalehi/status/980892054094954496" ],
