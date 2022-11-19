@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "$HOME" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Command Line Magic" ],
+          "nickname" : [ "climagic" ],
+          "numeric-id" : [ "91333167" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322201332934156288/9CjMTKbb.jpg" ],
+          "published" : [ "2009-11-20T12:49:35+00:00" ],
+          "uid" : [ "tag:twitter.com:climagic" ],
+          "url" : [ "https://twitter.com/climagic", "http://www.climagic.org/", "https://mastodon.social/@climagic" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "http://bhami.com/rosetta.html  # Rosetta Stone for Unix. Really cool table of how to do things in different versions of Unix." ],
+      "published" : [ "2011-07-29T14:37:53+00:00" ],
+      "uid" : [ "tag:twitter.com:96952589173788672" ],
+      "url" : [ "https://twitter.com/climagic/status/96952589173788672" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "$HOME" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Command Line Magic" ],
+        "nickname" : [ "climagic" ],
+        "numeric-id" : [ "91333167" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322201332934156288/9CjMTKbb.jpg" ],
+        "published" : [ "2009-11-20T12:49:35+00:00" ],
+        "uid" : [ "tag:twitter.com:climagic" ],
+        "url" : [ "https://twitter.com/climagic", "http://www.climagic.org/", "https://mastodon.social/@climagic" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Wow, remember when Twitter didn't linkify everything, including actual websites?" ],
+    "published" : [ "2022-11-19T13:11:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1593955234354790401" ],
+    "url" : [ "https://twitter.com/climagic/status/1593955234354790401" ]
+  },
+  "type" : [ "h-entry" ]
+}
