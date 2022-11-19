@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "St. Gallen, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lukas Eder" ],
+        "nickname" : [ "lukaseder" ],
+        "numeric-id" : [ "49755613" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1425775171651186690/hMt0Iqwl.jpg" ],
+        "published" : [ "2009-06-22T20:33:47+00:00" ],
+        "uid" : [ "tag:twitter.com:lukaseder" ],
+        "url" : [ "https://twitter.com/lukaseder", "https://www.jooq.org", "http://blog.jooq.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "BREAKING: Twitter just laid off 90% of their indexes. Sources confirm the remaining SQL queries just have to be more hardcore" ],
+    "published" : [ "2022-11-18T07:43:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1593510236064808964" ],
+    "url" : [ "https://twitter.com/lukaseder/status/1593510236064808964" ]
+  },
+  "type" : [ "h-entry" ]
+}
