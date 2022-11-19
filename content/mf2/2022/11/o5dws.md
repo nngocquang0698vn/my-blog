@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AOC/status/1593426261371658241" ],
     "name" : [ "Like of @AOC's tweet" ],
     "published" : [ "2022-11-18T22:34:00+0000" ],
     "like-of" : [ "https://twitter.com/AOC/status/1593426261371658241" ],
