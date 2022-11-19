@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/timcappalli/status/1593726774621265920" ],
     "name" : [ "Like of @timcappalli's tweet" ],
     "published" : [ "2022-11-18T22:22:00+0000" ],
     "like-of" : [ "https://twitter.com/timcappalli/status/1593726774621265920" ],
