@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "contact@sportbible.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "SPORTbible" ],
+          "nickname" : [ "sportbible" ],
+          "numeric-id" : [ "435225922" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1502336009211686919/6l8yeEw9.jpg" ],
+          "published" : [ "2011-12-12T20:29:59+00:00" ],
+          "uid" : [ "tag:twitter.com:sportbible" ],
+          "url" : [ "https://twitter.com/sportbible", "http://sportbible.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Lionel Messi and Cristiano Ronaldo have just come together to take the best picture of 2022." ],
+      "photo" : [ "https://pbs.twimg.com/media/Fh8cinNX0AEB3yt.jpg" ],
+      "published" : [ "2022-11-19T17:45:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1594024178860322816" ],
+      "url" : [ "https://twitter.com/sportbible/status/1594024178860322816" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "My Fortified Compound" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "my life is a living hell. every minute is torture" ],
+        "nickname" : [ "on_da_spectrum" ],
+        "numeric-id" : [ "1188882050129883140" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343007343403884544/1aoB2wO-.jpg" ],
+        "published" : [ "2019-10-28T18:16:03+00:00" ],
+        "uid" : [ "tag:twitter.com:on_da_spectrum" ],
+        "url" : [ "https://twitter.com/on_da_spectrum" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I've been staring at this for ~5 minutes now trying to write a joke for it, but nothing could possibly be funnier than imagining how much this picture means to some 19 year old British kid out there. He probably audibly gasped out loud like an anime character when he saw this" ],
+    "published" : [ "2022-11-19T19:57:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1594057284002332679" ],
+    "url" : [ "https://twitter.com/on_da_spectrum/status/1594057284002332679" ]
+  },
+  "type" : [ "h-entry" ]
+}
