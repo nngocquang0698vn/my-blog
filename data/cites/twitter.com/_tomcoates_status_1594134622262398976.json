@@ -1,0 +1,38 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1586059953311137792" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Coates" ],
+        "nickname" : [ "tomcoates" ],
+        "numeric-id" : [ "12514" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1270078137636773890/LiYcbb33.jpg" ],
+        "published" : [ "2006-11-15T14:44:26+00:00" ],
+        "uid" : [ "tag:twitter.com:tomcoates" ],
+        "url" : [ "https://twitter.com/tomcoates", "http://www.plasticbag.org/", "http://mastodon.cloud/@tomcoates" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "So you lied.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1586059953311137792\">twitter.com/elonmusk/statu…</a>",
+      "value" : "So you lied."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1594131768298315777" ],
+    "published" : [ "2022-11-20T01:04:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1594134622262398976" ],
+    "url" : [ "https://twitter.com/tomcoates/status/1594134622262398976" ]
+  },
+  "type" : [ "h-entry" ]
+}
