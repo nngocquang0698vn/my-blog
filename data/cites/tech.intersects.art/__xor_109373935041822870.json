@@ -1,0 +1,352 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://tech.intersects.art/@xor/109373935041822870" ],
+    "uid" : [ "https://tech.intersects.art/@xor/109373935041822870" ],
+    "published" : [ "2022-11-20T03:10:03+00:00" ],
+    "content" : [ {
+      "html" : "<p>CSS still annoying in 2368</p>",
+      "value" : "CSS still annoying in 2368",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Parker Higgins" ],
+        "url" : [ "https://tech.intersects.art/@xor" ],
+        "photo" : [ {
+          "value" : "https://techart.files.fedi.monster/accounts/avatars/109/320/085/165/411/808/original/3a53bf240f5e45ab.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Parker Higgins"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@cemerick/109373970330520030", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://mastodon.social/@cemerick/109373970330520030" ],
+        "published" : [ "2022-11-20T03:19:02+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> the best bit is when it really goes off the rails with the slanted top</p>",
+          "value" : "@xor the best bit is when it really goes off the rails with the slanted top",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chas Emerick" ],
+            "url" : [ "https://mastodon.social/@cemerick" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/373/970/393/823/944/original/fc998e3bbf38f38c.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Chas Emerick"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 03:19 Chas Emerick @cemerick@mastodon.social\n@xor the best bit is when it really goes off the rails with the slanted top f7f3ab622cfeadd3.png 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cathode.church/@rgb/109373990163320869", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://cathode.church/@rgb/109373990163320869" ],
+        "published" : [ "2022-11-20T03:24:04+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> 3D css is a real bitch to float properly</p>",
+          "value" : "@xor 3D css is a real bitch to float properly",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "notorious rgb" ],
+            "url" : [ "https://cathode.church/@rgb" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/332/089/556/357/422/original/4d51d9e30c3dafe2.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "notorious rgb"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 03:24 notorious rgb @rgb@cathode.church\n@xor 3D css is a real bitch to float properly 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cloud-native.social/@ygalanter/109373992259397871", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://cloud-native.social/@ygalanter/109373992259397871" ],
+        "published" : [ "2022-11-20T03:24:36+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> you should see SQL...</p>",
+          "value" : "@xor you should see SQL...",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Comfortably Numb" ],
+            "url" : [ "https://cloud-native.social/@ygalanter" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/372/614/486/486/992/original/dd9ec2e5b41ff378.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Comfortably Numb"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 03:24 Comfortably Numb @ygalanter@cloud-native.social\n@xor you should see SQL... 6473d2dc2518aaf2.png 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/@packy/109374178633505991", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://fosstodon.org/@packy/109374178633505991" ],
+        "published" : [ "2022-11-20T04:12:00+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> 😂 😂 😂</p>",
+          "value" : "@xor 😂 😂 😂",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Packy Anderson" ],
+            "url" : [ "https://fosstodon.org/@packy" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/366/593/258/897/000/original/ee7a1a3a9a7f20bd.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Packy Anderson"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 04:12 Packy Anderson @packy@fosstodon.org\n@xor 😂 😂 😂 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@aceattveg/109374198830825108", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://mastodon.social/@aceattveg/109374198830825108" ],
+        "published" : [ "2022-11-20T04:17:08+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> This episode traumatized me in a good way.</p>",
+          "value" : "@xor This episode traumatized me in a good way.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "aceattveg" ],
+            "url" : [ "https://mastodon.social/@aceattveg" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/374/198/892/255/758/original/5a3ec833038b091f.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "aceattveg"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 04:17 aceattveg @aceattveg@mastodon.social\n@xor This episode traumatized me in a good way. 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@arthurwyatt/109374224672990097", "https://tech.intersects.art/@xor", "https://mefi.social/@pronoiac" ],
+        "uid" : [ "https://mastodon.social/@arthurwyatt/109374224672990097" ],
+        "published" : [ "2022-11-20T04:23:43+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> <span class=\"article-type\"><a href=\"https://mefi.social/@pronoiac\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">pronoiac</span></a></span> Got it centered though, small miracles.</p>",
+          "value" : "@xor @pronoiac Got it centered though, small miracles.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Arthur Wyatt" ],
+            "url" : [ "https://mastodon.social/@arthurwyatt" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/349/702/010/885/054/original/2f15ce93ad27899d.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Arthur Wyatt"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 04:23 Arthur Wyatt @arthurwyatt@mastodon.social\n@xor @pronoiac Got it centered though, small miracles. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@lightrush/109374263526171232", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://mastodon.social/@lightrush/109374263526171232" ],
+        "published" : [ "2022-11-20T04:33:36+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> CSS still a viable career in 2368</p>",
+          "value" : "@xor CSS still a viable career in 2368",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nicolay Doytchev" ],
+            "url" : [ "https://mastodon.social/@lightrush" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/367/149/680/966/665/original/03d67463797d483b.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Nicolay Doytchev"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 04:33 Nicolay Doytchev @lightrush@mastodon.social\n@xor CSS still a viable career in 2368 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://universeodon.com/@lmamakos/109374249250755470", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://universeodon.com/@lmamakos/109374249250755470" ],
+        "published" : [ "2022-11-20T04:29:58+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> Since my echo dot uses computer as the wake word, I asked it to do this.  Rather than return an error... it did... _something_</p><p>Hmm..</p>",
+          "value" : "@xor Since my echo dot uses computer as the wake word, I asked it to do this. Rather than return an error... it did... _something_\nHmm..",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Louis Mamakos" ],
+            "url" : [ "https://universeodon.com/@lmamakos" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/374/286/860/236/640/original/83297677adfd996d.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Louis Mamakos"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 04:29 Louis Mamakos @lmamakos@universeodon.com\n@xor Since my echo dot uses computer as the wake word, I asked it to do this. Rather than return an error... it did... _something_\nHmm.. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/@actualeyes/109374384708818149", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://mstdn.social/@actualeyes/109374384708818149" ],
+        "published" : [ "2022-11-20T05:04:25+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> The alien abduction episode. Nice.</p>",
+          "value" : "@xor The alien abduction episode. Nice.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "actualeyes" ],
+            "url" : [ "https://mstdn.social/@actualeyes" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/374/384/755/710/705/original/93a6be346a194469.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "actualeyes"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 05:04 actualeyes @actualeyes@mstdn.social\n@xor The alien abduction episode. Nice. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.sdf.org/@Hollywoodnav/109374864637853498", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://mastodon.sdf.org/@Hollywoodnav/109374864637853498" ],
+        "published" : [ "2022-11-20T07:06:28+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> still bugs me how something so beautiful can become so broken in the matter of seconds. Something I'll always admire about CSS is that even though it gets knocked down it still gets up again.</p>",
+          "value" : "@xor still bugs me how something so beautiful can become so broken in the matter of seconds. Something I'll always admire about CSS is that even though it gets knocked down it still gets up again.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nav" ],
+            "url" : [ "https://mastodon.sdf.org/@Hollywoodnav" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/374/870/388/148/900/original/257c38a2a601eebd.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Nav"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 07:06 Nav @Hollywoodnav@mastodon.sdf.org\n@xor still bugs me how something so beautiful can become so broken in the matter of seconds. Something I'll always admire about CSS is that even though it gets knocked down it still gets up again. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://minidisc.tokyo/notes/97smdbixh5", "https://tech.intersects.art/@xor" ],
+        "uid" : [ "https://minidisc.tokyo/notes/97smdbixh5" ],
+        "published" : [ "2022-11-20T07:46:19+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@xor@tech.intersects.art</a><span class=\"article-type\"> </span></p><pre><code>height: 75%</code></pre><p></p>",
+          "value" : "@xor@tech.intersects.art height: 75%",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kaitsusen" ],
+            "url" : [ "https://minidisc.tokyo/@Kaitsusen" ],
+            "photo" : [ {
+              "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/375/018/629/642/221/original/128b46a66aa0a774.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Kaitsusen"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 20, 2022, 07:46 Kaitsusen @Kaitsusen@minidisc.tokyo\n@xor@tech.intersects.art height: 75%\n0"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://triangletoot.party/@sdball/109374457470143689", "https://mastodon.social/@aceattveg", "https://tech.intersects.art/@xor" ],
+      "uid" : [ "https://triangletoot.party/@sdball/109374457470143689" ],
+      "published" : [ "2022-11-20T05:22:55+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"article-type\"><a href=\"https://mastodon.social/@aceattveg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">aceattveg</span></a></span> <span class=\"article-type\"><a href=\"https://tech.intersects.art/@xor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span class=\"article-type\">xor</span></a></span> That sequence of them putting together the pieces absolutely terrified me as a kid and it was awesome.</p>",
+        "value" : "@aceattveg @xor That sequence of them putting together the pieces absolutely terrified me as a kid and it was awesome.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Stephen Ball" ],
+          "url" : [ "https://triangletoot.party/@sdball" ],
+          "photo" : [ {
+            "value" : "https://techart.files.fedi.monster/cache/accounts/avatars/109/374/450/903/011/575/original/7affce90792180b6.png",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Stephen Ball"
+      } ]
+    },
+    "lang" : "en"
+  } ]
+}
