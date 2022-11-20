@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/elonmusk/statu…" ],
+        "url" : [ "https://twitter.com/elonmusk/status/1593899029531803649" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sriram Krishnan - sriramk.eth" ],
+          "nickname" : [ "sriramk" ],
+          "numeric-id" : [ "149763" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1486656046990970880/zfu-pvK_.jpg" ],
+          "published" : [ "2006-12-22T06:29:50+00:00" ],
+          "uid" : [ "tag:twitter.com:sriramk" ],
+          "url" : [ "https://twitter.com/sriramk", "https://youtube.com/c/TheGoodTimeShowAarthiSriram?sub_confirmation=1" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Amazing how many people have reached out to me over these photos with <a href=\"https://twitter.com/elonmusk\">@elonmusk</a>.\n\nLate night coding sessions + whiteboards are at the heart of what this industry was built on.</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1593899029531803649\">twitter.com/elonmusk/statu…</a>",
+        "value" : "Amazing how many people have reached out to me over these photos with @elonmusk.\n\nLate night coding sessions + whiteboards are at the heart of what this industry was built on."
+      } ],
+      "published" : [ "2022-11-19T12:37:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1593946491105603584" ],
+      "url" : [ "https://twitter.com/sriramk/status/1593946491105603584" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">There’s a time when I did - and loved doing - late night coding sessions, and had no problem working overtime.\n\nI was young, cared little for sleep and had no family.\n\nCreate a culture that expects long and late hours and you’ll attract this demographic. It is often deliberate.</div>",
+      "value" : "There’s a time when I did - and loved doing - late night coding sessions, and had no problem working overtime.\n\nI was young, cared little for sleep and had no family.\n\nCreate a culture that expects long and late hours and you’ll attract this demographic. It is often deliberate."
+    } ],
+    "published" : [ "2022-11-19T16:36:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1594006672959311873" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1594006672959311873" ]
+  },
+  "type" : [ "h-entry" ]
+}
