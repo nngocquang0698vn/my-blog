@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Justin Murphy" ],
+          "nickname" : [ "jmrphy" ],
+          "numeric-id" : [ "220913717" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1516823887568379913/qTDmK0Uq.jpg" ],
+          "published" : [ "2010-11-29T06:01:08+00:00" ],
+          "uid" : [ "tag:twitter.com:jmrphy" ],
+          "url" : [ "https://twitter.com/jmrphy", "https://otherlife.co" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Men just want the freedom to crack racist jokes without some girl in HR freaking out." ],
+      "photo" : [ "https://pbs.twimg.com/media/Fh9mA7RXkAIjQVh.jpg" ],
+      "published" : [ "2022-11-19T23:06:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1594104963852283904" ],
+      "url" : [ "https://twitter.com/jmrphy/status/1594104963852283904" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SUBSCRIBE TO MY SUBSTACK" ],
+        "nickname" : [ "TaylorLorenz" ],
+        "numeric-id" : [ "208725869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487520401731174404/SwXwcxuH.jpg" ],
+        "published" : [ "2010-10-27T20:40:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TaylorLorenz" ],
+        "url" : [ "https://twitter.com/TaylorLorenz", "http://TAYLORLORENZ.SUBSTACK.COM", "http://taylorlorenz.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why does anyone in tech listen to this man" ],
+    "published" : [ "2022-11-20T06:13:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1594212356640321536" ],
+    "url" : [ "https://twitter.com/TaylorLorenz/status/1594212356640321536" ]
+  },
+  "type" : [ "h-entry" ]
+}
