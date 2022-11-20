@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Go Community" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gotime@changelog.social" ],
+        "nickname" : [ "GoTimeFM" ],
+        "numeric-id" : [ "4444394117" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/719641490989789184/n6GGkDEo.jpg" ],
+        "published" : [ "2015-12-11T03:47:27+00:00" ],
+        "uid" : [ "tag:twitter.com:GoTimeFM" ],
+        "url" : [ "https://twitter.com/GoTimeFM", "https://gotime.fm" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"How quickly does that get out of hand?\" <a href=\"https://twitter.com/matryer\">@matryer</a> \n\n\"Very quickly!\" <a href=\"https://twitter.com/jboursiquot\">@jboursiquot</a></div>",
+      "value" : "\"How quickly does that get out of hand?\" @matryer \n\n\"Very quickly!\" @jboursiquot"
+    } ],
+    "published" : [ "2022-11-20T13:36:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1594323833913311232" ],
+    "url" : [ "https://twitter.com/GoTimeFM/status/1594323833913311232" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1594323670721241089/pu/vid/720x1280/rV1C3BK6s7bnYBIr.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
