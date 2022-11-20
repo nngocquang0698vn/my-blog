@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Huh shocked to discover that Elon's \"content moderation council with widely diverse viewpoints\" turned out to just be a Twitter poll" ],
+    "published" : [ "2022-11-20T01:16:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1594137450238005248" ],
+    "url" : [ "https://twitter.com/mjg59/status/1594137450238005248" ]
+  },
+  "type" : [ "h-entry" ]
+}
