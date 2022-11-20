@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Around the world" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dylan Schiemann" ],
+        "nickname" : [ "dylans" ],
+        "numeric-id" : [ "14260850" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/461135407166390272/JGP8Q6bC.jpeg" ],
+        "published" : [ "2008-03-30T20:44:34+00:00" ],
+        "uid" : [ "tag:twitter.com:dylans" ],
+        "url" : [ "https://twitter.com/dylans" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I have a simple rule of thumb with new conferences… if you cannot easily figure out anyone involved with it in advance, you probably don’t want to attend, speak, or sponsor.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ModernFrontends\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_duncanhall\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/piccalilli_\"></a>",
+      "value" : "I have a simple rule of thumb with new conferences… if you cannot easily figure out anyone involved with it in advance, you probably don’t want to attend, speak, or sponsor."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/_duncanhall/status/1593341212672622595" ],
+    "published" : [ "2022-11-17T21:11:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1593351057765285888" ],
+    "url" : [ "https://twitter.com/dylans/status/1593351057765285888" ]
+  },
+  "type" : [ "h-entry" ]
+}
