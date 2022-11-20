@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF // tweets autodelete" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2.jpg" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ok I’m gonna delete the Twitter app for the weekend, don’t do any news thx" ],
+    "published" : [ "2022-11-19T03:04:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1593802327584313344" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1593802327584313344" ]
+  },
+  "type" : [ "h-entry" ]
+}
