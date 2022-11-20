@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Lisa Lucas" ],
+          "nickname" : [ "likaluca" ],
+          "numeric-id" : [ "16548412" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/808752757121413120/B_kszzgQ.jpg" ],
+          "published" : [ "2008-10-01T19:09:38+00:00" ],
+          "uid" : [ "tag:twitter.com:likaluca" ],
+          "url" : [ "https://twitter.com/likaluca" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I refuse to pivot to video." ],
+      "published" : [ "2022-11-18T14:52:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1593618122908618752" ],
+      "url" : [ "https://twitter.com/likaluca/status/1593618122908618752" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amanda Annis" ],
+        "nickname" : [ "diaryofaneditor" ],
+        "numeric-id" : [ "731174524549509121" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1230858962091814916/Q51hC4J_.jpg" ],
+        "published" : [ "2016-05-13T17:29:26+00:00" ],
+        "uid" : [ "tag:twitter.com:diaryofaneditor" ],
+        "url" : [ "https://twitter.com/diaryofaneditor", "http://www.afairerhouse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I keep saying this: TikTok/Reels/video is not a *social* media, it’s *gig* media. It’s Uber for Entertainment. Gig workers “creating content” with no union benefits or regular hours or clear employer. The rest of us watching the videos are the riders, not drivers." ],
+    "published" : [ "2022-11-19T11:59:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1593937051929427972" ],
+    "url" : [ "https://twitter.com/diaryofaneditor/status/1593937051929427972" ]
+  },
+  "type" : [ "h-entry" ]
+}
