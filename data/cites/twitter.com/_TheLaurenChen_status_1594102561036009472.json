@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Nick 🇺🇸 🇮🇹" ],
+          "nickname" : [ "TheExiledOne91" ],
+          "numeric-id" : [ "1342578876325642240" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1587594422841069568/mw9V6LjN.jpg" ],
+          "published" : [ "2020-12-25T21:12:24+00:00" ],
+          "uid" : [ "tag:twitter.com:TheExiledOne91" ],
+          "url" : [ "https://twitter.com/TheExiledOne91" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "4 hour work week vs 60 hour work week\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheLaurenChen\"></a>",
+        "value" : "4 hour work week vs 60 hour work week"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/TheLaurenChen/status/1594101861564534784" ],
+      "published" : [ "2022-11-19T22:55:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1594102163839410177" ],
+      "url" : [ "https://twitter.com/TheExiledOne91/status/1594102163839410177" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇺🇸🇨🇦" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lauren Chen" ],
+        "nickname" : [ "TheLaurenChen" ],
+        "numeric-id" : [ "770619360062898176" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1403150737387966467/DPxWDcfH.jpg" ],
+        "published" : [ "2016-08-30T13:49:08+00:00" ],
+        "uid" : [ "tag:twitter.com:TheLaurenChen" ],
+        "url" : [ "https://twitter.com/TheLaurenChen", "https://linktr.ee/TheLaurenChen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This, and also when you don't need to know how to code to work at a tech company vs when you do \n\n<a href=\"https://twitter.com/TheExiledOne91/status/1594102163839410177?t=tM7wVgP3Lcyn0jGekLDXrw&s=19\">twitter.com/TheExiledOne91…</a></div>",
+      "value" : "This, and also when you don't need to know how to code to work at a tech company vs when you do \n\ntwitter.com/TheExiledOne91…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TheLaurenChen/status/1594101861564534784" ],
+    "published" : [ "2022-11-19T22:57:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1594102561036009472" ],
+    "url" : [ "https://twitter.com/TheLaurenChen/status/1594102561036009472" ]
+  },
+  "type" : [ "h-entry" ]
+}
