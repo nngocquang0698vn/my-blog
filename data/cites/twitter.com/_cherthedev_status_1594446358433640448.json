@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1530594198243528705/99h6vt6a.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev", "http://patreon.com/cherp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "and maintaining it!!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/javavvitch\"></a>",
+      "value" : "and maintaining it!!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/javavvitch/status/1594427721580355584" ],
+    "published" : [ "2022-11-20T21:43:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1594446358433640448" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1594446358433640448" ]
+  },
+  "type" : [ "h-entry" ]
+}
