@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Manhattan, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Rustin" ],
+          "nickname" : [ "rustincharles" ],
+          "numeric-id" : [ "15631532" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1519518111271161858/sE__50ND.jpg" ],
+          "published" : [ "2008-07-28T13:19:33+00:00" ],
+          "uid" : [ "tag:twitter.com:rustincharles" ],
+          "url" : [ "https://twitter.com/rustincharles", "http://rustin.nyc" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "It’s beginning to look a lot like Christmassssss" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fh3NqJhXkAE5RPA.jpg" ],
+      "published" : [ "2022-11-18T17:22:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1593655972320497664" ],
+      "url" : [ "https://twitter.com/rustincharles/status/1593655972320497664" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The beach" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr Vancbromycin 🇺🇸🇺🇦" ],
+        "nickname" : [ "Vancbromycin" ],
+        "numeric-id" : [ "520138835" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1270056103527710720/lXqiWsBU.jpg" ],
+        "published" : [ "2012-03-10T06:04:56+00:00" ],
+        "uid" : [ "tag:twitter.com:Vancbromycin" ],
+        "url" : [ "https://twitter.com/Vancbromycin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "On behalf of doctors and nurses everywhere - DONT EVEN THINK ABOUT IT!" ],
+    "published" : [ "2022-11-19T00:48:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1593768199643873282" ],
+    "url" : [ "https://twitter.com/Vancbromycin/status/1593768199643873282" ]
+  },
+  "type" : [ "h-entry" ]
+}
