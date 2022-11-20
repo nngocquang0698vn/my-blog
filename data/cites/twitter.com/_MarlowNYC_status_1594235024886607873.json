@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "NBC News" ],
+          "nickname" : [ "NBCNews" ],
+          "numeric-id" : [ "14173315" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1338497918387572736/DXHbTEJG.jpg" ],
+          "published" : [ "2008-03-18T23:19:17+00:00" ],
+          "uid" : [ "tag:twitter.com:NBCNews" ],
+          "url" : [ "https://twitter.com/NBCNews", "http://NBCNews.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Tesla is recalling more than 321,000 vehicles in the U.S. because tail lights may intermittently fail to illuminate, the company says. <a href=\"https://nbcnews.to/3geBVa4\">nbcnews.to/3geBVa4</a>",
+        "value" : "Tesla is recalling more than 321,000 vehicles in the U.S. because tail lights may intermittently fail to illuminate, the company says. nbcnews.to/3geBVa4"
+      } ],
+      "published" : [ "2022-11-19T21:21:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1594078327048138753" ],
+      "url" : [ "https://twitter.com/NBCNews/status/1594078327048138753" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/nbcnews/status…" ],
+      "url" : [ "https://twitter.com/nbcnews/status/1594078327048138753" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marlow Stern" ],
+        "nickname" : [ "MarlowNYC" ],
+        "numeric-id" : [ "24544452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1481162469515145218/uWyq0Wzp.jpg" ],
+        "published" : [ "2009-03-15T16:21:38+00:00" ],
+        "uid" : [ "tag:twitter.com:MarlowNYC" ],
+        "url" : [ "https://twitter.com/MarlowNYC", "http://www.thedailybeast.com/author/marlow-stern" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "tesla has recalled around ~35-40% of cars they’ve sold\n<a class=\"tag\" href=\"https://twitter.com/nbcnews/status/1594078327048138753\">twitter.com/nbcnews/status…</a>",
+      "value" : "tesla has recalled around ~35-40% of cars they’ve sold"
+    } ],
+    "published" : [ "2022-11-20T07:43:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1594235024886607873" ],
+    "url" : [ "https://twitter.com/MarlowNYC/status/1594235024886607873" ]
+  },
+  "type" : [ "h-entry" ]
+}
