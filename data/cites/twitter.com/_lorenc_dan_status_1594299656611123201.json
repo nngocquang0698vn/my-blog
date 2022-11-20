@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Providence, RI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Lorenc" ],
+        "nickname" : [ "lorenc_dan" ],
+        "numeric-id" : [ "2474676878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1105525721508700161/ZSCqCU51.jpg" ],
+        "published" : [ "2014-05-02T23:47:30+00:00" ],
+        "uid" : [ "tag:twitter.com:lorenc_dan" ],
+        "url" : [ "https://twitter.com/lorenc_dan", "http://dlorenc.medium.com", "http://chainguard.dev", "http://sigstore.dev", "http://github.com/sigstore/cosign", "http://slsa.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Another day manually reviewing scan results, another set of false negatives that result in actual CVEs not being shown to users." ],
+    "photo" : [ "https://pbs.twimg.com/media/FiAXDOuWIAAl2lF.png" ],
+    "published" : [ "2022-11-20T12:00:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1594299656611123201" ],
+    "url" : [ "https://twitter.com/lorenc_dan/status/1594299656611123201" ]
+  },
+  "type" : [ "h-entry" ]
+}
