@@ -1,20 +1,27 @@
-This is unfortunately disabled right now, but I'm working on an alternative!
+This isn't the perfect way to share these, and I'm working on an alternative, but until then, here's who I'm following:
 
-<div style="display: none";>
-  {{ range $.Site.Data.follows }}
+{{ range $.Site.Data.follows }}
 
-  {{ $ctx := . }}
-  {{ $c := .properties }}
+{{ $ctx := . }}
+{{ $c := .properties }}
+<article>
+  <h2>{{ index .properties.name 0 }}</h2>
+
+  On:
+
+  <ul>
 
   {{ range .properties.url }}
   {{ $urlId := replaceRE "[^a-zA-Z0-9]+" "_" . }}
-  <article class="h-entry" id="{{ $urlId }}">
-    <a id="{{ $urlId }}"></a>
+  <li class="h-entry" id="{{ $urlId }}">
+    <a id="{{ $urlId }}" aria-hidden="true"></a>
 
-    <p>I follow <a class="u-follow-of" href="{{ . }}">{{ . }}</a>.</p>
+    <p><a class="u-follow-of" href="{{ . }}">{{ . }}</a>.</p>
 
     <a class=u-syndication href="https://fed.brid.gy/" aria-hidden="true"></a>
-  </article>
+  </li>
   {{ end }}
-  {{ end }}
-<//div>
+
+  </ul>
+</article>
+{{ end }}
