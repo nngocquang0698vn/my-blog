@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "last normal guy online" ],
+        "nickname" : [ "bonesgoblin" ],
+        "numeric-id" : [ "1674271" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1594060839430021126/mpzA0lsR.png" ],
+        "published" : [ "2007-03-20T21:37:14+00:00" ],
+        "uid" : [ "tag:twitter.com:bonesgoblin" ],
+        "url" : [ "https://twitter.com/bonesgoblin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Here's a screenshot of Steve's tweet for anyone in the future pursuing an Age Discrimination lawsuit against Teller (<a href=\"http://teller.io\">teller.io</a>) or its CEO, Steve Graham. Subpoena Twitter for the contents of tweet ID 1593822664707039233. Hope this helps!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stevegraham\"></a>",
+      "value" : "Here's a screenshot of Steve's tweet for anyone in the future pursuing an Age Discrimination lawsuit against Teller (teller.io) or its CEO, Steve Graham. Subpoena Twitter for the contents of tweet ID 1593822664707039233. Hope this helps!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/stevegraham/status/1593822664707039233" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fh881ocWYAAu9U0.jpg" ],
+    "published" : [ "2022-11-19T20:07:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1594059750882349058" ],
+    "url" : [ "https://twitter.com/bonesgoblin/status/1594059750882349058" ]
+  },
+  "type" : [ "h-entry" ]
+}
