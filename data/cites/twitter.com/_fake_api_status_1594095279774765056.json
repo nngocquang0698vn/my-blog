@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (real, not parody)" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">In case you’re wondering, <a href=\"https://twitter.com/stevegraham\">@stevegraham</a> had the totally original idea to create <a href=\"https://twitter.com/teller\">@teller</a> which appears to be a worse <a href=\"https://twitter.com/Plaid\">@Plaid</a> or <a href=\"https://twitter.com/finicity\">@finicity</a> (and it’s HARD to get worse than Finicity) or about a billion other similar companies.\n\nHe’s a big-thinking hard-working original!</div>",
+      "value" : "In case you’re wondering, @stevegraham had the totally original idea to create @teller which appears to be a worse @Plaid or @finicity (and it’s HARD to get worse than Finicity) or about a billion other similar companies.\n\nHe’s a big-thinking hard-working original!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/fake_api/status/1594094016450088960" ],
+    "published" : [ "2022-11-19T22:28:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1594095279774765056" ],
+    "url" : [ "https://twitter.com/fake_api/status/1594095279774765056" ]
+  },
+  "type" : [ "h-entry" ]
+}
