@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Wrapped up in a warm blanket" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alex Chan" ],
+          "nickname" : [ "alexwlchan" ],
+          "numeric-id" : [ "66351897" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1538296879137562624/w3pwqwel.jpg" ],
+          "published" : [ "2009-08-17T13:20:33+00:00" ],
+          "uid" : [ "tag:twitter.com:alexwlchan" ],
+          "url" : [ "https://twitter.com/alexwlchan", "https://alexwlchan.net/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">and it warms my heart to see so many people (okay, four) linking to blogs\n\non a domain!\n\nwith an rss feed!\n\n:o</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monkchips\"></a>",
+        "value" : "and it warms my heart to see so many people (okay, four) linking to blogs\n\non a domain!\n\nwith an rss feed!\n\n:o"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/alexwlchan/status/1594063278761775104" ],
+      "published" : [ "2022-11-19T23:02:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1594103896049594368" ],
+      "url" : [ "https://twitter.com/alexwlchan/status/1594103896049594368" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Huddersfield, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lorna Mitchell" ],
+        "nickname" : [ "lornajane" ],
+        "numeric-id" : [ "7356002" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509896668/lorna-square.png" ],
+        "published" : [ "2007-07-09T21:29:09+00:00" ],
+        "uid" : [ "tag:twitter.com:lornajane" ],
+        "url" : [ "https://twitter.com/lornajane", "http://www.lornajane.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I have a blog, on a domain that I own, with an rss feed. For a while it felt a little outdated, but now I'm happy I stuck with the thing I felt was right.\n\n<a href=\"https://lornajane.net\">lornajane.net</a></div>",
+      "value" : "I have a blog, on a domain that I own, with an rss feed. For a while it felt a little outdated, but now I'm happy I stuck with the thing I felt was right.\n\nlornajane.net"
+    } ],
+    "published" : [ "2022-11-20T07:37:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1594233406652571651" ],
+    "url" : [ "https://twitter.com/lornajane/status/1594233406652571651" ]
+  },
+  "type" : [ "h-entry" ]
+}
