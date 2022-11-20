@@ -1,0 +1,187 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "mastodon" ],
+    "pk-num-likes" : [ "6" ],
+    "pk-num-reposts" : [ "2" ],
+    "pk-num-replies" : [ "1" ],
+    "url" : [ "https://aaronparecki.com/2022/11/19/28/instance" ],
+    "syndication" : [ "https://micro.blog/aaronpk/14225403" ],
+    "published" : [ "2022-11-19T22:20:31-08:00" ],
+    "content" : [ {
+      "html" : "Some day we're going to look back at social media and say \"what are you talking about, there's no way everyone on Twitter was all on one instance\"",
+      "value" : "Some day we're going to look back at social media and say \"what are you talking about, there's no way everyone on Twitter was all on one instance\""
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/ollicle#likes/50226803" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "ollicle" ],
+            "url" : [ "https://mastodon.social/users/ollicle" ]
+          },
+          "value" : "ollicle"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ollicle"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/users/jmcgready#likes/2533000" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "pale/grey" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://fosstodon.org/users/jmcgready" ]
+          },
+          "value" : "pale/grey"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png pale/grey"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://postchat.io/users/felipebaez#likes/744" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Felipe Baez " ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://postchat.io/users/felipebaez" ]
+          },
+          "value" : "Felipe Baez "
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Felipe Baez "
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.xyz/users/ericflo#likes/2201276" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Florenzano" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.xyz/users/ericflo" ]
+          },
+          "value" : "Eric Florenzano"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eric Florenzano"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/users/whalecoiner#likes/143205" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O'Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://indieweb.social/users/whalecoiner" ]
+          },
+          "value" : "Charlie O'Hara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O'Hara"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/users/Lorry#likes/6859520" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Lorry :unverified:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mstdn.social/users/Lorry" ]
+          },
+          "value" : "Lorry :unverified:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Lorry :unverified:"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/jmalonzo/statuses/109374898395246431/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jan" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/jmalonzo" ]
+          },
+          "value" : "Jan"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://planet.moe/users/revi/statuses/109374695658623966/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "[[레비]] 닭갈비와샤브샤브 스페셜 에디션 2.1" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://planet.moe/users/revi" ]
+          },
+          "value" : "[[레비]] 닭갈비와샤브샤브 스페셜 에디션 2.1"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png [[레비]] 닭갈비와샤브샤브 스페셜 에디션 2.1"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://infosec.exchange/@DopeGhoti/109374692794479825" ],
+        "published" : [ "2022-11-19T22:22:46-08:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> I used to think similar thoughts about how one day we'd look back and wonder why everyone was using the Windows xorg window manager.</p>",
+          "value" : "@aaronpk I used to think similar thoughts about how one day we'd look back and wonder why everyone was using the Windows xorg window manager."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "DopeGhoti :loading:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://infosec.exchange/users/DopeGhoti" ]
+          },
+          "value" : "DopeGhoti :loading:"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png DopeGhoti :loading: infosec.exchange/users/DopeGhoti\n@aaronpk I used to think similar thoughts about how one day we'd look back and wonder why everyone was using the Windows xorg window manager. Sat, Nov 19, 2022 10:22pm -08:00"
+    } ]
+  },
+  "id" : "post-id-94563"
+}
