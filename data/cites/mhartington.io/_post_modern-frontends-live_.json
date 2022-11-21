@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Modern Frontends Live" ],
+    "summary" : [ "Learning everyday" ],
+    "featured" : [ null ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "mhartington" ]
+      }
+    } ],
+    "url" : [ "https://mhartington.io/post/modern-frontends-live/" ]
+  }
+}
