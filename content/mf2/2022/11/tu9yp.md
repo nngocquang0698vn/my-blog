@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/skipcloud/status/1594369949493067782" ],
     "name" : [ "Like of @skipcloud's tweet" ],
     "published" : [ "2022-11-20T20:13:10.612654117Z" ],
     "like-of" : [ "https://twitter.com/skipcloud/status/1594369949493067782" ],
