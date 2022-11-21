@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ontario, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Bauman 💎" ],
+        "nickname" : [ "ste_bau" ],
+        "numeric-id" : [ "231357103" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593274274676105224/4m_PWrGG.jpg" ],
+        "published" : [ "2010-12-28T08:32:13+00:00" ],
+        "uid" : [ "tag:twitter.com:ste_bau" ],
+        "url" : [ "https://twitter.com/ste_bau", "http://stevebauman.ca", "http://Showcode.app", "http://LdapRecord.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yeah I get that -- though I've personally never once found that indication useful. Better to just tell the user to run the command as root, than use a symbol I'd bet not many know about or understand without Googling.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/githubdesign\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sifex\"></a>",
+      "value" : "Yeah I get that -- though I've personally never once found that indication useful. Better to just tell the user to run the command as root, than use a symbol I'd bet not many know about or understand without Googling."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sifex/status/1594692673335697410" ],
+    "published" : [ "2022-11-21T14:19:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1594696982488047617" ],
+    "url" : [ "https://twitter.com/ste_bau/status/1594696982488047617" ]
+  },
+  "type" : [ "h-entry" ]
+}
