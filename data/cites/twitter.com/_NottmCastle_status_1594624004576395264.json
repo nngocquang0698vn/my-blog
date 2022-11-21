@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nottingham Castle" ],
+        "nickname" : [ "NottmCastle" ],
+        "numeric-id" : [ "276944261" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575796569923796994/Ee5ALu26.jpg" ],
+        "published" : [ "2011-04-04T11:53:52+00:00" ],
+        "uid" : [ "tag:twitter.com:NottmCastle" ],
+        "url" : [ "https://twitter.com/NottmCastle", "http://NottinghamCastle.org.uk", "http://www.nottinghamcastle.org.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Today, we are saddened to announce that Nottingham Castle Trust has begun the process of appointing liquidators. This is a heartbreaking day for trustees, our dedicated staff, visitors, and the city. If you are due to visit, please see our website for further details." ],
+    "published" : [ "2022-11-21T09:29:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1594624004576395264" ],
+    "url" : [ "https://twitter.com/NottmCastle/status/1594624004576395264" ]
+  },
+  "type" : [ "h-entry" ]
+}
