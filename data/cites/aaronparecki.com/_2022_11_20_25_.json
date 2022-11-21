@@ -1,0 +1,129 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "pk-num-likes" : [ "2" ],
+    "pk-num-replies" : [ "2" ],
+    "url" : [ "https://aaronparecki.com/2022/11/20/25/" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1594509265984577537" ],
+    "published" : [ "2022-11-20T17:53:23-08:00" ],
+    "content" : [ {
+      "html" : "You are not going to like my answer, but it is the path of least resistance for me.  <br> <br>I post *everything* first to my website, and my website handles syndicating it to Twitter and via ActivityPub.",
+      "value" : "You are not going to like my answer, but it is the path of least resistance for me.\n\nI post *everything* first to my website, and my website handles syndicating it to Twitter and via ActivityPub."
+    } ],
+    "in-reply-to" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/vibronet/status/1594507191041478656", "https://twitter.com/vibronet/status/1594507191041478656" ],
+        "content" : [ {
+          "html" : "Do you post the same content on both Twitter and Mastodon? If so, do you have a client to recommend?<br>\nI just feel I won’t post on Mastodon unless it’s the path of least resistance",
+          "value" : "Do you post the same content on both Twitter and Mastodon? If so, do you have a client to recommend?\nI just feel I won’t post on Mastodon unless it’s the path of least resistance"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Vittorio" ],
+            "photo" : [ "https://pkcdn.xyz/pbs.twimg.com/bf1504981038c5d2ac0bfd04a8892162cc3788f497814c4d9ea990e8a27738ae.jpg" ],
+            "url" : [ "https://twitter.com/vibronet" ]
+          },
+          "value" : "Vittorio"
+        } ]
+      },
+      "value" : "https://twitter.com/vibronet/status/1594507191041478656"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ]
+      },
+      "value" : "Portland, Oregon"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://snarfed.org/2022-11-20_you-are-not-going-to-like-my-answer-but-it-is-the-path-of-aaron-parecki" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ryan Barrett" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://snarfed.org/" ]
+          },
+          "value" : "Ryan Barrett"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ryan Barrett"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1594509265984577537#favorited-by-892122120" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Orie Steele" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/OR13b" ]
+          },
+          "value" : "Orie Steele"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Orie Steele"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/vibronet/status/1594511801479491584" ],
+        "published" : [ "2022-11-21T02:03:32+00:00" ],
+        "content" : [ {
+          "html" : "Thanks! Will definitely look into it!\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Thanks! Will definitely look into it!"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Vittorio" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/vibronet" ]
+          },
+          "value" : "Vittorio"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Vittorio twitter.com/vibronet Thanks! Will definitely look into it! Mon, Nov 21, 2022 2:03am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/vibronet/status/1594510554072485888" ],
+        "published" : [ "2022-11-21T01:58:35+00:00" ],
+        "content" : [ {
+          "html" : "Thanks! Hoping in the invisible hand of the market to come up with something turnkey 😅\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Thanks! Hoping in the invisible hand of the market to come up with something turnkey 😅"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Vittorio" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/vibronet" ]
+          },
+          "value" : "Vittorio"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Vittorio twitter.com/vibronet Thanks! Hoping in the invisible hand of the market to come up with something turnkey 😅 Mon, Nov 21, 2022 1:58am +00:00 (via brid.gy)"
+    } ]
+  },
+  "id" : "post-id-94588"
+}
