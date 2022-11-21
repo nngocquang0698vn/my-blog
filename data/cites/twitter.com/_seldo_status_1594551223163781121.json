@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sea Ranch & San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie Voss moved to @seldo@mastodon.social" ],
+        "nickname" : [ "seldo" ],
+        "numeric-id" : [ "15453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542314254404968450/uhyBAb1e.jpg" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The next time somebody says \"you can just run your own instance\" I am going to spit in their fucking face, I have been trying to install Mastodon on a server for 7 hours." ],
+    "published" : [ "2022-11-21T04:40:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1594551223163781121" ],
+    "url" : [ "https://twitter.com/seldo/status/1594551223163781121" ]
+  },
+  "type" : [ "h-entry" ]
+}
