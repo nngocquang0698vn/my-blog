@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "George Hahn" ],
+        "nickname" : [ "georgehahn" ],
+        "numeric-id" : [ "22730752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344500875339960326/wEy0lE7Q.jpg" ],
+        "published" : [ "2009-03-04T04:04:27+00:00" ],
+        "uid" : [ "tag:twitter.com:georgehahn" ],
+        "url" : [ "https://twitter.com/georgehahn", "https://georgehahn.com/support" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Congratulations, <a href=\"https://twitter.com/elonmusk\">@elonmusk</a>! You’re going down as one of the worst employers/managers in modern American history. And despite what you’re told by the salad-tossers with whom you surround yourself, you’re not funny. Like… at all.",
+      "value" : "Congratulations, @elonmusk! You’re going down as one of the worst employers/managers in modern American history. And despite what you’re told by the salad-tossers with whom you surround yourself, you’re not funny. Like… at all."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Manhattan, NY" ],
+        "uid" : [ "tag:twitter.com:01a9a39529b27f36" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-11-21T00:25:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1594487106994425856" ],
+    "url" : [ "https://twitter.com/georgehahn/status/1594487106994425856" ]
+  },
+  "type" : [ "h-entry" ]
+}
