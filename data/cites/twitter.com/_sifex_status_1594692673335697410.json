@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Αⅼех" ],
+        "nickname" : [ "sifex" ],
+        "numeric-id" : [ "39038143" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550778094738448385/B5gdHbt_.jpg" ],
+        "published" : [ "2009-05-10T12:19:05+00:00" ],
+        "uid" : [ "tag:twitter.com:sifex" ],
+        "url" : [ "https://twitter.com/sifex" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It's an old standard to differentiate regular users ($) from root users (#) \n\nYea I agree on removing them, better yet have GH flavoured markdown to include $ as non selectable text at the start of ```bash markdown\n\n<a href=\"https://twitter.com/githubdesign\">@githubdesign</a> <a href=\"https://twitter.com/github\">@github</a> <a href=\"https://twitter.com/search?q=%23github\">#github</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ste_bau\"></a>",
+      "value" : "It's an old standard to differentiate regular users ($) from root users (#) \n\nYea I agree on removing them, better yet have GH flavoured markdown to include $ as non selectable text at the start of ```bash markdown\n\n@githubdesign @github #github"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ste_bau/status/1594682655244779524" ],
+    "published" : [ "2022-11-21T14:02:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1594692673335697410" ],
+    "url" : [ "https://twitter.com/sifex/status/1594692673335697410" ]
+  },
+  "type" : [ "h-entry" ]
+}
