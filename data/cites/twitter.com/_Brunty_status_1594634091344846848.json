@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Breaking News" ],
+          "nickname" : [ "BBCBreaking" ],
+          "numeric-id" : [ "5402612" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5.jpg" ],
+          "published" : [ "2007-04-22T14:42:37+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCBreaking" ],
+          "url" : [ "https://twitter.com/BBCBreaking", "http://www.bbc.co.uk/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "England, Wales and other European teams will not wear OneLove armbands at World Cup matches after Fifa warns of fines <a href=\"https://bbc.in/3U9nwdb\">bbc.in/3U9nwdb</a>",
+        "value" : "England, Wales and other European teams will not wear OneLove armbands at World Cup matches after Fifa warns of fines bbc.in/3U9nwdb"
+      } ],
+      "published" : [ "2022-11-21T09:59:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1594631520513232896" ],
+      "url" : [ "https://twitter.com/BBCBreaking/status/1594631520513232896" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498963563033018374/Hd6rtNUK.jpg" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now", "http://brunty.social/@brunty" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Cowards." ],
+    "published" : [ "2022-11-21T10:09:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1594634091344846848" ],
+    "url" : [ "https://twitter.com/Brunty/status/1594634091344846848" ]
+  },
+  "type" : [ "h-entry" ]
+}
