@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA / Norfolk, VA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "PETA" ],
+          "nickname" : [ "peta" ],
+          "numeric-id" : [ "9890492" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1542857370170163203/GEfar21Y.jpg" ],
+          "published" : [ "2007-11-02T16:29:30+00:00" ],
+          "uid" : [ "tag:twitter.com:peta" ],
+          "url" : [ "https://twitter.com/peta", "http://www.peta.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Think about trading places with a turkey this <a href=\"https://twitter.com/search?q=%23Thanksgiving\">#Thanksgiving</a>.",
+        "value" : "Think about trading places with a turkey this #Thanksgiving."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EntGFLtW4AMqm34.jpg" ],
+      "published" : [ "2020-11-25T23:03:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1331735172237176837" ],
+      "url" : [ "https://twitter.com/peta/status/1331735172237176837" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543218193199685632/tOcSbY0j.jpg" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Don't threaten me with a good time 😂🥵🥴😏" ],
+    "published" : [ "2020-11-27T15:57:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1332352983653257218" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1332352983653257218" ]
+  },
+  "type" : [ "h-entry" ]
+}
