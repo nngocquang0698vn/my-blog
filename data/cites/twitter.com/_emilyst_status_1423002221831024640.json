@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "emily (@est@emily.news)" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550346516925100033/jK7wVy1C.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst", "https://social.emily.news/@est" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I grew up hearing commercials for cereals that were “a part of this complete breakfast,” but did anybody ever actually eat the complete breakfast and live to tell the tale?" ],
+    "photo" : [ {
+      "alt" : "A tableau of various breakfast foods, including a bowl of cereal, an egg, several glasses of juice, toast, scones, yogurt, multiple dishes of fruits, tea, and a creamer.",
+      "value" : "https://pbs.twimg.com/media/E7-E-mPVgAEvWXr.png"
+    } ],
+    "published" : [ "2021-08-04T19:25:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1423002221831024640" ],
+    "url" : [ "https://twitter.com/emilyst/status/1423002221831024640" ]
+  },
+  "type" : [ "h-entry" ]
+}
