@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RobCoolGuy/status/1594444420329398272" ],
     "name" : [ "Like of @RobCoolGuy's tweet" ],
     "published" : [ "2022-11-20T22:20:00+0000" ],
     "like-of" : [ "https://twitter.com/RobCoolGuy/status/1594444420329398272" ],
