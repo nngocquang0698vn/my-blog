@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "I live locally." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Bilston" ],
+        "nickname" : [ "brian_bilston" ],
+        "numeric-id" : [ "1663413990" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H.jpg" ],
+        "published" : [ "2013-08-11T20:57:54+00:00" ],
+        "uid" : [ "tag:twitter.com:brian_bilston" ],
+        "url" : [ "https://twitter.com/brian_bilston", "https://uk.bookshop.org/shop/brianbilston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Today’s poem is called ‘Eye Chart for the Optically Deluded’." ],
+    "photo" : [ {
+      "alt" : "[Image Description: This poem is called ‘Eye Chart for the Optically Deluded’ and laid out in the form of an optician’s eye chart with the point size of each line becoming smaller and smaller, from 60pt down to 8 pt.]\n \nO\nU R\nL O V E\nI S N O T B L I N D\nJ U S T A L I T T L E\nS H O R T S I G H T E D\nM Y F E E L I N G S F O R Y O U\nA R E S T I L L U N R E Q U I T E D\nH O W I W I S H Y O U C O U L D S E E\nC A N Y O U N O T T A K E A H I NT\nY O U H A V E O P E N E D M Y E Y E S\nN O W P L E A S E R E A D T H E S M A L L P R I N T\n \nB R I A N B I L S T O N",
+      "value" : "https://pbs.twimg.com/media/FiE4GTUXkAEV1zv.jpg"
+    } ],
+    "published" : [ "2022-11-21T09:03:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1594617428469862402" ],
+    "url" : [ "https://twitter.com/brian_bilston/status/1594617428469862402" ]
+  },
+  "type" : [ "h-entry" ]
+}
