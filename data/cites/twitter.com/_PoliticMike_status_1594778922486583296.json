@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Preston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Politic" ],
+        "nickname" : [ "PoliticMike" ],
+        "numeric-id" : [ "525787995" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1172440603696566274/GOCuENbD.jpg" ],
+        "published" : [ "2012-03-15T21:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:PoliticMike" ],
+        "url" : [ "https://twitter.com/PoliticMike" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ClubPhotos_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/facedownlondon\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ClubPhotos_/status/1594777575942983681" ],
+    "published" : [ "2022-11-21T19:44:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1594778922486583296" ],
+    "url" : [ "https://twitter.com/PoliticMike/status/1594778922486583296" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FiHK-U5WIAE7ShJ.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
