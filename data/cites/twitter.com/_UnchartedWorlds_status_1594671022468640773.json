@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottingham" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nottingham Castle" ],
+          "nickname" : [ "NottmCastle" ],
+          "numeric-id" : [ "276944261" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1575796569923796994/Ee5ALu26.jpg" ],
+          "published" : [ "2011-04-04T11:53:52+00:00" ],
+          "uid" : [ "tag:twitter.com:NottmCastle" ],
+          "url" : [ "https://twitter.com/NottmCastle", "http://NottinghamCastle.org.uk", "http://www.nottinghamcastle.org.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Today, we are saddened to announce that Nottingham Castle Trust has begun the process of appointing liquidators. This is a heartbreaking day for trustees, our dedicated staff, visitors, and the city. If you are due to visit, please see our website for further details." ],
+      "published" : [ "2022-11-21T09:29:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1594624004576395264" ],
+      "url" : [ "https://twitter.com/NottmCastle/status/1594624004576395264" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jennifer Moore @unchartedworlds@scicomm.xyz" ],
+        "nickname" : [ "UnchartedWorlds" ],
+        "numeric-id" : [ "381397839" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/849188752446693376/Uo4CfDD1.jpg" ],
+        "published" : [ "2011-09-28T08:05:19+00:00" ],
+        "uid" : [ "tag:twitter.com:UnchartedWorlds" ],
+        "url" : [ "https://twitter.com/UnchartedWorlds", "http://www.uncharted-worlds.org/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23Nottingham\">#Nottingham</a> Castle news.\nDismayed to hear this! People saying in comments it had been on the cards, but I had no idea. Went there in the summer, lovely place to look out across the city from. I really hope that whatever happens with the building, the grounds can be kept open.</div>",
+      "value" : "#Nottingham Castle news.\nDismayed to hear this! People saying in comments it had been on the cards, but I had no idea. Went there in the summer, lovely place to look out across the city from. I really hope that whatever happens with the building, the grounds can be kept open."
+    } ],
+    "published" : [ "2022-11-21T12:36:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1594671022468640773" ],
+    "url" : [ "https://twitter.com/UnchartedWorlds/status/1594671022468640773" ]
+  },
+  "type" : [ "h-entry" ]
+}
