@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Milton Keynes, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Pride" ],
+        "nickname" : [ "davejavupride" ],
+        "numeric-id" : [ "730732496" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/568063265683832832/6ngr9_iP.jpeg" ],
+        "published" : [ "2012-08-01T13:55:36+00:00" ],
+        "uid" : [ "tag:twitter.com:davejavupride" ],
+        "url" : [ "https://twitter.com/davejavupride", "http://piandchips.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/Raspberry_Pi\">@Raspberry_Pi</a> All my friends are leaving and this makes me sad. So I made Bye-Bye Bird. Connected to the Twitter API, it sheds a single tear when someone uses the <a href=\"https://twitter.com/search?q=%23RIPTwitter\">#RIPTwitter</a> hashtag.",
+      "value" : "@Raspberry_Pi All my friends are leaving and this makes me sad. So I made Bye-Bye Bird. Connected to the Twitter API, it sheds a single tear when someone uses the #RIPTwitter hashtag."
+    } ],
+    "published" : [ "2022-11-21T20:30:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1594790437067395072" ],
+    "url" : [ "https://twitter.com/davejavupride/status/1594790437067395072" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1594790332977250304/pu/vid/1280x720/OOQMyn9N_GKoXrym.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
