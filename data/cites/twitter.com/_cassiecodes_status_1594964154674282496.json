@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Kansas City, MO" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "J.D. Hillen" ],
+          "nickname" : [ "jdhillen" ],
+          "numeric-id" : [ "10002622" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/987347531498754048/9PezHSo6.jpg" ],
+          "published" : [ "2007-11-06T16:24:38+00:00" ],
+          "uid" : [ "tag:twitter.com:jdhillen" ],
+          "url" : [ "https://twitter.com/jdhillen", "https://links.jdhillen.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">After much consideration, I decided to voice my opinion about what happened last week <a href=\"https://twitter.com/ModernFrontends\">@ModernFrontends</a>. This is my story...\n\n<a href=\"https://jdhillen.com/blog/my-experience-at-modern-frontends-live\">jdhillen.com/blog/my-experi…</a></div>",
+        "value" : "After much consideration, I decided to voice my opinion about what happened last week @ModernFrontends. This is my story...\n\njdhillen.com/blog/my-experi…"
+      } ],
+      "published" : [ "2022-11-22T00:08:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1594845282818297857" ],
+      "url" : [ "https://twitter.com/jdhillen/status/1594845282818297857" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cassie Evans" ],
+        "nickname" : [ "cassiecodes" ],
+        "numeric-id" : [ "758598429115310080" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486429238941134861/y11F6GrI.jpg" ],
+        "published" : [ "2016-07-28T09:42:14+00:00" ],
+        "uid" : [ "tag:twitter.com:cassiecodes" ],
+        "url" : [ "https://twitter.com/cassiecodes", "https://cassie.codes", "http://front-end.social/@cassiecodes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "💜 Never underestimate the power of your community. I have never seen so many people try to make the most out of a bad situation." ],
+    "published" : [ "2022-11-22T08:01:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1594964154674282496" ],
+    "url" : [ "https://twitter.com/cassiecodes/status/1594964154674282496" ]
+  },
+  "type" : [ "h-entry" ]
+}
