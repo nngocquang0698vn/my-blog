@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@peter@m.brokep.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Peter Sunde Kolmisoppi" ],
+        "nickname" : [ "brokep" ],
+        "numeric-id" : [ "19033675" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386783599991660546/WSxEAfmu.jpg" ],
+        "published" : [ "2009-01-15T19:00:52+00:00" ],
+        "uid" : [ "tag:twitter.com:brokep" ],
+        "url" : [ "https://twitter.com/brokep", "https://m.brokep.com/@peter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "So the worlds richest man, CEO of multiple large organisations, father to seven(?) kids - at least one of them an infant - takes time to code review people with far more experience and skills. Next level tire kicking car purchaser.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alexeheath\"></a>",
+      "value" : "So the worlds richest man, CEO of multiple large organisations, father to seven(?) kids - at least one of them an infant - takes time to code review people with far more experience and skills. Next level tire kicking car purchaser."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/alexeheath/status/1594857578256748544" ],
+    "published" : [ "2022-11-22T07:13:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1594952093751803904" ],
+    "url" : [ "https://twitter.com/brokep/status/1594952093751803904" ]
+  },
+  "type" : [ "h-entry" ]
+}
