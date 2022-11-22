@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Future" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Mullenweg" ],
+        "nickname" : [ "photomatt" ],
+        "numeric-id" : [ "13479" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1290386927594610688/uK9NYeBe.png" ],
+        "published" : [ "2006-11-21T10:08:08+00:00" ],
+        "uid" : [ "tag:twitter.com:photomatt" ],
+        "url" : [ "https://twitter.com/photomatt", "https://ma.tt/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Come to <a href=\"https://twitter.com/tumblr\">@tumblr</a>. We'll add activitypub for interconnect. Don't stress.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/seldo\"></a>",
+      "value" : "Come to @tumblr. We'll add activitypub for interconnect. Don't stress."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/seldo/status/1594551223163781121" ],
+    "published" : [ "2022-11-21T06:26:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1594577983028740096" ],
+    "url" : [ "https://twitter.com/photomatt/status/1594577983028740096" ]
+  },
+  "type" : [ "h-entry" ]
+}
