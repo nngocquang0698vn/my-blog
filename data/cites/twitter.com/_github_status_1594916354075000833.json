@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "GitHub" ],
+        "nickname" : [ "github" ],
+        "numeric-id" : [ "13334762" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9.jpg" ],
+        "published" : [ "2008-02-11T04:41:50+00:00" ],
+        "uid" : [ "tag:twitter.com:github" ],
+        "url" : [ "https://twitter.com/github", "http://github.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We've just launched a public beta of webhook forwarding in the GitHub CLI 💡 \n\nWith webhook forwarding, it's easier than ever to test your webhooks integration locally and iterate quickly. ⚡ No port forwarding required! 😌 <a href=\"https://docs.github.com/developers/webhooks-and-events/webhooks/receiving-webhooks-with-the-github-cli\">docs.github.com/developers/web…</a></div>",
+      "value" : "We've just launched a public beta of webhook forwarding in the GitHub CLI 💡 \n\nWith webhook forwarding, it's easier than ever to test your webhooks integration locally and iterate quickly. ⚡ No port forwarding required! 😌 docs.github.com/developers/web…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FiJH9F7XwAM77FD.jpg" ],
+    "published" : [ "2022-11-22T04:51:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1594916354075000833" ],
+    "url" : [ "https://twitter.com/github/status/1594916354075000833" ]
+  },
+  "type" : [ "h-entry" ]
+}
