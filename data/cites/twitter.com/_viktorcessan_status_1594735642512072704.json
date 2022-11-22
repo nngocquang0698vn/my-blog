@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Viktor Cessan" ],
+        "nickname" : [ "viktorcessan" ],
+        "numeric-id" : [ "2938104610" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569378542646972417/0HblSyzL.jpg" ],
+        "published" : [ "2014-12-23T08:30:48+00:00" ],
+        "uid" : [ "tag:twitter.com:viktorcessan" ],
+        "url" : [ "https://twitter.com/viktorcessan", "https://www.viktorcessan.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">* Access control who can do pull requests &amp; peer reviews.\n* Remove staff engineers and implement an architect office that approves and designs changes.\n* Invert architecture, if microservices go monolith. \n* Implement n+ programming languages not fit for purpose.\n* Scale agile.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bernhardsson\"></a>",
+      "value" : "* Access control who can do pull requests & peer reviews.\n* Remove staff engineers and implement an architect office that approves and designs changes.\n* Invert architecture, if microservices go monolith. \n* Implement n+ programming languages not fit for purpose.\n* Scale agile."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bernhardsson/status/1594722618585874432" ],
+    "published" : [ "2022-11-21T16:53:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1594735642512072704" ],
+    "url" : [ "https://twitter.com/viktorcessan/status/1594735642512072704" ]
+  },
+  "type" : [ "h-entry" ]
+}
