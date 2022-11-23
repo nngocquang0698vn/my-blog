@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "TechRally 🇰🇷🇺🇸" ],
+        "nickname" : [ "TheTechRally" ],
+        "numeric-id" : [ "1053073358076760069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1506367080618201089/7EfMyK7w.jpg" ],
+        "published" : [ "2018-10-19T00:00:28+00:00" ],
+        "uid" : [ "tag:twitter.com:TheTechRally" ],
+        "url" : [ "https://twitter.com/TheTechRally", "https://amap.to/techrally/", "http://youtube.com/c/techrally" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "so is modern frontends the fyre 🔥 festival of tech?" ],
+    "published" : [ "2022-11-23T04:35:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1595274800498442240" ],
+    "url" : [ "https://twitter.com/TheTechRally/status/1595274800498442240" ]
+  },
+  "type" : [ "h-entry" ]
+}
