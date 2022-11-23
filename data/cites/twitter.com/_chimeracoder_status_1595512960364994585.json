@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@chimeracoder@mastodon.social🦦 🏳️‍🌈" ],
+        "nickname" : [ "chimeracoder" ],
+        "numeric-id" : [ "182675886" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407567669965078528/UM9zoQoe.jpg" ],
+        "published" : [ "2010-08-25T03:49:41+00:00" ],
+        "uid" : [ "tag:twitter.com:chimeracoder" ],
+        "url" : [ "https://twitter.com/chimeracoder", "https://mastodon.social/@chimeracoder" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "posting this here to save myself the trouble of sending it individually to all my trans furry friends at various tech companies" ],
+    "photo" : [ "https://pbs.twimg.com/media/FiRmlS2XwAARCMn.jpg" ],
+    "published" : [ "2022-11-23T20:21:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1595512960364994585" ],
+    "url" : [ "https://twitter.com/chimeracoder/status/1595512960364994585" ]
+  },
+  "type" : [ "h-entry" ]
+}
