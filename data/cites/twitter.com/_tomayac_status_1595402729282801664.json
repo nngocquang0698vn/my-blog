@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Earth, also @tomayac@toot.cafe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Thomas Steiner (@tomayac@toot.cafe)" ],
+        "nickname" : [ "tomayac" ],
+        "numeric-id" : [ "14697496" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/758412790029750280/fHw8Dxah.jpg" ],
+        "published" : [ "2008-05-08T07:34:56+00:00" ],
+        "uid" : [ "tag:twitter.com:tomayac" ],
+        "url" : [ "https://twitter.com/tomayac", "https://blog.tomayac.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "🍿 I have collected some community feedback on the Modern Frontends Live conference: <a href=\"https://blog.tomayac.com/2022/11/23/modern-frontends-live/\">blog.tomayac.com/2022/11/23/mod…</a>. Add yours!",
+      "value" : "🍿 I have collected some community feedback on the Modern Frontends Live conference: blog.tomayac.com/2022/11/23/mod…. Add yours!"
+    } ],
+    "published" : [ "2022-11-23T13:03:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1595402729282801664" ],
+    "url" : [ "https://twitter.com/tomayac/status/1595402729282801664" ]
+  },
+  "type" : [ "h-entry" ]
+}
