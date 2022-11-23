@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/web/@ian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "He went full Nazi. Like talking points straight out of American Renaissance, verbatim\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>",
+      "value" : "He went full Nazi. Like talking points straight out of American Renaissance, verbatim"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1595436556382240768" ],
+    "published" : [ "2022-11-23T16:08:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1595449174543269889" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1595449174543269889" ]
+  },
+  "type" : [ "h-entry" ]
+}
