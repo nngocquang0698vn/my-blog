@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Steven Cree" ],
+          "nickname" : [ "MrStevenCree" ],
+          "numeric-id" : [ "755541853995401216" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1397329186319175681/9GuNf61P.jpg" ],
+          "published" : [ "2016-07-19T23:16:30+00:00" ],
+          "uid" : [ "tag:twitter.com:MrStevenCree" ],
+          "url" : [ "https://twitter.com/MrStevenCree", "https://www.cameo.com/stevencree" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Blew my mind." ],
+      "photo" : [ "https://pbs.twimg.com/media/FiJn0nRXoAAb744.jpg" ],
+      "published" : [ "2022-11-22T07:10:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1594951376928636930" ],
+      "url" : [ "https://twitter.com/MrStevenCree/status/1594951376928636930" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/mrstevencree/s…" ],
+      "url" : [ "https://twitter.com/mrstevencree/status/1594951376928636930" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Fatih Arslan" ],
+        "nickname" : [ "fatih" ],
+        "numeric-id" : [ "23119057" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525082346508144640/b_T5UXy6.jpg" ],
+        "published" : [ "2009-03-06T21:09:31+00:00" ],
+        "uid" : [ "tag:twitter.com:fatih" ],
+        "url" : [ "https://twitter.com/fatih", "https://arslan.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "TIL there is a Bear on the Toblerone package.\n<a class=\"tag\" href=\"https://twitter.com/mrstevencree/status/1594951376928636930\">twitter.com/mrstevencree/s…</a>",
+      "value" : "TIL there is a Bear on the Toblerone package."
+    } ],
+    "published" : [ "2022-11-23T20:01:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1595507887731884032" ],
+    "url" : [ "https://twitter.com/fatih/status/1595507887731884032" ]
+  },
+  "type" : [ "h-entry" ]
+}
