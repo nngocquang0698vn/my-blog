@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Alias your Mastodon username to your own domain with Jekyll" ],
+    "summary" : [ "Mastodon is different to most online services. Because it is a federated network, when you set up an account you need to choose a server to use. Your username then becomes a combination of your han..." ],
+    "featured" : [ "https://philna.sh/assets/posts/mastodon/mastodon-and-jekyll-9165cb116496b61ac2c9ecee947efd72864ea66cf26143a13edf4065ee1c4ae2.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Phil Nash" ]
+      }
+    } ],
+    "url" : [ "https://philna.sh/blog/2022/11/23/alias-your-mastodon-username-to-your-own-domain-with-jekyll/" ]
+  }
+}
