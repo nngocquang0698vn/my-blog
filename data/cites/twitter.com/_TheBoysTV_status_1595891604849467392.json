@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "or dm submissions/promo" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "fucked up looking food" ],
+          "nickname" : [ "fuckedupfoods" ],
+          "numeric-id" : [ "1546497037117579264" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1585611313107066880/Q3VEf0bc.jpg" ],
+          "published" : [ "2022-07-11T14:10:13+00:00" ],
+          "uid" : [ "tag:twitter.com:fuckedupfoods" ],
+          "url" : [ "https://twitter.com/fuckedupfoods", "http://fuckedup.shop", "http://discord.gg/K2aAEjUsbR" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FiV6oNFX0AARYGW.jpg" ],
+      "published" : [ "2022-11-24T16:27:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1595816498538639360" ],
+      "url" : [ "https://twitter.com/fuckedupfoods/status/1595816498538639360" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "673 Nosh My Bollocks Ave." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "THE BOYS" ],
+        "nickname" : [ "TheBoysTV" ],
+        "numeric-id" : [ "928707978932482048" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595593968334475264/TsrVsIh5.jpg" ],
+        "published" : [ "2017-11-09T19:36:51+00:00" ],
+        "uid" : [ "tag:twitter.com:TheBoysTV" ],
+        "url" : [ "https://twitter.com/TheBoysTV", "http://amazon.com/theboys" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Thanksgiving at Deep’s" ],
+    "published" : [ "2022-11-24T21:26:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1595891604849467392" ],
+    "url" : [ "https://twitter.com/TheBoysTV/status/1595891604849467392" ]
+  },
+  "type" : [ "h-entry" ]
+}
