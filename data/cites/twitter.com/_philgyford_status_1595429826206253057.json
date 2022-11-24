@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Herefordshire, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Gyford" ],
+        "nickname" : [ "philgyford" ],
+        "numeric-id" : [ "12552" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1167616130/james_200208_300x300.jpg" ],
+        "published" : [ "2006-11-15T16:55:59+00:00" ],
+        "uid" : [ "tag:twitter.com:philgyford" ],
+        "url" : [ "https://twitter.com/philgyford", "http://www.gyford.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Here's my latest project: <a href=\"https://ooh.directory\">ooh.directory</a> , a collection of hundreds of blogs.\n\nI was tired of hearing \"no body blogs any more\" and wanted to show that there are so. many. blogs!\n\nI have loads more blogs and features to add yet, and I hope you find something interesting.</div>",
+      "value" : "Here's my latest project: ooh.directory , a collection of hundreds of blogs.\n\nI was tired of hearing \"no body blogs any more\" and wanted to show that there are so. many. blogs!\n\nI have loads more blogs and features to add yet, and I hope you find something interesting."
+    } ],
+    "published" : [ "2022-11-23T14:51:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1595429826206253057" ],
+    "url" : [ "https://twitter.com/philgyford/status/1595429826206253057" ]
+  },
+  "type" : [ "h-entry" ]
+}
