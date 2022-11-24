@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Casey Newton" ],
+        "nickname" : [ "CaseyNewton" ],
+        "numeric-id" : [ "69426451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX.jpg" ],
+        "published" : [ "2009-08-27T22:37:09+00:00" ],
+        "uid" : [ "tag:twitter.com:CaseyNewton" ],
+        "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ihara fought relentlessly for 280 in the face of strong skepticism from top executives, I’m told. \n\nHe co-authored the blog post explaining the value of 280 characters when it launched:\n\n<a href=\"https://blog.twitter.com/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself\">blog.twitter.com/en_us/topics/p…</a></div>",
+      "value" : "Ihara fought relentlessly for 280 in the face of strong skepticism from top executives, I’m told. \n\nHe co-authored the blog post explaining the value of 280 characters when it launched:\n\nblog.twitter.com/en_us/topics/p…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CaseyNewton/status/1595818243620380672" ],
+    "published" : [ "2022-11-24T16:34:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1595818246048911365" ],
+    "url" : [ "https://twitter.com/CaseyNewton/status/1595818246048911365" ]
+  },
+  "type" : [ "h-entry" ]
+}
