@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chad Loder" ],
+        "nickname" : [ "chadloder" ],
+        "numeric-id" : [ "98575337" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518675528072318976/DoryveDH.jpg" ],
+        "published" : [ "2009-12-22T07:11:56+00:00" ],
+        "uid" : [ "tag:twitter.com:chadloder" ],
+        "url" : [ "https://twitter.com/chadloder", "https://newsletter.extremism.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">BREAKING: I have just received evidence of a massive Twitter data breach affecting millions of Twitter accounts in EU and US.\n\nI have contacted a sample of the affected accounts and they confirmed that the breached data is accurate. \n\nThis breach occurred no earlier than 2021. 1/</div>",
+      "value" : "BREAKING: I have just received evidence of a massive Twitter data breach affecting millions of Twitter accounts in EU and US.\n\nI have contacted a sample of the affected accounts and they confirmed that the breached data is accurate. \n\nThis breach occurred no earlier than 2021. 1/"
+    } ],
+    "published" : [ "2022-11-23T23:19:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1595557696131911680" ],
+    "url" : [ "https://twitter.com/chadloder/status/1595557696131911680" ]
+  },
+  "type" : [ "h-entry" ]
+}
