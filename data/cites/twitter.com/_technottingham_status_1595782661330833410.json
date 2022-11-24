@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414627598647406592/hDuxMCus.jpg" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🎅 Tech Nottingham Secret Santa is back! 🎁\n\n🎄 You have until Tue 29th Nov to sign up. 🤶\n\n⛄ All the details are at <a href=\"https://nott.tech/santa22\">nott.tech/santa22</a> ❄\n\n🌟 Come join us in spreading some Christmas cheer! 💝</div>",
+      "value" : "🎅 Tech Nottingham Secret Santa is back! 🎁\n\n🎄 You have until Tue 29th Nov to sign up. 🤶\n\n⛄ All the details are at nott.tech/santa22 ❄\n\n🌟 Come join us in spreading some Christmas cheer! 💝"
+    } ],
+    "photo" : [ {
+      "alt" : "Hackbot is looking very jolly dressed as Santa and is waving at you while standing next to a small pile of presents with twinkly stars in the background. The image is captioned Tech Nottingham Secret Santa and there's a link to nott.tech/santa22 where you can find more details.",
+      "value" : "https://pbs.twimg.com/media/FiVZpQwXkAAJ0F7.jpg"
+    } ],
+    "published" : [ "2022-11-24T14:13:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1595782661330833410" ],
+    "url" : [ "https://twitter.com/technottingham/status/1595782661330833410" ]
+  },
+  "type" : [ "h-entry" ]
+}
