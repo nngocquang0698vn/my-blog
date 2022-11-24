@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Holloway-George 🍝" ],
+        "nickname" : [ "Sp4ghettiCode" ],
+        "numeric-id" : [ "991238672812052480" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457716158958903296/V8hGmTmF.jpg" ],
+        "published" : [ "2018-05-01T08:51:30+00:00" ],
+        "uid" : [ "tag:twitter.com:Sp4ghettiCode" ],
+        "url" : [ "https://twitter.com/Sp4ghettiCode", "https://www.spght.dev", "http://spght.dev/archive", "http://spght.dev/talks" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Do you ever look at your app's usage data, find an anomaly and wonder 'who is that?'\n\nOn that note, good morning to the single Android 4.x ASOS user that visited today 🥰\n\nWe haven't supported you in years, but I appreciate you sideloading the app all the same</div>",
+      "value" : "Do you ever look at your app's usage data, find an anomaly and wonder 'who is that?'\n\nOn that note, good morning to the single Android 4.x ASOS user that visited today 🥰\n\nWe haven't supported you in years, but I appreciate you sideloading the app all the same"
+    } ],
+    "published" : [ "2022-11-24T08:49:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1595701020381806592" ],
+    "url" : [ "https://twitter.com/Sp4ghettiCode/status/1595701020381806592" ]
+  },
+  "type" : [ "h-entry" ]
+}
