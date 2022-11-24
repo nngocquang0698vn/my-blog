@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mako Lite" ],
+        "nickname" : [ "trent_mon" ],
+        "numeric-id" : [ "816004269060997121" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533133707183157248/HzHSEpkH.jpg" ],
+        "published" : [ "2017-01-02T19:32:33+00:00" ],
+        "uid" : [ "tag:twitter.com:trent_mon" ],
+        "url" : [ "https://twitter.com/trent_mon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Like Elon?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ahmetb\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/realGeorgeHotz\"></a>",
+      "value" : "Like Elon?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/realGeorgeHotz/status/1595892052591775744" ],
+    "published" : [ "2022-11-24T21:50:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1595897593283850240" ],
+    "url" : [ "https://twitter.com/trent_mon/status/1595897593283850240" ]
+  },
+  "type" : [ "h-entry" ]
+}
