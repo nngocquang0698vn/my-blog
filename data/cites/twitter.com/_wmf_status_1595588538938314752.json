@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wes Felter" ],
+        "nickname" : [ "wmf" ],
+        "numeric-id" : [ "1115981" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/28026392/Wes_Felter.jpg" ],
+        "published" : [ "2007-03-13T21:06:59+00:00" ],
+        "uid" : [ "tag:twitter.com:wmf" ],
+        "url" : [ "https://twitter.com/wmf", "http://blog.felter.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Docker's not even ten years old and the kids have moved on. Soon we'll be container boomers.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ibuildthecloud\"></a>",
+      "value" : "Docker's not even ten years old and the kids have moved on. Soon we'll be container boomers."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ibuildthecloud/status/1595586603627732992" ],
+    "published" : [ "2022-11-24T01:22:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1595588538938314752" ],
+    "url" : [ "https://twitter.com/wmf/status/1595588538938314752" ]
+  },
+  "type" : [ "h-entry" ]
+}
