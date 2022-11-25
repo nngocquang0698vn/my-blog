@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Starling Bank" ],
+        "nickname" : [ "StarlingBank" ],
+        "numeric-id" : [ "2876465573" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1559816747984773121/FJEbliQU.jpg" ],
+        "published" : [ "2014-11-14T14:36:11+00:00" ],
+        "uid" : [ "tag:twitter.com:StarlingBank" ],
+        "url" : [ "https://twitter.com/StarlingBank", "http://www.starlingbank.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hi there 👋 We always review our position in relation to financial crime. We consider crypto activity to be high risk. We’ve taken the decision to prevent all card payments to crypto merchants and to implement further restrictions on outgoing and incoming transfers.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CryptoLetsGo3\"></a>",
+      "value" : "Hi there 👋 We always review our position in relation to financial crime. We consider crypto activity to be high risk. We’ve taken the decision to prevent all card payments to crypto merchants and to implement further restrictions on outgoing and incoming transfers."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CryptoLetsGo3/status/1595095421340340229" ],
+    "published" : [ "2022-11-22T16:44:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1595095825884930050" ],
+    "url" : [ "https://twitter.com/StarlingBank/status/1595095825884930050" ]
+  },
+  "type" : [ "h-entry" ]
+}
