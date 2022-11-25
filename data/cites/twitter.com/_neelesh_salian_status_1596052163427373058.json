@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Neelesh Salian" ],
+        "nickname" : [ "neelesh_salian" ],
+        "numeric-id" : [ "1537672544932986880" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538207556815859713/_DAU-j1B.jpg" ],
+        "published" : [ "2022-06-17T05:45:09+00:00" ],
+        "uid" : [ "tag:twitter.com:neelesh_salian" ],
+        "url" : [ "https://twitter.com/neelesh_salian", "http://hysterical.substack.com", "http://data-folks.masto.host/@neelesh_salian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "here is the reference to that Director\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "here is the reference to that Director"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1596049218959192064" ],
+    "photo" : [ "https://pbs.twimg.com/media/FiZQ8YIUoAEcmTr.jpg" ],
+    "published" : [ "2022-11-25T08:04:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1596052163427373058" ],
+    "url" : [ "https://twitter.com/neelesh_salian/status/1596052163427373058" ]
+  },
+  "type" : [ "h-entry" ]
+}
