@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1596083744728928257" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Max Berger" ],
+        "nickname" : [ "maxberger" ],
+        "numeric-id" : [ "15729844" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595114102845837328/Gobz-8GC.jpg" ],
+        "published" : [ "2008-08-05T00:09:12+00:00" ],
+        "uid" : [ "tag:twitter.com:maxberger" ],
+        "url" : [ "https://twitter.com/maxberger", "https://maxberger.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If only there was a word to describe a political ideology which wasn't \"conventionally right\" that combined futurism, corporate control, a hatred of the left and treated liberalism as a kind of virus.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1596083744728928257\">twitter.com/elonmusk/statu…</a>",
+      "value" : "If only there was a word to describe a political ideology which wasn't \"conventionally right\" that combined futurism, corporate control, a hatred of the left and treated liberalism as a kind of virus."
+    } ],
+    "published" : [ "2022-11-25T15:12:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1596160004272398336" ],
+    "url" : [ "https://twitter.com/maxberger/status/1596160004272398336" ]
+  },
+  "type" : [ "h-entry" ]
+}
