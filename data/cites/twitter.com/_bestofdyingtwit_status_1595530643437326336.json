@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "💌:jenn@bestofdyingtwitter.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Best of Dying Twiter" ],
+        "nickname" : [ "bestofdyingtwit" ],
+        "numeric-id" : [ "1591087335512293376" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591088922221694976/f0xB2_KH.jpg" ],
+        "published" : [ "2022-11-11T15:16:04+00:00" ],
+        "uid" : [ "tag:twitter.com:bestofdyingtwit" ],
+        "url" : [ "https://twitter.com/bestofdyingtwit", "https://linktr.ee/bestofnextdoor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "remember this, <a href=\"https://twitter.com/elonmusk\">@elonmusk</a>?",
+      "value" : "remember this, @elonmusk?"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "San Francisco, CA" ],
+        "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FiR2qd2VUAAjy4g.jpg" ],
+    "published" : [ "2022-11-23T21:32:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1595530643437326336" ],
+    "url" : [ "https://twitter.com/bestofdyingtwit/status/1595530643437326336" ]
+  },
+  "type" : [ "h-entry" ]
+}
