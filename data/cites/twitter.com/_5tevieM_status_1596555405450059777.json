@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stevie Martin" ],
+        "nickname" : [ "5tevieM" ],
+        "numeric-id" : [ "24408348" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe.jpg" ],
+        "published" : [ "2009-03-14T18:32:33+00:00" ],
+        "uid" : [ "tag:twitter.com:5tevieM" ],
+        "url" : [ "https://twitter.com/5tevieM", "https://avalonuk.com/clients/stevie-martin/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "yeah yeah I’m good thanks (they just turned on the Christmas lights on my road and I burst into tears) doing well yeah" ],
+    "published" : [ "2022-11-26T17:24:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1596555405450059777" ],
+    "url" : [ "https://twitter.com/5tevieM/status/1596555405450059777" ]
+  },
+  "type" : [ "h-entry" ]
+}
