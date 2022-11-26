@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ali Abdaal" ],
+          "nickname" : [ "AliAbdaal" ],
+          "numeric-id" : [ "30436279" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1496857274165436420/yjDjLCDh.jpg" ],
+          "published" : [ "2009-04-11T11:49:42+00:00" ],
+          "uid" : [ "tag:twitter.com:AliAbdaal" ],
+          "url" : [ "https://twitter.com/AliAbdaal", "https://aliabdaal.com/links/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What’s your favourite blog? Trying to get inspiration for a revamp of my website :)" ],
+      "published" : [ "2022-11-25T21:24:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1596253583846084609" ],
+      "url" : [ "https://twitter.com/AliAbdaal/status/1596253583846084609" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "swyx 🗽" ],
+        "nickname" : [ "swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "url" : [ "https://twitter.com/swyx", "https://swyx.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Looking for a personal site refresh?\n\nI think the best way is to think about the kind of brand/blog you want to portray, and then look for those in the wild and pull in design elements you like into a \"moodboard\".\n\nThis was my list when I went thru it\n<a href=\"https://github.com/sw-yx/brain/blob/master/R%20-%20Creator%20Resources/Personal%20Sites.md\">github.com/sw-yx/brain/bl…</a> </div>",
+      "value" : "Looking for a personal site refresh?\n\nI think the best way is to think about the kind of brand/blog you want to portray, and then look for those in the wild and pull in design elements you like into a \"moodboard\".\n\nThis was my list when I went thru it\ngithub.com/sw-yx/brain/bl… "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fieg5UNaMAABTjp.jpg" ],
+    "published" : [ "2022-11-26T08:32:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1596421587590615040" ],
+    "url" : [ "https://twitter.com/swyx/status/1596421587590615040" ]
+  },
+  "type" : [ "h-entry" ]
+}
