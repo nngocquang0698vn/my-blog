@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake" ],
+        "nickname" : [ "jakedimare" ],
+        "numeric-id" : [ "19065008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1539655531874422786/ukXsuFGZ.jpg" ],
+        "published" : [ "2009-01-16T12:58:30+00:00" ],
+        "uid" : [ "tag:twitter.com:jakedimare" ],
+        "url" : [ "https://twitter.com/jakedimare" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What is manhood if not a tenuous balance of constantly striving to be the very best version of myself and getting sick on Oreo cookies?" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Virginia, USA" ],
+        "uid" : [ "tag:twitter.com:5635c19c2b5078d1" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FihBLioX0AYzbPk.jpg" ],
+    "published" : [ "2022-11-26T20:12:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1596597739726729216" ],
+    "url" : [ "https://twitter.com/jakedimare/status/1596597739726729216" ]
+  },
+  "type" : [ "h-entry" ]
+}
