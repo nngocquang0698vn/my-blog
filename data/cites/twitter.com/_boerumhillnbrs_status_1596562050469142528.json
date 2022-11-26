@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Boerum Hill Neighbors" ],
+        "nickname" : [ "boerumhillnbrs" ],
+        "numeric-id" : [ "1002645771563487233" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1002655147246440448/UG9jjqCg.jpg" ],
+        "published" : [ "2018-06-01T20:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:boerumhillnbrs" ],
+        "url" : [ "https://twitter.com/boerumhillnbrs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If I see a Tesla in a parking lot I'm lighting it on fire\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KennyGesserit\"></a>",
+      "value" : "If I see a Tesla in a parking lot I'm lighting it on fire"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/KennyGesserit/status/1596493908212842496" ],
+    "published" : [ "2022-11-26T17:50:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1596562050469142528" ],
+    "url" : [ "https://twitter.com/boerumhillnbrs/status/1596562050469142528" ]
+  },
+  "type" : [ "h-entry" ]
+}
