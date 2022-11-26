@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Poland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marek Borecki" ],
+        "nickname" : [ "mborecki" ],
+        "numeric-id" : [ "207482300" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1318281288550371329/_YDTF--j.jpg" ],
+        "published" : [ "2010-10-25T12:17:49+00:00" ],
+        "uid" : [ "tag:twitter.com:mborecki" ],
+        "url" : [ "https://twitter.com/mborecki", "https://mborecki.pl/", "http://github.com/mborecki", "https://www.linkedin.com/in/marek-borecki/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Bad take.\nLine count is not good quality marker.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/allenholub\"></a>",
+      "value" : "Bad take.\nLine count is not good quality marker."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/allenholub/status/1596321657198505984" ],
+    "published" : [ "2022-11-26T05:17:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1596372443933077509" ],
+    "url" : [ "https://twitter.com/mborecki/status/1596372443933077509" ]
+  },
+  "type" : [ "h-entry" ]
+}
