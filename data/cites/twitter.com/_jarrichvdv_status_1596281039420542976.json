@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jarrich Van De Voorde" ],
+        "nickname" : [ "jarrichvdv" ],
+        "numeric-id" : [ "85541253" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279729893635309569/mOKHFqHC.jpg" ],
+        "published" : [ "2009-10-27T10:22:48+00:00" ],
+        "uid" : [ "tag:twitter.com:jarrichvdv" ],
+        "url" : [ "https://twitter.com/jarrichvdv", "http://jarri.ch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "whatever works\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ngriffin_uk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wongmjane\"></a>",
+      "value" : "whatever works"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ngriffin_uk/status/1596263378460499969" ],
+    "published" : [ "2022-11-25T23:13:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1596281039420542976" ],
+    "url" : [ "https://twitter.com/jarrichvdv/status/1596281039420542976" ]
+  },
+  "type" : [ "h-entry" ]
+}
