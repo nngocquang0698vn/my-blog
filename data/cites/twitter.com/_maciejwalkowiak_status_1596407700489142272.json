@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Job is a job. Not a family." ],
+    "in-reply-to" : [ "https://twitter.com/maciejwalkowiak/status/1596407697020157953" ],
+    "published" : [ "2022-11-26T07:37:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1596407700489142272" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1596407700489142272" ]
+  },
+  "type" : [ "h-entry" ]
+}
