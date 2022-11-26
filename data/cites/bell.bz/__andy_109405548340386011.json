@@ -1,0 +1,275 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://bell.bz/@andy/109405548340386011" ],
+    "uid" : [ "https://bell.bz/@andy/109405548340386011" ],
+    "published" : [ "2022-11-25T17:09:44+00:00" ],
+    "content" : [ {
+      "html" : "<p>really fucking glad this mastodon and ifttt setup is working well</p>",
+      "value" : "really fucking glad this mastodon and ifttt setup is working well",
+      "lang" : "en"
+    } ],
+    "in-reply-to" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy/109405513770282595" ],
+        "uid" : [ "https://bell.bz/@andy/109405513770282595" ],
+        "published" : [ "2022-11-25T17:00:56+00:00" ],
+        "content" : [ {
+          "html" : "<p>&lt;p&gt;I</p>",
+          "value" : "<p>I",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andy Bell" ],
+            "url" : [ "https://bell.bz/@andy" ],
+            "photo" : [ {
+              "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Andy Bell"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 25, 2022, 17:00 Andy Bell @andy@bell.bz\n<p>I 1+"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Andy Bell" ],
+        "url" : [ "https://bell.bz/@andy" ],
+        "photo" : [ {
+          "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Andy Bell"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy/109405583529278412" ],
+        "uid" : [ "https://bell.bz/@andy/109405583529278412" ],
+        "published" : [ "2022-11-25T17:18:41+00:00" ],
+        "content" : [ {
+          "html" : "<p>any clever <a href=\"https://bell.bz/tags/WordPress\" class=\"mention hashtag\" rel=\"tag\">#<span>WordPress</span></a> people out there: is there a way to get a plugin to (I presume) grab a hook when I post from the WordPress iOS app? </p><p>It works fine when I use that popular Mastodon plugin when I post from web, but it doesn't kick in when I post from iOS.</p>",
+          "value" : "any clever #WordPress people out there: is there a way to get a plugin to (I presume) grab a hook when I post from the WordPress iOS app?\nIt works fine when I use that popular Mastodon plugin when I post from web, but it doesn't kick in when I post from iOS.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andy Bell" ],
+            "url" : [ "https://bell.bz/@andy" ],
+            "photo" : [ {
+              "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Andy Bell"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Nov 25, 2022, 17:18 Andy Bell @andy@bell.bz\nany clever #WordPress people out there: is there a way to get a plugin to (I presume) grab a hook when I post from the WordPress iOS app?\nIt works fine when I use that popular Mastodon plugin when I post from web, but it doesn't kick in when I post from iOS. 1"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.social/@developerjustin/109405594361650326" ],
+      "uid" : [ "https://mastodon.social/@developerjustin/109405594361650326" ],
+      "published" : [ "2022-11-25T17:21:26+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> could you grab the save_post action and check for is_rest since it uses the API?  <a href=\"https://wordpress.stackexchange.com/questions/221202/does-something-like-is-rest-exist\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wordpress.stackexchange.com/qu</span><span class=\"invisible\">estions/221202/does-something-like-is-rest-exist</span></a></p>",
+        "value" : "@andy could you grab the save_post action and check for is_rest since it uses the API? https://wordpress.stackexchange.com/questions/221202/does-something-like-is-rest-exist",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Justin Ferrell" ],
+          "url" : [ "https://mastodon.social/@developerjustin" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/system/cache/accounts/avatars/109/366/870/748/788/226/original/2db600646a5c9ed4.png",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Justin Ferrell"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy" ],
+        "name" : [ "@andy" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://bell.bz/@andy/109405618600725412" ],
+      "uid" : [ "https://bell.bz/@andy/109405618600725412" ],
+      "published" : [ "2022-11-25T17:27:36+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@developerjustin\" class=\"u-url mention\">@<span>developerjustin</span></a></span> Ah yeh possibly</p>",
+        "value" : "@developerjustin Ah yeh possibly",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Andy Bell" ],
+          "url" : [ "https://bell.bz/@andy" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Andy Bell"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@developerjustin" ],
+        "name" : [ "@developerjustin" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mstdn.social/@soben/109406334869543432" ],
+      "uid" : [ "https://mstdn.social/@soben/109406334869543432" ],
+      "published" : [ "2022-11-25T20:29:45+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@developerjustin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>developerjustin</span></a></span> seems weird that the Mastodon plugin isn’t already using the save_post hook, though. Curious.</p>",
+        "value" : "@andy @developerjustin seems weird that the Mastodon plugin isn’t already using the save_post hook, though. Curious.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Chris Lagasse" ],
+          "url" : [ "https://mstdn.social/@soben" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/system/cache/accounts/avatars/109/366/001/879/628/407/original/7a8575f9274ca6c6.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Chris Lagasse"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy" ],
+        "name" : [ "@andy" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@developerjustin" ],
+        "name" : [ "@developerjustin" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.social/@developerjustin/109406395360205986" ],
+      "uid" : [ "https://mastodon.social/@developerjustin/109406395360205986" ],
+      "published" : [ "2022-11-25T20:45:08+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@soben\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>soben</span></a></span> <span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> yeah, it’s odd that it’s not hitting it already. Maybe it is but it’s checking is_admin to make sure you’re logged in and publishing? I thought it might be querying posts after the fact but that wouldn’t explain mobile stuff being left out.</p>",
+        "value" : "@soben @andy yeah, it’s odd that it’s not hitting it already. Maybe it is but it’s checking is_admin to make sure you’re logged in and publishing? I thought it might be querying posts after the fact but that wouldn’t explain mobile stuff being left out.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Justin Ferrell" ],
+          "url" : [ "https://mastodon.social/@developerjustin" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/system/cache/accounts/avatars/109/366/870/748/788/226/original/2db600646a5c9ed4.png",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Justin Ferrell"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/@soben" ],
+        "name" : [ "@soben" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy" ],
+        "name" : [ "@andy" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://bell.bz/@andy/109406489943068947" ],
+      "uid" : [ "https://bell.bz/@andy/109406489943068947" ],
+      "published" : [ "2022-11-25T21:09:12+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@developerjustin\" class=\"u-url mention\">@<span>developerjustin</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@soben\" class=\"u-url mention\">@<span>soben</span></a></span> yeh that’s a good shout. I’ll have a fiddle around in the plugin code next week and see what I can work out</p>",
+        "value" : "@developerjustin @soben yeh that’s a good shout. I’ll have a fiddle around in the plugin code next week and see what I can work out",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Andy Bell" ],
+          "url" : [ "https://bell.bz/@andy" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Andy Bell"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@developerjustin" ],
+        "name" : [ "@developerjustin" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/@soben" ],
+        "name" : [ "@soben" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
