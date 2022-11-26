@@ -1,0 +1,390 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "pk-num-likes" : [ "15" ],
+    "pk-num-reposts" : [ "1" ],
+    "pk-num-replies" : [ "5" ],
+    "url" : [ "https://aaronparecki.com/2022/11/18/88/fired" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1593833231345852416", "https://micro.blog/aaronpk/14179399" ],
+    "published" : [ "2022-11-18T21:07:05-08:00" ],
+    "content" : [ {
+      "html" : "Whenever I open twitter now, the home timeline has like 2 new tweets. I'm not sure if this is because the twitter infrastructure is failing, or because actually there was one person individually responsible for creating your home timeline and they were fired last week",
+      "value" : "Whenever I open twitter now, the home timeline has like 2 new tweets. I'm not sure if this is because the twitter infrastructure is failing, or because actually there was one person individually responsible for creating your home timeline and they were fired last week"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.tchncs.de/users/cambridgeport90#likes/3658439" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kat M. Moss" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.tchncs.de/users/cambridgeport90" ]
+          },
+          "value" : "Kat M. Moss"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Kat M. Moss"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/karabaic#likes/49692509" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jack the nonabrasive" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/karabaic" ]
+          },
+          "value" : "jack the nonabrasive"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jack the nonabrasive"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://aus.social/users/mikestevens#likes/811737" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "mikestevens" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://aus.social/users/mikestevens" ]
+          },
+          "value" : "mikestevens"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png mikestevens"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/Savagejen#likes/49679584" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "savagejen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/Savagejen" ]
+          },
+          "value" : "savagejen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png savagejen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-23168303" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ryan Hacd" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Ryanhacd" ]
+          },
+          "value" : "Ryan Hacd"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ryan Hacd"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-3481903694" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "पंकज कुमार" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/thepk123" ]
+          },
+          "value" : "पंकज कुमार"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png पंकज कुमार"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-286237310" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ian Melven" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/imelven" ]
+          },
+          "value" : "Ian Melven"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ian Melven"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-282382518" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Philip Saa 🇩🇪 #autumn" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/cowglow" ]
+          },
+          "value" : "Philip Saa 🇩🇪 #autumn"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Philip Saa 🇩🇪 #autumn"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-1211857419447361536" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Bailey Stone" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/BaileyStone06_" ]
+          },
+          "value" : "Bailey Stone"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Bailey Stone"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-107722405" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Bob Allen, M.Sc." ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/BugBobPhoto" ]
+          },
+          "value" : "Bob Allen, M.Sc."
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Bob Allen, M.Sc."
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-39572206" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Brian Demers" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/briandemers" ]
+          },
+          "value" : "Brian Demers"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Brian Demers"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-5872332" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Clarkez◎ne" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Clarkezone" ]
+          },
+          "value" : "Clarkez◎ne"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Clarkez◎ne"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-46416755" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Lillian Karabaic" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/anomalily" ]
+          },
+          "value" : "Lillian Karabaic"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Lillian Karabaic"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-36516260" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Justin Richer 🐀" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/justin__richer" ]
+          },
+          "value" : "Justin Richer 🐀"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Justin Richer 🐀"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1593833231345852416#favorited-by-3129317163" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Bailey Hanna" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/BaileyHanna" ]
+          },
+          "value" : "Bailey Hanna"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Bailey Hanna"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.tchncs.de/users/cambridgeport90/statuses/109376906118891823/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kat M. Moss" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.tchncs.de/users/cambridgeport90" ]
+          },
+          "value" : "Kat M. Moss"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Kat M. Moss"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.online/@carpetbomberz/109372794446955969" ],
+        "published" : [ "2022-11-19T14:19:59-08:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> Sadly, I would say it's a 50/50 chance it was a person who is part of the 88% now gone from the Twitter.com.</p>",
+          "value" : "@aaronpk Sadly, I would say it's a 50/50 chance it was a person who is part of the 88% now gone from the Twitter.com."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "carpetbomberz" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.online/users/carpetbomberz" ]
+          },
+          "value" : "carpetbomberz"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png carpetbomberz mastodon.online/users/carpetbomberz\n@aaronpk Sadly, I would say it's a 50/50 chance it was a person who is part of the 88% now gone from the Twitter.com. Sat, Nov 19, 2022 2:19pm -08:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/Clarkezone/status/1593989288743477249" ],
+        "published" : [ "2022-11-19T15:27:15+00:00" ],
+        "content" : [ {
+          "html" : "Same.\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Same."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Clarkez◎ne" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Clarkezone" ]
+          },
+          "value" : "Clarkez◎ne"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Clarkez◎ne twitter.com/Clarkezone Same. Sat, Nov 19, 2022 3:27pm +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "https://twitter.com/timothydeanroth" ],
+        "url" : [ "https://twitter.com/aaronpk/status/1593963596286898177" ],
+        "published" : [ "2022-11-19T13:45:10+00:00" ],
+        "content" : [ {
+          "html" : "absolutely not\n<a class=\"u-mention\" href=\"https://twitter.com/timothydeanroth\" rel=\"nofollow\"></a>",
+          "value" : "absolutely not"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Parecki" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/aaronpk" ]
+          },
+          "value" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Parecki twitter.com/aaronpk absolutely not Sat, Nov 19, 2022 1:45pm +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/dave/14183302" ],
+        "published" : [ "2022-11-19T09:01:17+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/aaronpk\" rel=\"nofollow\">@aaronpk</a> -- it feels very normal to me, and active, as usual. the places that im new to, here and masto feel to me like you describe. everywhere we're lije tye blind men and the elephant. 😀</p>",
+          "value" : "@aaronpk -- it feels very normal to me, and active, as usual. the places that im new to, here and masto feel to me like you describe. everywhere we're lije tye blind men and the elephant. 😀"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "dave" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/dave" ]
+          },
+          "value" : "dave"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png dave micro.blog/dave\n@aaronpk -- it feels very normal to me, and active, as usual. the places that im new to, here and masto feel to me like you describe. everywhere we're lije tye blind men and the elephant. 😀 Sat, Nov 19, 2022 9:01am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/timothydeanroth/status/1593867791832006656" ],
+        "published" : [ "2022-11-19T07:24:28+00:00" ],
+        "content" : [ {
+          "html" : "Did you pay for a blue check though?\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Did you pay for a blue check though?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tim Roth" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/timothydeanroth" ]
+          },
+          "value" : "Tim Roth"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Tim Roth twitter.com/timothydeanroth Did you pay for a blue check though? Sat, Nov 19, 2022 7:24am +00:00 (via brid.gy)"
+    } ]
+  },
+  "id" : "post-id-94535"
+}
