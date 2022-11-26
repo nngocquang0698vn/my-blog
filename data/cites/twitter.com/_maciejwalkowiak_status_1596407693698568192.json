@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Stay loyal to friends you make at work.\n\nBe loyal to the company not more than the company is loyal too you.</div>",
+      "value" : "Stay loyal to friends you make at work.\n\nBe loyal to the company not more than the company is loyal too you."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/maciejwalkowiak/status/1596407692247154688" ],
+    "published" : [ "2022-11-26T07:37:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1596407693698568192" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1596407693698568192" ]
+  },
+  "type" : [ "h-entry" ]
+}
