@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ZacharyCohn https://mastodon.social/@ZacharyCohn" ],
+        "nickname" : [ "ZacharyCohn" ],
+        "numeric-id" : [ "17030855" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1614818717/zacharycohn.jpg" ],
+        "published" : [ "2008-10-28T23:02:44+00:00" ],
+        "uid" : [ "tag:twitter.com:ZacharyCohn" ],
+        "url" : [ "https://twitter.com/ZacharyCohn", "http://www.zaccohn.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Twitter tonight has some serious \"everyone gathered around grandpa's bedside at the hospice center\" energy except everyone is also making fun of grandpa." ],
+    "published" : [ "2022-11-18T03:09:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1593441292528205824" ],
+    "url" : [ "https://twitter.com/ZacharyCohn/status/1593441292528205824" ]
+  },
+  "type" : [ "h-entry" ]
+}
