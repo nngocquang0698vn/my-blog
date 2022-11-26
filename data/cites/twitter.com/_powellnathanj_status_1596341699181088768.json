@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🛋" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Daemon" ],
+        "nickname" : [ "powellnathanj" ],
+        "numeric-id" : [ "817450069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595612258561888256/T1okMT2v.jpg" ],
+        "published" : [ "2012-09-11T13:37:30+00:00" ],
+        "uid" : [ "tag:twitter.com:powellnathanj" ],
+        "url" : [ "https://twitter.com/powellnathanj" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is the future that the Pro-Crime left wants.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cushbomb\"></a>",
+      "value" : "This is the future that the Pro-Crime left wants."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cushbomb/status/1596339785224065024" ],
+    "published" : [ "2022-11-26T03:14:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1596341699181088768" ],
+    "url" : [ "https://twitter.com/powellnathanj/status/1596341699181088768" ]
+  },
+  "type" : [ "h-entry" ]
+}
