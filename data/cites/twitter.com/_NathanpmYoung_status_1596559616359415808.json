@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nathan 🔍" ],
+        "nickname" : [ "NathanpmYoung" ],
+        "numeric-id" : [ "1160994871" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1554232496333754368/4O6anLwp.jpg" ],
+        "published" : [ "2013-02-08T19:13:45+00:00" ],
+        "uid" : [ "tag:twitter.com:NathanpmYoung" ],
+        "url" : [ "https://twitter.com/NathanpmYoung", "http://nathanpmyoung.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Should <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> give $ 1billion directly to the poorest people in the world via <a href=\"https://twitter.com/GiveDirectly\">@GiveDirectly</a> \n\nvox populi, vox dei</div>",
+      "value" : "Should @elonmusk give $ 1billion directly to the poorest people in the world via @GiveDirectly \n\nvox populi, vox dei"
+    } ],
+    "published" : [ "2022-11-26T17:40:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1596559616359415808" ],
+    "url" : [ "https://twitter.com/NathanpmYoung/status/1596559616359415808" ]
+  },
+  "type" : [ "h-entry" ]
+}
