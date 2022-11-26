@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "San Francisco Chronicle" ],
+          "nickname" : [ "sfchronicle" ],
+          "numeric-id" : [ "121597316" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1145742752824483842/gAPc8mwO.png" ],
+          "published" : [ "2010-03-10T00:44:07+00:00" ],
+          "uid" : [ "tag:twitter.com:sfchronicle" ],
+          "url" : [ "https://twitter.com/sfchronicle", "http://SFChronicle.com", "http://SFChronicle.com/subscribe" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "BREAKING UPDATE: Eighteen people injured after multi-car crash on Bay Bridge near Treasure Island snarls traffic. <a href=\"https://trib.al/ROcnDDb\">trib.al/ROcnDDb</a>",
+        "value" : "BREAKING UPDATE: Eighteen people injured after multi-car crash on Bay Bridge near Treasure Island snarls traffic. trib.al/ROcnDDb"
+      } ],
+      "published" : [ "2022-11-24T22:03:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1595900853483098112" ],
+      "url" : [ "https://twitter.com/sfchronicle/status/1595900853483098112" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ulaidh People's Republic" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "᚛ᚆᚒᚄᚉᚍᚈᚃᚔᚅᚉ᚜" ],
+        "nickname" : [ "Minty_2022" ],
+        "numeric-id" : [ "1194014427927982081" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582892786130599937/7CIs0Nkl.jpg" ],
+        "published" : [ "2019-11-11T22:10:11+00:00" ],
+        "uid" : [ "tag:twitter.com:Minty_2022" ],
+        "url" : [ "https://twitter.com/Minty_2022", "https://curiouscat.me/Minty_2022" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tesla introducing it's full self driving mode and *immediately* blocking the bay bridge with a multi-car pileup is peak San Francisco bullshit " ],
+    "photo" : [ "https://pbs.twimg.com/media/FiZsItuXkAI7rqf.png" ],
+    "published" : [ "2022-11-25T10:03:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1596082017556316160" ],
+    "url" : [ "https://twitter.com/Minty_2022/status/1596082017556316160" ]
+  },
+  "type" : [ "h-entry" ]
+}
