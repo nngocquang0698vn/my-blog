@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Atwood" ],
+        "nickname" : [ "codinghorror" ],
+        "numeric-id" : [ "5637652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517287320235298816/Qx-O6UCY.jpg" ],
+        "published" : [ "2007-04-29T20:50:37+00:00" ],
+        "uid" : [ "tag:twitter.com:codinghorror" ],
+        "url" : [ "https://twitter.com/codinghorror", "http://blog.codinghorror.com", "http://stackoverflow.com", "http://discourse.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The whole Muskiness/Twitter deal is kinda like a mega rich person getting frustrated with a game and buying the entire thing so they can cheat as much as they want to win" ],
+    "published" : [ "2022-11-26T11:04:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1596459793199566851" ],
+    "url" : [ "https://twitter.com/codinghorror/status/1596459793199566851" ]
+  },
+  "type" : [ "h-entry" ]
+}
