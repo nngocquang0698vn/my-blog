@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Brandur" ],
+        "nickname" : [ "brandur" ],
+        "numeric-id" : [ "22980330" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/814528256632205312/tBisTEzd.jpg" ],
+        "published" : [ "2009-03-05T21:15:59+00:00" ],
+        "uid" : [ "tag:twitter.com:brandur" ],
+        "url" : [ "https://twitter.com/brandur", "https://brandur.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">T minus 10 hours to Heroku d-day.\n\n• Deleted 42 apps that were broken or doing nothing.\n• Captured three Ruby apps as static HTML and moved to GitHub Pages.\n• Two dynamic apps went to Google Cloud Run and one hobby Bridge instance with multiple DBs.\n\nLater Heroku — it was fun.</div>",
+      "value" : "T minus 10 hours to Heroku d-day.\n\n• Deleted 42 apps that were broken or doing nothing.\n• Captured three Ruby apps as static HTML and moved to GitHub Pages.\n• Two dynamic apps went to Google Cloud Run and one hobby Bridge instance with multiple DBs.\n\nLater Heroku — it was fun."
+    } ],
+    "published" : [ "2022-11-27T21:44:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1596983353387159553" ],
+    "url" : [ "https://twitter.com/brandur/status/1596983353387159553" ]
+  },
+  "type" : [ "h-entry" ]
+}
