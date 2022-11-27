@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jarred Sumner" ],
+        "nickname" : [ "jarredsumner" ],
+        "numeric-id" : [ "2489440172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG.jpg" ],
+        "published" : [ "2014-05-11T07:12:54+00:00" ],
+        "uid" : [ "tag:twitter.com:jarredsumner" ],
+        "url" : [ "https://twitter.com/jarredsumner", "https://oven.sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "alacritty is 5x faster at printing to stdout/stderr than iTerm on macOS (1µs == 1000ns)" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fif0cFXUAAAPcb1.jpg" ],
+    "published" : [ "2022-11-26T14:38:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1596513733698015232" ],
+    "url" : [ "https://twitter.com/jarredsumner/status/1596513733698015232" ]
+  },
+  "type" : [ "h-entry" ]
+}
