@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Been meaning to subscribe to @changelog.com's subscriber programme, [changelog++](https://changelog.com/++) for some time now, as I love the various podcasts + content they produce, and I've listened to 203(!) of their podcasts since my records began in August 2016(!).\r\n\r\nGreat to support the folks who create the great content we consume 😻"
+      "value" : "Been meaning to subscribe to @changelog.com's subscriber programme, [changelog++](https://changelog.com/++) for some time now, as I love the various podcasts + content they produce, and I've listened to 203(!) of their podcasts since my records began in August 2016(!).\r\n\r\nI now am, and it feels great to support the folks who create the great content we consume 😻"
     } ]
   },
   "kind" : "notes",
