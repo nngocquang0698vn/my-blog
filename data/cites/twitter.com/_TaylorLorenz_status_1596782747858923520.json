@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York City jr3@nyu.edu" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jay Rosen" ],
+          "nickname" : [ "jayrosen_nyu" ],
+          "numeric-id" : [ "14834340" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175254612045180930/POtInH0B.png" ],
+          "published" : [ "2008-05-19T16:09:01+00:00" ],
+          "uid" : [ "tag:twitter.com:jayrosen_nyu" ],
+          "url" : [ "https://twitter.com/jayrosen_nyu", "http://pressthink.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">... the podcast describes Post as a micropayment play, which requires news publishers to collaborate in a way they never have before. (Of that I'm skeptical.) Marc Andreessen, who blocks me for some reason, is a funder, as well.\n\nI am <a href=\"https://twitter.com/jayrosen_nyu\">@jayrosen_nyu</a> on <a href=\"http://Post.News\">Post.News</a> 2/2</div>",
+        "value" : "... the podcast describes Post as a micropayment play, which requires news publishers to collaborate in a way they never have before. (Of that I'm skeptical.) Marc Andreessen, who blocks me for some reason, is a funder, as well.\n\nI am @jayrosen_nyu on Post.News 2/2"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/jayrosen_nyu/status/1596606965597503488" ],
+      "published" : [ "2022-11-26T20:48:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1596606967195533312" ],
+      "url" : [ "https://twitter.com/jayrosen_nyu/status/1596606967195533312" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SUBSCRIBE TO MY SUBSTACK" ],
+        "nickname" : [ "TaylorLorenz" ],
+        "numeric-id" : [ "208725869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487520401731174404/SwXwcxuH.jpg" ],
+        "published" : [ "2010-10-27T20:40:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TaylorLorenz" ],
+        "url" : [ "https://twitter.com/TaylorLorenz", "http://TAYLORLORENZ.SUBSTACK.COM", "http://taylorlorenz.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Turns out <a href=\"http://post.news\">post.news</a> is backed by a16z. Lets see if they do it like Clubhouse and make the suggested follow list almost solely a16z partners and a smattering of anti media reactionaries",
+      "value" : "Turns out post.news is backed by a16z. Lets see if they do it like Clubhouse and make the suggested follow list almost solely a16z partners and a smattering of anti media reactionaries"
+    } ],
+    "published" : [ "2022-11-27T08:27:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1596782747858923520" ],
+    "url" : [ "https://twitter.com/TaylorLorenz/status/1596782747858923520" ]
+  },
+  "type" : [ "h-entry" ]
+}
