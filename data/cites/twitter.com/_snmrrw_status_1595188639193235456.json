@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "queens" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean Morrow" ],
+        "nickname" : [ "snmrrw" ],
+        "numeric-id" : [ "538276587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582777471036018689/D9u-VrGO.jpg" ],
+        "published" : [ "2012-03-27T14:12:11+00:00" ],
+        "uid" : [ "tag:twitter.com:snmrrw" ],
+        "url" : [ "https://twitter.com/snmrrw", "http://instagram.com/snmrrw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "anyway this meme feels relevant" ],
+    "in-reply-to" : [ "https://twitter.com/snmrrw/status/1595187227751055363" ],
+    "photo" : [ "https://pbs.twimg.com/media/FiM_mRuWQAIsoij.jpg" ],
+    "published" : [ "2022-11-22T22:53:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1595188639193235456" ],
+    "url" : [ "https://twitter.com/snmrrw/status/1595188639193235456" ]
+  },
+  "type" : [ "h-entry" ]
+}
