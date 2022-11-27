@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "queens" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean Morrow" ],
+        "nickname" : [ "snmrrw" ],
+        "numeric-id" : [ "538276587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582777471036018689/D9u-VrGO.jpg" ],
+        "published" : [ "2012-03-27T14:12:11+00:00" ],
+        "uid" : [ "tag:twitter.com:snmrrw" ],
+        "url" : [ "https://twitter.com/snmrrw", "http://instagram.com/snmrrw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I did a… certain tweet two weeks ago. Something about insulin. You probably saw it.\n\nAnyway, here’s why I did it: \n\n</div>",
+      "value" : "I did a… certain tweet two weeks ago. Something about insulin. You probably saw it.\n\nAnyway, here’s why I did it: \n\n"
+    } ],
+    "published" : [ "2022-11-22T22:47:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1595187227751055363" ],
+    "url" : [ "https://twitter.com/snmrrw/status/1595187227751055363" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1595177889460543488/vid/1280x720/n6q0hvABMK-unWow.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
