@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Saint Paul, Minnesota" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Erik Vorhes (tragicomedy)" ],
+          "nickname" : [ "erikvorhes" ],
+          "numeric-id" : [ "14059222" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1551416502791901185/fXETtt6p.jpg" ],
+          "published" : [ "2008-02-29T05:09:48+00:00" ],
+          "uid" : [ "tag:twitter.com:erikvorhes" ],
+          "url" : [ "https://twitter.com/erikvorhes", "https://mastodon.social/@erikvorhes" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "If you use Hey or Basecamp, you’re funding a white supremacist. <a href=\"https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c\">world.hey.com/dhh/the-waning…</a>",
+        "value" : "If you use Hey or Basecamp, you’re funding a white supremacist. world.hey.com/dhh/the-waning…"
+      } ],
+      "published" : [ "2022-11-23T01:30:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1595228350226001920" ],
+      "url" : [ "https://twitter.com/erikvorhes/status/1595228350226001920" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Narrm/Birrarung-ga/Melbourne" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pat Allan" ],
+        "nickname" : [ "pat" ],
+        "numeric-id" : [ "5523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511923815940444160/CqMy0PrW.jpg" ],
+        "published" : [ "2006-09-08T02:46:02+00:00" ],
+        "uid" : [ "tag:twitter.com:pat" ],
+        "url" : [ "https://twitter.com/pat", "https://freelancing-gods.com", "https://hachyderm.io/@pat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Erik is not wrong - this kind of writing from DHH (alongside the banning of 'politics' at 37signals) greases the white supremacy wheel.\n\n<a href=\"https://twitter.com/tomstuart\">@tomstuart</a> spoke truth about this many years ago, and it is still spot-on today: \"DHH is the Fox News of Ruby\" - <a href=\"https://tomstu.art/the-dhh-problem\">tomstu.art/the-dhh-problem</a></div>",
+      "value" : "Erik is not wrong - this kind of writing from DHH (alongside the banning of 'politics' at 37signals) greases the white supremacy wheel.\n\n@tomstuart spoke truth about this many years ago, and it is still spot-on today: \"DHH is the Fox News of Ruby\" - tomstu.art/the-dhh-problem"
+    } ],
+    "published" : [ "2022-11-27T07:07:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1596762535134658560" ],
+    "url" : [ "https://twitter.com/pat/status/1596762535134658560" ]
+  },
+  "type" : [ "h-entry" ]
+}
