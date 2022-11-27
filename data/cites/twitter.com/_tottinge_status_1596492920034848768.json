@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicagoland NW Burbs" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "\"Agile Otter\" Tim Ottinger" ],
+        "nickname" : [ "tottinge" ],
+        "numeric-id" : [ "17308319" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524737460743380992/MTK-Yoz_.jpg" ],
+        "published" : [ "2008-11-11T11:54:27+00:00" ],
+        "uid" : [ "tag:twitter.com:tottinge" ],
+        "url" : [ "https://twitter.com/tottinge", "http://agileotter.blogspot.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "To throw one more fallacy on the bonfire: CI is not the practice of running a building test server. It is the behavior of developers sharing all their code changes frequently, at LEAST once a day." ],
+    "published" : [ "2022-11-26T13:15:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1596492920034848768" ],
+    "url" : [ "https://twitter.com/tottinge/status/1596492920034848768" ]
+  },
+  "type" : [ "h-entry" ]
+}
