@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bristol" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jon Sparey" ],
+        "nickname" : [ "jonsparey" ],
+        "numeric-id" : [ "69401178" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443973490261073934/_5-pW5ni.jpg" ],
+        "published" : [ "2009-08-27T20:53:03+00:00" ],
+        "uid" : [ "tag:twitter.com:jonsparey" ],
+        "url" : [ "https://twitter.com/jonsparey" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I keep buying these and never paying them off. After all, what are they gonna do? Banh mi?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JonahGraber\"></a>",
+      "value" : "I keep buying these and never paying them off. After all, what are they gonna do? Banh mi?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JonahGraber/status/1596227277699907590" ],
+    "published" : [ "2022-11-26T12:51:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1596486722682228736" ],
+    "url" : [ "https://twitter.com/jonsparey/status/1596486722682228736" ]
+  },
+  "type" : [ "h-entry" ]
+}
