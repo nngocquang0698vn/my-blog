@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Christopher Schmidt (@crschmidt@better.boston)" ],
+    "summary" : [ "Fun fact: sharing this link on Mastodon caused my server to serve 112,772,802 bytes of data, in 430 requests, over the 60 seconds after I posted it (>7 r/s). Not because humans wanted them, but because of the LinkFetchWorker, which kicks off 1-60 seconds after Mastodon indexes a post (and possibly before it's ever seen by a human).\n\nEvery Mastodon instance fetches and stores their own local copy of my 750kb preview image.\n\n(I was inspired by to look by @jwz@mastodon.social's post:  https://mastodon.social/@jwz/109411593248255294.)" ],
+    "featured" : [ "https://files.better.boston/accounts/avatars/109/320/082/715/954/140/original/b293b073f0ebff5d.jpeg" ],
+    "url" : [ "https://better.boston/@crschmidt/109412294646370820" ]
+  }
+}
