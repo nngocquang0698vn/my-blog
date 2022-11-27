@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "THAT @REM SHOW" ],
+        "nickname" : [ "rem" ],
+        "numeric-id" : [ "648873" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/527584017189982208/l3wwN-l-.jpeg" ],
+        "published" : [ "2007-01-16T20:11:35+00:00" ],
+        "uid" : [ "tag:twitter.com:rem" ],
+        "url" : [ "https://twitter.com/rem", "https://remysharp.com", "http://front-end.social/@rem" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Definitely seeing less humans/people (over brands) on twitter as the humans shift to mastodon or exit entirely.\n\nI also keep seeing a chart of \"increased engagement\" yet the source is a single person that I really wouldn't trust not to fiddle the stats in their favour…</div>",
+      "value" : "Definitely seeing less humans/people (over brands) on twitter as the humans shift to mastodon or exit entirely.\n\nI also keep seeing a chart of \"increased engagement\" yet the source is a single person that I really wouldn't trust not to fiddle the stats in their favour…"
+    } ],
+    "published" : [ "2022-11-27T11:07:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1596823041321095168" ],
+    "url" : [ "https://twitter.com/rem/status/1596823041321095168" ]
+  },
+  "type" : [ "h-entry" ]
+}
