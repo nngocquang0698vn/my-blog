@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Melbourne, Australia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Aidan W Steele" ],
+          "nickname" : [ "__steele" ],
+          "numeric-id" : [ "281819105" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1199447204311617537/vzdPtfih.jpg" ],
+          "published" : [ "2011-04-14T01:23:40+00:00" ],
+          "uid" : [ "tag:twitter.com:__steele" ],
+          "url" : [ "https://twitter.com/__steele", "https://awsteele.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "👀 Look at what has popped up in the CloudWatch Logs web console" ],
+      "photo" : [ "https://pbs.twimg.com/media/FimnMy0aYAAJQXr.jpg" ],
+      "published" : [ "2022-11-27T22:16:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1596991441435504640" ],
+      "url" : [ "https://twitter.com/__steele/status/1596991441435504640" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Gloucestershire, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Withers" ],
+        "nickname" : [ "tomtucka" ],
+        "numeric-id" : [ "566646587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522893604301250560/FGkAsNQ8.jpg" ],
+        "published" : [ "2012-04-29T20:25:41+00:00" ],
+        "uid" : [ "tag:twitter.com:tomtucka" ],
+        "url" : [ "https://twitter.com/tomtucka", "https://linktr.ee/tomwithers" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "While this is cool, you still shouldn’t be logging that raw information." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Dundee, Scotland" ],
+        "uid" : [ "tag:twitter.com:62a2a7f86cd9a5b4" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-11-28T11:08:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1597185715007533057" ],
+    "url" : [ "https://twitter.com/tomtucka/status/1597185715007533057" ]
+  },
+  "type" : [ "h-entry" ]
+}
