@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh (also on Mastodon & Cohost)" ],
+        "nickname" : [ "SrslyJosh" ],
+        "numeric-id" : [ "196885512" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/513034656690618368/H0_H15aq.png" ],
+        "published" : [ "2010-09-30T03:43:01+00:00" ],
+        "uid" : [ "tag:twitter.com:SrslyJosh" ],
+        "url" : [ "https://twitter.com/SrslyJosh", "http://cohost.org/SrslyJosh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Blocks are a safety issue. If someone is stalking you, or sending death threats, it’s not good enough to process the block later. (Yes, I know blocks can be circumvented, but this is still not a situation where you can say “yeah, it’s done” when it’s not actually done.)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EricAschner\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/saalon\"></a>",
+      "value" : "Blocks are a safety issue. If someone is stalking you, or sending death threats, it’s not good enough to process the block later. (Yes, I know blocks can be circumvented, but this is still not a situation where you can say “yeah, it’s done” when it’s not actually done.)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/EricAschner/status/1597070157658017792" ],
+    "published" : [ "2022-11-28T07:21:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1597128575500419076" ],
+    "url" : [ "https://twitter.com/SrslyJosh/status/1597128575500419076" ]
+  },
+  "type" : [ "h-entry" ]
+}
