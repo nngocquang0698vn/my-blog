@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Sometimes you need to be careful if you’re always the one putting out the fires.\n\nPretty sure I’m gonna need a whole blog post for this one.</div>",
+      "value" : "Sometimes you need to be careful if you’re always the one putting out the fires.\n\nPretty sure I’m gonna need a whole blog post for this one."
+    } ],
+    "published" : [ "2022-11-28T13:46:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1597225341411811328" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1597225341411811328" ]
+  },
+  "type" : [ "h-entry" ]
+}
