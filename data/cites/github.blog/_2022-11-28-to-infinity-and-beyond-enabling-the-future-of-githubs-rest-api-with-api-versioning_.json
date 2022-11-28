@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "To infinity and beyond: enabling the future of GitHub's REST API with API versioning | The GitHub Blog" ],
+    "summary" : [ "We’re introducing calendar-based versioning for our REST API, so we can keep evolving our API, whilst still giving integrators a smooth migration path and plenty of time to update their integrations." ],
+    "featured" : [ "https://github.blog/wp-content/uploads/2022/03/Engineering-Product@2x-1.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Tim Rogers" ]
+      }
+    } ],
+    "url" : [ "https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/" ],
+    "published" : [ "2022-11-28T20:18:43+00:00" ]
+  }
+}
