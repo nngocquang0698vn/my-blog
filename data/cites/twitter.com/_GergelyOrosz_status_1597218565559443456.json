@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Good news for you is Twitter is hiring software engineers. I suspect now is a good time to get in because most people with options will run from a place where it's common to get emails ar or after midnight about something yet again changing, or where devs are let go on the spot.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DannyNemer\"></a>",
+      "value" : "Good news for you is Twitter is hiring software engineers. I suspect now is a good time to get in because most people with options will run from a place where it's common to get emails ar or after midnight about something yet again changing, or where devs are let go on the spot."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/DannyNemer/status/1597216401919717383" ],
+    "published" : [ "2022-11-28T13:19:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1597218565559443456" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1597218565559443456" ]
+  },
+  "type" : [ "h-entry" ]
+}
