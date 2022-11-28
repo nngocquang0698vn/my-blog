@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Learn Vim" ],
+        "nickname" : [ "learnvim" ],
+        "numeric-id" : [ "1199174884422799360" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199481536871043072/IejMbNr1.png" ],
+        "published" : [ "2019-11-26T03:57:42+00:00" ],
+        "uid" : [ "tag:twitter.com:learnvim" ],
+        "url" : [ "https://twitter.com/learnvim", "http://leanpub.com/gourmetvim", "http://leanpub.com/learnvim" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Advanced global cmd trick: to sort the keys inside an array of obj/hash/dict/whatever, you can pass to the global command a pattern range:\n\n:g/pattern1/,/pattern2/cmd\n\n:g/{/+1,/}/-1 sort\n\nThe patterns are /{/+1 and /}/-1 (the line after \"{\" and the line before \"}\"\n\n:h :sort\n\n<a href=\"https://twitter.com/search?q=%23vim\">#vim</a></div>",
+      "value" : "Advanced global cmd trick: to sort the keys inside an array of obj/hash/dict/whatever, you can pass to the global command a pattern range:\n\n:g/pattern1/,/pattern2/cmd\n\n:g/{/+1,/}/-1 sort\n\nThe patterns are /{/+1 and /}/-1 (the line after \"{\" and the line before \"}\"\n\n:h :sort\n\n#vim"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FhiW19pXwAEU0xU.png", "https://pbs.twimg.com/media/FhiW8FGXEAMOIj1.jpg" ],
+    "published" : [ "2022-11-25T16:13:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1596175126394904582" ],
+    "url" : [ "https://twitter.com/learnvim/status/1596175126394904582" ]
+  },
+  "type" : [ "h-entry" ]
+}
