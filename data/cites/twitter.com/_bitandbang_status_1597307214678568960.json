@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren (parody)" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1594590544176582656/NMUTV2v_.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "begging on my hands and knees for GitHub to finally not make us SSO for public data in repos you're a member of." ],
+    "published" : [ "2022-11-28T19:11:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1597307214678568960" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1597307214678568960" ]
+  },
+  "type" : [ "h-entry" ]
+}
