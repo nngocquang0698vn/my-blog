@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike McQuaid" ],
+        "nickname" : [ "MikeMcQuaid" ],
+        "numeric-id" : [ "8694172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1166436586579484673/IhZikVg8.jpg" ],
+        "published" : [ "2007-09-05T20:11:04+00:00" ],
+        "uid" : [ "tag:twitter.com:MikeMcQuaid" ],
+        "url" : [ "https://twitter.com/MikeMcQuaid", "https://mikemcquaid.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Number of times in the last 10 years I’ve found a problem with a computer due to an actual virus: 0.\n\nNumber of times in the last 10 years I’ve found a problem with a computer due to the completely unnecessary third-party virus checker when the OS provides one: lots.</div>",
+      "value" : "Number of times in the last 10 years I’ve found a problem with a computer due to an actual virus: 0.\n\nNumber of times in the last 10 years I’ve found a problem with a computer due to the completely unnecessary third-party virus checker when the OS provides one: lots."
+    } ],
+    "published" : [ "2022-11-28T14:14:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1597232554544975872" ],
+    "url" : [ "https://twitter.com/MikeMcQuaid/status/1597232554544975872" ]
+  },
+  "type" : [ "h-entry" ]
+}
