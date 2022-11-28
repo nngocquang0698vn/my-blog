@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Lehnardt (@janl@chaos.social)" ],
+        "nickname" : [ "janl" ],
+        "numeric-id" : [ "819606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151406614752169984/pJdsa0mM.png" ],
+        "published" : [ "2007-03-07T21:36:26+00:00" ],
+        "uid" : [ "tag:twitter.com:janl" ],
+        "url" : [ "https://twitter.com/janl", "https://neighbourhood.ie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Catching “mild” COVID recap: four weeks on medical leave, will need to leave off sports & any other exhaustion for at least another two weeks. Tried to go on a slow walk the other day and had to stop after 200m. My heartbeat fluctuates wildly and I have to take frequent breaks." ],
+    "published" : [ "2022-11-28T09:50:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1597166135962648579" ],
+    "url" : [ "https://twitter.com/janl/status/1597166135962648579" ]
+  },
+  "type" : [ "h-entry" ]
+}
