@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1597285572699074560" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (real, not parody)" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Imagine publicly admitting you’d lost a major advertiser like this and thinking they were somehow the problem.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1597285572699074560\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Imagine publicly admitting you’d lost a major advertiser like this and thinking they were somehow the problem."
+    } ],
+    "published" : [ "2022-11-28T18:11:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1597292028018454530" ],
+    "url" : [ "https://twitter.com/fake_api/status/1597292028018454530" ]
+  },
+  "type" : [ "h-entry" ]
+}
