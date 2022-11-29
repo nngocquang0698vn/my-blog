@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian" ],
+        "nickname" : [ "sc0rpian99" ],
+        "numeric-id" : [ "986033032032342016" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1551295332348313600/FXkItna5.jpg" ],
+        "published" : [ "2018-04-17T00:06:09+00:00" ],
+        "uid" : [ "tag:twitter.com:sc0rpian99" ],
+        "url" : [ "https://twitter.com/sc0rpian99" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/OfSymbols\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wolverhamp10\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/OfSymbols/status/1597212891287285760" ],
+    "photo" : [ "https://pbs.twimg.com/media/FirmDUAWAAYWzZd.jpg" ],
+    "published" : [ "2022-11-28T21:29:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1597341964839825408" ],
+    "url" : [ "https://twitter.com/sc0rpian99/status/1597341964839825408" ]
+  },
+  "type" : [ "h-entry" ]
+}
