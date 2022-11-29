@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">AWS made something remarkable:\n\n\"SnapStart has reduced the cold start duration of a <a href=\"https://twitter.com/springboot\">@springboot</a> application on AWS Lambda from over 6 seconds to less than 200 ms\"\n\nGood old JVM, no GraalVM, no native image. Cold start ~200ms\n\n<a href=\"https://aws.amazon.com/blogs/aws/new-accelerate-your-lambda-functions-with-lambda-snapstart/\">aws.amazon.com/blogs/aws/new-…</a></div>",
+      "value" : "AWS made something remarkable:\n\n\"SnapStart has reduced the cold start duration of a @springboot application on AWS Lambda from over 6 seconds to less than 200 ms\"\n\nGood old JVM, no GraalVM, no native image. Cold start ~200ms\n\naws.amazon.com/blogs/aws/new-…"
+    } ],
+    "published" : [ "2022-11-29T05:16:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1597459419843170304" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1597459419843170304" ]
+  },
+  "type" : [ "h-entry" ]
+}
