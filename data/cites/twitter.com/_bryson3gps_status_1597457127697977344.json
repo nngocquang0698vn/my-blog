@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bryson Tyrrell @AWS re:Invent" ],
+        "nickname" : [ "bryson3gps" ],
+        "numeric-id" : [ "177835761" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1465092140334137344/wUGaqnMQ.jpg" ],
+        "published" : [ "2010-08-13T05:07:48+00:00" ],
+        "uid" : [ "tag:twitter.com:bryson3gps" ],
+        "url" : [ "https://twitter.com/bryson3gps", "http://www.linkedin.com/in/brysontyrrell" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/search?q=%23reInvent2022\">#reInvent2022</a>",
+      "value" : "#reInvent2022"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Paradise, NV" ],
+        "uid" : [ "tag:twitter.com:8fa6d7a33b83ef26" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FitOym9UUAAdQcj.jpg" ],
+    "published" : [ "2022-11-29T05:07:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1597457127697977344" ],
+    "url" : [ "https://twitter.com/bryson3gps/status/1597457127697977344" ]
+  },
+  "type" : [ "h-entry" ]
+}
