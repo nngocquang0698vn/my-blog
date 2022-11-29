@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Peekskill, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chuck Grimmett" ],
+        "nickname" : [ "cagrimmett" ],
+        "numeric-id" : [ "238432854" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1562968399042514944/CDTBpdUr.jpg" ],
+        "published" : [ "2011-01-15T04:40:28+00:00" ],
+        "uid" : [ "tag:twitter.com:cagrimmett" ],
+        "url" : [ "https://twitter.com/cagrimmett", "https://cagrimmett.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you make a WordPress membership site with content behind a login, make sure you disable the REST API, otherwise all of your content is available to the world via the posts, pages, and media endpoints." ],
+    "published" : [ "2022-11-29T05:16:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1597459528962158592" ],
+    "url" : [ "https://twitter.com/cagrimmett/status/1597459528962158592" ]
+  },
+  "type" : [ "h-entry" ]
+}
