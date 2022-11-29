@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Kensington Oval, ideally" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Derek Willis" ],
+          "nickname" : [ "derekwillis" ],
+          "numeric-id" : [ "14517538" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l.jpg" ],
+          "published" : [ "2008-04-24T20:48:23+00:00" ],
+          "uid" : [ "tag:twitter.com:derekwillis" ],
+          "url" : [ "https://twitter.com/derekwillis", "http://thescoop.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Look, it's congressional Twitter account follower data from <a href=\"https://twitter.com/propublica\">@propublica</a> in this <a href=\"https://twitter.com/washingtonpost\">@washingtonpost</a> joint:\n\n<a href=\"https://www.washingtonpost.com/technology/2022/11/27/musk-followers-bernie-cruz/\">washingtonpost.com/technology/202…</a></div>",
+        "value" : "Look, it's congressional Twitter account follower data from @propublica in this @washingtonpost joint:\n\nwashingtonpost.com/technology/202…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FiqNFUxXoAEuyWr.jpg" ],
+      "published" : [ "2022-11-28T15:00:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1597244149002027009" ],
+      "url" : [ "https://twitter.com/derekwillis/status/1597244149002027009" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anildash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593220093433057281/tYEbecqQ.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anildash.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This pattern matches exactly what we’d expect to see if automated accounts by bad actors were trying to game the platform, and all of the people with expertise in recognizing those patterns were no longer at the company." ],
+    "published" : [ "2022-11-28T16:56:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1597273319601889281" ],
+    "url" : [ "https://twitter.com/anildash/status/1597273319601889281" ]
+  },
+  "type" : [ "h-entry" ]
+}
