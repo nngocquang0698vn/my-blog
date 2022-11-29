@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Providence, RI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Lorenc" ],
+        "nickname" : [ "lorenc_dan" ],
+        "numeric-id" : [ "2474676878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1105525721508700161/ZSCqCU51.jpg" ],
+        "published" : [ "2014-05-02T23:47:30+00:00" ],
+        "uid" : [ "tag:twitter.com:lorenc_dan" ],
+        "url" : [ "https://twitter.com/lorenc_dan", "http://dlorenc.medium.com", "http://chainguard.dev", "http://sigstore.dev", "http://github.com/sigstore/cosign", "http://slsa.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My hobby: running container scanners on containers provided by security vendors.\n\nToday's victim, Cloud Workstations (just announced today by Google): <a href=\"https://cloud.google.com/workstations/docs/overview#workstation_environment\">cloud.google.com/workstations/d…</a>\n\nWhen you start the environment, it shows you the URL to the container running all your software!</div>",
+      "value" : "My hobby: running container scanners on containers provided by security vendors.\n\nToday's victim, Cloud Workstations (just announced today by Google): cloud.google.com/workstations/d…\n\nWhen you start the environment, it shows you the URL to the container running all your software!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fe1Wj7bWQAEVQi2.png" ],
+    "published" : [ "2022-10-12T02:06:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1580017070783070210" ],
+    "url" : [ "https://twitter.com/lorenc_dan/status/1580017070783070210" ]
+  },
+  "type" : [ "h-entry" ]
+}
