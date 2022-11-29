@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Aaron Rupar" ],
+          "nickname" : [ "atrupar" ],
+          "numeric-id" : [ "288277167" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1335565046290804738/eGXNmTvg.jpg" ],
+          "published" : [ "2011-04-26T15:22:47+00:00" ],
+          "uid" : [ "tag:twitter.com:atrupar" ],
+          "url" : [ "https://twitter.com/atrupar", "http://aaronrupar.substack.com", "https://bit.ly/snapstream-atr22" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "brand safety!" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fiq4JyqXoAAY0OB.jpg" ],
+      "published" : [ "2022-11-28T18:09:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1597291502027214848" ],
+      "url" : [ "https://twitter.com/atrupar/status/1597291502027214848" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Max Burns" ],
+        "nickname" : [ "themaxburns" ],
+        "numeric-id" : [ "1599266138" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526783485364604933/jyRTM2xK.jpg" ],
+        "published" : [ "2013-07-16T20:58:10+00:00" ],
+        "uid" : [ "tag:twitter.com:themaxburns" ],
+        "url" : [ "https://twitter.com/themaxburns", "http://maxburns.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">EXEC: Mr. Musk, sir, the brands are leaving Twitter\n\nMUSK: Have we tried insulting them?</div>",
+      "value" : "EXEC: Mr. Musk, sir, the brands are leaving Twitter\n\nMUSK: Have we tried insulting them?"
+    } ],
+    "published" : [ "2022-11-28T18:20:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1597294327998578688" ],
+    "url" : [ "https://twitter.com/themaxburns/status/1597294327998578688" ]
+  },
+  "type" : [ "h-entry" ]
+}
