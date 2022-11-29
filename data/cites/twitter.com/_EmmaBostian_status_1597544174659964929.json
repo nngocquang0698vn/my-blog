@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emma Bostian" ],
+        "nickname" : [ "EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1549721143124414465/kmXr1tX9.jpg" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Word to those looking to get into management: take the advice in popular management books with a grain of salt. Many are US-centric and won't be directly applicable in other countries. Also, I cannot get behind any book telling you to put your team through a JUDGEMENT TEST." ],
+    "in-reply-to" : [ "https://twitter.com/EmmaBostian/status/1597544170851213312" ],
+    "published" : [ "2022-11-29T10:53:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1597544174659964929" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1597544174659964929" ]
+  },
+  "type" : [ "h-entry" ]
+}
