@@ -1,6 +1,6 @@
 {
   "date" : "2022-11-30T08:56:44.740678684Z",
-  "deleted" : false,
+  "deleted" : true,
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
