@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "vaguely reassuring state machines" ],
+          "nickname" : [ "happyautomata" ],
+          "numeric-id" : [ "1005667025862049792" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1263580987096616962/1Pwq0beE.jpg" ],
+          "published" : [ "2018-06-10T04:24:38+00:00" ],
+          "uid" : [ "tag:twitter.com:happyautomata" ],
+          "url" : [ "https://twitter.com/happyautomata", "https://github.com/katef/libfsm" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ {
+        "alt" : "A finite state machine with two states and zero state transitions. One of the states accepts, but it's not the one we reach from the start state. There is nowhere to go and nothing to do. It is not clear why we're here.\n",
+        "value" : "https://pbs.twimg.com/media/E8OZukMVgAMvdeO.png"
+      } ],
+      "published" : [ "2021-08-07T23:30:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1424150934288965634" ],
+      "url" : [ "https://twitter.com/happyautomata/status/1424150934288965634" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel @ buttondown.email/hillelwayne" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598034899147100160/Yl1Lel-m.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://learntla.com", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "THIS IS NOT REASSURING AT ALL" ],
+    "published" : [ "2022-11-30T18:16:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1598018131326169088" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1598018131326169088" ]
+  },
+  "type" : [ "h-entry" ]
+}
