@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "be7.is" ],
+        "nickname" : [ "bevishalperry" ],
+        "numeric-id" : [ "603457544" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/715670047352561664/BMDtsS0O.jpg" ],
+        "published" : [ "2012-06-09T09:28:04+00:00" ],
+        "uid" : [ "tag:twitter.com:bevishalperry" ],
+        "url" : [ "https://twitter.com/bevishalperry", "http://www.be7.is" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Beware the untrue brain worms\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/maisieccino\"></a>",
+      "value" : "Beware the untrue brain worms"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/maisieccino/status/1597766469516898305" ],
+    "published" : [ "2022-11-30T10:28:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1597900317240094721" ],
+    "url" : [ "https://twitter.com/bevishalperry/status/1597900317240094721" ]
+  },
+  "type" : [ "h-entry" ]
+}
