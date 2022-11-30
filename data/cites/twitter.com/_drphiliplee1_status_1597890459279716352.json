@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr Philip Lee" ],
+        "nickname" : [ "drphiliplee1" ],
+        "numeric-id" : [ "2524538106" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1556425216548655105/1aDMTA3P.jpg" ],
+        "published" : [ "2014-05-26T08:58:22+00:00" ],
+        "uid" : [ "tag:twitter.com:drphiliplee1" ],
+        "url" : [ "https://twitter.com/drphiliplee1" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "When you stand on the left hand side of the tube escalator.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Luiseach\"></a>",
+      "value" : "When you stand on the left hand side of the tube escalator."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Luiseach/status/1597862769617178625" ],
+    "published" : [ "2022-11-30T09:49:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1597890459279716352" ],
+    "url" : [ "https://twitter.com/drphiliplee1/status/1597890459279716352" ]
+  },
+  "type" : [ "h-entry" ]
+}
