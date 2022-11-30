@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erik" ],
+        "nickname" : [ "erikdhansen" ],
+        "numeric-id" : [ "18219561" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591114458557997056/I-8WxbRT.jpg" ],
+        "published" : [ "2008-12-18T17:28:51+00:00" ],
+        "uid" : [ "tag:twitter.com:erikdhansen" ],
+        "url" : [ "https://twitter.com/erikdhansen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "As someone who’s worked in software for a couple decades, the things <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> appears to deem important and meaningful make you wonder if he really has any idea wtf he’s doing.  He certainly thinks he does.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ZoeSchiffer\"></a>",
+      "value" : "As someone who’s worked in software for a couple decades, the things @elonmusk appears to deem important and meaningful make you wonder if he really has any idea wtf he’s doing.  He certainly thinks he does."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ZoeSchiffer/status/1597665811350827008" ],
+    "published" : [ "2022-11-29T19:35:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1597675700001341440" ],
+    "url" : [ "https://twitter.com/erikdhansen/status/1597675700001341440" ]
+  },
+  "type" : [ "h-entry" ]
+}
