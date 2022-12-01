@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Edwards" ],
+        "nickname" : [ "ianedwards99" ],
+        "numeric-id" : [ "117365025" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1445429744594468871/nSPkHP7j.jpg" ],
+        "published" : [ "2010-02-25T10:08:33+00:00" ],
+        "uid" : [ "tag:twitter.com:ianedwards99" ],
+        "url" : [ "https://twitter.com/ianedwards99" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Is there a German word for that?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SoVeryBritish\"></a>",
+      "value" : "Is there a German word for that?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SoVeryBritish/status/1598430375381966867" ],
+    "published" : [ "2022-12-01T21:37:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1598431058562756610" ],
+    "url" : [ "https://twitter.com/ianedwards99/status/1598431058562756610" ]
+  },
+  "type" : [ "h-entry" ]
+}
