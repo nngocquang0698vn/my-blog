@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://jacky.wtf/2022/12/hAtI" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1598417998678728710", "https://todon.eu/@jalcine/109440370233700177" ],
+    "published" : [ "2022-12-01T20:45:16Z" ],
+    "content" : [ {
+      "html" : "<p>People posting this AI image app all over. We need to have a real reckoning about data.</p>",
+      "value" : "People posting this AI image app all over. We need to have a real reckoning about data.",
+      "lang" : "en"
+    } ],
+    "generator" : [ {
+      "type" : [ "h-app" ],
+      "properties" : {
+        "name" : [ "Quill" ],
+        "url" : [ "https://quill.p3k.io/" ]
+      },
+      "lang" : "en",
+      "value" : "https://quill.p3k.io/"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "" ],
+        "url" : [ "https://jacky.wtf/about" ]
+      },
+      "lang" : "en",
+      "value" : "https://jacky.wtf/about"
+    } ]
+  },
+  "lang" : "en"
+}
