@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Django Gold" ],
+        "nickname" : [ "django" ],
+        "numeric-id" : [ "331141273" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325438414615965697/bQdM1Xq6.jpg" ],
+        "published" : [ "2011-07-07T18:18:43+00:00" ],
+        "uid" : [ "tag:twitter.com:django" ],
+        "url" : [ "https://twitter.com/django", "http://www.djangogold.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think mine's broken" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fi07d3VWAAUsrIJ.jpg" ],
+    "published" : [ "2022-11-30T16:59:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1597998855953391616" ],
+    "url" : [ "https://twitter.com/django/status/1597998855953391616" ]
+  },
+  "type" : [ "h-entry" ]
+}
