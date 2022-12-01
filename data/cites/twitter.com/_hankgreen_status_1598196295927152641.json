@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Missoula, MT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hank Green" ],
+        "nickname" : [ "hankgreen" ],
+        "numeric-id" : [ "61592079" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1502824671292448768/LbY2Y0Pf.jpg" ],
+        "published" : [ "2009-07-30T20:36:34+00:00" ],
+        "uid" : [ "tag:twitter.com:hankgreen" ],
+        "url" : [ "https://twitter.com/hankgreen", "http://hankgreen.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I asked an AI to describe a cat and then I put the AI's description of a cat into an AI image generator." ],
+    "photo" : [ {
+      "alt" : "\"a small, furry animal that is commonly kept as a pet with soft, silky fur that comes in a wide range of colors and patterns. They have slender, agile bodies and sharp claws, which they use for hunting and climbing\"...apparently.",
+      "value" : "https://pbs.twimg.com/media/Fi3u4w_UYAE305p.jpg"
+    } ],
+    "published" : [ "2022-12-01T06:04:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1598196295927152641" ],
+    "url" : [ "https://twitter.com/hankgreen/status/1598196295927152641" ]
+  },
+  "type" : [ "h-entry" ]
+}
