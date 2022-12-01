@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Great Britain" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "No Context Brits" ],
+        "nickname" : [ "NoContextBrits" ],
+        "numeric-id" : [ "1377572924413124609" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598110410397388800/KOp7iGt2.jpg" ],
+        "published" : [ "2021-04-01T10:46:07+00:00" ],
+        "uid" : [ "tag:twitter.com:NoContextBrits" ],
+        "url" : [ "https://twitter.com/NoContextBrits", "http://instagram.com/no.context.brits" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hello, <a href=\"https://twitter.com/nationalrailenq\">@nationalrailenq</a>. This man is sitting in my reserved seat and refuses to move, saying he has a ticket to ride. Please investigate.",
+      "value" : "Hello, @nationalrailenq. This man is sitting in my reserved seat and refuses to move, saying he has a ticket to ride. Please investigate."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fi2AY0sXgA085_5.jpg" ],
+    "published" : [ "2022-11-30T22:00:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1598074610867920896" ],
+    "url" : [ "https://twitter.com/NoContextBrits/status/1598074610867920896" ]
+  },
+  "type" : [ "h-entry" ]
+}
