@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Crystal Hirschorn" ],
+        "nickname" : [ "cfhirschorn" ],
+        "numeric-id" : [ "16635584" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/944599747922481153/kg4gWOnQ.jpg" ],
+        "published" : [ "2008-10-07T19:47:51+00:00" ],
+        "uid" : [ "tag:twitter.com:cfhirschorn" ],
+        "url" : [ "https://twitter.com/cfhirschorn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "DevOps was never meant to be contained in a single role but rather lived and breathed as part of the working culture. Blame the marketers and recruiters for turning it into a job title..\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "DevOps was never meant to be contained in a single role but rather lived and breathed as part of the working culture. Blame the marketers and recruiters for turning it into a job title.."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1598223361221754880" ],
+    "published" : [ "2022-12-01T10:10:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1598258254831820800" ],
+    "url" : [ "https://twitter.com/cfhirschorn/status/1598258254831820800" ]
+  },
+  "type" : [ "h-entry" ]
+}
