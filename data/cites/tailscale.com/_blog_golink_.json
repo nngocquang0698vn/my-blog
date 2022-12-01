@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Private go links for your tailnet" ],
+    "summary" : [ "Today, we’re sharing golink, an open source private URL shortener service for tailnets." ],
+    "featured" : [ "https://tailscale.com/blog/golink/social.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Tailscale" ]
+      }
+    } ],
+    "url" : [ "https://tailscale.com/blog/golink/" ]
+  }
+}
