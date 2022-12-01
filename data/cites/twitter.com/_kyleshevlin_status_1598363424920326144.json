@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin - @kyleshevlin@mastodon.social" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The other option is to treat them like body doubling. I can get a lot of work done while they talk about stuff I don't care about in the background.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kefimochi\"></a>",
+      "value" : "The other option is to treat them like body doubling. I can get a lot of work done while they talk about stuff I don't care about in the background."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kefimochi/status/1598356479706165257" ],
+    "published" : [ "2022-12-01T17:08:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1598363424920326144" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1598363424920326144" ]
+  },
+  "type" : [ "h-entry" ]
+}
