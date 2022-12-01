@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/whereistanya/s…" ],
+        "url" : [ "https://twitter.com/whereistanya/status/1455298388807852032" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tanya Reilly" ],
+          "nickname" : [ "whereistanya" ],
+          "numeric-id" : [ "46441293" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1574019712186458113/JA0mUExZ.jpg" ],
+          "published" : [ "2009-06-11T17:40:27+00:00" ],
+          "uid" : [ "tag:twitter.com:whereistanya" ],
+          "url" : [ "https://twitter.com/whereistanya", "https://bio.site/whereistanya", "http://noidea.dog/staff", "http://noidea.dog/list" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Busy weekend ahead, so I'm starting no-Twitter November a little early. See you on December 1st for Advent of Code. ♥️♥️\n<a class=\"tag\" href=\"https://twitter.com/whereistanya/status/1455298388807852032\">twitter.com/whereistanya/s…</a>",
+        "value" : "Busy weekend ahead, so I'm starting no-Twitter November a little early. See you on December 1st for Advent of Code. ♥️♥️"
+      } ],
+      "published" : [ "2022-10-28T15:27:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1586016702340689921" ],
+      "url" : [ "https://twitter.com/whereistanya/status/1586016702340689921" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tanya Reilly" ],
+        "nickname" : [ "whereistanya" ],
+        "numeric-id" : [ "46441293" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1574019712186458113/JA0mUExZ.jpg" ],
+        "published" : [ "2009-06-11T17:40:27+00:00" ],
+        "uid" : [ "tag:twitter.com:whereistanya" ],
+        "url" : [ "https://twitter.com/whereistanya", "https://bio.site/whereistanya", "http://noidea.dog/staff", "http://noidea.dog/list" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">So what did I miss? \n\n(I'm kidding. I'm kidding.)\n\nBtw I'm mostly over on Mastodon these days: <a href=\"https://hachyderm.io/@whereistanya\">hachyderm.io/@whereistanya</a></div>",
+      "value" : "So what did I miss? \n\n(I'm kidding. I'm kidding.)\n\nBtw I'm mostly over on Mastodon these days: hachyderm.io/@whereistanya"
+    } ],
+    "published" : [ "2022-12-01T13:51:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1598313898867916809" ],
+    "url" : [ "https://twitter.com/whereistanya/status/1598313898867916809" ]
+  },
+  "type" : [ "h-entry" ]
+}
