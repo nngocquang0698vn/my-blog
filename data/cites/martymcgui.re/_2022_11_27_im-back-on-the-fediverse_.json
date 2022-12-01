@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I'm (back) on \"the Fediverse\"" ],
+    "category" : [ "site-update", "activitypub", "fed.brid.gy" ],
+    "url" : [ "https://martymcgui.re/2022/11/27/im-back-on-the-fediverse/" ],
+    "syndication" : [ "https://fed.brid.gy/" ],
+    "published" : [ "2022-11-27T17:26:22-0500" ],
+    "content" : [ {
+      "html" : "<p>If you've got an account on a Mastodon server, or any server that speaks ActivityPub, you should be able to follow me at: <a href=\"https://fed.brid.gy/user/martymcgui.re\">@marty@martymcgui.re</a></p>\n<figure>\n  <img src=\"https://media.martymcgui.re/65/f2/94/00/d4f506e863892130d6e5c38c0f1ea328a007be2951bb833660b4e9bd.png\" alt=\"\">\n  <figcaption>Screenshot of my profile page on Bridgy Fed</figcaption>\n</figure>\n<p>Many thanks to <a href=\"https://snarfed.org/\">Ryan</a> for creating and running <a href=\"https://fed.brid.gy/\">Bridgy Fed</a>, which makes this possible. Over the years I've built a lot of <a href=\"https://indieweb.org/Category:building-blocks\">IndieWeb building blocks</a> into my site, and Bridgy Fed works with those to federate my posts with ActivityPub-powered sites like Mastodon.</p>\n<p>So far I can send replies, let people know I'm following them, and they can follow me as well. You can see this in action on my site's Bridgy Fed profile page: <a href=\"https://fed.brid.gy/user/martymcgui.re\">https://fed.brid.gy/user/martymcgui.re</a></p>\n<p>\n  For now I'm manually choosing which posts to share via Bridgy Fed. I'll be using it for replies and likes, but haven't yet decided how much original content I'll be posting. For example, I don't know how well my daily <a href=\"https://martymcgui.re/tag/caturday/\">Eternal Caturday</a> video loops will come through, or if folks would actually want so many cat videos!\n  <br>\n</p>",
+      "value" : "If you've got an account on a Mastodon server, or any server that speaks ActivityPub, you should be able to follow me at: @marty@martymcgui.re Screenshot of my profile page on Bridgy Fed\nMany thanks to Ryan for creating and running Bridgy Fed, which makes this possible. Over the years I've built a lot of IndieWeb building blocks into my site, and Bridgy Fed works with those to federate my posts with ActivityPub-powered sites like Mastodon.\nSo far I can send replies, let people know I'm following them, and they can follow me as well. You can see this in action on my site's Bridgy Fed profile page: https://fed.brid.gy/user/martymcgui.re\nFor now I'm manually choosing which posts to share via Bridgy Fed. I'll be using it for replies and likes, but haven't yet decided how much original content I'll be posting. For example, I don't know how well my daily Eternal Caturday video loops will come through, or if folks would actually want so many cat videos!",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Marty McGuire" ],
+        "photo" : [ {
+          "value" : "https://martymcgui.re/images/logo.jpg",
+          "alt" : "Marty McGuire"
+        } ],
+        "url" : [ "https://martymcgui.re/" ]
+      },
+      "lang" : "en",
+      "value" : "https://martymcgui.re/"
+    } ]
+  },
+  "lang" : "en"
+}
