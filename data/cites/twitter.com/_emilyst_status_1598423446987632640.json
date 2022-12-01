@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "emily (**hiatus**)" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550346516925100033/jK7wVy1C.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst", "https://social.emily.news/@est" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "i used RSS, alice. am i cool\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alicegoldfuss\"></a>",
+      "value" : "i used RSS, alice. am i cool"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/alicegoldfuss/status/1598421999394881536" ],
+    "published" : [ "2022-12-01T21:07:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1598423446987632640" ],
+    "url" : [ "https://twitter.com/emilyst/status/1598423446987632640" ]
+  },
+  "type" : [ "h-entry" ]
+}
