@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Everywhere" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Greg Young" ],
+        "nickname" : [ "gregyoung" ],
+        "numeric-id" : [ "9617282" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293293549702782979/mblOE8kH.jpg" ],
+        "published" : [ "2007-10-23T07:42:00+00:00" ],
+        "uid" : [ "tag:twitter.com:gregyoung" ],
+        "url" : [ "https://twitter.com/gregyoung" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"You will never make anything useful with that stupid 3d printer\"\n\n<a href=\"https://twitter.com/search?q=%23ChallengeAccepted\">#ChallengeAccepted</a></div>",
+      "value" : "\"You will never make anything useful with that stupid 3d printer\"\n\n#ChallengeAccepted"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fi0zhC_XkAIJX2i.jpg" ],
+    "published" : [ "2022-11-30T16:25:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1597990147773333504" ],
+    "url" : [ "https://twitter.com/gregyoung/status/1597990147773333504" ]
+  },
+  "type" : [ "h-entry" ]
+}
