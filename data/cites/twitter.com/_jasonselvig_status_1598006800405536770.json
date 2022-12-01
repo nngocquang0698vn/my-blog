@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Selvig" ],
+        "nickname" : [ "jasonselvig" ],
+        "numeric-id" : [ "289865805" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1217131823031029761/g60D5_j8.jpg" ],
+        "published" : [ "2011-04-29T10:38:39+00:00" ],
+        "uid" : [ "tag:twitter.com:jasonselvig" ],
+        "url" : [ "https://twitter.com/jasonselvig", "http://instagram.com/jasonselvig" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The Right has dinner with Nazis. \n\nThe Left does not have dinner with Nazis.  \n\nThe choice is clear.</div>",
+      "value" : "The Right has dinner with Nazis. \n\nThe Left does not have dinner with Nazis.  \n\nThe choice is clear."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fi1Ct05XkAAon2P.jpg" ],
+    "published" : [ "2022-11-30T17:31:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1598006800405536770" ],
+    "url" : [ "https://twitter.com/jasonselvig/status/1598006800405536770" ]
+  },
+  "type" : [ "h-entry" ]
+}
