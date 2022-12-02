@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇬🇧 🇺🇸 🇪🇺" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tree Sturgeon 🚵🔥🌍" ],
+        "nickname" : [ "philsturgeon" ],
+        "numeric-id" : [ "20662440" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1574828753821237250/BMT1FTFN.jpg" ],
+        "published" : [ "2009-02-12T08:36:48+00:00" ],
+        "uid" : [ "tag:twitter.com:philsturgeon" ],
+        "url" : [ "https://twitter.com/philsturgeon", "http://philsturgeon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "💻 If you maintain any <a href=\"https://twitter.com/OpenApiSpec\">@OpenApiSpec</a> tool in Go, are you waiting for a good library that supports OpenAPI v3.1? Check out this one. Let's make OAS 2/3 a thing of the past! <a href=\"https://twitter.com/search?q=%23APIDesign\">#APIDesign</a> <a href=\"https://github.com/pb33f/libopenapi\">github.com/pb33f/libopena…</a>",
+      "value" : "💻 If you maintain any @OpenApiSpec tool in Go, are you waiting for a good library that supports OpenAPI v3.1? Check out this one. Let's make OAS 2/3 a thing of the past! #APIDesign github.com/pb33f/libopena…"
+    } ],
+    "published" : [ "2022-12-02T20:30:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1598776650212122624" ],
+    "url" : [ "https://twitter.com/philsturgeon/status/1598776650212122624" ]
+  },
+  "type" : [ "h-entry" ]
+}
