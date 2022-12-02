@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🌎" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Washington Post Opinions" ],
+          "nickname" : [ "PostOpinions" ],
+          "numeric-id" : [ "14345812" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1079779905976631302/XumWVfc3.jpg" ],
+          "published" : [ "2008-04-09T21:29:51+00:00" ],
+          "uid" : [ "tag:twitter.com:PostOpinions" ],
+          "url" : [ "https://twitter.com/PostOpinions", "http://www.washingtonpost.com/opinions" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "While we do underestimate the role of luck in business, that can’t really explain Elon Musk’s serial successes, <a href=\"https://twitter.com/asymmetricinfo\">@asymmetricinfo</a> writes. <a href=\"https://wapo.st/3OMNDp3\">wapo.st/3OMNDp3</a>",
+        "value" : "While we do underestimate the role of luck in business, that can’t really explain Elon Musk’s serial successes, @asymmetricinfo writes. wapo.st/3OMNDp3"
+      } ],
+      "published" : [ "2022-12-02T11:48:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1598645163571744769" ],
+      "url" : [ "https://twitter.com/PostOpinions/status/1598645163571744769" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Karl Bode" ],
+        "nickname" : [ "KarlBode" ],
+        "numeric-id" : [ "14922908" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565465423189258240/Rbrb5SJs.jpg" ],
+        "published" : [ "2008-05-27T17:00:41+00:00" ],
+        "uid" : [ "tag:twitter.com:KarlBode" ],
+        "url" : [ "https://twitter.com/KarlBode" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">he was born rich, slathered in taxpayer subsidies, and mythologized by a gullible tech press financially incentivized to prioritize hype over substance\n\nhope this helps!</div>",
+      "value" : "he was born rich, slathered in taxpayer subsidies, and mythologized by a gullible tech press financially incentivized to prioritize hype over substance\n\nhope this helps!"
+    } ],
+    "published" : [ "2022-12-02T14:42:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1598689111984177153" ],
+    "url" : [ "https://twitter.com/KarlBode/status/1598689111984177153" ]
+  },
+  "type" : [ "h-entry" ]
+}
