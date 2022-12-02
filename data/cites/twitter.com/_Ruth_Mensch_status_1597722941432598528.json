@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York City" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The New York Times" ],
+          "nickname" : [ "nytimes" ],
+          "numeric-id" : [ "807095" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR.png" ],
+          "published" : [ "2007-03-02T20:41:42+00:00" ],
+          "uid" : [ "tag:twitter.com:nytimes" ],
+          "url" : [ "https://twitter.com/nytimes", "http://www.nytimes.com/", "http://nyti.ms/2FVHq9v" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Breaking News: New York City will hospitalize more mentally ill people involuntarily, in a push to remove them from streets and subways, Mayor Eric Adams said. <a href=\"https://nyti.ms/3ATuU5v\">nyti.ms/3ATuU5v</a>",
+        "value" : "Breaking News: New York City will hospitalize more mentally ill people involuntarily, in a push to remove them from streets and subways, Mayor Eric Adams said. nyti.ms/3ATuU5v"
+      } ],
+      "published" : [ "2022-11-29T17:17:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1597640970698465280" ],
+      "url" : [ "https://twitter.com/nytimes/status/1597640970698465280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn via the 915" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ruth says wear a mask" ],
+        "nickname" : [ "Ruth_Mensch" ],
+        "numeric-id" : [ "1007439632341110784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412491077366386690/ed5t8tSo.jpg" ],
+        "published" : [ "2018-06-15T01:48:20+00:00" ],
+        "uid" : [ "tag:twitter.com:Ruth_Mensch" ],
+        "url" : [ "https://twitter.com/Ruth_Mensch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I have experienced involuntary hospitalization. Even with the loving support of friends and family, even with health insurance: it was the most traumatic experience of my life. Violence that you cannot comprehend. It's a big reason why I became an abolitionist. \n\nThis is evil.</div>",
+      "value" : "I have experienced involuntary hospitalization. Even with the loving support of friends and family, even with health insurance: it was the most traumatic experience of my life. Violence that you cannot comprehend. It's a big reason why I became an abolitionist. \n\nThis is evil."
+    } ],
+    "published" : [ "2022-11-29T22:43:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1597722941432598528" ],
+    "url" : [ "https://twitter.com/Ruth_Mensch/status/1597722941432598528" ]
+  },
+  "type" : [ "h-entry" ]
+}
