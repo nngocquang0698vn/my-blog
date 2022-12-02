@@ -4,6 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
+    "in-reply-to": [ "https://martymcgui.re/2022/12/01/174638/" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Zoidberg from Futurama jumping up, sending a table flying, then crab walking away while proclaiming \"woop woop woop woop\" in a high pitched voice",
@@ -11,7 +12,7 @@
     } ],
     "published" : [ "2022-12-02T06:31:28.595303121Z" ]
   },
-  "kind" : "photos",
+  "kind" : "replies",
   "slug" : "2022/12/ifpka",
   "client_id" : "https://kapowski.bayside.pub/"
 }
