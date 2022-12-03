@@ -1,0 +1,42 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Brad Troemel" ],
+          "nickname" : [ "BradTroemel" ],
+          "numeric-id" : [ "39081154" ],
+          "photo" : [ "https://abs.twimg.com/sticky/default_profile_images/default_profile.png" ],
+          "published" : [ "2009-05-10T17:32:35+00:00" ],
+          "uid" : [ "tag:twitter.com:BradTroemel" ],
+          "url" : [ "https://twitter.com/BradTroemel", "http://bradtroemel.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fi_cq26XkBEcj4a.jpg" ],
+      "published" : [ "2022-12-02T18:01:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1598739026323849217" ],
+      "url" : [ "https://twitter.com/BradTroemel/status/1598739026323849217" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Classical Studies Memes for Hellenistic Teens" ],
+        "nickname" : [ "CSMFHT" ],
+        "numeric-id" : [ "1230431996163178497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455241005427351553/Ik2opvwq.jpg" ],
+        "published" : [ "2020-02-20T10:00:46+00:00" ],
+        "uid" : [ "tag:twitter.com:CSMFHT" ],
+        "url" : [ "https://twitter.com/CSMFHT", "https://www.redbubble.com/people/CSMFHT/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is peak Twitter" ],
+    "published" : [ "2022-12-03T22:06:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1599163108261769216" ],
+    "url" : [ "https://twitter.com/CSMFHT/status/1599163108261769216" ]
+  },
+  "type" : [ "h-entry" ]
+}
