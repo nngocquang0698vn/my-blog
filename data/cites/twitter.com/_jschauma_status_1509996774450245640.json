@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Schaumann" ],
+        "nickname" : [ "jschauma" ],
+        "numeric-id" : [ "169213944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/551217713230528512/t4O7Iflt.jpeg" ],
+        "published" : [ "2010-07-21T20:33:15+00:00" ],
+        "uid" : [ "tag:twitter.com:jschauma" ],
+        "url" : [ "https://twitter.com/jschauma", "https://www.netmeister.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Resist the urge to \"reduce noise\" by answering questions in private. \"Let me DM you.\" is an anti-pattern that prohibits learning by lurking.\n\nSo are tightly scoped &amp; many private channels: they tend to reinforce \"us\" vs \"them\" boundaries and limit information sharing.</div>",
+      "value" : "Resist the urge to \"reduce noise\" by answering questions in private. \"Let me DM you.\" is an anti-pattern that prohibits learning by lurking.\n\nSo are tightly scoped & many private channels: they tend to reinforce \"us\" vs \"them\" boundaries and limit information sharing."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jschauma/status/1509996434120192003" ],
+    "published" : [ "2022-04-01T20:51:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1509996774450245640" ],
+    "url" : [ "https://twitter.com/jschauma/status/1509996774450245640" ]
+  },
+  "type" : [ "h-entry" ]
+}
