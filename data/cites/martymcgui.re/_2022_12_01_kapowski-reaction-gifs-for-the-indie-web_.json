@@ -1,0 +1,96 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Kapowski: reaction GIFs for the indie web" ],
+    "category" : [ "micropub", "IndieWeb", "Kapowski", "Bayside", "gif", "giphy", "gfycat" ],
+    "url" : [ "https://martymcgui.re/2022/12/01/kapowski-reaction-gifs-for-the-indie-web/" ],
+    "syndication" : [ "https://news.indieweb.org/en", "https://fed.brid.gy/" ],
+    "published" : [ "2022-12-01T17:17:27-0500" ],
+    "content" : [ {
+      "html" : "<p>tl;dr – <a href=\"https://kapowski.bayside.pub/\">Kapowski</a> is a simplified tool for finding and posting reaction GIFs to your personal website. It works without a sign-in and gives you HTML to copy-paste into <i>whatever</i> posting interface you use for your website. It's \"progressively enhanced\" with IndieWeb building blocks, so if your site supports them it becomes faster and easier to use. Search and content are currently powered by <a href=\"https://gfycat.com/\">Gfycat</a>.</p>\n<div class=\"gallery\">\n<figure>\n  <img src=\"https://media.martymcgui.re/61/1a/82/dc/c050acdd4c40291e5d29fa3b6d275e13ceeecd79e4770df5f702b502.jpg\" alt=\"\">\n  <figcaption>\n    A Kapowski search for \"candy\"\n    <br>\n  </figcaption>\n</figure>\n<figure>\n  <img src=\"https://media.martymcgui.re/dc/20/07/0a/728ee8a154114832340d2cacf781fbf5b710606ea1d384cfa0bcecc4.jpg\" alt=\"\">\n  <figcaption>Preview of selected GIF with HTML source ready to copy-and-paste</figcaption>\n</figure>\n</div>\n<h2>\n  IndieWeb <a href=\"https://indieweb.org/building-blocks\">building blocks</a>, you say?\n</h2>\n<p>\n  Kapowski supports <a href=\"https://indieweb.org/IndieAuth\">IndieAuth</a> and <a href=\"https://indieweb.org/Micropub\">Micropub</a>. If your site supports these, you can sign in using your website as your identity and then use Kapowski to post the image to your site directly.\n  <br>\n</p>\n<div class=\"gallery\">\n<figure>\n  <img src=\"https://media.martymcgui.re/c2/c1/7f/0c/61693700950d6999a3e9cd36a6fb4edc54f348baf833634cf63c9281.jpg\" alt=\"\">\n  <figcaption>Preview page with sign-in form</figcaption>\n</figure>\n<figure>\n  <img src=\"https://media.martymcgui.re/68/6e/94/e1/680dec9e59be6c690d76383edae01441e603ddb958e84c991820e80d.jpg\" alt=\"\">\n  <figcaption>Signed in, alt-text entered, ready to post!</figcaption>\n</figure>\n</div>\n<p>But that's not all! If your site supports sending <a href=\"https://indieweb.org/Webmention\">Webmentions</a> and markup for <a href=\"https://indieweb.org/reply#How_To\">reply posts</a>, you can use Kapowski to make your post a <a href=\"https://indieweb.org/photo_reply\">photo reply</a>!</p>\n<div class=\"gallery\">\n<figure>\n  <img src=\"https://media.martymcgui.re/d5/7e/12/cd/72992063a317b3f6711828d19033cee7000561436ec7e4d9b4e3097a.jpg\" alt=\"\">\n  <figcaption>Search page with a URL in the optional reply field</figcaption>\n</figure>\n<figure>\n  <img src=\"https://media.martymcgui.re/b3/33/9f/55/ecbc950763731fb06e06f209d773687aa5090fbd4d3321a91691ebdc.jpg\" alt=\"\">\n  <figcaption>Reply post on my site with context about the post I'm replying to.</figcaption>\n</figure>\n</div>\n<h2>Still reading? Here's some (too much) history.</h2>\n<p>I really like Micropub as an IndieWeb building block. As a developer, it's easy to understand on the wire. It's very extensible because the spec provides very few constraints over what you can post with it.</p>\n<p>However, that flexibility comes at a coordination cost. I had (have!) a dream that being able to rapidly iterate on special-purpose Micropub clients will let many <i>ways of posting</i> bloom. I also loved (love!) <a href=\"https://glitch.com/\">Glitch</a> as a place to build web apps in the open where other folk can see how they work and remix them to make them their own.</p>\n<p>So, I built and <a href=\"https://martymcgui.re/2018/05/29/hwc-baltimore-2018-05-29-wrap-up/\">stealth-launched Kapowski built on Glitch back in 2018</a>. I didn't use it myself very much (but definitely <a href=\"https://martymcgui.re/2018/04/10/193815/\">some</a>), and even shared it around some IndieWeb events, like when I talked about <a href=\"https://martymcgui.re/2019/06/19/152602/\">mobile posting at the 2019 IndieWeb Summit</a>.</p>\n<p>I kept Kapowski intentionally simple, hoping that some other IndieWeb folks might use it, give feedback, and iterate on the idea of what a good user experience might be for posting reply GIFs on the IndieWeb.</p>\n<p>I ... didn't get much feedback! As far as I know, few people have used it. However, I very much did notice that it <i>kept breaking</i>.</p>\n<p>\n  <a href=\"https://giphy.com/\">Giphy</a>, the original service Kapowski used, was bought by Facebook with the intention of, I don't know, tracking all the GIFs people posted. I didn't like that, so I switched things over to <a href=\"https://gfycat.com/\">Gfycat</a>. (Although with <a href=\"https://www.cnbc.com/2022/10/18/facebook-parent-meta-ordered-to-sell-giphy-by-uk-competition-regulator.html\">Facebook (Meta) being forced by UK regulators to sell off Giphy</a>, maybe it'll be time soon to bring it back.)\n  <br>\n</p>\n<p>The biggest problem, though, was that server-side Javascript bits rot. I want to be able to stand up a hobby project and forget it for months or years at a time. For a project of this pace, especially one that I think of as being <i>very simple</i>, the Javascript stack moves <i>fast.</i> I would get notices every week or so that this or that dependency had a required security update. Sometimes apply what looked like a small point update would cause a breaking change in an API (<i>Axios!)</i>. Eventually, it became not-fun to think about keeping up Kapowski.</p>\n<p>Multiplying this maintenance across a number of other Micropub clients I had managed to barely knock together on Glitch led to me burning out on the idea. So, I stopped maintaining it and at some point it stopped working.</p>\n<h2>Reviving the embers</h2>\n<p>I still want to see a thousand Micropub-powered flowers bloom, but I don't have the personal project bandwidth to build the tool set on Glitch that I thought would make that possible. I'm just not that fluent in server-side Javascript development and project management, and it's too far of a road right now to <i>git gud.</i></p>\n<p>That said, there are styles of web app development I am much more comfortable working in! I think I can take this stuff a lot further by sharpening the knives I already know how to use.</p>\n<p>So, I've spent a good chunk of free time this year quietly porting some of my IndieWeb projects to PHP and hosting them on a virtual private server. That's stuff I know how to do! As I've re-built each one, I've also looked to extract the common points of similarity and complexity into a kind of \"Micropub kit\", with a common-but-extensible engine. That's made each client easier to build and deploy, and that's very exciting.</p>\n<p>(This \"micropub kit\" isn't ready for public consumption <i>at all</i> but it <i>is</i> available for looking-at if you want. <a href=\"https://git.schmarty.net/schmarty/micropubkit\">Here's the micropubkit source</a>.)</p>\n<h3>\n  What's next?\n  <br>\n</h3>\n<p>Since it's <a href=\"https://indieweb.org/2022-12-indieweb-gift-calendar\">IndieWeb Gift Calendar season</a>, I think I'll spend the next month polishing up and posting more about this work.  If you have thoughts about Kapowski, \"micropubkit\", or posting weird stuff on the IndieWeb in general, I'd love to read them! Just reply to this post on your own site and send me a Webmention.</p>\n<p>\n  If you aren't ready to reply in words... <a href=\"https://kapowski.bayside.pub/?in-reply-to=https://martymcgui.re/2022/12/01/kapowski-reaction-gifs-for-the-indie-web/\">maybe a GIF would do?</a> :)\n  <br>\n</p>",
+      "value" : "tl;dr – Kapowski is a simplified tool for finding and posting reaction GIFs to your personal website. It works without a sign-in and gives you HTML to copy-paste into whatever posting interface you use for your website. It's \"progressively enhanced\" with IndieWeb building blocks, so if your site supports them it becomes faster and easier to use. Search and content are currently powered by Gfycat. A Kapowski search for \"candy\"\nPreview of selected GIF with HTML source ready to copy-and-paste IndieWeb building blocks, you say?\nKapowski supports IndieAuth and Micropub. If your site supports these, you can sign in using your website as your identity and then use Kapowski to post the image to your site directly.\nPreview page with sign-in form Signed in, alt-text entered, ready to post!\nBut that's not all! If your site supports sending Webmentions and markup for reply posts, you can use Kapowski to make your post a photo reply! Search page with a URL in the optional reply field Reply post on my site with context about the post I'm replying to. Still reading? Here's some (too much) history.\nI really like Micropub as an IndieWeb building block. As a developer, it's easy to understand on the wire. It's very extensible because the spec provides very few constraints over what you can post with it.\nHowever, that flexibility comes at a coordination cost. I had (have!) a dream that being able to rapidly iterate on special-purpose Micropub clients will let many ways of posting bloom. I also loved (love!) Glitch as a place to build web apps in the open where other folk can see how they work and remix them to make them their own.\nSo, I built and stealth-launched Kapowski built on Glitch back in 2018. I didn't use it myself very much (but definitely some), and even shared it around some IndieWeb events, like when I talked about mobile posting at the 2019 IndieWeb Summit.\nI kept Kapowski intentionally simple, hoping that some other IndieWeb folks might use it, give feedback, and iterate on the idea of what a good user experience might be for posting reply GIFs on the IndieWeb.\nI ... didn't get much feedback! As far as I know, few people have used it. However, I very much did notice that it kept breaking.\nGiphy, the original service Kapowski used, was bought by Facebook with the intention of, I don't know, tracking all the GIFs people posted. I didn't like that, so I switched things over to Gfycat. (Although with Facebook (Meta) being forced by UK regulators to sell off Giphy, maybe it'll be time soon to bring it back.)\n\nThe biggest problem, though, was that server-side Javascript bits rot. I want to be able to stand up a hobby project and forget it for months or years at a time. For a project of this pace, especially one that I think of as being very simple, the Javascript stack moves fast. I would get notices every week or so that this or that dependency had a required security update. Sometimes apply what looked like a small point update would cause a breaking change in an API (Axios!). Eventually, it became not-fun to think about keeping up Kapowski.\nMultiplying this maintenance across a number of other Micropub clients I had managed to barely knock together on Glitch led to me burning out on the idea. So, I stopped maintaining it and at some point it stopped working. Reviving the embers\nI still want to see a thousand Micropub-powered flowers bloom, but I don't have the personal project bandwidth to build the tool set on Glitch that I thought would make that possible. I'm just not that fluent in server-side Javascript development and project management, and it's too far of a road right now to git gud.\nThat said, there are styles of web app development I am much more comfortable working in! I think I can take this stuff a lot further by sharpening the knives I already know how to use.\nSo, I've spent a good chunk of free time this year quietly porting some of my IndieWeb projects to PHP and hosting them on a virtual private server. That's stuff I know how to do! As I've re-built each one, I've also looked to extract the common points of similarity and complexity into a kind of \"Micropub kit\", with a common-but-extensible engine. That's made each client easier to build and deploy, and that's very exciting.\n(This \"micropub kit\" isn't ready for public consumption at all but it is available for looking-at if you want. Here's the micropubkit source.) What's next?\n\nSince it's IndieWeb Gift Calendar season, I think I'll spend the next month polishing up and posting more about this work.  If you have thoughts about Kapowski, \"micropubkit\", or posting weird stuff on the IndieWeb in general, I'd love to read them! Just reply to this post on your own site and send me a Webmention.\nIf you aren't ready to reply in words... maybe a GIF would do? :)",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Marty McGuire" ],
+        "photo" : [ {
+          "value" : "https://martymcgui.re/images/logo.jpg",
+          "alt" : "Marty McGuire"
+        } ],
+        "url" : [ "https://martymcgui.re/" ]
+      },
+      "lang" : "en",
+      "value" : "https://martymcgui.re/"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "By the way Jamie I finally fixed the old issue about adding alt text. 😅 Bonus for anyone who read this far: this is a stealth-stealth launch of Bayside.pub, which I am not ready to talk about yet. Partly because I cannot help myself with this ill-thought project naming scheme. Thanks to tantek’s contact page for the design inspiration (which I have utterly ruined)." ],
+        "name" : [ "By the way Jamie I finally fixed the old issue about adding alt text. 😅 Bonus for anyone who read this far: this is a stealth-stealth launch of Bayside.pub, which I am not ready to talk about yet. Partly because I cannot help myself with this ill-thought project naming scheme. Thanks to tantek’s contact page for the design inspiration (which I have utterly ruined)." ],
+        "url" : [ "https://martymcgui.re/2022/12/01/174638/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marty McGuire" ],
+            "photo" : [ {
+              "value" : "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/martymcgui.re/f750b9918a92f3dc86d15d8fefad4a06c20a829ae950e18dfc2c8b9a4b26b422.jpg",
+              "alt" : "Marty McGuire"
+            } ]
+          },
+          "lang" : "en",
+          "value" : "https://martymcgui.re/"
+        } ]
+      },
+      "id" : "comment-de50970b8062df51f9a521d50c0393fa768c13ea",
+      "lang" : "en",
+      "value" : "https://martymcgui.re/2022/12/01/174638/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "In reply to https://martymcgui.re/2022/12/01/kapowski-reaction-gifs-for-the-indie-web/. https://chrismcleod.dev/2022/12/02/758/" ],
+        "name" : [ "In reply to https://martymcgui.re/2022/12/01/kapowski-reaction-gifs-for-the-indie-web/. https://chrismcleod.dev/2022/12/02/758/" ],
+        "url" : [ "https://chrismcleod.dev/2022/12/02/758/" ],
+        "photo" : [ "https://chrismcleod.dev/wp-content/uploads/2022/12/FakeSevereIchthyosaurs-size_restricted-1.gif" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris M." ],
+            "photo" : [ {
+              "value" : "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/secure.gravatar.com/b2fe4c6c887d2e64c8bc6c23f915d5a721be378c5f4d126971c5147543267508.png",
+              "alt" : "Chris M."
+            } ]
+          },
+          "lang" : "en",
+          "value" : "https://chrismcleod.dev/author/chris/"
+        } ]
+      },
+      "id" : "comment-e60753379648ead78fe0455660d789b829cd0245",
+      "lang" : "en",
+      "value" : "https://chrismcleod.dev/2022/12/02/758/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://gregorlove.com/2022/12/untitled-0221201173524/" ],
+        "photo" : [ "https://thumbs.gfycat.com/FrayedImprobableElephant-size_restricted.gif" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "gRegor Morrill" ],
+            "photo" : [ {
+              "value" : "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/gregorlove.com/1dfe16005864a9fc9564a3884378cdc89abd66b173ed10bce2ac60ed782dab01.jpeg",
+              "alt" : "gRegor Morrill"
+            } ]
+          },
+          "lang" : "en",
+          "value" : "https://gregorlove.com/"
+        } ]
+      },
+      "id" : "comment-ca8351a7fbaca93efab45fba7139de92cf775025",
+      "lang" : "en",
+      "value" : "https://gregorlove.com/2022/12/untitled-0221201173524/"
+    } ]
+  },
+  "lang" : "en"
+}
