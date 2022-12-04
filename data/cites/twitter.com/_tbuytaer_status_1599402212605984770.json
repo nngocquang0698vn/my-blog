@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom" ],
+        "nickname" : [ "tbuytaer" ],
+        "numeric-id" : [ "825320096" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1321123993445912576/Kq5uCgzN.jpg" ],
+        "published" : [ "2012-09-15T14:04:45+00:00" ],
+        "uid" : [ "tag:twitter.com:tbuytaer" ],
+        "url" : [ "https://twitter.com/tbuytaer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "...which is that on apple it has rounded corners?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/0xgaut\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/benjamineevans\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shegenerates\"></a>",
+      "value" : "...which is that on apple it has rounded corners?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/benjamineevans/status/1599351558818639872" ],
+    "published" : [ "2022-12-04T13:56:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1599402212605984770" ],
+    "url" : [ "https://twitter.com/tbuytaer/status/1599402212605984770" ]
+  },
+  "type" : [ "h-entry" ]
+}
