@@ -1,0 +1,82 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2022-12-03_48181" ],
+    "syndication" : [ "https://news.indieweb.org/en/snarfed.org/2022-12-03_48181", "https://news.indieweb.org/en/snarfed.org/2022-12-03_48181" ],
+    "published" : [ "2022-12-03T13:15:51-08:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right third\">\n <a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.0.0\">\n<img decoding=\"async\" src=\"https://snarfed.org/mastodon_elephant_curious.png\" data-lazy-src=\"/mastodon_elephant_curious.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" src=\"https://snarfed.org/mastodon_elephant_curious.png\"></noscript>\n\n<p>So <a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.0.0\">Mastodon 4</a> went <a href=\"https://indieweb.org/js;dr\">js;dr</a>, which means it requires JavaScript to render content. That means that server-side fetches of Mastodon 4 user profiles and posts, eg <a href=\"https://indieweb.social/@snarfed\">indieweb.social/@snarfed</a>, no longer return the actual contents in the response. They definitely no longer <a href=\"https://github.com/mastodon/mastodon/issues/122\">include microformats</a>. 😐</p>\n<p>JavaScript and <a href=\"https://en.wikipedia.org/wiki/Single-page_application\">SPA</a>s are their own conversation, but regardless, this is a step backward for the open web and server-to-server communications like the <a href=\"https://indieweb.org/\">IndieWeb</a> uses. Fortunately, there’s a workaround: use <a href=\"https://granary.io/\">granary</a>! Plug any Mastodon 4 profile or post URL into <a href=\"https://granary.io/?input=activitystreams#logins\">granary’s ActivityStreams 2 converter</a> and you’ll get the full contents in HTML, Atom, RSS, or any other format you want. Works via REST API and <a href=\"https://pypi.org/project/granary/\">pip-installable Python package</a>. <a href=\"https://granary.io/url?input=as2&amp;output=mf2-json&amp;url=https://indieweb.social/@snarfed\">Here’s an example.</a> Happy hacking!</p>",
+      "value" : "https://snarfed.org/mastodon_elephant_curious.png https://snarfed.org/mastodon_elephant_curious.png\nSo Mastodon 4 went js;dr, which means it requires JavaScript to render content. That means that server-side fetches of Mastodon 4 user profiles and posts, eg indieweb.social/@snarfed, no longer return the actual contents in the response. They definitely no longer include microformats. 😐\nJavaScript and SPAs are their own conversation, but regardless, this is a step backward for the open web and server-to-server communications like the IndieWeb uses. Fortunately, there’s a workaround: use granary! Plug any Mastodon 4 profile or post URL into granary’s ActivityStreams 2 converter and you’ll get the full contents in HTML, Atom, RSS, or any other format you want. Works via REST API and pip-installable Python package. Here’s an example. Happy hacking!",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "mention" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-12-03T17:22:03-08:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Amanda CAARSON" ],
+            "url" : [ "https://arush.io" ]
+          },
+          "lang" : "en-US",
+          "value" : "Amanda CAARSON"
+        } ]
+      },
+      "id" : "li-comment-2858654",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Amanda CAARSON December 3, 2022_This Article was mentioned on arush.io"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?source=https%3A%2F%2Ftech.lgbt%2Fusers%2Fnelson__likes%2F1742689&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_48181" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nelson Minar" ],
+            "url" : [ "https://tech.lgbt/@nelson" ]
+          },
+          "lang" : "en-US",
+          "value" : "Nelson Minar"
+        } ]
+      },
+      "id" : "comment-2858649",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?source=https%3A%2F%2Ftech.lgbt%2Fusers%2Fnelson__likes%2F1742689&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_48181"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
