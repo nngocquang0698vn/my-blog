@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593964807115284480/cG88df7Z.jpg" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Jack was one of the worst CEOs of all time.\n\nIndecisive (even when the company was engulfed in a political scandal), no clear vision or strategy for monetization, no control over his own company, and believed engineering a carnage was the best way to fix the mess he left behind.</div>",
+      "value" : "Jack was one of the worst CEOs of all time.\n\nIndecisive (even when the company was engulfed in a political scandal), no clear vision or strategy for monetization, no control over his own company, and believed engineering a carnage was the best way to fix the mess he left behind."
+    } ],
+    "published" : [ "2022-12-04T06:59:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1599297237586436098" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1599297237586436098" ]
+  },
+  "type" : [ "h-entry" ]
+}
