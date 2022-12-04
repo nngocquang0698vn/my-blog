@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "it just now dawned on me that people have been talking about Advent of Code and not Alexandria Ocasio-Cortez and a whole lot of tweets are less confusing now\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zero_chill_tea\"></a>",
+      "value" : "it just now dawned on me that people have been talking about Advent of Code and not Alexandria Ocasio-Cortez and a whole lot of tweets are less confusing now"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/zero_chill_tea/status/1599482823605620737" ],
+    "published" : [ "2022-12-04T19:25:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1599485054199078912" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1599485054199078912" ]
+  },
+  "type" : [ "h-entry" ]
+}
