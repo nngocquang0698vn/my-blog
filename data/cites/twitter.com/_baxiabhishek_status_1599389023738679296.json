@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Woodstock, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dave Winer" ],
+          "nickname" : [ "davewiner" ],
+          "numeric-id" : [ "3839" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt.jpg" ],
+          "published" : [ "2006-08-05T23:04:08+00:00" ],
+          "uid" : [ "tag:twitter.com:davewiner" ],
+          "url" : [ "https://twitter.com/davewiner", "http://scripting.com/", "http://davewiner.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Everyone who uses a silo (e.g. Substack) should ask their owners what assurance they can give they won't sell out to Musk or someone like him. \n\nJournalists and financial analysts should include in their valuation of tech companies, their political value, translated to dollars.</div>",
+        "value" : "Everyone who uses a silo (e.g. Substack) should ask their owners what assurance they can give they won't sell out to Musk or someone like him. \n\nJournalists and financial analysts should include in their valuation of tech companies, their political value, translated to dollars."
+      } ],
+      "published" : [ "2022-12-04T12:43:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1599383985117097986" ],
+      "url" : [ "https://twitter.com/davewiner/status/1599383985117097986" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Gurgaon, India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Abhishek Baxi" ],
+        "nickname" : [ "baxiabhishek" ],
+        "numeric-id" : [ "42373" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1560918038232240129/zmAJhHv0.jpg" ],
+        "published" : [ "2006-12-05T09:54:11+00:00" ],
+        "uid" : [ "tag:twitter.com:baxiabhishek" ],
+        "url" : [ "https://twitter.com/baxiabhishek", "http://baxiabhishek.info" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Andreessen Horowitz is a lead investor in Substack so it's not a misplaced worry. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FjIrpsaaYAAf_Ju.png" ],
+    "published" : [ "2022-12-04T13:03:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1599389023738679296" ],
+    "url" : [ "https://twitter.com/baxiabhishek/status/1599389023738679296" ]
+  },
+  "type" : [ "h-entry" ]
+}
