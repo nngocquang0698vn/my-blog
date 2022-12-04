@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Reen Vent also @monkchips@mastodon.social" ],
+          "nickname" : [ "monkchips" ],
+          "numeric-id" : [ "61233" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1336307464564862976/TmUP3ovh.jpg" ],
+          "published" : [ "2006-12-12T17:35:55+00:00" ],
+          "uid" : [ "tag:twitter.com:monkchips" ],
+          "url" : [ "https://twitter.com/monkchips", "http://monkchips.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">so I wrote a thing <a href=\"https://redmonk.com/jgovernor/2022/12/01/the-year-of-the-cloud-development-environment/\">redmonk.com/jgovernor/2022…</a> turns out \n<a href=\"https://twitter.com/awscloud\">@awscloud</a> decided it wanted to be included in the post before i hit publish so it made some relevant announcements at <a href=\"https://twitter.com/search?q=%23reinvent\">#reinvent</a> today. I will be writing more about this</div>",
+        "value" : "so I wrote a thing redmonk.com/jgovernor/2022… turns out \n@awscloud decided it wanted to be included in the post before i hit publish so it made some relevant announcements at #reinvent today. I will be writing more about this"
+      } ],
+      "published" : [ "2022-12-01T23:42:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1598462565038051328" ],
+      "url" : [ "https://twitter.com/monkchips/status/1598462565038051328" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Swiber" ],
+        "nickname" : [ "kevinswiber" ],
+        "numeric-id" : [ "15478303" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392683005785763841/CAMp4K_g.jpg" ],
+        "published" : [ "2008-07-18T04:05:27+00:00" ],
+        "uid" : [ "tag:twitter.com:kevinswiber" ],
+        "url" : [ "https://twitter.com/kevinswiber", "https://swiber.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Great post! I talk about this now and then with my colleagues <a href=\"https://twitter.com/getpostman\">@getpostman</a> on the Open Technologies team. The push and pull of “meet developers where they are” and “guide developers to where they’re going to be” demands a delicate balance. ⚖️",
+      "value" : "Great post! I talk about this now and then with my colleagues @getpostman on the Open Technologies team. The push and pull of “meet developers where they are” and “guide developers to where they’re going to be” demands a delicate balance. ⚖️"
+    } ],
+    "published" : [ "2022-12-03T18:57:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1599115613737472000" ],
+    "url" : [ "https://twitter.com/kevinswiber/status/1599115613737472000" ]
+  },
+  "type" : [ "h-entry" ]
+}
