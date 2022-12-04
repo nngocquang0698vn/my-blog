@@ -1,0 +1,134 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Bridgy Fed updates" ],
+    "url" : [ "https://snarfed.org/2022-12-03_bridgy-fed-updates" ],
+    "syndication" : [ "https://news.indieweb.org/en/snarfed.org/2022-12-03_bridgy-fed-updates", "https://news.indieweb.org/en/snarfed.org/2022-12-03_bridgy-fed-updates" ],
+    "published" : [ "2022-12-03T19:53:32-08:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right third\">\n <a href=\"https://fed.brid.gy/\">\n  <img decoding=\"async\" src=\"https://snarfed.org/bridgy_fed_logo.png\" data-lazy-src=\"/bridgy_fed_logo.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" src=\"https://snarfed.org/bridgy_fed_logo.png\"></noscript>\n\n<p>All the recent Twitter drama has obviously sparked renewed interest in <a href=\"https://joinmastodon.org/\">Mastodon</a> and the <a href=\"https://en.wikipedia.org/wiki/Fediverse\">fediverse</a>, and that’s even included <a href=\"https://fed.brid.gy/\">Bridgy Fed</a>, my little <a href=\"https://indieweb.org/\">IndieWeb</a> side project that turns personal web sites into full-fledged fediverse accounts.</p>\n<p>A month and a half ago, I was all set to take it easy, maybe play <a href=\"https://halfmermaid.co/\">a game</a> <a href=\"https://jumpship.co.uk/\">or two</a>, and <a href=\"https://atproto.com/docs\">poke at a new project</a>. Then, Musk happened. A ridiculous mess, to be sure, but also a huge opportunity for fediverse projects like Bridgy Fed.\n<span id=\"more-48189\"></span></p>\n<p>Except, it wasn’t ready. It worked, mostly, but it was rough. Very rough. Onboarding was especially bad: the home page was a wall of text, and there was no UI to speak of. If I wanted to capitalize on all the newfound interest, I had work to do.</p>\n<p>So, I rolled up my sleeves and got building. I started with my own web site: I’d hooked it up to Bridgy Fed a long time ago, but I wasn’t really using it. I dove in, <a href=\"https://indieweb.org/scratch_your_own_itch\">scratched my own itches</a>, listened to early users and new refugees, and scratched their itches too. I built actual, honest to God UI and an onboarding flow. <a href=\"https://github.com/snarfed/bridgy-fed/issues?q=is%3Aissue+is%3Aclosed\">I added features, tracked down interop issues, and fixed lots of bugs.</a> I watched the dozens of active users turn into hundreds and traffic swell 10x over the course of just a few weeks.</p>\n<p><a class=\"shadow\" href=\"https://snarfed.org/bridgy-fed-growth.png\">\n  <img decoding=\"async\" src=\"https://snarfed.org/bridgy-fed-growth.png\" data-lazy-src=\"/bridgy-fed-growth.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" src=\"https://snarfed.org/bridgy-fed-growth.png\"></noscript>\n\n<p>It’s been a hell of a sprint. I’m slowing down now, but at this point I can say I’m using this web site to fully participate in the fediverse, with complete posting, reading, and responding experiences <a href=\"https://wordpress.org/plugins/indieweb-press-this/\">on both desktop and phone</a>. No Mastodon instance needed.</p>\n<p>If that sounds interesting, <a href=\"https://fed.brid.gy/\">try it out</a> and let me know what you think. Feedback is welcome. Happy federating!</p>",
+      "value" : "https://snarfed.org/bridgy_fed_logo.png https://snarfed.org/bridgy_fed_logo.png\nAll the recent Twitter drama has obviously sparked renewed interest in Mastodon and the fediverse, and that’s even included Bridgy Fed, my little IndieWeb side project that turns personal web sites into full-fledged fediverse accounts.\nA month and a half ago, I was all set to take it easy, maybe play a game or two, and poke at a new project. Then, Musk happened. A ridiculous mess, to be sure, but also a huge opportunity for fediverse projects like Bridgy Fed.\nExcept, it wasn’t ready. It worked, mostly, but it was rough. Very rough. Onboarding was especially bad: the home page was a wall of text, and there was no UI to speak of. If I wanted to capitalize on all the newfound interest, I had work to do.\nSo, I rolled up my sleeves and got building. I started with my own web site: I’d hooked it up to Bridgy Fed a long time ago, but I wasn’t really using it. I dove in, scratched my own itches, listened to early users and new refugees, and scratched their itches too. I built actual, honest to God UI and an onboarding flow. I added features, tracked down interop issues, and fixed lots of bugs. I watched the dozens of active users turn into hundreds and traffic swell 10x over the course of just a few weeks.\nhttps://snarfed.org/bridgy-fed-growth.png https://snarfed.org/bridgy-fed-growth.png\nIt’s been a hell of a sprint. I’m slowing down now, but at this point I can say I’m using this web site to fully participate in the fediverse, with complete posting, reading, and responding experiences on both desktop and phone. No Mastodon instance needed.\nIf that sounds interesting, try it out and let me know what you think. Feedback is welcome. Happy federating!",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "mention" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2022-12-03T21:41:46-08:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ryan Barrett" ],
+            "url" : [ "https://snarfed.org/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Ryan Barrett"
+        } ]
+      },
+      "id" : "li-comment-2858664",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Ryan Barrett December 3, 2022_https://snarfed.org/2022-12-03_bridgy-fed-updates"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?source=https%3A%2F%2Fmastodon.social%2Fusers%2Frrees__likes%2F54987972&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Robert Rees" ],
+            "url" : [ "https://mastodon.social/@rrees" ]
+          },
+          "lang" : "en-US",
+          "value" : "Robert Rees"
+        } ]
+      },
+      "id" : "comment-2858671",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?source=https%3A%2F%2Fmastodon.social%2Fusers%2Frrees__likes%2F54987972&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?source=https%3A%2F%2Findieweb.social%2Fusers%2Fbrettk__likes%2F246974&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Brett Kosinski" ],
+            "url" : [ "https://indieweb.social/@brettk" ]
+          },
+          "lang" : "en-US",
+          "value" : "Brett Kosinski"
+        } ]
+      },
+      "id" : "comment-2858665",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?source=https%3A%2F%2Findieweb.social%2Fusers%2Fbrettk__likes%2F246974&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?source=https%3A%2F%2Fmastodon.social%2Fusers%2FEdent%2Fstatuses%2F109453417419342076%2Factivity&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Terence Eden" ],
+            "url" : [ "https://mastodon.social/@Edent" ]
+          },
+          "lang" : "en-US",
+          "value" : "Terence Eden"
+        } ]
+      },
+      "id" : "comment-2858657",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?source=https%3A%2F%2Fmastodon.social%2Fusers%2FEdent%2Fstatuses%2F109453417419342076%2Factivity&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?source=https%3A%2F%2Fmastodon.social%2Fusers%2FEdent%2Fstatuses%2F109453417419342076%2Factivity&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Terence Eden" ],
+            "url" : [ "https://mastodon.social/@Edent" ]
+          },
+          "lang" : "en-US",
+          "value" : "Terence Eden"
+        } ]
+      },
+      "id" : "comment-2858658",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?source=https%3A%2F%2Fmastodon.social%2Fusers%2FEdent%2Fstatuses%2F109453417419342076%2Factivity&target=https%3A%2F%2Fsnarfed.org%2F2022-12-03_bridgy-fed-updates"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
