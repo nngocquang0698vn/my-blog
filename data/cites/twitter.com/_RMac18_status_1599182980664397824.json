@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Mac 🙃" ],
+        "nickname" : [ "RMac18" ],
+        "numeric-id" : [ "47191293" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386038508070924288/Ml-kne2a.jpg" ],
+        "published" : [ "2009-06-14T22:21:58+00:00" ],
+        "uid" : [ "tag:twitter.com:RMac18" ],
+        "url" : [ "https://twitter.com/RMac18", "https://www.nytimes.com/by/ryan-mac" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A questioner asks what Twitter can do to support protests in China, Iran and Ukraine.\n\nMusk is noncommittal and says he'll do whatever is within the law. Then someone changes the subject.\n\nRecall that Musk has Tesla factories in China.</div>",
+      "value" : "A questioner asks what Twitter can do to support protests in China, Iran and Ukraine.\n\nMusk is noncommittal and says he'll do whatever is within the law. Then someone changes the subject.\n\nRecall that Musk has Tesla factories in China."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RMac18/status/1599181487311495173" ],
+    "published" : [ "2022-12-03T23:25:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1599182980664397824" ],
+    "url" : [ "https://twitter.com/RMac18/status/1599182980664397824" ]
+  },
+  "type" : [ "h-entry" ]
+}
