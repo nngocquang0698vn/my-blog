@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "nyc" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "gaut" ],
+          "nickname" : [ "0xgaut" ],
+          "numeric-id" : [ "262018615" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1497681806300168198/YO7feRFJ.jpg" ],
+          "published" : [ "2011-03-07T05:02:51+00:00" ],
+          "uid" : [ "tag:twitter.com:0xgaut" ],
+          "url" : [ "https://twitter.com/0xgaut", "http://www.alongside.xyz" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "this has to be the best feature Apple has ever made" ],
+      "photo" : [ "https://pbs.twimg.com/media/FjFQqf4WIAIXW3d.jpg" ],
+      "published" : [ "2022-12-03T21:06:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1599148037259264000" ],
+      "url" : [ "https://twitter.com/0xgaut/status/1599148037259264000" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568483994471223297/D7gkmiGs.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">WE\"LL DON\"T GIVE AWAY YOUR SECRET CODE.\n\nYes, \" is a capital '</div>",
+      "value" : "WE\"LL DON\"T GIVE AWAY YOUR SECRET CODE.\n\nYes, \" is a capital '"
+    } ],
+    "published" : [ "2022-12-04T16:39:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1599443385580150784" ],
+    "url" : [ "https://twitter.com/matryer/status/1599443385580150784" ]
+  },
+  "type" : [ "h-entry" ]
+}
