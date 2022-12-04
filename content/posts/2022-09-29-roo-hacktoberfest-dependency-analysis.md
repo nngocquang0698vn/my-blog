@@ -6,7 +6,7 @@ tags:
 - deliveroo
 - open-source
 - hacktoberfest
-license_prose: 'All-Rights-Reserved'
+license_prose: CC-BY-SA-4.0
 license_code: 'MIT'
 image: "https://media.jvt.me/bc711b09bf.png"
 slug: roo-hacktoberfest-dependency-analysis

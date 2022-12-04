@@ -9,7 +9,7 @@ tags:
 - openapi
 - go
 - api
-license_prose: 'All-Rights-Reserved'
+license_prose: CC-BY-SA-4.0
 license_code: 'All-Rights-Reserved'
 image: "https://media.jvt.me/7be186e7a3.png"
 slug: roo-openapi-design-first
