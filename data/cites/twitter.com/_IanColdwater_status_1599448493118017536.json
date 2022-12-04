@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "guess serverless isn't ready\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hi__mayank\"></a>",
+      "value" : "guess serverless isn't ready"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1599438450683674624" ],
+    "published" : [ "2022-12-04T17:00:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1599448493118017536" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1599448493118017536" ]
+  },
+  "type" : [ "h-entry" ]
+}
