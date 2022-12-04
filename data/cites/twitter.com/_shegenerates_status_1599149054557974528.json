@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The ramen bar" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shegen - overthrow the banks" ],
+        "nickname" : [ "shegenerates" ],
+        "numeric-id" : [ "1371165914629087235" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595163539559354370/CvR7vQGl.jpg" ],
+        "published" : [ "2021-03-14T18:27:20+00:00" ],
+        "uid" : [ "tag:twitter.com:shegenerates" ],
+        "url" : [ "https://twitter.com/shegenerates", "https://github.com/shegenerates" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What if I told you Android had years before\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/0xgaut\"></a>",
+      "value" : "What if I told you Android had years before"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/0xgaut/status/1599148037259264000" ],
+    "published" : [ "2022-12-03T21:10:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1599149054557974528" ],
+    "url" : [ "https://twitter.com/shegenerates/status/1599149054557974528" ]
+  },
+  "type" : [ "h-entry" ]
+}
