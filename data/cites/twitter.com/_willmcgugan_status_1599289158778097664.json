@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Will McGugan" ],
+        "nickname" : [ "willmcgugan" ],
+        "numeric-id" : [ "14343311" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1556675927475724290/DVmI1e-f.jpg" ],
+        "published" : [ "2008-04-09T17:00:01+00:00" ],
+        "uid" : [ "tag:twitter.com:willmcgugan" ],
+        "url" : [ "https://twitter.com/willmcgugan", "http://www.willmcgugan.com", "http://Textualize.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just had a foot spa where 🐠 eat your 🦶 \n\nCrossing one off my bucket list</div>",
+      "value" : "Just had a foot spa where 🐠 eat your 🦶 \n\nCrossing one off my bucket list"
+    } ],
+    "published" : [ "2022-12-04T06:27:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1599289158778097664" ],
+    "url" : [ "https://twitter.com/willmcgugan/status/1599289158778097664" ]
+  },
+  "type" : [ "h-entry" ]
+}
