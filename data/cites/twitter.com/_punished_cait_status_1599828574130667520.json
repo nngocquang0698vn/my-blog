@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "press[at]dexerto.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dexerto" ],
+          "nickname" : [ "Dexerto" ],
+          "numeric-id" : [ "76766018" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1538912754555408385/bbTCYAck.jpg" ],
+          "published" : [ "2009-09-23T21:44:53+00:00" ],
+          "uid" : [ "tag:twitter.com:Dexerto" ],
+          "url" : [ "https://twitter.com/Dexerto", "https://www.dexerto.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Twitch streamer Amouranth opened a gift from an anonymous viewer that included $70,000 in cash, a new iPhone, and a taser" ],
+      "published" : [ "2022-12-05T15:22:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1599786179393904640" ],
+      "url" : [ "https://twitter.com/Dexerto/status/1599786179393904640" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1599786123580121088/pu/vid/1280x720/ZATf8_kjkt-YOfk8.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/dexerto/status…" ],
+      "url" : [ "https://twitter.com/dexerto/status/1599786179393904640" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Texas to Boston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "cait" ],
+        "nickname" : [ "punished_cait" ],
+        "numeric-id" : [ "1486860350406463494" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593270121883222017/5ujbFhR5.jpg" ],
+        "published" : [ "2022-01-28T00:35:17+00:00" ],
+        "uid" : [ "tag:twitter.com:punished_cait" ],
+        "url" : [ "https://twitter.com/punished_cait" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "it's what she deserves :)\n<a class=\"tag\" href=\"https://twitter.com/dexerto/status/1599786179393904640\">twitter.com/dexerto/status…</a>",
+      "value" : "it's what she deserves :)"
+    } ],
+    "published" : [ "2022-12-05T18:10:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1599828574130667520" ],
+    "url" : [ "https://twitter.com/punished_cait/status/1599828574130667520" ]
+  },
+  "type" : [ "h-entry" ]
+}
