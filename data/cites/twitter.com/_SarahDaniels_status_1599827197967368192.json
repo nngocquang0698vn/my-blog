@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC & Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Daniels" ],
+        "nickname" : [ "SarahDaniels" ],
+        "numeric-id" : [ "33129726" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1580319330109386752/yUqJzt6V.jpg" ],
+        "published" : [ "2009-04-19T04:33:10+00:00" ],
+        "uid" : [ "tag:twitter.com:SarahDaniels" ],
+        "url" : [ "https://twitter.com/SarahDaniels", "http://bio.site/sarahdaniels" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yeah being abused is def ez mode 🥰🥰🥰🥰🥰🥰🥰\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AltHudyy\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dexerto\"></a>",
+      "value" : "Yeah being abused is def ez mode 🥰🥰🥰🥰🥰🥰🥰"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/AltHudyy/status/1599786710950215681" ],
+    "published" : [ "2022-12-05T18:05:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1599827197967368192" ],
+    "url" : [ "https://twitter.com/SarahDaniels/status/1599827197967368192" ]
+  },
+  "type" : [ "h-entry" ]
+}
