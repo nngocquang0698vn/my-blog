@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Yehuda Katz" ],
+        "nickname" : [ "wycats" ],
+        "numeric-id" : [ "8526432" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/861010112852262912/nbPZKMyR.jpg" ],
+        "published" : [ "2007-08-30T04:07:52+00:00" ],
+        "uid" : [ "tag:twitter.com:wycats" ],
+        "url" : [ "https://twitter.com/wycats", "http://yehudakatz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">According to <a href=\"https://twitter.com/Starbucks\">@Starbucks</a>, water is \"out of season\".\n\nMy younger self would not have believed the frequency that we catch glimpses of dystopia in day-to-day life.</div>",
+      "value" : "According to @Starbucks, water is \"out of season\".\n\nMy younger self would not have believed the frequency that we catch glimpses of dystopia in day-to-day life."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FjT7IY1aEAAe7Kc.jpg" ],
+    "published" : [ "2022-12-06T17:26:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1600179890883821568" ],
+    "url" : [ "https://twitter.com/wycats/status/1600179890883821568" ]
+  },
+  "type" : [ "h-entry" ]
+}
