@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Mindy Kaling Says <a href=\"https://twitter.com/search?q=%23TheOffice\">#TheOffice</a> Is ‘So Inappropriate Now’ and Couldn’t Be Made Today: Most Characters ‘Would Be Canceled’ <a href=\"https://variety.com/2022/tv/news/mindy-kalingthe-office-inappropriate-characters-canceled-1235451403/\">variety.com/2022/tv/news/m…</a>",
+        "value" : "Mindy Kaling Says #TheOffice Is ‘So Inappropriate Now’ and Couldn’t Be Made Today: Most Characters ‘Would Be Canceled’ variety.com/2022/tv/news/m…"
+      } ],
+      "published" : [ "2022-12-06T15:22:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1600148805067972608" ],
+      "url" : [ "https://twitter.com/Variety/status/1600148805067972608" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nathan" ],
+        "nickname" : [ "Humanstein" ],
+        "numeric-id" : [ "15579464" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1596766194304012288/XCnWPhBY.jpg" ],
+        "published" : [ "2008-07-24T09:27:51+00:00" ],
+        "uid" : [ "tag:twitter.com:Humanstein" ],
+        "url" : [ "https://twitter.com/Humanstein", "https://youtube.com/channel/UCgvEBJ_wda4gP--Hq1O6gSg?sub_confirmation=1" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You couldn't make The Office today because Netflix or whoever would've cancelled it before the show found its footing and audience in the second season." ],
+    "published" : [ "2022-12-06T17:52:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1600186385591173121" ],
+    "url" : [ "https://twitter.com/Humanstein/status/1600186385591173121" ]
+  },
+  "type" : [ "h-entry" ]
+}
