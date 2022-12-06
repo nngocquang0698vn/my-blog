@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Barnett" ],
+        "nickname" : [ "taylor_atx" ],
+        "numeric-id" : [ "521769198" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440531897910583304/0Mj460zE.jpg" ],
+        "published" : [ "2012-03-11T23:20:35+00:00" ],
+        "uid" : [ "tag:twitter.com:taylor_atx" ],
+        "url" : [ "https://twitter.com/taylor_atx", "https://taylorbar.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I want to see tech talks that show us some kind of weird error message and explain why that had to be a thing." ],
+    "published" : [ "2022-12-05T17:22:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1599816556669992961" ],
+    "url" : [ "https://twitter.com/taylor_atx/status/1599816556669992961" ]
+  },
+  "type" : [ "h-entry" ]
+}
