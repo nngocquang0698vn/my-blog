@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charlie Gerard 🏳️‍🌈 @devdevcharlie@hachyderm.io" ],
+        "nickname" : [ "devdevcharlie" ],
+        "numeric-id" : [ "99135401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499428216108294152/KA6f3tkM.jpg" ],
+        "published" : [ "2009-12-24T16:53:15+00:00" ],
+        "uid" : [ "tag:twitter.com:devdevcharlie" ],
+        "url" : [ "https://twitter.com/devdevcharlie", "https://charliegerard.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "gonna fix that. Especially if AI tools are trained on open-source repos, there's different patterns used everywhere! Again, it's like we're fooling ourselves thinking we can fix a people problem with tech. We're just gonna have the same issues." ],
+    "in-reply-to" : [ "https://twitter.com/devdevcharlie/status/1599948523998703616" ],
+    "published" : [ "2022-12-06T02:07:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1599948529119932416" ],
+    "url" : [ "https://twitter.com/devdevcharlie/status/1599948529119932416" ]
+  },
+  "type" : [ "h-entry" ]
+}
