@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Lee" ],
+        "nickname" : [ "alex_c_lee" ],
+        "numeric-id" : [ "42838857" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1426853717303717889/A5d3xEfy.jpg" ],
+        "published" : [ "2009-05-27T07:45:21+00:00" ],
+        "uid" : [ "tag:twitter.com:alex_c_lee" ],
+        "url" : [ "https://twitter.com/alex_c_lee", "https://www.eventbrite.com.au/e/abc-presents-win-the-week-tickets-378944933497" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Me scrubbing down the oven for an end of lease clean:" ],
+    "photo" : [ "https://pbs.twimg.com/media/FjQ-E6UagAMQ469.jpg" ],
+    "published" : [ "2022-12-06T03:41:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1599972213998096384" ],
+    "url" : [ "https://twitter.com/alex_c_lee/status/1599972213998096384" ]
+  },
+  "type" : [ "h-entry" ]
+}
