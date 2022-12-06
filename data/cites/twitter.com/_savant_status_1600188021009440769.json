@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Jose Diaz" ],
+        "nickname" : [ "savant" ],
+        "numeric-id" : [ "14471894" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598870502042370048/Mtn2aZjA.jpg" ],
+        "published" : [ "2008-04-22T07:42:42+00:00" ],
+        "uid" : [ "tag:twitter.com:savant" ],
+        "url" : [ "https://twitter.com/savant", "https://hachyderm.io/@savant" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Who is running the conference?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/databaseconf\"></a>",
+      "value" : "Who is running the conference?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/databaseconf/status/1600164476761755648" ],
+    "published" : [ "2022-12-06T17:58:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1600188021009440769" ],
+    "url" : [ "https://twitter.com/savant/status/1600188021009440769" ]
+  },
+  "type" : [ "h-entry" ]
+}
