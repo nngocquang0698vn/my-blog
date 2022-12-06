@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How switching to AWS Graviton slashed our infrastructure bill by 35%" ],
+    "summary" : [ "To keep our infrastructure spending in check we regularly explore cost-saving opportunities. This article is about our latest win, which led to a 35% lower AWS spend." ],
+    "featured" : [ "https://cdn.squeaky.ai/blog/covers/pangolin-piggy-bank.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Lewis Monteith" ]
+      }
+    } ],
+    "url" : [ "https://squeaky.ai/blog/development/how-switching-to-aws-graviton-slashed-our-infrastructure-bill-by-35-percent" ]
+  }
+}
