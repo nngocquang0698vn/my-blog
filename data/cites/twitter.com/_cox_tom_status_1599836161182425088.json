@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cornwall" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Cox" ],
+        "nickname" : [ "cox_tom" ],
+        "numeric-id" : [ "35288455" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593188544603881478/exXfKB0Q.jpg" ],
+        "published" : [ "2009-04-25T19:27:30+00:00" ],
+        "uid" : [ "tag:twitter.com:cox_tom" ],
+        "url" : [ "https://twitter.com/cox_tom", "http://tom-cox.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The thing I like particularly about the fact Isaac Newton invented the catflap is it gives the image of him trying to lay the foundations of classical mechanics but getting distracted by having to let a cat out then in again 40 seconds later & thinking \"Fuck I need to sort this.\"" ],
+    "published" : [ "2022-12-05T18:40:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1599836161182425088" ],
+    "url" : [ "https://twitter.com/cox_tom/status/1599836161182425088" ]
+  },
+  "type" : [ "h-entry" ]
+}
