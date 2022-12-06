@@ -1,0 +1,50 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2022-12-06_48532" ],
+    "syndication" : [ "https://fed.brid.gy/user/snarfed.org", "https://fed.brid.gy/user/snarfed.org" ],
+    "photo" : [ {
+      "value" : "https://snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png",
+      "alt" : "Emacs pinging realize.be, Kingdom of Belgium"
+    } ],
+    "published" : [ "2022-12-06T13:35:43-08:00" ],
+    "content" : [ {
+      "html" : "<p>Meanwhile, in Emacs…</p>\n<p><a href=\"https://snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png\"><img data-attachment-id=\"48533\" data-permalink=\"https://snarfed.org/2022-12-06_48532/emacs-ping-kingdom-belgium#main\" data-orig-file=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?fit=770%2C236&amp;ssl=1\" data-orig-size=\"770,236\" data-comments-opened=\"1\" data-image-meta='{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}' data-image-title=\"emacs-ping-kingdom-belgium\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?fit=300%2C92&amp;ssl=1\" data-large-file=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?fit=696%2C213&amp;ssl=1\" decoding=\"async\" width=\"770\" height=\"236\" src=\"https://snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png\" alt=\"Emacs pinging realize.be, Kingdom of Belgium\" class=\"shadow wp-image-48533 jetpack-lazy-image\" data-lazy-srcset=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?w=770&amp;ssl=1 770w, https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?resize=300%2C92&amp;ssl=1 300w, https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?resize=768%2C235&amp;ssl=1 768w\" data-lazy-sizes=\"(max-width: 696px) 100vw, 696px\" data-lazy-src=\"/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" data-attachment-id=\"48533\" data-permalink=\"https://snarfed.org/2022-12-06_48532/emacs-ping-kingdom-belgium#main\" data-orig-file=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?fit=770%2C236&amp;ssl=1\" data-orig-size=\"770,236\" data-comments-opened=\"1\" data-image-meta='{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}' data-image-title=\"emacs-ping-kingdom-belgium\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?fit=300%2C92&amp;ssl=1\" data-large-file=\"https://i0.wp.com/snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png?fit=696%2C213&amp;ssl=1\" decoding=\"async\" width=\"770\" height=\"236\" src=\"https://snarfed.org/w/wp-content/uploads/2022/12/emacs-ping-kingdom-belgium.png\" alt=\"Emacs pinging realize.be, Kingdom of Belgium\" class=\"u-photo shadow wp-image-48533\" srcset=\"\" sizes=\"(max-width: 696px) 100vw, 696px\"></noscript>",
+      "value" : "Meanwhile, in Emacs…\nEmacs pinging realize.be, Kingdom of Belgium Emacs pinging realize.be, Kingdom of Belgium",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
