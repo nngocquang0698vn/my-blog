@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "https://www.alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This should help a little bit." ],
+    "photo" : [ {
+      "alt" : "Configuration screen showing the word “ChatGPT” being added to Alex’s muted terms list. ",
+      "value" : "https://pbs.twimg.com/media/FjOC0SpWIAIW13s.jpg"
+    } ],
+    "published" : [ "2022-12-05T14:03:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1599766359616892931" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1599766359616892931" ]
+  },
+  "type" : [ "h-entry" ]
+}
