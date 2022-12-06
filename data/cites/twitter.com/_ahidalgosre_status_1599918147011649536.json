@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "https://www.alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Can someone write an extension that uses some model to detect images of this thing in Tweets and also removes them from my timeline even if the string isn't also included?" ],
+    "in-reply-to" : [ "https://twitter.com/ahidalgosre/status/1599766359616892931" ],
+    "published" : [ "2022-12-06T00:06:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1599918147011649536" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1599918147011649536" ]
+  },
+  "type" : [ "h-entry" ]
+}
