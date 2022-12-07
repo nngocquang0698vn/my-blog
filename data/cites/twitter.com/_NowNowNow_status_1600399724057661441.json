@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "derek@sivers.org" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sites with /now" ],
+        "nickname" : [ "NowNowNow" ],
+        "numeric-id" : [ "21721283" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/661021183534456832/dAnxIREo.jpg" ],
+        "published" : [ "2009-02-24T02:33:20+00:00" ],
+        "uid" : [ "tag:twitter.com:NowNowNow" ],
+        "url" : [ "https://twitter.com/NowNowNow", "http://nownownow.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Brian Wisti profile: <a href=\"https://nownownow.com/p/2ugf\">nownownow.com/p/2ugf</a> <a href=\"https://twitter.com/brianwisti\">@brianwisti</a>",
+      "value" : "Brian Wisti profile: nownownow.com/p/2ugf @brianwisti"
+    } ],
+    "published" : [ "2022-12-07T08:00:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1600399724057661441" ],
+    "url" : [ "https://twitter.com/NowNowNow/status/1600399724057661441" ]
+  },
+  "type" : [ "h-entry" ]
+}
