@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jenn Takahashi" ],
+        "nickname" : [ "jenntakahashi" ],
+        "numeric-id" : [ "16692411" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1423882368432050185/8-q6xJVo.jpg" ],
+        "published" : [ "2008-10-11T03:04:25+00:00" ],
+        "uid" : [ "tag:twitter.com:jenntakahashi" ],
+        "url" : [ "https://twitter.com/jenntakahashi", "https://linktr.ee/jenntakahashi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "ok this made me laugh" ],
+    "photo" : [ "https://pbs.twimg.com/media/FjR56-tVsAMKLeF.jpg" ],
+    "published" : [ "2022-12-06T08:02:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1600037836228481026" ],
+    "url" : [ "https://twitter.com/jenntakahashi/status/1600037836228481026" ]
+  },
+  "type" : [ "h-entry" ]
+}
