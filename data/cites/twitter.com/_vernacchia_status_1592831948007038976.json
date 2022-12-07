@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Vernacchia" ],
+        "nickname" : [ "vernacchia" ],
+        "numeric-id" : [ "142690295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/680875639449219072/QO5WqNUD.jpg" ],
+        "published" : [ "2010-05-11T14:02:59+00:00" ],
+        "uid" : [ "tag:twitter.com:vernacchia" ],
+        "url" : [ "https://twitter.com/vernacchia", "https://byvernacchia.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thanks <a href=\"https://twitter.com/DVSAgovuk\">@DVSAgovuk</a> for making me feel so confident when trying to pass the test",
+      "value" : "Thanks @DVSAgovuk for making me feel so confident when trying to pass the test"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FhrgKPGXkAAJmiD.jpg" ],
+    "published" : [ "2022-11-16T10:48:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1592831948007038976" ],
+    "url" : [ "https://twitter.com/vernacchia/status/1592831948007038976" ]
+  },
+  "type" : [ "h-entry" ]
+}
