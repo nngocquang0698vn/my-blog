@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Leah Culver" ],
+        "nickname" : [ "leahculver" ],
+        "numeric-id" : [ "662433" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1536710267525967875/-lVSmGxI.jpg" ],
+        "published" : [ "2007-01-19T00:07:47+00:00" ],
+        "uid" : [ "tag:twitter.com:leahculver" ],
+        "url" : [ "https://twitter.com/leahculver", "http://leahculver.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Yes, I still work at Twitter." ],
+    "published" : [ "2022-12-03T00:53:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1598842926934953984" ],
+    "url" : [ "https://twitter.com/leahculver/status/1598842926934953984" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FjA7JyTX0AE-hUk.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
