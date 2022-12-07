@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Financial Times" ],
+          "nickname" : [ "FT" ],
+          "numeric-id" : [ "18949452" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/931156393108885504/EqEMtLhM.jpg" ],
+          "published" : [ "2009-01-13T19:28:24+00:00" ],
+          "uid" : [ "tag:twitter.com:FT" ],
+          "url" : [ "https://twitter.com/FT", "http://www.ft.com/", "http://FT.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Crypto regulation/stablecoins: UK aims to rein in alternative currencies <a href=\"https://on.ft.com/3h5wnyM\">on.ft.com/3h5wnyM</a>  | opinion",
+        "value" : "Crypto regulation/stablecoins: UK aims to rein in alternative currencies on.ft.com/3h5wnyM  | opinion"
+      } ],
+      "published" : [ "2022-12-06T14:59:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1600142790096289792" ],
+      "url" : [ "https://twitter.com/FT/status/1600142790096289792" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - current focus: moving electrons" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489994130004533259/gz6LI1oW.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This article is entirely why I don't accept the \"cost of moving money around\" argument for crypto.\n\nThat argument appears to be solely based on the US financial system which is, along with so many other things like policing &amp; healthcare, a long way behind other parts of the world</div>",
+      "value" : "This article is entirely why I don't accept the \"cost of moving money around\" argument for crypto.\n\nThat argument appears to be solely based on the US financial system which is, along with so many other things like policing & healthcare, a long way behind other parts of the world"
+    } ],
+    "published" : [ "2022-12-07T09:33:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1600423221047660544" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1600423221047660544" ]
+  },
+  "type" : [ "h-entry" ]
+}
