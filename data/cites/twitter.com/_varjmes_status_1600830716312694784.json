@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "james" ],
+        "nickname" : [ "varjmes" ],
+        "numeric-id" : [ "25183606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575071743349346309/ih6roX2p.jpg" ],
+        "published" : [ "2009-03-18T23:28:54+00:00" ],
+        "uid" : [ "tag:twitter.com:varjmes" ],
+        "url" : [ "https://twitter.com/varjmes", "https://jmes.tech", "https://strangeobject.space/@james" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Damn now other instances are screenshotting my toots and suggesting everyone defederate/block the raspberry pi mastodon instance. I'm just eating some Gregg's feeling like I'm in another dimension 😂\n\nIt's been years since I've been embroiled in a social media incident 😂😂</div>",
+      "value" : "Damn now other instances are screenshotting my toots and suggesting everyone defederate/block the raspberry pi mastodon instance. I'm just eating some Gregg's feeling like I'm in another dimension 😂\n\nIt's been years since I've been embroiled in a social media incident 😂😂"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/varjmes/status/1600805089802952711" ],
+    "published" : [ "2022-12-08T12:32:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1600830716312694784" ],
+    "url" : [ "https://twitter.com/varjmes/status/1600830716312694784" ]
+  },
+  "type" : [ "h-entry" ]
+}
