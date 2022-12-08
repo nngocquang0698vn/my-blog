@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sheffield, Uk" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "RichBuilds.com" ],
+        "nickname" : [ "richardathome" ],
+        "numeric-id" : [ "17583" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395392499535974400/CznqbB6Q.jpg" ],
+        "published" : [ "2006-11-23T09:48:04+00:00" ],
+        "uid" : [ "tag:twitter.com:richardathome" ],
+        "url" : [ "https://twitter.com/richardathome", "http://RichBuilds.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If this is a joke, it's in bad taste and not funny.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Raspberry_Pi\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TobyRobertsPi\"></a>",
+      "value" : "If this is a joke, it's in bad taste and not funny."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Raspberry_Pi/status/1600761840367448064" ],
+    "published" : [ "2022-12-08T12:22:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1600828273747189760" ],
+    "url" : [ "https://twitter.com/richardathome/status/1600828273747189760" ]
+  },
+  "type" : [ "h-entry" ]
+}
