@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mark Gurman" ],
+          "nickname" : [ "markgurman" ],
+          "numeric-id" : [ "15958614" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1407335110194745351/msWP-RXi.jpg" ],
+          "published" : [ "2008-08-23T16:43:17+00:00" ],
+          "uid" : [ "tag:twitter.com:markgurman" ],
+          "url" : [ "https://twitter.com/markgurman", "https://www.bloomberg.com/poweron" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "A major shift for the Apple Car: Apple has scaled back from a fully autonomous vehicle without a steering wheel and pedals to one that can only self drive on highways in an effort to launch by 2026 for under $100K. Many new details on the project: <a href=\"https://www.bloomberg.com/news/articles/2022-12-06/apple-scales-back-self-driving-car-and-delays-launch-until-2026?srnd=premium\">bloomberg.com/news/articles/…</a>",
+        "value" : "A major shift for the Apple Car: Apple has scaled back from a fully autonomous vehicle without a steering wheel and pedals to one that can only self drive on highways in an effort to launch by 2026 for under $100K. Many new details on the project: bloomberg.com/news/articles/…"
+      } ],
+      "published" : [ "2022-12-06T18:58:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1600202925153845282" ],
+      "url" : [ "https://twitter.com/markgurman/status/1600202925153845282" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dare Obasanjo 🐀" ],
+        "nickname" : [ "Carnage4Life" ],
+        "numeric-id" : [ "11336782" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp.jpg" ],
+        "published" : [ "2007-12-19T14:55:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Carnage4Life" ],
+        "url" : [ "https://twitter.com/Carnage4Life", "https://medium.com/@dareobasanjo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">No technology demo has so misled companies to waste time and money like self driving cars. \n\nBillions spent by some of the smartest technology companies in the world only to realize at best all we’re going to get is slightly better cruise control.</div>",
+      "value" : "No technology demo has so misled companies to waste time and money like self driving cars. \n\nBillions spent by some of the smartest technology companies in the world only to realize at best all we’re going to get is slightly better cruise control."
+    } ],
+    "published" : [ "2022-12-07T10:00:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1600430107637977088" ],
+    "url" : [ "https://twitter.com/Carnage4Life/status/1600430107637977088" ]
+  },
+  "type" : [ "h-entry" ]
+}
