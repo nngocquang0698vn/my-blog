@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "���� <a href=\"https://fed.brid.gy\" aria-hidden=\"true\"></a>"
+      "value" : "🛬"
     } ]
   },
   "kind" : "replies",
