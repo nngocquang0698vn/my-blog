@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "james" ],
+        "nickname" : [ "varjmes" ],
+        "numeric-id" : [ "25183606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575071743349346309/ih6roX2p.jpg" ],
+        "published" : [ "2009-03-18T23:28:54+00:00" ],
+        "uid" : [ "tag:twitter.com:varjmes" ],
+        "url" : [ "https://twitter.com/varjmes", "https://jmes.tech", "https://strangeobject.space/@james" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Mastodon has been pretty chill BUT the Raspberry Pi Foundation just blocked me as I gave them feedback on their PR involving copaganda. They told me to \"chill\" then blocked me 😂" ],
+    "published" : [ "2022-12-08T10:50:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1600805089802952711" ],
+    "url" : [ "https://twitter.com/varjmes/status/1600805089802952711" ]
+  },
+  "type" : [ "h-entry" ]
+}
