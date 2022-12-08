@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luke Waterfield" ],
+        "nickname" : [ "lukewaterfield" ],
+        "numeric-id" : [ "16294244" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/683986359200120834/C68cGx8_.jpg" ],
+        "published" : [ "2008-09-15T11:05:33+00:00" ],
+        "uid" : [ "tag:twitter.com:lukewaterfield" ],
+        "url" : [ "https://twitter.com/lukewaterfield", "https://mastodon.social/@lukewaterfield/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is actually viral. I have never worked for GDS but use a lot of GDS-developed stuff in my work and I also bristle when people criticise it but also bristle when people are too complimentary about GDS - probably for completely different reasons to anyone who has worked there\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Amy_Hupe\"></a>",
+      "value" : "This is actually viral. I have never worked for GDS but use a lot of GDS-developed stuff in my work and I also bristle when people criticise it but also bristle when people are too complimentary about GDS - probably for completely different reasons to anyone who has worked there"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Amy_Hupe/status/1600765639395708928" ],
+    "published" : [ "2022-12-08T13:21:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1600842906306482177" ],
+    "url" : [ "https://twitter.com/lukewaterfield/status/1600842906306482177" ]
+  },
+  "type" : [ "h-entry" ]
+}
