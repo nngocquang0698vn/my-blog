@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Liverpool, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "mrtomftw" ],
+        "nickname" : [ "MrTom" ],
+        "numeric-id" : [ "15841884" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588495470057365505/QasabBZa.jpg" ],
+        "published" : [ "2008-08-13T20:24:46+00:00" ],
+        "uid" : [ "tag:twitter.com:MrTom" ],
+        "url" : [ "https://twitter.com/MrTom", "https://linktr.ee/MrTomFTW" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Not to be rude but what the fuck is this shit?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Raspberry_Pi\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TobyRobertsPi\"></a>",
+      "value" : "Not to be rude but what the fuck is this shit?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Raspberry_Pi/status/1600761840367448064" ],
+    "published" : [ "2022-12-08T13:08:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1600839674414637057" ],
+    "url" : [ "https://twitter.com/MrTom/status/1600839674414637057" ]
+  },
+  "type" : [ "h-entry" ]
+}
