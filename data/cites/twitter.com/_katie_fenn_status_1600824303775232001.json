@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "james" ],
+          "nickname" : [ "varjmes" ],
+          "numeric-id" : [ "25183606" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1575071743349346309/ih6roX2p.jpg" ],
+          "published" : [ "2009-03-18T23:28:54+00:00" ],
+          "uid" : [ "tag:twitter.com:varjmes" ],
+          "url" : [ "https://twitter.com/varjmes", "https://jmes.tech", "https://strangeobject.space/@james" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Mastodon has been pretty chill BUT the Raspberry Pi Foundation just blocked me as I gave them feedback on their PR involving copaganda. They told me to \"chill\" then blocked me 😂" ],
+      "published" : [ "2022-12-08T10:50:49+00:00" ],
+      "uid" : [ "tag:twitter.com:1600805089802952711" ],
+      "url" : [ "https://twitter.com/varjmes/status/1600805089802952711" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sheffield" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Fenn" ],
+        "nickname" : [ "katie_fenn" ],
+        "numeric-id" : [ "14979616" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1565979218588098560/UdbGsoBa.jpg" ],
+        "published" : [ "2008-06-02T12:02:44+00:00" ],
+        "uid" : [ "tag:twitter.com:katie_fenn" ],
+        "url" : [ "https://twitter.com/katie_fenn", "https://front-end.social/web/@katiefenn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hi <a href=\"https://twitter.com/RaspberryPi_org\">@RaspberryPi_org</a>, mocking a marginalised person, then blocking them, for giving honest criticism about you celebrating your employees for using Raspberry Pis for surveillance policing is unprofessional and gross.",
+      "value" : "Hi @RaspberryPi_org, mocking a marginalised person, then blocking them, for giving honest criticism about you celebrating your employees for using Raspberry Pis for surveillance policing is unprofessional and gross."
+    } ],
+    "published" : [ "2022-12-08T12:07:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1600824303775232001" ],
+    "url" : [ "https://twitter.com/katie_fenn/status/1600824303775232001" ]
+  },
+  "type" : [ "h-entry" ]
+}
