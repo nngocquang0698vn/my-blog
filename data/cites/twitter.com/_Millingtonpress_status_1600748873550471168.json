@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC News (UK)" ],
+          "nickname" : [ "BBCNews" ],
+          "numeric-id" : [ "612473" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1529107486271225859/03qcVNIk.jpg" ],
+          "published" : [ "2007-01-08T08:05:57+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCNews" ],
+          "url" : [ "https://twitter.com/BBCNews", "http://www.bbc.co.uk/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "'Rail strikes mean I won't see my son over Christmas' <a href=\"https://bbc.in/3Hk1IbY\">bbc.in/3Hk1IbY</a>",
+        "value" : "'Rail strikes mean I won't see my son over Christmas' bbc.in/3Hk1IbY"
+      } ],
+      "published" : [ "2022-12-08T00:49:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1600653648161284096" ],
+      "url" : [ "https://twitter.com/BBCNews/status/1600653648161284096" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/bbcnews/status…" ],
+      "url" : [ "https://twitter.com/bbcnews/status/1600653648161284096" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John" ],
+        "nickname" : [ "Millingtonpress" ],
+        "numeric-id" : [ "1403786662346432512" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1572533345908580352/ZCRcs27p.jpg" ],
+        "published" : [ "2021-06-12T18:50:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Millingtonpress" ],
+        "url" : [ "https://twitter.com/Millingtonpress", "https://bit.ly/3y3XoVJ" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This headline and article is totally misleading. Only Network Rail staff are taking action from 6pm on 24 to 6am on the 27. <a href=\"https://twitter.com/RMTunion\">@RMTunion</a> is targeting engineering works, not passenger services. Passengers will be able to travel either side of the strike on those same days.\n<a class=\"tag\" href=\"https://twitter.com/bbcnews/status/1600653648161284096\">twitter.com/bbcnews/status…</a>",
+      "value" : "This headline and article is totally misleading. Only Network Rail staff are taking action from 6pm on 24 to 6am on the 27. @RMTunion is targeting engineering works, not passenger services. Passengers will be able to travel either side of the strike on those same days."
+    } ],
+    "published" : [ "2022-12-08T07:07:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1600748873550471168" ],
+    "url" : [ "https://twitter.com/Millingtonpress/status/1600748873550471168" ]
+  },
+  "type" : [ "h-entry" ]
+}
