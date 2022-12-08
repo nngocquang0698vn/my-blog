@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "https://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Want to come to apidays Paris next week for free? I set up an API for that! Use Postman or curl to send a GET request to bitDOTly/apidaysparis2022code\nto get a code for a free ticket (replace DOT by a dot 😅).\n<a href=\"https://twitter.com/search?q=%23api\">#api</a></div>",
+      "value" : "Want to come to apidays Paris next week for free? I set up an API for that! Use Postman or curl to send a GET request to bitDOTly/apidaysparis2022code\nto get a code for a free ticket (replace DOT by a dot 😅).\n#api"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fjdx8szXwAEF7Tk.jpg" ],
+    "published" : [ "2022-12-08T15:22:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1600873516009947137" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1600873516009947137" ]
+  },
+  "type" : [ "h-entry" ]
+}
