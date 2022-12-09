@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "There's also the salary survey from the DevRel Collective, if that's useful! <a href=\"https://dev.to/bffjossy/2021-devrel-salary-survey-results-table-of-contents-43fe\">dev.to/bffjossy/2021-…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarolineLewko\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bwest\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rachelnabors\"></a>",
+      "value" : "There's also the salary survey from the DevRel Collective, if that's useful! dev.to/bffjossy/2021-…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bwest/status/1601264604356964352" ],
+    "published" : [ "2022-12-09T17:21:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1601265874702577666" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1601265874702577666" ]
+  },
+  "type" : [ "h-entry" ]
+}
