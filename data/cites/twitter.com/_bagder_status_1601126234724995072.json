@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "daniel:// stenberg://" ],
+        "nickname" : [ "bagder" ],
+        "numeric-id" : [ "14893620" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407469211136450565/VOQGppj0.jpg" ],
+        "published" : [ "2008-05-24T20:46:13+00:00" ],
+        "uid" : [ "tag:twitter.com:bagder" ],
+        "url" : [ "https://twitter.com/bagder", "https://daniel.haxx.se/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think naming projects prefixed with your programming language of choice is silly. I would never name my project... oh wait." ],
+    "published" : [ "2022-12-09T08:06:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1601126234724995072" ],
+    "url" : [ "https://twitter.com/bagder/status/1601126234724995072" ]
+  },
+  "type" : [ "h-entry" ]
+}
