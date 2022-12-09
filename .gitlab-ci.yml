@@ -22,17 +22,6 @@ build_test_site:
       - themes/*
   except:
     - main
-
-theme_branch:
-  image: alpine:latest
-  stage: build
-  script:
-    - apk add --update git ruby
-    - ruby .ci/theme-branch.rb
-  only:
-    - branches
-  except:
-    - main
 # }}}
 
 build:
