@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nashville, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Welch" ],
+        "nickname" : [ "kylewelch" ],
+        "numeric-id" : [ "25129226" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581131092287004672/oqIuz_iP.jpg" ],
+        "published" : [ "2009-03-18T19:01:44+00:00" ],
+        "uid" : [ "tag:twitter.com:kylewelch" ],
+        "url" : [ "https://twitter.com/kylewelch", "http://kwelch.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "End of year code freeze makes work feel very weird." ],
+    "published" : [ "2022-12-09T16:12:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1601248380797079552" ],
+    "url" : [ "https://twitter.com/kylewelch/status/1601248380797079552" ]
+  },
+  "type" : [ "h-entry" ]
+}
