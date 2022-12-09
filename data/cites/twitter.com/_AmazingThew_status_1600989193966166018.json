@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "North Carolina, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kingfisher & Wombat" ],
+          "nickname" : [ "UrsulaV" ],
+          "numeric-id" : [ "11342242" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/896463375462531072/5KlszOSy.jpg" ],
+          "published" : [ "2007-12-19T17:32:04+00:00" ],
+          "uid" : [ "tag:twitter.com:UrsulaV" ],
+          "url" : [ "https://twitter.com/UrsulaV", "http://www.redwombatstudio.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Heh, saw a comment suggesting that the only way to deal with AI art is to make it so uncool and mockable that no one wants to use it.\n\nAnd honestly, I think that’s a better idea than 90% of them. The tech is here, like it or not, but social acceptance is still fluid.</div>",
+        "value" : "Heh, saw a comment suggesting that the only way to deal with AI art is to make it so uncool and mockable that no one wants to use it.\n\nAnd honestly, I think that’s a better idea than 90% of them. The tech is here, like it or not, but social acceptance is still fluid."
+      } ],
+      "published" : [ "2022-12-08T22:52:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1600986774092017669" ],
+      "url" : [ "https://twitter.com/UrsulaV/status/1600986774092017669" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Thew" ],
+        "nickname" : [ "AmazingThew" ],
+        "numeric-id" : [ "924688656" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/761308272095850496/Aqb-QUct.jpg" ],
+        "published" : [ "2012-11-04T05:15:02+00:00" ],
+        "uid" : [ "tag:twitter.com:AmazingThew" ],
+        "url" : [ "https://twitter.com/AmazingThew", "http://thew.nu", "http://aerobat.thew.nu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "remember when tech dudes tried to make Google Glass a thing and everyone got in circular arguments about how pointing a head-mounted camera at people is bad, until we realized you could just call the guy wearing it \"glasshole\" in public and the project collapsed in like two weeks" ],
+    "published" : [ "2022-12-08T23:02:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1600989193966166018" ],
+    "url" : [ "https://twitter.com/AmazingThew/status/1600989193966166018" ]
+  },
+  "type" : [ "h-entry" ]
+}
