@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Alpha Quadrant" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Captain Edward Jellico" ],
+        "nickname" : [ "STDeltaShift" ],
+        "numeric-id" : [ "1136825225818124288" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599564199058972672/SGCw1ulb.jpg" ],
+        "published" : [ "2019-06-07T02:40:29+00:00" ],
+        "uid" : [ "tag:twitter.com:STDeltaShift" ],
+        "url" : [ "https://twitter.com/STDeltaShift", "http://SFI.org", "http://universeodon.com/@STDeltaShift" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The continuing adventures of <a href=\"https://twitter.com/search?q=%23StarTrek\">#StarTrek</a> <a href=\"https://twitter.com/search?q=%23BlazinBev\">#BlazinBev</a>",
+      "value" : "The continuing adventures of #StarTrek #BlazinBev"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fje2TE_WIBIJT0J.jpg" ],
+    "published" : [ "2022-12-08T20:21:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1600948767456370691" ],
+    "url" : [ "https://twitter.com/STDeltaShift/status/1600948767456370691" ]
+  },
+  "type" : [ "h-entry" ]
+}
