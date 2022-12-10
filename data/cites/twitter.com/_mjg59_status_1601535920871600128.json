@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dare Obasanjo 🐀" ],
+          "nickname" : [ "Carnage4Life" ],
+          "numeric-id" : [ "11336782" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp.jpg" ],
+          "published" : [ "2007-12-19T14:55:55+00:00" ],
+          "uid" : [ "tag:twitter.com:Carnage4Life" ],
+          "url" : [ "https://twitter.com/Carnage4Life", "https://medium.com/@dareobasanjo" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I tell people in big tech to write every email or message as if you’d have to defend it in a NYT headline because between lawsuits &amp; leaks, you just might.\n\nI never thought another potential hazard would be journalists hired to perform a political witch hunt tweeting them out.</div>",
+        "value" : "I tell people in big tech to write every email or message as if you’d have to defend it in a NYT headline because between lawsuits & leaks, you just might.\n\nI never thought another potential hazard would be journalists hired to perform a political witch hunt tweeting them out."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FjlgP5JaEAEk_0M.jpg" ],
+      "published" : [ "2022-12-10T03:22:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1601416971945644033" ],
+      "url" : [ "https://twitter.com/Carnage4Life/status/1601416971945644033" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Every single corporate \"Communicate With Care\" training program is currently being entirely rewritten" ],
+    "published" : [ "2022-12-10T11:14:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1601535920871600128" ],
+    "url" : [ "https://twitter.com/mjg59/status/1601535920871600128" ]
+  },
+  "type" : [ "h-entry" ]
+}
