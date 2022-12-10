@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ohio, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The CryptoNaturalist" ],
+        "nickname" : [ "CryptoNature" ],
+        "numeric-id" : [ "917511276036853765" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/992241585575399424/YUULgDDt.jpg" ],
+        "published" : [ "2017-10-09T22:05:09+00:00" ],
+        "uid" : [ "tag:twitter.com:CryptoNature" ],
+        "url" : [ "https://twitter.com/CryptoNature", "http://www.cryptonaturalist.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I bet octopuses think bones are horrific. I bet all their cosmic horror stories involve rigid-limbs and hinged joints." ],
+    "published" : [ "2018-07-26T02:27:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1022307451633377280" ],
+    "url" : [ "https://twitter.com/CryptoNature/status/1022307451633377280" ]
+  },
+  "type" : [ "h-entry" ]
+}
