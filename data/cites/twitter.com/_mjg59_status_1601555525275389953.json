@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You should absolutely say/do the right thing, but it's now legitimate to worry about what a bunch of fascists are going to do in response to you having done that in the past\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bpetrushev\"></a>",
+      "value" : "You should absolutely say/do the right thing, but it's now legitimate to worry about what a bunch of fascists are going to do in response to you having done that in the past"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bpetrushev/status/1601555126308638721" ],
+    "published" : [ "2022-12-10T12:32:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1601555525275389953" ],
+    "url" : [ "https://twitter.com/mjg59/status/1601555525275389953" ]
+  },
+  "type" : [ "h-entry" ]
+}
