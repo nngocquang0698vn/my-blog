@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What we are seeing right now is a bunch of people being harassed for doing nothing that was dishonest or illegal\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AndersonAndrue\"></a>",
+      "value" : "What we are seeing right now is a bunch of people being harassed for doing nothing that was dishonest or illegal"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/AndersonAndrue/status/1601563532642123779" ],
+    "published" : [ "2022-12-10T13:08:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1601564594279165952" ],
+    "url" : [ "https://twitter.com/mjg59/status/1601564594279165952" ]
+  },
+  "type" : [ "h-entry" ]
+}
