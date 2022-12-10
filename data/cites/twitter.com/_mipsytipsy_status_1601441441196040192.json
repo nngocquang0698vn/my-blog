@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Davidson, NC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Forrest Brazeal" ],
+          "nickname" : [ "forrestbrazeal" ],
+          "numeric-id" : [ "3239330680" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431705570327805955/K9Tgg3WV.jpg" ],
+          "published" : [ "2015-05-06T18:59:20+00:00" ],
+          "uid" : [ "tag:twitter.com:forrestbrazeal" ],
+          "url" : [ "https://twitter.com/forrestbrazeal", "https://bio.link/forrestbrazeal" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">My usual beef with reference architectures is that they launder the creators' assumptions into \"best practices\" without helping you put your own needs in context. \n\nTurns out there's a cheat code to get past this problem, and the team that built \"Emblem Giving\" found it:</div>",
+        "value" : "My usual beef with reference architectures is that they launder the creators' assumptions into \"best practices\" without helping you put your own needs in context. \n\nTurns out there's a cheat code to get past this problem, and the team that built \"Emblem Giving\" found it:"
+      } ],
+      "published" : [ "2022-11-17T21:26:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1593354888821592066" ],
+      "url" : [ "https://twitter.com/forrestbrazeal/status/1593354888821592066" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1593353078983593984/pu/vid/720x1280/Ev3jrqutzAL-MCY8.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charity Majors" ],
+        "nickname" : [ "mipsytipsy" ],
+        "numeric-id" : [ "90488576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576759705933819904/iDotz1Gw.jpg" ],
+        "published" : [ "2009-11-16T21:28:13+00:00" ],
+        "uid" : [ "tag:twitter.com:mipsytipsy" ],
+        "url" : [ "https://twitter.com/mipsytipsy", "http://charity.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Yeeesssss!! Lowkey obsessed with decision records/ADRs right now. If I were starting a new company (which I *am not,* and *will never*) I would be using these from day one.\n\nAnd not just for technical decisions, either. For any decision with a blast radius of &gt;1 group.</div>",
+      "value" : "Yeeesssss!! Lowkey obsessed with decision records/ADRs right now. If I were starting a new company (which I *am not,* and *will never*) I would be using these from day one.\n\nAnd not just for technical decisions, either. For any decision with a blast radius of >1 group."
+    } ],
+    "published" : [ "2022-12-10T04:59:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1601441441196040192" ],
+    "url" : [ "https://twitter.com/mipsytipsy/status/1601441441196040192" ]
+  },
+  "type" : [ "h-entry" ]
+}
