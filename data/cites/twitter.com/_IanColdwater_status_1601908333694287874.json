@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is not the gotcha you think it is, bud" ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1601801496416620545" ],
+    "photo" : [ {
+      "alt" : "tweet from random right wing account: \"When's the last protest you've been too Ian?\"",
+      "value" : "https://pbs.twimg.com/media/FjsfI7VXgAEMb44.jpg"
+    } ],
+    "published" : [ "2022-12-11T11:54:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1601908333694287874" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1601908333694287874" ]
+  },
+  "type" : [ "h-entry" ]
+}
