@@ -1,0 +1,72 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "This Week in the IndieWeb Audio Edition • December 3rd-9th, 2022" ],
+    "category" : [ "podcast", "IndieWeb", "this-week-indieweb-podcast" ],
+    "audio" : [ "https://media.martymcgui.re/08/10/c5/65/41d94fa9597520f2d315ee5d32ec4715b0fbfb9a736c8f0a72fa783b.mp3" ],
+    "url" : [ "https://martymcgui.re/2022/12/10/this-week-in-the-indieweb-audio-edition--december-3rd-9th-2022/" ],
+    "published" : [ "2022-12-10T18:55:13-0500" ],
+    "content" : [ {
+      "html" : "<div class=\"audios\">\n    \n      <audio controls=\"\" style=\"width: 100%\" preload=\"none\">\n    <source class=\"u-audio\" type=\"audio/mpeg\" src=\"https://media.martymcgui.re/08/10/c5/65/41d94fa9597520f2d315ee5d32ec4715b0fbfb9a736c8f0a72fa783b.mp3\"></source>\n  </audio>\n  <details>\n      <summary style=\"display: list-item; margin: 0.5em 0\">Show/Hide Transcript</summary>\n      <iframe src=\"https://media.martymcgui.re/c8/3b/9b/f1/12be72f6362194c9eac770efa130e3220784b29e595ac50d403b7d29.txt\" style=\"box-sizing: border-box; width: 100%; height: 100vh; border: black 1px solid; background-color: rgba(255,255,255,0.4);\"></iframe>\n    </details>\n  <script src=\"https://martymcgui.re/js/media_fragment.js\"></script>\n</div>\n  <p>I’m bringing TWITIWAE back! It’s the audio edition for <a href=\"https://indieweb.org/this-week/2022-12-09.html\">This Week in the IndieWeb for December 3rd - 9th, 2022</a>.</p>\n<p>You can find all of my audio editions and subscribe with your favorite podcast app here: <a href=\"https://martymcgui.re/podcasts/indieweb/\">martymcgui.re/podcasts/indieweb/</a>.</p>\n<p>Music from <a href=\"https://aaronparecki.com/\">Aaron Parecki</a>’s <a href=\"https://100.aaronparecki.com/\">100DaysOfMusic project</a>: <a href=\"https://aaronparecki.com/2017/03/15/14/day85\">Day 85 - Suit</a>, <a href=\"https://aaronparecki.com/2017/02/06/7/day48\">Day 48 - Glitch</a>, <a href=\"https://aaronparecki.com/2017/02/07/4/day49\">Day 49 - Floating</a>, <a href=\"https://aaronparecki.com/2016/12/29/21/day-9\">Day 9</a>, and <a href=\"https://aaronparecki.com/2016/12/31/15/\">Day 11</a></p>\n<p>Thanks to everyone in the <a href=\"https://chat.indieweb.org/\">IndieWeb chat</a> for their feedback and suggestions. Please drop me a note if there are any changes you’d like to see for this audio edition!</p>",
+      "value" : "Show/Hide Transcript\nI’m bringing TWITIWAE back! It’s the audio edition for This Week in the IndieWeb for December 3rd - 9th, 2022.\nYou can find all of my audio editions and subscribe with your favorite podcast app here: martymcgui.re/podcasts/indieweb/.\nMusic from Aaron Parecki’s 100DaysOfMusic project: Day 85 - Suit, Day 48 - Glitch, Day 49 - Floating, Day 9, and Day 11\nThanks to everyone in the IndieWeb chat for their feedback and suggestions. Please drop me a note if there are any changes you’d like to see for this audio edition!",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Marty McGuire" ],
+        "photo" : [ {
+          "value" : "https://martymcgui.re/images/logo.jpg",
+          "alt" : "Marty McGuire"
+        } ],
+        "url" : [ "https://martymcgui.re/" ]
+      },
+      "lang" : "en",
+      "value" : "https://martymcgui.re/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://aaronparecki.com/2022/12/10/21/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ {
+              "value" : "https://res.cloudinary.com/schmarty/image/fetch/w_60,c_fill/https://webmention.io/avatar/aaronparecki.com/41061f9de825966faa22e9c42830e1d4a614a321213b4575b9488aa93f89817a.jpg",
+              "alt" : "Aaron Parecki"
+            } ],
+            "name" : [ "Aaron Parecki" ]
+          },
+          "lang" : "en",
+          "value" : "Aaron Parecki"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Aaron Parecki"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "I’m bringing TWITIWAE back! It’s your &lt; 10min update on the #IndieWeb community! This Week in the IndieWeb audio edition for December 3rd - 9th, 2022. https://martymcgui.re/2022/12/10/this-week-in-the-indieweb-audio-edition--december-3rd-9th-2022/" ],
+        "name" : [ "I’m bringing TWITIWAE back! It’s your &lt; 10min update on the #IndieWeb community! This Week in the IndieWeb audio edition for December 3rd - 9th, 2022. https://martymcgui.re/2022/12/10/this-week-in-the-indieweb-audio-edition--december-3rd-9th-2022/" ],
+        "url" : [ "https://martymcgui.re/2022/12/10/190410/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marty McGuire" ],
+            "photo" : [ {
+              "value" : "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/martymcgui.re/f750b9918a92f3dc86d15d8fefad4a06c20a829ae950e18dfc2c8b9a4b26b422.jpg",
+              "alt" : "Marty McGuire"
+            } ]
+          },
+          "lang" : "en",
+          "value" : "https://martymcgui.re/"
+        } ]
+      },
+      "id" : "comment-8ee4d197b4a1cee68e9c251d3272c92772e1f95b",
+      "lang" : "en",
+      "value" : "https://martymcgui.re/2022/12/10/190410/"
+    } ]
+  },
+  "lang" : "en"
+}
