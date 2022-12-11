@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Barrett" ],
+        "nickname" : [ "schnarfed" ],
+        "numeric-id" : [ "139199211" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1031786031832420352/w2Eyoxbi.jpg" ],
+        "published" : [ "2010-05-01T21:42:43+00:00" ],
+        "uid" : [ "tag:twitter.com:schnarfed" ],
+        "url" : [ "https://twitter.com/schnarfed", "https://snarfed.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Feel free to try <a href=\"https://fed.brid.gy/\">fed.brid.gy</a> too! It's a pretty complete IndieWeb &lt;=&gt; ActivityPub bridge.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/andybee\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brianleroux\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/filmaj\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/schizanon\"></a>",
+      "value" : "Feel free to try fed.brid.gy too! It's a pretty complete IndieWeb <=> ActivityPub bridge."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/brianleroux/status/1601983272695001088" ],
+    "published" : [ "2022-12-11T17:13:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1601988573649022976" ],
+    "url" : [ "https://twitter.com/schnarfed/status/1601988573649022976" ]
+  },
+  "type" : [ "h-entry" ]
+}
