@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I really don't think that \"leave your phone at home when you go to a protest\" is practicable advice for most people and I wish we would stop recommending it without qualification" ],
+    "published" : [ "2022-12-11T04:47:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1601800902201208833" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1601800902201208833" ]
+  },
+  "type" : [ "h-entry" ]
+}
