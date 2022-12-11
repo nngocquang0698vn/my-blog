@@ -1,0 +1,69 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottingham" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "HackSoc Nottingham" ],
+          "nickname" : [ "hacksocnotts" ],
+          "numeric-id" : [ "1366601486" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1540765457392746496/c7c0_puv.jpg" ],
+          "published" : [ "2013-04-20T09:33:25+00:00" ],
+          "uid" : [ "tag:twitter.com:hacksocnotts" ],
+          "url" : [ "https://twitter.com/hacksocnotts", "https://hacksocnotts.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<a href=\"https://twitter.com/edgeorge92\">@edgeorge92</a> giving a talk, not about Ed George designs. ",
+        "value" : "@edgeorge92 giving a talk, not about Ed George designs. "
+      } ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Nottingham, England" ],
+          "uid" : [ "tag:twitter.com:d419a9e23df70cae" ],
+          "url" : [ "https://maps.google.com/maps?q=52.9381291,-1.1939546" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/BVv5HKtIMAAcWzx.jpg" ],
+      "published" : [ "2013-10-04T17:08:50+00:00" ],
+      "uid" : [ "tag:twitter.com:386176095357509632" ],
+      "url" : [ "https://twitter.com/hacksocnotts/status/386176095357509632" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Holloway-George 🍝" ],
+        "nickname" : [ "Sp4ghettiCode" ],
+        "numeric-id" : [ "991238672812052480" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1597286024857763842/gFN2jmBq.png" ],
+        "published" : [ "2018-05-01T08:51:30+00:00" ],
+        "uid" : [ "tag:twitter.com:Sp4ghettiCode" ],
+        "url" : [ "https://twitter.com/Sp4ghettiCode", "https://www.spght.dev", "http://spght.dev/archive", "http://spght.dev/talks" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">So TIL, there's photographic evidence of the _first_ ever talk I gave back in 2013 @ HackSoc Nottingham\n\nIt was a talk about the start-up I was working for and how we were releasing a dev SDK to integrate with it for Hackathons\n\nOf course, never released it 😂💀</div>",
+      "value" : "So TIL, there's photographic evidence of the _first_ ever talk I gave back in 2013 @ HackSoc Nottingham\n\nIt was a talk about the start-up I was working for and how we were releasing a dev SDK to integrate with it for Hackathons\n\nOf course, never released it 😂💀"
+    } ],
+    "published" : [ "2022-12-11T12:02:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1601910257328001024" ],
+    "url" : [ "https://twitter.com/Sp4ghettiCode/status/1601910257328001024" ]
+  },
+  "type" : [ "h-entry" ]
+}
