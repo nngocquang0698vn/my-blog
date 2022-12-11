@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chuck Schick" ],
+        "nickname" : [ "MetaChuckSchick" ],
+        "numeric-id" : [ "758672019319844864" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/946839461182058496/fEE8MJ2m.jpg" ],
+        "published" : [ "2016-07-28T14:34:39+00:00" ],
+        "uid" : [ "tag:twitter.com:MetaChuckSchick" ],
+        "url" : [ "https://twitter.com/MetaChuckSchick" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is ruining my night is there a joke or is it nonsense (nonnenne)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pchannelstrip\"></a>",
+      "value" : "This is ruining my night is there a joke or is it nonsense (nonnenne)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/pchannelstrip/status/1601676533906960384" ],
+    "published" : [ "2022-12-10T23:07:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1601715202789363712" ],
+    "url" : [ "https://twitter.com/MetaChuckSchick/status/1601715202789363712" ]
+  },
+  "type" : [ "h-entry" ]
+}
