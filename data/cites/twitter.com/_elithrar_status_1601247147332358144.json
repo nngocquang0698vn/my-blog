@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC via 🇦🇺" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Silverlock 🐀" ],
+        "nickname" : [ "elithrar" ],
+        "numeric-id" : [ "7419782" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537022488588197888/CSOXUtZh.jpg" ],
+        "published" : [ "2007-07-12T04:08:53+00:00" ],
+        "uid" : [ "tag:twitter.com:elithrar" ],
+        "url" : [ "https://twitter.com/elithrar", "https://blog.questionable.services/", "http://github.com/elithrar", "http://mastodon.social/@elithrar" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We've archived the Gorilla Toolkit, a set of Go HTTP libraries &amp; tools originally created back in Oct 2022.\n\nWe never found a sticky maintainer and/or folks that were consistently contributing.\n\nYou can read more here: <a href=\"https://github.com/gorilla#gorilla-toolkit\">github.com/gorilla#gorill…</a></div>",
+      "value" : "We've archived the Gorilla Toolkit, a set of Go HTTP libraries & tools originally created back in Oct 2022.\n\nWe never found a sticky maintainer and/or folks that were consistently contributing.\n\nYou can read more here: github.com/gorilla#gorill…"
+    } ],
+    "published" : [ "2022-12-09T16:07:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1601247147332358144" ],
+    "url" : [ "https://twitter.com/elithrar/status/1601247147332358144" ]
+  },
+  "type" : [ "h-entry" ]
+}
