@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london, uk" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖" ],
+        "nickname" : [ "maisieccino" ],
+        "numeric-id" : [ "1547507513561694208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587839052358844417/JQR7-9wG.jpg" ],
+        "published" : [ "2022-07-14T09:06:17+00:00" ],
+        "uid" : [ "tag:twitter.com:maisieccino" ],
+        "url" : [ "https://twitter.com/maisieccino", "http://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">there's another popular-ish tech figure the same last name as you (Bell) and I didn't realize you were different people until that person showed up in my timeline again because of algorithms. lmaoo\n\nwhomst 👁️👄👁️</div>",
+      "value" : "there's another popular-ish tech figure the same last name as you (Bell) and I didn't realize you were different people until that person showed up in my timeline again because of algorithms. lmaoo\n\nwhomst 👁️👄👁️"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/maisieccino/status/1601905610345549824" ],
+    "published" : [ "2022-12-11T12:56:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1601923796402937857" ],
+    "url" : [ "https://twitter.com/maisieccino/status/1601923796402937857" ]
+  },
+  "type" : [ "h-entry" ]
+}
