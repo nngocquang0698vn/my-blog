@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Something trivial that needs to still be said:\n\nYour software architecture will be better for maintenance and reliability if the person making the architectural decisions is also a person who will write the code, and will be a person oncall when that code is deployed.</div>",
+      "value" : "Something trivial that needs to still be said:\n\nYour software architecture will be better for maintenance and reliability if the person making the architectural decisions is also a person who will write the code, and will be a person oncall when that code is deployed."
+    } ],
+    "published" : [ "2022-12-12T16:24:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1602338604222644229" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1602338604222644229" ]
+  },
+  "type" : [ "h-entry" ]
+}
