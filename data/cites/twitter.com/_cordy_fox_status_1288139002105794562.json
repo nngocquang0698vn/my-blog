@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1287824348460593154" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cordula 🇵🇷" ],
+        "nickname" : [ "cordy_fox" ],
+        "numeric-id" : [ "896494825851297792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1601750795560574977/CWz6TBnW.jpg" ],
+        "published" : [ "2017-08-12T22:13:17+00:00" ],
+        "uid" : [ "tag:twitter.com:cordy_fox" ],
+        "url" : [ "https://twitter.com/cordy_fox" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Elon chuckled. \"You mean the apartheid emeralds?\"\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1287824348460593154\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Elon chuckled. \"You mean the apartheid emeralds?\""
+    } ],
+    "published" : [ "2020-07-28T15:47:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1288139002105794562" ],
+    "url" : [ "https://twitter.com/cordy_fox/status/1288139002105794562" ]
+  },
+  "type" : [ "h-entry" ]
+}
