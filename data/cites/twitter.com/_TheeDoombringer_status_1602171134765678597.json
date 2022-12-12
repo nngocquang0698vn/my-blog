@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mars" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory" ],
+        "nickname" : [ "TheeDoombringer" ],
+        "numeric-id" : [ "1569828625977077760" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1601732812129837056/2oORH1yV.jpg" ],
+        "published" : [ "2022-09-13T23:22:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TheeDoombringer" ],
+        "url" : [ "https://twitter.com/TheeDoombringer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "LMAOOO WHAT\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BrandonLive\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HeadhunterMatt\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/StationCDRKelly\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/aaronpk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "LMAOOO WHAT"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/HeadhunterMatt/status/1602170823418466304" ],
+    "published" : [ "2022-12-12T05:19:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1602171134765678597" ],
+    "url" : [ "https://twitter.com/TheeDoombringer/status/1602171134765678597" ]
+  },
+  "type" : [ "h-entry" ]
+}
