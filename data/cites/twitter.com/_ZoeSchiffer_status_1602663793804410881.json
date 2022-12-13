@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Zoë Schiffer" ],
+        "nickname" : [ "ZoeSchiffer" ],
+        "numeric-id" : [ "808464904575299584" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1564799885794086914/ZU6qMT_n.jpg" ],
+        "published" : [ "2016-12-13T00:13:48+00:00" ],
+        "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+        "url" : [ "https://twitter.com/ZoeSchiffer", "http://www.instagram.com/zoekschiffer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Twitter doesn’t deploy from GitHub, and most of this is open source, so it’s not life or death. But having hundreds of former employees maintain access when current employees aren’t admins on some projects is…not great, from a security perspective. 3/" ],
+    "in-reply-to" : [ "https://twitter.com/ZoeSchiffer/status/1602663689919905795" ],
+    "published" : [ "2022-12-13T13:56:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1602663793804410881" ],
+    "url" : [ "https://twitter.com/ZoeSchiffer/status/1602663793804410881" ]
+  },
+  "type" : [ "h-entry" ]
+}
