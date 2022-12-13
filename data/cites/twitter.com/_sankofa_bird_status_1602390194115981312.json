@@ -1,0 +1,73 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "‘Minx’ Canceled at HBO Max Despite Season 2 Renewal <a href=\"https://variety.com/2022/tv/news/minx-canceled-hbo-max-season-2-1235458073/\">variety.com/2022/tv/news/m…</a>",
+        "value" : "‘Minx’ Canceled at HBO Max Despite Season 2 Renewal variety.com/2022/tv/news/m…"
+      } ],
+      "published" : [ "2022-12-12T19:38:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1602387348276248599" ],
+      "url" : [ "https://twitter.com/Variety/status/1602387348276248599" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/variety/status…" ],
+      "url" : [ "https://twitter.com/variety/status/1602387348276248599" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Caroline “Caro” Renard" ],
+        "nickname" : [ "sankofa_bird" ],
+        "numeric-id" : [ "2826977876" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598427497900564481/JxR4r0KU.jpg" ],
+        "published" : [ "2014-09-22T21:25:43+00:00" ],
+        "uid" : [ "tag:twitter.com:sankofa_bird" ],
+        "url" : [ "https://twitter.com/sankofa_bird", "https://www.instagram.com/caroline_renard/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "See? See? See?!?! See why we be so weary as writers?!\n<a class=\"tag\" href=\"https://twitter.com/variety/status/1602387348276248599\">twitter.com/variety/status…</a>",
+      "value" : "See? See? See?!?! See why we be so weary as writers?!"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Los Angeles, CA" ],
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-12-12T19:49:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1602390194115981312" ],
+    "url" : [ "https://twitter.com/sankofa_bird/status/1602390194115981312" ]
+  },
+  "type" : [ "h-entry" ]
+}
