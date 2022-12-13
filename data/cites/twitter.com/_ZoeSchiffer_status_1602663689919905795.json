@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Zoë Schiffer" ],
+        "nickname" : [ "ZoeSchiffer" ],
+        "numeric-id" : [ "808464904575299584" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1564799885794086914/ZU6qMT_n.jpg" ],
+        "published" : [ "2016-12-13T00:13:48+00:00" ],
+        "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+        "url" : [ "https://twitter.com/ZoeSchiffer", "http://www.instagram.com/zoekschiffer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why? Well, the company fired a bunch of employees who had access. On Slack, one engineer said the TwitterDev org on GitHub has 519 members, most of whom do not work at Twitter anymore. Some still have owner permissions — like the ability to rename or delete an org entirely. 2/" ],
+    "in-reply-to" : [ "https://twitter.com/ZoeSchiffer/status/1602663271911358466" ],
+    "published" : [ "2022-12-13T13:56:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1602663689919905795" ],
+    "url" : [ "https://twitter.com/ZoeSchiffer/status/1602663689919905795" ]
+  },
+  "type" : [ "h-entry" ]
+}
