@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Alexandria, VA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jesse Stanchak" ],
+        "nickname" : [ "jstanchak" ],
+        "numeric-id" : [ "18139634" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1566527678773170176/GbWPqcxr.jpg" ],
+        "published" : [ "2008-12-15T16:27:12+00:00" ],
+        "uid" : [ "tag:twitter.com:jstanchak" ],
+        "url" : [ "https://twitter.com/jstanchak" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Tech bros love AI because they’re convinced they’ll never be replaced by a computer.\nThe sad thing is, they’re right. AIs are only designed to replace useful people.</div>",
+      "value" : "Tech bros love AI because they’re convinced they’ll never be replaced by a computer.\nThe sad thing is, they’re right. AIs are only designed to replace useful people."
+    } ],
+    "published" : [ "2022-12-13T19:26:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1602746808631197698" ],
+    "url" : [ "https://twitter.com/jstanchak/status/1602746808631197698" ]
+  },
+  "type" : [ "h-entry" ]
+}
