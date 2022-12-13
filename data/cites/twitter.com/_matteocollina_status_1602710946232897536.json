@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Forlì, Emilia Romagna" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matteo Collina" ],
+        "nickname" : [ "matteocollina" ],
+        "numeric-id" : [ "15979784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541698320443314179/4Cp5IrGB.jpg" ],
+        "published" : [ "2008-08-25T10:17:31+00:00" ],
+        "uid" : [ "tag:twitter.com:matteocollina" ],
+        "url" : [ "https://twitter.com/matteocollina", "https://nodeland.dev/", "https://fosstodon.org/@mcollina" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I consider it rude when people bump the package version in package.json. Deciding on  which release something ships is a maintainer's  responsibility. Is it just me?" ],
+    "published" : [ "2022-12-13T17:04:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1602710946232897536" ],
+    "url" : [ "https://twitter.com/matteocollina/status/1602710946232897536" ]
+  },
+  "type" : [ "h-entry" ]
+}
