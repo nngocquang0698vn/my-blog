@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">📢 Introducing JUST 🚀\n\nJust is a command line toolkit for developing <a href=\"https://twitter.com/springboot\">@springboot</a> applications:\n\n👉 <a href=\"https://just.maciejwalkowiak.com/\">just.maciejwalkowiak.com</a>\n\nIt's like a superpower for 🍃Spring - makes you not only faster developer but also a happier person!\n\nLets dive into Just features 🧵</div>",
+      "value" : "📢 Introducing JUST 🚀\n\nJust is a command line toolkit for developing @springboot applications:\n\n👉 just.maciejwalkowiak.com\n\nIt's like a superpower for 🍃Spring - makes you not only faster developer but also a happier person!\n\nLets dive into Just features 🧵"
+    } ],
+    "published" : [ "2022-12-14T09:17:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1602955934086713345" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1602955934086713345" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1602943681366990848/pu/vid/1280x720/8phyme1YatKO2gSw.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
