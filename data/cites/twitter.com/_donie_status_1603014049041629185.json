@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Donie O'Sullivan" ],
+        "nickname" : [ "donie" ],
+        "numeric-id" : [ "230787751" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1423780424506019845/uKPwKAJO.jpg" ],
+        "published" : [ "2010-12-26T17:40:14+00:00" ],
+        "uid" : [ "tag:twitter.com:donie" ],
+        "url" : [ "https://twitter.com/donie", "https://www.cnn.com/profiles/donie-osullivan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It looks like <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> has killed the account that was tracking the location of his jet (using publicly available information) \n\n<a href=\"https://twitter.com/ElonJet\">@ElonJet</a></div>",
+      "value" : "It looks like @elonmusk has killed the account that was tracking the location of his jet (using publicly available information) \n\n@ElonJet"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fj8MqIVX0AIzUM7.jpg" ],
+    "published" : [ "2022-12-14T13:08:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1603014049041629185" ],
+    "url" : [ "https://twitter.com/donie/status/1603014049041629185" ]
+  },
+  "type" : [ "h-entry" ]
+}
