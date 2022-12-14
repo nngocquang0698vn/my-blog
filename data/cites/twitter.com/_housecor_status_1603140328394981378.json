@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525874017630035970/veQQouGw.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://pluralsight.com", "http://reactjsconsulting.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I only use ESLint warnings, no errors.\n\nHere's why: Locally, ESLint errors may fail some processes, and thus, force me to fix something immediately before I can continue work. \n\nA warning never blocks work.\n\nSo, I can delay fixing the issue until I'm ready to open a PR.\n\n1/2</div>",
+      "value" : "I only use ESLint warnings, no errors.\n\nHere's why: Locally, ESLint errors may fail some processes, and thus, force me to fix something immediately before I can continue work. \n\nA warning never blocks work.\n\nSo, I can delay fixing the issue until I'm ready to open a PR.\n\n1/2"
+    } ],
+    "published" : [ "2022-12-14T21:30:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1603140328394981378" ],
+    "url" : [ "https://twitter.com/housecor/status/1603140328394981378" ]
+  },
+  "type" : [ "h-entry" ]
+}
