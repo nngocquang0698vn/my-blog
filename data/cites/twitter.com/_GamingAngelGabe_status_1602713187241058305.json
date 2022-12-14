@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gabe Gurwin" ],
+        "nickname" : [ "GamingAngelGabe" ],
+        "numeric-id" : [ "22291643" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/988739153805369344/2MqBN34q.jpg" ],
+        "published" : [ "2009-02-28T20:23:34+00:00" ],
+        "uid" : [ "tag:twitter.com:GamingAngelGabe" ],
+        "url" : [ "https://twitter.com/GamingAngelGabe", "http://gamespot.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "this is considered essentially coerced assimilation, it sucks\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DaranDark\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/FLKDayton\"></a>",
+      "value" : "this is considered essentially coerced assimilation, it sucks"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/DaranDark/status/1602572313945427968" ],
+    "published" : [ "2022-12-13T17:12:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1602713187241058305" ],
+    "url" : [ "https://twitter.com/GamingAngelGabe/status/1602713187241058305" ]
+  },
+  "type" : [ "h-entry" ]
+}
