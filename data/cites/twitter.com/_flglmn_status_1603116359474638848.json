@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ken Klippenstein" ],
+          "nickname" : [ "kenklippenstein" ],
+          "numeric-id" : [ "1634248890" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1402483999558279169/U_xKM-E1.jpg" ],
+          "published" : [ "2013-07-31T01:41:01+00:00" ],
+          "uid" : [ "tag:twitter.com:kenklippenstein" ],
+          "url" : [ "https://twitter.com/kenklippenstein", "https://kenklippenstein.substack.com/", "http://KENKLIPPENSTEIN.SUBSTACK.COM" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Twitter has permabanned Jack Sweeney, who ran the Elon Jets account (also banned)" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fj9mg35WQAEbwAS.jpg" ],
+      "published" : [ "2022-12-14T19:40:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1603112711025475589" ],
+      "url" : [ "https://twitter.com/kenklippenstein/status/1603112711025475589" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "flglmn" ],
+        "nickname" : [ "flglmn" ],
+        "numeric-id" : [ "165565949" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/804877105418960896/tOO9LEmA.jpg" ],
+        "published" : [ "2010-07-11T23:37:06+00:00" ],
+        "uid" : [ "tag:twitter.com:flglmn" ],
+        "url" : [ "https://twitter.com/flglmn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "lol this wouldn't even have been particularly notable imo if he hadn't specifically and gratuitously made a big deal about how he wouldn't" ],
+    "published" : [ "2022-12-14T19:54:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1603116359474638848" ],
+    "url" : [ "https://twitter.com/flglmn/status/1603116359474638848" ]
+  },
+  "type" : [ "h-entry" ]
+}
