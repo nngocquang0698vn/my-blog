@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "hopeless brexit kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "laura" ],
+        "nickname" : [ "freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1582830852890890270/iLZgh40-.jpg" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://www.laura.monster" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i love to diss on mastodon and this actually comes from a rather unfair frustration that like a lot of OSS its just trying to reskin the big alternative, twitter (toots, seriously?) in a clunky way instead of making anything new. it’s funny to see jack doing that to masto now" ],
+    "in-reply-to" : [ "https://twitter.com/freezydorito/status/1603024922292297728" ],
+    "published" : [ "2022-12-14T13:52:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1603025174030438400" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1603025174030438400" ]
+  },
+  "type" : [ "h-entry" ]
+}
