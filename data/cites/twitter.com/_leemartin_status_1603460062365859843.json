@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lee Martin" ],
+        "nickname" : [ "leemartin" ],
+        "numeric-id" : [ "12920142" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592652088990994433/dSBm3MsK.jpg" ],
+        "published" : [ "2008-01-31T21:51:45+00:00" ],
+        "uid" : [ "tag:twitter.com:leemartin" ],
+        "url" : [ "https://twitter.com/leemartin", "https://www.leemartin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is my Spotify Wrapped! Thanks <a href=\"https://twitter.com/Netlify\">@Netlify</a> for another incredible year of development! <a href=\"https://twitter.com/search?q=%23netlifriend\">#netlifriend</a> My loyalty to <a href=\"https://twitter.com/nuxt_js\">@nuxt_js</a> cannot be questioned. <a href=\"https://twitter.com/i/web/status/1603460062365859843\">twitter.com/i/web/status/1…</a>",
+      "value" : "This is my Spotify Wrapped! Thanks @Netlify for another incredible year of development! #netlifriend My loyalty to @nuxt_js cannot be questioned. twitter.com/i/web/status/1…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FkCgqMaXEAoe314.jpg" ],
+    "published" : [ "2022-12-15T18:40:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1603460062365859843" ],
+    "url" : [ "https://twitter.com/leemartin/status/1603460062365859843" ]
+  },
+  "type" : [ "h-entry" ]
+}
