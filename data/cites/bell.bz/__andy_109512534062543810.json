@@ -1,0 +1,229 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://bell.bz/@andy/109512534062543810" ],
+    "uid" : [ "https://bell.bz/@andy/109512534062543810" ],
+    "published" : [ "2022-12-14T14:37:36+00:00" ],
+    "content" : [ {
+      "html" : "<p>\"webfinger\" is just one of those names that british people cannot get comfortable with</p>",
+      "value" : "\"webfinger\" is just one of those names that british people cannot get comfortable with",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Andy Bell" ],
+        "url" : [ "https://bell.bz/@andy" ],
+        "photo" : [ {
+          "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Andy Bell"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy/109512534940326631" ],
+        "uid" : [ "https://bell.bz/@andy/109512534940326631" ],
+        "published" : [ "2022-12-14T14:37:50+00:00" ],
+        "content" : [ {
+          "html" : "<p>brb just updating my nonce keys</p>",
+          "value" : "brb just updating my nonce keys",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andy Bell" ],
+            "url" : [ "https://bell.bz/@andy" ],
+            "photo" : [ {
+              "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Andy Bell"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Dec 14, 2022, 14:37 Andy Bell @andy@bell.bz\nbrb just updating my nonce keys 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://wptoots.social/@tomfinley/109512569699817972" ],
+        "uid" : [ "https://wptoots.social/@tomfinley/109512569699817972" ],
+        "published" : [ "2022-12-14T14:46:40+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> If it's helpful, think of them as a Goldfinger (the 1990s ska group) tribute band who all dress as Spider-Man...</p>",
+          "value" : "@andy If it's helpful, think of them as a Goldfinger (the 1990s ska group) tribute band who all dress as Spider-Man...",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tom Finley" ],
+            "url" : [ "https://wptoots.social/@tomfinley" ],
+            "photo" : [ {
+              "value" : "https://bell.bz/avatars/original/missing.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Tom Finley"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bell.bz/@andy" ],
+          "name" : [ "@andy" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Dec 14, 2022, 14:46 Tom Finley @tomfinley@wptoots.social\n@andy If it's helpful, think of them as a Goldfinger (the 1990s ska group) tribute band who all dress as Spider-Man... 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://front-end.social/@mxbck/109512587649433547" ],
+        "uid" : [ "https://front-end.social/@mxbck/109512587649433547" ],
+        "published" : [ "2022-12-14T14:51:14+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> nah, I'm Austrian and it still sounds weird to me.</p>",
+          "value" : "@andy nah, I'm Austrian and it still sounds weird to me.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Max Böck" ],
+            "url" : [ "https://front-end.social/@mxbck" ],
+            "photo" : [ {
+              "value" : "https://bell.bz/system/cache/accounts/avatars/109/365/886/819/732/632/original/e7b04197c5933f48.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Max Böck"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bell.bz/@andy" ],
+          "name" : [ "@andy" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Dec 14, 2022, 14:51 Max Böck @mxbck@front-end.social\n@andy nah, I'm Austrian and it still sounds weird to me. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://front-end.social/@sturobson/109512646572204569" ],
+        "uid" : [ "https://front-end.social/@sturobson/109512646572204569" ],
+        "published" : [ "2022-12-14T15:06:13+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> </p><p>a web spiders touch, <br>so a cold web fingers.</p>",
+          "value" : "@andy\na web spiders touch,\nso a cold web fingers.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Stuart Robson" ],
+            "url" : [ "https://front-end.social/@sturobson" ],
+            "photo" : [ {
+              "value" : "https://bell.bz/system/cache/accounts/avatars/109/366/055/218/548/715/original/8e652725d2dc80f6.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Stuart Robson"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bell.bz/@andy" ],
+          "name" : [ "@andy" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Dec 14, 2022, 15:06 Stuart Robson @sturobson@front-end.social\n@andy\na web spiders touch,\nso a cold web fingers. 0"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://bell.bz/@andy/109512589596059634" ],
+      "uid" : [ "https://bell.bz/@andy/109512589596059634" ],
+      "published" : [ "2022-12-14T14:51:44+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://wptoots.social/@tomfinley\" class=\"u-url mention\">@<span>tomfinley</span></a></span> brb just firing up tony hawks 2</p>",
+        "value" : "@tomfinley brb just firing up tony hawks 2",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Andy Bell" ],
+          "url" : [ "https://bell.bz/@andy" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/system/accounts/avatars/109/365/745/675/700/410/original/c54453ecf2147387.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Andy Bell"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://wptoots.social/@tomfinley" ],
+        "name" : [ "@tomfinley" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://wptoots.social/@tomfinley/109512592436719785" ],
+      "uid" : [ "https://wptoots.social/@tomfinley/109512592436719785" ],
+      "published" : [ "2022-12-14T14:52:27+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://bell.bz/@andy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andy</span></a></span> good thing you're mostly through the work day over there 😅</p>",
+        "value" : "@andy good thing you're mostly through the work day over there 😅",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Tom Finley" ],
+          "url" : [ "https://wptoots.social/@tomfinley" ],
+          "photo" : [ {
+            "value" : "https://bell.bz/avatars/original/missing.png",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Tom Finley"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bell.bz/@andy" ],
+        "name" : [ "@andy" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
