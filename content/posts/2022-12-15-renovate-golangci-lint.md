@@ -11,7 +11,9 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/6661d55f5a.jpeg"
-slug: "renovate-one-off"
+slug: "renovate-golangci-lint"
+aliases:
+- /posts/2022/12/15/renovate-golangci-lint/
 ---
 Although I used to recommend using a [`tools.go` to track the dependency versions](https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/) for [`golangci-lint`](https://github.com/golangci/golangci-lint), I've since learned why it's not the recommended route, and have gone back to the [official install instructions](https://golangci-lint.run/usage/install/#other-ci).
 
