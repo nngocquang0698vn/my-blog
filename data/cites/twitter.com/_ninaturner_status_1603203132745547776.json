@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cleveland, OH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nina Turner" ],
+        "nickname" : [ "ninaturner" ],
+        "numeric-id" : [ "188793260" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586376822677176320/pYeKA0BV.jpg" ],
+        "published" : [ "2010-09-09T16:15:09+00:00" ],
+        "uid" : [ "tag:twitter.com:ninaturner" ],
+        "url" : [ "https://twitter.com/ninaturner", "http://youtube.com/unbossedtyt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Credit scores were created in 1989.\n\nWe can live without them.</div>",
+      "value" : "Credit scores were created in 1989.\n\nWe can live without them."
+    } ],
+    "published" : [ "2022-12-15T01:39:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1603203132745547776" ],
+    "url" : [ "https://twitter.com/ninaturner/status/1603203132745547776" ]
+  },
+  "type" : [ "h-entry" ]
+}
