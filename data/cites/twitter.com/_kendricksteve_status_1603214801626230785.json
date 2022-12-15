@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, Texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Kendrick" ],
+        "nickname" : [ "kendricksteve" ],
+        "numeric-id" : [ "577656808" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/985567532923924481/AgtCpZ5q.jpg" ],
+        "published" : [ "2012-05-12T02:24:16+00:00" ],
+        "uid" : [ "tag:twitter.com:kendricksteve" ],
+        "url" : [ "https://twitter.com/kendricksteve", "http://kerpartners.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "🤣\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_jfeldman\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/swardley\"></a>",
+      "value" : "🤣"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/_jfeldman/status/1603212826029576193" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fj_DXOsVUAEUtAf.jpg" ],
+    "published" : [ "2022-12-15T02:26:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1603214801626230785" ],
+    "url" : [ "https://twitter.com/kendricksteve/status/1603214801626230785" ]
+  },
+  "type" : [ "h-entry" ]
+}
