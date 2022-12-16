@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I read it as you are trolling for attention.\n\nYou are a person of some reputation, that for whatever reason people respect; for heaven sake, Bob, take a position.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/unclebobmartin\"></a>",
+      "value" : "I read it as you are trolling for attention.\n\nYou are a person of some reputation, that for whatever reason people respect; for heaven sake, Bob, take a position."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/unclebobmartin/status/1603592268086231040" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Wailuku, HI" ],
+        "uid" : [ "tag:twitter.com:1ad33d5e2c3e5d0b" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-12-16T04:11:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1603603793404301313" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1603603793404301313" ]
+  },
+  "type" : [ "h-entry" ]
+}
