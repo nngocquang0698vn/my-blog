@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "SF" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alfredo Andere" ],
+          "nickname" : [ "AlfredoAndere" ],
+          "numeric-id" : [ "420422116" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1532166158110953472/HIlVFyiy.jpg" ],
+          "published" : [ "2011-11-24T16:13:03+00:00" ],
+          "uid" : [ "tag:twitter.com:AlfredoAndere" ],
+          "url" : [ "https://twitter.com/AlfredoAndere", "http://alfredoandere.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "If this resonates, come work with us. <a href=\"http://kenbw.com/call.html\">kenbw.com/call.html</a>",
+        "value" : "If this resonates, come work with us. kenbw.com/call.html"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FkDQvJlUoAAJKEj.jpg" ],
+      "published" : [ "2022-12-15T22:03:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1603510981212119048" ],
+      "url" : [ "https://twitter.com/AlfredoAndere/status/1603510981212119048" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Delhi, India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Suffy" ],
+        "nickname" : [ "drsuffy" ],
+        "numeric-id" : [ "1445737836829757445" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603780859294883845/DOpg0efN.jpg" ],
+        "published" : [ "2021-10-06T13:09:22+00:00" ],
+        "uid" : [ "tag:twitter.com:drsuffy" ],
+        "url" : [ "https://twitter.com/drsuffy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Y'all can't even make a decent webpage ffs nah hard pass" ],
+    "published" : [ "2022-12-16T20:26:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1603849052608552960" ],
+    "url" : [ "https://twitter.com/drsuffy/status/1603849052608552960" ]
+  },
+  "type" : [ "h-entry" ]
+}
