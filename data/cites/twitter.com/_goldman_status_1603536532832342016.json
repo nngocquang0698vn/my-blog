@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Goldman" ],
+        "nickname" : [ "goldman" ],
+        "numeric-id" : [ "291" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599463245646921728/b1S6TZDz.jpg" ],
+        "published" : [ "2006-05-20T19:46:03+00:00" ],
+        "uid" : [ "tag:twitter.com:goldman" ],
+        "url" : [ "https://twitter.com/goldman", "http://dunepod.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I guess they were banned for revealing the location of where all the Twitter users are going." ],
+    "photo" : [ "https://pbs.twimg.com/media/FkDn-lZUUAA7-VP.jpg" ],
+    "published" : [ "2022-12-15T23:44:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1603536532832342016" ],
+    "url" : [ "https://twitter.com/goldman/status/1603536532832342016" ]
+  },
+  "type" : [ "h-entry" ]
+}
