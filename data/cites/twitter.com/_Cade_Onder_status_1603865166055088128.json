@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1603859750168301569" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Iowa" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cade Onder" ],
+        "nickname" : [ "Cade_Onder" ],
+        "numeric-id" : [ "432204316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588699267916566528/1UNebbII.jpg" ],
+        "published" : [ "2011-12-09T04:39:16+00:00" ],
+        "uid" : [ "tag:twitter.com:Cade_Onder" ],
+        "url" : [ "https://twitter.com/Cade_Onder" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">nobody:\n\na Tesla car sitting in someone’s garage:</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1603859750168301569\">twitter.com/elonmusk/statu…</a>",
+      "value" : "nobody:\n\na Tesla car sitting in someone’s garage:"
+    } ],
+    "published" : [ "2022-12-16T21:30:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1603865166055088128" ],
+    "url" : [ "https://twitter.com/Cade_Onder/status/1603865166055088128" ]
+  },
+  "type" : [ "h-entry" ]
+}
