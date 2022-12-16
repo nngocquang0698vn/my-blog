@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Rosie Card" ],
+          "nickname" : [ "RosemaryCard" ],
+          "numeric-id" : [ "1113229994" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1244120868130709504/u8WdE06Q.jpg" ],
+          "published" : [ "2013-01-23T02:32:17+00:00" ],
+          "uid" : [ "tag:twitter.com:RosemaryCard" ],
+          "url" : [ "https://twitter.com/RosemaryCard", "http://www.cardwear.co" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "MEN! Every list says you want beard oil, a pocket knife, or something leather. WHAT DO YOU ACTUALLY WANT?" ],
+      "published" : [ "2022-12-15T06:29:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1603276147369775105" ],
+      "url" : [ "https://twitter.com/RosemaryCard/status/1603276147369775105" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Me and <a href=\"https://twitter.com/operaqueenie\">@operaqueenie</a> just passed our 10 year anniversary in September. We have both largely graduated to \"here is a list of gifts I would like. Choose 1 or 2 of these.\"",
+      "value" : "Me and @operaqueenie just passed our 10 year anniversary in September. We have both largely graduated to \"here is a list of gifts I would like. Choose 1 or 2 of these.\""
+    } ],
+    "published" : [ "2022-12-16T19:57:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1603841713784492032" ],
+    "url" : [ "https://twitter.com/polotek/status/1603841713784492032" ]
+  },
+  "type" : [ "h-entry" ]
+}
