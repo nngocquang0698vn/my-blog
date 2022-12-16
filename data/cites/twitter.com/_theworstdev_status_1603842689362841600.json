@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Virginia Beach, VA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kurt Kemple" ],
+        "nickname" : [ "theworstdev" ],
+        "numeric-id" : [ "1056152730" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1585041050607001602/DEJN_Cf4.jpg" ],
+        "published" : [ "2013-01-02T21:34:24+00:00" ],
+        "uid" : [ "tag:twitter.com:theworstdev" ],
+        "url" : [ "https://twitter.com/theworstdev", "https://theworst.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This resonates with my list of places I'd never work.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AlfredoAndere\"></a>",
+      "value" : "This resonates with my list of places I'd never work."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/AlfredoAndere/status/1603510981212119048" ],
+    "published" : [ "2022-12-16T20:01:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1603842689362841600" ],
+    "url" : [ "https://twitter.com/theworstdev/status/1603842689362841600" ]
+  },
+  "type" : [ "h-entry" ]
+}
