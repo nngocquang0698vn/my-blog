@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“Everyone is fine” is an opinion, not fact.\n\nStop bullshitting Bob.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/unclebobmartin\"></a>",
+      "value" : "“Everyone is fine” is an opinion, not fact.\n\nStop bullshitting Bob."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/unclebobmartin/status/1603609346247720960" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Kaanapali, HI" ],
+        "uid" : [ "tag:twitter.com:386eee0c027ac681" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-12-16T05:24:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1603622110915465217" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1603622110915465217" ]
+  },
+  "type" : [ "h-entry" ]
+}
