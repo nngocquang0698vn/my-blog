@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "257.34,-1.47" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shaun" ],
+        "nickname" : [ "sdh100Shaun" ],
+        "numeric-id" : [ "257573" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/908055077520379905/mAVLMD60.jpg" ],
+        "published" : [ "2006-12-26T09:09:15+00:00" ],
+        "uid" : [ "tag:twitter.com:sdh100Shaun" ],
+        "url" : [ "https://twitter.com/sdh100Shaun", "http://shaunhare.co.uk?mastodon=https://cloud-native.social/@shaunhare" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "what colour?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "what colour?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1603809865448800256" ],
+    "published" : [ "2022-12-16T23:06:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1603889236960313345" ],
+    "url" : [ "https://twitter.com/sdh100Shaun/status/1603889236960313345" ]
+  },
+  "type" : [ "h-entry" ]
+}
