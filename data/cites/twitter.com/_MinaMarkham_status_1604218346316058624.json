@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "KS → TX → NYC → Oakland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mina Markham" ],
+        "nickname" : [ "MinaMarkham" ],
+        "numeric-id" : [ "15442853" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541527353016217600/jpmVsffG.jpg" ],
+        "published" : [ "2008-07-15T17:05:02+00:00" ],
+        "uid" : [ "tag:twitter.com:MinaMarkham" ],
+        "url" : [ "https://twitter.com/MinaMarkham", "http://mina.codes", "http://front-end.social/@mina" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’m happy someone got the joke 😉\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mvelic\"></a>",
+      "value" : "I’m happy someone got the joke 😉"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mvelic/status/1604217757561720832" ],
+    "published" : [ "2022-12-17T20:53:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1604218346316058624" ],
+    "url" : [ "https://twitter.com/MinaMarkham/status/1604218346316058624" ]
+  },
+  "type" : [ "h-entry" ]
+}
