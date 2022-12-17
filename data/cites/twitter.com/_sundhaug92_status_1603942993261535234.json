@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Norway" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Martin Sundhaug (@sundhaug92@mastodon.social)" ],
+        "nickname" : [ "sundhaug92" ],
+        "numeric-id" : [ "76121432" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/670457923672408065/2COXmW9p.jpg" ],
+        "published" : [ "2009-09-21T19:45:09+00:00" ],
+        "uid" : [ "tag:twitter.com:sundhaug92" ],
+        "url" : [ "https://twitter.com/sundhaug92", "https://sundhaug.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Are we talking south-facing hill, or are we talking \"I need a spinal-transplant\"?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/H3KTlC\"></a>",
+      "value" : "Are we talking south-facing hill, or are we talking \"I need a spinal-transplant\"?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/H3KTlC/status/1603872380908101651" ],
+    "published" : [ "2022-12-17T02:39:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1603942993261535234" ],
+    "url" : [ "https://twitter.com/sundhaug92/status/1603942993261535234" ]
+  },
+  "type" : [ "h-entry" ]
+}
