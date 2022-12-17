@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NY/MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Drozdov 💬 @mrdrozdov@sigmoid.social" ],
+        "nickname" : [ "mrdrozdov" ],
+        "numeric-id" : [ "184338062" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589440470828081153/6NthicvQ.jpg" ],
+        "published" : [ "2010-08-29T08:34:34+00:00" ],
+        "uid" : [ "tag:twitter.com:mrdrozdov" ],
+        "url" : [ "https://twitter.com/mrdrozdov", "https://mrdrozdov.github.io/", "http://sigmoid.social/@mrdrozdov" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I mean that would also be solved by a training.txt. All websites could have a default training.txt with something like train=disallow.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "I mean that would also be solved by a training.txt. All websites could have a default training.txt with something like train=disallow."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1603887234515705857" ],
+    "published" : [ "2022-12-16T23:07:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1603889484482973696" ],
+    "url" : [ "https://twitter.com/mrdrozdov/status/1603889484482973696" ]
+  },
+  "type" : [ "h-entry" ]
+}
