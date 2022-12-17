@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "@gcluley@mastodon.green" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Graham Cluley 🇺🇦" ],
+          "nickname" : [ "gcluley" ],
+          "numeric-id" : [ "11791512" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1254322735758671873/X1Q6M-hJ.jpg" ],
+          "published" : [ "2008-01-03T09:45:18+00:00" ],
+          "uid" : [ "tag:twitter.com:gcluley" ],
+          "url" : [ "https://twitter.com/gcluley", "https://grahamcluley.com", "http://mastodon.green/@gcluley" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "“Account update failed. Description is considered malware.” 🤣" ],
+      "photo" : [ {
+        "alt" : "“Account update failed. Description is considered malware.”",
+        "value" : "https://pbs.twimg.com/media/FkHCxo9X0AMgfxl.jpg"
+      } ],
+      "published" : [ "2022-12-16T15:40:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1603777110937636868" ],
+      "url" : [ "https://twitter.com/gcluley/status/1603777110937636868" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "krebsonsecurity @ gmail.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "briankrebs" ],
+        "nickname" : [ "briankrebs" ],
+        "numeric-id" : [ "22790881" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518740904311508998/zq2bxuIw.jpg" ],
+        "published" : [ "2009-03-04T15:57:39+00:00" ],
+        "uid" : [ "tag:twitter.com:briankrebs" ],
+        "url" : [ "https://twitter.com/briankrebs", "http://krebsonsecurity.com", "http://infosec.exchange/@briankrebs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Let this sink in: <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> hath decreed that all links to Mastodon should be flagged as malware. This is, of course, a baldfaced lie, and he knows it. So the CEO of Twitter is lying to everyone on Twitter, and to all its advertisers, even to all of his defenders.",
+      "value" : "Let this sink in: @elonmusk hath decreed that all links to Mastodon should be flagged as malware. This is, of course, a baldfaced lie, and he knows it. So the CEO of Twitter is lying to everyone on Twitter, and to all its advertisers, even to all of his defenders."
+    } ],
+    "published" : [ "2022-12-16T16:30:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1603789611192307716" ],
+    "url" : [ "https://twitter.com/briankrebs/status/1603789611192307716" ]
+  },
+  "type" : [ "h-entry" ]
+}
