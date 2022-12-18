@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "octodon.social/@cwebber (Christine Lemmer-Webber)" ],
+          "nickname" : [ "dustyweb" ],
+          "numeric-id" : [ "630517931" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1552997427086499848/pVoXT5vb.jpg" ],
+          "published" : [ "2012-07-08T21:00:57+00:00" ],
+          "uid" : [ "tag:twitter.com:dustyweb" ],
+          "url" : [ "https://twitter.com/dustyweb", "https://dustycloud.org/", "http://octodon.social/@cwebber" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">this is great, this new policy of not allowing promoting other social networks is good\n\nI am part of the problem\n\nplease ban me <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> for co-authoring activitypub, the protocol used by, as you say, \"masturbateodon\"\n\nnothing could make me happier\nban me birdsite daddy</div>",
+        "value" : "this is great, this new policy of not allowing promoting other social networks is good\n\nI am part of the problem\n\nplease ban me @elonmusk for co-authoring activitypub, the protocol used by, as you say, \"masturbateodon\"\n\nnothing could make me happier\nban me birdsite daddy"
+      } ],
+      "published" : [ "2022-12-18T18:22:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1604542605638909954" ],
+      "url" : [ "https://twitter.com/dustyweb/status/1604542605638909954" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "octodon.social/@cwebber (Christine Lemmer-Webber)" ],
+        "nickname" : [ "dustyweb" ],
+        "numeric-id" : [ "630517931" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1552997427086499848/pVoXT5vb.jpg" ],
+        "published" : [ "2012-07-08T21:00:57+00:00" ],
+        "uid" : [ "tag:twitter.com:dustyweb" ],
+        "url" : [ "https://twitter.com/dustyweb", "https://dustycloud.org/", "http://octodon.social/@cwebber" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Tired: linking to your forbidden decentralized networking profile\nWired: linking to your forbidden decentralized networking protocol\n<a href=\"https://www.w3.org/TR/activitypub/\">w3.org/TR/activitypub/</a>\n\nban me birdsite daddy</div>",
+      "value" : "Tired: linking to your forbidden decentralized networking profile\nWired: linking to your forbidden decentralized networking protocol\nw3.org/TR/activitypub/\n\nban me birdsite daddy"
+    } ],
+    "published" : [ "2022-12-18T21:00:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1604582390847922177" ],
+    "url" : [ "https://twitter.com/dustyweb/status/1604582390847922177" ]
+  },
+  "type" : [ "h-entry" ]
+}
