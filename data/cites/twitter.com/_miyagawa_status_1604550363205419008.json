@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tatsuhiko Miyagawa" ],
+        "nickname" : [ "miyagawa" ],
+        "numeric-id" : [ "731253" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1107507727/userpic-square.jpg" ],
+        "published" : [ "2007-01-30T08:36:47+00:00" ],
+        "uid" : [ "tag:twitter.com:miyagawa" ],
+        "url" : [ "https://twitter.com/miyagawa", "https://mastodon.social/@miyagawa" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You can redirect yourdomain\\.com/.well-known/webfinger so that you can search for @yourid@yourdomain\\.com in the Mastodon search bar, but the UX is not very nice.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kelseyhightower\"></a>",
+      "value" : "You can redirect yourdomain\\.com/.well-known/webfinger so that you can search for @yourid@yourdomain\\.com in the Mastodon search bar, but the UX is not very nice."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kelseyhightower/status/1604546204573974529" ],
+    "published" : [ "2022-12-18T18:53:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1604550363205419008" ],
+    "url" : [ "https://twitter.com/miyagawa/status/1604550363205419008" ]
+  },
+  "type" : [ "h-entry" ]
+}
