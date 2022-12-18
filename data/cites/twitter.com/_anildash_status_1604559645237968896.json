@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anildash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593220093433057281/tYEbecqQ.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anildash.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Make your own links page, for free, and use your own domain name so you have control over it. <a href=\"https://glitch.com/glitch-in-bio\">glitch.com/glitch-in-bio</a> This will also give you a page that verifies your mastodon account, also for free. If you don’t own your website, you are not in control.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterSupport\"></a>",
+      "value" : "Make your own links page, for free, and use your own domain name so you have control over it. glitch.com/glitch-in-bio This will also give you a page that verifies your mastodon account, also for free. If you don’t own your website, you are not in control."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TwitterSupport/status/1604531261791522817" ],
+    "published" : [ "2022-12-18T19:30:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1604559645237968896" ],
+    "url" : [ "https://twitter.com/anildash/status/1604559645237968896" ]
+  },
+  "type" : [ "h-entry" ]
+}
