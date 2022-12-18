@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Support" ],
+          "nickname" : [ "TwitterSupport" ],
+          "numeric-id" : [ "17874544" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao.jpg" ],
+          "published" : [ "2008-12-04T18:51:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSupport" ],
+          "url" : [ "https://twitter.com/TwitterSupport", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Specifically, we will remove accounts created solely for the purpose of promoting other social platforms and content that contains links or usernames for the following platforms: Facebook, Instagram, Mastodon, Truth Social, Tribel, Nostr and Post." ],
+      "in-reply-to" : [ "https://twitter.com/TwitterSupport/status/1604531261791522817" ],
+      "published" : [ "2022-12-18T17:37:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1604531265419591681" ],
+      "url" : [ "https://twitter.com/TwitterSupport/status/1604531265419591681" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/twittersupport…" ],
+      "url" : [ "https://twitter.com/twittersupport/status/1604531265419591681" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren (parody)" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1594590544176582656/NMUTV2v_.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is the biggest possible advertisement for Mastodon, delivered in an attempt to counter exactly that. \n\nAbsolutely unhinged decision.</div>\n<a class=\"tag\" href=\"https://twitter.com/twittersupport/status/1604531265419591681\">twitter.com/twittersupport…</a>",
+      "value" : "This is the biggest possible advertisement for Mastodon, delivered in an attempt to counter exactly that. \n\nAbsolutely unhinged decision."
+    } ],
+    "published" : [ "2022-12-18T20:59:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1604582131807690753" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1604582131807690753" ]
+  },
+  "type" : [ "h-entry" ]
+}
