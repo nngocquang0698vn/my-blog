@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "NewsThump" ],
+        "nickname" : [ "newsthump" ],
+        "numeric-id" : [ "21185021" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1579780501065408512/Gagm3ZDW.jpg" ],
+        "published" : [ "2009-02-18T10:35:53+00:00" ],
+        "uid" : [ "tag:twitter.com:newsthump" ],
+        "url" : [ "https://twitter.com/newsthump", "https://www.newsthump.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This, from Jeremy Clarkson about Harry and Meghan is very surprising. He seemed like such a well-rounded chap when he was punching assistants for bringing him food that had gone a bit cold." ],
+    "photo" : [ "https://pbs.twimg.com/media/FkP6ucUWIAAyVVN.jpg" ],
+    "published" : [ "2022-12-18T09:01:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1604401571214802952" ],
+    "url" : [ "https://twitter.com/newsthump/status/1604401571214802952" ]
+  },
+  "type" : [ "h-entry" ]
+}
