@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Building" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gwendal Brossard" ],
+          "nickname" : [ "GwendalBrossard" ],
+          "numeric-id" : [ "1547124452596523008" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1572151372455313409/qq1yH56d.jpg" ],
+          "published" : [ "2022-07-13T07:43:56+00:00" ],
+          "uid" : [ "tag:twitter.com:GwendalBrossard" ],
+          "url" : [ "https://twitter.com/GwendalBrossard", "http://magicshot.app", "http://MagicShot.app" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "People who work 100% remotely and alone, do you sometimes miss having coworkers to talk to and interact with during the day? 🤔" ],
+      "published" : [ "2022-12-17T16:26:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1604150955238658048" ],
+      "url" : [ "https://twitter.com/GwendalBrossard/status/1604150955238658048" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Pomfret" ],
+        "nickname" : [ "Danomanic" ],
+        "numeric-id" : [ "163434328" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550044777642590208/z3_G6Dfj.jpg" ],
+        "published" : [ "2010-07-06T12:09:51+00:00" ],
+        "uid" : [ "tag:twitter.com:Danomanic" ],
+        "url" : [ "https://twitter.com/Danomanic", "https://www.dano.me.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Yes, the only interaction with people is via video calls.\n\nSometimes I just walk out at lunch to speak to another human (apart from my Wife and Baby).\n\nHowever wouldn't change it (apart from visiting the office mote often).</div>",
+      "value" : "Yes, the only interaction with people is via video calls.\n\nSometimes I just walk out at lunch to speak to another human (apart from my Wife and Baby).\n\nHowever wouldn't change it (apart from visiting the office mote often)."
+    } ],
+    "published" : [ "2022-12-18T09:15:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1604405019733905408" ],
+    "url" : [ "https://twitter.com/Danomanic/status/1604405019733905408" ]
+  },
+  "type" : [ "h-entry" ]
+}
