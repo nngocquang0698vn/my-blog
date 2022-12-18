@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Lengstorf ⚡️" ],
+        "nickname" : [ "jlengstorf" ],
+        "numeric-id" : [ "15668072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524064394157576193/tB5HL_ES.jpg" ],
+        "published" : [ "2008-07-30T23:49:03+00:00" ],
+        "uid" : [ "tag:twitter.com:jlengstorf" ],
+        "url" : [ "https://twitter.com/jlengstorf", "https://www.jason.af/links/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "“you wouldn’t link a Mastodon” in the style of the anti-piracy ads of meme legend",
+      "value" : "https://pbs.twimg.com/media/FkSYW9haEAAEh1s.jpg"
+    } ],
+    "published" : [ "2022-12-18T20:30:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1604574891034185729" ],
+    "url" : [ "https://twitter.com/jlengstorf/status/1604574891034185729" ]
+  },
+  "type" : [ "h-entry" ]
+}
