@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "info@getfrenchfootballnews.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Get French Football News" ],
+          "nickname" : [ "GFFN" ],
+          "numeric-id" : [ "790371762" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/697132551236927488/-QW2yePP.png" ],
+          "published" : [ "2012-08-29T23:37:57+00:00" ],
+          "uid" : [ "tag:twitter.com:GFFN" ],
+          "url" : [ "https://twitter.com/GFFN", "http://www.getfootballnewsfrance.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Elon Musk is at the World Cup final." ],
+      "photo" : [ "https://pbs.twimg.com/media/FkRGrtuWAAEfjV8.jpg" ],
+      "published" : [ "2022-12-18T14:33:49+00:00" ],
+      "uid" : [ "tag:twitter.com:1604485088481136640" ],
+      "url" : [ "https://twitter.com/GFFN/status/1604485088481136640" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Newcastle, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Stokel-Walker ~ @stokel@infosec.exchange" ],
+        "nickname" : [ "stokel" ],
+        "numeric-id" : [ "19760322" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389998643776827393/OOKVAZcc.jpg" ],
+        "published" : [ "2009-01-30T09:14:10+00:00" ],
+        "uid" : [ "tag:twitter.com:stokel" ],
+        "url" : [ "https://twitter.com/stokel", "https://linktr.ee/stokel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> this account is doxxing your live location - can we assume a ban or not?",
+      "value" : "Hey @elonmusk this account is doxxing your live location - can we assume a ban or not?"
+    } ],
+    "published" : [ "2022-12-18T14:47:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1604488537554001921" ],
+    "url" : [ "https://twitter.com/stokel/status/1604488537554001921" ]
+  },
+  "type" : [ "h-entry" ]
+}
