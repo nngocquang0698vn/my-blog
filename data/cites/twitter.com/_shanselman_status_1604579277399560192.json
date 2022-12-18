@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "That’s what the “fediverse” is about. And why it’s better than Post or others. It’s a spec. Don’t like Mastodon? Add ActivityPub to your blog. Use Pleroma, whatever you like!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DavidWells\"></a>",
+      "value" : "That’s what the “fediverse” is about. And why it’s better than Post or others. It’s a spec. Don’t like Mastodon? Add ActivityPub to your blog. Use Pleroma, whatever you like!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/DavidWells/status/1604575831405101056" ],
+    "published" : [ "2022-12-18T20:48:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1604579277399560192" ],
+    "url" : [ "https://twitter.com/shanselman/status/1604579277399560192" ]
+  },
+  "type" : [ "h-entry" ]
+}
