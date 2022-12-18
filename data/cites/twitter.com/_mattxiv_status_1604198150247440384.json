@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matt" ],
+        "nickname" : [ "mattxiv" ],
+        "numeric-id" : [ "2785011443" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491892762945409029/wvXhdrvx.jpg" ],
+        "published" : [ "2014-09-26T05:57:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mattxiv" ],
+        "url" : [ "https://twitter.com/mattxiv", "http://instagram.com/mattxiv" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "twitter has officially removed the feature that tells you what device a tweet was sent from and i just wanna say say dorothy we will never forget you." ],
+    "photo" : [ "https://pbs.twimg.com/media/FkNBtu_WQAEx9Ei.jpg", "https://pbs.twimg.com/media/FkNBtu_XEAAD9_g.jpg" ],
+    "published" : [ "2022-12-17T19:33:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1604198150247440384" ],
+    "url" : [ "https://twitter.com/mattxiv/status/1604198150247440384" ]
+  },
+  "type" : [ "h-entry" ]
+}
