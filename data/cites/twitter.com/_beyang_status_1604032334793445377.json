@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Beyang" ],
+        "nickname" : [ "beyang" ],
+        "numeric-id" : [ "16520821" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524086822527066113/-Rygm0Oq.jpg" ],
+        "published" : [ "2008-09-30T00:04:25+00:00" ],
+        "uid" : [ "tag:twitter.com:beyang" ],
+        "url" : [ "https://twitter.com/beyang", "https://sourcegraph.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why would I use these dopey brightness keys when I could just `echo 10000 | sudo tee /sys/class/backlight/intel_backlight/brightness`?" ],
+    "photo" : [ "https://pbs.twimg.com/media/FkKqzXPUoAACWDR.png" ],
+    "published" : [ "2022-12-17T08:34:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1604032334793445377" ],
+    "url" : [ "https://twitter.com/beyang/status/1604032334793445377" ]
+  },
+  "type" : [ "h-entry" ]
+}
