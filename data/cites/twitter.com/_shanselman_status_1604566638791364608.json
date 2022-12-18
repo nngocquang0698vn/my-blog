@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "So you’ve got a $44B problem and you’ve decided to solve it with Regular Expressions…" ],
+    "published" : [ "2022-12-18T19:57:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1604566638791364608" ],
+    "url" : [ "https://twitter.com/shanselman/status/1604566638791364608" ]
+  },
+  "type" : [ "h-entry" ]
+}
