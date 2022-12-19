@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eve Harms" ],
+        "nickname" : [ "EveHarmsWrites" ],
+        "numeric-id" : [ "1159293499562348546" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1512604664453230592/w_-xwcV3.jpg" ],
+        "published" : [ "2019-08-08T02:41:23+00:00" ],
+        "uid" : [ "tag:twitter.com:EveHarmsWrites" ],
+        "url" : [ "https://twitter.com/EveHarmsWrites", "https://eveharms.com/links", "http://amazon.com/dp/B0943BXBG1/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Guys a link tree is just a web page with links. You can do that on any website. Make a neocities page for it or something. Here’s the code:\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=“https://linkurl”&gt;link name&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=“https://linkurl2”&gt;link name&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;</div>",
+      "value" : "Guys a link tree is just a web page with links. You can do that on any website. Make a neocities page for it or something. Here’s the code:\n\n<ul>\n<li><a href=“https://linkurl”>link name</a></li>\n<li><a href=“https://linkurl2”>link name</a></li>\n</ul>"
+    } ],
+    "published" : [ "2022-12-18T22:14:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1604600975339098113" ],
+    "url" : [ "https://twitter.com/EveHarmsWrites/status/1604600975339098113" ]
+  },
+  "type" : [ "h-entry" ]
+}
