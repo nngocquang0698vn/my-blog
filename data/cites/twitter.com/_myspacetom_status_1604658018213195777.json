@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oahu, Hawaii" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Anderson" ],
+        "nickname" : [ "myspacetom" ],
+        "numeric-id" : [ "3393521" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237550450/mstom.jpg" ],
+        "published" : [ "2007-04-04T04:46:58+00:00" ],
+        "uid" : [ "tag:twitter.com:myspacetom" ],
+        "url" : [ "https://twitter.com/myspacetom", "http://instagram.com/myspacetom" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Depends who you get to run it ! 🤔\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "Depends who you get to run it ! 🤔"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1604617643973124097" ],
+    "published" : [ "2022-12-19T02:00:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1604658018213195777" ],
+    "url" : [ "https://twitter.com/myspacetom/status/1604658018213195777" ]
+  },
+  "type" : [ "h-entry" ]
+}
