@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF // tweets autodelete" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2.jpg" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://fortune.com/author/kylie-robison/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Wow <a href=\"https://twitter.com/paulg\">@paulg</a> got suspended, brutal",
+      "value" : "Wow @paulg got suspended, brutal"
+    } ],
+    "published" : [ "2022-12-18T22:28:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1604604474286571520" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1604604474286571520" ]
+  },
+  "type" : [ "h-entry" ]
+}
