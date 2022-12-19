@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "MIT CSAIL" ],
+        "nickname" : [ "MIT_CSAIL" ],
+        "numeric-id" : [ "82364810" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq.png" ],
+        "published" : [ "2009-10-14T13:55:58+00:00" ],
+        "uid" : [ "tag:twitter.com:MIT_CSAIL" ],
+        "url" : [ "https://twitter.com/MIT_CSAIL", "http://csail.mit.edu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "An IBM slide from 1979." ],
+    "photo" : [ "https://pbs.twimg.com/media/FkDHvg0XgAkkoIW.jpg" ],
+    "published" : [ "2022-12-19T17:00:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1604884273789603842" ],
+    "url" : [ "https://twitter.com/MIT_CSAIL/status/1604884273789603842" ]
+  },
+  "type" : [ "h-entry" ]
+}
