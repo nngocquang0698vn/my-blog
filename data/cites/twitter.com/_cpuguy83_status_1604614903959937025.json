@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "cpuguy@hachyderm.io" ],
+        "nickname" : [ "cpuguy83" ],
+        "numeric-id" : [ "119933555" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/779048196320493569/nIR7rsy7.jpg" ],
+        "published" : [ "2010-03-05T00:18:33+00:00" ],
+        "uid" : [ "tag:twitter.com:cpuguy83" ],
+        "url" : [ "https://twitter.com/cpuguy83", "http://www.container42.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FkS8wCSUAAAX5ly.jpg" ],
+    "published" : [ "2022-12-18T23:09:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1604614903959937025" ],
+    "url" : [ "https://twitter.com/cpuguy83/status/1604614903959937025" ]
+  },
+  "type" : [ "h-entry" ]
+}
