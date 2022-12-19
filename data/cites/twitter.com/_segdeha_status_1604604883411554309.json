@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Hedges" ],
+        "nickname" : [ "segdeha" ],
+        "numeric-id" : [ "14824675" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1604580341360267264/qjiZD0Qi.jpg" ],
+        "published" : [ "2008-05-18T21:13:00+00:00" ],
+        "uid" : [ "tag:twitter.com:segdeha" ],
+        "url" : [ "https://twitter.com/segdeha", "https://mastodon.social/@segdeha" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "big mean girls energy on elon's part\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kyliebytes\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulg\"></a>",
+      "value" : "big mean girls energy on elon's part"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kyliebytes/status/1604604474286571520" ],
+    "published" : [ "2022-12-18T22:29:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1604604883411554309" ],
+    "url" : [ "https://twitter.com/segdeha/status/1604604883411554309" ]
+  },
+  "type" : [ "h-entry" ]
+}
