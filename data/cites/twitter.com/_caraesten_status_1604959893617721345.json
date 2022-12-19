@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Support" ],
+          "nickname" : [ "TwitterSupport" ],
+          "numeric-id" : [ "17874544" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao.jpg" ],
+          "published" : [ "2008-12-04T18:51:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSupport" ],
+          "url" : [ "https://twitter.com/TwitterSupport", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Starting today, you’ll start seeing additional icons that provide context for accounts on Twitter. In addition to blue and gold checks, you’ll see grey checks for government and multilateral accounts and square affiliation badges for select businesses." ],
+      "photo" : [ {
+        "alt" : "A screenshot of Twitter on iOS that shows an account with a grey check indicating it is a government account",
+        "value" : "https://pbs.twimg.com/media/FkXySBqX0BYnj_8.jpg"
+      } ],
+      "published" : [ "2022-12-19T21:42:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1604955466727047168" ],
+      "url" : [ "https://twitter.com/TwitterSupport/status/1604955466727047168" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Baeddel, Bathell, and Beyonddel" ],
+        "nickname" : [ "caraesten" ],
+        "numeric-id" : [ "15374401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595910729495826432/zFEeOoFR.jpg" ],
+        "published" : [ "2008-07-10T05:22:16+00:00" ],
+        "uid" : [ "tag:twitter.com:caraesten" ],
+        "url" : [ "https://twitter.com/caraesten", "https://cohost.org/caraesten", "http://my.pronoun.is/she" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "*it has been [0] days since twitter introduced a new type of checkmark*" ],
+    "published" : [ "2022-12-19T22:00:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1604959893617721345" ],
+    "url" : [ "https://twitter.com/caraesten/status/1604959893617721345" ]
+  },
+  "type" : [ "h-entry" ]
+}
