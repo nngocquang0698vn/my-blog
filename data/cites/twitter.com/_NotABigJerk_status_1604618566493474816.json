@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "D.C." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "lauren" ],
+        "nickname" : [ "NotABigJerk" ],
+        "numeric-id" : [ "95464071" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1504501781023399946/SJtj4kPC.jpg" ],
+        "published" : [ "2009-12-08T17:34:25+00:00" ],
+        "uid" : [ "tag:twitter.com:NotABigJerk" ],
+        "url" : [ "https://twitter.com/NotABigJerk", "http://rotatingsandwiches.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Regardless of the outcome, this is the most insecure tweet any of us will ever live to see\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "Regardless of the outcome, this is the most insecure tweet any of us will ever live to see"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1604617643973124097" ],
+    "published" : [ "2022-12-18T23:24:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1604618566493474816" ],
+    "url" : [ "https://twitter.com/NotABigJerk/status/1604618566493474816" ]
+  },
+  "type" : [ "h-entry" ]
+}
