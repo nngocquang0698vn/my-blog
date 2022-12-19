@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">You feckless coward; you small excuse for a man; you space Karen manchild.\n\nLeaders lead; they don’t abide by poorly devised popularity votes.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "You feckless coward; you small excuse for a man; you space Karen manchild.\n\nLeaders lead; they don’t abide by poorly devised popularity votes."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1604617643973124097" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Kaanapali, HI" ],
+        "uid" : [ "tag:twitter.com:386eee0c027ac681" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-12-19T02:13:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1604661051240329216" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1604661051240329216" ]
+  },
+  "type" : [ "h-entry" ]
+}
