@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "James Whatley" ],
+          "nickname" : [ "Whatleydude" ],
+          "numeric-id" : [ "2172691" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1499313749701840900/tt3gjOMV.jpg" ],
+          "published" : [ "2007-03-25T12:58:43+00:00" ],
+          "uid" : [ "tag:twitter.com:Whatleydude" ],
+          "url" : [ "https://twitter.com/Whatleydude", "http://whatleydude.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">A further addendum to the Twitter-leavers:\n\nIf, like me, you've got a LOT of tweets that you don't really want to lose forever, please consider uploading them up to the Web Archive, aka, The Wayback Machine. \n\nDetails on how to do that are right here: \n\n<a href=\"https://help.archive.org/help/how-to-archive-your-tweets-with-the-wayback-machine/\">help.archive.org/help/how-to-ar…</a></div>",
+        "value" : "A further addendum to the Twitter-leavers:\n\nIf, like me, you've got a LOT of tweets that you don't really want to lose forever, please consider uploading them up to the Web Archive, aka, The Wayback Machine. \n\nDetails on how to do that are right here: \n\nhelp.archive.org/help/how-to-ar…"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/Whatleydude/status/1604546723518390272" ],
+      "published" : [ "2022-12-18T21:56:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1604596431863660545" ],
+      "url" : [ "https://twitter.com/Whatleydude/status/1604596431863660545" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - current focus: moving electrons" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489994130004533259/gz6LI1oW.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Oh this is *priceless*\n\nPut all your tweets onto the web archive... The Wayback Machine</div>",
+      "value" : "Oh this is *priceless*\n\nPut all your tweets onto the web archive... The Wayback Machine"
+    } ],
+    "published" : [ "2022-12-18T22:28:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1604604419676712960" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1604604419676712960" ]
+  },
+  "type" : [ "h-entry" ]
+}
