@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anaïs Urlichs ☀️" ],
+        "nickname" : [ "urlichsanais" ],
+        "numeric-id" : [ "992776956662906880" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1528371710545866757/VtAPzwMo.jpg" ],
+        "published" : [ "2018-05-05T14:44:06+00:00" ],
+        "uid" : [ "tag:twitter.com:urlichsanais" ],
+        "url" : [ "https://twitter.com/urlichsanais", "https://www.youtube.com/c/AnaisUrlichs?sub_confirmation=1", "http://anaisurl.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Your tweets remind me of this meme a lot\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AlexJonesax\"></a>",
+      "value" : "Your tweets remind me of this meme a lot"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/AlexJonesax/status/1605155857427218432" ],
+    "photo" : [ "https://pbs.twimg.com/media/FkarcCeXwAYjxW3.jpg" ],
+    "published" : [ "2022-12-20T11:11:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1605158841401974789" ],
+    "url" : [ "https://twitter.com/urlichsanais/status/1605158841401974789" ]
+  },
+  "type" : [ "h-entry" ]
+}
