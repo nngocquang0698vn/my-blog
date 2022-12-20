@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob DenBleyker" ],
+        "nickname" : [ "RobDenBleyker" ],
+        "numeric-id" : [ "21369740" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1602010753938194432/BugO-Ruk.jpg" ],
+        "published" : [ "2009-02-20T03:26:24+00:00" ],
+        "uid" : [ "tag:twitter.com:RobDenBleyker" ],
+        "url" : [ "https://twitter.com/RobDenBleyker", "http://www.explosm.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I tipped the dasher $6 so I effectively paid $15 for a lack of cheeseburger\n\ncapitalism is so wild</div>",
+      "value" : "I tipped the dasher $6 so I effectively paid $15 for a lack of cheeseburger\n\ncapitalism is so wild"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RobDenBleyker/status/1605274541936316416" ],
+    "published" : [ "2022-12-20T18:52:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1605275081550319636" ],
+    "url" : [ "https://twitter.com/RobDenBleyker/status/1605275081550319636" ]
+  },
+  "type" : [ "h-entry" ]
+}
