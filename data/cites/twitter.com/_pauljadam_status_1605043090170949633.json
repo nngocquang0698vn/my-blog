@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul J. Adam" ],
+        "nickname" : [ "pauljadam" ],
+        "numeric-id" : [ "24923263" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1060743910207578113/enl1eQgD.jpg" ],
+        "published" : [ "2009-03-17T18:06:41+00:00" ],
+        "uid" : [ "tag:twitter.com:pauljadam" ],
+        "url" : [ "https://twitter.com/pauljadam", "http://pauljadam.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Which one of these is yellow and which one is blue? You can't tell if you grayscale the page to remove the color. <a href=\"https://twitter.com/search?q=%23a11y\">#a11y</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterSupport\"></a>",
+      "value" : "Which one of these is yellow and which one is blue? You can't tell if you grayscale the page to remove the color. #a11y"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TwitterSupport/status/1604955466727047168" ],
+    "photo" : [ {
+      "alt" : "3 twitter checkmarks all in grayscale so there is no color shown",
+      "value" : "https://pbs.twimg.com/media/FkZB9XpWIAMuqsN.png"
+    } ],
+    "published" : [ "2022-12-20T03:31:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1605043090170949633" ],
+    "url" : [ "https://twitter.com/pauljadam/status/1605043090170949633" ]
+  },
+  "type" : [ "h-entry" ]
+}
