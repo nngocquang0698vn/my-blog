@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Crutchmer" ],
+        "nickname" : [ "jcrutchmer" ],
+        "numeric-id" : [ "35761681" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1331243280990924802/6AQacSEz.jpg" ],
+        "published" : [ "2009-04-27T14:58:33+00:00" ],
+        "uid" : [ "tag:twitter.com:jcrutchmer" ],
+        "url" : [ "https://twitter.com/jcrutchmer", "http://www.nytimes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "every year i forget i did this the previous year it’s wonderful" ],
+    "photo" : [ "https://pbs.twimg.com/media/FkcDyIGWAAEwgeW.jpg" ],
+    "published" : [ "2022-12-20T17:36:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1605255954764800005" ],
+    "url" : [ "https://twitter.com/jcrutchmer/status/1605255954764800005" ]
+  },
+  "type" : [ "h-entry" ]
+}
