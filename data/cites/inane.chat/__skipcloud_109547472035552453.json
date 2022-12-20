@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "skip :ohno: (@skipcloud@inane.chat)" ],
+    "summary" : [ "I just had my first real scary production engineering oncall alert: \"there are no free hosts on the production cluster\" 😱 \n\nNo more hosts were being added AND the cluster needed to scale up very very quickly given the time of day.\n\nI managed to un-fuck the situation all by myself! And without any real issues. That could've been a very bad night for me, I'm proud of myself for sorting it out :)\n\n#oncall #ProductionEngineering" ],
+    "featured" : [ "https://files.inane.chat/accounts/avatars/109/325/902/494/035/047/original/1835f5d6a4c20566.jpeg" ],
+    "url" : [ "https://inane.chat/@skipcloud/109547472035552453" ]
+  }
+}
