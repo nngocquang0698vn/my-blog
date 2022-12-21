@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "alistair" ],
+        "nickname" : [ "alistaiir" ],
+        "numeric-id" : [ "825390159344570372" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595047485998784512/95RoNWaB.jpg" ],
+        "published" : [ "2017-01-28T17:08:43+00:00" ],
+        "uid" : [ "tag:twitter.com:alistaiir" ],
+        "url" : [ "https://twitter.com/alistaiir", "http://alistair.sh", "http://alistair.id" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I am organising a London <a href=\"https://twitter.com/search?q=%23TypeScript\">#TypeScript</a> meetup in January 2023!\n\n📅 January 13th, 2023\n🗺️ <a href=\"https://twitter.com/Cloudflare\">@Cloudflare</a> Offices, Southbank\n\nTalks from <a href=\"https://twitter.com/orta\">@orta</a>, <a href=\"https://twitter.com/EastlondonDev\">@EastlondonDev</a> &amp; myself. Sponsored by <a href=\"https://twitter.com/vercel\">@Vercel</a>△, made possible by <a href=\"https://twitter.com/CloudflareDev\">@CloudflareDev</a> 🤍\n\nRegister to attend @ <a href=\"https://ts.alistair.sh\">ts.alistair.sh</a> 🪄</div>",
+      "value" : "I am organising a London #TypeScript meetup in January 2023!\n\n📅 January 13th, 2023\n🗺️ @Cloudflare Offices, Southbank\n\nTalks from @orta, @EastlondonDev & myself. Sponsored by @Vercel△, made possible by @CloudflareDev 🤍\n\nRegister to attend @ ts.alistair.sh 🪄"
+    } ],
+    "published" : [ "2022-12-21T22:08:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1605686696636555265" ],
+    "url" : [ "https://twitter.com/alistaiir/status/1605686696636555265" ]
+  },
+  "type" : [ "h-entry" ]
+}
