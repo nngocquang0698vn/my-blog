@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sacha Sayan (Parody)" ],
+        "nickname" : [ "sachasayan" ],
+        "numeric-id" : [ "48093353" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293669769598709760/pPSholVi.jpg" ],
+        "published" : [ "2009-06-17T20:00:59+00:00" ],
+        "uid" : [ "tag:twitter.com:sachasayan" ],
+        "url" : [ "https://twitter.com/sachasayan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Turns out when your new fancy search function needs to worry about things like scalability, design system consistency, abuse mitigation, multi-device support, and multi-language support, it's going to take a lot longer than two weeks to get a deployment out. \n\nWild, huh?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "Turns out when your new fancy search function needs to worry about things like scalability, design system consistency, abuse mitigation, multi-device support, and multi-language support, it's going to take a lot longer than two weeks to get a deployment out. \n\nWild, huh?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sachasayan/status/1605456410623426560" ],
+    "published" : [ "2022-12-21T07:00:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1605458056736755712" ],
+    "url" : [ "https://twitter.com/sachasayan/status/1605458056736755712" ]
+  },
+  "type" : [ "h-entry" ]
+}
