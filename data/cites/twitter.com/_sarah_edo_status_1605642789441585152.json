@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "sarah_edo@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Drasner" ],
+        "nickname" : [ "sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras", "http://codepen.io/sdras" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Most of us who work on heavily used systems at scale saw this one coming, and that they would propose a rewrite as they just have, and we also don’t think this is the answer. \n\nThis is why hubris is a very counterproductive quality in engineering.\n\nWhy do we all agree on this?</div>",
+      "value" : "Most of us who work on heavily used systems at scale saw this one coming, and that they would propose a rewrite as they just have, and we also don’t think this is the answer. \n\nThis is why hubris is a very counterproductive quality in engineering.\n\nWhy do we all agree on this?"
+    } ],
+    "photo" : [ {
+      "alt" : "George Hotz: that's what Elon told em my job was and I will try my hardest to do it. I have 12 weeks. Also trying to get rid of that nondismissable login popup after you scroll a little bit ugh these things ruin the internet",
+      "value" : "https://pbs.twimg.com/media/Fkhi-rVVQAADNtv.jpg"
+    }, {
+      "alt" : "George Hotz: Resigned from Twitter today. Appreciate the opportunity, but I didn't think there was any real impact I could make there. Besides, ti was sad to see my GitHub withering. Back to coding!",
+      "value" : "https://pbs.twimg.com/media/FkhjfXkUUAApYa7.jpg"
+    } ],
+    "published" : [ "2022-12-21T19:14:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1605642789441585152" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1605642789441585152" ]
+  },
+  "type" : [ "h-entry" ]
+}
