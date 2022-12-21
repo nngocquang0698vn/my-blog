@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oahu, Hawaii" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Anderson" ],
+        "nickname" : [ "myspacetom" ],
+        "numeric-id" : [ "3393521" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237550450/mstom.jpg" ],
+        "published" : [ "2007-04-04T04:46:58+00:00" ],
+        "uid" : [ "tag:twitter.com:myspacetom" ],
+        "url" : [ "https://twitter.com/myspacetom", "http://instagram.com/myspacetom" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1605372724800393216" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fkd2BUVUAAE3y6X.jpg" ],
+    "published" : [ "2022-12-21T01:56:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1605381562056314881" ],
+    "url" : [ "https://twitter.com/myspacetom/status/1605381562056314881" ]
+  },
+  "type" : [ "h-entry" ]
+}
