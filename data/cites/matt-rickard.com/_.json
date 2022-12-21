@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Architecture of Mastodon" ],
+    "summary" : [ "I was curious about how Mastodon is actually implemented. A high-level overview:\n\n * Web app is written in Ruby on Rails\n * Persistence layer is PostgreSQL\n * File storage/mailer is S3/SMTP agnostic\n * Redis for precomputed social feed cache and worker queue\n * Sidekiq for background processing\n * A node handler for streaming (notifications, new posts, etc.)\n\nLooking at the code, it's definitely an interesting look into the early 2010s style of development. There's nothing wrong with it, and in " ],
+    "featured" : [ "https://matt-rickard.com/api/og?title=The%20Architecture%20of%20Mastodon" ],
+    "url" : [ "https://matt-rickard.com" ],
+    "published" : [ "2022-12-20T06:30:06.000-08:00" ]
+  }
+}
