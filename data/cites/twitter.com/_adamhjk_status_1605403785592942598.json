@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Derry / Londonderry" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Paul Stack" ],
+          "nickname" : [ "stack72" ],
+          "numeric-id" : [ "62513159" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/858983680617984000/zDYLJOu2.jpg" ],
+          "published" : [ "2009-08-03T13:23:20+00:00" ],
+          "uid" : [ "tag:twitter.com:stack72" ],
+          "url" : [ "https://twitter.com/stack72", "http://www.paulstack.co.uk/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Looks like the <a href=\"https://twitter.com/cfgmgmtcamp\">@cfgmgmtcamp</a> schedule has been drafted!! <a href=\"https://cfp.cfgmgmtcamp.org/2023/schedule/\">cfp.cfgmgmtcamp.org/2023/schedule/</a>",
+        "value" : "Looks like the @cfgmgmtcamp schedule has been drafted!! cfp.cfgmgmtcamp.org/2023/schedule/"
+      } ],
+      "published" : [ "2022-12-20T21:01:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1605307373551292416" ],
+      "url" : [ "https://twitter.com/stack72/status/1605307373551292416" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My first talk in years (panels don’t count) will be at cfg mgmt camp in Ghent - if you want to learn some of what we’re thinking with <a href=\"https://twitter.com/thesysteminit\">@thesysteminit</a> , come to Ghent!",
+      "value" : "My first talk in years (panels don’t count) will be at cfg mgmt camp in Ghent - if you want to learn some of what we’re thinking with @thesysteminit , come to Ghent!"
+    } ],
+    "published" : [ "2022-12-21T03:24:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1605403785592942598" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1605403785592942598" ]
+  },
+  "type" : [ "h-entry" ]
+}
