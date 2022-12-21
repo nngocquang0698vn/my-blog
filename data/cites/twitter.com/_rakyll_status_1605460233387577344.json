@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Dallas, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "John Carmack" ],
+          "nickname" : [ "ID_AA_Carmack" ],
+          "numeric-id" : [ "175624200" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN.jpg" ],
+          "published" : [ "2010-08-07T03:40:11+00:00" ],
+          "uid" : [ "tag:twitter.com:ID_AA_Carmack" ],
+          "url" : [ "https://twitter.com/ID_AA_Carmack", "http://www.oculus.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I resigned from Meta, and my internal post got leaked to the press, resulting in some fragmented quotes.  Here is the full thing: <a href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid0iPixEvPJQGzNa6t2x6HUL5TYqfmKGqSgfkBg6QaTyHF5frXQi7eLGxC7uPQv5U5jl&id=100006735798590&__cft__[0]=AZXsDdV3k6gSu83P0a2jJg4FQsWHW-usRsi2ayd7dymrA9C6yBA-uWSUgw7A8Mhza8gpZFkCvbip_sJRxDvUMP273PIS0FOSQQWGmL2Cbv3HVg&__tn__=%2CO%2CP-R\">facebook.com/permalink.php?…</a>",
+        "value" : "I resigned from Meta, and my internal post got leaked to the press, resulting in some fragmented quotes.  Here is the full thing: facebook.com/permalink.php?…"
+      } ],
+      "published" : [ "2022-12-17T01:55:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1603931899810004994" ],
+      "url" : [ "https://twitter.com/ID_AA_Carmack/status/1603931899810004994" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/id_aa_carmack/…" ],
+      "url" : [ "https://twitter.com/id_aa_carmack/status/1603931899810004994" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1492548437996310529/waX1aEU-.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Some values like efficiency/performance and reliability are impossible to inject into the company culture at a later time. Regardless of your political capital, as an individual contributor, it’s hard if not impossible to deeply impact the company.\n<a class=\"tag\" href=\"https://twitter.com/id_aa_carmack/status/1603931899810004994\">twitter.com/id_aa_carmack/…</a>",
+      "value" : "Some values like efficiency/performance and reliability are impossible to inject into the company culture at a later time. Regardless of your political capital, as an individual contributor, it’s hard if not impossible to deeply impact the company."
+    } ],
+    "published" : [ "2022-12-21T07:08:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1605460233387577344" ],
+    "url" : [ "https://twitter.com/rakyll/status/1605460233387577344" ]
+  },
+  "type" : [ "h-entry" ]
+}
