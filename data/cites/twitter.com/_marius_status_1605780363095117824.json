@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Palo Alto, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "marius eriksen" ],
+        "nickname" : [ "marius" ],
+        "numeric-id" : [ "7698" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543756739807301632/n1wKRsgi.jpg" ],
+        "published" : [ "2006-10-07T06:53:18+00:00" ],
+        "uid" : [ "tag:twitter.com:marius" ],
+        "url" : [ "https://twitter.com/marius", "http://monkey.org/~marius/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Here’s the thing: Twitter’s stack *is* crazy. But as an industry we have not found another way to build planet scale systems supported by large orgs, constantly iterating and experimenting on a complex product." ],
+    "published" : [ "2022-12-22T04:20:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1605780363095117824" ],
+    "url" : [ "https://twitter.com/marius/status/1605780363095117824" ]
+  },
+  "type" : [ "h-entry" ]
+}
