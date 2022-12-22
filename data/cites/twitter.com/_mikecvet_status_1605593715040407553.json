@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/realGeorgeHotz…" ],
+      "url" : [ "https://twitter.com/realGeorgeHotz/status/1605341207109939201" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "East Bay, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Cvet" ],
+        "nickname" : [ "mikecvet" ],
+        "numeric-id" : [ "156417821" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1472684359698157568/MxQaah2n.jpg" ],
+        "published" : [ "2010-06-16T22:16:32+00:00" ],
+        "uid" : [ "tag:twitter.com:mikecvet" ],
+        "url" : [ "https://twitter.com/mikecvet" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The sad reality of all the 2.0-era bad takes on how simple it would be to “fix” or “rebuild” Twitter is that they are wholly under-appreciating the challenges and complexity of this system at scale. If it looks like a simple app as a user, that is because the UX does a good job.\n<a class=\"tag\" href=\"https://twitter.com/realGeorgeHotz/status/1605341207109939201\">twitter.com/realGeorgeHotz…</a>",
+      "value" : "The sad reality of all the 2.0-era bad takes on how simple it would be to “fix” or “rebuild” Twitter is that they are wholly under-appreciating the challenges and complexity of this system at scale. If it looks like a simple app as a user, that is because the UX does a good job."
+    } ],
+    "published" : [ "2022-12-21T15:59:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1605593715040407553" ],
+    "url" : [ "https://twitter.com/mikecvet/status/1605593715040407553" ]
+  },
+  "type" : [ "h-entry" ]
+}
