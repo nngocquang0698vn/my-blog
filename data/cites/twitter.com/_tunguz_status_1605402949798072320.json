@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bojan Tunguz" ],
+        "nickname" : [ "tunguz" ],
+        "numeric-id" : [ "23511272" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364232665440935946/cRy6WUM9.jpg" ],
+        "published" : [ "2009-03-09T22:08:15+00:00" ],
+        "uid" : [ "tag:twitter.com:tunguz" ],
+        "url" : [ "https://twitter.com/tunguz", "http://www.tunguz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Meet Nole, Twitter’s new CEO." ],
+    "photo" : [ "https://pbs.twimg.com/media/FkeJeQfWIAAH1yc.jpg" ],
+    "published" : [ "2022-12-21T03:21:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1605402949798072320" ],
+    "url" : [ "https://twitter.com/tunguz/status/1605402949798072320" ]
+  },
+  "type" : [ "h-entry" ]
+}
