@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Moira Donegan" ],
+        "nickname" : [ "MoiraDonegan" ],
+        "numeric-id" : [ "785461610" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508473015339790339/gZ6pkcFd.jpg" ],
+        "published" : [ "2012-08-27T20:55:02+00:00" ],
+        "uid" : [ "tag:twitter.com:MoiraDonegan" ],
+        "url" : [ "https://twitter.com/MoiraDonegan", "https://moiradonegan.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Your work honors her!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JessicaCalarco\"></a>",
+      "value" : "Your work honors her!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JessicaCalarco/status/1605557276567252992" ],
+    "published" : [ "2022-12-21T13:34:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1605557411070111745" ],
+    "url" : [ "https://twitter.com/MoiraDonegan/status/1605557411070111745" ]
+  },
+  "type" : [ "h-entry" ]
+}
