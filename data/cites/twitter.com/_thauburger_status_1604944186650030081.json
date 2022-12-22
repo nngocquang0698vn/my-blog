@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Hauburger" ],
+        "nickname" : [ "thauburger" ],
+        "numeric-id" : [ "21070898" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/982066792808923136/P_cjbqmb.jpg" ],
+        "published" : [ "2009-02-17T07:13:05+00:00" ],
+        "uid" : [ "tag:twitter.com:thauburger" ],
+        "url" : [ "https://twitter.com/thauburger", "https://edisonfurniture.exposure.co/edison-furniture" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What if the new CEO is named Nole, and it’s just Elon with a mustache?" ],
+    "published" : [ "2022-12-19T20:58:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1604944186650030081" ],
+    "url" : [ "https://twitter.com/thauburger/status/1604944186650030081" ]
+  },
+  "type" : [ "h-entry" ]
+}
