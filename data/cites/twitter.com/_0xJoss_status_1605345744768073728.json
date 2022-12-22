@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jose" ],
+        "nickname" : [ "0xJoss" ],
+        "numeric-id" : [ "327459219" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581514536452034560/SGMvAjJj.jpg" ],
+        "published" : [ "2011-07-01T16:09:37+00:00" ],
+        "uid" : [ "tag:twitter.com:0xJoss" ],
+        "url" : [ "https://twitter.com/0xJoss" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hopefully this was a humbling experience. I appreciate your content but is shameful to have an arrogant attitude with other devs and their talents.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/realGeorgeHotz\"></a>",
+      "value" : "Hopefully this was a humbling experience. I appreciate your content but is shameful to have an arrogant attitude with other devs and their talents."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/realGeorgeHotz/status/1605341207109939201" ],
+    "published" : [ "2022-12-20T23:33:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1605345744768073728" ],
+    "url" : [ "https://twitter.com/0xJoss/status/1605345744768073728" ]
+  },
+  "type" : [ "h-entry" ]
+}
