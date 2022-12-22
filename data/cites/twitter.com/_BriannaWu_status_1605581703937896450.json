@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "RΛISINI ライシニ" ],
+          "nickname" : [ "iamraisini" ],
+          "numeric-id" : [ "17949942" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1519940873949167616/VMBMyS_T.jpg" ],
+          "published" : [ "2008-12-07T23:07:03+00:00" ],
+          "uid" : [ "tag:twitter.com:iamraisini" ],
+          "url" : [ "https://twitter.com/iamraisini", "https://raisinirecords.com/links/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">How it started: \nEx-Twitter engineer asks Elon about new features to which Elon replied “to have high velocity features, there needs to be a total rewrite of the stack” \n\nElon Musk claims to be an engineer, but he can’t even answer simple tech question &amp; attacks REAL engineers</div>",
+        "value" : "How it started: \nEx-Twitter engineer asks Elon about new features to which Elon replied “to have high velocity features, there needs to be a total rewrite of the stack” \n\nElon Musk claims to be an engineer, but he can’t even answer simple tech question & attacks REAL engineers"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/iamraisini/status/1605533081665945601" ],
+      "published" : [ "2022-12-21T12:17:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1605538033612177408" ],
+      "url" : [ "https://twitter.com/iamraisini/status/1605538033612177408" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1605537953358438401/pu/vid/560x1216/GzaINYmKf1Kk8zYm.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dedham, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brianna Wu" ],
+        "nickname" : [ "BriannaWu" ],
+        "numeric-id" : [ "17264476" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1300883963913924609/fa7pguUP.jpg" ],
+        "published" : [ "2008-11-09T04:14:42+00:00" ],
+        "uid" : [ "tag:twitter.com:BriannaWu" ],
+        "url" : [ "https://twitter.com/BriannaWu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is so profoundly embarrassing for Musk, and reveals he knows nothing about software development beyond buzzwords like “velocity.”\n\nhe doesn’t even understand enough to answer a question about refactoring the entire codebase.</div>",
+      "value" : "This is so profoundly embarrassing for Musk, and reveals he knows nothing about software development beyond buzzwords like “velocity.”\n\nhe doesn’t even understand enough to answer a question about refactoring the entire codebase."
+    } ],
+    "published" : [ "2022-12-21T15:11:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1605581703937896450" ],
+    "url" : [ "https://twitter.com/BriannaWu/status/1605581703937896450" ]
+  },
+  "type" : [ "h-entry" ]
+}
