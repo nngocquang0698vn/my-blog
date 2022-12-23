@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ross" ],
+        "nickname" : [ "animalrossing" ],
+        "numeric-id" : [ "68070748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1370918718058860546/PDCK6Cdh.jpg" ],
+        "published" : [ "2009-08-23T04:23:21+00:00" ],
+        "uid" : [ "tag:twitter.com:animalrossing" ],
+        "url" : [ "https://twitter.com/animalrossing" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "a pirate asking who wants to take his shift at work\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cloudeeuhh\"></a>",
+      "value" : "a pirate asking who wants to take his shift at work"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cloudeeuhh/status/1424967808534917138" ],
+    "published" : [ "2021-08-11T03:22:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1425296585584300044" ],
+    "url" : [ "https://twitter.com/animalrossing/status/1425296585584300044" ]
+  },
+  "type" : [ "h-entry" ]
+}
