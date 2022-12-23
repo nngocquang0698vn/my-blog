@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "pdx | sf" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sachee@macaw.social" ],
+        "nickname" : [ "sachee" ],
+        "numeric-id" : [ "69721758" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576669552678559744/X3haCdsw.jpg" ],
+        "published" : [ "2009-08-28T23:11:59+00:00" ],
+        "uid" : [ "tag:twitter.com:sachee" ],
+        "url" : [ "https://twitter.com/sachee", "http://sashatsolomon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">no regrets.\n\n<a href=\"https://www.nytimes.com/2022/12/23/style/twitter-elon-musk-sasha-solomon.html\">nytimes.com/2022/12/23/sty…</a></div>",
+      "value" : "no regrets.\n\nnytimes.com/2022/12/23/sty…"
+    } ],
+    "published" : [ "2022-12-23T21:47:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1606406124731011072" ],
+    "url" : [ "https://twitter.com/sachee/status/1606406124731011072" ]
+  },
+  "type" : [ "h-entry" ]
+}
