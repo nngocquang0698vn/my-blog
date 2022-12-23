@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/realgeorgehotz…" ],
+      "url" : [ "https://twitter.com/realgeorgehotz/status/1606367598878216194" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tosinaf.eth" ],
+        "nickname" : [ "TosinAF" ],
+        "numeric-id" : [ "1417290926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1420128512858464256/f_S8o0p5.jpg" ],
+        "published" : [ "2013-05-10T05:59:31+00:00" ],
+        "uid" : [ "tag:twitter.com:TosinAF" ],
+        "url" : [ "https://twitter.com/TosinAF", "http://tosinaf.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "All this guy can talk about is lines of code and “complexity”.\n<a class=\"tag\" href=\"https://twitter.com/realgeorgehotz/status/1606367598878216194\">twitter.com/realgeorgehotz…</a>",
+      "value" : "All this guy can talk about is lines of code and “complexity”."
+    } ],
+    "published" : [ "2022-12-23T19:53:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1606377518164021256" ],
+    "url" : [ "https://twitter.com/TosinAF/status/1606377518164021256" ]
+  },
+  "type" : [ "h-entry" ]
+}
