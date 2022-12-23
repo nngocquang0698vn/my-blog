@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Aniszczyk (@cra@macaw.social)" ],
+        "nickname" : [ "cra" ],
+        "numeric-id" : [ "14602130" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/653606053246988288/h0DPCgjH.jpg" ],
+        "published" : [ "2008-04-30T16:18:49+00:00" ],
+        "uid" : [ "tag:twitter.com:cra" ],
+        "url" : [ "https://twitter.com/cra", "https://aniszczyk.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "nice to see <a href=\"https://twitter.com/search?q=%23backstageio\">#backstageio</a> looking to update its project governance <a href=\"https://github.com/backstage/backstage/issues/15317\">github.com/backstage/back…</a>",
+      "value" : "nice to see #backstageio looking to update its project governance github.com/backstage/back…"
+    } ],
+    "published" : [ "2022-12-23T14:57:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1606302992755437570" ],
+    "url" : [ "https://twitter.com/cra/status/1606302992755437570" ]
+  },
+  "type" : [ "h-entry" ]
+}
