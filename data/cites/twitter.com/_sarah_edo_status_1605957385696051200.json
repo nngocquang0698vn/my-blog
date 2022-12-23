@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "sarah_edo@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Drasner" ],
+        "nickname" : [ "sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras", "http://codepen.io/sdras" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">+1 on this thread. Also the major distinction here that seems to be getting lost is “massive ground up rewrite of everything” and “after a few weeks, without working with the team who built it”\n\nI am definitely not saying no refactors or rewrites, that should be clear, I hope.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cramforce\"></a>",
+      "value" : "+1 on this thread. Also the major distinction here that seems to be getting lost is “massive ground up rewrite of everything” and “after a few weeks, without working with the team who built it”\n\nI am definitely not saying no refactors or rewrites, that should be clear, I hope."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cramforce/status/1605948647870386176" ],
+    "published" : [ "2022-12-22T16:04:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1605957385696051200" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1605957385696051200" ]
+  },
+  "type" : [ "h-entry" ]
+}
