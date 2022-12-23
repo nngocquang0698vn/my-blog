@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "MediaCityUK, Salford" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Breakfast" ],
+          "nickname" : [ "BBCBreakfast" ],
+          "numeric-id" : [ "143415291" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1522878235222196227/9u_uu-2i.jpg" ],
+          "published" : [ "2010-05-13T12:01:01+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCBreakfast" ],
+          "url" : [ "https://twitter.com/BBCBreakfast", "http://www.bbc.co.uk/breakfast" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Rail fares in England to rise by up to 5.9% from March \n\n<a href=\"https://www.bbc.co.uk/news/business-64066678\">bbc.co.uk/news/business-…</a></div>",
+        "value" : "Rail fares in England to rise by up to 5.9% from March \n\nbbc.co.uk/news/business-…"
+      } ],
+      "published" : [ "2022-12-22T12:21:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1605901219326746624" ],
+      "url" : [ "https://twitter.com/BBCBreakfast/status/1605901219326746624" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Alex Collinson" ],
+        "nickname" : [ "Alex__Collinson" ],
+        "numeric-id" : [ "880400602622304256" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469810330683457537/UD2kImTx.jpg" ],
+        "published" : [ "2017-06-29T12:20:35+00:00" ],
+        "uid" : [ "tag:twitter.com:Alex__Collinson" ],
+        "url" : [ "https://twitter.com/Alex__Collinson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fair play to them. Every time I book a train ticket, I think \"what a bargain, they should be charging more for this\"." ],
+    "published" : [ "2022-12-22T12:49:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1605908402659397632" ],
+    "url" : [ "https://twitter.com/Alex__Collinson/status/1605908402659397632" ]
+  },
+  "type" : [ "h-entry" ]
+}
