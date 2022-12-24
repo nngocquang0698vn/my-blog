@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Zoë Schiffer" ],
+          "nickname" : [ "ZoeSchiffer" ],
+          "numeric-id" : [ "808464904575299584" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1564799885794086914/ZU6qMT_n.jpg" ],
+          "published" : [ "2016-12-13T00:13:48+00:00" ],
+          "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+          "url" : [ "https://twitter.com/ZoeSchiffer", "https://mastodon.social/@zoeschiffer" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "NEW: Luke Simon -- one of Elon Musk's top lieutenants at Twitter -- appears to be out. He's been deactivated on Slack." ],
+      "published" : [ "2022-12-23T17:29:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1606341183705268224" ],
+      "url" : [ "https://twitter.com/ZoeSchiffer/status/1606341183705268224" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "chicagoh" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Nguyen" ],
+        "nickname" : [ "dancow" ],
+        "numeric-id" : [ "14335332" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573325489988575232/GU2yINyn.png" ],
+        "published" : [ "2008-04-08T19:39:54+00:00" ],
+        "uid" : [ "tag:twitter.com:dancow" ],
+        "url" : [ "https://twitter.com/dancow", "http://danwin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "buh bye asshole <a href=\"https://twitter.com/zoeschiffer/status/1606341183705268224\">twitter.com/zoeschiffer/st…</a>",
+      "value" : "buh bye asshole twitter.com/zoeschiffer/st…"
+    } ],
+    "photo" : [ {
+      "alt" : "Screencap of leaked interns slack messages by Luke Simon, including: “the engineers i at bringing back are weak, lazy, unmotivated, and they may even be against an Elon twitter”",
+      "value" : "https://pbs.twimg.com/media/Fkrr971X0AALkHn.jpg"
+    } ],
+    "published" : [ "2022-12-23T18:26:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1606355671128997888" ],
+    "url" : [ "https://twitter.com/dancow/status/1606355671128997888" ]
+  },
+  "type" : [ "h-entry" ]
+}
