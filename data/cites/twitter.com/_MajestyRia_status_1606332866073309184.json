@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "BROOKLYN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Rogue Princess" ],
+          "nickname" : [ "ShenaeCurry" ],
+          "numeric-id" : [ "62696330" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1488771590443745282/MdX6l94y.jpg" ],
+          "published" : [ "2009-08-04T02:42:06+00:00" ],
+          "uid" : [ "tag:twitter.com:ShenaeCurry" ],
+          "url" : [ "https://twitter.com/ShenaeCurry", "http://www.muckrack.com/shenae" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "my 735th attempt at quoting a tweet that opened as a reply instead" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fkn9CSOXEAYobxJ.jpg" ],
+      "published" : [ "2022-12-23T01:02:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1606092961242038274" ],
+      "url" : [ "https://twitter.com/ShenaeCurry/status/1606092961242038274" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/shenaecurry/st…" ],
+      "url" : [ "https://twitter.com/shenaecurry/status/1606092961242038274" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Planet Earth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tori Nicks 2.0 🛰" ],
+        "nickname" : [ "MajestyRia" ],
+        "numeric-id" : [ "1291260823071936513" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471369948819648513/djw3-EG1.jpg" ],
+        "published" : [ "2020-08-06T06:32:40+00:00" ],
+        "uid" : [ "tag:twitter.com:MajestyRia" ],
+        "url" : [ "https://twitter.com/MajestyRia" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "14 years of muscle memory down the drain\n<a class=\"tag\" href=\"https://twitter.com/shenaecurry/status/1606092961242038274\">twitter.com/shenaecurry/st…</a>",
+      "value" : "14 years of muscle memory down the drain"
+    } ],
+    "published" : [ "2022-12-23T16:56:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1606332866073309184" ],
+    "url" : [ "https://twitter.com/MajestyRia/status/1606332866073309184" ]
+  },
+  "type" : [ "h-entry" ]
+}
