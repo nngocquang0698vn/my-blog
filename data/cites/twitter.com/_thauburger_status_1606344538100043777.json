@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Hauburger" ],
+        "nickname" : [ "thauburger" ],
+        "numeric-id" : [ "21070898" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/982066792808923136/P_cjbqmb.jpg" ],
+        "published" : [ "2009-02-17T07:13:05+00:00" ],
+        "uid" : [ "tag:twitter.com:thauburger" ],
+        "url" : [ "https://twitter.com/thauburger", "https://edisonfurniture.exposure.co/edison-furniture" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Also, glad to see that the new Tweet impressions feature is 100% working, and helping people get a more accurate idea of what's happening with their content." ],
+    "photo" : [ "https://pbs.twimg.com/media/FkrhxJCaUAABWQD.png" ],
+    "published" : [ "2022-12-23T17:42:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1606344538100043777" ],
+    "url" : [ "https://twitter.com/thauburger/status/1606344538100043777" ]
+  },
+  "type" : [ "h-entry" ]
+}
