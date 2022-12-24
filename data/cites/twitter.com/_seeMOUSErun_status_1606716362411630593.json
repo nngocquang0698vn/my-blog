@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Leah Culver" ],
+          "nickname" : [ "leahculver" ],
+          "numeric-id" : [ "662433" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1606707804030599168/hQ0cwO43.jpg" ],
+          "published" : [ "2007-01-19T00:07:47+00:00" ],
+          "uid" : [ "tag:twitter.com:leahculver" ],
+          "url" : [ "https://twitter.com/leahculver", "http://leahculver.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Why do I continue to work at Twitter?\nFirst, some backstory…\nI was the technical co-founder of Pownce, a social network and early competitor to Twitter. Here’s a video of 25-year-old me talking about Pownce (ht <a href=\"https://twitter.com/jdlasica\">@jdlasica</a> and <a href=\"https://twitter.com/seeMOUSErun\">@seeMOUSErun</a>).\n<a href=\"https://vimeo.com/1239783\">vimeo.com/1239783</a></div>",
+        "value" : "Why do I continue to work at Twitter?\nFirst, some backstory…\nI was the technical co-founder of Pownce, a social network and early competitor to Twitter. Here’s a video of 25-year-old me talking about Pownce (ht @jdlasica and @seeMOUSErun).\nvimeo.com/1239783"
+      } ],
+      "published" : [ "2022-12-24T18:01:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1606711554111668228" ],
+      "url" : [ "https://twitter.com/leahculver/status/1606711554111668228" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Melissa Merencillo" ],
+        "nickname" : [ "seeMOUSErun" ],
+        "numeric-id" : [ "25597079" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1604029516929605632/rzgy3HYi.jpg" ],
+        "published" : [ "2009-03-20T23:17:58+00:00" ],
+        "uid" : [ "tag:twitter.com:seeMOUSErun" ],
+        "url" : [ "https://twitter.com/seeMOUSErun", "http://melissamerencillo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One big reason I continue to work at Twitter is being able to work with inspiring and positive people like <a href=\"https://twitter.com/leahculver\">@leahculver</a>! \n\nWe met during our Hack Week project this year &amp; I've been continuously motivated &amp; inspired to think positively about the possibilities ahead for Twitter.</div>",
+      "value" : "One big reason I continue to work at Twitter is being able to work with inspiring and positive people like @leahculver! \n\nWe met during our Hack Week project this year & I've been continuously motivated & inspired to think positively about the possibilities ahead for Twitter."
+    } ],
+    "published" : [ "2022-12-24T18:20:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1606716362411630593" ],
+    "url" : [ "https://twitter.com/seeMOUSErun/status/1606716362411630593" ]
+  },
+  "type" : [ "h-entry" ]
+}
