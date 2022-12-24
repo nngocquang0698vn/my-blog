@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "On post.news/ivanthek" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ivan the K™" ],
+        "nickname" : [ "IvanTheK" ],
+        "numeric-id" : [ "197869772" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599730176941850625/qNSEgOLV.jpg" ],
+        "published" : [ "2010-10-02T17:53:34+00:00" ],
+        "uid" : [ "tag:twitter.com:IvanTheK" ],
+        "url" : [ "https://twitter.com/IvanTheK", "https://mstdn.social/@IvanTheK" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I created a locked account with zero followers. I just sent one tweet. Since I have no followers and the account is locked, that tweet should not be visible to anyone. It has 12 views.\n\nConclusion: Twitter \"Views\" is crap.</div>",
+      "value" : "I created a locked account with zero followers. I just sent one tweet. Since I have no followers and the account is locked, that tweet should not be visible to anyone. It has 12 views.\n\nConclusion: Twitter \"Views\" is crap."
+    } ],
+    "published" : [ "2022-12-24T13:28:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1606643062909931523" ],
+    "url" : [ "https://twitter.com/IvanTheK/status/1606643062909931523" ]
+  },
+  "type" : [ "h-entry" ]
+}
