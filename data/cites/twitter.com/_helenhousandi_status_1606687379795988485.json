@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "https://toot.cafe/@helen" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Helen 侯-Sandí" ],
+        "nickname" : [ "helenhousandi" ],
+        "numeric-id" : [ "21204689" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441091727830372356/FyvlXfgH.jpg" ],
+        "published" : [ "2009-02-18T15:18:07+00:00" ],
+        "uid" : [ "tag:twitter.com:helenhousandi" ],
+        "url" : [ "https://twitter.com/helenhousandi", "https://helen.blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’ve spent something like 7 out of the last 10 holiday breaks in Costa Rica and let me tell you, I absolutely do not dream of a white Christmas." ],
+    "published" : [ "2022-12-24T16:24:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1606687379795988485" ],
+    "url" : [ "https://twitter.com/helenhousandi/status/1606687379795988485" ]
+  },
+  "type" : [ "h-entry" ]
+}
