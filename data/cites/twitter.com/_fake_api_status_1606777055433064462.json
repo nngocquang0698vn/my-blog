@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/jason/status/1…" ],
+      "url" : [ "https://twitter.com/jason/status/1606709377679122432" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (not parody) instagram: fake_api" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Normal people perceive chaos when most of the company gets fired, domain experts are begged to return, infra is shut off with no regard for importance, and the CEO makes outlandishly false claims about technology he doesn’t understand.\n<a class=\"tag\" href=\"https://twitter.com/jason/status/1606709377679122432\">twitter.com/jason/status/1…</a>",
+      "value" : "Normal people perceive chaos when most of the company gets fired, domain experts are begged to return, infra is shut off with no regard for importance, and the CEO makes outlandishly false claims about technology he doesn’t understand."
+    } ],
+    "published" : [ "2022-12-24T22:21:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1606777055433064462" ],
+    "url" : [ "https://twitter.com/fake_api/status/1606777055433064462" ]
+  },
+  "type" : [ "h-entry" ]
+}
