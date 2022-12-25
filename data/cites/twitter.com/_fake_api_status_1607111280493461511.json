@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (not parody) instagram: fake_api" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">View count is a useless metric. On YouTube views are counted based on view time to help determine what videos lots of people are enjoying.\n\nOn Twitter it means someone scrolled past your tweet and maybe read it but maybe didn’t. Didn’t think it was worth retweeting or liking.</div>",
+      "value" : "View count is a useless metric. On YouTube views are counted based on view time to help determine what videos lots of people are enjoying.\n\nOn Twitter it means someone scrolled past your tweet and maybe read it but maybe didn’t. Didn’t think it was worth retweeting or liking."
+    } ],
+    "published" : [ "2022-12-25T20:29:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1607111280493461511" ],
+    "url" : [ "https://twitter.com/fake_api/status/1607111280493461511" ]
+  },
+  "type" : [ "h-entry" ]
+}
