@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Doug Benson" ],
+        "nickname" : [ "DougBenson" ],
+        "numeric-id" : [ "18548221" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1606597642749849600/OjuN9DwH.jpg" ],
+        "published" : [ "2009-01-02T07:39:59+00:00" ],
+        "uid" : [ "tag:twitter.com:DougBenson" ],
+        "url" : [ "https://twitter.com/DougBenson", "http://patreon.com/gettingdoug", "http://cameo.com/dougbenson", "http://douglovesmovies.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Happy Xmas Eve 4:20 Mountain Time! \n\nNext show: 4:20 Pacific</div>",
+      "value" : "Happy Xmas Eve 4:20 Mountain Time! \n\nNext show: 4:20 Pacific"
+    } ],
+    "published" : [ "2022-12-24T23:24:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1606792903208349697" ],
+    "url" : [ "https://twitter.com/DougBenson/status/1606792903208349697" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1606792863765131264/pu/vid/720x1280/g5wMVtQJlDSrUe5d.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
