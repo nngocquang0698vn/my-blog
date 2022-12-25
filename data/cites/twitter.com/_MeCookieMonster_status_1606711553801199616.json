@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sesame Street" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cookie Monster" ],
+        "nickname" : [ "MeCookieMonster" ],
+        "numeric-id" : [ "2372164754" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1092451626781163523/0YzJMi-8.jpg" ],
+        "published" : [ "2014-03-04T16:57:57+00:00" ],
+        "uid" : [ "tag:twitter.com:MeCookieMonster" ],
+        "url" : [ "https://twitter.com/MeCookieMonster", "http://sesamestreet.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Me keep having to start new batch of cookies for Santa because me keep eating them." ],
+    "published" : [ "2022-12-24T18:01:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1606711553801199616" ],
+    "url" : [ "https://twitter.com/MeCookieMonster/status/1606711553801199616" ]
+  },
+  "type" : [ "h-entry" ]
+}
