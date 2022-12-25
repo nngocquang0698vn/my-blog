@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "On post.news/ivanthek" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ivan the K™" ],
+        "nickname" : [ "IvanTheK" ],
+        "numeric-id" : [ "197869772" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599730176941850625/qNSEgOLV.jpg" ],
+        "published" : [ "2010-10-02T17:53:34+00:00" ],
+        "uid" : [ "tag:twitter.com:IvanTheK" ],
+        "url" : [ "https://twitter.com/IvanTheK", "https://mstdn.social/@IvanTheK" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Do you ever carefully read what you type (or the tweet  you're responding to) before sending it?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MarketAlly\"></a>",
+      "value" : "Do you ever carefully read what you type (or the tweet  you're responding to) before sending it?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MarketAlly/status/1606705534861803522" ],
+    "published" : [ "2022-12-24T17:39:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1606706038455123969" ],
+    "url" : [ "https://twitter.com/IvanTheK/status/1606706038455123969" ]
+  },
+  "type" : [ "h-entry" ]
+}
