@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Black" ],
+        "nickname" : [ "MatthwBlack" ],
+        "numeric-id" : [ "15819103" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/975452873470369792/m6l7sXq8.jpg" ],
+        "published" : [ "2008-08-12T05:24:03+00:00" ],
+        "uid" : [ "tag:twitter.com:MatthwBlack" ],
+        "url" : [ "https://twitter.com/MatthwBlack", "http://matthewblackmusic.com", "http://youtu.be/El91xwEf6Ys", "http://bit.ly/mb-xmas" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The thing is, Die Hard wasn’t a Christmas movie originally. The script was changed by Constantine in 336 to align it with the Sol Invictus festival." ],
+    "published" : [ "2018-12-20T13:41:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1075747948653355008" ],
+    "url" : [ "https://twitter.com/MatthwBlack/status/1075747948653355008" ]
+  },
+  "type" : [ "h-entry" ]
+}
