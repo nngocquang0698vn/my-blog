@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Sesame Street" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Cookie Monster" ],
+          "nickname" : [ "MeCookieMonster" ],
+          "numeric-id" : [ "2372164754" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1092451626781163523/0YzJMi-8.jpg" ],
+          "published" : [ "2014-03-04T16:57:57+00:00" ],
+          "uid" : [ "tag:twitter.com:MeCookieMonster" ],
+          "url" : [ "https://twitter.com/MeCookieMonster", "http://sesamestreet.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Me keep having to start new batch of cookies for Santa because me keep eating them." ],
+      "published" : [ "2022-12-24T18:01:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1606711553801199616" ],
+      "url" : [ "https://twitter.com/MeCookieMonster/status/1606711553801199616" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "in the pines" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🎄 stick 🎄 (jolly)" ],
+        "nickname" : [ "briggityboppity" ],
+        "numeric-id" : [ "1158175144612900864" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1597954243176136705/bbGmQTgK.jpg" ],
+        "published" : [ "2019-08-05T00:37:27+00:00" ],
+        "uid" : [ "tag:twitter.com:briggityboppity" ],
+        "url" : [ "https://twitter.com/briggityboppity" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "cookiephus " ],
+    "photo" : [ "https://pbs.twimg.com/media/Fkx4_thWIAI9fzG.jpg" ],
+    "published" : [ "2022-12-24T23:21:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1606792205103992836" ],
+    "url" : [ "https://twitter.com/briggityboppity/status/1606792205103992836" ]
+  },
+  "type" : [ "h-entry" ]
+}
