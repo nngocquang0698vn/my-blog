@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@codepope@mastodon.org.uk" ],
+        "nickname" : [ "Codepope" ],
+        "numeric-id" : [ "617063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/463699445020753920/VMK46fLd.png" ],
+        "published" : [ "2007-01-09T09:05:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Codepope" ],
+        "url" : [ "https://twitter.com/Codepope", "http://www.codepope.com/", "http://codepope.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You got tinnitus for Christmas!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monkchips\"></a>",
+      "value" : "You got tinnitus for Christmas!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/monkchips/status/1606830217154240512" ],
+    "published" : [ "2022-12-25T07:10:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1606910307011543040" ],
+    "url" : [ "https://twitter.com/Codepope/status/1606910307011543040" ]
+  },
+  "type" : [ "h-entry" ]
+}
