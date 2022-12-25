@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "New York Post" ],
+          "nickname" : [ "nypost" ],
+          "numeric-id" : [ "17469289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg" ],
+          "published" : [ "2008-11-18T19:46:36+00:00" ],
+          "uid" : [ "tag:twitter.com:nypost" ],
+          "url" : [ "https://twitter.com/nypost", "http://www.nypost.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "King Charles' first-ever Christmas speech may have a 'surprise' <a href=\"https://trib.al/s4ww40p\">trib.al/s4ww40p</a>",
+        "value" : "King Charles' first-ever Christmas speech may have a 'surprise' trib.al/s4ww40p"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FkwYKevX0AAXZd6.jpg" ],
+      "published" : [ "2022-12-24T16:18:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1606685737033793537" ],
+      "url" : [ "https://twitter.com/nypost/status/1606685737033793537" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "good tweet city" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Swagley Cooper" ],
+        "nickname" : [ "_ednight" ],
+        "numeric-id" : [ "139500503" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576536477684604930/DwqutPv1.jpg" ],
+        "published" : [ "2010-05-02T20:34:32+00:00" ],
+        "uid" : [ "tag:twitter.com:_ednight" ],
+        "url" : [ "https://twitter.com/_ednight" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Imagine if he brought Diana out" ],
+    "published" : [ "2022-12-25T14:51:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1607026162500354048" ],
+    "url" : [ "https://twitter.com/_ednight/status/1607026162500354048" ]
+  },
+  "type" : [ "h-entry" ]
+}
