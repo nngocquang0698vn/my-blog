@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eric Owens" ],
+        "nickname" : [ "ericowensdc" ],
+        "numeric-id" : [ "801367260" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/888241238331326464/DRb9qkcD.jpg" ],
+        "published" : [ "2012-09-03T22:49:06+00:00" ],
+        "uid" : [ "tag:twitter.com:ericowensdc" ],
+        "url" : [ "https://twitter.com/ericowensdc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The Die Hard screenplay wasn’t even written until scores of years AFTER Hans Gruber died.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MatthwBlack\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jimantle\"></a>",
+      "value" : "The Die Hard screenplay wasn’t even written until scores of years AFTER Hans Gruber died."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MatthwBlack/status/1075747948653355008" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Chicago, IL" ],
+        "uid" : [ "tag:twitter.com:1d9a5370a355ab0c" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2018-12-23T05:07:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1076705948578865152" ],
+    "url" : [ "https://twitter.com/ericowensdc/status/1076705948578865152" ]
+  },
+  "type" : [ "h-entry" ]
+}
