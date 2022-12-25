@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The past." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Fake History Hunter" ],
+        "nickname" : [ "fakehistoryhunt" ],
+        "numeric-id" : [ "878446695016800257" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576554860547395584/O_tovUze.jpg" ],
+        "published" : [ "2017-06-24T02:56:27+00:00" ],
+        "uid" : [ "tag:twitter.com:fakehistoryhunt" ],
+        "url" : [ "https://twitter.com/fakehistoryhunt", "http://www.fakehistoryhunter.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I love Twitter." ],
+    "photo" : [ "https://pbs.twimg.com/media/Fkwo3XwWAAAPSLA.jpg" ],
+    "published" : [ "2022-12-24T17:31:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1606704127496622080" ],
+    "url" : [ "https://twitter.com/fakehistoryhunt/status/1606704127496622080" ]
+  },
+  "type" : [ "h-entry" ]
+}
