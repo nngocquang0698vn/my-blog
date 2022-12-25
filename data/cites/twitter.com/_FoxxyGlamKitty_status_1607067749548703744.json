@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "IndieWire" ],
+          "nickname" : [ "IndieWire" ],
+          "numeric-id" : [ "13992132" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1429177637344321542/CZoJpK71.jpg" ],
+          "published" : [ "2008-02-26T08:25:08+00:00" ],
+          "uid" : [ "tag:twitter.com:IndieWire" ],
+          "url" : [ "https://twitter.com/IndieWire", "http://indiewire.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Jamie Lee Curtis, the daughter of Oscar nominees Tony Curtis and Janet Leigh, on the current \"nepo babies\" discourse: \"There are many of us. Dedicated to our craft. Proud of our lineage. Strong in our belief in our right to exist.” <a href=\"https://bit.ly/3hMKw4y\">bit.ly/3hMKw4y</a>",
+        "value" : "Jamie Lee Curtis, the daughter of Oscar nominees Tony Curtis and Janet Leigh, on the current \"nepo babies\" discourse: \"There are many of us. Dedicated to our craft. Proud of our lineage. Strong in our belief in our right to exist.” bit.ly/3hMKw4y"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fkxl9xGWAAAOI4F.jpg" ],
+      "published" : [ "2022-12-25T13:00:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1606998201365676033" ],
+      "url" : [ "https://twitter.com/IndieWire/status/1606998201365676033" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Jersey & New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vanessa Clark" ],
+        "nickname" : [ "FoxxyGlamKitty" ],
+        "numeric-id" : [ "1658439883" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151342533261352961/QOHnjEte.png" ],
+        "published" : [ "2013-08-09T19:01:44+00:00" ],
+        "uid" : [ "tag:twitter.com:FoxxyGlamKitty" ],
+        "url" : [ "https://twitter.com/FoxxyGlamKitty" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I love Jamie but she's taking the discourse the wrong way lol, nobody is saying that nepo babies can't be talented in their own right, but it's absurd for so many of them to never acknowledge that having famous parents did help and is part of why they're famous at all." ],
+    "published" : [ "2022-12-25T17:36:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1607067749548703744" ],
+    "url" : [ "https://twitter.com/FoxxyGlamKitty/status/1607067749548703744" ]
+  },
+  "type" : [ "h-entry" ]
+}
