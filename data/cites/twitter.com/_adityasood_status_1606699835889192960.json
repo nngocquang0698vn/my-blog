@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aditya Sood" ],
+        "nickname" : [ "adityasood" ],
+        "numeric-id" : [ "7395552" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2160457141/Portrait_of_the_Artist_as_a_Young_Man.jpeg" ],
+        "published" : [ "2007-07-11T07:38:09+00:00" ],
+        "uid" : [ "tag:twitter.com:adityasood" ],
+        "url" : [ "https://twitter.com/adityasood", "http://www.imdb.com/name/nm1533078/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I always thought DEADPOOL was an International Woman's Day movie.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/VancityReynolds\"></a>",
+      "value" : "I always thought DEADPOOL was an International Woman's Day movie."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/VancityReynolds/status/1606696064194674688" ],
+    "published" : [ "2022-12-24T17:14:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1606699835889192960" ],
+    "url" : [ "https://twitter.com/adityasood/status/1606699835889192960" ]
+  },
+  "type" : [ "h-entry" ]
+}
