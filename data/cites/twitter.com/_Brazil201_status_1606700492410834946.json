@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🇨🇦 " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Reynolds" ],
+          "nickname" : [ "VancityReynolds" ],
+          "numeric-id" : [ "2893511188" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1299844050208555008/7wMQaJRA.jpg" ],
+          "published" : [ "2014-11-26T16:12:27+00:00" ],
+          "uid" : [ "tag:twitter.com:VancityReynolds" ],
+          "url" : [ "https://twitter.com/VancityReynolds", "https://mintmobile.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Did Chan just confirm the first Deadpool is a Christmas movie? Happy Holi-stays!" ],
+      "photo" : [ "https://pbs.twimg.com/media/FkwhjmgWAAIhorS.jpg" ],
+      "published" : [ "2022-12-24T16:59:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1606696064194674688" ],
+      "url" : [ "https://twitter.com/VancityReynolds/status/1606696064194674688" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex" ],
+        "nickname" : [ "Brazil201" ],
+        "numeric-id" : [ "20566926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1604978652604776448/eIdoCzgP.jpg" ],
+        "published" : [ "2009-02-11T02:51:53+00:00" ],
+        "uid" : [ "tag:twitter.com:Brazil201" ],
+        "url" : [ "https://twitter.com/Brazil201", "https://www.imdb.com/name/nm10376631/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i mean it only takes place on christmas for 8 minutes lol" ],
+    "published" : [ "2022-12-24T17:17:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1606700492410834946" ],
+    "url" : [ "https://twitter.com/Brazil201/status/1606700492410834946" ]
+  },
+  "type" : [ "h-entry" ]
+}
