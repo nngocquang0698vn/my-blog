@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "New York Post" ],
+          "nickname" : [ "nypost" ],
+          "numeric-id" : [ "17469289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg" ],
+          "published" : [ "2008-11-18T19:46:36+00:00" ],
+          "uid" : [ "tag:twitter.com:nypost" ],
+          "url" : [ "https://twitter.com/nypost", "http://www.nypost.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Millennials, Gen Z more likely to call in sick at work: poll <a href=\"https://trib.al/hZYBwwm\">trib.al/hZYBwwm</a>",
+        "value" : "Millennials, Gen Z more likely to call in sick at work: poll trib.al/hZYBwwm"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fj1vHTSXwAAjfDE.jpg" ],
+      "published" : [ "2022-12-13T07:01:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1602559215331147777" ],
+      "url" : [ "https://twitter.com/nypost/status/1602559215331147777" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Jay Agenda 12/2/22 Union Hall" ],
+        "nickname" : [ "JayJurden" ],
+        "numeric-id" : [ "152448004" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599535642450477056/ABBQIZnp.jpg" ],
+        "published" : [ "2010-06-06T00:44:32+00:00" ],
+        "uid" : [ "tag:twitter.com:JayJurden" ],
+        "url" : [ "https://twitter.com/JayJurden", "https://linktr.ee/JayJurden", "http://orcd.co/jurdenyall", "http://jayjurden.com/contact" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You’re supposed to" ],
+    "published" : [ "2022-12-13T12:51:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1602647277851623426" ],
+    "url" : [ "https://twitter.com/JayJurden/status/1602647277851623426" ]
+  },
+  "type" : [ "h-entry" ]
+}
