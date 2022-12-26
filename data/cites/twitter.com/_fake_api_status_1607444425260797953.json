@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Lower Hudson Valley" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Zweig" ],
+          "nickname" : [ "davidzweig" ],
+          "numeric-id" : [ "305170362" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/480336822900252672/a2zerJ7i.png" ],
+          "published" : [ "2011-05-25T19:24:09+00:00" ],
+          "uid" : [ "tag:twitter.com:davidzweig" ],
+          "url" : [ "https://twitter.com/davidzweig", "https://davidzweig.substack.com/", "http://davidzweig.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "39. What might this pandemic and its aftermath have looked like if there had been a more open debate on Twitter and other social media platforms—not to mention the mainstream press—about the origins of Covid, about lockdowns, about the true risks of Covid in kids, and much more?" ],
+      "in-reply-to" : [ "https://twitter.com/davidzweig/status/1607391449074507778" ],
+      "published" : [ "2022-12-26T15:03:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1607391677739634689" ],
+      "url" : [ "https://twitter.com/davidzweig/status/1607391677739634689" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (not parody) instagram: fake_api" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It would have been worse. Do you think convincing fewer people to get vaccinated was going to make the pandemic better? No one should ever take you seriously as a journalist again." ],
+    "published" : [ "2022-12-26T18:33:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1607444425260797953" ],
+    "url" : [ "https://twitter.com/fake_api/status/1607444425260797953" ]
+  },
+  "type" : [ "h-entry" ]
+}
