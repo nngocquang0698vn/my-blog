@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Barcelona, Spain" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Perry" ],
+        "nickname" : [ "pimterry" ],
+        "numeric-id" : [ "20509812" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/615579808781737984/5CJ4T0UU.jpg" ],
+        "published" : [ "2009-02-10T12:28:29+00:00" ],
+        "uid" : [ "tag:twitter.com:pimterry" ],
+        "url" : [ "https://twitter.com/pimterry", "http://tim.fyi", "http://httptoolkit.com", "http://toot.cafe/@pimterry" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Happy (un)boxing day to me!\n\nIt's finally time to replace my 5 year old Thinkpad with a shiny new DIY Framework 🎁</div>",
+      "value" : "Happy (un)boxing day to me!\n\nIt's finally time to replace my 5 year old Thinkpad with a shiny new DIY Framework 🎁"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fk6svwzXgAECzlW.jpg" ],
+    "published" : [ "2022-12-26T16:27:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1607412849005019137" ],
+    "url" : [ "https://twitter.com/pimterry/status/1607412849005019137" ]
+  },
+  "type" : [ "h-entry" ]
+}
