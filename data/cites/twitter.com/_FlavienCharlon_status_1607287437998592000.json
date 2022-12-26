@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dublin, Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Flavien Charlon" ],
+        "nickname" : [ "FlavienCharlon" ],
+        "numeric-id" : [ "121790832" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1058130308879405056/NeQ1xRxv.jpg" ],
+        "published" : [ "2010-03-10T16:00:41+00:00" ],
+        "uid" : [ "tag:twitter.com:FlavienCharlon" ],
+        "url" : [ "https://twitter.com/FlavienCharlon", "https://www.trezeo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The way he manages his engineering team shows he has no idea how software engineering is done.\nCalling Twitter a Rube Goldberg machine shows he has no clue about modern software architecture.\nThe list goes on...</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MattStopa\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ianlandsman\"></a>",
+      "value" : "The way he manages his engineering team shows he has no idea how software engineering is done.\nCalling Twitter a Rube Goldberg machine shows he has no clue about modern software architecture.\nThe list goes on..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MattStopa/status/1607219336158089221" ],
+    "published" : [ "2022-12-26T08:09:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1607287437998592000" ],
+    "url" : [ "https://twitter.com/FlavienCharlon/status/1607287437998592000" ]
+  },
+  "type" : [ "h-entry" ]
+}
