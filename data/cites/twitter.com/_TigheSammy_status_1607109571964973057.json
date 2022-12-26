@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "The Hollywood Handle" ],
+          "nickname" : [ "hollywoodhandle" ],
+          "numeric-id" : [ "1435732236628803586" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1603578456939405312/gXntgAxF.jpg" ],
+          "published" : [ "2021-09-08T22:30:23+00:00" ],
+          "uid" : [ "tag:twitter.com:hollywoodhandle" ],
+          "url" : [ "https://twitter.com/hollywoodhandle", "http://thehollywoodhandle.co" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">‘AVATAR: THE SEED BEARER’ and ‘SONIC THE HEDGEHOG 3’ will both release in theaters on the same day in December 20, 2024.\n\nWhich one you plan on watching first? 🤔</div>",
+        "value" : "‘AVATAR: THE SEED BEARER’ and ‘SONIC THE HEDGEHOG 3’ will both release in theaters on the same day in December 20, 2024.\n\nWhich one you plan on watching first? 🤔"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FksNlglXoA4iI7V.jpg", "https://pbs.twimg.com/media/FksNlglXoAUwbpB.jpg" ],
+      "published" : [ "2022-12-23T20:53:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1606392633873637404" ],
+      "url" : [ "https://twitter.com/hollywoodhandle/status/1606392633873637404" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sammy Tighe" ],
+        "nickname" : [ "TigheSammy" ],
+        "numeric-id" : [ "1271681527" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1607202853378232320/0QR5YRfX.jpg" ],
+        "published" : [ "2013-03-16T07:25:24+00:00" ],
+        "uid" : [ "tag:twitter.com:TigheSammy" ],
+        "url" : [ "https://twitter.com/TigheSammy", "http://linktr.ee/sammytighe", "http://sammytighe.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Avatar the WHAT" ],
+    "published" : [ "2022-12-25T20:22:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1607109571964973057" ],
+    "url" : [ "https://twitter.com/TigheSammy/status/1607109571964973057" ]
+  },
+  "type" : [ "h-entry" ]
+}
