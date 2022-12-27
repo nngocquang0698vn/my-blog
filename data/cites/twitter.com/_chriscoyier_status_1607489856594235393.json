@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bend, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Coyier" ],
+        "nickname" : [ "chriscoyier" ],
+        "numeric-id" : [ "793830" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/883049860332609537/IsUISvAq.jpg" ],
+        "published" : [ "2007-02-25T16:02:22+00:00" ],
+        "uid" : [ "tag:twitter.com:chriscoyier" ],
+        "url" : [ "https://twitter.com/chriscoyier", "https://chriscoyier.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Bring Back Blogging <a href=\"https://chriscoyier.net/2022/12/26/bring-back-blogging/\">chriscoyier.net/2022/12/26/bri…</a>",
+      "value" : "Bring Back Blogging chriscoyier.net/2022/12/26/bri…"
+    } ],
+    "published" : [ "2022-12-26T21:33:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1607489856594235393" ],
+    "url" : [ "https://twitter.com/chriscoyier/status/1607489856594235393" ]
+  },
+  "type" : [ "h-entry" ]
+}
