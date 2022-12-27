@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "NPR" ],
+          "nickname" : [ "NPR" ],
+          "numeric-id" : [ "5392522" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1419704144026296333/ms3D5ipo.jpg" ],
+          "published" : [ "2007-04-22T05:10:15+00:00" ],
+          "uid" : [ "tag:twitter.com:NPR" ],
+          "url" : [ "https://twitter.com/NPR", "http://www.npr.org", "http://securedrop.npr.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Southwest has canceled another 2,500 flights so far on Tuesday.\n\nPeople now find themselves stranded at airports across the country, with little idea of when they can get home or where their bags are.\n<a href=\"https://n.pr/3WHka3b\">n.pr/3WHka3b</a></div>",
+        "value" : "Southwest has canceled another 2,500 flights so far on Tuesday.\n\nPeople now find themselves stranded at airports across the country, with little idea of when they can get home or where their bags are.\nn.pr/3WHka3b"
+      } ],
+      "published" : [ "2022-12-27T15:14:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1607756728447238148" ],
+      "url" : [ "https://twitter.com/NPR/status/1607756728447238148" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/npr/status/160…" ],
+      "url" : [ "https://twitter.com/npr/status/1607756728447238148" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Qasim Rashid, Esq." ],
+        "nickname" : [ "QasimRashid" ],
+        "numeric-id" : [ "85583894" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1562223336813371392/YfIh_qHn.jpg" ],
+        "published" : [ "2009-10-27T14:47:28+00:00" ],
+        "uid" : [ "tag:twitter.com:QasimRashid" ],
+        "url" : [ "https://twitter.com/QasimRashid", "http://linktree.com/qasimrashid" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">.<a href=\"https://twitter.com/SouthwestAir\">@SouthwestAir</a> took $3.7B in federal aid from 2020-21.\n\nIt’s CEO got a pay raise to a $9.1M package in 2022.\n\nYet Southwest employees are working 16 hour shifts &amp; threatened w/termination if they refuse overtime or call in sick.\n\nSocialism for the wealthy. Capitalism for workers.</div>\n<a class=\"tag\" href=\"https://twitter.com/npr/status/1607756728447238148\">twitter.com/npr/status/160…</a>",
+      "value" : ".@SouthwestAir took $3.7B in federal aid from 2020-21.\n\nIt’s CEO got a pay raise to a $9.1M package in 2022.\n\nYet Southwest employees are working 16 hour shifts & threatened w/termination if they refuse overtime or call in sick.\n\nSocialism for the wealthy. Capitalism for workers."
+    } ],
+    "published" : [ "2022-12-27T17:40:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1607793629501837312" ],
+    "url" : [ "https://twitter.com/QasimRashid/status/1607793629501837312" ]
+  },
+  "type" : [ "h-entry" ]
+}
