@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas Metroplex, TX, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Chase" ],
+        "nickname" : [ "gumnos" ],
+        "numeric-id" : [ "20667366" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392662420636774400/9DpATuzi.jpg" ],
+        "published" : [ "2009-02-12T10:46:35+00:00" ],
+        "uid" : [ "tag:twitter.com:gumnos" ],
+        "url" : [ "https://twitter.com/gumnos" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I do ♥ vim's editing power.\n\nWanted to make a mass edit across hundreds of blocks in dozens of files.\n\n1) Identify:\n:vimgrep /pattern/ **/*.html\n\n2) make bulk change\n:cdo «copy the line to the target, modify it as desired, return to previous line, remove portion»\n\n3) save\n:wa</div>",
+      "value" : "I do ♥ vim's editing power.\n\nWanted to make a mass edit across hundreds of blocks in dozens of files.\n\n1) Identify:\n:vimgrep /pattern/ **/*.html\n\n2) make bulk change\n:cdo «copy the line to the target, modify it as desired, return to previous line, remove portion»\n\n3) save\n:wa"
+    } ],
+    "published" : [ "2022-12-27T02:14:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1607560475956371460" ],
+    "url" : [ "https://twitter.com/gumnos/status/1607560475956371460" ]
+  },
+  "type" : [ "h-entry" ]
+}
