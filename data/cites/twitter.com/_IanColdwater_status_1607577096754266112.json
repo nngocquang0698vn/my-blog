@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "if you're a LastPass user it's time to roll alllll your creds\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>",
+      "value" : "if you're a LastPass user it's time to roll alllll your creds"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1607535015956742144" ],
+    "published" : [ "2022-12-27T03:20:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1607577096754266112" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1607577096754266112" ]
+  },
+  "type" : [ "h-entry" ]
+}
