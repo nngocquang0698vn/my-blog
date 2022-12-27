@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@fluffy@plush.city" ],
+        "nickname" : [ "fluffy" ],
+        "numeric-id" : [ "993171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1590630570132123648/POPyLC4l.jpg" ],
+        "published" : [ "2007-03-12T07:02:53+00:00" ],
+        "uid" : [ "tag:twitter.com:fluffy" ],
+        "url" : [ "https://twitter.com/fluffy", "https://beesbuzz.biz/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If I were prone to conspiratorial thinking, I'd posit that the Saudis helped to bankroll Elon's purchase of Twitter because they knew this would be the powder keg explosion that devalued Tesla and therefore destroyed the market for EVs due to its indelible association with him." ],
+    "published" : [ "2022-12-16T20:16:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1603846581123682305" ],
+    "url" : [ "https://twitter.com/fluffy/status/1603846581123682305" ]
+  },
+  "type" : [ "h-entry" ]
+}
