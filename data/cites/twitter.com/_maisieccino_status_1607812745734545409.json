@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london, uk" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖" ],
+        "nickname" : [ "maisieccino" ],
+        "numeric-id" : [ "1547507513561694208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587839052358844417/JQR7-9wG.jpg" ],
+        "published" : [ "2022-07-14T09:06:17+00:00" ],
+        "uid" : [ "tag:twitter.com:maisieccino" ],
+        "url" : [ "https://twitter.com/maisieccino", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "a thread about my necklace and its importance to me 🧵" ],
+    "photo" : [ "https://pbs.twimg.com/media/FlAZK1vXwAE2FyV.jpg" ],
+    "published" : [ "2022-12-27T18:56:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1607812745734545409" ],
+    "url" : [ "https://twitter.com/maisieccino/status/1607812745734545409" ]
+  },
+  "type" : [ "h-entry" ]
+}
