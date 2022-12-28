@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Lance Garcia" ],
+        "nickname" : [ "AdamLanceGarcia" ],
+        "numeric-id" : [ "263970579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1606726589684776965/bJnSUIb9.jpg" ],
+        "published" : [ "2011-03-11T02:41:22+00:00" ],
+        "uid" : [ "tag:twitter.com:AdamLanceGarcia" ],
+        "url" : [ "https://twitter.com/AdamLanceGarcia", "http://adamlancegarcia.com", "http://amazon.com/~/e/B002M5AISA" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Live footage of Ben Shapiro tweeting about why he didn't like Glass Onion." ],
+    "photo" : [ "https://pbs.twimg.com/media/Fk6TNlOWAAE67FN.png" ],
+    "published" : [ "2022-12-26T14:33:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1607384114965147652" ],
+    "url" : [ "https://twitter.com/AdamLanceGarcia/status/1607384114965147652" ]
+  },
+  "type" : [ "h-entry" ]
+}
