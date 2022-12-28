@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Manton Reece" ],
+    "summary" : [ "I don’t agree with everything in this post by M.G. Siegler (found via @rcrackley) but I do love the “Mastodon brought a protocol to a product fight” line. Of course, the protocol is plumbing. Like the IndieWeb specs, the protocol is implementing a philosophy, and that matters." ],
+    "featured" : [ "https://micro.blog/manton/avatar.jpg", "https://micro.blog/manton/avatar.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ]
+      }
+    } ],
+    "url" : [ "https://www.manton.org/2022/12/28/i-dont-agree.html" ],
+    "published" : [ "2022-12-28T10:40:33-06:00" ]
+  }
+}
