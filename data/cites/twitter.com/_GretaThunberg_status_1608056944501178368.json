@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Dubai" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Andrew Tate" ],
+          "nickname" : [ "Cobratate" ],
+          "numeric-id" : [ "333357345" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1593669202702999554/aQ7YTs2C.jpg" ],
+          "published" : [ "2011-07-11T12:15:34+00:00" ],
+          "uid" : [ "tag:twitter.com:Cobratate" ],
+          "url" : [ "https://twitter.com/Cobratate", "http://www.cobratate.com", "http://Cobratate.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Hello <a href=\"https://twitter.com/GretaThunberg\">@GretaThunberg</a> \n\nI have 33 cars. \n\nMy Bugatti has a w16 8.0L quad turbo. \n\nMy TWO Ferrari 812 competizione have 6.5L v12s.\n\nThis is just the start.\n\nPlease provide your email address so I can send a complete list of my car collection and their respective enormous emissions.</div>",
+        "value" : "Hello @GretaThunberg \n\nI have 33 cars. \n\nMy Bugatti has a w16 8.0L quad turbo. \n\nMy TWO Ferrari 812 competizione have 6.5L v12s.\n\nThis is just the start.\n\nPlease provide your email address so I can send a complete list of my car collection and their respective enormous emissions."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fk-d3_TXoAAEy1_.jpg" ],
+      "published" : [ "2022-12-27T09:58:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1607677190254235648" ],
+      "url" : [ "https://twitter.com/Cobratate/status/1607677190254235648" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sverige" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Greta Thunberg" ],
+        "nickname" : [ "GretaThunberg" ],
+        "numeric-id" : [ "1006419421244678144" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI.jpg" ],
+        "published" : [ "2018-06-12T06:14:23+00:00" ],
+        "uid" : [ "tag:twitter.com:GretaThunberg" ],
+        "url" : [ "https://twitter.com/GretaThunberg", "http://fridaysforfuture.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "yes, please do enlighten me. email me at smalldickenergy@getalife.com" ],
+    "published" : [ "2022-12-28T11:07:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1608056944501178368" ],
+    "url" : [ "https://twitter.com/GretaThunberg/status/1608056944501178368" ]
+  },
+  "type" : [ "h-entry" ]
+}
