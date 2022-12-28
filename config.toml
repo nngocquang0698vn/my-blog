@@ -188,8 +188,8 @@ notAlternative = true
     weight = 10
   [[menu.footer]]
     identifier = "subscribe"
-    name = "Follow This Blog"
-    title = "Follow This Blog"
+    name = "Follow This Blog (i.e. via RSS feed)"
+    title = "Follow This Blog (i.e. via RSS feed)"
     url = "/subscribe/"
     weight = 11
   [[menu.footer]]
