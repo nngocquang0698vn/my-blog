@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Greg Brockman" ],
+        "nickname" : [ "gdb" ],
+        "numeric-id" : [ "162124540" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD.jpg" ],
+        "published" : [ "2010-07-02T19:38:09+00:00" ],
+        "uid" : [ "tag:twitter.com:gdb" ],
+        "url" : [ "https://twitter.com/gdb", "http://gregbrockman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Code is a liability, not an asset. So goal of software engineer is delivering the maximum amount of desired functionality at the cost of the least amount of code complexity, even as desired functionality evolves over time." ],
+    "published" : [ "2022-12-24T03:03:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1606485739679932416" ],
+    "url" : [ "https://twitter.com/gdb/status/1606485739679932416" ]
+  },
+  "type" : [ "h-entry" ]
+}
