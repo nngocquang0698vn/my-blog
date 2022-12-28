@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cornwall" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Arundel" ],
+        "nickname" : [ "bitfield" ],
+        "numeric-id" : [ "14375294" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af.jpeg" ],
+        "published" : [ "2008-04-13T14:37:00+00:00" ],
+        "uid" : [ "tag:twitter.com:bitfield" ],
+        "url" : [ "https://twitter.com/bitfield", "https://bitfieldconsulting.com/books" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I once worked with a manager who asked “Why do we all need these SREs when the site never goes down?”, and I think about that a lot." ],
+    "published" : [ "2022-12-21T18:13:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1605627413039353858" ],
+    "url" : [ "https://twitter.com/bitfield/status/1605627413039353858" ]
+  },
+  "type" : [ "h-entry" ]
+}
