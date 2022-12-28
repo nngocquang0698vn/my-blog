@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "John Cleese" ],
+          "nickname" : [ "JohnCleese" ],
+          "numeric-id" : [ "10810102" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2622284361/1emzqsaz3t5glbyndf66.jpeg" ],
+          "published" : [ "2007-12-03T13:43:30+00:00" ],
+          "uid" : [ "tag:twitter.com:JohnCleese" ],
+          "url" : [ "https://twitter.com/JohnCleese", "https://bit.ly/cameocleese" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Can anyone ( including BBC employees ) tell me why the BBC has not shown Monty Python for a couple of decades ?" ],
+      "published" : [ "2022-12-27T16:14:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1607771790092423168" ],
+      "url" : [ "https://twitter.com/JohnCleese/status/1607771790092423168" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/johncleese/sta…" ],
+      "url" : [ "https://twitter.com/johncleese/status/1607771790092423168" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Ethan Lawrence" ],
+        "nickname" : [ "EthanDLawrence" ],
+        "numeric-id" : [ "27721401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1531762577855983617/HZnLA--R.jpg" ],
+        "published" : [ "2009-03-30T20:31:14+00:00" ],
+        "uid" : [ "tag:twitter.com:EthanDLawrence" ],
+        "url" : [ "https://twitter.com/EthanDLawrence", "https://linktr.ee/ethandlawrence" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Netflix currently has the rights to Monty Python. \n\nI imagine John knows this given he would probably have received a residual cheque when the sale happened but then he couldn’t pretend to be a victim of a culture he is desperate to be cancelled from.</div>\n<a class=\"tag\" href=\"https://twitter.com/johncleese/status/1607771790092423168\">twitter.com/johncleese/sta…</a>",
+      "value" : "Netflix currently has the rights to Monty Python. \n\nI imagine John knows this given he would probably have received a residual cheque when the sale happened but then he couldn’t pretend to be a victim of a culture he is desperate to be cancelled from."
+    } ],
+    "published" : [ "2022-12-27T17:32:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1607791538259611650" ],
+    "url" : [ "https://twitter.com/EthanDLawrence/status/1607791538259611650" ]
+  },
+  "type" : [ "h-entry" ]
+}
