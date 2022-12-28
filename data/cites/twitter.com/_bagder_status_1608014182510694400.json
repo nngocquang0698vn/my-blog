@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "daniel:// stenberg://" ],
+        "nickname" : [ "bagder" ],
+        "numeric-id" : [ "14893620" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407469211136450565/VOQGppj0.jpg" ],
+        "published" : [ "2008-05-24T20:46:13+00:00" ],
+        "uid" : [ "tag:twitter.com:bagder" ],
+        "url" : [ "https://twitter.com/bagder", "https://daniel.haxx.se/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "curl -w certs <a href=\"https://daniel.haxx.se/blog/2022/12/28/curl-w-certs/\">daniel.haxx.se/blog/2022/12/2…</a> - curl can now output the server certificates in PEM format",
+      "value" : "curl -w certs daniel.haxx.se/blog/2022/12/2… - curl can now output the server certificates in PEM format"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FlDQXLtWQAAJ6Xx.jpg" ],
+    "published" : [ "2022-12-28T08:17:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1608014182510694400" ],
+    "url" : [ "https://twitter.com/bagder/status/1608014182510694400" ]
+  },
+  "type" : [ "h-entry" ]
+}
