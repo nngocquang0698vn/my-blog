@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dennis \"Tail Number: N628TS\" DiClaudio" ],
+        "nickname" : [ "dennisdiclaudio" ],
+        "numeric-id" : [ "11674792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435940663716089862/FTKlp72R.jpg" ],
+        "published" : [ "2007-12-31T01:50:59+00:00" ],
+        "uid" : [ "tag:twitter.com:dennisdiclaudio" ],
+        "url" : [ "https://twitter.com/dennisdiclaudio", "http://linktr.ee/dennisdiclaudio" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "And you're gonna get fired!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ElGrecoSF\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "And you're gonna get fired!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1608031736214048771" ],
+    "photo" : [ "https://pbs.twimg.com/media/FlEaG-NWYAEww5w.png" ],
+    "published" : [ "2022-12-28T13:39:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1608095351277240320" ],
+    "url" : [ "https://twitter.com/dennisdiclaudio/status/1608095351277240320" ]
+  },
+  "type" : [ "h-entry" ]
+}
