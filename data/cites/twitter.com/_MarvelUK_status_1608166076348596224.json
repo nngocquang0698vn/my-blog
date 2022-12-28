@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marvel UK & Ireland" ],
+        "nickname" : [ "MarvelUK" ],
+        "numeric-id" : [ "546109609" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486344252409929730/C0uUMGmZ.jpg" ],
+        "published" : [ "2012-04-05T16:39:30+00:00" ],
+        "uid" : [ "tag:twitter.com:MarvelUK" ],
+        "url" : [ "https://twitter.com/MarvelUK", "http://marvel.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">100 years of dreaming. 100 years of creating. 100 years of Stan Lee.\n\nStan Lee, an Original documentary, is streaming 2023 on <a href=\"https://twitter.com/DisneyPlusUK\">@DisneyPlusUK</a>.</div>",
+      "value" : "100 years of dreaming. 100 years of creating. 100 years of Stan Lee.\n\nStan Lee, an Original documentary, is streaming 2023 on @DisneyPlusUK."
+    } ],
+    "published" : [ "2022-12-28T18:20:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1608166076348596224" ],
+    "url" : [ "https://twitter.com/MarvelUK/status/1608166076348596224" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1608164857462882305/vid/1920x1080/hl4w6cSL1ZZtgYMo.mp4?tag=16" ]
+  },
+  "type" : [ "h-entry" ]
+}
