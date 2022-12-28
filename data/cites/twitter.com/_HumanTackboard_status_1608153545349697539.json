@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Downey, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Leroy Patterson" ],
+        "nickname" : [ "HumanTackboard" ],
+        "numeric-id" : [ "80973641" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1577550494666346496/OtuQiCpB.jpg" ],
+        "published" : [ "2009-10-08T23:37:55+00:00" ],
+        "uid" : [ "tag:twitter.com:HumanTackboard" ],
+        "url" : [ "https://twitter.com/HumanTackboard", "https://giphy.com/leroypatterson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DanielleFong\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sevensixfive\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1608143077910233098" ],
+    "published" : [ "2022-12-28T17:30:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1608153545349697539" ],
+    "url" : [ "https://twitter.com/HumanTackboard/status/1608153545349697539" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FlFPHpcaEAADVDf.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
