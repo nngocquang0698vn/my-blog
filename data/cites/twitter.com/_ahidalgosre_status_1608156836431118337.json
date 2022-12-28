@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "https://www.alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We regret to inform you that between this article being published and the present time DevOps has died yet again. That's approximately 15 times in 2022 alone.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IAmJerdog\"></a>",
+      "value" : "We regret to inform you that between this article being published and the present time DevOps has died yet again. That's approximately 15 times in 2022 alone."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IAmJerdog/status/1608155945036652544" ],
+    "published" : [ "2022-12-28T17:44:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1608156836431118337" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1608156836431118337" ]
+  },
+  "type" : [ "h-entry" ]
+}
