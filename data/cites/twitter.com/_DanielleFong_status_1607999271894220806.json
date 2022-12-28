@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Halifax, Nova Scotia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Danielle Fong 💁🏻‍♀️" ],
+        "nickname" : [ "DanielleFong" ],
+        "numeric-id" : [ "13232322" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599909127811207168/M4EBeX28.jpg" ],
+        "published" : [ "2008-02-08T02:44:54+00:00" ],
+        "uid" : [ "tag:twitter.com:DanielleFong" ],
+        "url" : [ "https://twitter.com/DanielleFong", "http://daniellefong.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "come on elon\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "come on elon"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1607997591870124032" ],
+    "photo" : [ "https://pbs.twimg.com/media/FlDC0J2XoAIxYkt.jpg" ],
+    "published" : [ "2022-12-28T07:17:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1607999271894220806" ],
+    "url" : [ "https://twitter.com/DanielleFong/status/1607999271894220806" ]
+  },
+  "type" : [ "h-entry" ]
+}
