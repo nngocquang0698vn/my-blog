@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "John Cleese" ],
+          "nickname" : [ "JohnCleese" ],
+          "numeric-id" : [ "10810102" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2622284361/1emzqsaz3t5glbyndf66.jpeg" ],
+          "published" : [ "2007-12-03T13:43:30+00:00" ],
+          "uid" : [ "tag:twitter.com:JohnCleese" ],
+          "url" : [ "https://twitter.com/JohnCleese", "https://bit.ly/cameocleese" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Can anyone ( including BBC employees ) tell me why the BBC has not shown Monty Python for a couple of decades ?" ],
+      "published" : [ "2022-12-27T16:14:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1607771790092423168" ],
+      "url" : [ "https://twitter.com/JohnCleese/status/1607771790092423168" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "r" ],
+        "nickname" : [ "recombobulating" ],
+        "numeric-id" : [ "1431974992586186757" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432676138552266754/qD7xc2sX.jpg" ],
+        "published" : [ "2021-08-29T13:40:37+00:00" ],
+        "uid" : [ "tag:twitter.com:recombobulating" ],
+        "url" : [ "https://twitter.com/recombobulating" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The BBC lost the broadcast rights to Monty Python to the Monty Python group in a court case in 1976 and they've since been sold by the members to various networks including UKTV &amp; Netflix.\n\nBut why let facts get in the way of your victim complex? </div>",
+      "value" : "The BBC lost the broadcast rights to Monty Python to the Monty Python group in a court case in 1976 and they've since been sold by the members to various networks including UKTV & Netflix.\n\nBut why let facts get in the way of your victim complex? "
+    } ],
+    "published" : [ "2022-12-27T16:55:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1607782349873332226" ],
+    "url" : [ "https://twitter.com/recombobulating/status/1607782349873332226" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fk_9g-bWIAIypwh.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
