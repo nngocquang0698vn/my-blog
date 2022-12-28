@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco Bay Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Peter Kacandes" ],
+        "nickname" : [ "ElGrecoSF" ],
+        "numeric-id" : [ "4425131" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1679433749/snowboarding.jpg" ],
+        "published" : [ "2007-04-12T23:49:43+00:00" ],
+        "uid" : [ "tag:twitter.com:ElGrecoSF" ],
+        "url" : [ "https://twitter.com/ElGrecoSF" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Maybe not, but you've got the impulse control of a toddler. \nI really hope you've got some secret plan, but as it stands now, you paid the most ever to be the biggest internet troll.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "Maybe not, but you've got the impulse control of a toddler. \nI really hope you've got some secret plan, but as it stands now, you paid the most ever to be the biggest internet troll."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1607997591870124032" ],
+    "published" : [ "2022-12-28T09:25:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1608031497122123777" ],
+    "url" : [ "https://twitter.com/ElGrecoSF/status/1608031497122123777" ]
+  },
+  "type" : [ "h-entry" ]
+}
