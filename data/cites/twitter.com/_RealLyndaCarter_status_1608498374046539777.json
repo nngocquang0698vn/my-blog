@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Paradise Island" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Satin Tights: A Wonder Woman Podcast" ],
+          "nickname" : [ "SatinTightsPOD" ],
+          "numeric-id" : [ "1291985269" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/928004256845778950/RlEYptGl.jpg" ],
+          "published" : [ "2013-03-23T17:07:35+00:00" ],
+          "uid" : [ "tag:twitter.com:SatinTightsPOD" ],
+          "url" : [ "https://twitter.com/SatinTightsPOD", "http://satintights.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RealLyndaCarter\"></a>"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/RealLyndaCarter/status/1608144864801169412" ],
+      "published" : [ "2022-12-28T21:50:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1608218781779648514" ],
+      "url" : [ "https://twitter.com/SatinTightsPOD/status/1608218781779648514" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1608218582755819520/pu/vid/720x1280/2-Rk_7hU6pWvQKMU.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/satintightspod…" ],
+      "url" : [ "https://twitter.com/satintightspod/status/1608218781779648514" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lynda Carter" ],
+        "nickname" : [ "RealLyndaCarter" ],
+        "numeric-id" : [ "188061519" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1450519121163063296/6cmXGVnY.jpg" ],
+        "published" : [ "2010-09-07T20:55:50+00:00" ],
+        "uid" : [ "tag:twitter.com:RealLyndaCarter" ],
+        "url" : [ "https://twitter.com/RealLyndaCarter", "http://lyndacarter.com", "http://found.ee/humandivinerem" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I trained at Waffle House.\n<a class=\"tag\" href=\"https://twitter.com/satintightspod/status/1608218781779648514\">twitter.com/satintightspod…</a>",
+      "value" : "I trained at Waffle House."
+    } ],
+    "published" : [ "2022-12-29T16:21:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1608498374046539777" ],
+    "url" : [ "https://twitter.com/RealLyndaCarter/status/1608498374046539777" ]
+  },
+  "type" : [ "h-entry" ]
+}
