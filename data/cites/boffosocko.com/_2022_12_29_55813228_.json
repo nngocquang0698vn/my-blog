@@ -1,0 +1,38 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "FeedReaderFriday", "IndieWeb", "https://boffosocko.com/tag/feedreaderfriday/", "https://boffosocko.com/tag/indieweb/" ],
+    "featured" : [ {
+      "value" : "https://i0.wp.com/boffosocko.com/wp-content/uploads/2020/12/build-your-home.png?resize=825%2C510&ssl=1",
+      "alt" : "View over the shoulder of a female architect working on blueprints superimposed with the text \"Build the internet home you've always wanted. indieweb.org\""
+    } ],
+    "tag" : [ "https://boffosocko.com/tag/feedreaderfriday/", "https://boffosocko.com/tag/indieweb/" ],
+    "url" : [ "https://boffosocko.com/2022/12/29/55813228/" ],
+    "syndication" : [ "https://www.tumblr.com/blog/view/chrisaldrich.tumblr.com/705028264906883072", "https://chrisaldrich.tumblr.com/705028264906883072", "https://hcommons.social/@chrisaldrich/109600265922872360", "https://micro.blog/chrisaldrich/15554073", "https://chrisaldrich.wordpress.com/?p=55693628", "https://mastodon.social/@chrisaldrich/109600263697913522" ],
+    "published" : [ "2022-12-29T18:28:15-08:00" ],
+    "updated" : [ "2022-12-29T18:39:05-08:00" ],
+    "content" : [ {
+      "html" : "On <a rel=\"tag\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/feedreaderfriday/\">#FeedReaderFriday</a> I’m adding some of my favorite Mastodon accounts to my <a href=\"https://indieweb.org/Microsub\" target=\"_blank\" rel=\"noopener\">microsub</a> account on <a href=\"https://aperture.p3k.io/\" target=\"_blank\" rel=\"noopener\">Aperture</a> so I can easily read and follow them in the <a href=\"https://indieweb.org/social_reader\" target=\"_blank\" rel=\"noopener\">social readers</a> I use like <a href=\"https://monocle.p3k.io\" target=\"_blank\" rel=\"noopener\">Monocle</a>. To me this is the purest form of social media interaction. <a rel=\"tag\" class=\"u-tag u-category\" href=\"https://boffosocko.com/tag/indieweb/\">#IndieWeb</a>",
+      "value" : "On #FeedReaderFriday I’m adding some of my favorite Mastodon accounts to my microsub account on Aperture so I can easily read and follow them in the social readers I use like Monocle. To me this is the purest form of social media interaction. #IndieWeb",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Chris Aldrich" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/d5fb4e498fe609cc29b04e5b7ad688c4?s=96&d=identicon&r=pg",
+          "alt" : ""
+        }, {
+          "value" : "https://secure.gravatar.com/avatar/d5fb4e498fe609cc29b04e5b7ad688c4?s=96&d=identicon&r=pg",
+          "alt" : ""
+        } ],
+        "url" : [ "https://boffosocko.com/author/chrisaldrich/" ]
+      },
+      "lang" : "en-US",
+      "value" : "https://boffosocko.com/author/chrisaldrich/"
+    } ]
+  },
+  "id" : "post-55813228",
+  "lang" : "en-US"
+}
