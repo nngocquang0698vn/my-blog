@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Elaine Scattermoon" ],
+        "nickname" : [ "scattermoon" ],
+        "numeric-id" : [ "19086367" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1077166281667870720/a3DWBoBJ.jpg" ],
+        "published" : [ "2009-01-16T21:24:50+00:00" ],
+        "uid" : [ "tag:twitter.com:scattermoon" ],
+        "url" : [ "https://twitter.com/scattermoon", "https://www.gofundme.com/f/help-elaine-scattermoon-defeat-her-dysphoria" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "lmao twitter disabled the stock price view widget for tesla and *just* tesla" ],
+    "photo" : [ {
+      "alt" : "Coca-Cola Company Stock Graph",
+      "value" : "https://pbs.twimg.com/media/Fk_r3FEX0AQaLNj.png"
+    }, {
+      "alt" : "General Motors Company stock graph",
+      "value" : "https://pbs.twimg.com/media/Fk_r6ZTWYAISbD0.png"
+    }, {
+      "alt" : "Microsoft Corp stock graph",
+      "value" : "https://pbs.twimg.com/media/Fk_r8-IWAAAbdKi.png"
+    }, {
+      "alt" : "Tesla...no stock graph",
+      "value" : "https://pbs.twimg.com/media/Fk_r_PwWQAAUpaz.png"
+    } ],
+    "published" : [ "2022-12-27T15:39:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1607763075423244288" ],
+    "url" : [ "https://twitter.com/scattermoon/status/1607763075423244288" ]
+  },
+  "type" : [ "h-entry" ]
+}
