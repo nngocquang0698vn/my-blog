@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Unlike other devs, I DON'T rewrite my blog every year. In fact, I hadn't upgraded most of the pkgs for years. It was out of hand. 😅\n\nToday, I YOLO upgraded every pkg to latest, and honestly, it mostly kept working. 😂\n\nFound &amp; fixed the stuff that broke pretty easily, too.</div>",
+      "value" : "Unlike other devs, I DON'T rewrite my blog every year. In fact, I hadn't upgraded most of the pkgs for years. It was out of hand. 😅\n\nToday, I YOLO upgraded every pkg to latest, and honestly, it mostly kept working. 😂\n\nFound & fixed the stuff that broke pretty easily, too."
+    } ],
+    "published" : [ "2022-12-30T03:08:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1608661167995768837" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1608661167995768837" ]
+  },
+  "type" : [ "h-entry" ]
+}
