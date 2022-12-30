@@ -1,0 +1,33 @@
+{
+  "type" : [ "h-cite" ],
+  "properties" : {
+    "content" : [ "Great read, thank you for sharing ☺️" ],
+    "published" : [ "2022-08-27T18:04:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "James Bateson" ],
+        "photo" : [ {
+          "value" : "https://webmention.io/avatar/pbs.twimg.com/3d91b52f4f959d4e9a0f62ecbae5977ed9f2166539e67213332d974d5074503a.jpg",
+          "alt" : "James Bateson"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "James Bateson"
+    } ],
+    "url" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "James Bateson" ],
+        "photo" : [ {
+          "value" : "https://webmention.io/avatar/pbs.twimg.com/3d91b52f4f959d4e9a0f62ecbae5977ed9f2166539e67213332d974d5074503a.jpg",
+          "alt" : "James Bateson"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "https://twitter.com/_jamesbateson/status/1563588399222915073"
+    } ]
+  },
+  "id" : "webmention-1496540",
+  "lang" : "en"
+}
