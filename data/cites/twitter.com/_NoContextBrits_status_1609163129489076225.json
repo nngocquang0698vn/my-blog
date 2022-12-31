@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "No Context Brits" ],
+        "nickname" : [ "NoContextBrits" ],
+        "numeric-id" : [ "1377572924413124609" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598110410397388800/KOp7iGt2.jpg" ],
+        "published" : [ "2021-04-01T10:46:07+00:00" ],
+        "uid" : [ "tag:twitter.com:NoContextBrits" ],
+        "url" : [ "https://twitter.com/NoContextBrits", "http://instagram.com/no.context.brits" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“Are you busy?”\n\nMe:</div>",
+      "value" : "“Are you busy?”\n\nMe:"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FlTlVmwWIAAptDV.jpg" ],
+    "published" : [ "2022-12-31T12:22:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1609163129489076225" ],
+    "url" : [ "https://twitter.com/NoContextBrits/status/1609163129489076225" ]
+  },
+  "type" : [ "h-entry" ]
+}
