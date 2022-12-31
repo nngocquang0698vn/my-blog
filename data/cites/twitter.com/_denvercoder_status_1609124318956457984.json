@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Sweden" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Harry Margulies" ],
+          "nickname" : [ "Askwhyisit" ],
+          "numeric-id" : [ "1387099188652134406" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1517196381294845952/qGuEs77e.jpg" ],
+          "published" : [ "2021-04-27T17:40:05+00:00" ],
+          "uid" : [ "tag:twitter.com:Askwhyisit" ],
+          "url" : [ "https://twitter.com/Askwhyisit", "https://linktr.ee/AskWhyIsIt" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What do people claim is in the bible but is absolutely nowhere to be found in scripture?" ],
+      "published" : [ "2022-12-30T14:16:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1608829257664405507" ],
+      "url" : [ "https://twitter.com/Askwhyisit/status/1608829257664405507" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ken Caryl, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tim." ],
+        "nickname" : [ "denvercoder" ],
+        "numeric-id" : [ "3118810453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589414538796883969/kAKN7gbg.jpg" ],
+        "published" : [ "2015-03-30T22:56:14+00:00" ],
+        "uid" : [ "tag:twitter.com:denvercoder" ],
+        "url" : [ "https://twitter.com/denvercoder", "http://science.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/askwhyisit/status/1608829257664405507\">twitter.com/askwhyisit/sta…</a>",
+      "value" : "twitter.com/askwhyisit/sta…"
+    } ],
+    "published" : [ "2022-12-31T09:48:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1609124318956457984" ],
+    "url" : [ "https://twitter.com/denvercoder/status/1609124318956457984" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1609124292335206400/pu/vid/576x1024/hfjrk9CP9Eg-i8El.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
