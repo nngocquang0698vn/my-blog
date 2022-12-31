@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Texas, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mark Farina" ],
+          "nickname" : [ "djmarkfarina" ],
+          "numeric-id" : [ "50206480" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1509911840075272200/i1e6KFNZ.jpg" ],
+          "published" : [ "2009-06-24T03:53:57+00:00" ],
+          "uid" : [ "tag:twitter.com:djmarkfarina" ],
+          "url" : [ "https://twitter.com/djmarkfarina", "http://www.djmarkfarina.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Asheville, NC" ],
+          "uid" : [ "tag:twitter.com:00836cb90515ddd1" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FlRrQ5KXgAE_SMx.jpg" ],
+      "published" : [ "2022-12-31T03:29:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1609028910683131905" ],
+      "url" : [ "https://twitter.com/djmarkfarina/status/1609028910683131905" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "ABQ. Avatar/cover by @MattBors" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelsey D. Atherton" ],
+        "nickname" : [ "AthertonKD" ],
+        "numeric-id" : [ "14794913" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323149280174088192/7tSU5Oy5.png" ],
+        "published" : [ "2008-05-16T04:20:22+00:00" ],
+        "uid" : [ "tag:twitter.com:AthertonKD" ],
+        "url" : [ "https://twitter.com/AthertonKD", "https://athertonkd.substack.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's the remix to extinction / remade Alderaan as a fiction / Death Star destroying that rebellion / got every Moff in here quelling / Empire secured / I've got superior force without Force / it's the Tarkin Doctrine I'm about to show how it's done" ],
+    "published" : [ "2022-12-31T04:10:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1609039369108869120" ],
+    "url" : [ "https://twitter.com/AthertonKD/status/1609039369108869120" ]
+  },
+  "type" : [ "h-entry" ]
+}
