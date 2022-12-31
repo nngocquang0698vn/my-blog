@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575537856113610753/1-StAhlY.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://floss.social/@juliaferraioli" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Is it just me, or did eventual consistency use to be a little less...eventual?" ],
+    "published" : [ "2022-12-31T04:28:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1609043694195466241" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1609043694195466241" ]
+  },
+  "type" : [ "h-entry" ]
+}
