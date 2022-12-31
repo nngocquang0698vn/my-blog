@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tkranto" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jasserole (@jasserole@mastodon.world)" ],
+        "nickname" : [ "jasserole" ],
+        "numeric-id" : [ "50545593" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1602023576361656322/qLU3pOWf.jpg" ],
+        "published" : [ "2009-06-25T04:06:59+00:00" ],
+        "uid" : [ "tag:twitter.com:jasserole" ],
+        "url" : [ "https://twitter.com/jasserole" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "same for having straight children\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/calebsaysthings\"></a>",
+      "value" : "same for having straight children"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/calebsaysthings/status/1608958493842886656" ],
+    "published" : [ "2022-12-30T22:50:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1608958773292584961" ],
+    "url" : [ "https://twitter.com/jasserole/status/1608958773292584961" ]
+  },
+  "type" : [ "h-entry" ]
+}
