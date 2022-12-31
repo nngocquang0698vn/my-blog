@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "she/her" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "annika (allegedly)" ],
+          "nickname" : [ "planntika_" ],
+          "numeric-id" : [ "2236770295" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1351984472703397890/MDUKZqGE.jpg" ],
+          "published" : [ "2013-12-09T00:26:26+00:00" ],
+          "uid" : [ "tag:twitter.com:planntika_" ],
+          "url" : [ "https://twitter.com/planntika_" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "it is time for 2023 predictions i fear" ],
+      "photo" : [ "https://pbs.twimg.com/media/FlFEDfMaMAASwpG.jpg" ],
+      "published" : [ "2022-12-28T16:42:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1608141373240406017" ],
+      "url" : [ "https://twitter.com/planntika_/status/1608141373240406017" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Rebecca Black" ],
+        "nickname" : [ "MsRebeccaBlack" ],
+        "numeric-id" : [ "268479992" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591869318391681024/mWC92pOF.jpg" ],
+        "published" : [ "2011-03-18T21:29:23+00:00" ],
+        "uid" : [ "tag:twitter.com:MsRebeccaBlack" ],
+        "url" : [ "https://twitter.com/MsRebeccaBlack", "http://li.sten.to/rbcrumbs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "if pete lets me wear a strap on" ],
+    "published" : [ "2022-12-30T04:58:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1608688896640180225" ],
+    "url" : [ "https://twitter.com/MsRebeccaBlack/status/1608688896640180225" ]
+  },
+  "type" : [ "h-entry" ]
+}
