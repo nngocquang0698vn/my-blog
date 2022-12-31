@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🌁" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "isaac" ],
+        "nickname" : [ "isaacinthesky" ],
+        "numeric-id" : [ "15626128" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1216981685528453120/jpmpEpBS.jpg" ],
+        "published" : [ "2008-07-28T01:19:05+00:00" ],
+        "uid" : [ "tag:twitter.com:isaacinthesky" ],
+        "url" : [ "https://twitter.com/isaacinthesky", "http://isaac.diamonds" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "fortunately my job forces me to do this every year\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jmduke\"></a>",
+      "value" : "fortunately my job forces me to do this every year"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jmduke/status/1608598907768147970" ],
+    "published" : [ "2022-12-29T23:16:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1608602788724113408" ],
+    "url" : [ "https://twitter.com/isaacinthesky/status/1608602788724113408" ]
+  },
+  "type" : [ "h-entry" ]
+}
