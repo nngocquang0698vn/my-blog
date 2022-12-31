@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "My CSS course →" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh W. Comeau" ],
+        "nickname" : [ "JoshWComeau" ],
+        "numeric-id" : [ "2308474213" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588928652452003840/NzvDjlrh.jpg" ],
+        "published" : [ "2014-01-24T14:42:45+00:00" ],
+        "uid" : [ "tag:twitter.com:JoshWComeau" ],
+        "url" : [ "https://twitter.com/JoshWComeau", "https://css-for-js.dev/", "http://css-for-js.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">`git log --full-history -- src/path/to/file.js`\n\nThis finds the commit that deleted the file. So, I checked out that commit, and then backed up one more (`git checkout HEAD~1`). This loads the file right before it was deleted! 🎉</div>",
+      "value" : "`git log --full-history -- src/path/to/file.js`\n\nThis finds the commit that deleted the file. So, I checked out that commit, and then backed up one more (`git checkout HEAD~1`). This loads the file right before it was deleted! 🎉"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JoshWComeau/status/1609320979213287424" ],
+    "published" : [ "2022-12-31T22:49:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1609320980622581761" ],
+    "url" : [ "https://twitter.com/JoshWComeau/status/1609320980622581761" ]
+  },
+  "type" : [ "h-entry" ]
+}
