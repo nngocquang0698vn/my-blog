@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1608828315581976576" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mia Moore (Los Angeles 1/13)" ],
+        "nickname" : [ "StopTweetingMia" ],
+        "numeric-id" : [ "3160469377" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1604375899830251520/f3zOoddn.jpg" ],
+        "published" : [ "2015-04-17T03:18:11+00:00" ],
+        "uid" : [ "tag:twitter.com:StopTweetingMia" ],
+        "url" : [ "https://twitter.com/StopTweetingMia", "https://linktr.ee/miamooretree" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">WHAT IF I TOLD YOU\n\nThe Matrix was made by two trans women that both hate you personally</div>\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1608828315581976576\">twitter.com/elonmusk/statu…</a>",
+      "value" : "WHAT IF I TOLD YOU\n\nThe Matrix was made by two trans women that both hate you personally"
+    } ],
+    "published" : [ "2022-12-30T17:42:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1608881299842007041" ],
+    "url" : [ "https://twitter.com/StopTweetingMia/status/1608881299842007041" ]
+  },
+  "type" : [ "h-entry" ]
+}
