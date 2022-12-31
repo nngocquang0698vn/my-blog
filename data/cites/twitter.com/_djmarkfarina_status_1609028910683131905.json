@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Texas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Farina" ],
+        "nickname" : [ "djmarkfarina" ],
+        "numeric-id" : [ "50206480" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509911840075272200/i1e6KFNZ.jpg" ],
+        "published" : [ "2009-06-24T03:53:57+00:00" ],
+        "uid" : [ "tag:twitter.com:djmarkfarina" ],
+        "url" : [ "https://twitter.com/djmarkfarina", "http://www.djmarkfarina.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Asheville, NC" ],
+        "uid" : [ "tag:twitter.com:00836cb90515ddd1" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FlRrQ5KXgAE_SMx.jpg" ],
+    "published" : [ "2022-12-31T03:29:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1609028910683131905" ],
+    "url" : [ "https://twitter.com/djmarkfarina/status/1609028910683131905" ]
+  },
+  "type" : [ "h-entry" ]
+}
