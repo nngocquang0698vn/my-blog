@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Summerside, PEI, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "☕ J. B. Rainsberger at jbrains at mastodon.social" ],
+        "nickname" : [ "jbrains" ],
+        "numeric-id" : [ "14554494" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1097981531275096069/VxGsVDoq.jpg" ],
+        "published" : [ "2008-04-27T02:43:50+00:00" ],
+        "uid" : [ "tag:twitter.com:jbrains" ],
+        "url" : [ "https://twitter.com/jbrains", "https://tdd.training", "http://the260bowler.ca", "http://tdd.training" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Do <a href=\"https://twitter.com/search?q=%23Kanban\">#Kanban</a> Method/<a href=\"https://twitter.com/search?q=%23NakedPlanning\">#NakedPlanning</a> practitioners celebrate New Year's Day? After all, it's an arbitrarily timeboxed iteration.",
+      "value" : "Do #Kanban Method/#NakedPlanning practitioners celebrate New Year's Day? After all, it's an arbitrarily timeboxed iteration."
+    } ],
+    "published" : [ "2022-12-31T18:57:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1609262449303199747" ],
+    "url" : [ "https://twitter.com/jbrains/status/1609262449303199747" ]
+  },
+  "type" : [ "h-entry" ]
+}
