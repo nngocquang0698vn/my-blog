@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Buffalo, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "KEEM 🍿" ],
+          "nickname" : [ "KEEMSTAR" ],
+          "numeric-id" : [ "872683897" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1486406495264772103/2HvLEoJz.jpg" ],
+          "published" : [ "2012-10-10T23:43:12+00:00" ],
+          "uid" : [ "tag:twitter.com:KEEMSTAR" ],
+          "url" : [ "https://twitter.com/KEEMSTAR", "http://keemstar.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Andrew Tate famously said : \n\nStrike 1 they cancel you. \n\nStrike 2 they try to put you in jail for no reason. \n\nStrike 3 they kill you.</div>",
+        "value" : "Andrew Tate famously said : \n\nStrike 1 they cancel you. \n\nStrike 2 they try to put you in jail for no reason. \n\nStrike 3 they kill you."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/KEEMSTAR/status/1608606346940944387" ],
+      "published" : [ "2022-12-29T23:32:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1608606968897495044" ],
+      "url" : [ "https://twitter.com/KEEMSTAR/status/1608606968897495044" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nonbinary" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ahhhhh" ],
+        "nickname" : [ "nerdjpg" ],
+        "numeric-id" : [ "2193296227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501423086947684360/dVwqf6Hh.jpg" ],
+        "published" : [ "2013-11-14T01:38:06+00:00" ],
+        "uid" : [ "tag:twitter.com:nerdjpg" ],
+        "url" : [ "https://twitter.com/nerdjpg", "https://linktr.ee/Nerdjpg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "He also said “I engaged in human trafficking” <a href=\"https://twitter.com/keemstar/status/1608606968897495044\">twitter.com/keemstar/statu…</a>",
+      "value" : "He also said “I engaged in human trafficking” twitter.com/keemstar/statu…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FlOskzWXEAQWK6l.jpg" ],
+    "published" : [ "2022-12-30T13:36:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1608819244095123458" ],
+    "url" : [ "https://twitter.com/nerdjpg/status/1608819244095123458" ]
+  },
+  "type" : [ "h-entry" ]
+}
