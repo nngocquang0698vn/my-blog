@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "KS → TX → NYC → Oakland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mina Markham" ],
+        "nickname" : [ "MinaMarkham" ],
+        "numeric-id" : [ "15442853" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541527353016217600/jpmVsffG.jpg" ],
+        "published" : [ "2008-07-15T17:05:02+00:00" ],
+        "uid" : [ "tag:twitter.com:MinaMarkham" ],
+        "url" : [ "https://twitter.com/MinaMarkham", "http://mina.codes", "http://front-end.social/@mina" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I just got my ADHD “Anti-Planner” from <a href=\"https://twitter.com/danidonovan\">@danidonovan</a> and I so excited to use it.\n\nIt already feels better suited for my brain.</div>",
+      "value" : "I just got my ADHD “Anti-Planner” from @danidonovan and I so excited to use it.\n\nIt already feels better suited for my brain."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Oakland, CA" ],
+        "uid" : [ "tag:twitter.com:ab2f2fac83aa388d" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-01-02T19:14:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1609991588306124801" ],
+    "url" : [ "https://twitter.com/MinaMarkham/status/1609991588306124801" ]
+  },
+  "type" : [ "h-entry" ]
+}
