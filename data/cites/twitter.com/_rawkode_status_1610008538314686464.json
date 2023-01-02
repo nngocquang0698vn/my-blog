@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581634592339107841/fAsehIRv.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.academy", "http://rawkode.link/office-hours" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "To be clear, I love what struct tags accomplish; but think the actual experience of slinging a string we can’t error or syntax check to be wildly against the messaging surrounding Go and it’s focus on experience\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jawnsy\"></a>",
+      "value" : "To be clear, I love what struct tags accomplish; but think the actual experience of slinging a string we can’t error or syntax check to be wildly against the messaging surrounding Go and it’s focus on experience"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rawkode/status/1610007535993425920" ],
+    "published" : [ "2023-01-02T20:22:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1610008538314686464" ],
+    "url" : [ "https://twitter.com/rawkode/status/1610008538314686464" ]
+  },
+  "type" : [ "h-entry" ]
+}
