@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Big thanks to <a href=\"https://twitter.com/awscloud\">@awscloud</a> for sponsoring my Open Source work!\n\nIt was very unexpected but greatly appreciated 🤩\n\n<a href=\"https://github.com/sponsors/maciejwalkowiak\">github.com/sponsors/macie…</a></div>",
+      "value" : "Big thanks to @awscloud for sponsoring my Open Source work!\n\nIt was very unexpected but greatly appreciated 🤩\n\ngithub.com/sponsors/macie…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FlegswMWYAAzDuf.png" ],
+    "published" : [ "2023-01-02T15:18:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1609932087569616898" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1609932087569616898" ]
+  },
+  "type" : [ "h-entry" ]
+}
