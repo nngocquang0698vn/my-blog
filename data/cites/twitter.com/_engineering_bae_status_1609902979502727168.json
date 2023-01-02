@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Poindexter" ],
+        "nickname" : [ "engineering_bae" ],
+        "numeric-id" : [ "876448351268380672" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592537312256299011/g6sPQ-W1.jpg" ],
+        "published" : [ "2017-06-18T14:35:45+00:00" ],
+        "uid" : [ "tag:twitter.com:engineering_bae" ],
+        "url" : [ "https://twitter.com/engineering_bae", "http://poindexter.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I really don’t want to go to work tomorrow. Can we just stay on PTO the rest of January?" ],
+    "published" : [ "2023-01-02T13:22:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1609902979502727168" ],
+    "url" : [ "https://twitter.com/engineering_bae/status/1609902979502727168" ]
+  },
+  "type" : [ "h-entry" ]
+}
