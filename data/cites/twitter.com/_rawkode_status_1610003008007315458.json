@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Remote" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Supabase" ],
+          "nickname" : [ "supabase" ],
+          "numeric-id" : [ "1219566488325017602" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb.jpg" ],
+          "published" : [ "2020-01-21T10:24:54+00:00" ],
+          "uid" : [ "tag:twitter.com:supabase" ],
+          "url" : [ "https://twitter.com/supabase", "https://supabase.com", "https://github.com/supabase/supabase", "http://discord.supabase.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What tech opinion has you like this?" ],
+      "photo" : [ "https://pbs.twimg.com/media/FlVxU_FXEAAz1Q4.jpg" ],
+      "published" : [ "2022-12-31T22:34:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1609317054170939394" ],
+      "url" : [ "https://twitter.com/supabase/status/1609317054170939394" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581634592339107841/fAsehIRv.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.academy", "http://rawkode.link/office-hours" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Go’s struct tags are an awful DX and should be avoided" ],
+    "published" : [ "2023-01-02T20:00:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1610003008007315458" ],
+    "url" : [ "https://twitter.com/rawkode/status/1610003008007315458" ]
+  },
+  "type" : [ "h-entry" ]
+}
