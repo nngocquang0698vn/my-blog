@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Vancouver 🇨🇦 Join Discord →" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "YK aka CS Dojo 📺🐦" ],
+          "nickname" : [ "ykdojo" ],
+          "numeric-id" : [ "101369581" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1376825810900819968/RPtw5WuB.jpg" ],
+          "published" : [ "2010-01-03T02:10:09+00:00" ],
+          "uid" : [ "tag:twitter.com:ykdojo" ],
+          "url" : [ "https://twitter.com/ykdojo", "https://www.csdojo.io/", "http://csdojo.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "just wanted to say I’m super happy to have found tech twitter" ],
+      "published" : [ "2023-01-02T08:15:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1609825704149155840" ],
+      "url" : [ "https://twitter.com/ykdojo/status/1609825704149155840" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Phoenix, AZ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Darren Shepherd" ],
+        "nickname" : [ "ibuildthecloud" ],
+        "numeric-id" : [ "1591197324" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/482750788519731201/Fcs5tabg.jpeg" ],
+        "published" : [ "2013-07-13T15:16:57+00:00" ],
+        "uid" : [ "tag:twitter.com:ibuildthecloud" ],
+        "url" : [ "https://twitter.com/ibuildthecloud", "https://acorn.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ooh, awkward, we were just about to leave." ],
+    "published" : [ "2023-01-03T07:29:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1610176496676769797" ],
+    "url" : [ "https://twitter.com/ibuildthecloud/status/1610176496676769797" ]
+  },
+  "type" : [ "h-entry" ]
+}
