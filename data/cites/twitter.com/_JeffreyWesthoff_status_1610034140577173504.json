@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Palatine, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeffrey Westhoff" ],
+        "nickname" : [ "JeffreyWesthoff" ],
+        "numeric-id" : [ "1468201668" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3728882709/0fe8dd63d060d53a3d90c80a1dd97bdf.jpeg" ],
+        "published" : [ "2013-05-29T20:47:03+00:00" ],
+        "uid" : [ "tag:twitter.com:JeffreyWesthoff" ],
+        "url" : [ "https://twitter.com/JeffreyWesthoff", "http://www.jeffreywesthoff.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Perhaps explains why M wasn't asked to resign.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jonathancoe\"></a>",
+      "value" : "Perhaps explains why M wasn't asked to resign."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jonathancoe/status/1610015121392164875" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Palatine, IL" ],
+        "uid" : [ "tag:twitter.com:8cc8ba275709bbf3" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-01-02T22:03:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1610034140577173504" ],
+    "url" : [ "https://twitter.com/JeffreyWesthoff/status/1610034140577173504" ]
+  },
+  "type" : [ "h-entry" ]
+}
