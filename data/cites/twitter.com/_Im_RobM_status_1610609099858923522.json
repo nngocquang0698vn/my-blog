@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC News (UK)" ],
+          "nickname" : [ "BBCNews" ],
+          "numeric-id" : [ "612473" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1529107486271225859/03qcVNIk.jpg" ],
+          "published" : [ "2007-01-08T08:05:57+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCNews" ],
+          "url" : [ "https://twitter.com/BBCNews", "http://www.bbc.co.uk/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Prime Minister Rishi Sunak wants all pupils to study maths to 18 <a href=\"https://bbc.in/3icAqtG\">bbc.in/3icAqtG</a>",
+        "value" : "Prime Minister Rishi Sunak wants all pupils to study maths to 18 bbc.in/3icAqtG"
+      } ],
+      "published" : [ "2023-01-03T22:43:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1610406579043442689" ],
+      "url" : [ "https://twitter.com/BBCNews/status/1610406579043442689" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Rob M" ],
+        "nickname" : [ "Im_RobM" ],
+        "numeric-id" : [ "1530204736741330945" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1586086291149672448/Jl3EiyNa.jpg" ],
+        "published" : [ "2022-05-27T15:10:24+00:00" ],
+        "uid" : [ "tag:twitter.com:Im_RobM" ],
+        "url" : [ "https://twitter.com/Im_RobM" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I studied to 16 and that was more than enough. Studying for an additional 4 years seems daft." ],
+    "published" : [ "2023-01-04T12:08:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1610609099858923522" ],
+    "url" : [ "https://twitter.com/Im_RobM/status/1610609099858923522" ]
+  },
+  "type" : [ "h-entry" ]
+}
