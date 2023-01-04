@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "san francisco,ca" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "holden karau" ],
+        "nickname" : [ "holdenkarau" ],
+        "numeric-id" : [ "15594928" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1362823764648452096/cao-a05O.jpg" ],
+        "published" : [ "2008-07-25T06:01:00+00:00" ],
+        "uid" : [ "tag:twitter.com:holdenkarau" ],
+        "url" : [ "https://twitter.com/holdenkarau", "http://www.holdenkarau.com", "http://twitch.tv/holdenkarau", "http://tech.lgbt/@holden" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Good news: no longer secondary on-call. Bad news: primary on-call. Go go gadget coffee ☕️😊" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "San Francisco, CA" ],
+        "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-01-04T18:27:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1610704611291332608" ],
+    "url" : [ "https://twitter.com/holdenkarau/status/1610704611291332608" ]
+  },
+  "type" : [ "h-entry" ]
+}
