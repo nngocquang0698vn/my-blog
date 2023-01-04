@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Bolin, occasional monkey" ],
+        "nickname" : [ "katemonkey" ],
+        "numeric-id" : [ "8558982" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/452005509353050113/vImV-ZFF.png" ],
+        "published" : [ "2007-08-31T14:27:23+00:00" ],
+        "uid" : [ "tag:twitter.com:katemonkey" ],
+        "url" : [ "https://twitter.com/katemonkey", "https://www.katebolin.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Cancel culture is really getting out of hand...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Loftio\"></a>",
+      "value" : "Cancel culture is really getting out of hand..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Loftio/status/1610671166968004611" ],
+    "published" : [ "2023-01-04T16:51:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1610680414003232768" ],
+    "url" : [ "https://twitter.com/katemonkey/status/1610680414003232768" ]
+  },
+  "type" : [ "h-entry" ]
+}
