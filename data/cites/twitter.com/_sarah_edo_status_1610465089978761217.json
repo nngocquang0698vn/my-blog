@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "sarah_edo@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Drasner" ],
+        "nickname" : [ "sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras", "http://codepen.io/sdras" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Television almost gave up on Neil Patrick Harris after he played a teenage doctor. Just think about that before you write yourself or anyone else off." ],
+    "published" : [ "2023-01-04T02:36:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1610465089978761217" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1610465089978761217" ]
+  },
+  "type" : [ "h-entry" ]
+}
