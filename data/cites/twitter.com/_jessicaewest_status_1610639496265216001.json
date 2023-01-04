@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA || London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica West" ],
+        "nickname" : [ "jessicaewest" ],
+        "numeric-id" : [ "29765369" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1463548365862412288/xH8zH7Sk.jpg" ],
+        "published" : [ "2009-04-08T17:16:18+00:00" ],
+        "uid" : [ "tag:twitter.com:jessicaewest" ],
+        "url" : [ "https://twitter.com/jessicaewest", "http://jessica.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">You know those moments when you realise you worked too hard for your last company?\n\nWhen you look at your current 10-meeting day like “oh, that’s not too bad”.</div>",
+      "value" : "You know those moments when you realise you worked too hard for your last company?\n\nWhen you look at your current 10-meeting day like “oh, that’s not too bad”."
+    } ],
+    "published" : [ "2023-01-04T14:09:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1610639496265216001" ],
+    "url" : [ "https://twitter.com/jessicaewest/status/1610639496265216001" ]
+  },
+  "type" : [ "h-entry" ]
+}
