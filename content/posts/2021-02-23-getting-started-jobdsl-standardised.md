@@ -198,7 +198,7 @@ Next, we need to have some way of creating jobs for our libraries. For now, we'l
 
 As our libraries are present in different organisations in our Git hosting platform, we want to use some conventions to better organise our pipelines. For instance, for the library in `https://git.example.com/org-name/example-library`, we'd create the file `jobs/src/main/groovy/definitions/org_name/example_library.groovy` (note that we need to use underscores for separators, as required by Job DSL):
 
-```
+```groovy
 import utilities.DefaultPipeline
 import utilities.JobFactory
 
