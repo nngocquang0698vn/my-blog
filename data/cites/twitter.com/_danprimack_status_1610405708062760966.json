@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Primack" ],
+        "nickname" : [ "danprimack" ],
+        "numeric-id" : [ "16246929" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/961382335135404032/FuaqaYk3.jpg" ],
+        "published" : [ "2008-09-11T20:14:45+00:00" ],
+        "uid" : [ "tag:twitter.com:danprimack" ],
+        "url" : [ "https://twitter.com/danprimack", "http://GetProRata.axios.com", "http://tips.axios.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tesla lost around $47 billion in market cap today. Or, put another way, it lost more than one full Twitter." ],
+    "published" : [ "2023-01-03T22:40:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1610405708062760966" ],
+    "url" : [ "https://twitter.com/danprimack/status/1610405708062760966" ]
+  },
+  "type" : [ "h-entry" ]
+}
