@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "International" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "vx-underground" ],
+          "nickname" : [ "vxunderground" ],
+          "numeric-id" : [ "1158139840866791424" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1284217861318344706/m__Wj5eV.jpg" ],
+          "published" : [ "2019-08-04T22:17:10+00:00" ],
+          "uid" : [ "tag:twitter.com:vxunderground" ],
+          "url" : [ "https://twitter.com/vxunderground", "https://vx-underground.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">If you sent an API request to Twitter with an e-mail address, and an incorrect password, the API returned a JSON response containing the username associated with the account.\n\nA Threat Actor compiled 221,608,279 entries.\n\nThis list includes celebrities, politicians, and more...</div>",
+        "value" : "If you sent an API request to Twitter with an e-mail address, and an incorrect password, the API returned a JSON response containing the username associated with the account.\n\nA Threat Actor compiled 221,608,279 entries.\n\nThis list includes celebrities, politicians, and more..."
+      } ],
+      "published" : [ "2023-01-04T18:32:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1610705719715676171" ],
+      "url" : [ "https://twitter.com/vxunderground/status/1610705719715676171" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "WWW" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "APIs You Won't Hate" ],
+        "nickname" : [ "apisyouwonthate" ],
+        "numeric-id" : [ "3872196551" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163517307873837057/tV6D2Rq6.jpg" ],
+        "published" : [ "2015-10-05T15:28:25+00:00" ],
+        "uid" : [ "tag:twitter.com:apisyouwonthate" ],
+        "url" : [ "https://twitter.com/apisyouwonthate", "https://apisyouwonthate.com", "https://plnk.to/apisyouwonthate" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Poorly thought out Twitter API allows anyone to find username from a given email; which can help malicious users dox a target (find their alts) or mass tie usernames to emails based off lists. Make sure you aren’t doing this." ],
+    "published" : [ "2023-01-04T23:38:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1610782852248965120" ],
+    "url" : [ "https://twitter.com/apisyouwonthate/status/1610782852248965120" ]
+  },
+  "type" : [ "h-entry" ]
+}
