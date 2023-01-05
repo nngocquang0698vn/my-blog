@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dave　デイブ　✌🏻" ],
+        "nickname" : [ "Codesleuth" ],
+        "numeric-id" : [ "42580715" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1824209954/shock_and_awe_cropped.jpg" ],
+        "published" : [ "2009-05-26T06:57:22+00:00" ],
+        "uid" : [ "tag:twitter.com:Codesleuth" ],
+        "url" : [ "https://twitter.com/Codesleuth", "https://codesleuth.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">npx uuid\n\nThat's going to save me quite some time from now on.</div>",
+      "value" : "npx uuid\n\nThat's going to save me quite some time from now on."
+    } ],
+    "published" : [ "2023-01-05T10:53:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1610952601960419328" ],
+    "url" : [ "https://twitter.com/Codesleuth/status/1610952601960419328" ]
+  },
+  "type" : [ "h-entry" ]
+}
