@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Berlin, Germany" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Maciej Walkowiak 🍃" ],
+          "nickname" : [ "maciejwalkowiak" ],
+          "numeric-id" : [ "454916297" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+          "published" : [ "2012-01-04T14:45:51+00:00" ],
+          "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+          "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Big thanks to <a href=\"https://twitter.com/awscloud\">@awscloud</a> for sponsoring my Open Source work!\n\nIt was very unexpected but greatly appreciated 🤩\n\n<a href=\"https://github.com/sponsors/maciejwalkowiak\">github.com/sponsors/macie…</a></div>",
+        "value" : "Big thanks to @awscloud for sponsoring my Open Source work!\n\nIt was very unexpected but greatly appreciated 🤩\n\ngithub.com/sponsors/macie…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FlegswMWYAAzDuf.png" ],
+      "published" : [ "2023-01-02T15:18:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1609932087569616898" ],
+      "url" : [ "https://twitter.com/maciejwalkowiak/status/1609932087569616898" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salt Lake City, Utah" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Asay" ],
+        "nickname" : [ "mjasay" ],
+        "numeric-id" : [ "7617702" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1544328890377654275/yLqUoAPN.jpg" ],
+        "published" : [ "2007-07-20T20:24:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjasay" ],
+        "url" : [ "https://twitter.com/mjasay", "http://www.infoworld.com/author/Matt-Asay/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "On the one hand, I love this (whether it comes from AWS, as here, or another company) as unexpected but happily received \"tip jar\" money. But GitHub Sponsors/Patreon/etc. can't be substitutes for more sustainable sources of income for open source developers." ],
+    "published" : [ "2023-01-04T22:32:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1610766177630048257" ],
+    "url" : [ "https://twitter.com/mjasay/status/1610766177630048257" ]
+  },
+  "type" : [ "h-entry" ]
+}
