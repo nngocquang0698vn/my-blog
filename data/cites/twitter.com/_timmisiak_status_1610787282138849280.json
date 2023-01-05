@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Redmond, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Misiak" ],
+        "nickname" : [ "timmisiak" ],
+        "numeric-id" : [ "26111909" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/719566430979563520/hNnO4pM9.jpg" ],
+        "published" : [ "2009-03-23T22:50:04+00:00" ],
+        "uid" : [ "tag:twitter.com:timmisiak" ],
+        "url" : [ "https://twitter.com/timmisiak", "https://timdbg.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My #1 feedback in code reviews for more junior developers is to document \"why\". Everyone wants to add comments on \"what\" when they first start out. Sometimes that's useful, but we can always figure out \"what\" given enough time. But the \"why\" will be lost to time." ],
+    "published" : [ "2023-01-04T23:56:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1610787282138849280" ],
+    "url" : [ "https://twitter.com/timmisiak/status/1610787282138849280" ]
+  },
+  "type" : [ "h-entry" ]
+}
