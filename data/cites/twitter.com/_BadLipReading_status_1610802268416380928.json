@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bad Lip Reading" ],
+        "nickname" : [ "BadLipReading" ],
+        "numeric-id" : [ "392388579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/461212765755940865/Yqxc5Kvd.jpeg" ],
+        "published" : [ "2011-10-16T23:35:06+00:00" ],
+        "uid" : [ "tag:twitter.com:BadLipReading" ],
+        "url" : [ "https://twitter.com/BadLipReading", "https://www.youtube.com/user/BadLipReading" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">They don't always discuss politics\n<a href=\"https://twitter.com/search?q=%23aoc\">#aoc</a> <a href=\"https://twitter.com/search?q=%23118thCongress\">#118thCongress</a></div>",
+      "value" : "They don't always discuss politics\n#aoc #118thCongress"
+    } ],
+    "published" : [ "2023-01-05T00:56:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1610802268416380928" ],
+    "url" : [ "https://twitter.com/BadLipReading/status/1610802268416380928" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1610799241672392704/pu/vid/720x720/P5gpumM7EOZdLRB3.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
