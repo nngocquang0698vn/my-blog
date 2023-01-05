@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Safety" ],
+          "nickname" : [ "TwitterSafety" ],
+          "numeric-id" : [ "95731075" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1356366102528315394/UHUFLIPh.jpg" ],
+          "published" : [ "2009-12-09T21:00:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSafety" ],
+          "url" : [ "https://twitter.com/TwitterSafety", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We believe that cause-based advertising can facilitate public conversation around important topics. Today, we're relaxing our ads policy for cause-based ads in the US. We also plan to expand the political advertising we permit in the coming weeks." ],
+      "published" : [ "2023-01-03T22:14:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1610399203481784320" ],
+      "url" : [ "https://twitter.com/TwitterSafety/status/1610399203481784320" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Virginia, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ross Reelachart" ],
+        "nickname" : [ "RossReelachart" ],
+        "numeric-id" : [ "704338593108484096" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400123337930596354/LGlFAXZZ.jpg" ],
+        "published" : [ "2016-02-29T16:13:01+00:00" ],
+        "uid" : [ "tag:twitter.com:RossReelachart" ],
+        "url" : [ "https://twitter.com/RossReelachart", "https://rreelachart.wixsite.com/website", "http://patreon.com/Auralninja" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Twitter about to look you're driving south down I-95. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FllY439XwAQWHBo.jpg", "https://pbs.twimg.com/media/FllZCrQXoAEI8-8.png", "https://pbs.twimg.com/media/FllZVv0WYAEp5HD.png", "https://pbs.twimg.com/media/FllZeyoXkAQuLoo.png" ],
+    "published" : [ "2023-01-03T23:24:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1610416747865145347" ],
+    "url" : [ "https://twitter.com/RossReelachart/status/1610416747865145347" ]
+  },
+  "type" : [ "h-entry" ]
+}
