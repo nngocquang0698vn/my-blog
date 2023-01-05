@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "keeb" ],
+        "nickname" : [ "nickstinemates" ],
+        "numeric-id" : [ "16107645" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592385575486509056/5deod-1G.jpg" ],
+        "published" : [ "2008-09-03T03:09:40+00:00" ],
+        "uid" : [ "tag:twitter.com:nickstinemates" ],
+        "url" : [ "https://twitter.com/nickstinemates", "https://keeb.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "documentation is very different from public-facing blog type content.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/donkeycoder\"></a>",
+      "value" : "documentation is very different from public-facing blog type content."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/donkeycoder/status/1610719747292774400" ],
+    "published" : [ "2023-01-04T20:31:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1610735632044949504" ],
+    "url" : [ "https://twitter.com/nickstinemates/status/1610735632044949504" ]
+  },
+  "type" : [ "h-entry" ]
+}
