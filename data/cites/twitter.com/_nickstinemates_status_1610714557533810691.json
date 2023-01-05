@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "keeb" ],
+        "nickname" : [ "nickstinemates" ],
+        "numeric-id" : [ "16107645" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592385575486509056/5deod-1G.jpg" ],
+        "published" : [ "2008-09-03T03:09:40+00:00" ],
+        "uid" : [ "tag:twitter.com:nickstinemates" ],
+        "url" : [ "https://twitter.com/nickstinemates", "https://keeb.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It's rare to find an engineer that  wants to spend a portion of their time writing instead of coding.  It's a skill set like any other and if it's important you have to hire for it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "It's rare to find an engineer that  wants to spend a portion of their time writing instead of coding.  It's a skill set like any other and if it's important you have to hire for it."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1610695967715610624" ],
+    "published" : [ "2023-01-04T19:07:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1610714557533810691" ],
+    "url" : [ "https://twitter.com/nickstinemates/status/1610714557533810691" ]
+  },
+  "type" : [ "h-entry" ]
+}
