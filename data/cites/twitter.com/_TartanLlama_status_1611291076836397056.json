@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tyler Glaiel" ],
+          "nickname" : [ "TylerGlaiel" ],
+          "numeric-id" : [ "38355920" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/996485514260811776/JAh2Esq4.jpg" ],
+          "published" : [ "2009-05-07T03:19:43+00:00" ],
+          "uid" : [ "tag:twitter.com:TylerGlaiel" ],
+          "url" : [ "https://twitter.com/TylerGlaiel", "http://tylerglaiel.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "this is official microsoft sample code <a href=\"https://twitter.com/flashmozzg/status/1611115157182103553\">twitter.com/flashmozzg/sta…</a>",
+        "value" : "this is official microsoft sample code twitter.com/flashmozzg/sta…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FlvVOgxaMAEIQ2X.png" ],
+      "published" : [ "2023-01-05T21:41:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1611115741809627139" ],
+      "url" : [ "https://twitter.com/TylerGlaiel/status/1611115741809627139" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sy Brand" ],
+        "nickname" : [ "TartanLlama" ],
+        "numeric-id" : [ "36158849" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1481292449150550021/oDdYWeEd.jpg" ],
+        "published" : [ "2009-04-28T19:38:21+00:00" ],
+        "uid" : [ "tag:twitter.com:TartanLlama" ],
+        "url" : [ "https://twitter.com/TartanLlama", "https://sybrand.ink" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm glad to have made my mark on the world" ],
+    "published" : [ "2023-01-06T09:18:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1611291076836397056" ],
+    "url" : [ "https://twitter.com/TartanLlama/status/1611291076836397056" ]
+  },
+  "type" : [ "h-entry" ]
+}
