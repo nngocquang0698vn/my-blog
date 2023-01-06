@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Fleet Street, of course" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "fleetstreetfox" ],
+          "nickname" : [ "fleetstreetfox" ],
+          "numeric-id" : [ "85368735" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/684874064456986625/zTK0Y3t4.jpg" ],
+          "published" : [ "2009-10-26T17:36:18+00:00" ],
+          "uid" : [ "tag:twitter.com:fleetstreetfox" ],
+          "url" : [ "https://twitter.com/fleetstreetfox", "http://www.susieboniface.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Replace the word 'Harry' in every tweet with the word 'Diana', and then see how it sounds." ],
+      "published" : [ "2023-01-06T10:23:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1611307347640467458" ],
+      "url" : [ "https://twitter.com/fleetstreetfox/status/1611307347640467458" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Jonny Sharples" ],
+        "nickname" : [ "JonnyGabriel" ],
+        "numeric-id" : [ "19485820" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608076194880135170/Dtvtoq0N.jpg" ],
+        "published" : [ "2009-01-25T11:59:04+00:00" ],
+        "uid" : [ "tag:twitter.com:JonnyGabriel" ],
+        "url" : [ "https://twitter.com/JonnyGabriel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "No, still just as bad. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FlyGti1XoAE5vEG.png" ],
+    "published" : [ "2023-01-06T10:37:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1611310952258965504" ],
+    "url" : [ "https://twitter.com/JonnyGabriel/status/1611310952258965504" ]
+  },
+  "type" : [ "h-entry" ]
+}
