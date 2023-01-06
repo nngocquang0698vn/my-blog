@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "stockholm" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "“paula”" ],
+        "nickname" : [ "paularambles" ],
+        "numeric-id" : [ "1137601775224012801" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1606215110472749056/KrPp30YB.jpg" ],
+        "published" : [ "2019-06-09T06:06:13+00:00" ],
+        "uid" : [ "tag:twitter.com:paularambles" ],
+        "url" : [ "https://twitter.com/paularambles", "http://goodreads.com/paulaslibrary" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "why say “i have a passion for web development” when you could say that “it was love at first site”" ],
+    "published" : [ "2023-01-05T18:05:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1611061256026468353" ],
+    "url" : [ "https://twitter.com/paularambles/status/1611061256026468353" ]
+  },
+  "type" : [ "h-entry" ]
+}
