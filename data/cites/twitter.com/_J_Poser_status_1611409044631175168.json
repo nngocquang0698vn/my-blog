@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Poser" ],
+        "nickname" : [ "J_Poser" ],
+        "numeric-id" : [ "277957114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1534090521316040705/rH904H7E.png" ],
+        "published" : [ "2011-04-06T09:39:14+00:00" ],
+        "uid" : [ "tag:twitter.com:J_Poser" ],
+        "url" : [ "https://twitter.com/J_Poser", "http://jposer.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">remember kids; every COPY, RUN, ENV in your dockerfile creates another layer in your container\n\nthis is your license to write the most horrible one liners of all time</div>",
+      "value" : "remember kids; every COPY, RUN, ENV in your dockerfile creates another layer in your container\n\nthis is your license to write the most horrible one liners of all time"
+    } ],
+    "published" : [ "2023-01-06T17:07:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1611409044631175168" ],
+    "url" : [ "https://twitter.com/J_Poser/status/1611409044631175168" ]
+  },
+  "type" : [ "h-entry" ]
+}
