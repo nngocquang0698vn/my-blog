@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Kelsey Hightower" ],
+          "nickname" : [ "kelseyhightower" ],
+          "numeric-id" : [ "159822053" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt.jpg" ],
+          "published" : [ "2010-06-26T12:24:45+00:00" ],
+          "uid" : [ "tag:twitter.com:kelseyhightower" ],
+          "url" : [ "https://twitter.com/kelseyhightower" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Smart people ask dumb questions." ],
+      "published" : [ "2023-01-06T17:38:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1611416988655693825" ],
+      "url" : [ "https://twitter.com/kelseyhightower/status/1611416988655693825" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Redmond, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Misiak" ],
+        "nickname" : [ "timmisiak" ],
+        "numeric-id" : [ "26111909" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/719566430979563520/hNnO4pM9.jpg" ],
+        "published" : [ "2009-03-23T22:50:04+00:00" ],
+        "uid" : [ "tag:twitter.com:timmisiak" ],
+        "url" : [ "https://twitter.com/timmisiak", "https://timdbg.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All the principal engineers at Microsoft that I respect are completely comfortable with asking \"dumb questions\". When you don't feel like you have to prove your intelligence or worth, you learn more because you ask better questions." ],
+    "published" : [ "2023-01-06T18:52:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1611435631405846534" ],
+    "url" : [ "https://twitter.com/timmisiak/status/1611435631405846534" ]
+  },
+  "type" : [ "h-entry" ]
+}
