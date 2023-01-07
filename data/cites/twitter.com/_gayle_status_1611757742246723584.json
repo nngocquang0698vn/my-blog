@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Palo Alto, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gayle L. McDowell" ],
+        "nickname" : [ "gayle" ],
+        "numeric-id" : [ "18582812" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/449398176768720897/C6h8ling.jpeg" ],
+        "published" : [ "2009-01-03T17:37:08+00:00" ],
+        "uid" : [ "tag:twitter.com:gayle" ],
+        "url" : [ "https://twitter.com/gayle", "http://www.gayle.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hi, this is not me. This whole substack is a bizarre impersonation. Not mine at all. I’ll report (but others can too!).\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "Hi, this is not me. This whole substack is a bizarre impersonation. Not mine at all. I’ll report (but others can too!)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1611748759553150985" ],
+    "published" : [ "2023-01-07T16:12:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1611757742246723584" ],
+    "url" : [ "https://twitter.com/gayle/status/1611757742246723584" ]
+  },
+  "type" : [ "h-entry" ]
+}
