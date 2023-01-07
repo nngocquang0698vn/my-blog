@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John DeVore" ],
+        "nickname" : [ "JohnDeVore" ],
+        "numeric-id" : [ "23393212" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/755924730306240513/wa-yysHq.jpg" ],
+        "published" : [ "2009-03-09T02:55:54+00:00" ],
+        "uid" : [ "tag:twitter.com:JohnDeVore" ],
+        "url" : [ "https://twitter.com/JohnDeVore", "https://johndevore.medium.com/subscribe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "some alcoholics will say anything to avoid taking responsibility for their sobriety and blame everyone but themselves for falling off the wagon" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fl446wVX0AACGMT.jpg" ],
+    "published" : [ "2023-01-07T18:14:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1611788351035555840" ],
+    "url" : [ "https://twitter.com/JohnDeVore/status/1611788351035555840" ]
+  },
+  "type" : [ "h-entry" ]
+}
