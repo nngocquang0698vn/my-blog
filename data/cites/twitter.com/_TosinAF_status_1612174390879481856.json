@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "SF" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sam Altman" ],
+          "nickname" : [ "sama" ],
+          "numeric-id" : [ "1605" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa.jpg" ],
+          "published" : [ "2006-07-16T22:01:55+00:00" ],
+          "uid" : [ "tag:twitter.com:sama" ],
+          "url" : [ "https://twitter.com/sama", "http://blog.samaltman.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "colleges prioritized making people feel perfectly safe over everything else and produced a generation afraid to fail, and thus afraid to take risk, and thus on pace to accomplish extremely little" ],
+      "published" : [ "2023-01-07T18:00:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1611784967331414017" ],
+      "url" : [ "https://twitter.com/sama/status/1611784967331414017" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tosinaf.eth" ],
+        "nickname" : [ "TosinAF" ],
+        "numeric-id" : [ "1417290926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1420128512858464256/f_S8o0p5.jpg" ],
+        "published" : [ "2013-05-10T05:59:31+00:00" ],
+        "uid" : [ "tag:twitter.com:TosinAF" ],
+        "url" : [ "https://twitter.com/TosinAF", "http://tosinaf.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Not everyone is built for a startup or to take risk. If everyone wanted to do their own business who would y’all hire?\n\nAlso capitalism created a country with no safety net. How does that inspire risk?\n\nThese rich niggas just need to stfu, enjoy your money and keep it pushing</div>",
+      "value" : "Not everyone is built for a startup or to take risk. If everyone wanted to do their own business who would y’all hire?\n\nAlso capitalism created a country with no safety net. How does that inspire risk?\n\nThese rich niggas just need to stfu, enjoy your money and keep it pushing"
+    } ],
+    "published" : [ "2023-01-08T19:48:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1612174390879481856" ],
+    "url" : [ "https://twitter.com/TosinAF/status/1612174390879481856" ]
+  },
+  "type" : [ "h-entry" ]
+}
