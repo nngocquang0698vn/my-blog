@@ -256,5 +256,10 @@ slug = 2022
 [cascade._target]
   path = '/week-notes/2022/**'
 
+[[cascade]]
+slug = 2023
+[cascade._target]
+  path = '/week-notes/2023/**'
+
 [[module.imports]]
 path = "gitlab.com/jamietanna/www.jvt.me-theme"
