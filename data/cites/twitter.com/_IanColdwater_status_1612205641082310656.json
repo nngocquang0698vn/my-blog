@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Pop Base" ],
+          "nickname" : [ "PopBase" ],
+          "numeric-id" : [ "1138458175663988738" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW.jpg" ],
+          "published" : [ "2019-06-11T14:49:15+00:00" ],
+          "uid" : [ "tag:twitter.com:PopBase" ],
+          "url" : [ "https://twitter.com/PopBase" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Long form tweets of 4,000 characters will be launched in early February." ],
+      "photo" : [ "https://pbs.twimg.com/media/Fl7VBnAaAAATk8M.jpg" ],
+      "published" : [ "2023-01-08T05:36:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1611959943674105859" ],
+      "url" : [ "https://twitter.com/PopBase/status/1611959943674105859" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/popbase/status…" ],
+      "url" : [ "https://twitter.com/popbase/status/1611959943674105859" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "the buffer overflow vulns are going to be *glorious*\n<a class=\"tag\" href=\"https://twitter.com/popbase/status/1611959943674105859\">twitter.com/popbase/status…</a>",
+      "value" : "the buffer overflow vulns are going to be *glorious*"
+    } ],
+    "published" : [ "2023-01-08T21:52:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1612205641082310656" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1612205641082310656" ]
+  },
+  "type" : [ "h-entry" ]
+}
