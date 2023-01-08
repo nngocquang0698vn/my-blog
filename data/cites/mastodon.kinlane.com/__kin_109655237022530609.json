@@ -1,0 +1,337 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://mastodon.kinlane.com/@kin/109655237022530609" ],
+    "uid" : [ "https://mastodon.kinlane.com/@kin/109655237022530609" ],
+    "published" : [ "2023-01-08T19:28:51+00:00" ],
+    "content" : [ {
+      "html" : "",
+      "value" : "",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kin Lane" ],
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "photo" : [ {
+          "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/accounts/avatars/109/401/910/211/248/521/original/ffa09bc02aa78e18.jpeg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Kin Lane"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://toot.bldrweb.org/@jbminn/109655240453149409" ],
+        "uid" : [ "https://toot.bldrweb.org/@jbminn/109655240453149409" ],
+        "published" : [ "2023-01-08T19:29:43+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.kinlane.com/@kin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kin</span></a></span> ouch but fair</p>",
+          "value" : "@kin ouch but fair",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "John Minnihan" ],
+            "url" : [ "https://toot.bldrweb.org/@jbminn" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/cache/accounts/avatars/109/417/447/582/313/092/original/e4c58a5a1c4b694a.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "John Minnihan"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://mastodon.kinlane.com/@kin" ],
+          "name" : [ "@kin" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Jan 08, 2023, 19:29 John Minnihan @[email protected]\n@kin ouch but fair 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mtdn.anyqn.com/@3draven/109655247767842658" ],
+        "uid" : [ "https://mtdn.anyqn.com/@3draven/109655247767842658" ],
+        "published" : [ "2023-01-08T19:31:35+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.kinlane.com/@kin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kin</span></a></span> why white?</p>",
+          "value" : "@kin why white?",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Roman" ],
+            "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/cache/accounts/avatars/109/430/527/862/643/327/original/bfc5e33ea5a56467.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Roman"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://mastodon.kinlane.com/@kin" ],
+          "name" : [ "@kin" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Jan 08, 2023, 19:31 Roman @[email protected]\n@kin why white? 1"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.kinlane.com/@kin/109655262542766076" ],
+      "uid" : [ "https://mastodon.kinlane.com/@kin/109655262542766076" ],
+      "published" : [ "2023-01-08T19:35:20+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mtdn.anyqn.com/@3draven\" class=\"u-url mention\">@<span>3draven</span></a></span> cause I am white. cause I struggle with my own delusions. cause it is what I see amongst people who look like me. cause white supremacy dominates tech. cause whiteness dominates venture capital. I can keep going...</p>",
+        "value" : "@3draven cause I am white. cause I struggle with my own delusions. cause it is what I see amongst people who look like me. cause white supremacy dominates tech. cause whiteness dominates venture capital. I can keep going...",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Kin Lane" ],
+          "url" : [ "https://mastodon.kinlane.com/@kin" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/accounts/avatars/109/401/910/211/248/521/original/ffa09bc02aa78e18.jpeg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Kin Lane"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+        "name" : [ "@3draven" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mtdn.anyqn.com/@3draven/109655268663639213" ],
+      "uid" : [ "https://mtdn.anyqn.com/@3draven/109655268663639213" ],
+      "published" : [ "2023-01-08T19:36:54+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.kinlane.com/@kin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kin</span></a></span> uh, I have never seen it. May be. But I work in EU.</p>",
+        "value" : "@kin uh, I have never seen it. May be. But I work in EU.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Roman" ],
+          "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/cache/accounts/avatars/109/430/527/862/643/327/original/bfc5e33ea5a56467.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Roman"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "name" : [ "@kin" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mtdn.anyqn.com/@3draven/109655275544342548" ],
+      "uid" : [ "https://mtdn.anyqn.com/@3draven/109655275544342548" ],
+      "published" : [ "2023-01-08T19:38:39+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.kinlane.com/@kin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kin</span></a></span> By the way. I work in EU only because it is so hard to emigrate to USA! :)</p>",
+        "value" : "@kin By the way. I work in EU only because it is so hard to emigrate to USA! :)",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Roman" ],
+          "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/cache/accounts/avatars/109/430/527/862/643/327/original/bfc5e33ea5a56467.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Roman"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "name" : [ "@kin" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.kinlane.com/@kin/109655275768997217" ],
+      "uid" : [ "https://mastodon.kinlane.com/@kin/109655275768997217" ],
+      "published" : [ "2023-01-08T19:38:42+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mtdn.anyqn.com/@3draven\" class=\"u-url mention\">@<span>3draven</span></a></span> Likely. Rampant in San Francisco. We love to think we are the cornerstone of everything.</p>",
+        "value" : "@3draven Likely. Rampant in San Francisco. We love to think we are the cornerstone of everything.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Kin Lane" ],
+          "url" : [ "https://mastodon.kinlane.com/@kin" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/accounts/avatars/109/401/910/211/248/521/original/ffa09bc02aa78e18.jpeg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Kin Lane"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+        "name" : [ "@3draven" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mtdn.anyqn.com/@3draven/109655288197247240" ],
+      "uid" : [ "https://mtdn.anyqn.com/@3draven/109655288197247240" ],
+      "published" : [ "2023-01-08T19:41:52+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.kinlane.com/@kin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kin</span></a></span> I feel that there is in USA lot of variants of discrimination. One, it is emigration politics for white people from other countries. Not just white, for everyone. So, color is important only for citizens of USA, I think.</p>",
+        "value" : "@kin I feel that there is in USA lot of variants of discrimination. One, it is emigration politics for white people from other countries. Not just white, for everyone. So, color is important only for citizens of USA, I think.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Roman" ],
+          "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/cache/accounts/avatars/109/430/527/862/643/327/original/bfc5e33ea5a56467.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Roman"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "name" : [ "@kin" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.kinlane.com/@kin/109655308358434934" ],
+      "uid" : [ "https://mastodon.kinlane.com/@kin/109655308358434934" ],
+      "published" : [ "2023-01-08T19:46:59+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mtdn.anyqn.com/@3draven\" class=\"u-url mention\">@<span>3draven</span></a></span> I would say racism and color is global with many variants, but yes America has its own special variants, history, and challenges. Which is why I highlight as I work through my own struggles.</p>",
+        "value" : "@3draven I would say racism and color is global with many variants, but yes America has its own special variants, history, and challenges. Which is why I highlight as I work through my own struggles.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Kin Lane" ],
+          "url" : [ "https://mastodon.kinlane.com/@kin" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/accounts/avatars/109/401/910/211/248/521/original/ffa09bc02aa78e18.jpeg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Kin Lane"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+        "name" : [ "@3draven" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mtdn.anyqn.com/@3draven/109655310691738348" ],
+      "uid" : [ "https://mtdn.anyqn.com/@3draven/109655310691738348" ],
+      "published" : [ "2023-01-08T19:47:35+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.kinlane.com/@kin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kin</span></a></span> ok</p>",
+        "value" : "@kin ok",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Roman" ],
+          "url" : [ "https://mtdn.anyqn.com/@3draven" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/cache/accounts/avatars/109/430/527/862/643/327/original/bfc5e33ea5a56467.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Roman"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "name" : [ "@kin" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
