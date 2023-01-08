@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "fraubsd.org" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "FreeBSD Frau" ],
+        "nickname" : [ "freebsdfrau" ],
+        "numeric-id" : [ "3291481093" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1243965673513971714/cqfaNaWO.jpg" ],
+        "published" : [ "2015-07-25T00:32:30+00:00" ],
+        "uid" : [ "tag:twitter.com:freebsdfrau" ],
+        "url" : [ "https://twitter.com/freebsdfrau", "https://www.freebsd.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I wonder how many of my followers are aware that vimdiff can take 3 files" ],
+    "photo" : [ "https://pbs.twimg.com/media/FaoOXv1VQAAnFPA.jpg" ],
+    "published" : [ "2022-08-20T19:41:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1561076067875491840" ],
+    "url" : [ "https://twitter.com/freebsdfrau/status/1561076067875491840" ]
+  },
+  "type" : [ "h-entry" ]
+}
