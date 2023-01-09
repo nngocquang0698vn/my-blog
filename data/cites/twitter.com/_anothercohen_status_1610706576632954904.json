@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Cohen" ],
+        "nickname" : [ "anothercohen" ],
+        "numeric-id" : [ "557440724" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1600352916958838785/i8KelJa8.jpg" ],
+        "published" : [ "2012-04-19T05:09:37+00:00" ],
+        "uid" : [ "tag:twitter.com:anothercohen" ],
+        "url" : [ "https://twitter.com/anothercohen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "100% remote work combined with a no meeting culture is going to create a large group of lonely, isolated workers" ],
+    "published" : [ "2023-01-04T18:35:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1610706576632954904" ],
+    "url" : [ "https://twitter.com/anothercohen/status/1610706576632954904" ]
+  },
+  "type" : [ "h-entry" ]
+}
