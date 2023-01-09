@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "OSS Insight Bot" ],
+        "nickname" : [ "ossinsight_bot" ],
+        "numeric-id" : [ "16059054" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1555009928024039425/bVN7En6v.jpg" ],
+        "published" : [ "2008-08-30T21:59:45+00:00" ],
+        "uid" : [ "tag:twitter.com:ossinsight_bot" ],
+        "url" : [ "https://twitter.com/ossinsight_bot", "https://ossinsight.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Congrats to renovatebot/renovate, which has grown by 145 stars in the last 7 days and has reached 10.7K stars. \n\nThanks to the contributors: <a href=\"https://twitter.com/rarkins\">@rarkins</a> <a href=\"https://twitter.com/viceice_mk\">@viceice_mk</a> @viceice_mk <a href=\"https://twitter.com/Jamie_Magee\">@Jamie_Magee</a> <a href=\"https://twitter.com/smartass3000\">@smartass3000</a>\n\n <a href=\"https://ossinsight.io/analyze/renovatebot/renovate\">ossinsight.io/analyze/renova…</a>\n<a href=\"https://twitter.com/search?q=%23TypeScript\">#TypeScript</a></div>",
+      "value" : "Congrats to renovatebot/renovate, which has grown by 145 stars in the last 7 days and has reached 10.7K stars. \n\nThanks to the contributors: @rarkins @viceice_mk @viceice_mk @Jamie_Magee @smartass3000\n\n ossinsight.io/analyze/renova…\n#TypeScript"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fl6fAs2agAIP1qT.jpg" ],
+    "published" : [ "2023-01-08T01:40:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1611900553646465024" ],
+    "url" : [ "https://twitter.com/ossinsight_bot/status/1611900553646465024" ]
+  },
+  "type" : [ "h-entry" ]
+}
