@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pete Holiday" ],
+        "nickname" : [ "toomuchpete" ],
+        "numeric-id" : [ "1541641" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/755472959477780480/YxbbZSIs.jpg" ],
+        "published" : [ "2007-03-19T18:59:03+00:00" ],
+        "uid" : [ "tag:twitter.com:toomuchpete" ],
+        "url" : [ "https://twitter.com/toomuchpete", "http://pete.holiday" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Colleges did not do this. It’s wild how people like you just log in and make shit up for clicks.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sama\"></a>",
+      "value" : "Colleges did not do this. It’s wild how people like you just log in and make shit up for clicks."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sama/status/1611784967331414017" ],
+    "published" : [ "2023-01-09T14:22:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1612454737940447237" ],
+    "url" : [ "https://twitter.com/toomuchpete/status/1612454737940447237" ]
+  },
+  "type" : [ "h-entry" ]
+}
