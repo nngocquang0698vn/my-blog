@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "egg shelves" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "moby kevin" ],
+          "nickname" : [ "SneezusHChrist" ],
+          "numeric-id" : [ "970033164566564865" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1611857336695508999/R7AfwqFD.jpg" ],
+          "published" : [ "2018-03-03T20:28:23+00:00" ],
+          "uid" : [ "tag:twitter.com:SneezusHChrist" ],
+          "url" : [ "https://twitter.com/SneezusHChrist" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">just saw \"women+\" used for the first time. \n\nHow do we feel about that? It seems dismissive to me.</div>",
+        "value" : "just saw \"women+\" used for the first time. \n\nHow do we feel about that? It seems dismissive to me."
+      } ],
+      "published" : [ "2023-01-09T19:54:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1612538376560713731" ],
+      "url" : [ "https://twitter.com/SneezusHChrist/status/1612538376560713731" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cara" ],
+        "nickname" : [ "caraesten" ],
+        "numeric-id" : [ "15374401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595910729495826432/zFEeOoFR.jpg" ],
+        "published" : [ "2008-07-10T05:22:16+00:00" ],
+        "uid" : [ "tag:twitter.com:caraesten" ],
+        "url" : [ "https://twitter.com/caraesten", "https://cohost.org/caraesten", "http://my.pronoun.is/she" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "wow they finally invented a premium subscription model for women" ],
+    "published" : [ "2023-01-09T20:44:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1612551024635420683" ],
+    "url" : [ "https://twitter.com/caraesten/status/1612551024635420683" ]
+  },
+  "type" : [ "h-entry" ]
+}
