@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/elonmusk/statu…" ],
+        "url" : [ "https://twitter.com/elonmusk/status/1612257897345388553" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "derek guy" ],
+          "nickname" : [ "dieworkwear" ],
+          "numeric-id" : [ "250259063" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1582244855526215680/1P70nRQS.jpg" ],
+          "published" : [ "2011-02-10T18:54:19+00:00" ],
+          "uid" : [ "tag:twitter.com:dieworkwear" ],
+          "url" : [ "https://twitter.com/dieworkwear", "http://dieworkwear.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "dont understand why any content creator would publish natively on twitter, rather than give tidbits that end with a \"read more\" link or something. you're much better off driving traffic to a site you control. earn your own ad revenue, control your own content, etc.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1612257897345388553\">twitter.com/elonmusk/statu…</a>",
+        "value" : "dont understand why any content creator would publish natively on twitter, rather than give tidbits that end with a \"read more\" link or something. you're much better off driving traffic to a site you control. earn your own ad revenue, control your own content, etc."
+      } ],
+      "published" : [ "2023-01-09T01:46:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1612264622614274049" ],
+      "url" : [ "https://twitter.com/dieworkwear/status/1612264622614274049" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angie Jones" ],
+        "nickname" : [ "techgirl1908" ],
+        "numeric-id" : [ "2932738834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1558092645855121410/4rN25JDj.jpg" ],
+        "published" : [ "2014-12-19T22:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:techgirl1908" ],
+        "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this. if you've learned nothing else from this ordeal, you should have learned not to trust this place with your content" ],
+    "published" : [ "2023-01-09T02:49:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1612280357507702787" ],
+    "url" : [ "https://twitter.com/techgirl1908/status/1612280357507702787" ]
+  },
+  "type" : [ "h-entry" ]
+}
