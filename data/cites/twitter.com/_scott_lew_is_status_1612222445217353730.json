@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "SF" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sam Altman" ],
+          "nickname" : [ "sama" ],
+          "numeric-id" : [ "1605" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa.jpg" ],
+          "published" : [ "2006-07-16T22:01:55+00:00" ],
+          "uid" : [ "tag:twitter.com:sama" ],
+          "url" : [ "https://twitter.com/sama", "http://blog.samaltman.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "colleges prioritized making people feel perfectly safe over everything else and produced a generation afraid to fail, and thus afraid to take risk, and thus on pace to accomplish extremely little" ],
+      "published" : [ "2023-01-07T18:00:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1611784967331414017" ],
+      "url" : [ "https://twitter.com/sama/status/1611784967331414017" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "scott🍈" ],
+        "nickname" : [ "scott_lew_is" ],
+        "numeric-id" : [ "3226266525" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576185965848174593/QBeZ4pyk.jpg" ],
+        "published" : [ "2015-05-01T14:39:09+00:00" ],
+        "uid" : [ "tag:twitter.com:scott_lew_is" ],
+        "url" : [ "https://twitter.com/scott_lew_is" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">dude that went to a $31,000/year high school is pretty sure other people are not comfortable enough with the risks of failing in life. ok. thanks bro. 👍 \n\nfailure for you is being a partner at a transactional law firm. failure for others is not providing for their kids. wake up.</div>",
+      "value" : "dude that went to a $31,000/year high school is pretty sure other people are not comfortable enough with the risks of failing in life. ok. thanks bro. 👍 \n\nfailure for you is being a partner at a transactional law firm. failure for others is not providing for their kids. wake up."
+    } ],
+    "published" : [ "2023-01-08T22:59:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1612222445217353730" ],
+    "url" : [ "https://twitter.com/scott_lew_is/status/1612222445217353730" ]
+  },
+  "type" : [ "h-entry" ]
+}
