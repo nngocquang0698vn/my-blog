@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "SF" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sam Altman" ],
+          "nickname" : [ "sama" ],
+          "numeric-id" : [ "1605" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa.jpg" ],
+          "published" : [ "2006-07-16T22:01:55+00:00" ],
+          "uid" : [ "tag:twitter.com:sama" ],
+          "url" : [ "https://twitter.com/sama", "http://blog.samaltman.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "colleges prioritized making people feel perfectly safe over everything else and produced a generation afraid to fail, and thus afraid to take risk, and thus on pace to accomplish extremely little" ],
+      "published" : [ "2023-01-07T18:00:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1611784967331414017" ],
+      "url" : [ "https://twitter.com/sama/status/1611784967331414017" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "celia" ],
+        "nickname" : [ "_celia_bedelia_" ],
+        "numeric-id" : [ "807968504" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575509672525709313/M10Jqef1.jpg" ],
+        "published" : [ "2012-09-07T01:44:41+00:00" ],
+        "uid" : [ "tag:twitter.com:_celia_bedelia_" ],
+        "url" : [ "https://twitter.com/_celia_bedelia_", "https://www.buymeacoffee.com/CeliaBedelia" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Leave it to a cis white man to claim that colleges prioritize safety. LOL" ],
+    "published" : [ "2023-01-09T14:17:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1612453459516702728" ],
+    "url" : [ "https://twitter.com/_celia_bedelia_/status/1612453459516702728" ]
+  },
+  "type" : [ "h-entry" ]
+}
