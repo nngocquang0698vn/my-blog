@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Cohen" ],
+        "nickname" : [ "anothercohen" ],
+        "numeric-id" : [ "557440724" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1600352916958838785/i8KelJa8.jpg" ],
+        "published" : [ "2012-04-19T05:09:37+00:00" ],
+        "uid" : [ "tag:twitter.com:anothercohen" ],
+        "url" : [ "https://twitter.com/anothercohen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some of you have apparently never enjoyed building things with other people in real life" ],
+    "in-reply-to" : [ "https://twitter.com/anothercohen/status/1610706576632954904" ],
+    "published" : [ "2023-01-04T20:25:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1610734087328731136" ],
+    "url" : [ "https://twitter.com/anothercohen/status/1610734087328731136" ]
+  },
+  "type" : [ "h-entry" ]
+}
