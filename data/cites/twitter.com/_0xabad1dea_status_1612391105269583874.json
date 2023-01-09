@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leiden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "badidea 🪐" ],
+        "nickname" : [ "0xabad1dea" ],
+        "numeric-id" : [ "126030998" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443846216169762838/IN_RV73W.jpg" ],
+        "published" : [ "2010-03-24T16:31:05+00:00" ],
+        "uid" : [ "tag:twitter.com:0xabad1dea" ],
+        "url" : [ "https://twitter.com/0xabad1dea", "http://0xabad1dea.github.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Compiling gdb and I just saw `--disable-year2038` scroll by and wow if it can do that then what have we been doing the last few years" ],
+    "published" : [ "2023-01-09T10:09:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1612391105269583874" ],
+    "url" : [ "https://twitter.com/0xabad1dea/status/1612391105269583874" ]
+  },
+  "type" : [ "h-entry" ]
+}
