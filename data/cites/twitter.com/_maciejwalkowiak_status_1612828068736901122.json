@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What specifically was painful? I am really curious how things look from an outsider point of view\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/philsturgeon\"></a>",
+      "value" : "What specifically was painful? I am really curious how things look from an outsider point of view"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/philsturgeon/status/1612820054395211776" ],
+    "published" : [ "2023-01-10T15:05:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1612828068736901122" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1612828068736901122" ]
+  },
+  "type" : [ "h-entry" ]
+}
