@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hollywood, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Golden Globe Awards" ],
+        "nickname" : [ "goldenglobes" ],
+        "numeric-id" : [ "18667907" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608248884215648258/lci3lUyv.png" ],
+        "published" : [ "2009-01-06T08:59:41+00:00" ],
+        "uid" : [ "tag:twitter.com:goldenglobes" ],
+        "url" : [ "https://twitter.com/goldenglobes", "http://www.goldenglobes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "And here is your host for the 80th Annual <a href=\"https://twitter.com/search?q=%23GoldenGlobes\">#GoldenGlobes</a>... It’s Jerrod Carmichael! 🎤 ",
+      "value" : "And here is your host for the 80th Annual #GoldenGlobes... It’s Jerrod Carmichael! 🎤 "
+    } ],
+    "published" : [ "2023-01-11T01:50:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1612990423005290502" ],
+    "url" : [ "https://twitter.com/goldenglobes/status/1612990423005290502" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1612983042989260800/vid/1920x1080/DxRTo8kzG1GLjL6U.mp4?tag=16" ]
+  },
+  "type" : [ "h-entry" ]
+}
