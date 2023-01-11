@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Columbus, OH" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "🔪🔪🔪bЯyan🔪🔪🔪" ],
+          "nickname" : [ "murderxbryan" ],
+          "numeric-id" : [ "1298655460472520704" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1586825073176068096/ULtwtVLp.jpg" ],
+          "published" : [ "2020-08-26T16:16:15+00:00" ],
+          "uid" : [ "tag:twitter.com:murderxbryan" ],
+          "url" : [ "https://twitter.com/murderxbryan", "http://patreon.com/murderxbryan" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Most people over 35 type complete sentences into the search engine which makes it baffling that Ask Jeeves didn’t beat google. It was Ask Jeeves fight to lose" ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Columbus, OH" ],
+          "uid" : [ "tag:twitter.com:3df0e3eb1e91170b" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2023-01-10T16:01:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1612842004014137345" ],
+      "url" : [ "https://twitter.com/murderxbryan/status/1612842004014137345" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Lorenz" ],
+        "nickname" : [ "TaylorLorenz" ],
+        "numeric-id" : [ "208725869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487520401731174404/SwXwcxuH.jpg" ],
+        "published" : [ "2010-10-27T20:40:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TaylorLorenz" ],
+        "url" : [ "https://twitter.com/TaylorLorenz", "https://linktr.ee/TaylorLorenz", "http://taylorlorenz.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Who is out here typing entire sentences into google and not a mash of relevant keywords?!" ],
+    "published" : [ "2023-01-11T06:35:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1613061998786547712" ],
+    "url" : [ "https://twitter.com/TaylorLorenz/status/1613061998786547712" ]
+  },
+  "type" : [ "h-entry" ]
+}
