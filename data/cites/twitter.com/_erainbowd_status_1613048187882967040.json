@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hollywood, California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Golden Globe Awards" ],
+          "nickname" : [ "goldenglobes" ],
+          "numeric-id" : [ "18667907" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1608248884215648258/lci3lUyv.png" ],
+          "published" : [ "2009-01-06T08:59:41+00:00" ],
+          "uid" : [ "tag:twitter.com:goldenglobes" ],
+          "url" : [ "https://twitter.com/goldenglobes", "http://www.goldenglobes.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "And here is your host for the 80th Annual <a href=\"https://twitter.com/search?q=%23GoldenGlobes\">#GoldenGlobes</a>... It’s Jerrod Carmichael! 🎤 ",
+        "value" : "And here is your host for the 80th Annual #GoldenGlobes... It’s Jerrod Carmichael! 🎤 "
+      } ],
+      "published" : [ "2023-01-11T01:50:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1612990423005290502" ],
+      "url" : [ "https://twitter.com/goldenglobes/status/1612990423005290502" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1612983042989260800/vid/1920x1080/DxRTo8kzG1GLjL6U.mp4?tag=16" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "new york city" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Rainbow Davis" ],
+        "nickname" : [ "erainbowd" ],
+        "numeric-id" : [ "244652101" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1046446434663329792/EtIzhGLW.jpg" ],
+        "published" : [ "2011-01-29T20:25:09+00:00" ],
+        "uid" : [ "tag:twitter.com:erainbowd" ],
+        "url" : [ "https://twitter.com/erainbowd", "https://www.emilyrainbowdavis.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "An amazing lesson in how to handle getting invited to the morally compromised party." ],
+    "published" : [ "2023-01-11T05:40:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1613048187882967040" ],
+    "url" : [ "https://twitter.com/erainbowd/status/1613048187882967040" ]
+  },
+  "type" : [ "h-entry" ]
+}
