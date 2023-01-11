@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Zohar" ],
+        "nickname" : [ "TomZohar" ],
+        "numeric-id" : [ "331962814" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1532206081207767046/Vv0PvG4z.jpg" ],
+        "published" : [ "2011-07-09T00:37:43+00:00" ],
+        "uid" : [ "tag:twitter.com:TomZohar" ],
+        "url" : [ "https://twitter.com/TomZohar", "https://www.instagram.com/tommyzohar/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Twitter bringing back the image crop on an awards night IS pretty funny actually" ],
+    "photo" : [ "https://pbs.twimg.com/media/FmJuSGDaMAAdh9w.jpg", "https://pbs.twimg.com/media/FmJuSF-aYAAOXXt.jpg" ],
+    "published" : [ "2023-01-11T00:41:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1612972878106066946" ],
+    "url" : [ "https://twitter.com/TomZohar/status/1612972878106066946" ]
+  },
+  "type" : [ "h-entry" ]
+}
