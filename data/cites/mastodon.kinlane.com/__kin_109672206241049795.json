@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://mastodon.kinlane.com/@kin/109672206241049795" ],
+    "uid" : [ "https://mastodon.kinlane.com/@kin/109672206241049795" ],
+    "published" : [ "2023-01-11T19:24:21+00:00" ],
+    "content" : [ {
+      "html" : "<p>I come across a lot of acronyms and this one is my favorite - <a href=\"https://owasp.org/www-project-crapi/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"\">owasp.org/www-project-crapi/</span><span class=\"invisible\"></span></a></p>",
+      "value" : "I come across a lot of acronyms and this one is my favorite - https://owasp.org/www-project-crapi/",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kin Lane" ],
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "photo" : [ {
+          "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/accounts/avatars/109/401/910/211/248/521/original/ffa09bc02aa78e18.jpeg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Kin Lane"
+    } ]
+  },
+  "lang" : "en"
+}
