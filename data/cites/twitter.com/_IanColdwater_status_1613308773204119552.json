@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"Don't go to bed angry\" is terrible relationship advice. Don't fight into the night while everybody's tired! Get some sleep and come back with a clearer head" ],
+    "published" : [ "2023-01-11T22:56:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1613308773204119552" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1613308773204119552" ]
+  },
+  "type" : [ "h-entry" ]
+}
