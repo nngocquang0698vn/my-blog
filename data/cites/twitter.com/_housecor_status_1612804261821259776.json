@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525874017630035970/veQQouGw.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://pluralsight.com", "http://reactjsconsulting.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Pre-commit hooks are a waste of time.\n\nWhy? Because they enforce standards too early. Pre-commit hooks make us wait for a quality check on every commit.👎\n\nThe code shouldn't need to be \"right\" to save my changes.\n\nThe code only needs to be right before merge.\n\nSolution? Use CI.</div>",
+      "value" : "Pre-commit hooks are a waste of time.\n\nWhy? Because they enforce standards too early. Pre-commit hooks make us wait for a quality check on every commit.👎\n\nThe code shouldn't need to be \"right\" to save my changes.\n\nThe code only needs to be right before merge.\n\nSolution? Use CI."
+    } ],
+    "published" : [ "2023-01-10T13:31:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1612804261821259776" ],
+    "url" : [ "https://twitter.com/housecor/status/1612804261821259776" ]
+  },
+  "type" : [ "h-entry" ]
+}
