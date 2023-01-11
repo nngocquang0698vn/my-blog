@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Phoenix, AZ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Darren Shepherd" ],
+        "nickname" : [ "ibuildthecloud" ],
+        "numeric-id" : [ "1591197324" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/482750788519731201/Fcs5tabg.jpeg" ],
+        "published" : [ "2013-07-13T15:16:57+00:00" ],
+        "uid" : [ "tag:twitter.com:ibuildthecloud" ],
+        "url" : [ "https://twitter.com/ibuildthecloud", "https://acorn.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I need to do CLI integration tests.  Is bats the way to go, is there something more go based that people like these days?" ],
+    "published" : [ "2023-01-11T16:53:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1613217645452754944" ],
+    "url" : [ "https://twitter.com/ibuildthecloud/status/1613217645452754944" ]
+  },
+  "type" : [ "h-entry" ]
+}
