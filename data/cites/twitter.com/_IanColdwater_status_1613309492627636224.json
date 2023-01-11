@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Sometimes in the morning you can deal with things more productively, and sometimes in the light of day the thing you were stressing about doesn't look like a big deal at all.\n\nGet some sleep! It took me way too long to figure this out</div>",
+      "value" : "Sometimes in the morning you can deal with things more productively, and sometimes in the light of day the thing you were stressing about doesn't look like a big deal at all.\n\nGet some sleep! It took me way too long to figure this out"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1613308773204119552" ],
+    "published" : [ "2023-01-11T22:58:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1613309492627636224" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1613309492627636224" ]
+  },
+  "type" : [ "h-entry" ]
+}
