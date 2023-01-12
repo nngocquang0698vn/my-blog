@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near the coffee machine" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Arch" ],
+        "nickname" : [ "KyleGeorgeArch" ],
+        "numeric-id" : [ "36381627" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1190200306874888193/P4NuuNPT.jpg" ],
+        "published" : [ "2009-04-29T15:17:14+00:00" ],
+        "uid" : [ "tag:twitter.com:KyleGeorgeArch" ],
+        "url" : [ "https://twitter.com/KyleGeorgeArch", "https://butt.land" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Really stupid idea: you can detect deprecation by trying to create a lambda with each runtime you're interested in. If you want to detect phase 2 deprecation you'll need a lambda of each runtime and try to update the code periodically...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "Really stupid idea: you can detect deprecation by trying to create a lambda with each runtime you're interested in. If you want to detect phase 2 deprecation you'll need a lambda of each runtime and try to update the code periodically..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/KyleGeorgeArch/status/1613655345599062030" ],
+    "published" : [ "2023-01-12T22:05:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1613658487355240448" ],
+    "url" : [ "https://twitter.com/KyleGeorgeArch/status/1613658487355240448" ]
+  },
+  "type" : [ "h-entry" ]
+}
