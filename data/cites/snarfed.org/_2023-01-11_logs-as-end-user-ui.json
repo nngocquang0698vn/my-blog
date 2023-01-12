@@ -1,0 +1,81 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Logs as end user UI" ],
+    "url" : [ "https://snarfed.org/2023-01-11_logs-as-end-user-ui" ],
+    "syndication" : [ "https://twitter.com/schnarfed/status/1613299141496700928", "https://fed.brid.gy/user/snarfed.org", "https://twitter.com/schnarfed/status/1613299141496700928", "https://fed.brid.gy/user/snarfed.org" ],
+    "published" : [ "2023-01-11T14:11:00-08:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right third\">\n <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/matrix.webp\" data-lazy-src=\"/matrix.webp?is-pending-load=1\" srcset=\"\"></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"shadow\" src=\"https://snarfed.org/matrix.webp\"></noscript>\n\n<p>A long time ago, I decided to show <a href=\"https://brid.gy/\">Bridgy</a>‘s end users its raw logs. Like, <em>raw</em> logs. HTTP requests, database reads and writes, JSON objects, stack traces, etc. It’s an unusual UI feature, but it’s been an unqualified success, enough that when I built <a href=\"https://fed.brid.gy/\">Bridgy Fed</a>, I immediately included it and never looked back.</p>\n<p>Whenever Bridgy does something nontrivial – <a href=\"https://brid.gy/about#checks+your+accounts\">poll a social network account</a>, <a href=\"https://brid.gy/about#which\">send a webmention</a>, <a href=\"https://brid.gy/about#publishing\">publish a post</a> – I generally include a link to the server logs for that operation. <a href=\"https://snarfed.org/bridgy-poll-log.png\">Here’s an example</a>, a series of timestamped plain text log messages from a poll of my Twitter account. They include initial config and parameters, account status, each individual Twitter API request, the results of those requests, how Bridgy interpreted them, HTTP requests to my web site, the subsequent actions Bridgy took and why, how the account’s status changed, and when the next poll is scheduled for.\n<span id=\"more-48949\"></span></p>\n<p>These kinds of logs can answer a number of common user questions:</p>\n<ul>\n<li>Why isn’t Bridgy seeing this post?</li>\n<li>Why didn’t Bridgy send that webmention?</li>\n<li>Why isn’t Bridgy interpreting my <a href=\"https://microformats.org/wiki/microformats2\">microformats</a> right?</li>\n<li>Why did Bridgy’s request to my web site fail?</li>\n<li>Why did Bridgy’s request to that social network fail?</li>\n<li>What exact data did Bridgy send in this webmention?</li>\n<li>What exact data did Bridgy send to that social network?</li>\n<li>Look what Bridgy did here, is this a bug?</li>\n<li>etc.</li>\n</ul>\n<p class=\"left third\">\n <a href=\"https://snarfed.org/bridgy-poll-log.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy-poll-log-thumb.png\" data-lazy-src=\"/bridgy-poll-log-thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"shadow\" src=\"https://snarfed.org/bridgy-poll-log-thumb.png\"></noscript>\n\n<p>Why do I like this so much? In a word, ROI. I’m not a UX designer or frontend engineer, I dread building UI, so I’m always on the lookout for ways to minimize it or <a href=\"https://snarfed.org/2015-11-29_keep-bridgy-publish-dumb#No+UI+needed\">avoid it altogether</a>. Unfortunately, Bridgy is a complex tool. It connects to dozens of external services and thousands of web sites, it has complex internal logic in a number of ways, and it requires involved, specific setup on users’ parts. I work hard to keep the <a href=\"https://brid.gy/about\">docs</a> complete and up to date, but in tech, we all know that <a href=\"https://www.google.com/search?q=%22users+don%27t+read%22\">users don’t read</a>.</p>\n<p>So, as a way to communicate a broad, deep range of complex information, logs give me tremendous bang for the buck. Plain text log messages are flexible, cheap, and widely supported in most infrastructure. I already include logging during development as an <a href=\"https://newrelic.com/blog/best-practices/what-is-observability\">observability</a> tool for myself. I had to <a href=\"https://github.com/snarfed/webutil/blob/main/logs.py\">build an extra handler</a> to serve those logs to end users, but that was mostly straightforward. Mostly.</p>\n<p>This isn’t for the faint of heart though. It’s a tricky idea with a number of drawbacks:</p>\n<ul>\n<li>It only works for relatively technical user bases. Plain text logs are <em>not</em> good general-purpose UI. Wading through a wall of fixed width text and technical jargon is akin to <a href=\"https://www.urbandictionary.com/define.php?term=seeing%20the%20matrix\">seeing the matrix</a>. Bridgy’s user base <em>is</em> relatively technical, but that’s not the norm. For most mainstream users, it’s a non-starter.</li>\n<li>Furthermore, even if <em>most</em> of your users are technical, the fact that logs are bad UI means they may <em>cause</em> confusion in the minority who aren’t.</li>\n<li>Exposing raw logs is risky! Most services have credentials, private data, and other non-public information. Developers often try to keep those out of logs, but some always slips in. That’s not critical when logs are internal only, but as soon as you expose them publicly, any exposure is unacceptable. You have to sanitize <em>all</em> non-public information, or at least anything that the logged in user shouldn’t see. That work is tedious, detail-oriented, and error-prone.</li>\n<li>Similarly, logs air all of your dirty laundry. All those quick hacks, shortcuts, missing features, old legacy incompatibilities, internal design decisions, and straight up bugs are on full display for anyone willing to spend the time to look for them. This can be good, transparency and all, but still. You have to be ok with the world looking through your underwear drawer and second guessing everything you do.</li>\n</ul>\n<p>Regardless, even considering all of those tradeoffs, I love the logs UI. It’s saved me – and users! – countless hours of support and debugging. Consider it next time you build something for developers or other technical people. As low effort, high return, “worse is better” UI goes, it’s one of my favorite techniques.</p>",
+      "value" : "https://snarfed.org/matrix.webp https://snarfed.org/matrix.webp\nA long time ago, I decided to show Bridgy‘s end users its raw logs. Like, raw logs. HTTP requests, database reads and writes, JSON objects, stack traces, etc. It’s an unusual UI feature, but it’s been an unqualified success, enough that when I built Bridgy Fed, I immediately included it and never looked back.\nWhenever Bridgy does something nontrivial – poll a social network account, send a webmention, publish a post – I generally include a link to the server logs for that operation. Here’s an example, a series of timestamped plain text log messages from a poll of my Twitter account. They include initial config and parameters, account status, each individual Twitter API request, the results of those requests, how Bridgy interpreted them, HTTP requests to my web site, the subsequent actions Bridgy took and why, how the account’s status changed, and when the next poll is scheduled for.\nThese kinds of logs can answer a number of common user questions: Why isn’t Bridgy seeing this post? Why didn’t Bridgy send that webmention? Why isn’t Bridgy interpreting my microformats right? Why did Bridgy’s request to my web site fail? Why did Bridgy’s request to that social network fail? What exact data did Bridgy send in this webmention? What exact data did Bridgy send to that social network? Look what Bridgy did here, is this a bug? etc.\nhttps://snarfed.org/bridgy-poll-log-thumb.png https://snarfed.org/bridgy-poll-log-thumb.png\nWhy do I like this so much? In a word, ROI. I’m not a UX designer or frontend engineer, I dread building UI, so I’m always on the lookout for ways to minimize it or avoid it altogether. Unfortunately, Bridgy is a complex tool. It connects to dozens of external services and thousands of web sites, it has complex internal logic in a number of ways, and it requires involved, specific setup on users’ parts. I work hard to keep the docs complete and up to date, but in tech, we all know that users don’t read.\nSo, as a way to communicate a broad, deep range of complex information, logs give me tremendous bang for the buck. Plain text log messages are flexible, cheap, and widely supported in most infrastructure. I already include logging during development as an observability tool for myself. I had to build an extra handler to serve those logs to end users, but that was mostly straightforward. Mostly.\nThis isn’t for the faint of heart though. It’s a tricky idea with a number of drawbacks: It only works for relatively technical user bases. Plain text logs are not good general-purpose UI. Wading through a wall of fixed width text and technical jargon is akin to seeing the matrix. Bridgy’s user base is relatively technical, but that’s not the norm. For most mainstream users, it’s a non-starter. Furthermore, even if most of your users are technical, the fact that logs are bad UI means they may cause confusion in the minority who aren’t. Exposing raw logs is risky! Most services have credentials, private data, and other non-public information. Developers often try to keep those out of logs, but some always slips in. That’s not critical when logs are internal only, but as soon as you expose them publicly, any exposure is unacceptable. You have to sanitize all non-public information, or at least anything that the logged in user shouldn’t see. That work is tedious, detail-oriented, and error-prone. Similarly, logs air all of your dirty laundry. All those quick hacks, shortcuts, missing features, old legacy incompatibilities, internal design decisions, and straight up bugs are on full display for anyone willing to spend the time to look for them. This can be good, transparency and all, but still. You have to be ok with the world looking through your underwear drawer and second guessing everything you do.\nRegardless, even considering all of those tradeoffs, I love the logs UI. It’s saved me – and users! – countless hours of support and debugging. Consider it next time you build something for developers or other technical people. As low effort, high return, “worse is better” UI goes, it’s one of my favorite techniques.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1613299141496700928#favorited-by-22757153" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "JeanPhilippe Caruana" ],
+            "url" : [ "https://twitter.com/jpcaruana" ]
+          },
+          "lang" : "en-US",
+          "value" : "JeanPhilippe Caruana"
+        } ]
+      },
+      "id" : "comment-2860087",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1613299141496700928#favorited-by-22757153"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://martymcgui.re/2023/01/11/191710/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marty McGuire" ],
+            "url" : [ "https://martymcgui.re/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Marty McGuire"
+        } ]
+      },
+      "id" : "comment-2860086",
+      "lang" : "en-US",
+      "value" : "https://martymcgui.re/2023/01/11/191710/"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
