@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "tips: tom@theverge.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tom Warren" ],
+          "nickname" : [ "tomwarren" ],
+          "numeric-id" : [ "12273252" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1601147760673267712/pGbRSFcP.jpg" ],
+          "published" : [ "2008-01-15T14:42:09+00:00" ],
+          "uid" : [ "tag:twitter.com:tomwarren" ],
+          "url" : [ "https://twitter.com/tomwarren", "https://linktr.ee/tomwarren" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "scoop: Microsoft employees are getting unlimited time off. Microsoft will no longer require US employees to formally record vacation later this month, and they're getting a payout for any unused days. Details here: <a href=\"https://www.theverge.com/2023/1/11/23550470/microsoft-employees-unlimited-time-off-2023\">theverge.com/2023/1/11/2355…</a>",
+        "value" : "scoop: Microsoft employees are getting unlimited time off. Microsoft will no longer require US employees to formally record vacation later this month, and they're getting a payout for any unused days. Details here: theverge.com/2023/1/11/2355…"
+      } ],
+      "published" : [ "2023-01-11T18:39:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1613244112635047938" ],
+      "url" : [ "https://twitter.com/tomwarren/status/1613244112635047938" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn / @quinnypig@awscommunity.social" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Congratulations to Microsoft employees on your new four day workweek.\n\nOh, you can't take every Friday off? Why, that would imply that it's not \"unlimited\" so much as it is \"a scam to not have to pay out unused PTO when you depart the company.\"</div>",
+      "value" : "Congratulations to Microsoft employees on your new four day workweek.\n\nOh, you can't take every Friday off? Why, that would imply that it's not \"unlimited\" so much as it is \"a scam to not have to pay out unused PTO when you depart the company.\""
+    } ],
+    "published" : [ "2023-01-11T19:37:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1613258939621335040" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1613258939621335040" ]
+  },
+  "type" : [ "h-entry" ]
+}
