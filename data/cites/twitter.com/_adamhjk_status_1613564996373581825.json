@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Non-accrual PTO might be a scam (we don’t let you take vacation *and* we don’t track it *and* we don’t pay you out when you finally tell us to fuck off) - but coupled with mandatory minimums (w/tracking), flexible life scheduling, it can be a blessing." ],
+    "published" : [ "2023-01-12T15:54:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1613564996373581825" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1613564996373581825" ]
+  },
+  "type" : [ "h-entry" ]
+}
