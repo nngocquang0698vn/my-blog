@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near the coffee machine" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Arch" ],
+        "nickname" : [ "KyleGeorgeArch" ],
+        "numeric-id" : [ "36381627" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1190200306874888193/P4NuuNPT.jpg" ],
+        "published" : [ "2009-04-29T15:17:14+00:00" ],
+        "uid" : [ "tag:twitter.com:KyleGeorgeArch" ],
+        "url" : [ "https://twitter.com/KyleGeorgeArch", "https://butt.land" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Assuming you're aware of the documentation, but that's not an API. I think the only option is that runtimes approaching EOL are flagged in Trusted Advisor, though I'm not sure which level of plan you need for that specific check.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "Assuming you're aware of the documentation, but that's not an API. I think the only option is that runtimes approaching EOL are flagged in Trusted Advisor, though I'm not sure which level of plan you need for that specific check."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1613644018767876096" ],
+    "published" : [ "2023-01-12T21:53:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1613655345599062030" ],
+    "url" : [ "https://twitter.com/KyleGeorgeArch/status/1613655345599062030" ]
+  },
+  "type" : [ "h-entry" ]
+}
