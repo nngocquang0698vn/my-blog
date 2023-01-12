@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, USA and Bari, Apulia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "home skillet (@squillace@hachyderm.io)" ],
+          "nickname" : [ "ralph_squillace" ],
+          "numeric-id" : [ "3453491306" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1019934570492248064/a1QH28gN.jpg" ],
+          "published" : [ "2015-09-05T00:12:51+00:00" ],
+          "uid" : [ "tag:twitter.com:ralph_squillace" ],
+          "url" : [ "https://twitter.com/ralph_squillace" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "uh oh: <a href=\"https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/health-and-safety/\">events.linuxfoundation.org/kubecon-cloudn…</a> \"Recommend but not require event participants to wear masks at in-person events\", well cripes. I note that covid has **completely vanished** and the removal of masks hasn't **increased flu** at all. :-|\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/endocrimes\"></a>",
+        "value" : "uh oh: events.linuxfoundation.org/kubecon-cloudn… \"Recommend but not require event participants to wear masks at in-person events\", well cripes. I note that covid has **completely vanished** and the removal of masks hasn't **increased flu** at all. :-|"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/endocrimes/status/1613590778525224987" ],
+      "published" : [ "2023-01-12T17:40:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1613591821250330625" ],
+      "url" : [ "https://twitter.com/ralph_squillace/status/1613591821250330625" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "KubeCon lifting its mask mandate is deeply irresponsible with the state of the pandemic. I'm really disappointed in this decision and I don't think I'm going to go in light of this" ],
+    "published" : [ "2023-01-12T17:49:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1613594023574528000" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1613594023574528000" ]
+  },
+  "type" : [ "h-entry" ]
+}
