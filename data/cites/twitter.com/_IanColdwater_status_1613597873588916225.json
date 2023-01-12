@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591258448645292033/s7HR-mtc.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">do people not read the science? do they just not know anyone with long COVID?\n\nmany of us work with our brains. even if you accept the risk, do you have a backup plan for if long COVID doesn't allow you to work anymore? have you threat modeled this out? what are you going to do?</div>",
+      "value" : "do people not read the science? do they just not know anyone with long COVID?\n\nmany of us work with our brains. even if you accept the risk, do you have a backup plan for if long COVID doesn't allow you to work anymore? have you threat modeled this out? what are you going to do?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1613594182932893703" ],
+    "published" : [ "2023-01-12T18:04:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1613597873588916225" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1613597873588916225" ]
+  },
+  "type" : [ "h-entry" ]
+}
