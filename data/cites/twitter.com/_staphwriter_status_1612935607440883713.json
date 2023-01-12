@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Max Lockie" ],
+        "nickname" : [ "staphwriter" ],
+        "numeric-id" : [ "43891668" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1404879171801735177/IFSiFGqS.jpg" ],
+        "published" : [ "2009-06-01T14:21:05+00:00" ],
+        "uid" : [ "tag:twitter.com:staphwriter" ],
+        "url" : [ "https://twitter.com/staphwriter", "http://instagram.com/bizbro", "http://getrevue.co/profile/staphw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just heard someone turn down after-work plans because they have an avocado at home that’s about to go bad" ],
+    "published" : [ "2023-01-10T22:13:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1612935607440883713" ],
+    "url" : [ "https://twitter.com/staphwriter/status/1612935607440883713" ]
+  },
+  "type" : [ "h-entry" ]
+}
