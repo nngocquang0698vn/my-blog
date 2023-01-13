@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "257.34,-1.47" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shaun" ],
+        "nickname" : [ "sdh100Shaun" ],
+        "numeric-id" : [ "257573" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/908055077520379905/mAVLMD60.jpg" ],
+        "published" : [ "2006-12-26T09:09:15+00:00" ],
+        "uid" : [ "tag:twitter.com:sdh100Shaun" ],
+        "url" : [ "https://twitter.com/sdh100Shaun", "http://shaunhare.co.uk?mastodon=https://cloud-native.social/@shaunhare" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "do you get the official docs off github and parse the md @JamieTanna ? <a href=\"https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/doc_source/lambda-runtimes.md\">github.com/awsdocs/aws-la…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KyleGeorgeArch\"></a>",
+      "value" : "do you get the official docs off github and parse the md @JamieTanna ? github.com/awsdocs/aws-la…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1613664444755709953" ],
+    "published" : [ "2023-01-12T22:43:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1613667953714819074" ],
+    "url" : [ "https://twitter.com/sdh100Shaun/status/1613667953714819074" ]
+  },
+  "type" : [ "h-entry" ]
+}
