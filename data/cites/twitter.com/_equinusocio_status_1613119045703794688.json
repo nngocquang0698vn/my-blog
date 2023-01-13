@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Monza, Lombardia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mattia Astorino" ],
+        "nickname" : [ "equinusocio" ],
+        "numeric-id" : [ "66939834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1606408052076417024/zAQDzGUb.jpg" ],
+        "published" : [ "2009-08-19T07:30:04+00:00" ],
+        "uid" : [ "tag:twitter.com:equinusocio" ],
+        "url" : [ "https://twitter.com/equinusocio", "http://www.equinusocio.dev", "http://design.wonderflow.ai" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">1px solid red;\n\nLike if you know what I mean 😏</div>",
+      "value" : "1px solid red;\n\nLike if you know what I mean 😏"
+    } ],
+    "published" : [ "2023-01-11T10:22:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1613119045703794688" ],
+    "url" : [ "https://twitter.com/equinusocio/status/1613119045703794688" ]
+  },
+  "type" : [ "h-entry" ]
+}
