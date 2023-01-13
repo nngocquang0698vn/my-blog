@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "emily (**hiatus**)" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1602402685038518272/oG6HU7d3.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst", "https://social.emily.news/@est" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "like…whose?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MxRubyRailed\"></a>",
+      "value" : "like…whose?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MxRubyRailed/status/1613957958072950784" ],
+    "published" : [ "2023-01-13T17:57:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1613958340694118401" ],
+    "url" : [ "https://twitter.com/emilyst/status/1613958340694118401" ]
+  },
+  "type" : [ "h-entry" ]
+}
