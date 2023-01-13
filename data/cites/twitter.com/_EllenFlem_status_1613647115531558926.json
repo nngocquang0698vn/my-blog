@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ellen Fleming" ],
+        "nickname" : [ "EllenFlem" ],
+        "numeric-id" : [ "308191373" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575585200687484928/NitSHHSG.jpg" ],
+        "published" : [ "2011-05-31T00:13:24+00:00" ],
+        "uid" : [ "tag:twitter.com:EllenFlem" ],
+        "url" : [ "https://twitter.com/EllenFlem" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Sometimes that Boston accent slips out when you least expect it" ],
+    "published" : [ "2023-01-12T21:20:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1613647115531558926" ],
+    "url" : [ "https://twitter.com/EllenFlem/status/1613647115531558926" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1613646711502639105/pu/vid/1280x720/QELMlMgjrBsPpV7_.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
