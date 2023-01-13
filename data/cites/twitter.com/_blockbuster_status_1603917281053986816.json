@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/DiscussingFilm…" ],
+        "url" : [ "https://twitter.com/DiscussingFilm/status/1603859644908281857" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Richard Newby - Vote Blue and Save Yourselves" ],
+          "nickname" : [ "RICHARDLNEWBY" ],
+          "numeric-id" : [ "2322690577" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1121790094938001416/bDaXXPQ9.jpg" ],
+          "published" : [ "2014-02-01T18:02:54+00:00" ],
+          "uid" : [ "tag:twitter.com:RICHARDLNEWBY" ],
+          "url" : [ "https://twitter.com/RICHARDLNEWBY", "https://www.amazon.com/Make-Monsters-Here-Richard-Newby-ebook/dp/B08QTWXBC1" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Can’t believe this is the second time in history that Netflix put Blockbuster out of business.\n<a class=\"tag\" href=\"https://twitter.com/DiscussingFilm/status/1603859644908281857\">twitter.com/DiscussingFilm…</a>",
+        "value" : "Can’t believe this is the second time in history that Netflix put Blockbuster out of business."
+      } ],
+      "published" : [ "2022-12-16T22:34:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1603881258462879746" ],
+      "url" : [ "https://twitter.com/RICHARDLNEWBY/status/1603881258462879746" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, Colorado" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Blockbuster" ],
+        "nickname" : [ "blockbuster" ],
+        "numeric-id" : [ "20270659" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000679852472/9ee706eca6f5d0b9fbc3a57d014ec807.jpeg" ],
+        "published" : [ "2009-02-06T20:50:28+00:00" ],
+        "uid" : [ "tag:twitter.com:blockbuster" ],
+        "url" : [ "https://twitter.com/blockbuster", "http://www.blockbuster.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh God not again…" ],
+    "published" : [ "2022-12-17T00:57:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1603917281053986816" ],
+    "url" : [ "https://twitter.com/blockbuster/status/1603917281053986816" ]
+  },
+  "type" : [ "h-entry" ]
+}
