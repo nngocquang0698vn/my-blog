@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Online meetings should have some feature where you press a button to indicate you're ready early, and if everyone in the meeting presses the button, the meeting starts right away." ],
+    "published" : [ "2023-01-13T21:54:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1614017963216220161" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1614017963216220161" ]
+  },
+  "type" : [ "h-entry" ]
+}
