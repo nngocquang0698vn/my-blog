@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, Colorado" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Blockbuster" ],
+        "nickname" : [ "blockbuster" ],
+        "numeric-id" : [ "20270659" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000679852472/9ee706eca6f5d0b9fbc3a57d014ec807.jpeg" ],
+        "published" : [ "2009-02-06T20:50:28+00:00" ],
+        "uid" : [ "tag:twitter.com:blockbuster" ],
+        "url" : [ "https://twitter.com/blockbuster", "http://www.blockbuster.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We are getting reports that George Santos is claiming to have worked at Blockbuster. We can not confirm or deny as our HR dept has been gone for awhile." ],
+    "published" : [ "2023-01-06T23:17:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1611502293677137920" ],
+    "url" : [ "https://twitter.com/blockbuster/status/1611502293677137920" ]
+  },
+  "type" : [ "h-entry" ]
+}
