@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oliver" ],
+        "nickname" : [ "babeymnms" ],
+        "numeric-id" : [ "1939930651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1612388135538954240/SJh64Bcq.jpg" ],
+        "published" : [ "2013-10-06T05:33:08+00:00" ],
+        "uid" : [ "tag:twitter.com:babeymnms" ],
+        "url" : [ "https://twitter.com/babeymnms" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "WHAAAAA hot take\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/doomscroll_bot\"></a>",
+      "value" : "WHAAAAA hot take"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/doomscroll_bot/status/1614135342940164097" ],
+    "published" : [ "2023-01-14T08:58:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1614185104582270977" ],
+    "url" : [ "https://twitter.com/babeymnms/status/1614185104582270977" ]
+  },
+  "type" : [ "h-entry" ]
+}
