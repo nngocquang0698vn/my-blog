@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Darren Marble" ],
+          "nickname" : [ "darrenmarble" ],
+          "numeric-id" : [ "22404436" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1522804153545674753/oExzS6--.jpg" ],
+          "published" : [ "2009-03-01T20:46:48+00:00" ],
+          "uid" : [ "tag:twitter.com:darrenmarble" ],
+          "url" : [ "https://twitter.com/darrenmarble", "http://darrenmarble.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Sober founders execute better." ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Los Angeles, CA" ],
+          "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2023-01-14T19:36:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1614345606360891392" ],
+      "url" : [ "https://twitter.com/darrenmarble/status/1614345606360891392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jono Bacon" ],
+        "nickname" : [ "jonobacon" ],
+        "numeric-id" : [ "14816103" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1551720367105773568/Be_NkT8h.jpg" ],
+        "published" : [ "2008-05-18T00:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:jonobacon" ],
+        "url" : [ "https://twitter.com/jonobacon", "https://pages.jonobacon.com/core" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Stunning insight that not being blackout drunk aids productivity.\n\nLike and subscribe for more pro tips.</div>",
+      "value" : "Stunning insight that not being blackout drunk aids productivity.\n\nLike and subscribe for more pro tips."
+    } ],
+    "published" : [ "2023-01-14T21:11:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1614369686959050752" ],
+    "url" : [ "https://twitter.com/jonobacon/status/1614369686959050752" ]
+  },
+  "type" : [ "h-entry" ]
+}
