@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525874017630035970/veQQouGw.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://pluralsight.com", "http://reactjsconsulting.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Monorepos are great…to a point. \n\nGrouping apps that use the same tech in one repo makes a lot of sense. Why? Because they can share a lot of code and config.\n\nBut, grouping disparate, unrelated tech? Likely not worth it.\n\nSummary: Put *similar* projects in monorepos.</div>",
+      "value" : "Monorepos are great…to a point. \n\nGrouping apps that use the same tech in one repo makes a lot of sense. Why? Because they can share a lot of code and config.\n\nBut, grouping disparate, unrelated tech? Likely not worth it.\n\nSummary: Put *similar* projects in monorepos."
+    } ],
+    "published" : [ "2023-01-14T22:25:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1614388358154801152" ],
+    "url" : [ "https://twitter.com/housecor/status/1614388358154801152" ]
+  },
+  "type" : [ "h-entry" ]
+}
