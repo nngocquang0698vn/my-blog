@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Jelle Prins" ],
+          "nickname" : [ "jelleprins" ],
+          "numeric-id" : [ "16546619" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1525402521019219970/4F1MDphY.jpg" ],
+          "published" : [ "2008-10-01T17:06:25+00:00" ],
+          "uid" : [ "tag:twitter.com:jelleprins" ],
+          "url" : [ "https://twitter.com/jelleprins", "http://cradle.bio", "http://operator.exchange" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Aldi introduced an Amazon-like store in The Netherlands.\n\nYou can grab your groceries and walk out. Cameras register what you take &amp; auto-charge your creditcard. \n\nZero friction.\n\nExcept in a country where ppl don’t have creditcards &amp; your app sucks 🤦🏻‍♂️\n\n</div>",
+        "value" : "Aldi introduced an Amazon-like store in The Netherlands.\n\nYou can grab your groceries and walk out. Cameras register what you take & auto-charge your creditcard. \n\nZero friction.\n\nExcept in a country where ppl don’t have creditcards & your app sucks 🤦🏻‍♂️\n\n"
+      } ],
+      "published" : [ "2023-01-14T09:08:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1614187580291186690" ],
+      "url" : [ "https://twitter.com/jelleprins/status/1614187580291186690" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1601172198919643136/pu/vid/1280x720/1oHJfKB7zwIcauJO.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent", "http://pragmaticurl.com/contact" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is hilarious. Aldi created an Amazon-like “grab and go, zero staff” store in the Netherlands.\n\nExcept no customers enter b/c to do so, you need to register *with a credit card*. The majority of the population in the Netherlands doesn’t have a credit card! They have debit.</div>",
+      "value" : "This is hilarious. Aldi created an Amazon-like “grab and go, zero staff” store in the Netherlands.\n\nExcept no customers enter b/c to do so, you need to register *with a credit card*. The majority of the population in the Netherlands doesn’t have a credit card! They have debit."
+    } ],
+    "published" : [ "2023-01-14T10:27:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1614207513213259777" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1614207513213259777" ]
+  },
+  "type" : [ "h-entry" ]
+}
