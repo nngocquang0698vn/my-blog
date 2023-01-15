@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Bob Newbie" ],
+        "nickname" : [ "SuperBobNewbie" ],
+        "numeric-id" : [ "1565106283644076032" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1606490936023851008/TypStxHS.jpg" ],
+        "published" : [ "2022-08-31T22:36:41+00:00" ],
+        "uid" : [ "tag:twitter.com:SuperBobNewbie" ],
+        "url" : [ "https://twitter.com/SuperBobNewbie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Put it on <a href=\"https://twitter.com/DisneyPlus\">@DisneyPlus</a> already. We’ve waited long enough\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Marvel\"></a>",
+      "value" : "Put it on @DisneyPlus already. We’ve waited long enough"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Marvel/status/1614321578430308354" ],
+    "published" : [ "2023-01-14T18:04:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1614322465760591873" ],
+    "url" : [ "https://twitter.com/SuperBobNewbie/status/1614322465760591873" ]
+  },
+  "type" : [ "h-entry" ]
+}
