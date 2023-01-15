@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Politics" ],
+          "nickname" : [ "BBCPolitics" ],
+          "numeric-id" : [ "621533" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1150756359497015298/xXj2IfkW.png" ],
+          "published" : [ "2007-01-10T12:34:33+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCPolitics" ],
+          "url" : [ "https://twitter.com/BBCPolitics", "http://www.bbc.co.uk/politics" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23BBCLauraK\">#BBCLauraK</a> asks Labour leader Keir Starmer whether he supports 16 and 17 year-olds being able to get a gender recognition certificate based on self-identification?\n\nHe says: “No I don’t think you are [old enough]”  \n\n<a href=\"http://bbc.in/3XeOulI\">bbc.in/3XeOulI</a></div>",
+        "value" : "#BBCLauraK asks Labour leader Keir Starmer whether he supports 16 and 17 year-olds being able to get a gender recognition certificate based on self-identification?\n\nHe says: “No I don’t think you are [old enough]”  \n\nbbc.in/3XeOulI"
+      } ],
+      "published" : [ "2023-01-15T09:39:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1614557832728444934" ],
+      "url" : [ "https://twitter.com/BBCPolitics/status/1614557832728444934" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1614556316827291650/vid/1280x720/kYU-6RE6ilNgTIPi.mp4?tag=16" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Whitehead" ],
+        "nickname" : [ "DanWritehead" ],
+        "numeric-id" : [ "560095534" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595471515587428358/Dyumx_fb.jpg" ],
+        "published" : [ "2012-04-22T06:06:39+00:00" ],
+        "uid" : [ "tag:twitter.com:DanWritehead" ],
+        "url" : [ "https://twitter.com/DanWritehead", "https://linktr.ee/danwhitehead" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If 16 is considered old enough to make an informed choice about joining the Army and possibly dying for your country, I'm pretty sure 16-year-olds can handle their own gender identity." ],
+    "published" : [ "2023-01-15T15:10:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1614641238678081538" ],
+    "url" : [ "https://twitter.com/DanWritehead/status/1614641238678081538" ]
+  },
+  "type" : [ "h-entry" ]
+}
