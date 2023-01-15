@@ -30,6 +30,7 @@ There are a few Free and Open Source projects that I maintain:
 - [tidied](https://gitlab.com/jamietanna/tidied)
 - [renovate-graph](https://gitlab.com/tanna.dev/renovate-graph)
 - [renovate-one-off](https://gitlab.com/tanna.dev/renovate-one-off)
+- [aws-lambda-endoflife](https://gitlab.com/tanna.dev/aws-lambda-endoflife)
 
 I also work very hard on producing Free and Open Source solutions as part of the content on this website.
 
