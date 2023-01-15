@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton, fashon mogul" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599946475106177025/d0fP2wjB.jpg" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "https://about.me/mattstratton" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Apparently tweets from people you don’t follow but are on one of your lists will be put into the new “for you” timeline. So if you’ve got people on a list to keep them out of your face, I have bad news." ],
+    "photo" : [ "https://pbs.twimg.com/media/FmeKFhRWQAIBayF.jpg" ],
+    "published" : [ "2023-01-14T23:55:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1614410822062571522" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1614410822062571522" ]
+  },
+  "type" : [ "h-entry" ]
+}
