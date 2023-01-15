@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Guillermo Rauch" ],
+        "nickname" : [ "rauchg" ],
+        "numeric-id" : [ "15540222" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576257734810312704/ucxb4lHy.jpg" ],
+        "published" : [ "2008-07-22T22:54:37+00:00" ],
+        "uid" : [ "tag:twitter.com:rauchg" ],
+        "url" : [ "https://twitter.com/rauchg", "http://rauchg.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The most successful technologies on the Web in recent years (<a href=\"https://twitter.com/reactjs\">@reactjs</a>, <a href=\"https://twitter.com/tailwindcss\">@tailwindcss</a>) started out being dismissed on the basis of syntax aversion¹ and not separating concerns² 😁\n\n¹ \"Get JSX / class spaghetti off my lawn\"\n² \"I need separate files!\"</div>",
+      "value" : "The most successful technologies on the Web in recent years (@reactjs, @tailwindcss) started out being dismissed on the basis of syntax aversion¹ and not separating concerns² 😁\n\n¹ \"Get JSX / class spaghetti off my lawn\"\n² \"I need separate files!\""
+    } ],
+    "published" : [ "2023-01-14T17:45:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1614317781817638914" ],
+    "url" : [ "https://twitter.com/rauchg/status/1614317781817638914" ]
+  },
+  "type" : [ "h-entry" ]
+}
