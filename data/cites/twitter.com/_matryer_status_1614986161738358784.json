@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568483994471223297/D7gkmiGs.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This box boasts ‘original recipe’ AND ‘new &amp; improved recipe’\n\nSo if you loved it before, you’re in luck, and if you didn’t, you’re still in luck.</div>",
+      "value" : "This box boasts ‘original recipe’ AND ‘new & improved recipe’\n\nSo if you loved it before, you’re in luck, and if you didn’t, you’re still in luck."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FmmVWj2WAAYaaUt.jpg" ],
+    "published" : [ "2023-01-16T14:01:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1614986161738358784" ],
+    "url" : [ "https://twitter.com/matryer/status/1614986161738358784" ]
+  },
+  "type" : [ "h-entry" ]
+}
