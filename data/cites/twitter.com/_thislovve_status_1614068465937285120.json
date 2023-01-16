@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "charlie" ],
+          "nickname" : [ "chunkbardey" ],
+          "numeric-id" : [ "2683311810" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1187536609153081344/yvabP0_N.jpg" ],
+          "published" : [ "2014-07-26T21:14:53+00:00" ],
+          "uid" : [ "tag:twitter.com:chunkbardey" ],
+          "url" : [ "https://twitter.com/chunkbardey", "http://charliebardey.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "breakups are so crazy like who am i supposed to text??? i bought a new cereal and i like it - i’m supposed to keep that information to myself ???" ],
+      "published" : [ "2023-01-13T16:03:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1613929645346533377" ],
+      "url" : [ "https://twitter.com/chunkbardey/status/1613929645346533377" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her • 24" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gio" ],
+        "nickname" : [ "thislovve" ],
+        "numeric-id" : [ "336140268" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1614013712188297222/v8d-PUmd.jpg" ],
+        "published" : [ "2011-07-15T20:13:53+00:00" ],
+        "uid" : [ "tag:twitter.com:thislovve" ],
+        "url" : [ "https://twitter.com/thislovve" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "using this tweet as an excuse to post this screenshot once again " ],
+    "photo" : [ "https://pbs.twimg.com/media/FmZStzEWIAMaC69.jpg" ],
+    "published" : [ "2023-01-14T01:14:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1614068465937285120" ],
+    "url" : [ "https://twitter.com/thislovve/status/1614068465937285120" ]
+  },
+  "type" : [ "h-entry" ]
+}
