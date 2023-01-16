@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Cory Levy" ],
+          "nickname" : [ "cory" ],
+          "numeric-id" : [ "1367301" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1186138626381336582/i4cgVhKa.jpg" ],
+          "published" : [ "2007-03-17T18:56:04+00:00" ],
+          "uid" : [ "tag:twitter.com:cory" ],
+          "url" : [ "https://twitter.com/cory", "http://zfellows.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Next generation of founders\n\nZ Fellows x <a href=\"https://twitter.com/kevinhartz\">@kevinhartz</a></div>",
+        "value" : "Next generation of founders\n\nZ Fellows x @kevinhartz"
+      } ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Presidio Heights, San Francisco" ],
+          "uid" : [ "tag:twitter.com:6edef6f3144383fa" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FmaWFOMaAAERt8-.jpg" ],
+      "published" : [ "2023-01-14T06:09:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1614142542777577472" ],
+      "url" : [ "https://twitter.com/cory/status/1614142542777577472" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anaïs Urlichs Ⓥ" ],
+        "nickname" : [ "urlichsanais" ],
+        "numeric-id" : [ "992776956662906880" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1528371710545866757/VtAPzwMo.jpg" ],
+        "published" : [ "2018-05-05T14:44:06+00:00" ],
+        "uid" : [ "tag:twitter.com:urlichsanais" ],
+        "url" : [ "https://twitter.com/urlichsanais", "https://www.youtube.com/c/AnaisUrlichs?sub_confirmation=1", "http://anaisurl.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The next time someone tells me there isn’t any discrimination against women, women have the same/similar opportunities, we are able to earn as much as men blablabla \n\nI will show them this photo. Thank you for making it so obvious 😊</div>",
+      "value" : "The next time someone tells me there isn’t any discrimination against women, women have the same/similar opportunities, we are able to earn as much as men blablabla \n\nI will show them this photo. Thank you for making it so obvious 😊"
+    } ],
+    "published" : [ "2023-01-16T04:44:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1614845922319503360" ],
+    "url" : [ "https://twitter.com/urlichsanais/status/1614845922319503360" ]
+  },
+  "type" : [ "h-entry" ]
+}
