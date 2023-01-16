@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Having a classic ADHD day. Can't decide what to do of many options, so I'm doing nothing instead." ],
+    "published" : [ "2023-01-16T19:14:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1615065054818471936" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1615065054818471936" ]
+  },
+  "type" : [ "h-entry" ]
+}
