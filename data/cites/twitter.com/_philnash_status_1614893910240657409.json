@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Nash | @philnash@mastodon.social" ],
+        "nickname" : [ "philnash" ],
+        "numeric-id" : [ "9152632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529650319650881537/iZBKINQk.jpg" ],
+        "published" : [ "2007-09-29T01:15:10+00:00" ],
+        "uid" : [ "tag:twitter.com:philnash" ],
+        "url" : [ "https://twitter.com/philnash", "https://philna.sh", "http://mastodon.social/@philnash" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you think this is good, wait until you find out what the hotel I’m staying in is called." ],
+    "in-reply-to" : [ "https://twitter.com/philnash/status/1614869158000459776" ],
+    "photo" : [ {
+      "alt" : "A selfie of me outside the Nash Suites Hotel",
+      "value" : "https://pbs.twimg.com/media/FmlBcsnXkAESHuP.jpg"
+    } ],
+    "published" : [ "2023-01-16T07:54:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1614893910240657409" ],
+    "url" : [ "https://twitter.com/philnash/status/1614893910240657409" ]
+  },
+  "type" : [ "h-entry" ]
+}
