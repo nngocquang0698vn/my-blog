@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Nash | @philnash@mastodon.social" ],
+        "nickname" : [ "philnash" ],
+        "numeric-id" : [ "9152632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529650319650881537/iZBKINQk.jpg" ],
+        "published" : [ "2007-09-29T01:15:10+00:00" ],
+        "uid" : [ "tag:twitter.com:philnash" ],
+        "url" : [ "https://twitter.com/philnash", "https://philna.sh", "http://mastodon.social/@philnash" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Delighted to announce that I am back in the <a href=\"https://twitter.com/search?q=%23DevRel\">#DevRel</a> game for 2023.\n\nI've joined <a href=\"https://twitter.com/SonarSource\">@SonarSource</a> as a developer advocate for JavaScript and TypeScript, alongside the fantastic <a href=\"https://twitter.com/pmckee\">@pmckee</a>, <a href=\"https://twitter.com/gamesbrainiac\">@gamesbrainiac</a>, and <a href=\"https://twitter.com/phil_nash\">@phil_nash</a>.\n\nNow, what are the JS events I should be getting out to this year?</div>",
+      "value" : "Delighted to announce that I am back in the #DevRel game for 2023.\n\nI've joined @SonarSource as a developer advocate for JavaScript and TypeScript, alongside the fantastic @pmckee, @gamesbrainiac, and @phil_nash.\n\nNow, what are the JS events I should be getting out to this year?"
+    } ],
+    "published" : [ "2023-01-16T06:10:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1614867626672492546" ],
+    "url" : [ "https://twitter.com/philnash/status/1614867626672492546" ]
+  },
+  "type" : [ "h-entry" ]
+}
