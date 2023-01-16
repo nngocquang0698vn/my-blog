@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Nash | @philnash@mastodon.social" ],
+        "nickname" : [ "philnash" ],
+        "numeric-id" : [ "9152632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529650319650881537/iZBKINQk.jpg" ],
+        "published" : [ "2007-09-29T01:15:10+00:00" ],
+        "uid" : [ "tag:twitter.com:philnash" ],
+        "url" : [ "https://twitter.com/philnash", "https://philna.sh", "http://mastodon.social/@philnash" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yes, I'm also aware that @phil_nash and I on the same team may well have started some sort of DevRel singularity. But at this stage I'm just mostly excited to see how many of my emails he gets.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SonarSource\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gamesbrainiac\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/phil_nash\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pmckee\"></a>",
+      "value" : "Yes, I'm also aware that @phil_nash and I on the same team may well have started some sort of DevRel singularity. But at this stage I'm just mostly excited to see how many of my emails he gets."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/philnash/status/1614869076748210177" ],
+    "published" : [ "2023-01-16T06:16:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1614869158000459776" ],
+    "url" : [ "https://twitter.com/philnash/status/1614869158000459776" ]
+  },
+  "type" : [ "h-entry" ]
+}
