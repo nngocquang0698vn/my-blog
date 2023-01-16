@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "shreya" ],
+        "nickname" : [ "shreyamurthy" ],
+        "numeric-id" : [ "107819752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1585484027628339201/hc1_LbR6.jpg" ],
+        "published" : [ "2010-01-23T21:23:14+00:00" ],
+        "uid" : [ "tag:twitter.com:shreyamurthy" ],
+        "url" : [ "https://twitter.com/shreyamurthy", "https://partiful.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "this ratio is cringe\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cory\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kevinhartz\"></a>",
+      "value" : "this ratio is cringe"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cory/status/1614142542777577472" ],
+    "published" : [ "2023-01-14T14:16:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1614265316883718144" ],
+    "url" : [ "https://twitter.com/shreyamurthy/status/1614265316883718144" ]
+  },
+  "type" : [ "h-entry" ]
+}
