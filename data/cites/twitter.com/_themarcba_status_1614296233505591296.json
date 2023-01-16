@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Luxembourg" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marc Backes" ],
+        "nickname" : [ "themarcba" ],
+        "numeric-id" : [ "129553608" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1607660395874975744/KQ-YUZJg.jpg" ],
+        "published" : [ "2010-04-04T17:46:04+00:00" ],
+        "uid" : [ "tag:twitter.com:themarcba" ],
+        "url" : [ "https://twitter.com/themarcba", "https://xn--ni8hqa.to" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "How can a tiny mistake by a single engineer have these type of consequences? Where is QA? How is the code migration process? SO MANY QUESTIONS! They should not blame the developer!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DThompsonDev\"></a>",
+      "value" : "How can a tiny mistake by a single engineer have these type of consequences? Where is QA? How is the code migration process? SO MANY QUESTIONS! They should not blame the developer!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/DThompsonDev/status/1614249174886653953" ],
+    "published" : [ "2023-01-14T16:19:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1614296233505591296" ],
+    "url" : [ "https://twitter.com/themarcba/status/1614296233505591296" ]
+  },
+  "type" : [ "h-entry" ]
+}
