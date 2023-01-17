@@ -18,11 +18,11 @@ This is done in two stages, and once hitting the "end of life" phase, you can no
 
 I noticed that a couple of things in my personal infrastructure needed an update, as they were running rather outdated versions of the runtimes, which were visible in a Trusted Advisor report.
 
-Because I wanted an alternative that I could use for my own reporting needs as well, I've put together a Go command-line tool that can do this, found [on GitLab](https://gitlab.com/tanna.dev/aws-lambda-endoflife).
+Because I wanted an alternative that I could use for my own reporting needs as well, I've put together a Go command-line tool that can do this, found [on GitLab](https://gitlab.com/tanna.dev/endoflife-checker).
 
 
 ```sh
-go install gitlab.com/tanna.dev/aws-lambda-endoflife@HEAD
+go install gitlab.com/tanna.dev/endoflife-checker/cmd/aws-lambda-endoflife@HEAD
 ```
 
 Then, to produce the report, run:
