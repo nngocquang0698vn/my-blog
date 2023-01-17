@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marques Brownlee" ],
+        "nickname" : [ "MKBHD" ],
+        "numeric-id" : [ "29873662" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1468001914302390278/B_Xv_8gu.jpg" ],
+        "published" : [ "2009-04-09T00:50:00+00:00" ],
+        "uid" : [ "tag:twitter.com:MKBHD" ],
+        "url" : [ "https://twitter.com/MKBHD", "http://MKBHD.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What are the rules\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterDev\"></a>",
+      "value" : "What are the rules"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TwitterDev/status/1615405842735714304" ],
+    "published" : [ "2023-01-17T19:04:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1615424786993414146" ],
+    "url" : [ "https://twitter.com/MKBHD/status/1615424786993414146" ]
+  },
+  "type" : [ "h-entry" ]
+}
