@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC News (World)" ],
+          "nickname" : [ "BBCWorld" ],
+          "numeric-id" : [ "742143" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38.jpg" ],
+          "published" : [ "2007-02-01T07:44:29+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCWorld" ],
+          "url" : [ "https://twitter.com/BBCWorld", "http://www.bbc.com/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Taliban start buying blue ticks on Twitter <a href=\"https://bbc.in/3ITvJAa\">bbc.in/3ITvJAa</a>",
+        "value" : "Taliban start buying blue ticks on Twitter bbc.in/3ITvJAa"
+      } ],
+      "published" : [ "2023-01-16T17:48:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1615043352226893856" ],
+      "url" : [ "https://twitter.com/BBCWorld/status/1615043352226893856" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/bbcworld/statu…" ],
+      "url" : [ "https://twitter.com/bbcworld/status/1615043352226893856" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Saltinx" ],
+        "nickname" : [ "BraveArcanine" ],
+        "numeric-id" : [ "2550636080" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484272258268991491/ihRBArsM.jpg" ],
+        "published" : [ "2014-06-06T18:03:28+00:00" ],
+        "uid" : [ "tag:twitter.com:BraveArcanine" ],
+        "url" : [ "https://twitter.com/BraveArcanine", "https://twitch.tv/ArcBreak" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Well guess what we’re gonna make fun of the Taliban for paying for twitter too\n<a class=\"tag\" href=\"https://twitter.com/bbcworld/status/1615043352226893856\">twitter.com/bbcworld/statu…</a>",
+      "value" : "Well guess what we’re gonna make fun of the Taliban for paying for twitter too"
+    } ],
+    "published" : [ "2023-01-17T02:44:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1615178273985552390" ],
+    "url" : [ "https://twitter.com/BraveArcanine/status/1615178273985552390" ]
+  },
+  "type" : [ "h-entry" ]
+}
