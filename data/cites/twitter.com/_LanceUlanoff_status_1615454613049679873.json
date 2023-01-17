@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lance Ulanoff" ],
+        "nickname" : [ "LanceUlanoff" ],
+        "numeric-id" : [ "1501471" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1574132188702019591/VvFEvNo3.jpg" ],
+        "published" : [ "2007-03-19T13:11:54+00:00" ],
+        "uid" : [ "tag:twitter.com:LanceUlanoff" ],
+        "url" : [ "https://twitter.com/LanceUlanoff", "https://www.lanceulanoff.com", "http://youtube.com/lanceulanoff", "http://medium.com/@LanceUlanoff" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Evergreen question for Musk's Twitter.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MKBHD\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterDev\"></a>",
+      "value" : "Evergreen question for Musk's Twitter."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MKBHD/status/1615424786993414146" ],
+    "published" : [ "2023-01-17T21:02:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1615454613049679873" ],
+    "url" : [ "https://twitter.com/LanceUlanoff/status/1615454613049679873" ]
+  },
+  "type" : [ "h-entry" ]
+}
