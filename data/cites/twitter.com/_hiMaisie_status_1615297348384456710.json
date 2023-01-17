@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/they" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie bell 💖" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1600620486865592333/y1a-o2iY.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "got called out by <a href=\"https://twitter.com/beenharsh\">@beenharsh</a> in the team chat this morning 😩",
+      "value" : "got called out by @beenharsh in the team chat this morning 😩"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FmqwYKgX0AM_hzz.jpg" ],
+    "published" : [ "2023-01-17T10:37:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1615297348384456710" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1615297348384456710" ]
+  },
+  "type" : [ "h-entry" ]
+}
