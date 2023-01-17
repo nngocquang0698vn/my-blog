@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "people always think my classics minor was useless for my current tech job but trying to read out of date documentation is prettyyyyy close to analyzing an ancient text" ],
+    "published" : [ "2023-01-17T21:23:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1615459699113230337" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1615459699113230337" ]
+  },
+  "type" : [ "h-entry" ]
+}
