@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543218193199685632/tOcSbY0j.jpg" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"But I want to keep tabs on shitty people too\"\n\nTHEN PUT THEM IN A LIST</div>",
+      "value" : "\"But I want to keep tabs on shitty people too\"\n\nTHEN PUT THEM IN A LIST"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/justkelly_ok/status/1615467687349719043" ],
+    "published" : [ "2023-01-17T21:55:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1615467879989903360" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1615467879989903360" ]
+  },
+  "type" : [ "h-entry" ]
+}
