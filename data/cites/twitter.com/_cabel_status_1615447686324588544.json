@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cabel" ],
+        "nickname" : [ "cabel" ],
+        "numeric-id" : [ "1919231" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/763137848916660224/Llcjv9V5.jpg" ],
+        "published" : [ "2007-03-22T18:25:28+00:00" ],
+        "uid" : [ "tag:twitter.com:cabel" ],
+        "url" : [ "https://twitter.com/cabel", "https://twitter.com/search?q=from%3A%40cabel%20%23new&src=typed_query&f=live" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterDev\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TwitterDev/status/1615405842735714304" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fms5GKbacAEL8JB.png" ],
+    "published" : [ "2023-01-17T20:35:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1615447686324588544" ],
+    "url" : [ "https://twitter.com/cabel/status/1615447686324588544" ]
+  },
+  "type" : [ "h-entry" ]
+}
