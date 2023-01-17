@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan O'Horo" ],
+        "nickname" : [ "redteamwrangler" ],
+        "numeric-id" : [ "200950703" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1614111073581375490/FQncZst4.jpg" ],
+        "published" : [ "2010-10-10T18:19:12+00:00" ],
+        "uid" : [ "tag:twitter.com:redteamwrangler" ],
+        "url" : [ "https://twitter.com/redteamwrangler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Important:\n\nYou cannot assume a linux user has a home directory, or username.\n\nMany docker containers use a bare UID with no user or home.\n\nTwo different packages this week failing silently because, after 2 hours of struggling, it turns out they depend on a home dir.</div>",
+      "value" : "Important:\n\nYou cannot assume a linux user has a home directory, or username.\n\nMany docker containers use a bare UID with no user or home.\n\nTwo different packages this week failing silently because, after 2 hours of struggling, it turns out they depend on a home dir."
+    } ],
+    "published" : [ "2023-01-17T03:36:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1615191371345698816" ],
+    "url" : [ "https://twitter.com/redteamwrangler/status/1615191371345698816" ]
+  },
+  "type" : [ "h-entry" ]
+}
