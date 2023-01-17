@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Banks: Principal VibeOps Engineer" ],
+        "nickname" : [ "elchefe" ],
+        "numeric-id" : [ "22486576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598532470823002112/CpVHMOYV.jpg" ],
+        "published" : [ "2009-03-02T14:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:elchefe" ],
+        "url" : [ "https://twitter.com/elchefe", "https://venmo.com/code?user_id=1781409760935936183" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "(Rejection Sensitive Dysmorphia)" ],
+    "in-reply-to" : [ "https://twitter.com/elchefe/status/1615466883142266881" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Round Rock, TX" ],
+        "uid" : [ "tag:twitter.com:00c44eeb126d2fcd" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-01-17T21:52:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1615467074528182272" ],
+    "url" : [ "https://twitter.com/elchefe/status/1615467074528182272" ]
+  },
+  "type" : [ "h-entry" ]
+}
