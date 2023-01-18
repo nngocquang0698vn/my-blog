@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Olympia, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Washington State Dept. of Natural Resources" ],
+        "nickname" : [ "waDNR" ],
+        "numeric-id" : [ "19782176" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/730149186339897344/e2-EkBA0.jpg" ],
+        "published" : [ "2009-01-30T19:04:27+00:00" ],
+        "uid" : [ "tag:twitter.com:waDNR" ],
+        "url" : [ "https://twitter.com/waDNR", "http://www.dnr.wa.gov" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We're hiring influencers and by that I mean firefighters who influence the forest to no longer be on fire." ],
+    "published" : [ "2023-01-18T19:36:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1615795216111501312" ],
+    "url" : [ "https://twitter.com/waDNR/status/1615795216111501312" ]
+  },
+  "type" : [ "h-entry" ]
+}
