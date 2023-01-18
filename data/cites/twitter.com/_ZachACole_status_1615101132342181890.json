@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Zach Cole" ],
+        "nickname" : [ "ZachACole" ],
+        "numeric-id" : [ "17949007" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/927342394348990464/IVygV9Aa.jpg" ],
+        "published" : [ "2008-12-07T22:09:40+00:00" ],
+        "uid" : [ "tag:twitter.com:ZachACole" ],
+        "url" : [ "https://twitter.com/ZachACole", "http://zcole.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In the earlier days of Lyft I dropped a prototype recording into slack and my PMM replied “LGTM” and I thought it was “Let’s get the money”" ],
+    "published" : [ "2023-01-16T21:38:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1615101132342181890" ],
+    "url" : [ "https://twitter.com/ZachACole/status/1615101132342181890" ]
+  },
+  "type" : [ "h-entry" ]
+}
