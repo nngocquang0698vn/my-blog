@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "127.0.0.1" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Dev" ],
+          "nickname" : [ "TwitterDev" ],
+          "numeric-id" : [ "2244994945" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U.jpg" ],
+          "published" : [ "2013-12-14T04:35:55+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterDev" ],
+          "url" : [ "https://twitter.com/TwitterDev", "https://developer.twitter.com/en/community" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Twitter is enforcing its long-standing API rules. That may result in some apps not working." ],
+      "published" : [ "2023-01-17T17:49:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1615405842735714304" ],
+      "url" : [ "https://twitter.com/TwitterDev/status/1615405842735714304" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Occupied Ute territory" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "webster" ],
+        "nickname" : [ "Webster_Duck" ],
+        "numeric-id" : [ "101055046" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1607253132207345664/kZ_GobGm.jpg" ],
+        "published" : [ "2010-01-01T20:45:49+00:00" ],
+        "uid" : [ "tag:twitter.com:Webster_Duck" ],
+        "url" : [ "https://twitter.com/Webster_Duck", "http://websterduck.live" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">if this is the spin twitter has come up with to enforce a proprietary client, then it's pathetic.\n\nbut on the other hand if it's the spin twitter has come up with because they accidentally broke their public api and cannot figure out how to fix it, it's also very funny.</div>",
+      "value" : "if this is the spin twitter has come up with to enforce a proprietary client, then it's pathetic.\n\nbut on the other hand if it's the spin twitter has come up with because they accidentally broke their public api and cannot figure out how to fix it, it's also very funny."
+    } ],
+    "published" : [ "2023-01-17T19:22:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1615429469782814720" ],
+    "url" : [ "https://twitter.com/Webster_Duck/status/1615429469782814720" ]
+  },
+  "type" : [ "h-entry" ]
+}
