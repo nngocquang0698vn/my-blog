@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jane" ],
+        "nickname" : [ "janky_jane" ],
+        "numeric-id" : [ "938811284325269506" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488291085118058504/j2XyvSP2.jpg" ],
+        "published" : [ "2017-12-07T16:43:47+00:00" ],
+        "uid" : [ "tag:twitter.com:janky_jane" ],
+        "url" : [ "https://twitter.com/janky_jane" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Props to anyone who tries to be fashionable in ireland i wore a red beret once in waterford and someone called me super mario" ],
+    "published" : [ "2021-08-15T18:59:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1426981976142123010" ],
+    "url" : [ "https://twitter.com/janky_jane/status/1426981976142123010" ]
+  },
+  "type" : [ "h-entry" ]
+}
