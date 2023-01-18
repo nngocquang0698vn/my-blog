@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Roshan Patel" ],
+          "nickname" : [ "roshanpateI" ],
+          "numeric-id" : [ "816354391880040450" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1350551659617918978/7sxuQoSD.jpg" ],
+          "published" : [ "2017-01-03T18:43:48+00:00" ],
+          "uid" : [ "tag:twitter.com:roshanpateI" ],
+          "url" : [ "https://twitter.com/roshanpateI", "http://capital.xyz/roshan" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I've been thinking a lot about IRL podcasts:\n\n- Bring a few friends together\n- No mics, nothing is recorded\n- Have a free form discussion\n- Can even have food &amp; drinks\n\nHas anyone tried this?</div>",
+        "value" : "I've been thinking a lot about IRL podcasts:\n\n- Bring a few friends together\n- No mics, nothing is recorded\n- Have a free form discussion\n- Can even have food & drinks\n\nHas anyone tried this?"
+      } ],
+      "published" : [ "2023-01-17T17:35:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1615402497262092314" ],
+      "url" : [ "https://twitter.com/roshanpateI/status/1615402497262092314" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Monica, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ansh nanda 🔗" ],
+        "nickname" : [ "anshnanda_" ],
+        "numeric-id" : [ "1089947697748992000" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1580237383944896513/NsD7Ufy5.jpg" ],
+        "published" : [ "2019-01-28T18:05:56+00:00" ],
+        "uid" : [ "tag:twitter.com:anshnanda_" ],
+        "url" : [ "https://twitter.com/anshnanda_", "http://theOGapp.com/get" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Tech bro just discovered “hanging out” <a href=\"https://twitter.com/i/web/status/1615431680214585345\">twitter.com/i/web/status/1…</a>",
+      "value" : "Tech bro just discovered “hanging out” twitter.com/i/web/status/1…"
+    } ],
+    "published" : [ "2023-01-17T19:31:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1615431680214585345" ],
+    "url" : [ "https://twitter.com/anshnanda_/status/1615431680214585345" ]
+  },
+  "type" : [ "h-entry" ]
+}
