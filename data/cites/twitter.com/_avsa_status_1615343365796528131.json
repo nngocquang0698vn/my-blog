@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rio de Janeiro" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Van de Sande (avsa.eth)" ],
+        "nickname" : [ "avsa" ],
+        "numeric-id" : [ "10157" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511393786655645707/VfukPq6t.jpg" ],
+        "published" : [ "2006-10-23T17:04:44+00:00" ],
+        "uid" : [ "tag:twitter.com:avsa" ],
+        "url" : [ "https://twitter.com/avsa" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "That’s why Tesla is right about banning remote work. I know a guy who claims to work for Tesla but also has a gig at a Telcom, at a freight company, does a side job digging holes, sells medical implants AND trades crypto. But he spends most of his time shitposting on twitter." ],
+    "published" : [ "2023-01-17T13:40:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1615343365796528131" ],
+    "url" : [ "https://twitter.com/avsa/status/1615343365796528131" ]
+  },
+  "type" : [ "h-entry" ]
+}
