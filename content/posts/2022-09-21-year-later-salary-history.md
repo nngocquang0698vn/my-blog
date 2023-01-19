@@ -4,6 +4,7 @@ description: "What I've learned in the year since posting my salary history publ
 date: "2022-09-21T09:13:54+0100"
 syndication:
 - "https://twitter.com/JamieTanna/status/1572556404967329793"
+- https://dev.to/jamietanna/lessons-learned-since-posting-my-salary-history-publicly-5055
 tags:
 - "salary"
 - "job"
