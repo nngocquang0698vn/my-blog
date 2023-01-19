@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "LDN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Syeef" ],
+        "nickname" : [ "syeefk" ],
+        "numeric-id" : [ "15495521" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/826903674836357120/HJG91ehk.jpg" ],
+        "published" : [ "2008-07-19T21:00:08+00:00" ],
+        "uid" : [ "tag:twitter.com:syeefk" ],
+        "url" : [ "https://twitter.com/syeefk", "https://syeef.design" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "anyone experience with using the Google Fitness API? It's returning all fields, but also an empty points array… I'm trying to get to to work with <a href=\"https://twitter.com/Cloudflare\">@Cloudflare</a> workers, works fine with a traditional OAuth 2.0 flow, but breaks when using a Service Account ¯\\(ツ)/¯",
+      "value" : "anyone experience with using the Google Fitness API? It's returning all fields, but also an empty points array… I'm trying to get to to work with @Cloudflare workers, works fine with a traditional OAuth 2.0 flow, but breaks when using a Service Account ¯\\(ツ)/¯"
+    } ],
+    "published" : [ "2023-01-19T14:01:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1616073247560196097" ],
+    "url" : [ "https://twitter.com/syeefk/status/1616073247560196097" ]
+  },
+  "type" : [ "h-entry" ]
+}
