@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ashley Willis (McNamara)" ],
+        "nickname" : [ "ashleymcnamara" ],
+        "numeric-id" : [ "14137772" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361765006291787776/maxsW_VC.jpg" ],
+        "published" : [ "2008-03-13T05:48:35+00:00" ],
+        "uid" : [ "tag:twitter.com:ashleymcnamara" ],
+        "url" : [ "https://twitter.com/ashleymcnamara" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Therapist: and what do we do when we feel like this? \n\nMe: spin up another personal project I’ll never finish?\n\nTherapist: No.</div>",
+      "value" : "Therapist: and what do we do when we feel like this? \n\nMe: spin up another personal project I’ll never finish?\n\nTherapist: No."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Sammamish, WA" ],
+        "uid" : [ "tag:twitter.com:21e20d6f2dd2e43a" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-01-19T02:06:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1615893453229142016" ],
+    "url" : [ "https://twitter.com/ashleymcnamara/status/1615893453229142016" ]
+  },
+  "type" : [ "h-entry" ]
+}
