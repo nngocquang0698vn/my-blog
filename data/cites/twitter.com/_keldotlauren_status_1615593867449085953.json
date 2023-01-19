@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Pop Base" ],
+          "nickname" : [ "pojbase" ],
+          "numeric-id" : [ "1521155002693472256" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1592796513368911873/AWtnP92O.jpg" ],
+          "published" : [ "2022-05-02T15:49:59+00:00" ],
+          "uid" : [ "tag:twitter.com:pojbase" ],
+          "url" : [ "https://twitter.com/pojbase" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Donald Trump quietly driving his Rolls Royce while listening to Taylor Swift’s “Blank Space\", filmed by Melania from the back seat with flash on.\n</div>",
+        "value" : "Donald Trump quietly driving his Rolls Royce while listening to Taylor Swift’s “Blank Space\", filmed by Melania from the back seat with flash on.\n"
+      } ],
+      "published" : [ "2023-01-17T11:42:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1615313615405592577" ],
+      "url" : [ "https://twitter.com/pojbase/status/1615313615405592577" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1541875117327675392/pu/vid/1280x720/uxMe1FLum8YEMCI0.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "unceded cowlitz land/pdx" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kendall roygbiv" ],
+        "nickname" : [ "keldotlauren" ],
+        "numeric-id" : [ "48915775" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603215518349283328/Fm6Gkaup.jpg" ],
+        "published" : [ "2009-06-20T03:31:24+00:00" ],
+        "uid" : [ "tag:twitter.com:keldotlauren" ],
+        "url" : [ "https://twitter.com/keldotlauren", "http://kellauren.design" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i’m sorry this is so fucking funny" ],
+    "published" : [ "2023-01-18T06:16:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1615593867449085953" ],
+    "url" : [ "https://twitter.com/keldotlauren/status/1615593867449085953" ]
+  },
+  "type" : [ "h-entry" ]
+}
