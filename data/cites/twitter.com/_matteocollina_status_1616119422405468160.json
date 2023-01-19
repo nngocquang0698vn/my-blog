@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Forlì, Emilia Romagna" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matteo Collina" ],
+        "nickname" : [ "matteocollina" ],
+        "numeric-id" : [ "15979784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541698320443314179/4Cp5IrGB.jpg" ],
+        "published" : [ "2008-08-25T10:17:31+00:00" ],
+        "uid" : [ "tag:twitter.com:matteocollina" ],
+        "url" : [ "https://twitter.com/matteocollina", "https://nodeland.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One of things that frustrates me more in OSS is… folks asking when we will implement a feature for them. \n\nTo all whom need to hear this: in community projects, this is unlikely to happen. Send a PR or find a way to fund that development.</div>",
+      "value" : "One of things that frustrates me more in OSS is… folks asking when we will implement a feature for them. \n\nTo all whom need to hear this: in community projects, this is unlikely to happen. Send a PR or find a way to fund that development."
+    } ],
+    "published" : [ "2023-01-19T17:04:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1616119422405468160" ],
+    "url" : [ "https://twitter.com/matteocollina/status/1616119422405468160" ]
+  },
+  "type" : [ "h-entry" ]
+}
