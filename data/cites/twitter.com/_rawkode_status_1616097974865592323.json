@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Scotland, Europe" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Flanagan" ],
+          "nickname" : [ "rawkode" ],
+          "numeric-id" : [ "22761152" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1581634592339107841/fAsehIRv.jpg" ],
+          "published" : [ "2009-03-04T12:06:23+00:00" ],
+          "uid" : [ "tag:twitter.com:rawkode" ],
+          "url" : [ "https://twitter.com/rawkode", "https://rawkode.academy", "http://rawkode.link/office-hours" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">This is Zelda, my pet ferret. Just dropped her off at the vet, she’s not been doing very well recently. \n\nI’ll just be here staring into space most of the day. Let’s hope she’s going to be OK ❤️\n\n😢</div>",
+        "value" : "This is Zelda, my pet ferret. Just dropped her off at the vet, she’s not been doing very well recently. \n\nI’ll just be here staring into space most of the day. Let’s hope she’s going to be OK ❤️\n\n😢"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fm1ag9EWQAEOggR.jpg" ],
+      "published" : [ "2023-01-19T12:18:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1616047367890894848" ],
+      "url" : [ "https://twitter.com/rawkode/status/1616047367890894848" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581634592339107841/fAsehIRv.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.academy", "http://rawkode.link/office-hours" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Sadly, I’m on my way to the vet to say goodbye to her. \n\nToday is cancelled.</div>",
+      "value" : "Sadly, I’m on my way to the vet to say goodbye to her. \n\nToday is cancelled."
+    } ],
+    "published" : [ "2023-01-19T15:39:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1616097974865592323" ],
+    "url" : [ "https://twitter.com/rawkode/status/1616097974865592323" ]
+  },
+  "type" : [ "h-entry" ]
+}
