@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Monzo" ],
+        "nickname" : [ "monzo" ],
+        "numeric-id" : [ "3224409977" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581938997152063488/6WQu3oc2.png" ],
+        "published" : [ "2015-04-30T12:53:58+00:00" ],
+        "uid" : [ "tag:twitter.com:monzo" ],
+        "url" : [ "https://twitter.com/monzo", "https://monzo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "me finding out who's been spending all my money" ],
+    "published" : [ "2023-01-19T12:40:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1616052864069033987" ],
+    "url" : [ "https://twitter.com/monzo/status/1616052864069033987" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fm1fg3zX0AAWptV.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
