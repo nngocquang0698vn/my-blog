@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Official" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shit User Story" ],
+        "nickname" : [ "ShitUserStory" ],
+        "numeric-id" : [ "1351114532408668163" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603688401697398785/NQkjs2h-.jpg" ],
+        "published" : [ "2021-01-18T10:29:50+00:00" ],
+        "uid" : [ "tag:twitter.com:ShitUserStory" ],
+        "url" : [ "https://twitter.com/ShitUserStory", "https://linktr.ee/shituserstory" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As a…\n– Third-party Twitter client user\nI want…\n– API access revoked\nso that…\n– I can enjoy a better experience with the official app</div>",
+      "value" : "As a…\n– Third-party Twitter client user\nI want…\n– API access revoked\nso that…\n– I can enjoy a better experience with the official app"
+    } ],
+    "photo" : [ {
+      "alt" : "Image repeats text of tweet content in image form for some reason",
+      "value" : "https://pbs.twimg.com/media/FmW3UODaYAAI9o8.jpg"
+    } ],
+    "published" : [ "2023-01-13T13:56:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1613897685148528641" ],
+    "url" : [ "https://twitter.com/ShitUserStory/status/1613897685148528641" ]
+  },
+  "type" : [ "h-entry" ]
+}
