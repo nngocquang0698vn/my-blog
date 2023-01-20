@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marco Rogers" ],
+          "nickname" : [ "polotek" ],
+          "numeric-id" : [ "20079975" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+          "published" : [ "2009-02-04T18:59:19+00:00" ],
+          "uid" : [ "tag:twitter.com:polotek" ],
+          "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If a company has not done layoffs in 2022, be very skeptical of their hiring. People will tell you things are going great and they're not planning layoffs. But things can change real quick. And new hires are on the chopping block first." ],
+      "in-reply-to" : [ "https://twitter.com/polotek/status/1587114580517351424" ],
+      "published" : [ "2022-10-31T16:11:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1587114982914695169" ],
+      "url" : [ "https://twitter.com/polotek/status/1587114982914695169" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'mma say this again. Be careful accepting a role at a company that has not done layoffs yet. Be skeptical and ask questions. I'm hearing some wild stories out here." ],
+    "published" : [ "2023-01-20T17:56:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1616494888601939968" ],
+    "url" : [ "https://twitter.com/polotek/status/1616494888601939968" ]
+  },
+  "type" : [ "h-entry" ]
+}
