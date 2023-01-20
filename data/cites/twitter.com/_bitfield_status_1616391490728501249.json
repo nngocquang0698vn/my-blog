@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cornwall" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Arundel" ],
+        "nickname" : [ "bitfield" ],
+        "numeric-id" : [ "14375294" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af.jpeg" ],
+        "published" : [ "2008-04-13T14:37:00+00:00" ],
+        "uid" : [ "tag:twitter.com:bitfield" ],
+        "url" : [ "https://twitter.com/bitfield", "https://bitfieldconsulting.com/books" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Did you know that in <a href=\"https://twitter.com/search?q=%23Golang\">#Golang</a> we can write executable examples? They're automatically included in our package documentation, they can run directly in a web browser, and they're also automatically checked every time we run 'go test'. It's pretty neat!\n\n<a href=\"https://bitfieldconsulting.com/golang/examples\">bitfieldconsulting.com/golang/examples</a></div>",
+      "value" : "Did you know that in #Golang we can write executable examples? They're automatically included in our package documentation, they can run directly in a web browser, and they're also automatically checked every time we run 'go test'. It's pretty neat!\n\nbitfieldconsulting.com/golang/examples"
+    } ],
+    "published" : [ "2023-01-20T11:05:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1616391490728501249" ],
+    "url" : [ "https://twitter.com/bitfield/status/1616391490728501249" ]
+  },
+  "type" : [ "h-entry" ]
+}
