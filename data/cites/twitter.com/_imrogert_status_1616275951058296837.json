@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rogert" ],
+        "nickname" : [ "imrogert" ],
+        "numeric-id" : [ "3121283222" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608704735976079360/k4-xBGOZ.jpg" ],
+        "published" : [ "2015-03-31T18:53:24+00:00" ],
+        "uid" : [ "tag:twitter.com:imrogert" ],
+        "url" : [ "https://twitter.com/imrogert" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "first of all I’m so happy to be the recipient of your first and only tweet. second, I didn’t\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/arinspanner1\"></a>",
+      "value" : "first of all I’m so happy to be the recipient of your first and only tweet. second, I didn’t"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/arinspanner1/status/1616275664356937728" ],
+    "published" : [ "2023-01-20T03:26:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1616275951058296837" ],
+    "url" : [ "https://twitter.com/imrogert/status/1616275951058296837" ]
+  },
+  "type" : [ "h-entry" ]
+}
