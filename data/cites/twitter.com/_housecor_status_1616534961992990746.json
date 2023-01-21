@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525874017630035970/veQQouGw.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://pluralsight.com", "http://reactjsconsulting.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A surprising irony about working in TypeScript: \n\nThe better I get at it, the fewer types I declare.\n\nI declare types at the “edges” of my app:\n✅Endpoint responses\n✅Environment vars\n✅Browser storage\n✅Querystrings \n\nThese types “flow” throughout the app.\n\n<a href=\"https://twitter.com/search?q=%23typescript\">#typescript</a></div>",
+      "value" : "A surprising irony about working in TypeScript: \n\nThe better I get at it, the fewer types I declare.\n\nI declare types at the “edges” of my app:\n✅Endpoint responses\n✅Environment vars\n✅Browser storage\n✅Querystrings \n\nThese types “flow” throughout the app.\n\n#typescript"
+    } ],
+    "published" : [ "2023-01-20T20:35:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1616534961992990746" ],
+    "url" : [ "https://twitter.com/housecor/status/1616534961992990746" ]
+  },
+  "type" : [ "h-entry" ]
+}
