@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Simon Willison (@simon@simonwillison.net)" ],
+    "summary" : [ "Is anyone up for convincing me that the HTTP accept header is a good idea?\n\nI understand the theory: every resource should have the same URI, and should be able to deliver to clients in the format that they indicate they can best handle - eg an image served as WEBP to supporting clients but falling back to JPEG\n\nBut we have 20+ years of real-world experience with it now, and I'm not at all convinced that those theoretical benefits outweigh the drawbacks: mainly its lack of discoverability" ],
+    "featured" : [ "https://cdn.masto.host/fedisimonwillisonnet/accounts/avatars/109/276/369/291/252/172/original/210673cf3d17fda9.jpg" ],
+    "url" : [ "https://fedi.simonwillison.net/@simon/109728596024429659" ]
+  }
+}
