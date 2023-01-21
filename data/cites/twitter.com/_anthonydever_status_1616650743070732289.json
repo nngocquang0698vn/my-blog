@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sydney, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anthony Dever" ],
+        "nickname" : [ "anthonydever" ],
+        "numeric-id" : [ "5728362" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1531620956569243648/kQ06dnGc.jpg" ],
+        "published" : [ "2007-05-03T01:29:41+00:00" ],
+        "uid" : [ "tag:twitter.com:anthonydever" ],
+        "url" : [ "https://twitter.com/anthonydever", "https://www.anthonydever.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All people who work at a company with OKRs have a praise kink." ],
+    "published" : [ "2023-01-21T04:15:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1616650743070732289" ],
+    "url" : [ "https://twitter.com/anthonydever/status/1616650743070732289" ]
+  },
+  "type" : [ "h-entry" ]
+}
