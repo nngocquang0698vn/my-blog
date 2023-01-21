@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "en, fr" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@chaoticgaythey@mastodon.social" ],
+        "nickname" : [ "chaoticgaythey" ],
+        "numeric-id" : [ "1148435566012379136" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613614809605410840/Fp9yXiOs.jpg" ],
+        "published" : [ "2019-07-09T03:35:50+00:00" ],
+        "uid" : [ "tag:twitter.com:chaoticgaythey" ],
+        "url" : [ "https://twitter.com/chaoticgaythey" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Remember kids, spite is a perfectly acceptable reason to continue" ],
+    "published" : [ "2023-01-20T07:12:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1616332713375535105" ],
+    "url" : [ "https://twitter.com/chaoticgaythey/status/1616332713375535105" ]
+  },
+  "type" : [ "h-entry" ]
+}
