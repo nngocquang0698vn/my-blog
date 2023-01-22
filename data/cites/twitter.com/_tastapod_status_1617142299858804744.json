@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Terhorst-North" ],
+        "nickname" : [ "tastapod" ],
+        "numeric-id" : [ "14526430" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796961836/bio-photo-square.jpg" ],
+        "published" : [ "2008-04-25T13:46:38+00:00" ],
+        "uid" : [ "tag:twitter.com:tastapod" ],
+        "url" : [ "https://twitter.com/tastapod", "http://dannorth.net", "http://mastodon.social/@tastapod" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I don’t want to know how you found out, but glad you managed to get away.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/editingemily\"></a>",
+      "value" : "I don’t want to know how you found out, but glad you managed to get away."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/editingemily/status/1617038844351909888" ],
+    "published" : [ "2023-01-22T12:49:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1617142299858804744" ],
+    "url" : [ "https://twitter.com/tastapod/status/1617142299858804744" ]
+  },
+  "type" : [ "h-entry" ]
+}
