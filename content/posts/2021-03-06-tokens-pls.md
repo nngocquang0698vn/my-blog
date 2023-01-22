@@ -12,6 +12,7 @@ slug: "tokens-pls"
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
+- https://www.reddit.com/r/ruby/comments/10ij5eu/introducing_tokenspls_a_sinatra_web_application/
 ---
 Since I've been working a bit more with Micropub and IndieAuth, I've always had cases where I've wanted to test things locally, which requires retrieving an access token.
 
