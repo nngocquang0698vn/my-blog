@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Memphis, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Byrd" ],
+        "nickname" : [ "jeff_byrd" ],
+        "numeric-id" : [ "30766391" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324503467340255238/4KxWIWNo.jpg" ],
+        "published" : [ "2009-04-13T01:00:33+00:00" ],
+        "uid" : [ "tag:twitter.com:jeff_byrd" ],
+        "url" : [ "https://twitter.com/jeff_byrd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Has anyone integrated PagerDuty with <a href=\"http://buttplug.io\">buttplug.io</a>?",
+      "value" : "Has anyone integrated PagerDuty with buttplug.io?"
+    } ],
+    "published" : [ "2023-01-22T06:07:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1617041322929537024" ],
+    "url" : [ "https://twitter.com/jeff_byrd/status/1617041322929537024" ]
+  },
+  "type" : [ "h-entry" ]
+}
