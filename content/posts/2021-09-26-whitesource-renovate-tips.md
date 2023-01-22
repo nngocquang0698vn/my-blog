@@ -4,7 +4,7 @@ description: "Some tips I've picked up while working with WhiteSource Renovate t
 date: 2021-09-26T18:21:40+0100
 tags:
 - blogumentation
-- whitesource-renovate
+- renovate
 - open-source
 - security
 license_code: "Apache-2.0"

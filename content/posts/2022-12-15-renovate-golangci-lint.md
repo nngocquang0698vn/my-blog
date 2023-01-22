@@ -6,7 +6,7 @@ syndication:
 - https://brid.gy/publish/twitter
 tags:
 - "blogumentation"
-- "whitesource-renovate"
+- "renovate"
 - "go"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"

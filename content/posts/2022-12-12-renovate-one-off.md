@@ -6,7 +6,7 @@ syndication:
 - https://brid.gy/publish/twitter
 tags:
 - "blogumentation"
-- "whitesource-renovate"
+- "renovate"
 - "open-source"
 - "security"
 - "typescript"

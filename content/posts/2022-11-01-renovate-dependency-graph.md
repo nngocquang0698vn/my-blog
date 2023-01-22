@@ -7,7 +7,7 @@ syndication:
 - "https://twitter.com/JamieTanna/status/1587494598410223616"
 tags:
 - "blogumentation"
-- "whitesource-renovate"
+- "renovate"
 - "open-source"
 - "security"
 - "typescript"
