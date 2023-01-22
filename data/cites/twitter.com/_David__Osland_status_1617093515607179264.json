@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David__Osland" ],
+        "nickname" : [ "David__Osland" ],
+        "numeric-id" : [ "3407247983" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1577363925074591755/q36AsoQl.jpg" ],
+        "published" : [ "2015-08-07T14:02:11+00:00" ],
+        "uid" : [ "tag:twitter.com:David__Osland" ],
+        "url" : [ "https://twitter.com/David__Osland", "http://labourhub.org.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Boris Johnson wouldn't need to borrow £800,000 if he cooked from scratch and cancelled Netflix" ],
+    "published" : [ "2023-01-22T09:35:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1617093515607179264" ],
+    "url" : [ "https://twitter.com/David__Osland/status/1617093515607179264" ]
+  },
+  "type" : [ "h-entry" ]
+}
