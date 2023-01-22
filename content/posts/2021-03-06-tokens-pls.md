@@ -21,7 +21,7 @@ However, with [Proof of Key Code Exchange (PKCE)](https://oauth.net/2/pkce/) sup
 
 I was thinking of creating a small script to go through the OAuth2 flow locally, with me copying-and-pasting the callback URL with granted authorization code, but thought I'd think a bit better about making this as easy as possible.
 
-I've created a Sinatra app, [tokens-pls](https://gitlab.com/jamietanna/tokens-pls) for this, which provides an easy tool for going through the Authorization Code flow for a [Public Client](https://tools.ietf.org/html/draft-ietf-oauth-v2-1-01#section-2.1), which is currently hosted on Heroku at [tokens-pls.herokuapp.com](https://tokens-pls.herokuapp.com).
+I've created a Sinatra app, [tokens-pls](https://gitlab.com/jamietanna/tokens-pls) for this, which provides an easy tool for going through the Authorization Code flow for a [Public Client](https://tools.ietf.org/html/draft-ietf-oauth-v2-1-01#section-2.1), which is currently hosted on Heroku at [tokens-pls.fly.dev](https://tokens-pls.fly.dev).
 
 The app allows you to either start the authorization flow using your profile URL (at which point it will discover your `authorization_endpoint` and `token_endpoint` automagically, or you can manually provide the endpoints. It is up-to-date with the IndieAuth spec (at time of writing) and uses PKCE to protect the authorization request.
 
@@ -45,7 +45,7 @@ After the authorization code is exchanged, tokens-pls will return in its JSON re
     "exp": 1615637825,
     "token_type": "access_token",
     "iat": 1615033025,
-    "client_id": "https://tokens-pls.herokuapp.com",
+    "client_id": "https://tokens-pls.fly.dev",
     "jti": "558c7f46-e605-4b1d-8097-f12ed8efef94"
   }
 }

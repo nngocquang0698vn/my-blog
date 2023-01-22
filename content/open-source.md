@@ -40,5 +40,5 @@ I also host a number of services:
 - [books-mf2.herokuapp.com](https://books-mf2.herokuapp.com)
 - [meetup-mf2.herokuapp.com](https://meetup-mf2.herokuapp.com)
 - [eventbrite-mf2.herokuapp.com](https://eventbrite-mf2.herokuapp.com)
-- [tokens-pls.herokuapp.com](https://tokens-pls.herokuapp.com/)
+- [tokens-pls.fly.dev](https://tokens-pls.fly.dev/)
 - [openapi.tanna.dev](https://openapi.tanna.dev)
