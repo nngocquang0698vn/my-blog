@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Holly Brockwell" ],
+        "nickname" : [ "holly" ],
+        "numeric-id" : [ "7555262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1523255543909044224/Xg9E85Hl.jpg" ],
+        "published" : [ "2007-07-18T10:27:16+00:00" ],
+        "uid" : [ "tag:twitter.com:holly" ],
+        "url" : [ "https://twitter.com/holly", "https://www.patreon.com/hollysmerrymoggies" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Review: more brownie than cheesecake, but pretty good 👌" ],
+    "in-reply-to" : [ "https://twitter.com/holly/status/1617254420760363008" ],
+    "photo" : [ {
+      "alt" : "A hairy man holding a weird dessert burrito that I would never order ",
+      "value" : "https://pbs.twimg.com/media/FnG2KGyWQAEWqy-.jpg"
+    } ],
+    "published" : [ "2023-01-22T21:32:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1617274033153654786" ],
+    "url" : [ "https://twitter.com/holly/status/1617274033153654786" ]
+  },
+  "type" : [ "h-entry" ]
+}
