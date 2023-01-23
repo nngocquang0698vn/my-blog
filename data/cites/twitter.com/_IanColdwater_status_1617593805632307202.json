@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I posted \"we're all in it together 🖤\" on Mastodon and got MULTIPLE replies about how actually we're not all in it together and I'm slinking back off of Mastodon now" ],
+    "published" : [ "2023-01-23T18:43:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1617593805632307202" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1617593805632307202" ]
+  },
+  "type" : [ "h-entry" ]
+}
