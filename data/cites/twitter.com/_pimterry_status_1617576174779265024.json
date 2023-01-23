@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Barcelona, Spain" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Perry" ],
+        "nickname" : [ "pimterry" ],
+        "numeric-id" : [ "20509812" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/615579808781737984/5CJ4T0UU.jpg" ],
+        "published" : [ "2009-02-10T12:28:29+00:00" ],
+        "uid" : [ "tag:twitter.com:pimterry" ],
+        "url" : [ "https://twitter.com/pimterry", "http://tim.fyi", "http://httptoolkit.com", "http://toot.cafe/@pimterry" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ran into a bona-fide Git bug in the wild today! There's a first.\n\nMostly just highlights how impressive it is that I've used Git almost every working day for a decade without running into any others though...\n\n<a href=\"https://github.com/so-fancy/diff-so-fancy/issues/437\">github.com/so-fancy/diff-…</a></div>",
+      "value" : "Ran into a bona-fide Git bug in the wild today! There's a first.\n\nMostly just highlights how impressive it is that I've used Git almost every working day for a decade without running into any others though...\n\ngithub.com/so-fancy/diff-…"
+    } ],
+    "published" : [ "2023-01-23T17:33:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1617576174779265024" ],
+    "url" : [ "https://twitter.com/pimterry/status/1617576174779265024" ]
+  },
+  "type" : [ "h-entry" ]
+}
