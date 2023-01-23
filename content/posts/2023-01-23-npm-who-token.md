@@ -7,7 +7,7 @@ tags:
 - nodejs
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "https://media.jvt.me/770ef46545.png"
+image: https://media.jvt.me/03019529e6.png
 slug: npm-who-token
 ---
 Let's say you've just found something that looks like it's an NPM token, and you want to work out whether it's still valid.
