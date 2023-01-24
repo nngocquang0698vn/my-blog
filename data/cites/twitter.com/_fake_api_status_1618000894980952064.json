@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Tapbots" ],
+          "nickname" : [ "tapbots" ],
+          "numeric-id" : [ "16669898" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1590743889601765376/UYZPExYX.jpg" ],
+          "published" : [ "2008-10-09T17:47:49+00:00" ],
+          "uid" : [ "tag:twitter.com:tapbots" ],
+          "url" : [ "https://twitter.com/tapbots", "http://tapbots.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Say Hello to Ivory. Our Mastodon client for iOS available on the App Store! If you liked Tweetbot, you'll love Ivory and feel right at home. Go download it, try it free for 7 days, and experience it for yourself!\n\n<a href=\"https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274\">apps.apple.com/us/app/ivory-f…</a></div>",
+        "value" : "Say Hello to Ivory. Our Mastodon client for iOS available on the App Store! If you liked Tweetbot, you'll love Ivory and feel right at home. Go download it, try it free for 7 days, and experience it for yourself!\n\napps.apple.com/us/app/ivory-f…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FnRDmTqX0Akqocd.jpg" ],
+      "published" : [ "2023-01-24T21:15:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1617994594402340864" ],
+      "url" : [ "https://twitter.com/tapbots/status/1617994594402340864" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API (same username on Instagram)" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ooooorrr stay here on Twitter where you can use cool apps like\n\n- Twitter for iPhone\n- The web</div>",
+      "value" : "Ooooorrr stay here on Twitter where you can use cool apps like\n\n- Twitter for iPhone\n- The web"
+    } ],
+    "published" : [ "2023-01-24T21:40:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1618000894980952064" ],
+    "url" : [ "https://twitter.com/fake_api/status/1618000894980952064" ]
+  },
+  "type" : [ "h-entry" ]
+}
