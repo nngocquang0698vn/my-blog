@@ -1,0 +1,11 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Caching at Twitter with Yao Yue" ],
+    "summary" : [ "Twitter is a social media platform that does some incredibly complex stuff when it comes to distributed systems engineering to keep the website up and running. Twitter has open sourced a lot of projects for others to use. Twitter created a fork of Memcached called Twemcache and also a fork of Redis to handle the" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2023/01/twemcache.png" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED5317003113.mp3?_=1" ],
+    "url" : [ "https://softwareengineeringdaily.com/2023/01/12/caching-at-twitter-with-yao-yue/" ],
+    "published" : [ "2023-01-13T17:43:09+00:00" ]
+  }
+}
