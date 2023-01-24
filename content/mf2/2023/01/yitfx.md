@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://softwareengineeringdaily.com/2023/01/12/caching-at-twitter-with-yao-yue/?utm_source=rss&utm_medium=rss&utm_campaign=caching-at-twitter-with-yao-yue" ],
+    "listen-of" : [ "https://softwareengineeringdaily.com/2023/01/12/caching-at-twitter-with-yao-yue/" ],
     "published" : [ "2023-01-24T08:47:03.650024959Z" ],
     "post-status" : [ "published" ]
   },
