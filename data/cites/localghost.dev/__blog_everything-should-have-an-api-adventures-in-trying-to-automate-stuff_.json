@@ -1,0 +1,33 @@
+{
+  "type" : [ "h-cite" ],
+  "properties" : {
+    "content" : [ "@sophie I just love the different themes you have on the site. Truly well done 💜" ],
+    "published" : [ "2023-01-24T12:47:55" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ricard Torres" ],
+        "photo" : [ {
+          "value" : "https://webmention.io/avatar/media.social.lol/09c8a1a907c5e066ef015b7b7d9935f0763138c96edbbfc19b6f7edc054d3eb9.jpg",
+          "alt" : "Ricard Torres"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Ricard Torres"
+    } ],
+    "url" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ricard Torres" ],
+        "photo" : [ {
+          "value" : "https://webmention.io/avatar/media.social.lol/09c8a1a907c5e066ef015b7b7d9935f0763138c96edbbfc19b6f7edc054d3eb9.jpg",
+          "alt" : "Ricard Torres"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "https://ricard.social/@ricard/109744257477641498"
+    } ]
+  },
+  "id" : "webmention-1604906",
+  "lang" : "en"
+}
