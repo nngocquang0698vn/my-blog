@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Rick and Morty" ],
+          "nickname" : [ "RickandMorty" ],
+          "numeric-id" : [ "729468343" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/897250392022540288/W1T-QjML.jpg" ],
+          "published" : [ "2012-07-31T23:17:58+00:00" ],
+          "uid" : [ "tag:twitter.com:RickandMorty" ],
+          "url" : [ "https://twitter.com/RickandMorty", "http://www.rickandmorty.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FnRTDJBXoAAcRHb.jpg" ],
+      "published" : [ "2023-01-24T22:15:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1618009508420386817" ],
+      "url" : [ "https://twitter.com/RickandMorty/status/1618009508420386817" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Opinions are my own!" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Indie!" ],
+        "nickname" : [ "IndieAlpaca" ],
+        "numeric-id" : [ "1017594785748672512" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1552343161799815169/dZBjntp-.jpg" ],
+        "published" : [ "2018-07-13T02:21:17+00:00" ],
+        "uid" : [ "tag:twitter.com:IndieAlpaca" ],
+        "url" : [ "https://twitter.com/IndieAlpaca", "http://twitch.tv/IndieAlpaca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Justin Roiland will be hard to recast, though. He didn't just play Rick and Morty, but loads of minor characters. \n\nGoogle \"Justin Roiland Minors\" for a full list.</div>",
+      "value" : "Justin Roiland will be hard to recast, though. He didn't just play Rick and Morty, but loads of minor characters. \n\nGoogle \"Justin Roiland Minors\" for a full list."
+    } ],
+    "published" : [ "2023-01-24T22:44:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1618017021756870656" ],
+    "url" : [ "https://twitter.com/IndieAlpaca/status/1618017021756870656" ]
+  },
+  "type" : [ "h-entry" ]
+}
