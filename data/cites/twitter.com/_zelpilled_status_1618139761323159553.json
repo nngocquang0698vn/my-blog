@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Rick and Morty" ],
+          "nickname" : [ "RickandMorty" ],
+          "numeric-id" : [ "729468343" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/897250392022540288/W1T-QjML.jpg" ],
+          "published" : [ "2012-07-31T23:17:58+00:00" ],
+          "uid" : [ "tag:twitter.com:RickandMorty" ],
+          "url" : [ "https://twitter.com/RickandMorty", "http://www.rickandmorty.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FnRTDJBXoAAcRHb.jpg" ],
+      "published" : [ "2023-01-24T22:15:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1618009508420386817" ],
+      "url" : [ "https://twitter.com/RickandMorty/status/1618009508420386817" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "17 | it/they/any" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ًً" ],
+        "nickname" : [ "zelpilled" ],
+        "numeric-id" : [ "1352736974189170690" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1612297123588116481/yGiq9DFZ.jpg" ],
+        "published" : [ "2021-01-22T21:56:50+00:00" ],
+        "uid" : [ "tag:twitter.com:zelpilled" ],
+        "url" : [ "https://twitter.com/zelpilled", "https://rentry.co/zelkova" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "this new season is fire <a href=\"https://twitter.com/rickandmorty/status/1618009508420386817\">twitter.com/rickandmorty/s…</a>",
+      "value" : "this new season is fire twitter.com/rickandmorty/s…"
+    } ],
+    "published" : [ "2023-01-25T06:52:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1618139761323159553" ],
+    "url" : [ "https://twitter.com/zelpilled/status/1618139761323159553" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1618139747251269636/pu/vid/720x406/h8R17ASmRi7umLu-.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
