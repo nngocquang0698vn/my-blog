@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "East London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Heath @dgheath21@mastodon.social" ],
+        "nickname" : [ "dgheath21" ],
+        "numeric-id" : [ "17454047" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525012650945613824/9JWRi27L.jpg" ],
+        "published" : [ "2008-11-18T00:01:48+00:00" ],
+        "uid" : [ "tag:twitter.com:dgheath21" ],
+        "url" : [ "https://twitter.com/dgheath21" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Very nice to catch <a href=\"https://twitter.com/sdh100Shaun\">@sdh100Shaun</a> briefly this evening in London and chat about the Cross Government Software Engineering Community",
+      "value" : "Very nice to catch @sdh100Shaun briefly this evening in London and chat about the Cross Government Software Engineering Community"
+    } ],
+    "published" : [ "2023-01-26T20:26:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1618706967572410368" ],
+    "url" : [ "https://twitter.com/dgheath21/status/1618706967572410368" ]
+  },
+  "type" : [ "h-entry" ]
+}
