@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Will Norris 🦦 (@will@willnorris.com)" ],
+    "summary" : [ "Some of the most common requests we get for the @Tailscale API relate to authentication.\n\nUsers want the ability to create credentials with fine-grained permissions, more than 90 days expiration, and keys that aren't tied to individual user accounts.\n\nIt took a little longer than expected, but I'm happy to say that what was actually my starter project(?!) with @jordanwhited@inuh.net has shipped: OAuth support for the API.\n\nhttps://tailscale.com/blog/oauth/" ],
+    "featured" : [ "https://cdn.masto.host/mastodonwillnorrisnet/accounts/avatars/109/237/327/241/653/580/original/0bb9aa551cb1ec3a.jpg" ],
+    "url" : [ "https://mastodon.willnorris.net/@will/109756860887092101" ]
+  }
+}
