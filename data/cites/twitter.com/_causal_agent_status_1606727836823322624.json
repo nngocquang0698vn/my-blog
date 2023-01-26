@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montréal, Québec" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Juniper" ],
+        "nickname" : [ "causal_agent" ],
+        "numeric-id" : [ "4311152969" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1597016302119444480/VctSa688.jpg" ],
+        "published" : [ "2015-11-28T21:33:08+00:00" ],
+        "uid" : [ "tag:twitter.com:causal_agent" ],
+        "url" : [ "https://twitter.com/causal_agent", "https://causal.agency" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’m packed & ready to go" ],
+    "photo" : [ {
+      "alt" : "a backpack with a side pocket for a water bottle but instead of a water bottle it’s a magic wand vibrator",
+      "value" : "https://pbs.twimg.com/media/Fkw-cwQX0AIupGn.jpg"
+    } ],
+    "published" : [ "2022-12-24T19:05:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1606727836823322624" ],
+    "url" : [ "https://twitter.com/causal_agent/status/1606727836823322624" ]
+  },
+  "type" : [ "h-entry" ]
+}
