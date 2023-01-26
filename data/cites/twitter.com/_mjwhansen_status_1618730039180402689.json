@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇺🇸 in 🇩🇰" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michele Hansen" ],
+        "nickname" : [ "mjwhansen" ],
+        "numeric-id" : [ "21612095" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576928194569060354/1pGSfk8u.jpg" ],
+        "published" : [ "2009-02-22T23:45:20+00:00" ],
+        "uid" : [ "tag:twitter.com:mjwhansen" ],
+        "url" : [ "https://twitter.com/mjwhansen", "https://deployempathy.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">hi, it's me\n\nthe task you've been dreading for a week that will take 5 minutes once you actually sit down to do it\n\ni'm the problem, it's me</div>",
+      "value" : "hi, it's me\n\nthe task you've been dreading for a week that will take 5 minutes once you actually sit down to do it\n\ni'm the problem, it's me"
+    } ],
+    "published" : [ "2023-01-26T21:58:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1618730039180402689" ],
+    "url" : [ "https://twitter.com/mjwhansen/status/1618730039180402689" ]
+  },
+  "type" : [ "h-entry" ]
+}
