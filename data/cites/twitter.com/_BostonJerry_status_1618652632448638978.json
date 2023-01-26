@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Boston, MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "WCVB-TV Boston" ],
+          "nickname" : [ "WCVB" ],
+          "numeric-id" : [ "21419504" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1491108484095565832/6aLsBHBN.jpg" ],
+          "published" : [ "2009-02-20T18:23:59+00:00" ],
+          "uid" : [ "tag:twitter.com:WCVB" ],
+          "url" : [ "https://twitter.com/WCVB", "http://www.wcvb.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The US economy grew by 2.9% in the fourth quarter, more than expected <a href=\"https://www.wcvb.com/article/us-economy-grew-fourth-quarter-more-than-expected/42671241?utm_campaign=snd-autopilot\">wcvb.com/article/us-eco…</a>",
+        "value" : "The US economy grew by 2.9% in the fourth quarter, more than expected wcvb.com/article/us-eco…"
+      } ],
+      "published" : [ "2023-01-26T16:46:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1618651489265664006" ],
+      "url" : [ "https://twitter.com/WCVB/status/1618651489265664006" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Web Twitter" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tár Tár Binks" ],
+        "nickname" : [ "BostonJerry" ],
+        "numeric-id" : [ "30290257" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603834894769061918/2HTfCI-H.jpg" ],
+        "published" : [ "2009-04-10T19:22:28+00:00" ],
+        "uid" : [ "tag:twitter.com:BostonJerry" ],
+        "url" : [ "https://twitter.com/BostonJerry" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The mass layoffs aren't about a recession, they're about stopping wage growth.\n\nThe Fed's rate hikes aren't about inflation, they're about stopping wage growth.\n\nThe \"quiet quitting\"/\"nobody wants to work\" narratives aren't about productivity,  they're about stopping wage growth.</div>",
+      "value" : "The mass layoffs aren't about a recession, they're about stopping wage growth.\n\nThe Fed's rate hikes aren't about inflation, they're about stopping wage growth.\n\nThe \"quiet quitting\"/\"nobody wants to work\" narratives aren't about productivity,  they're about stopping wage growth."
+    } ],
+    "published" : [ "2023-01-26T16:50:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1618652632448638978" ],
+    "url" : [ "https://twitter.com/BostonJerry/status/1618652632448638978" ]
+  },
+  "type" : [ "h-entry" ]
+}
