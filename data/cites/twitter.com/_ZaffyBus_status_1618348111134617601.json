@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stirlingshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Noonan" ],
+        "nickname" : [ "ZaffyBus" ],
+        "numeric-id" : [ "1408814060" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/794325300935086083/Sm2P7o2A.jpg" ],
+        "published" : [ "2013-05-06T21:56:10+00:00" ],
+        "uid" : [ "tag:twitter.com:ZaffyBus" ],
+        "url" : [ "https://twitter.com/ZaffyBus" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Londoner: \"Blast! We just missed that train!\"\nVisitor: \"Oh dear! Will it long till the next one?\"\nLondoner: \"Nah, two minutes.\"</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ko_oneill\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rob_w_r\"></a>",
+      "value" : "Londoner: \"Blast! We just missed that train!\"\nVisitor: \"Oh dear! Will it long till the next one?\"\nLondoner: \"Nah, two minutes.\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rob_w_r/status/1618232649172267010" ],
+    "published" : [ "2023-01-25T20:40:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1618348111134617601" ],
+    "url" : [ "https://twitter.com/ZaffyBus/status/1618348111134617601" ]
+  },
+  "type" : [ "h-entry" ]
+}
