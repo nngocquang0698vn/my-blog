@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "nrnrnr" ],
+        "nickname" : [ "nrnrnr" ],
+        "numeric-id" : [ "17797316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/66046058/geocaching.jpg" ],
+        "published" : [ "2008-12-02T02:47:35+00:00" ],
+        "uid" : [ "tag:twitter.com:nrnrnr" ],
+        "url" : [ "https://twitter.com/nrnrnr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> thanks for the \"lock before suspend\" systemd service.  When using with xlock, it needs Type=exec, not Type=forking.  Otherwise systemd waits for xlock to exit before doing the suspend.  (Comments led me to think otherwise.)",
+      "value" : "@JamieTanna thanks for the \"lock before suspend\" systemd service.  When using with xlock, it needs Type=exec, not Type=forking.  Otherwise systemd waits for xlock to exit before doing the suspend.  (Comments led me to think otherwise.)"
+    } ],
+    "published" : [ "2023-01-26T16:17:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1618644421674930176" ],
+    "url" : [ "https://twitter.com/nrnrnr/status/1618644421674930176" ]
+  },
+  "type" : [ "h-entry" ]
+}
