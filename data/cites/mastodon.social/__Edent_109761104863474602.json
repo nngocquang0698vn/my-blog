@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Terence Eden (@Edent@mastodon.social)" ],
+    "summary" : [ "A question for #infosec practitioners.\n\nI've found an abandoned AWS bucket from a very large company. It serves all the images & fonts in their billing emails.\n\nI defensively registered it to prevent an attacker from injecting malicious content into the emails I receive.\n\nThen I emailed their security.txt contact to inform them and offering to transfer it back (for free, obviously).\n\nWas that the right thing to do? Should I have waited for a response from them before securing the bucket?" ],
+    "featured" : [ "https://files.mastodon.social/accounts/avatars/000/007/112/original/29984722263_ade8a25ec5_k.jpg" ],
+    "url" : [ "https://mastodon.social/@Edent/109761104863474602" ]
+  }
+}
