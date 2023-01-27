@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London/New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim of the Jones Age" ],
+        "nickname" : [ "TheRealTLLJ" ],
+        "numeric-id" : [ "319178054" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591540050776530945/4hgmhHwx.jpg" ],
+        "published" : [ "2011-06-17T17:49:02+00:00" ],
+        "uid" : [ "tag:twitter.com:TheRealTLLJ" ],
+        "url" : [ "https://twitter.com/TheRealTLLJ" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“Badonkers”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Baileymoon15\"></a>",
+      "value" : "“Badonkers”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Baileymoon15/status/1618716974519037953" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fnb8MUVWYAI8Ppk.jpg" ],
+    "published" : [ "2023-01-26T23:50:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1618758409523990531" ],
+    "url" : [ "https://twitter.com/TheRealTLLJ/status/1618758409523990531" ]
+  },
+  "type" : [ "h-entry" ]
+}
