@@ -24,10 +24,10 @@ An error occurred (InvalidIdentityToken) when calling the AssumeRoleWithWebIdent
 
 Looking into it, GitLab.com appear to have rotated their HTTPS certificate, at which point the pinned certificate in AWS didn't match. Updating it was pretty straightforward using [AWS' official documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_oidc_verify-thumbprint.html), but I wanted something completely hands-off.
 
-I ended up writing the following Go program, [packaged on GitLab](https://gitlab.com/tanna.dev/oidc-thumprint), which can be run like so, and it will output the current OIDC fingerprint for use with AWS:
+I ended up writing the following Go program, [packaged on GitLab](https://gitlab.com/tanna.dev/oidc-thumbprint), which can be run like so, and it will output the current OIDC fingerprint for use with AWS:
 
 ```sh
-$ go install gitlab.com/tanna.dev/oidc-thumprint@HEAD
+$ go install gitlab.com/tanna.dev/oidc-thumbprint@HEAD
 $ oidc-thumbprint https://gitlab.com
 ```
 
