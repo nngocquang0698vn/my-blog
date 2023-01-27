@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Forbes" ],
+          "nickname" : [ "Forbes" ],
+          "numeric-id" : [ "91478624" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1577646609923543041/NcCeduIc.jpg" ],
+          "published" : [ "2009-11-21T02:09:57+00:00" ],
+          "uid" : [ "tag:twitter.com:Forbes" ],
+          "url" : [ "https://twitter.com/Forbes", "http://forbes.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Elon Musk Is Now A Fan Of Remote Work <a href=\"https://trib.al/mI27r80\">trib.al/mI27r80</a>",
+        "value" : "Elon Musk Is Now A Fan Of Remote Work trib.al/mI27r80"
+      } ],
+      "published" : [ "2023-01-25T11:20:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1618207071677124608" ],
+      "url" : [ "https://twitter.com/Forbes/status/1618207071677124608" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/forbes/status/…" ],
+      "url" : [ "https://twitter.com/forbes/status/1618207071677124608" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "parker lyons" ],
+        "nickname" : [ "tweetsbyparker" ],
+        "numeric-id" : [ "960880275721945088" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1600011145204506625/Ygm75d4J.jpg" ],
+        "published" : [ "2018-02-06T14:18:04+00:00" ],
+        "uid" : [ "tag:twitter.com:tweetsbyparker" ],
+        "url" : [ "https://twitter.com/tweetsbyparker", "http://parkerlyons.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "when you realize landlords don’t negotiate on rent\n<a class=\"tag\" href=\"https://twitter.com/forbes/status/1618207071677124608\">twitter.com/forbes/status/…</a>",
+      "value" : "when you realize landlords don’t negotiate on rent"
+    } ],
+    "published" : [ "2023-01-25T23:42:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1618393923822710785" ],
+    "url" : [ "https://twitter.com/tweetsbyparker/status/1618393923822710785" ]
+  },
+  "type" : [ "h-entry" ]
+}
