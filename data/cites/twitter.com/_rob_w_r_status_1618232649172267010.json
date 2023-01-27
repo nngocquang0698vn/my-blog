@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC News (UK)" ],
+          "nickname" : [ "BBCNews" ],
+          "numeric-id" : [ "612473" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1529107486271225859/03qcVNIk.jpg" ],
+          "published" : [ "2007-01-08T08:05:57+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCNews" ],
+          "url" : [ "https://twitter.com/BBCNews", "http://www.bbc.co.uk/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Commuters say Elizabeth line service \"not what was promised\" <a href=\"https://bbc.in/3JdSmiD\">bbc.in/3JdSmiD</a>",
+        "value" : "Commuters say Elizabeth line service \"not what was promised\" bbc.in/3JdSmiD"
+      } ],
+      "published" : [ "2023-01-25T10:39:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1618196866817982464" ],
+      "url" : [ "https://twitter.com/BBCNews/status/1618196866817982464" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Rob" ],
+        "nickname" : [ "rob_w_r" ],
+        "numeric-id" : [ "3436477905" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1616035381740281856/LOg2CHna.jpg" ],
+        "published" : [ "2015-08-23T09:53:43+00:00" ],
+        "uid" : [ "tag:twitter.com:rob_w_r" ],
+        "url" : [ "https://twitter.com/rob_w_r" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FnUd4tpWAAAHKLg.png" ],
+    "published" : [ "2023-01-25T13:01:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1618232649172267010" ],
+    "url" : [ "https://twitter.com/rob_w_r/status/1618232649172267010" ]
+  },
+  "type" : [ "h-entry" ]
+}
