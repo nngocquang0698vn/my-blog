@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ben Gold" ],
+          "nickname" : [ "bengold" ],
+          "numeric-id" : [ "182383" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1605223904259325953/I7sI8Qlt.jpg" ],
+          "published" : [ "2006-12-22T23:20:08+00:00" ],
+          "uid" : [ "tag:twitter.com:bengold" ],
+          "url" : [ "https://twitter.com/bengold", "https://ben.gold" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Now that I no longer work there, I will say that something I really disliked about Google (and this may just be a Big Tech thing and not unique to them) is how much of the job was self promoting and the theatrics of demonstrating impact." ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Brooklyn, NY" ],
+          "uid" : [ "tag:twitter.com:011add077f4d2da3" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2023-01-26T12:37:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1618589049803132931" ],
+      "url" : [ "https://twitter.com/bengold/status/1618589049803132931" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Try managing this when you’re neurodivergent.\n\nOh, there’s a secret set of norms you’re just supposed to know and conform to? Good luck!</div>",
+      "value" : "Try managing this when you’re neurodivergent.\n\nOh, there’s a secret set of norms you’re just supposed to know and conform to? Good luck!"
+    } ],
+    "published" : [ "2023-01-27T07:11:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1618869403726278656" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1618869403726278656" ]
+  },
+  "type" : [ "h-entry" ]
+}
