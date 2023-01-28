@@ -1,0 +1,257 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "oauth" ],
+    "pk-num-likes" : [ "12" ],
+    "pk-num-reposts" : [ "1" ],
+    "pk-num-replies" : [ "1" ],
+    "photo" : [ "https://aaronparecki.com/img/1240x0/2023/01/27/14/photo.jpg" ],
+    "url" : [ "https://aaronparecki.com/2023/01/27/14/oauth" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1619203824484503554", "https://aaronparecki.com/@aaronpk" ],
+    "published" : [ "2023-01-27T21:20:45-08:00" ],
+    "content" : [ {
+      "html" : "It's been a while since I've set up an Amazon Echo device. Do I need to come over there and teach some Amazon folks about the OAuth Device Flow? There is a better way than making me type my password on this screen!",
+      "value" : "It's been a while since I've set up an Amazon Echo device. Do I need to come over there and teach some Amazon folks about the OAuth Device Flow? There is a better way than making me type my password on this screen!"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://w3c.social/users/andreas_kuckartz#likes/14002" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andreas Kuckartz" ],
+            "url" : [ "https://w3c.social/users/andreas_kuckartz" ]
+          },
+          "value" : "Andreas Kuckartz"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Andreas Kuckartz"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://baraag.net/users/Satanist#likes/28758111" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "⛧Satanist⛧" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://baraag.net/users/Satanist" ]
+          },
+          "value" : "⛧Satanist⛧"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ⛧Satanist⛧"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.cthos.dev/users/cthos#likes/1179" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "cthos" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.cthos.dev/users/cthos" ]
+          },
+          "value" : "cthos"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png cthos"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/users/cjdaniel#likes/13686476" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris Daniel" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mstdn.social/users/cjdaniel" ]
+          },
+          "value" : "Chris Daniel"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Chris Daniel"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/jpf#likes/69096556" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Joël Franusic" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/jpf" ]
+          },
+          "value" : "Joël Franusic"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Joël Franusic"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-19345424" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sandesh Anand" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/JubbaOnJeans" ]
+          },
+          "value" : "Sandesh Anand"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Sandesh Anand"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-36699912" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tyler Kron" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/TylerKron" ]
+          },
+          "value" : "Tyler Kron"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Tyler Kron"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-88278974" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dad" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/GeekAndDad" ]
+          },
+          "value" : "Dad"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dad"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-353442929" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jason Flynn" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Flynn1123" ]
+          },
+          "value" : "Jason Flynn"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jason Flynn"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-1252781352245583873" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "chezjudy fully vaxxed" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/chez_judy" ]
+          },
+          "value" : "chezjudy fully vaxxed"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png chezjudy fully vaxxed"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-512682200" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Daniel O'Holleran" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/doholleran" ]
+          },
+          "value" : "Daniel O'Holleran"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Daniel O'Holleran"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1619203824484503554#favorited-by-3147704479" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andreas Tell" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/andreas_tell" ]
+          },
+          "value" : "Andreas Tell"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Andreas Tell"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/jaimeperera/status/1619267406979026950" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jaime Perera Merino" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/jaimeperera" ]
+          },
+          "value" : "Jaime Perera Merino"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jaime Perera Merino"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/thomas_cantrell/status/1619207134805372931" ],
+        "published" : [ "2023-01-28T05:33:59+00:00" ],
+        "content" : [ {
+          "html" : "Better not use a 24-character random combination of letters, numbers, and symbols with mixed case!\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Better not use a 24-character random combination of letters, numbers, and symbols with mixed case!"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Thomas Cantrell" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/thomas_cantrell" ]
+          },
+          "value" : "Thomas Cantrell"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Thomas Cantrell twitter.com/thomas_cantrell Better not use a 24-character random combination of letters, numbers, and symbols with mixed case! Sat, Jan 28, 2023 5:33am +00:00 (via brid.gy)"
+    } ]
+  },
+  "id" : "post-id-96182"
+}
