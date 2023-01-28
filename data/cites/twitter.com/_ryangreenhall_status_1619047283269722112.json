@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Greenhall" ],
+        "nickname" : [ "ryangreenhall" ],
+        "numeric-id" : [ "111875554" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538050966255181824/rKhHOXKm.jpg" ],
+        "published" : [ "2010-02-06T12:45:20+00:00" ],
+        "uid" : [ "tag:twitter.com:ryangreenhall" ],
+        "url" : [ "https://twitter.com/ryangreenhall" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">You are no longer building the product. You are building a team that will build the product. \n\nWhat can you uniquely do to help the team move forward? Delegate the rest - trust but verify.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/davefarley77\"></a>",
+      "value" : "You are no longer building the product. You are building a team that will build the product. \n\nWhat can you uniquely do to help the team move forward? Delegate the rest - trust but verify."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/davefarley77/status/1619037396502298633" ],
+    "published" : [ "2023-01-27T18:58:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1619047283269722112" ],
+    "url" : [ "https://twitter.com/ryangreenhall/status/1619047283269722112" ]
+  },
+  "type" : [ "h-entry" ]
+}
