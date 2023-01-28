@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://spacekaren.sucks/vhpfb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When did folks get 200k followers if all they do is ask open-ended questions about JavaScript?" ],
+    "published" : [ "2023-01-27T23:43:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1619118851115061248" ],
+    "url" : [ "https://twitter.com/shanselman/status/1619118851115061248" ]
+  },
+  "type" : [ "h-entry" ]
+}
