@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "burnt down wendy’s" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "a streetcar named deez nuts" ],
+        "nickname" : [ "fuitgumny" ],
+        "numeric-id" : [ "3321518591" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520961915635306496/IFpvffRU.jpg" ],
+        "published" : [ "2015-06-12T19:16:52+00:00" ],
+        "uid" : [ "tag:twitter.com:fuitgumny" ],
+        "url" : [ "https://twitter.com/fuitgumny" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Reminds me of this:\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattxiv\"></a>",
+      "value" : "Reminds me of this:"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mattxiv/status/1619072317698752513" ],
+    "photo" : [ "https://pbs.twimg.com/media/FnkzVmAXgAEcqns.jpg" ],
+    "published" : [ "2023-01-28T17:08:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1619381990645710850" ],
+    "url" : [ "https://twitter.com/fuitgumny/status/1619381990645710850" ]
+  },
+  "type" : [ "h-entry" ]
+}
