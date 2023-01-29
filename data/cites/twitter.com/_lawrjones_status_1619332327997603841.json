@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lawrence Jones" ],
+        "nickname" : [ "lawrjones" ],
+        "numeric-id" : [ "1299926126" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000736665383/483e4d91d596a885561a35c68d95cf5e.jpeg" ],
+        "published" : [ "2013-03-25T15:27:20+00:00" ],
+        "uid" : [ "tag:twitter.com:lawrjones" ],
+        "url" : [ "https://twitter.com/lawrjones", "https://blog.lawrencejones.dev/", "http://blog.lawrencejones.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Probably the only good part about paying a tax bill, but it’s great to see broader adoption of payments using Open Banking.\n\nSuch a clearly great use case for it. Even if the gov awarded the bid to a questionable provider 😂</div>",
+      "value" : "Probably the only good part about paying a tax bill, but it’s great to see broader adoption of payments using Open Banking.\n\nSuch a clearly great use case for it. Even if the gov awarded the bid to a questionable provider 😂"
+    } ],
+    "published" : [ "2023-01-28T13:51:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1619332327997603841" ],
+    "url" : [ "https://twitter.com/lawrjones/status/1619332327997603841" ]
+  },
+  "type" : [ "h-entry" ]
+}
