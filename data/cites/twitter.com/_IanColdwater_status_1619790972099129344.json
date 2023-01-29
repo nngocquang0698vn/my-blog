@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "SCRIPT KITTY 😸\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CalCourtKy\"></a>",
+      "value" : "SCRIPT KITTY 😸"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CalCourtKy/status/1619777782049030145" ],
+    "published" : [ "2023-01-29T20:13:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1619790972099129344" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1619790972099129344" ]
+  },
+  "type" : [ "h-entry" ]
+}
