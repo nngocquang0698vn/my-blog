@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "FOLLOWERS ONLY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Make it a quote" ],
+          "nickname" : [ "MakeItAQuote" ],
+          "numeric-id" : [ "1446813263526772736" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1446978647705931777/Ze-efpAt.jpg" ],
+          "published" : [ "2021-10-09T12:22:23+00:00" ],
+          "uid" : [ "tag:twitter.com:MakeItAQuote" ],
+          "url" : [ "https://twitter.com/MakeItAQuote", "https://makeitaquote.com/", "http://ko-fi.com/makeitaquote" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sevware\"></a>"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/sevware/status/1619430546765148160" ],
+      "photo" : [ {
+        "alt" : "Illustration of @Aoife_Bee_'s original tweet displaying their profile picture and the text: just swallowing them as they came in my mouth LOL",
+        "value" : "https://pbs.twimg.com/media/Fnlfjm8XoAAn-Wr.jpg"
+      } ],
+      "published" : [ "2023-01-28T20:21:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1619430610438705157" ],
+      "url" : [ "https://twitter.com/MakeItAQuote/status/1619430610438705157" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada - 18+ onlyfans →" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aoife 🐝 Bee" ],
+        "nickname" : [ "Aoife_Bee_" ],
+        "numeric-id" : [ "1474761409254858752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1619224582451339265/e259Fh-1.jpg" ],
+        "published" : [ "2021-12-25T15:18:33+00:00" ],
+        "uid" : [ "tag:twitter.com:Aoife_Bee_" ],
+        "url" : [ "https://twitter.com/Aoife_Bee_", "https://linktr.ee/aoife_bee" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "not my proudest moment" ],
+    "published" : [ "2023-01-28T21:15:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1619444024041148419" ],
+    "url" : [ "https://twitter.com/Aoife_Bee_/status/1619444024041148419" ]
+  },
+  "type" : [ "h-entry" ]
+}
