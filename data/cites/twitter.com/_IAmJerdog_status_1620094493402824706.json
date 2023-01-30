@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy, The Patronizing Saint of DevOps 🇺🇲🇺🇦" ],
+        "nickname" : [ "IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603859732556660738/XH-zOqQ3.png" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I guess I should say, \"Thanks <a href=\"https://twitter.com/SessionizeCom\">@SessionizeCom</a>\" for this award...",
+      "value" : "I guess I should say, \"Thanks @SessionizeCom\" for this award..."
+    } ],
+    "photo" : [ {
+      "alt" : "Award from Sessionize for being in the Top 3% of active speakers in 2022",
+      "value" : "https://pbs.twimg.com/media/Fnu7Wt8XEA0RhKN.jpg"
+    } ],
+    "published" : [ "2023-01-30T16:20:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1620094493402824706" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1620094493402824706" ]
+  },
+  "type" : [ "h-entry" ]
+}
