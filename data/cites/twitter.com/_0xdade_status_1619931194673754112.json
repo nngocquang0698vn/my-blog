@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "dade" ],
+        "nickname" : [ "0xdade" ],
+        "numeric-id" : [ "3089780477" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1560867293063655424/78ILKlYO.png" ],
+        "published" : [ "2015-03-12T20:00:09+00:00" ],
+        "uid" : [ "tag:twitter.com:0xdade" ],
+        "url" : [ "https://twitter.com/0xdade", "https://0xda.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "On Mac with the app installed, the extension can be unlocked with touchid which is really nice. I'm not sure if the same type of integration is available on other platforms, though.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/davidfowl\"></a>",
+      "value" : "On Mac with the app installed, the extension can be unlocked with touchid which is really nice. I'm not sure if the same type of integration is available on other platforms, though."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/davidfowl/status/1619930357423566850" ],
+    "published" : [ "2023-01-30T05:31:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1619931194673754112" ],
+    "url" : [ "https://twitter.com/0xdade/status/1619931194673754112" ]
+  },
+  "type" : [ "h-entry" ]
+}
