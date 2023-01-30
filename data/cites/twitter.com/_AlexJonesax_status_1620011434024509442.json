@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex 🚀" ],
+        "nickname" : [ "AlexJonesax" ],
+        "numeric-id" : [ "2260927791" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598789611823763487/Qn3HPRuO.jpg" ],
+        "published" : [ "2014-01-03T23:17:52+00:00" ],
+        "uid" : [ "tag:twitter.com:AlexJonesax" ],
+        "url" : [ "https://twitter.com/AlexJonesax", "https://www.youtube.com/c/CloudNativeSkunkworks" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Periodic reminder" ],
+    "photo" : [ "https://pbs.twimg.com/media/FntvzNdXwAAttqf.jpg" ],
+    "published" : [ "2023-01-30T10:49:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1620011434024509442" ],
+    "url" : [ "https://twitter.com/AlexJonesax/status/1620011434024509442" ]
+  },
+  "type" : [ "h-entry" ]
+}
