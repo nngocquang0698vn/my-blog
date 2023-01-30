@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Redmond" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "hachyderm.io/@davidfowl" ],
+        "nickname" : [ "davidfowl" ],
+        "numeric-id" : [ "19481808" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599643600190836736/mWj6ARAN.jpg" ],
+        "published" : [ "2009-01-25T08:20:53+00:00" ],
+        "uid" : [ "tag:twitter.com:davidfowl" ],
+        "url" : [ "https://twitter.com/davidfowl", "https://hachyderm.io/@davidfowl", "http://ASP.NET" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "On the plus side, I know my password *really* well now 🤓" ],
+    "in-reply-to" : [ "https://twitter.com/davidfowl/status/1619930062354276357" ],
+    "published" : [ "2023-01-30T05:27:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1619930357423566850" ],
+    "url" : [ "https://twitter.com/davidfowl/status/1619930357423566850" ]
+  },
+  "type" : [ "h-entry" ]
+}
