@@ -13,7 +13,7 @@ license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/6661d55f5a.jpeg"
 slug: renovate-go-install
 ---
-As mentioned in [_Using Renovate to manage updates to `golangci-lint` versions_](https://www.jvt.me/posts/2022/12/15/renovate-golangci-lint/),  Renovate is great for managing your dependency updates.
+As mentioned in [_Using Renovate to manage updates to `golangci-lint` versions_](https://www.jvt.me/posts/2022/12/15/renovate-golangci-lint/), Renovate is great for managing your dependency updates.
 
 By using [the custom regex manager](https://docs.renovatebot.com/modules/manager/regex/), we can craft the following Renovate configuration:
 
