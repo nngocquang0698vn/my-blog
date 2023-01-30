@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Mockito 5 Supports Mocking Constructors, Static Methods and Final Classes Out of the Box " ],
+    "summary" : [ "Mockito has released version 5, switching the default mockmaker to mockito-inline in order to better support future versions of the JDK and allows mocking of constructors, static methods and final classes out of the box. The baseline increased from Java 8 to Java 11, as supporting both versions became costly and managing changes in the JDK such as with the SecurityManager proved difficult." ],
+    "featured" : [ "https://res.infoq.com/news/2023/01/mockito-5/en/headerimage/generatedHeaderImage-1674844366175.jpg" ],
+    "url" : [ "https://www.infoq.com/news/2023/01/mockito-5/" ]
+  }
+}
