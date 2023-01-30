@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "james" ],
+        "nickname" : [ "varjmes" ],
+        "numeric-id" : [ "25183606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1601301694322728962/dgEefx3p.jpg" ],
+        "published" : [ "2009-03-18T23:28:54+00:00" ],
+        "uid" : [ "tag:twitter.com:varjmes" ],
+        "url" : [ "https://twitter.com/varjmes", "https://jmes.tech", "https://strangeobject.space/@james" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just got officially diagnosed with ADHD 😭🥰😌 FINALLY" ],
+    "published" : [ "2023-01-28T19:28:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1619417138175049728" ],
+    "url" : [ "https://twitter.com/varjmes/status/1619417138175049728" ]
+  },
+  "type" : [ "h-entry" ]
+}
