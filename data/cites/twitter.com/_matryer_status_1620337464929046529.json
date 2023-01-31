@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Southwark and Lambeth, London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "London SE1 Community Website" ],
+          "nickname" : [ "se1" ],
+          "numeric-id" : [ "6539112" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1730383023/se1_log.png" ],
+          "published" : [ "2007-06-03T10:27:45+00:00" ],
+          "uid" : [ "tag:twitter.com:se1" ],
+          "url" : [ "https://twitter.com/se1", "http://www.london-se1.co.uk/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Not sure having loud amplified buskers on Waterloo Station is the best idea when people are trying to hear announcements about train departures." ],
+      "published" : [ "2023-01-30T18:00:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1620119844481040388" ],
+      "url" : [ "https://twitter.com/se1/status/1620119844481040388" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568483994471223297/D7gkmiGs.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">They could at least try to incorporate the updates into the song.\n\n“Now I've heard there was a secret chord,\nThat David played, and it pleased the Lord.\nBut the 10:25 to Walthamstow is delayed now…”</div>",
+      "value" : "They could at least try to incorporate the updates into the song.\n\n“Now I've heard there was a secret chord,\nThat David played, and it pleased the Lord.\nBut the 10:25 to Walthamstow is delayed now…”"
+    } ],
+    "published" : [ "2023-01-31T08:25:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1620337464929046529" ],
+    "url" : [ "https://twitter.com/matryer/status/1620337464929046529" ]
+  },
+  "type" : [ "h-entry" ]
+}
