@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Gondelman" ],
+        "nickname" : [ "joshgondelman" ],
+        "numeric-id" : [ "70111948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1547592292168388608/HYMBEeth.jpg" ],
+        "published" : [ "2009-08-30T12:40:22+00:00" ],
+        "uid" : [ "tag:twitter.com:joshgondelman" ],
+        "url" : [ "https://twitter.com/joshgondelman", "https://bit.ly/3OeoemT" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I keep confusing The Last Of Us with Among Us and I’m like…they adapted that silly astronaut game into a show and it’s making everyone cry????" ],
+    "published" : [ "2023-01-31T13:57:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1620420998360338442" ],
+    "url" : [ "https://twitter.com/joshgondelman/status/1620420998360338442" ]
+  },
+  "type" : [ "h-entry" ]
+}
