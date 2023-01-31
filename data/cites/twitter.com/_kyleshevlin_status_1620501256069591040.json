@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Burgess" ],
+          "nickname" : [ "burgessdryan" ],
+          "numeric-id" : [ "29313885" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1267931355775557632/yueM7WFQ.jpg" ],
+          "published" : [ "2009-04-06T22:41:00+00:00" ],
+          "uid" : [ "tag:twitter.com:burgessdryan" ],
+          "url" : [ "https://twitter.com/burgessdryan" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Be honest, do you still use border: 1px solid red; for debugging?" ],
+      "published" : [ "2023-01-31T18:21:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1620487325573578759" ],
+      "url" : [ "https://twitter.com/burgessdryan/status/1620487325573578759" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'll never tire of saying this. Don't use `border`. Use `outline` instead.\n\n\"Why, Kyle?\"\n\nBecause `border` will shift layout. Those extra pixels may make something wrap that shouldn't. Whereas `outline` will not affect layout while giving you the same information for debugging.</div>",
+      "value" : "I'll never tire of saying this. Don't use `border`. Use `outline` instead.\n\n\"Why, Kyle?\"\n\nBecause `border` will shift layout. Those extra pixels may make something wrap that shouldn't. Whereas `outline` will not affect layout while giving you the same information for debugging."
+    } ],
+    "published" : [ "2023-01-31T19:16:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1620501256069591040" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1620501256069591040" ]
+  },
+  "type" : [ "h-entry" ]
+}
