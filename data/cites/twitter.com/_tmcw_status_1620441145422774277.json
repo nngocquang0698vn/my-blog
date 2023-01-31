@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn ny" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom MacWright" ],
+        "nickname" : [ "tmcw" ],
+        "numeric-id" : [ "1458271" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1172554769237336065/CIdcAG0d.jpg" ],
+        "published" : [ "2007-03-19T01:06:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tmcw" ],
+        "url" : [ "https://twitter.com/tmcw", "https://macwright.com/", "http://placemark.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "that's a relief\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SimonPJByrne\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/d_feldman\"></a>",
+      "value" : "that's a relief"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SimonPJByrne/status/1620297160456826880" ],
+    "published" : [ "2023-01-31T15:17:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1620441145422774277" ],
+    "url" : [ "https://twitter.com/tmcw/status/1620441145422774277" ]
+  },
+  "type" : [ "h-entry" ]
+}
