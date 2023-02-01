@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rohan Padhye" ],
+        "nickname" : [ "moarbugs" ],
+        "numeric-id" : [ "1042652616650502144" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1233023862897594370/R7Vutpvd.jpg" ],
+        "published" : [ "2018-09-20T05:52:10+00:00" ],
+        "uid" : [ "tag:twitter.com:moarbugs" ],
+        "url" : [ "https://twitter.com/moarbugs", "http://rohan.padhye.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Quote of the day: \"Static analysis has found a few bugs in SQLite, but those are the exceptions. More bugs have been introduced into SQLite while trying to get it to compile without warnings than have been found by static analysis.\" \n\nSource: <a href=\"https://www.sqlite.org/testing.html\">sqlite.org/testing.html</a></div>",
+      "value" : "Quote of the day: \"Static analysis has found a few bugs in SQLite, but those are the exceptions. More bugs have been introduced into SQLite while trying to get it to compile without warnings than have been found by static analysis.\" \n\nSource: sqlite.org/testing.html"
+    } ],
+    "published" : [ "2023-01-31T20:57:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1620526754426425345" ],
+    "url" : [ "https://twitter.com/moarbugs/status/1620526754426425345" ]
+  },
+  "type" : [ "h-entry" ]
+}
