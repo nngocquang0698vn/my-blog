@@ -35,7 +35,7 @@ What are my Operating System preferences?
 - On Laptop/Desktop, I'm an Arch Linux user
 - On the server, I'm a Debian Linux user
 
-My primary programming languages at this time are Java and Ruby.
+My primary programming languages at this time are Go, Ruby and TypeScript.
 
 My daily drivers for work and play are:
 
