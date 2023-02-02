@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marino Wijay (he/him) 🇨🇦🍁" ],
+          "nickname" : [ "virtualized6ix" ],
+          "numeric-id" : [ "849319385080659968" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1613279013820157952/aHfOWIWp.jpg" ],
+          "published" : [ "2017-04-04T17:54:55+00:00" ],
+          "uid" : [ "tag:twitter.com:virtualized6ix" ],
+          "url" : [ "https://twitter.com/virtualized6ix", "http://linkfree.eddiehub.io/distributethe6ix" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Hi everyone, please meet Shelby, a very, very, very cute conference support animal 🥺🐾🐶❤️\n\n<a href=\"https://twitter.com/search?q=%23CNSCon\">#CNSCon</a></div>",
+        "value" : "Hi everyone, please meet Shelby, a very, very, very cute conference support animal 🥺🐾🐶❤️\n\n#CNSCon"
+      } ],
+      "photo" : [ {
+        "alt" : "Marino and Shelby Selfie",
+        "value" : "https://pbs.twimg.com/media/Fn69R2faYAAkOaU.jpg"
+      } ],
+      "published" : [ "2023-02-02T00:23:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1620941039417831424" ],
+      "url" : [ "https://twitter.com/virtualized6ix/status/1620941039417831424" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alistair Hey" ],
+        "nickname" : [ "alistair_hey" ],
+        "numeric-id" : [ "716872930853040128" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522949074663653376/znDCqHxC.jpg" ],
+        "published" : [ "2016-04-04T06:20:00+00:00" ],
+        "uid" : [ "tag:twitter.com:alistair_hey" ],
+        "url" : [ "https://twitter.com/alistair_hey" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/urlichsanais\">@urlichsanais</a> <a href=\"https://twitter.com/tomtucka\">@tomtucka</a> <a href=\"https://twitter.com/MichaelCade1\">@MichaelCade1</a>  we need this at <a href=\"https://twitter.com/devopsdaysbrum\">@devopsdaysbrum</a>",
+      "value" : "@urlichsanais @tomtucka @MichaelCade1  we need this at @devopsdaysbrum"
+    } ],
+    "published" : [ "2023-02-02T06:19:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1621030607622148096" ],
+    "url" : [ "https://twitter.com/alistair_hey/status/1621030607622148096" ]
+  },
+  "type" : [ "h-entry" ]
+}
