@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Whitney" ],
+        "nickname" : [ "david_whitney" ],
+        "numeric-id" : [ "17431516" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1223580208692940801/MlZrK1GY.jpg" ],
+        "published" : [ "2008-11-17T01:40:15+00:00" ],
+        "uid" : [ "tag:twitter.com:david_whitney" ],
+        "url" : [ "https://twitter.com/david_whitney", "https://davidwhitney.co.uk", "https://davidwhitney.co.uk/now" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Netflix doing the absolute dumbest thing re account sharing is just painful to watch.\n\nJust sell a family pack. This isn't a unique problem.</div>",
+      "value" : "Netflix doing the absolute dumbest thing re account sharing is just painful to watch.\n\nJust sell a family pack. This isn't a unique problem."
+    } ],
+    "published" : [ "2023-02-01T21:37:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1620899210374651932" ],
+    "url" : [ "https://twitter.com/david_whitney/status/1620899210374651932" ]
+  },
+  "type" : [ "h-entry" ]
+}
