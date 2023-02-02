@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "127.0.0.1" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Dev" ],
+          "nickname" : [ "TwitterDev" ],
+          "numeric-id" : [ "2244994945" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U.jpg" ],
+          "published" : [ "2013-12-14T04:35:55+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterDev" ],
+          "url" : [ "https://twitter.com/TwitterDev", "https://developer.twitter.com/en/community" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Starting February 9, we will no longer support free access to the Twitter API, both v2 and v1.1. A paid basic tier will be available instead 🧵" ],
+      "published" : [ "2023-02-02T06:05:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1621026986784337922" ],
+      "url" : [ "https://twitter.com/TwitterDev/status/1621026986784337922" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Poser" ],
+        "nickname" : [ "J_Poser" ],
+        "numeric-id" : [ "277957114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1534090521316040705/rH904H7E.png" ],
+        "published" : [ "2011-04-06T09:39:14+00:00" ],
+        "uid" : [ "tag:twitter.com:J_Poser" ],
+        "url" : [ "https://twitter.com/J_Poser", "http://jposer.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I know the Open Web is dead but way to stamp on it's corpse." ],
+    "published" : [ "2023-02-02T07:38:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1621050430808629248" ],
+    "url" : [ "https://twitter.com/J_Poser/status/1621050430808629248" ]
+  },
+  "type" : [ "h-entry" ]
+}
