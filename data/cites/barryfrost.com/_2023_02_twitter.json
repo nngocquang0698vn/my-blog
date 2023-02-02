@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "First they took away my favourite app (Tweetbot), next week they’ll prevent me from syndicating notes from my own site using a free API.\nThis new direction for Twitter makes me very sad. https://twitter.com/TwitterDev/status/1621026986784337922" ],
+    "category" : [ "twitter", "api", "mastodon" ],
+    "url" : [ "https://barryfrost.com/2023/02/twitter" ],
+    "syndication" : [ "https://twitter.com/barryf/status/1621087248400760834", "https://mastodon.social/@barryf/109794579272555846" ],
+    "published" : [ "2023-02-02T10:04:51.651Z" ],
+    "updated" : [ "2023-02-02T10:05:24.963Z" ],
+    "content" : [ {
+      "html" : "<p>First they took away my favourite app (Tweetbot), next week they’ll prevent me from syndicating notes from my own site using a free API.</p>\n<p>This new direction for Twitter makes me very sad.</p>\n<blockquote class=\"twitter-tweet\"><a href=\"https://twitter.com/TwitterDev/status/1621026986784337922\">https://twitter.com/TwitterDev/status/1621026986784337922</a></blockquote>",
+      "value" : "First they took away my favourite app (Tweetbot), next week they’ll prevent me from syndicating notes from my own site using a free API.\nThis new direction for Twitter makes me very sad. https://twitter.com/TwitterDev/status/1621026986784337922",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "photo" : [ {
+          "value" : "https://barryfrost.com/barryfrost.jpg",
+          "alt" : "Photo of Barry"
+        } ],
+        "url" : [ "https://barryfrost.com/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://barryfrost.com/"
+    } ]
+  },
+  "lang" : "en-GB"
+}
