@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DevOps Rob" ],
+        "nickname" : [ "devops_rob" ],
+        "numeric-id" : [ "700426201400213505" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484461231738077184/0kSCA2I-.jpg" ],
+        "published" : [ "2016-02-18T21:06:34+00:00" ],
+        "uid" : [ "tag:twitter.com:devops_rob" ],
+        "url" : [ "https://twitter.com/devops_rob", "https://youtube.com/devopsrob", "http://linktr.ee/devopsrob" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Mocking mTLS calls has been a head scratcher for me. Mind you I'm an average Dev at best" ],
+    "published" : [ "2023-02-03T12:08:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1621480695406239744" ],
+    "url" : [ "https://twitter.com/devops_rob/status/1621480695406239744" ]
+  },
+  "type" : [ "h-entry" ]
+}
