@@ -59,12 +59,33 @@ And it'll output a Tab Separated Value (TSV) formatted output, such as:
 		<td>main</td>
 		<td>true</td>
 		<td>false</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td>jamietanna</td>
 		<td>jamietanna</td>
 		<td>master</td>
 		<td>false</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td>jamietanna</td>
@@ -88,5 +109,16 @@ And it'll output a Tab Separated Value (TSV) formatted output, such as:
 		<td>pages-testing</td>
 		<td>master</td>
 		<td>false</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 	</tr>
 </table>
