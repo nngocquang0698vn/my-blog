@@ -1,0 +1,1485 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "twitter", "oauth", "security" ],
+    "pk-num-likes" : [ "60" ],
+    "pk-num-reposts" : [ "30" ],
+    "pk-num-replies" : [ "4" ],
+    "url" : [ "https://aaronparecki.com/2023/02/02/24/oauth" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1621360865806258176", "https://aaronparecki.com/@aaronpk" ],
+    "published" : [ "2023-02-02T20:12:06-08:00" ],
+    "content" : [ {
+      "html" : "I've given many talks about how mobile apps can't be deployed with a secret, and using Twitter's 2013 \"hacks\" as an example. I'm just going to leave this completely unrelated string of random characters here for no particular reason <br> <br>GgDYlkSvaPxGxC4X8liwpUoqKwwr3lCADbz8A7ADU",
+      "value" : "I've given many talks about how mobile apps can't be deployed with a secret, and using Twitter's 2013 \"hacks\" as an example. I'm just going to leave this completely unrelated string of random characters here for no particular reason\n\nGgDYlkSvaPxGxC4X8liwpUoqKwwr3lCADbz8A7ADU"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/eugenpirogoff#likes/9325880" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eugen Pirogoff" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/eugenpirogoff" ]
+          },
+          "value" : "Eugen Pirogoff"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eugen Pirogoff"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/peraTM#likes/9325403" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "peraTM 🚜" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/peraTM" ]
+          },
+          "value" : "peraTM 🚜"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png peraTM 🚜"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/aberl#likes/70223153" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "aberl" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/aberl" ]
+          },
+          "value" : "aberl"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png aberl"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/davidak#likes/9325032" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/davidak" ]
+          },
+          "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.chaotikum.org/users/benbe#likes/3928" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "BenBE" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.chaotikum.org/users/benbe" ]
+          },
+          "value" : "BenBE"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png BenBE"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/Larymir#likes/9324911" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "spooky Ske-lil-ton 🦇" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/Larymir" ]
+          },
+          "value" : "spooky Ske-lil-ton 🦇"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png spooky Ske-lil-ton 🦇"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://slightly.social/users/oldskirt#likes/1932" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Friedemann" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://slightly.social/users/oldskirt" ]
+          },
+          "value" : "Friedemann"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Friedemann"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/katrinbretscher#likes/70220175" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Katrin Bretscher 💛💙" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/katrinbretscher" ]
+          },
+          "value" : "Katrin Bretscher 💛💙"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Katrin Bretscher 💛💙"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/trwnh#likes/70219895" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "infinite love Ⴟ" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/trwnh" ]
+          },
+          "value" : "infinite love Ⴟ"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png infinite love Ⴟ"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.me.uk/users/boffbowsh#likes/360685" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Paul Bowsher" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.me.uk/users/boffbowsh" ]
+          },
+          "value" : "Paul Bowsher"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Paul Bowsher"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://raru.re/users/bun#likes/719141" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "bun :bunRetro:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://raru.re/users/bun" ]
+          },
+          "value" : "bun :bunRetro:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png bun :bunRetro:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://dotnet.social/users/depechie#likes/14089" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Glenn Versweyveld" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://dotnet.social/users/depechie" ]
+          },
+          "value" : "Glenn Versweyveld"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Glenn Versweyveld"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://ruhr.social/users/guerda#likes/801895" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Philip Gillißen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://ruhr.social/users/guerda" ]
+          },
+          "value" : "Philip Gillißen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Philip Gillißen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/xro#likes/9323733" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "xro" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/xro" ]
+          },
+          "value" : "xro"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png xro"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://toot.kif.rocks/users/DerMolly#likes/211631" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Molly" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://toot.kif.rocks/users/DerMolly" ]
+          },
+          "value" : "Molly"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Molly"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://typo.social/users/redmer#likes/61047" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Redmer :verified:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://typo.social/users/redmer" ]
+          },
+          "value" : "Redmer :verified:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Redmer :verified:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://troet.cafe/users/KopfKrieg#likes/6392252" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Elia 🏳️‍⚧️" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://troet.cafe/users/KopfKrieg" ]
+          },
+          "value" : "Elia 🏳️‍⚧️"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Elia 🏳️‍⚧️"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://ruhr.social/users/phaus#likes/801855" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "phaus" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://ruhr.social/users/phaus" ]
+          },
+          "value" : "phaus"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png phaus"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://baraag.net/users/Satanist#likes/29084469" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "⛧Satanist⛧" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://baraag.net/users/Satanist" ]
+          },
+          "value" : "⛧Satanist⛧"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ⛧Satanist⛧"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/joel#likes/9323253" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Joël 🍵" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/joel" ]
+          },
+          "value" : "Joël 🍵"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Joël 🍵"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/users/whalecoiner#likes/539368" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O'Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://indieweb.social/users/whalecoiner" ]
+          },
+          "value" : "Charlie O'Hara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O'Hara"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/mtze#likes/9322900" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "mtze" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/mtze" ]
+          },
+          "value" : "mtze"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png mtze"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cloudisland.nz/users/LyallMorrison#likes/352742" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://cloudisland.nz/users/LyallMorrison" ]
+          },
+          "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://infosec.exchange/users/flo#likes/2853523" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Florian" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://infosec.exchange/users/flo" ]
+          },
+          "value" : "Florian"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Florian"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/users/krave#likes/14093118" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kushal Dave" ],
+            "url" : [ "https://mstdn.social/users/krave" ]
+          },
+          "value" : "Kushal Dave"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Kushal Dave"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/ths4bc#likes/70205821" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "ths4bc" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/ths4bc" ]
+          },
+          "value" : "ths4bc"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ths4bc"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://xoxo.zone/users/tristan#likes/293660" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tristan" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://xoxo.zone/users/tristan" ]
+          },
+          "value" : "Tristan"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Tristan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cleverdevil.club/users/jonathan#likes/763" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jonathan LaCour" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://cleverdevil.club/users/jonathan" ]
+          },
+          "value" : "Jonathan LaCour"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jonathan LaCour"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://sfba.social/users/dplattsf#likes/1868191" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Darren" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://sfba.social/users/dplattsf" ]
+          },
+          "value" : "Darren"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Darren"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://muenchen.social/users/slowbiex#likes/411761" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andreas S. :verified_breze:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://muenchen.social/users/slowbiex" ]
+          },
+          "value" : "Andreas S. :verified_breze:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Andreas S. :verified_breze:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://oldbytes.space/users/Seg#likes/307357" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "GEM is truly truly outrageous" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://oldbytes.space/users/Seg" ]
+          },
+          "value" : "GEM is truly truly outrageous"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png GEM is truly truly outrageous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/users/geekgonecrazy#likes/3900968" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Ogle :linux: :manjaro:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://fosstodon.org/users/geekgonecrazy" ]
+          },
+          "value" : "Aaron Ogle :linux: :manjaro:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Ogle :linux: :manjaro:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://queer.party/users/StarKat99#likes/2273350" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kathryn Long" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://queer.party/users/StarKat99" ]
+          },
+          "value" : "Kathryn Long"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Kathryn Long"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://youthweb.social/users/art4#likes/1113" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Artur Weigandt" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://youthweb.social/users/art4" ]
+          },
+          "value" : "Artur Weigandt"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Artur Weigandt"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.coop/users/J12t#likes/1047236" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Johannes Ernst" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.coop/users/J12t" ]
+          },
+          "value" : "Johannes Ernst"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Johannes Ernst"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/Semtex#likes/9321043" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/Semtex" ]
+          },
+          "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://home.social/users/syrc#likes/1035131" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "syrc" ],
+            "url" : [ "https://home.social/users/syrc" ]
+          },
+          "value" : "syrc"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png syrc"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/Balu#likes/9320850" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "balu" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/Balu" ]
+          },
+          "value" : "balu"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png balu"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://machteburch.social/users/lespocky#likes/48668" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "alex" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://machteburch.social/users/lespocky" ]
+          },
+          "value" : "alex"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png alex"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/SpaceGeek#likes/9320710" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dan" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/SpaceGeek" ]
+          },
+          "value" : "Dan"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.neither-nor.net/users/kristian#likes/106" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kristian" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.neither-nor.net/users/kristian" ]
+          },
+          "value" : "Kristian"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Kristian"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://medibubble.org/users/nieselregen#likes/229393" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nieselregen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://medibubble.org/users/nieselregen" ]
+          },
+          "value" : "Nieselregen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Nieselregen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.au/users/phiali#likes/500852" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Alistair" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.au/users/phiali" ]
+          },
+          "value" : "Alistair"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Alistair"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/karabaic#likes/70192343" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jack the nonabrasive" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/karabaic" ]
+          },
+          "value" : "jack the nonabrasive"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jack the nonabrasive"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.online/users/ryanmfrancis#likes/8051838" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ryan Francis" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.online/users/ryanmfrancis" ]
+          },
+          "value" : "Ryan Francis"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ryan Francis"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mas.to/users/jikononi#likes/6769323" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Korewa Onajijiko" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mas.to/users/jikononi" ]
+          },
+          "value" : "Korewa Onajijiko"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Korewa Onajijiko"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/users/bismark#likes/538790" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ryan Johnson" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://indieweb.social/users/bismark" ]
+          },
+          "value" : "Ryan Johnson"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ryan Johnson"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/mylesb#likes/70190721" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Myles B." ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/mylesb" ]
+          },
+          "value" : "Myles B."
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Myles B."
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-1511207598841815041" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Petra Verbruggen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/petratjev" ]
+          },
+          "value" : "Petra Verbruggen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Petra Verbruggen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-5117" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mike Merrill" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/kmikeym" ]
+          },
+          "value" : "Mike Merrill"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Mike Merrill"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-15119564" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Karl McGuinness" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/jankytweet" ]
+          },
+          "value" : "Karl McGuinness"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Karl McGuinness"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-51185384" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shawn Recinto 💻🎮💡" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/shawnrecinto" ]
+          },
+          "value" : "Shawn Recinto 💻🎮💡"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Shawn Recinto 💻🎮💡"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-290319395" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "tim cappasskey" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/timcappalli" ]
+          },
+          "value" : "tim cappasskey"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png tim cappasskey"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-2788841" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Find me at gRegorLove.com" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/gRegorLove" ]
+          },
+          "value" : "Find me at gRegorLove.com"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Find me at gRegorLove.com"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-758056" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Wallace 🏴‍☠️" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/ecrosstexas" ]
+          },
+          "value" : "Eric Wallace 🏴‍☠️"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eric Wallace 🏴‍☠️"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-929740905459994624" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kasper Zutterman" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/KasperZutterman" ]
+          },
+          "value" : "Kasper Zutterman"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Kasper Zutterman"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-322486110" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Gary Crye" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/GaryGSC" ]
+          },
+          "value" : "Gary Crye"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Gary Crye"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-28089333" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Philipp Schürmann" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/MrGoro" ]
+          },
+          "value" : "Philipp Schürmann"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Philipp Schürmann"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-706081289691074560" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "de 🥃" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/densi_ls" ]
+          },
+          "value" : "de 🥃"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png de 🥃"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1621360865806258176#favorited-by-14268639" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "stl-place" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/stlplace" ]
+          },
+          "value" : "stl-place"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png stl-place"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.anoxinon.de/users/sico93/statuses/109800195566915408/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "nano" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.anoxinon.de/users/sico93" ]
+          },
+          "value" : "nano"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png nano"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/overflo/statuses/109800186023463968/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "overflo ☑️ ⭐⭐⭐" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/overflo" ]
+          },
+          "value" : "overflo ☑️ ⭐⭐⭐"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png overflo ☑️ ⭐⭐⭐"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://akko.unix.dog/activities/33f3d765-413d-4365-895e-5916acab5e38" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "fruye‮" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://akko.unix.dog/users/fruye" ]
+          },
+          "value" : "fruye‮"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png fruye‮"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.chaotikum.org/users/benbe/statuses/109800111124830829/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "BenBE" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.chaotikum.org/users/benbe" ]
+          },
+          "value" : "BenBE"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png BenBE"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/Larymir/statuses/109800107186091472/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "spooky Ske-lil-ton 🦇" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/Larymir" ]
+          },
+          "value" : "spooky Ske-lil-ton 🦇"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png spooky Ske-lil-ton 🦇"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/trwnh/statuses/109800046644413162/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "infinite love Ⴟ" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/trwnh" ]
+          },
+          "value" : "infinite love Ⴟ"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png infinite love Ⴟ"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chitter.xyz/users/faoluin/statuses/109799961267018592/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Softwarewolf" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chitter.xyz/users/faoluin" ]
+          },
+          "value" : "Softwarewolf"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Softwarewolf"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://ak.kawen.space/activities/591222ba-7d6f-4556-943c-4014bfc62042" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "still aetios anyway" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://ak.kawen.space/users/aetios" ]
+          },
+          "value" : "still aetios anyway"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png still aetios anyway"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://masto.ml/users/luttyz/statuses/109799949966994025/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Luttyz // Gabe :mutant_awoo:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://masto.ml/users/luttyz" ]
+          },
+          "value" : "Luttyz // Gabe :mutant_awoo:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Luttyz // Gabe :mutant_awoo:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://is-a.wyvern.rip/notes/9aruhg6p2v/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Volpeon :drgn_verified:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://is-a.wyvern.rip/users/9a44652ole" ]
+          },
+          "value" : "Volpeon :drgn_verified:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Volpeon :drgn_verified:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.communick.com/users/raphael/statuses/109799924773148284/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Raphael Lullis" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.communick.com/users/raphael" ]
+          },
+          "value" : "Raphael Lullis"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Raphael Lullis"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://smnn.ch/users/nohillside/statuses/109799910649834669/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Patrick Seemann" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://smnn.ch/users/nohillside" ]
+          },
+          "value" : "Patrick Seemann"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Patrick Seemann"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/xro/statuses/109799904987707266/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "xro" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/xro" ]
+          },
+          "value" : "xro"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png xro"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/fluffel/statuses/109799895267928553/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "fluffel" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/fluffel" ]
+          },
+          "value" : "fluffel"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png fluffel"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://toot.kif.rocks/users/DerMolly/statuses/109799884396183828/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Molly" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://toot.kif.rocks/users/DerMolly" ]
+          },
+          "value" : "Molly"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Molly"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/rschildmeijer/status/1621425020034596864" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Roger Schildmeijer" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/rschildmeijer" ]
+          },
+          "value" : "Roger Schildmeijer"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Roger Schildmeijer"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://toot.kif.rocks/users/Hackhoernchen/statuses/109799830696993114/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hackhörnchen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://toot.kif.rocks/users/Hackhoernchen" ]
+          },
+          "value" : "Hackhörnchen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Hackhörnchen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.ie/users/nigelbabu/statuses/109799828379988215/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nigel" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.ie/users/nigelbabu" ]
+          },
+          "value" : "Nigel"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Nigel"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/mrtoto/statuses/109799827322622000/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "toto" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/mrtoto" ]
+          },
+          "value" : "toto"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png toto"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://tech.lgbt/users/chris_evelyn/statuses/109799822206675444/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris Evelyn" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://tech.lgbt/users/chris_evelyn" ]
+          },
+          "value" : "Chris Evelyn"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Chris Evelyn"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/users/whalecoiner/statuses/109799806805254240/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O'Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://indieweb.social/users/whalecoiner" ]
+          },
+          "value" : "Charlie O'Hara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O'Hara"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cleverdevil.club/users/jonathan/statuses/109799461349836177/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jonathan LaCour" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://cleverdevil.club/users/jonathan" ]
+          },
+          "value" : "Jonathan LaCour"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jonathan LaCour"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://sfba.social/users/dplattsf/statuses/109799452080962494/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Darren" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://sfba.social/users/dplattsf" ]
+          },
+          "value" : "Darren"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Darren"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://youthweb.social/users/art4/statuses/109799302304270230/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Artur Weigandt" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://youthweb.social/users/art4" ]
+          },
+          "value" : "Artur Weigandt"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Artur Weigandt"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/MrGoro/status/1621388925007699969" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Philipp Schürmann" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/MrGoro" ]
+          },
+          "value" : "Philipp Schürmann"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Philipp Schürmann"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/Balu/statuses/109799197206560552/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "balu" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/Balu" ]
+          },
+          "value" : "balu"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png balu"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/users/SpaceGeek/statuses/109799123930470117/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dan" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://chaos.social/users/SpaceGeek" ]
+          },
+          "value" : "Dan"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bonn.social/users/cryptoparty/statuses/109799078586139503/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Cryptoparty Köln-Bonn" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://bonn.social/users/cryptoparty" ]
+          },
+          "value" : "Cryptoparty Köln-Bonn"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Cryptoparty Köln-Bonn"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/andreasdotorg/statuses/109799060683376108/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "andreasdotorg" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/andreasdotorg" ]
+          },
+          "value" : "andreasdotorg"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png andreasdotorg"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/users/jwhevans/statuses/109798894836656567/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jwhevans" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mstdn.social/users/jwhevans" ]
+          },
+          "value" : "jwhevans"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jwhevans"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/ricfink/status/1621394379238785024" ],
+        "published" : [ "2023-02-03T06:25:18+00:00" ],
+        "content" : [ {
+          "html" : "OK Aaron, I successfully decrypted it. It says:\n\"OAuth is the Breakfast of Champions!\"\nBuy me lunch and I'll tell you how I did it!\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "OK Aaron, I successfully decrypted it. It says: \"OAuth is the Breakfast of Champions!\" Buy me lunch and I'll tell you how I did it!"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ric Fink" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/ricfink" ]
+          },
+          "value" : "Ric Fink"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ric Fink twitter.com/ricfink OK Aaron, I successfully decrypted it. It says: \"OAuth is the Breakfast of Champions!\" Buy me lunch and I'll tell you how I did it! Fri, Feb 3, 2023 6:25am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/doholleran/status/1621377284514127873" ],
+        "published" : [ "2023-02-03T05:17:23+00:00" ],
+        "content" : [ {
+          "html" : "How did you guess my seed phrase?\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "How did you guess my seed phrase?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Daniel O'Holleran" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/doholleran" ]
+          },
+          "value" : "Daniel O'Holleran"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Daniel O'Holleran twitter.com/doholleran How did you guess my seed phrase? Fri, Feb 3, 2023 5:17am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://appdot.net/@jgordon/109798989644412260" ],
+        "published" : [ "2023-02-02T20:47:02-08:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> </p><p>\"Weirdly\" that string has google hits.</p>",
+          "value" : "@aaronpk\n\"Weirdly\" that string has google hits."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "John Gordon" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://appdot.net/users/jgordon" ]
+          },
+          "value" : "John Gordon"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png John Gordon appdot.net/users/jgordon\n@aaronpk\n\"Weirdly\" that string has google hits. https://pkcdn.xyz/cdn.masto.host/be30e7d49114182ecc105c38be0104f4b483fd2caa33a621db89ea414d621693.png Thu, Feb 2, 2023 8:47pm -08:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.veraciousnetwork.com/@cdp1337/109798894976533666" ],
+        "published" : [ "2023-02-02T20:22:57-08:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> From a dev standpoint it's just good practice, right?  Distributing your consumer secret keys to so many devices so your team never misplaces it, right?....</p><p>It's like when I share my ssh private key in my public github repo for backup purposes along with a list of all servers it can access.  (/sarcasm)</p>",
+          "value" : "@aaronpk From a dev standpoint it's just good practice, right? Distributing your consumer secret keys to so many devices so your team never misplaces it, right?....\nIt's like when I share my ssh private key in my public github repo for backup purposes along with a list of all servers it can access. (/sarcasm)"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "social.veraciousnetwork.com/users/cdp1337" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.veraciousnetwork.com/users/cdp1337" ]
+          },
+          "value" : "social.veraciousnetwork.com/users/cdp1337"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png social.veraciousnetwork.com/users/cdp1337\n@aaronpk From a dev standpoint it's just good practice, right? Distributing your consumer secret keys to so many devices so your team never misplaces it, right?....\nIt's like when I share my ssh private key in my public github repo for backup purposes along with a list of all servers it can access. (/sarcasm) Thu, Feb 2, 2023 8:22pm -08:00"
+    } ]
+  },
+  "id" : "post-id-96286"
+}
