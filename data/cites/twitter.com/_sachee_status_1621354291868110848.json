@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "127.0.0.1" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Dev" ],
+          "nickname" : [ "TwitterDev" ],
+          "numeric-id" : [ "2244994945" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U.jpg" ],
+          "published" : [ "2013-12-14T04:35:55+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterDev" ],
+          "url" : [ "https://twitter.com/TwitterDev", "https://developer.twitter.com/en/community" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Starting February 9, we will no longer support free access to the Twitter API, both v2 and v1.1. A paid basic tier will be available instead 🧵" ],
+      "published" : [ "2023-02-02T06:05:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1621026986784337922" ],
+      "url" : [ "https://twitter.com/TwitterDev/status/1621026986784337922" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/twitterdev/sta…" ],
+      "url" : [ "https://twitter.com/twitterdev/status/1621026986784337922" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "pdx | sf" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sachee@macaw.social" ],
+        "nickname" : [ "sachee" ],
+        "numeric-id" : [ "69721758" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576669552678559744/X3haCdsw.jpg" ],
+        "published" : [ "2009-08-28T23:11:59+00:00" ],
+        "uid" : [ "tag:twitter.com:sachee" ],
+        "url" : [ "https://twitter.com/sachee", "http://sashatsolomon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "it’s like each decision is the one you’d make if you wanted to kill twitter\n<a class=\"tag\" href=\"https://twitter.com/twitterdev/status/1621026986784337922\">twitter.com/twitterdev/sta…</a>",
+      "value" : "it’s like each decision is the one you’d make if you wanted to kill twitter"
+    } ],
+    "published" : [ "2023-02-03T03:46:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1621354291868110848" ],
+    "url" : [ "https://twitter.com/sachee/status/1621354291868110848" ]
+  },
+  "type" : [ "h-entry" ]
+}
