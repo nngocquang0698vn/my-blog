@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pig’s Eye, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "April King 🌀" ],
+        "nickname" : [ "CubicleApril" ],
+        "numeric-id" : [ "88974227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1584947376405479424/xyE6qu0O.jpg" ],
+        "published" : [ "2009-11-10T17:19:57+00:00" ],
+        "uid" : [ "tag:twitter.com:CubicleApril" ],
+        "url" : [ "https://twitter.com/CubicleApril", "https://grayduck.mn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">truly hope that nobody writes a twitter API library using the official client’s API keys, as that would almost certainly violate their terms of service.\n\nthese are the keys that they would want to avoid using:\n\n<a href=\"https://gist.github.com/shobotch/5160017\">gist.github.com/shobotch/51600…</a></div>",
+      "value" : "truly hope that nobody writes a twitter API library using the official client’s API keys, as that would almost certainly violate their terms of service.\n\nthese are the keys that they would want to avoid using:\n\ngist.github.com/shobotch/51600…"
+    } ],
+    "published" : [ "2023-02-02T17:00:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1621191838341206019" ],
+    "url" : [ "https://twitter.com/CubicleApril/status/1621191838341206019" ]
+  },
+  "type" : [ "h-entry" ]
+}
