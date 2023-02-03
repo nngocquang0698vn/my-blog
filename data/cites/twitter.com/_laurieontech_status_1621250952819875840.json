@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I genuinely wonder how many twitter accounts will stop tweeting overnight because they were bots run using the API." ],
+    "published" : [ "2023-02-02T20:55:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1621250952819875840" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1621250952819875840" ]
+  },
+  "type" : [ "h-entry" ]
+}
