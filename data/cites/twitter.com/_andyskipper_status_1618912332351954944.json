@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Skipper" ],
+        "nickname" : [ "andyskipper" ],
+        "numeric-id" : [ "3129591" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1052631232209653761/5-_kP-8Q.jpg" ],
+        "published" : [ "2007-04-01T14:46:24+00:00" ],
+        "uid" : [ "tag:twitter.com:andyskipper" ],
+        "url" : [ "https://twitter.com/andyskipper", "https://ctocraft.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Blogumentation - Writing Blog Posts as a Method of Documentation · Jamie Tanna | Software Engineer\n<a href=\"https://zpr.io/aEzdWHdBfQ4K\">zpr.io/aEzdWHdBfQ4K</a>\nWhy I'm st...</div>",
+      "value" : "Blogumentation - Writing Blog Posts as a Method of Documentation · Jamie Tanna | Software Engineer\nzpr.io/aEzdWHdBfQ4K\nWhy I'm st..."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FneIL7bXkAABuol.jpg" ],
+    "published" : [ "2023-01-27T10:02:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1618912332351954944" ],
+    "url" : [ "https://twitter.com/andyskipper/status/1618912332351954944" ]
+  },
+  "type" : [ "h-entry" ]
+}
