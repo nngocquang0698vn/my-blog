@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🐘 brainmage@ohai.social" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Grumplestiltskin twitch.tv/brainmage" ],
+          "nickname" : [ "Brainmage" ],
+          "numeric-id" : [ "161652701" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3001976878/92a34d3c4381befa4ed082ee35df4e28.png" ],
+          "published" : [ "2010-07-01T11:52:34+00:00" ],
+          "uid" : [ "tag:twitter.com:Brainmage" ],
+          "url" : [ "https://twitter.com/Brainmage", "http://www.brainmage.co.uk", "http://Twitch.tv/brainmage", "http://spotlight.com/9333-1277-7897", "http://ko-fi.com/guy" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Yeah, I'm doing great, actually, thanks for asking" ],
+      "published" : [ "2023-02-03T18:03:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1621570209046749184" ],
+      "url" : [ "https://twitter.com/Brainmage/status/1621570209046749184" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1621570150221611008/pu/vid/720x1280/1OxzVgkPK01LSrx4.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/brainmage/stat…" ],
+      "url" : [ "https://twitter.com/brainmage/status/1621570209046749184" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568483994471223297/D7gkmiGs.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This’d keep you on your toes. If you have any left.\n<a class=\"tag\" href=\"https://twitter.com/brainmage/status/1621570209046749184\">twitter.com/brainmage/stat…</a>",
+      "value" : "This’d keep you on your toes. If you have any left."
+    } ],
+    "published" : [ "2023-02-04T07:45:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1621776905119666178" ],
+    "url" : [ "https://twitter.com/matryer/status/1621776905119666178" ]
+  },
+  "type" : [ "h-entry" ]
+}
