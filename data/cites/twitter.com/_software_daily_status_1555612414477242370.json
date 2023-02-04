@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Software Daily" ],
+        "nickname" : [ "software_daily" ],
+        "numeric-id" : [ "3293740627" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543173633379823616/cUtQwskW.png" ],
+        "published" : [ "2015-07-25T21:51:00+00:00" ],
+        "uid" : [ "tag:twitter.com:software_daily" ],
+        "url" : [ "https://twitter.com/software_daily", "https://softwareengineeringdaily.com/", "http://youtube.com/@SoftwareDaily" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It is with terrible sadness that we inform the SED community that Jeff passed away on July 1, 2022.\n\nHis family expresses deep gratitude to the SED community for supporting Jeff over the years and has kindly requested privacy during this difficult time.\n\n1/2</div>",
+      "value" : "It is with terrible sadness that we inform the SED community that Jeff passed away on July 1, 2022.\n\nHis family expresses deep gratitude to the SED community for supporting Jeff over the years and has kindly requested privacy during this difficult time.\n\n1/2"
+    } ],
+    "published" : [ "2022-08-05T17:51:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1555612414477242370" ],
+    "url" : [ "https://twitter.com/software_daily/status/1555612414477242370" ]
+  },
+  "type" : [ "h-entry" ]
+}
