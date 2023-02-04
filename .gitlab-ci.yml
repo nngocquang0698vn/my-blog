@@ -35,6 +35,7 @@ build:
     paths:
       - public/
   interruptible: true
+  timeout: 25 minutes
   script:
     - hugo --verbose --minify
   only:
