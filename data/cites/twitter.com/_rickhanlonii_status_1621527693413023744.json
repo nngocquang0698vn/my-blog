@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ohio" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ricky" ],
+        "nickname" : [ "rickhanlonii" ],
+        "numeric-id" : [ "244965762" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589020445780705280/hNHYh1Z0.jpg" ],
+        "published" : [ "2011-01-30T15:13:00+00:00" ],
+        "uid" : [ "tag:twitter.com:rickhanlonii" ],
+        "url" : [ "https://twitter.com/rickhanlonii", "http://rickhanlon.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The reason all your favorite apps start to suck over time is because as engineering teams scale, the goal changes from building dope shit to building for metrics and there’s no known way to measure quality" ],
+    "published" : [ "2023-02-03T15:15:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1621527693413023744" ],
+    "url" : [ "https://twitter.com/rickhanlonii/status/1621527693413023744" ]
+  },
+  "type" : [ "h-entry" ]
+}
