@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Software Daily" ],
+        "nickname" : [ "software_daily" ],
+        "numeric-id" : [ "3293740627" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543173633379823616/cUtQwskW.png" ],
+        "published" : [ "2015-07-25T21:51:00+00:00" ],
+        "uid" : [ "tag:twitter.com:software_daily" ],
+        "url" : [ "https://twitter.com/software_daily", "https://softwareengineeringdaily.com/", "http://youtube.com/@SoftwareDaily" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We move forward from this with a heavy heart, but we believe in Jeff's vision and what he wanted to build. We will continue everyday trying to create content he would be proud of and honor his legacy.\n\n2/2</div>",
+      "value" : "We move forward from this with a heavy heart, but we believe in Jeff's vision and what he wanted to build. We will continue everyday trying to create content he would be proud of and honor his legacy.\n\n2/2"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/software_daily/status/1555612414477242370" ],
+    "published" : [ "2022-08-05T17:51:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1555612417899769857" ],
+    "url" : [ "https://twitter.com/software_daily/status/1555612417899769857" ]
+  },
+  "type" : [ "h-entry" ]
+}
