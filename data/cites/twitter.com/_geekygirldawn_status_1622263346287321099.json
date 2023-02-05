@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Dawn Foster" ],
+        "nickname" : [ "geekygirldawn" ],
+        "numeric-id" : [ "793351" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1398270223082524672/-X26MHsH.jpg" ],
+        "published" : [ "2007-02-25T03:01:54+00:00" ],
+        "uid" : [ "tag:twitter.com:geekygirldawn" ],
+        "url" : [ "https://twitter.com/geekygirldawn", "http://fastwonderblog.com/", "https://hachyderm.io/@geekygirldawn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I had a blast at <a href=\"https://twitter.com/search?q=%23FOSDEM\">#FOSDEM</a> again this year. I’ve organized tech events, and it’s tough, so a huge thank you to the all volunteer team who does the hard work to make it amazing every year. 💖💖",
+      "value" : "I had a blast at #FOSDEM again this year. I’ve organized tech events, and it’s tough, so a huge thank you to the all volunteer team who does the hard work to make it amazing every year. 💖💖"
+    } ],
+    "published" : [ "2023-02-05T15:58:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1622263346287321099" ],
+    "url" : [ "https://twitter.com/geekygirldawn/status/1622263346287321099" ]
+  },
+  "type" : [ "h-entry" ]
+}
