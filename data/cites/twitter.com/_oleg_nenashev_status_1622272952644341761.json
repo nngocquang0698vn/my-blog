@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev 🤍💙🤍" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501485394432516099/kuZTQVCe.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Thanks to <a href=\"https://twitter.com/fosdem\">@fosdem</a> and all organizers for bringing so many open source communities together 🙇\n\n<a href=\"https://twitter.com/search?q=%23FOSDEM2023\">#FOSDEM2023</a></div>",
+      "value" : "Thanks to @fosdem and all organizers for bringing so many open source communities together 🙇\n\n#FOSDEM2023"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Auditoire Paul-Emile Janson" ],
+        "uid" : [ "tag:twitter.com:104d97826c17e002" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FoN4px9X0AcbQ0t.jpg" ],
+    "published" : [ "2023-02-05T16:36:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1622272952644341761" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1622272952644341761" ]
+  },
+  "type" : [ "h-entry" ]
+}
