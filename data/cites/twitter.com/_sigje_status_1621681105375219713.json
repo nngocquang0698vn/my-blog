@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "kate | is working" ],
+          "nickname" : [ "akatepockett" ],
+          "numeric-id" : [ "1323680732619829248" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1597806824282914816/1dI-Dwgl.jpg" ],
+          "published" : [ "2020-11-03T17:37:40+00:00" ],
+          "uid" : [ "tag:twitter.com:akatepockett" ],
+          "url" : [ "https://twitter.com/akatepockett", "https://ko-fi.com/akatepockett" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "i have no words" ],
+      "photo" : [ "https://pbs.twimg.com/media/FoES890aQAAW789.jpg" ],
+      "published" : [ "2023-02-03T19:55:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1621598186061316096" ],
+      "url" : [ "https://twitter.com/akatepockett/status/1621598186061316096" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sparklelandia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jennifer Davis" ],
+        "nickname" : [ "sigje" ],
+        "numeric-id" : [ "17527655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477874340028813314/ttyMhW2d.jpg" ],
+        "published" : [ "2008-11-21T00:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:sigje" ],
+        "url" : [ "https://twitter.com/sigje", "http://jennifer.dev", "http://pronoun.is/she?or=they" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've \"only\" written 2 books and it's not my day job and I'm totally an author. ALSO. \n\nIf you write stories for nanowrimo, you're totally an author. \n\nIf you write blog posts and publish them to <a href=\"http://dev.to\">dev.to</a>, you're totally an author. \n\n🎶If you write, you're an author</div>",
+      "value" : "I've \"only\" written 2 books and it's not my day job and I'm totally an author. ALSO. \n\nIf you write stories for nanowrimo, you're totally an author. \n\nIf you write blog posts and publish them to dev.to, you're totally an author. \n\n🎶If you write, you're an author"
+    } ],
+    "published" : [ "2023-02-04T01:24:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1621681105375219713" ],
+    "url" : [ "https://twitter.com/sigje/status/1621681105375219713" ]
+  },
+  "type" : [ "h-entry" ]
+}
