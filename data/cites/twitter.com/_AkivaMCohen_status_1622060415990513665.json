@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@AkivaMCohen@mastodon.sdf.org" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Akiva Cohen" ],
+        "nickname" : [ "AkivaMCohen" ],
+        "numeric-id" : [ "47967486" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1215703359048560645/gJpBBRHi.jpg" ],
+        "published" : [ "2009-06-17T13:57:02+00:00" ],
+        "uid" : [ "tag:twitter.com:AkivaMCohen" ],
+        "url" : [ "https://twitter.com/AkivaMCohen", "http://kusklaw.com", "https://mastodon.sdf.org/@AkivaMCohen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My guy, creating a derivative work is a copyright infringement. This doesn't \"turn images royalty free\" it opens you up to *massive* copyright damages (running the AI on images will be evidence of willful infringement).\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ImgCreatorAI\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/heyBarsee\"></a>",
+      "value" : "My guy, creating a derivative work is a copyright infringement. This doesn't \"turn images royalty free\" it opens you up to *massive* copyright damages (running the AI on images will be evidence of willful infringement)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/heyBarsee/status/1621411036426280961" ],
+    "published" : [ "2023-02-05T02:31:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1622060415990513665" ],
+    "url" : [ "https://twitter.com/AkivaMCohen/status/1622060415990513665" ]
+  },
+  "type" : [ "h-entry" ]
+}
