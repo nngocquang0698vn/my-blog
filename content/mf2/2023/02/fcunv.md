@@ -11,7 +11,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "I definitely have this too, but I'll usually just interrupt the person with an \"oh, sorry yeah (answer)\" instead of waiting for them to repeat cause I don't wanna wait 🥲"
+      "value" : "I definitely have this too - and wondering if it's auditory processing disorder - but I'll usually just interrupt the person with an \"oh, sorry yeah (answer)\" instead of waiting for them to repeat cause I don't wanna wait ����"
     } ]
   },
   "kind" : "replies",
