@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "I (ADHD) definitely unmasked over the pandemic and it became much more obvious before [I got diagnosed](https://www.jvt.me/posts/2022/10/04/adhd/)"
+      "value" : "I (ADHD) definitely unmasked over the pandemic and it became much more obvious before [I got diagnosed](https://www.jvt.me/posts/2022/10/04/adhd/)\r\n\r\nPlus visibility from people like you and my TikTok feed made it more visible!"
     } ]
   },
   "kind" : "replies",
