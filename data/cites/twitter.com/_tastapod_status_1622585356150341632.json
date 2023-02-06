@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bristol, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Daniel Cranney 🇬🇧" ],
+          "nickname" : [ "danielcranney" ],
+          "numeric-id" : [ "1360916557476597768" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1574065203947487233/lVkQutbR.jpg" ],
+          "published" : [ "2021-02-14T11:39:32+00:00" ],
+          "uid" : [ "tag:twitter.com:danielcranney" ],
+          "url" : [ "https://twitter.com/danielcranney", "https://bio.link/danielcranney", "http://ColorHub.app", "http://ProfileMe.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Confession: I don’t really know what business logic is." ],
+      "published" : [ "2023-02-03T07:46:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1621414803599249409" ],
+      "url" : [ "https://twitter.com/danielcranney/status/1621414803599249409" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Terhorst-North @tastapod@mastodon.social" ],
+        "nickname" : [ "tastapod" ],
+        "numeric-id" : [ "14526430" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796961836/bio-photo-square.jpg" ],
+        "published" : [ "2008-04-25T13:46:38+00:00" ],
+        "uid" : [ "tag:twitter.com:tastapod" ],
+        "url" : [ "https://twitter.com/tastapod", "https://dannorth.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is a fantastic way to flush out the \"If you can't explain your job to a 7-year-old then you don't understand it\" replies.\n\nThere are some real fundamentals in our industry that everyone assumes that everyone else knows. And when you poke at the edges, we really don't!</div>",
+      "value" : "This is a fantastic way to flush out the \"If you can't explain your job to a 7-year-old then you don't understand it\" replies.\n\nThere are some real fundamentals in our industry that everyone assumes that everyone else knows. And when you poke at the edges, we really don't!"
+    } ],
+    "published" : [ "2023-02-06T13:17:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1622585356150341632" ],
+    "url" : [ "https://twitter.com/tastapod/status/1622585356150341632" ]
+  },
+  "type" : [ "h-entry" ]
+}
