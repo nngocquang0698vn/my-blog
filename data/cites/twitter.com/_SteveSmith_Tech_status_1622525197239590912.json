@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Between Reality and Unicorns" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kris Buytaert" ],
+          "nickname" : [ "KrisBuytaert" ],
+          "numeric-id" : [ "1749311" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1585887819909799936/k02S4YFu.jpg" ],
+          "published" : [ "2007-03-21T14:07:18+00:00" ],
+          "uid" : [ "tag:twitter.com:KrisBuytaert" ],
+          "url" : [ "https://twitter.com/KrisBuytaert", "http://krisbuytaert.be" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Your source code is NOT your single source of truth ,,  it never was :)  <a href=\"https://twitter.com/search?q=%23cfgmgmtcamp\">#cfgmgmtcamp</a>",
+        "value" : "Your source code is NOT your single source of truth ,,  it never was :)  #cfgmgmtcamp"
+      } ],
+      "published" : [ "2023-02-06T09:13:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1622523923911831552" ],
+      "url" : [ "https://twitter.com/KrisBuytaert/status/1622523923911831552" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Smith" ],
+        "nickname" : [ "SteveSmith_Tech" ],
+        "numeric-id" : [ "404991267" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501575939515469825/MrYHdBEO.jpg" ],
+        "published" : [ "2011-11-04T18:00:19+00:00" ],
+        "uid" : [ "tag:twitter.com:SteveSmith_Tech" ],
+        "url" : [ "https://twitter.com/SteveSmith_Tech", "http://www.stevesmith.tech", "http://leanpub.com/u/stevesmith", "http://stevesmith.tech", "http://equalexperts.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Production is your single source of truth <a href=\"https://twitter.com/search?q=%23notsorry\">#notsorry</a>",
+      "value" : "Production is your single source of truth #notsorry"
+    } ],
+    "published" : [ "2023-02-06T09:18:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1622525197239590912" ],
+    "url" : [ "https://twitter.com/SteveSmith_Tech/status/1622525197239590912" ]
+  },
+  "type" : [ "h-entry" ]
+}
