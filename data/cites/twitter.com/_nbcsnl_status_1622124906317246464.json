@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "30 Rock" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Saturday Night Live - SNL" ],
+        "nickname" : [ "nbcsnl" ],
+        "numeric-id" : [ "28221296" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576416545764425730/e72euLlL.jpg" ],
+        "published" : [ "2009-04-01T23:06:46+00:00" ],
+        "uid" : [ "tag:twitter.com:nbcsnl" ],
+        "url" : [ "https://twitter.com/nbcsnl", "http://youtube.com/snl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Lisa’s just trying to eat her steak in peace" ],
+    "published" : [ "2023-02-05T06:48:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1622124906317246464" ],
+    "url" : [ "https://twitter.com/nbcsnl/status/1622124906317246464" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1622121882962247681/vid/1920x1080/C3fZ3IK_63tqu4dO.mp4?tag=16" ]
+  },
+  "type" : [ "h-entry" ]
+}
