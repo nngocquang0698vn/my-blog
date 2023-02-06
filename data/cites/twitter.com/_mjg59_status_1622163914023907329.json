@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is definitely a man who understands his product before making decisions" ],
+    "photo" : [ {
+      "alt" : "Screenshot of an Elon Musk tweet reading \"Responding to feedback, Twitter will enable a light, write-only API for bots providing good content that is free\"",
+      "value" : "https://pbs.twimg.com/media/FoMVYD6acAETKLy.jpg"
+    } ],
+    "published" : [ "2023-02-05T09:23:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1622163914023907329" ],
+    "url" : [ "https://twitter.com/mjg59/status/1622163914023907329" ]
+  },
+  "type" : [ "h-entry" ]
+}
