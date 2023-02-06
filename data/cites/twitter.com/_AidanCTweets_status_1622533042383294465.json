@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dublin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aidan Comerford" ],
+        "nickname" : [ "AidanCTweets" ],
+        "numeric-id" : [ "362946550" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1197071789484064769/bjEacw0m.jpg" ],
+        "published" : [ "2011-08-27T07:39:35+00:00" ],
+        "uid" : [ "tag:twitter.com:AidanCTweets" ],
+        "url" : [ "https://twitter.com/AidanCTweets" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ITVX\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Iromg\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Iromg/status/1622342244182130688" ],
+    "photo" : [ "https://pbs.twimg.com/media/FoRlM_CXgAAmvb5.jpg" ],
+    "published" : [ "2023-02-06T09:49:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1622533042383294465" ],
+    "url" : [ "https://twitter.com/AidanCTweets/status/1622533042383294465" ]
+  },
+  "type" : [ "h-entry" ]
+}
