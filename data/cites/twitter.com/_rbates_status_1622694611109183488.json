@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Southern Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Bates" ],
+        "nickname" : [ "rbates" ],
+        "numeric-id" : [ "14246143" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/52189024/ryan_bates_cropped.jpg" ],
+        "published" : [ "2008-03-28T19:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:rbates" ],
+        "url" : [ "https://twitter.com/rbates", "http://railscasts.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you make something that you personally want and can’t find anywhere else, chances are others will want it too. This is how RailsCasts became successful with zero marketing." ],
+    "published" : [ "2023-02-06T20:31:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1622694611109183488" ],
+    "url" : [ "https://twitter.com/rbates/status/1622694611109183488" ]
+  },
+  "type" : [ "h-entry" ]
+}
