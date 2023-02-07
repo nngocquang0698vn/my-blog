@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy, The Patronizing Saint of DevOps 🇺🇲🇺🇦" ],
+        "nickname" : [ "IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603859732556660738/XH-zOqQ3.png" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "OH: Do you mean \"Dev\" or \"Devil's\" advocate?" ],
+    "published" : [ "2023-02-07T02:11:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1622779951773622272" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1622779951773622272" ]
+  },
+  "type" : [ "h-entry" ]
+}
