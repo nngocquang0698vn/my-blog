@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://mastodon.kinlane.com/@kin/109820606544790027" ],
+    "uid" : [ "https://mastodon.kinlane.com/@kin/109820606544790027" ],
+    "published" : [ "2023-02-07T00:24:29+00:00" ],
+    "content" : [ {
+      "html" : "<p>You done working yet?</p>",
+      "value" : "You done working yet?",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kin Lane" ],
+        "url" : [ "https://mastodon.kinlane.com/@kin" ],
+        "photo" : [ {
+          "value" : "https://s3.amazonaws.com/files.mastodon.kinlane.com/accounts/avatars/109/401/910/211/248/521/original/ffa09bc02aa78e18.jpeg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Kin Lane"
+    } ]
+  },
+  "lang" : "en"
+}
