@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake Lucky" ],
+        "nickname" : [ "JakeSucky" ],
+        "numeric-id" : [ "2537825904" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1420410587117359104/ll9IjW-q.jpg" ],
+        "published" : [ "2014-05-31T16:47:38+00:00" ],
+        "uid" : [ "tag:twitter.com:JakeSucky" ],
+        "url" : [ "https://twitter.com/JakeSucky", "https://linktr.ee/jakesucky" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is <a href=\"https://twitter.com/Gamesager\">@Gamesager</a>, who previously won Respawn's beta contest for fastest Gauntlet time. \n\nCheck his stream here: <a href=\"https://www.twitch.tv/gamesager\">twitch.tv/gamesager</a></div>",
+      "value" : "This is @Gamesager, who previously won Respawn's beta contest for fastest Gauntlet time. \n\nCheck his stream here: twitch.tv/gamesager"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JakeSucky/status/1622299657820057600" ],
+    "published" : [ "2023-02-05T18:26:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1622300668194328577" ],
+    "url" : [ "https://twitter.com/JakeSucky/status/1622300668194328577" ]
+  },
+  "type" : [ "h-entry" ]
+}
