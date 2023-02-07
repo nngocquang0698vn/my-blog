@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Auerbach" ],
+        "nickname" : [ "mauerbac" ],
+        "numeric-id" : [ "257554379" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484297431516954627/vd_i27Ob.jpg" ],
+        "published" : [ "2011-02-25T17:38:04+00:00" ],
+        "uid" : [ "tag:twitter.com:mauerbac" ],
+        "url" : [ "https://twitter.com/mauerbac", "https://mauerbac.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Also, got a neat <a href=\"https://twitter.com/MLHacks\">@MLHacks</a> <a href=\"https://twitter.com/search?q=%23OSS\">#OSS</a> blanket!! Thank you 🙏😁",
+      "value" : "Also, got a neat @MLHacks #OSS blanket!! Thank you 🙏😁"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FoXrijfWAAAFT2A.jpg" ],
+    "published" : [ "2023-02-07T14:15:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1622962223889936384" ],
+    "url" : [ "https://twitter.com/mauerbac/status/1622962223889936384" ]
+  },
+  "type" : [ "h-entry" ]
+}
