@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Virginia Beach, VA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kurt Kemple" ],
+        "nickname" : [ "theworstdev" ],
+        "numeric-id" : [ "1056152730" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608548920220696576/eZGm0TyU.jpg" ],
+        "published" : [ "2013-01-02T21:34:24+00:00" ],
+        "uid" : [ "tag:twitter.com:theworstdev" ],
+        "url" : [ "https://twitter.com/theworstdev", "https://theworst.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is such a bad take. I don’t even know what you mean by business cycle, nor has that terminology ever come up in my decade in tech.\n\nI don’t think anyone that uses arbitrary requirements to define titles should be deciding who should be staff engineers.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/isislovecruft\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jmeickle\"></a>",
+      "value" : "This is such a bad take. I don’t even know what you mean by business cycle, nor has that terminology ever come up in my decade in tech.\n\nI don’t think anyone that uses arbitrary requirements to define titles should be deciding who should be staff engineers."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jmeickle/status/1622567356508561410" ],
+    "published" : [ "2023-02-07T12:26:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1622934796308475905" ],
+    "url" : [ "https://twitter.com/theworstdev/status/1622934796308475905" ]
+  },
+  "type" : [ "h-entry" ]
+}
