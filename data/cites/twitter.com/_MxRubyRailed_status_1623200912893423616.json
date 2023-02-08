@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Malden, MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "James Meickle" ],
+          "nickname" : [ "jmeickle" ],
+          "numeric-id" : [ "1713902882" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1347916107609497600/op0lYMoD.jpg" ],
+          "published" : [ "2013-08-30T22:39:51+00:00" ],
+          "uid" : [ "tag:twitter.com:jmeickle" ],
+          "url" : [ "https://twitter.com/jmeickle", "https://permadeath.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "hearing about a 27 year old staff engineer and going Insane" ],
+      "published" : [ "2023-02-06T02:23:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1622420609438212098" ],
+      "url" : [ "https://twitter.com/jmeickle/status/1622420609438212098" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "the deepweb" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "✨💎 Ruby Railed 💎✨" ],
+        "nickname" : [ "MxRubyRailed" ],
+        "numeric-id" : [ "1516235511806922753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598035656831209477/WTxY0BC_.jpg" ],
+        "published" : [ "2022-04-19T02:01:40+00:00" ],
+        "uid" : [ "tag:twitter.com:MxRubyRailed" ],
+        "url" : [ "https://twitter.com/MxRubyRailed", "https://linktr.ee/mxrubyrailed" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is literally me, do you have something you want to talk about?" ],
+    "published" : [ "2023-02-08T06:03:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1623200912893423616" ],
+    "url" : [ "https://twitter.com/MxRubyRailed/status/1623200912893423616" ]
+  },
+  "type" : [ "h-entry" ]
+}
