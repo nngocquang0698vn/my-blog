@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "san francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ms. sophie bites" ],
+        "nickname" : [ "sophiebits" ],
+        "numeric-id" : [ "5697222" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396684030913830912/pMZ4ENby.jpg" ],
+        "published" : [ "2007-05-01T23:04:08+00:00" ],
+        "uid" : [ "tag:twitter.com:sophiebits" ],
+        "url" : [ "https://twitter.com/sophiebits", "https://sophiebits.com/", "http://cohost.org/sophiebits" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "each time a meme becomes iconic enough, its facial expression or body language should get turned into a new permanent emoji" ],
+    "published" : [ "2023-02-08T06:41:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1623210427722395649" ],
+    "url" : [ "https://twitter.com/sophiebits/status/1623210427722395649" ]
+  },
+  "type" : [ "h-entry" ]
+}
