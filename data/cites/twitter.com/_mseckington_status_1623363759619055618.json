@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Melinda Seckington" ],
+        "nickname" : [ "mseckington" ],
+        "numeric-id" : [ "6382502" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343699683730984961/EH5HXnGB.jpg" ],
+        "published" : [ "2007-05-28T11:08:20+00:00" ],
+        "uid" : [ "tag:twitter.com:mseckington" ],
+        "url" : [ "https://twitter.com/mseckington", "http://missgeeky.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Obligatory \"some personal news\" tweet: happy to share that I’ve started this week as an EM at <a href=\"https://twitter.com/containersoluti\">@containersoluti</a>! \n\nI'm super excited to get to know the team and work on all things engineering management. Everyone I met is lovely so far and I can't wait to get stuck in!</div>",
+      "value" : "Obligatory \"some personal news\" tweet: happy to share that I’ve started this week as an EM at @containersoluti! \n\nI'm super excited to get to know the team and work on all things engineering management. Everyone I met is lovely so far and I can't wait to get stuck in!"
+    } ],
+    "published" : [ "2023-02-08T16:50:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1623363759619055618" ],
+    "url" : [ "https://twitter.com/mseckington/status/1623363759619055618" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FodYuRMX0AAk9B0.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
