@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "san francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ms. sophie bites" ],
+        "nickname" : [ "sophiebits" ],
+        "numeric-id" : [ "5697222" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396684030913830912/pMZ4ENby.jpg" ],
+        "published" : [ "2007-05-01T23:04:08+00:00" ],
+        "uid" : [ "tag:twitter.com:sophiebits" ],
+        "url" : [ "https://twitter.com/sophiebits", "https://sophiebits.com/", "http://cohost.org/sophiebits" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sophiebits/status/1623210427722395649" ],
+    "photo" : [ {
+      "alt" : "“kombucha girl” meme panel",
+      "value" : "https://pbs.twimg.com/media/FobPfQeakAAkvPQ.jpg"
+    }, {
+      "alt" : "“roll safe” meme",
+      "value" : "https://pbs.twimg.com/media/FobPfQcagAMfWTx.jpg"
+    }, {
+      "alt" : "coolyori meme",
+      "value" : "https://pbs.twimg.com/media/FobPfQbacAA2OOq.jpg"
+    }, {
+      "alt" : "disaster girl meme",
+      "value" : "https://pbs.twimg.com/media/FobPfQlacAAakhU.jpg"
+    } ],
+    "published" : [ "2023-02-08T06:51:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1623212856501207040" ],
+    "url" : [ "https://twitter.com/sophiebits/status/1623212856501207040" ]
+  },
+  "type" : [ "h-entry" ]
+}
