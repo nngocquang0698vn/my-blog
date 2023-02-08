@@ -61,6 +61,7 @@ to = "/tags/renovate/"
   kinds = "/kind/:title/"
   week-notes = "/week-notes/:slug/:filename/"
   music-in-review = "/music-in-review/:filename/"
+  site-in-review = "/site-in-review/:filename/"
 
 [taxonomies]
   kind = "kind"
