@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco & Global" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vercel" ],
+        "nickname" : [ "vercel" ],
+        "numeric-id" : [ "4686835494" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf.jpg" ],
+        "published" : [ "2016-01-01T03:49:12+00:00" ],
+        "uid" : [ "tag:twitter.com:vercel" ],
+        "url" : [ "https://twitter.com/vercel", "https://vercel.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Last week, our engineering teams saved 2,600 hours with <a href=\"https://twitter.com/turborepo\">@turborepo</a> and Vercel Remote Cache.\n\nLearn how to set up your own shared cache in three minutes.\n\n<a href=\"http://vercel.com/blog/vercel-remote-cache-turbo\">vercel.com/blog/vercel-re…</a></div>",
+      "value" : "Last week, our engineering teams saved 2,600 hours with @turborepo and Vercel Remote Cache.\n\nLearn how to set up your own shared cache in three minutes.\n\nvercel.com/blog/vercel-re…"
+    } ],
+    "published" : [ "2023-02-08T17:00:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1623366184975405064" ],
+    "url" : [ "https://twitter.com/vercel/status/1623366184975405064" ]
+  },
+  "type" : [ "h-entry" ]
+}
