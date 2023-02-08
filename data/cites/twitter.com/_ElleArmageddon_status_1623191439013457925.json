@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Malden, MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "James Meickle" ],
+          "nickname" : [ "jmeickle" ],
+          "numeric-id" : [ "1713902882" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1347916107609497600/op0lYMoD.jpg" ],
+          "published" : [ "2013-08-30T22:39:51+00:00" ],
+          "uid" : [ "tag:twitter.com:jmeickle" ],
+          "url" : [ "https://twitter.com/jmeickle", "https://permadeath.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I don't think anyone with 5 years of professional experience should be staff, no matter how talented they are. That's not even enough time to witness a business cycle. Not purely an age thing, but unless you entered industry in high school...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/isislovecruft\"></a>",
+        "value" : "I don't think anyone with 5 years of professional experience should be staff, no matter how talented they are. That's not even enough time to witness a business cycle. Not purely an age thing, but unless you entered industry in high school..."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/isislovecruft/status/1622507345380282370" ],
+      "published" : [ "2023-02-06T12:06:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1622567356508561410" ],
+      "url" : [ "https://twitter.com/jmeickle/status/1622567356508561410" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "trash, but make it fashion 🦝✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I’m a director with less than five years of professional experience.\n\nThere’s no need to devalue other people’s achievements just because you don’t know how they accomplished them.</div>",
+      "value" : "I’m a director with less than five years of professional experience.\n\nThere’s no need to devalue other people’s achievements just because you don’t know how they accomplished them."
+    } ],
+    "published" : [ "2023-02-08T05:26:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1623191439013457925" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1623191439013457925" ]
+  },
+  "type" : [ "h-entry" ]
+}
