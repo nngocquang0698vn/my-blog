@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Dan Webb (@damacus@hachyderm.io)" ],
+    "summary" : [ "I did it. \nWe're finally publising actionshub/yamllint automatically.\n\nWe'll now get new container versions on a pull request and a push to main. \n\nThose pushed to main will be tagged both latest and whatever the next semver tag is being pushed\n\nhttps://github.com/actionshub/yamllint\n\nhttps://github.com/actionshub/yamllint/blob/main/.github/workflows/publish.yaml\n\nI should probably do a full blog post about this because it hurt my head for ages. \n\nThe only last step to possibly automate (which I'm not sure is possible) is to change the actions.yml file." ],
+    "featured" : [ "https://media.hachyderm.io/accounts/avatars/109/352/713/043/750/591/original/b50a5ef20da3564b.jpg" ],
+    "url" : [ "https://hachyderm.io/@damacus/109829194404339476" ]
+  }
+}
