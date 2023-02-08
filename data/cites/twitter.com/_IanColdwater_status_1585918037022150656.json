@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Scotland, Europe" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Flanagan" ],
+          "nickname" : [ "rawkode" ],
+          "numeric-id" : [ "22761152" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1581634592339107841/fAsehIRv.jpg" ],
+          "published" : [ "2009-03-04T12:06:23+00:00" ],
+          "uid" : [ "tag:twitter.com:rawkode" ],
+          "url" : [ "https://twitter.com/rawkode", "https://rawkode.academy", "http://rawkode.link/office-hours" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Hey <a href=\"https://twitter.com/CloudNativeFdn\">@CloudNativeFdn</a>,\n\nDid you know you booked KubeCon EU in Amsterdam during 420, arguably the busiest and most expensive week of the year?</div>",
+        "value" : "Hey @CloudNativeFdn,\n\nDid you know you booked KubeCon EU in Amsterdam during 420, arguably the busiest and most expensive week of the year?"
+      } ],
+      "published" : [ "2022-10-27T13:45:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1585628808518017024" ],
+      "url" : [ "https://twitter.com/rawkode/status/1585628808518017024" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm sorry, this is hilarious" ],
+    "published" : [ "2022-10-28T08:54:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1585918037022150656" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1585918037022150656" ]
+  },
+  "type" : [ "h-entry" ]
+}
