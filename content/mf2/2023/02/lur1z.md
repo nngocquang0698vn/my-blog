@@ -1,0 +1,16 @@
+{
+  "date" : "2023-02-08T20:23:00+0000",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @ohhoe's tweet" ],
+    "published" : [ "2023-02-08T20:23:00+0000" ],
+    "like-of" : [ "https://twitter.com/ohhoe/status/1623401966540845057" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2023/02/lur1z",
+  "client_id" : "https://indigenous.marksuth.dev/"
+}
