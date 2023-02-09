@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575537856113610753/1-StAhlY.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://floss.social/@juliaferraioli" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Petition to disambiguate nonprofit from charitable nonprofit." ],
+    "published" : [ "2023-02-09T04:14:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1623535699915071489" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1623535699915071489" ]
+  },
+  "type" : [ "h-entry" ]
+}
