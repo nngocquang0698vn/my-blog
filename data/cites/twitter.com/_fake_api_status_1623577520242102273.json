@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This website was free." ],
+    "published" : [ "2023-02-09T07:00:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1623577520242102273" ],
+    "url" : [ "https://twitter.com/fake_api/status/1623577520242102273" ]
+  },
+  "type" : [ "h-entry" ]
+}
