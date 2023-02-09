@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2.jpg" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">SCOOP: Elon has emailed staff following the Twitter outage.\n\n“Please pause for now on new feature development in favor of maximizing system stability and robustness, especially with the Super Bowl coming up.”</div>",
+      "value" : "SCOOP: Elon has emailed staff following the Twitter outage.\n\n“Please pause for now on new feature development in favor of maximizing system stability and robustness, especially with the Super Bowl coming up.”"
+    } ],
+    "published" : [ "2023-02-08T23:08:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1623458872106311680" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1623458872106311680" ]
+  },
+  "type" : [ "h-entry" ]
+}
