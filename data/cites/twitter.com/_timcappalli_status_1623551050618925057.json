@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Pacific Time Zone" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mayunk Jain" ],
+          "nickname" : [ "mayunkj" ],
+          "numeric-id" : [ "113298795" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1541847430609526784/l2LWwvvn.jpg" ],
+          "published" : [ "2010-02-11T09:27:45+00:00" ],
+          "uid" : [ "tag:twitter.com:mayunkj" ],
+          "url" : [ "https://twitter.com/mayunkj", "https://twitter.com/i/lists/1525303165964365830?s=20", "http://mastodon.social/@mayunkj" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "In an era where so many of us find out difficult to disconnect, I'm grateful for my <a href=\"https://twitter.com/MSIntune\">@MSIntune</a> powered Android that turns off ALL WORK APPS with a single click. <a href=\"https://twitter.com/search?q=%23familytime\">#familytime</a> <a href=\"https://twitter.com/search?q=%23roadtrip\">#roadtrip</a>",
+        "value" : "In an era where so many of us find out difficult to disconnect, I'm grateful for my @MSIntune powered Android that turns off ALL WORK APPS with a single click. #familytime #roadtrip"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FodtpN5aUAAISe5.jpg" ],
+      "published" : [ "2023-02-08T18:25:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1623387472267972608" ],
+      "url" : [ "https://twitter.com/mayunkj/status/1623387472267972608" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tim cappasskey" ],
+        "nickname" : [ "timcappalli" ],
+        "numeric-id" : [ "290319395" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319766338001391616/7iL9Jh_m.jpg" ],
+        "published" : [ "2011-04-30T02:57:28+00:00" ],
+        "uid" : [ "tag:twitter.com:timcappalli" ],
+        "url" : [ "https://twitter.com/timcappalli", "https://timcappalli.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "AWP is one of the greatest features ever created on Android" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Taipei City, Taiwan" ],
+        "uid" : [ "tag:twitter.com:00180402799fed03" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-02-09T05:15:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1623551050618925057" ],
+    "url" : [ "https://twitter.com/timcappalli/status/1623551050618925057" ]
+  },
+  "type" : [ "h-entry" ]
+}
