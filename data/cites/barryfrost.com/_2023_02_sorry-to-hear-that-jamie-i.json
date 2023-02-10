@@ -1,0 +1,49 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Sorry to hear that, Jamie. I hope the at-risk status doesn’t turn into redundancy. Layoffs suck.\nI’m hopefully not far off starting my next job - if there’s a relevant role, and you haven’t already been snapped up, I’ll definitely be in touch 🙏" ],
+    "url" : [ "https://barryfrost.com/2023/02/sorry-to-hear-that-jamie-i" ],
+    "published" : [ "2023-02-10T18:03:45.077Z" ],
+    "content" : [ {
+      "html" : "<p>Sorry to hear that, Jamie. I hope the at-risk status doesn’t turn into redundancy. Layoffs suck.</p>\n<p>I’m hopefully not far off starting my next job - if there’s a relevant role, and you haven’t already been snapped up, I’ll definitely be in touch 🙏</p>",
+      "value" : "Sorry to hear that, Jamie. I hope the at-risk status doesn’t turn into redundancy. Layoffs suck.\nI’m hopefully not far off starting my next job - if there’s a relevant role, and you haven’t already been snapped up, I’ll definitely be in touch 🙏",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "photo" : [ {
+          "value" : "https://barryfrost.com/barryfrost.jpg",
+          "alt" : "Photo of Barry"
+        } ],
+        "url" : [ "https://barryfrost.com/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://barryfrost.com/"
+    } ],
+    "in-reply-to" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "For those that may or may not have seen the news that Deliveroo are going through redundancies, I'm unfortunately one of the roles at risk.Although I'm not looking for a…" ],
+        "url" : [ "https://www.jvt.me/mf2/2023/02/airop/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jamie Tanna" ],
+            "url" : [ "https://www.jvt.me" ],
+            "photo" : [ {
+              "value" : "https://www.jvt.me/img/profile.png",
+              "alt" : "Jamie Tanna"
+            } ]
+          },
+          "lang" : "en-GB",
+          "value" : "Jamie Tanna"
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://www.jvt.me/mf2/2023/02/airop/"
+    } ]
+  },
+  "lang" : "en-GB"
+}
