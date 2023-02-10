@@ -24,7 +24,7 @@ It's meant that I've had a few more data points to reflect on what happens when 
 
 # Overall traffic
 
-As mentioned in [_Lessons learned since posting my salary history publicly_], I enjoy keeping an eye on my site's analytics:
+As mentioned in [_Lessons learned since posting my salary history publicly_](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/), I enjoy keeping an eye on my site's analytics:
 
 > I love the dopamine rush of watching my analytics climb up after posting a new post, or trying to work out where referrers are coming from when I see a sudden spike in hits, and I will always have my analytics open in a window on my desktop, so I can see what's going on at the moment.
 
