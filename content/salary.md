@@ -3,6 +3,8 @@ title: My Salary History
 ---
 As discussed in the [blog post announcing this page](/posts/2021/09/09/public-salary-history/), this is the history of my salary and compensation changes, including bonuses.
 
+You may also be interested in reading my post [_Lessons learned since posting my salary history publicly_](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/).
+
 I've broken this down into the:
 
 - <span class=new-salary>Updated salary</span> amounts
