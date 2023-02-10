@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Elsewhere" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Gorcenski" ],
+        "nickname" : [ "EmilyGorcenski" ],
+        "numeric-id" : [ "1483064670" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591483914480193537/7T3v1RRF.jpg" ],
+        "published" : [ "2013-06-04T19:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyGorcenski" ],
+        "url" : [ "https://twitter.com/EmilyGorcenski", "https://www.emilygorcenski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As someone who like, consults on continuous delivery for a living, and who is watching with glee as Musk burns his own fortune, this is extremely funny to me.\n\n<a href=\"https://www.fastcompany.com/90848175/twitter-stuck-in-code-loop-nightmare\">fastcompany.com/90848175/twitt…</a></div>",
+      "value" : "As someone who like, consults on continuous delivery for a living, and who is watching with glee as Musk burns his own fortune, this is extremely funny to me.\n\nfastcompany.com/90848175/twitt…"
+    } ],
+    "published" : [ "2023-02-10T17:36:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1624100039931965456" ],
+    "url" : [ "https://twitter.com/EmilyGorcenski/status/1624100039931965456" ]
+  },
+  "type" : [ "h-entry" ]
+}
