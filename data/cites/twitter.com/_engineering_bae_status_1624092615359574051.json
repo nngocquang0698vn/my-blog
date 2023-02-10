@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Poindexter" ],
+        "nickname" : [ "engineering_bae" ],
+        "numeric-id" : [ "876448351268380672" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1623688176710590466/0_gf2yTK.jpg" ],
+        "published" : [ "2017-06-18T14:35:45+00:00" ],
+        "uid" : [ "tag:twitter.com:engineering_bae" ],
+        "url" : [ "https://twitter.com/engineering_bae", "http://poindexter.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I have officially been promoted to Engineering Manager II at Spotify and I could not be more giddy.\n\nHere’s to the future 🥃💚</div>",
+      "value" : "I have officially been promoted to Engineering Manager II at Spotify and I could not be more giddy.\n\nHere’s to the future 🥃💚"
+    } ],
+    "published" : [ "2023-02-10T17:07:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1624092615359574051" ],
+    "url" : [ "https://twitter.com/engineering_bae/status/1624092615359574051" ]
+  },
+  "type" : [ "h-entry" ]
+}
