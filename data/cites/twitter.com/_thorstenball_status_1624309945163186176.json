@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Großwallstdt, Bavaria, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Thorsten Ball" ],
+        "nickname" : [ "thorstenball" ],
+        "numeric-id" : [ "414333187" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/845340663050899457/vNzxTmKV.jpg" ],
+        "published" : [ "2011-11-16T22:51:44+00:00" ],
+        "uid" : [ "tag:twitter.com:thorstenball" ],
+        "url" : [ "https://twitter.com/thorstenball", "http://thorstenball.com", "http://interpreterbook.com", "http://compilerbook.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Yesterday I got back from a 5-day <a href=\"https://twitter.com/sourcegraph\">@sourcegraph</a> company meetup in Spain.\n\nI'm still in awe at how amazingly well-organized and produced it's been.\n\nTalks and production quality was higher than *a lot* of conferences I've been to in the past. Really cool.</div>",
+      "value" : "Yesterday I got back from a 5-day @sourcegraph company meetup in Spain.\n\nI'm still in awe at how amazingly well-organized and produced it's been.\n\nTalks and production quality was higher than *a lot* of conferences I've been to in the past. Really cool."
+    } ],
+    "published" : [ "2023-02-11T07:30:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1624309945163186176" ],
+    "url" : [ "https://twitter.com/thorstenball/status/1624309945163186176" ]
+  },
+  "type" : [ "h-entry" ]
+}
