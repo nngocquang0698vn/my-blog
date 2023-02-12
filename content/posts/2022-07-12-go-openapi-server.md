@@ -29,7 +29,7 @@ Let's start with the OpenAPI document itself. This is slightly amended from the 
 
 ```yaml
 # Example from https://deliveroo.engineering/2022/06/27/openapi-design-first.html
-# © All-Rights-Reserved
+# © CC 4.0 BY-SA
 openapi: 3.1.0
 info:
   title: Care Request API
