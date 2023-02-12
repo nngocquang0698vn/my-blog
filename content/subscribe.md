@@ -26,3 +26,17 @@ If you have a supported [IndieWeb compatible reader](https://indieweb.org/reader
 - To subscribe to my articles https://www.jvt.me/kind/articles/
 - To subscribe to a specific tag, such as any IndieWeb-related content https://www.jvt.me/tags/indieweb/
 - To subscribe to literally everything on this site, https://www.jvt.me/all/
+
+# On the Fediverse
+
+If you're on the Fediverse, such as Mastodon, you can follow me by searching for `@www.jvt.me@www.jvt.me` or by initiating a remote follow:
+
+<form method="post" action="https://fed.brid.gy/remote-follow">
+ <label for="follow-address">🐘 Follow
+  <kbd>@www.jvt.me@www.jvt.me</kbd>:<br />
+  enter your @-@ fediverse address:</label>
+ <input id="follow-address" name="address" type="text" required="required"
+        placeholder="@you@instance.social" alt="fediverse address" value="" />
+ <input name="domain" type="hidden" value="www.jvt.me" />
+ <button type="submit">Follow</button>
+</form>
