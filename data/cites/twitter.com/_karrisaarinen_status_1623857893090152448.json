@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Karri Saarinen" ],
+        "nickname" : [ "karrisaarinen" ],
+        "numeric-id" : [ "14196511" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1376663549297094656/I1oMljw5.jpg" ],
+        "published" : [ "2008-03-22T10:36:02+00:00" ],
+        "uid" : [ "tag:twitter.com:karrisaarinen" ],
+        "url" : [ "https://twitter.com/karrisaarinen", "https://karrisaarinen.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When Microsoft leadership feels like GitHub layoffs are not bad enough, they have to increase the pain by forcing people to use MS Teams on their 4y old laptops." ],
+    "photo" : [ "https://pbs.twimg.com/media/FokaJUvaMAAhwzY.jpg" ],
+    "published" : [ "2023-02-10T01:34:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1623857893090152448" ],
+    "url" : [ "https://twitter.com/karrisaarinen/status/1623857893090152448" ]
+  },
+  "type" : [ "h-entry" ]
+}
