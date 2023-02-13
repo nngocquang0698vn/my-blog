@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patrick Monahan" ],
+        "nickname" : [ "pattymo" ],
+        "numeric-id" : [ "2328421" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1121475973533392897/_RK85XYR.jpg" ],
+        "published" : [ "2007-03-26T17:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:pattymo" ],
+        "url" : [ "https://twitter.com/pattymo", "http://pattymo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "RIHANNA LOOK OUT" ],
+    "photo" : [ "https://pbs.twimg.com/media/Foz5nK0XwAACPii.jpg" ],
+    "published" : [ "2023-02-13T01:46:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1624948022277771265" ],
+    "url" : [ "https://twitter.com/pattymo/status/1624948022277771265" ]
+  },
+  "type" : [ "h-entry" ]
+}
