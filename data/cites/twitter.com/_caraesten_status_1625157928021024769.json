@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "hayes 🧶" ],
+          "nickname" : [ "cubefag" ],
+          "numeric-id" : [ "824253931" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/841352143554637824/YbSL32ck.jpg" ],
+          "published" : [ "2012-09-15T00:28:43+00:00" ],
+          "uid" : [ "tag:twitter.com:cubefag" ],
+          "url" : [ "https://twitter.com/cubefag" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "nope <a href=\"https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/\">reuters.com/technology/met…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/caraesten\"></a>",
+        "value" : "nope reuters.com/technology/met…"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/caraesten/status/1625157360934338560" ],
+      "published" : [ "2023-02-13T15:38:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1625157572310212608" ],
+      "url" : [ "https://twitter.com/cubefag/status/1625157572310212608" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cara Esten" ],
+        "nickname" : [ "caraesten" ],
+        "numeric-id" : [ "15374401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595910729495826432/zFEeOoFR.jpg" ],
+        "published" : [ "2008-07-10T05:22:16+00:00" ],
+        "uid" : [ "tag:twitter.com:caraesten" ],
+        "url" : [ "https://twitter.com/caraesten", "https://cohost.org/caraesten" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "imagine doing a stock buyback in between two rounds of layoffs, i have some ideas about what should happen to Facebook execs but i can't post them on twitter dot com" ],
+    "published" : [ "2023-02-13T15:40:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1625157928021024769" ],
+    "url" : [ "https://twitter.com/caraesten/status/1625157928021024769" ]
+  },
+  "type" : [ "h-entry" ]
+}
