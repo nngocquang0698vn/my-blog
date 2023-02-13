@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today is my last day at Twilio.\n\nI'm going to take some time before officially going on the job market, but if you have anything interesting for my skill set, my DMs are open!\n\nTake care of yourselves and each other 🤗</div>",
+      "value" : "Today is my last day at Twilio.\n\nI'm going to take some time before officially going on the job market, but if you have anything interesting for my skill set, my DMs are open!\n\nTake care of yourselves and each other 🤗"
+    } ],
+    "published" : [ "2023-02-13T15:46:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1625159589082632195" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1625159589082632195" ]
+  },
+  "type" : [ "h-entry" ]
+}
