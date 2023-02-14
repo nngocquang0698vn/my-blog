@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Arizona, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Austin_Wright" ],
+        "nickname" : [ "awwscript" ],
+        "numeric-id" : [ "1037904565817860098" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1038634128386605056/48S09UU7.jpg" ],
+        "published" : [ "2018-09-07T03:25:06+00:00" ],
+        "uid" : [ "tag:twitter.com:awwscript" ],
+        "url" : [ "https://twitter.com/awwscript", "https://github.com/awwright" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "There's lots of file formats more than 2 years old that are fine to use, why is this different?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lornajane\"></a>",
+      "value" : "There's lots of file formats more than 2 years old that are fine to use, why is this different?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/lornajane/status/1625236615797825536" ],
+    "published" : [ "2023-02-14T06:50:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1625386919730495490" ],
+    "url" : [ "https://twitter.com/awwscript/status/1625386919730495490" ]
+  },
+  "type" : [ "h-entry" ]
+}
