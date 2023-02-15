@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Minneapolish " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Daniel Feldman" ],
+          "nickname" : [ "d_feldman" ],
+          "numeric-id" : [ "218999041" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1266820896242782209/Eq6KE41g.jpg" ],
+          "published" : [ "2010-11-23T17:28:02+00:00" ],
+          "uid" : [ "tag:twitter.com:d_feldman" ],
+          "url" : [ "https://twitter.com/d_feldman", "https://youtu.be/wkKGR-FMqOQ?t=24" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Elon is about one step away from pulling a Tom from MySpace and automatically friending everyone on this site" ],
+      "published" : [ "2023-02-15T06:27:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1625743556273897477" ],
+      "url" : [ "https://twitter.com/d_feldman/status/1625743556273897477" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn / @quinnypig@awscommunity.social" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s going to happen, and you won’t be able to block/mute him." ],
+    "published" : [ "2023-02-15T06:53:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1625750172641931264" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1625750172641931264" ]
+  },
+  "type" : [ "h-entry" ]
+}
