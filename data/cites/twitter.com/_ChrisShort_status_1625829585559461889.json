@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Greater Detroit Metro Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris \"Not So\" Short" ],
+        "nickname" : [ "ChrisShort" ],
+        "numeric-id" : [ "5610072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598725958210445313/yEPWFNq7.jpg" ],
+        "published" : [ "2007-04-28T19:14:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ChrisShort" ],
+        "url" : [ "https://twitter.com/ChrisShort", "https://chrisshort.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Therapy went about how I expected it to yesterday." ],
+    "photo" : [ {
+      "alt" : "Massive pile of used tissues on desk",
+      "value" : "https://pbs.twimg.com/media/FpAbYmeWAAIhn2a.jpg"
+    } ],
+    "published" : [ "2023-02-15T12:09:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1625829585559461889" ],
+    "url" : [ "https://twitter.com/ChrisShort/status/1625829585559461889" ]
+  },
+  "type" : [ "h-entry" ]
+}
