@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">me reading job descriptions:\n\nlead team on large projects with cross-organizational scope: cool, I can do that\n\nsolve difficult technical problems: sure, no problem\n\ntake charge of these programs &amp; report to the board: ok!\n\ndegree required: welp, definitely not qualified for this</div>",
+      "value" : "me reading job descriptions:\n\nlead team on large projects with cross-organizational scope: cool, I can do that\n\nsolve difficult technical problems: sure, no problem\n\ntake charge of these programs & report to the board: ok!\n\ndegree required: welp, definitely not qualified for this"
+    } ],
+    "published" : [ "2023-02-16T02:43:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1626049710967476224" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1626049710967476224" ]
+  },
+  "type" : [ "h-entry" ]
+}
