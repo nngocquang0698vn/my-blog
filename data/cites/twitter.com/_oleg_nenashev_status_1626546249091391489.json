@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gradle" ],
+          "nickname" : [ "gradle" ],
+          "numeric-id" : [ "42404217" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1103064013200601093/ZPTbaU2z.png" ],
+          "published" : [ "2009-05-25T13:26:01+00:00" ],
+          "uid" : [ "tag:twitter.com:gradle" ],
+          "url" : [ "https://twitter.com/gradle", "https://gradle.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Happy Valentine's day to our friends in the <a href=\"https://twitter.com/search?q=%23Maven\">#Maven</a> community, it's a pleasure serving the <a href=\"https://twitter.com/search?q=%23JVM\">#JVM</a> community with you. <a href=\"https://gradle.com/gradle-enterprise-solutions/maven-build-tool/\">gradle.com/gradle-enterpr…</a>",
+        "value" : "Happy Valentine's day to our friends in the #Maven community, it's a pleasure serving the #JVM community with you. gradle.com/gradle-enterpr…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fo9p2mvWIAAxSdN.jpg" ],
+      "published" : [ "2023-02-14T23:13:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1625634398300143618" ],
+      "url" : [ "https://twitter.com/gradle/status/1625634398300143618" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev #OpenToWork 🤍💙🤍" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501485394432516099/kuZTQVCe.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is how positive community marketing should look like, <a href=\"https://twitter.com/gradle\">@gradle</a> 💙",
+      "value" : "This is how positive community marketing should look like, @gradle 💙"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Neuchâtel, Switzerland" ],
+        "uid" : [ "tag:twitter.com:dfbf4ce81da97883" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-02-17T11:37:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1626546249091391489" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1626546249091391489" ]
+  },
+  "type" : [ "h-entry" ]
+}
