@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Swiber" ],
+        "nickname" : [ "kevinswiber" ],
+        "numeric-id" : [ "15478303" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392683005785763841/CAMp4K_g.jpg" ],
+        "published" : [ "2008-07-18T04:05:27+00:00" ],
+        "uid" : [ "tag:twitter.com:kevinswiber" ],
+        "url" : [ "https://twitter.com/kevinswiber", "https://swiber.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is such a good point. Over the last couple of weeks, I am consistently thankful to you for sharing your thoughts. I like to think I can imagine all scenarios. Yet it’s a treat when you prove me wrong. Which is daily. 💜\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MxRubyRailed\"></a>",
+      "value" : "This is such a good point. Over the last couple of weeks, I am consistently thankful to you for sharing your thoughts. I like to think I can imagine all scenarios. Yet it’s a treat when you prove me wrong. Which is daily. 💜"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MxRubyRailed/status/1626461741386452994" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "San Francisco, CA" ],
+        "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-02-17T06:55:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1626475429279465474" ],
+    "url" : [ "https://twitter.com/kevinswiber/status/1626475429279465474" ]
+  },
+  "type" : [ "h-entry" ]
+}
