@@ -1,0 +1,13 @@
+{
+  "type" : [ "h-card" ],
+  "properties" : {
+    "note" : [ "Founder of beyond tellerrand, Co-Founder of Smashing Conference. Hobby photographer and coffee lover." ],
+    "photo" : [ {
+      "value" : "https://marcthiele.com/assets/avatars/marcthiele.jpg",
+      "alt" : "Photo of a smiling Marc Thiele"
+    } ],
+    "url" : [ "https://mastodon.social/@marcthiele", "https://twitter.com/marcthiele", "https://vero.co/marcthiele", "https://instagram.com/marcthiele", "https://linkedin.com/in/marcthiele", "https://facebook.com/marcthiele", "https://github.com/marcthiele/" ],
+    "email" : [ "mailto:hello@marcthiele.com" ]
+  },
+  "lang" : "en"
+}
