@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gradle" ],
+        "nickname" : [ "gradle" ],
+        "numeric-id" : [ "42404217" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1103064013200601093/ZPTbaU2z.png" ],
+        "published" : [ "2009-05-25T13:26:01+00:00" ],
+        "uid" : [ "tag:twitter.com:gradle" ],
+        "url" : [ "https://twitter.com/gradle", "https://gradle.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Happy Valentine's day to our friends in the <a href=\"https://twitter.com/search?q=%23Maven\">#Maven</a> community, it's a pleasure serving the <a href=\"https://twitter.com/search?q=%23JVM\">#JVM</a> community with you. <a href=\"https://gradle.com/gradle-enterprise-solutions/maven-build-tool/\">gradle.com/gradle-enterpr…</a>",
+      "value" : "Happy Valentine's day to our friends in the #Maven community, it's a pleasure serving the #JVM community with you. gradle.com/gradle-enterpr…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fo9p2mvWIAAxSdN.jpg" ],
+    "published" : [ "2023-02-14T23:13:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1625634398300143618" ],
+    "url" : [ "https://twitter.com/gradle/status/1625634398300143618" ]
+  },
+  "type" : [ "h-entry" ]
+}
