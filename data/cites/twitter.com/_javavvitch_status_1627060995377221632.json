@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kevin Naughton Jr." ],
+          "nickname" : [ "KevinNaughtonJr" ],
+          "numeric-id" : [ "1045398019351425026" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1567991359792975876/jXG8-5X0.jpg" ],
+          "published" : [ "2018-09-27T19:41:25+00:00" ],
+          "uid" : [ "tag:twitter.com:KevinNaughtonJr" ],
+          "url" : [ "https://twitter.com/KevinNaughtonJr", "https://linktr.ee/kevinnaughtonjr", "http://thedailybyte.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "hot take: job titles are meaningless unless you work at really large/structured companies" ],
+      "published" : [ "2023-02-18T19:13:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1627023421677731840" ],
+      "url" : [ "https://twitter.com/KevinNaughtonJr/status/1627023421677731840" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/kevinnaughtonj…" ],
+      "url" : [ "https://twitter.com/kevinnaughtonjr/status/1627023421677731840" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1611886230844719105/h2hhgPEn.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch", "http://ConquerSystemDesign.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Some people that aren’t the a majority percentage of the workforce in tech need and work toward these titles to prove that they are experts in their field. \n\nSo.</div>\n<a class=\"tag\" href=\"https://twitter.com/kevinnaughtonjr/status/1627023421677731840\">twitter.com/kevinnaughtonj…</a>",
+      "value" : "Some people that aren’t the a majority percentage of the workforce in tech need and work toward these titles to prove that they are experts in their field. \n\nSo."
+    } ],
+    "published" : [ "2023-02-18T21:42:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1627060995377221632" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1627060995377221632" ]
+  },
+  "type" : [ "h-entry" ]
+}
