@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Isle of Wight, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Stanford-Clark" ],
+        "nickname" : [ "andysc" ],
+        "numeric-id" : [ "9900492" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1381248880726130689/ggpt5mP1.jpg" ],
+        "published" : [ "2007-11-02T22:28:40+00:00" ],
+        "uid" : [ "tag:twitter.com:andysc" ],
+        "url" : [ "https://twitter.com/andysc", "https://stanford-clark.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I think the only thing we’re “enthusiastic” about, is any announcement you make about further delays.\nLEAVE IT ALONE, PLEASE.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterDev\"></a>",
+      "value" : "I think the only thing we’re “enthusiastic” about, is any announcement you make about further delays.\nLEAVE IT ALONE, PLEASE."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TwitterDev/status/1625234161010343941" ],
+    "published" : [ "2023-02-14T14:57:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1625509624508997632" ],
+    "url" : [ "https://twitter.com/andysc/status/1625509624508997632" ]
+  },
+  "type" : [ "h-entry" ]
+}
