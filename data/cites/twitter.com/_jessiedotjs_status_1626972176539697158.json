@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jessie.js" ],
+        "nickname" : [ "jessiedotjs" ],
+        "numeric-id" : [ "110298748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436157880877531141/2-dt4exX.jpg" ],
+        "published" : [ "2010-02-01T02:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:jessiedotjs" ],
+        "url" : [ "https://twitter.com/jessiedotjs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When I’m not mixing her food fast enough" ],
+    "photo" : [ "https://pbs.twimg.com/media/FpQqkkzX0AEBZzQ.jpg" ],
+    "published" : [ "2023-02-18T15:49:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1626972176539697158" ],
+    "url" : [ "https://twitter.com/jessiedotjs/status/1626972176539697158" ]
+  },
+  "type" : [ "h-entry" ]
+}
