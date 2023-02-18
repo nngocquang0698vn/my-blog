@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Boston, MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Crystal Martin" ],
+          "nickname" : [ "codermeow" ],
+          "numeric-id" : [ "34671152" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445389902271627269/HUrbCezA.jpg" ],
+          "published" : [ "2009-04-23T17:26:32+00:00" ],
+          "uid" : [ "tag:twitter.com:codermeow" ],
+          "url" : [ "https://twitter.com/codermeow", "https://www.crystalmartin.co/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Tech conference speakers...when did y'all start charging $10,000 plus? Because I feel like I'm underselling myself. I have a whole TEDx Talk." ],
+      "published" : [ "2023-02-17T21:03:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1626688765589704704" ],
+      "url" : [ "https://twitter.com/codermeow/status/1626688765589704704" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1581634592339107841/fAsehIRv.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.academy", "http://rawkode.link/office-hours" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Since working for myself, I had no idea how to price my time and my work. Some clients said no, 90% said yes. I kept raising prices and most still don’t even negotiate. \n\nDon’t under sell yourself and get comfortable accepting that some will never pay</div>",
+      "value" : "Since working for myself, I had no idea how to price my time and my work. Some clients said no, 90% said yes. I kept raising prices and most still don’t even negotiate. \n\nDon’t under sell yourself and get comfortable accepting that some will never pay"
+    } ],
+    "published" : [ "2023-02-18T21:12:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1627053348435230720" ],
+    "url" : [ "https://twitter.com/rawkode/status/1627053348435230720" ]
+  },
+  "type" : [ "h-entry" ]
+}
