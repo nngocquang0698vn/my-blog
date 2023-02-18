@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mason Egger" ],
+          "nickname" : [ "masonegger" ],
+          "numeric-id" : [ "3107572632" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1361801105643106305/1dHt4iJy.jpg" ],
+          "published" : [ "2015-03-25T15:22:07+00:00" ],
+          "uid" : [ "tag:twitter.com:masonegger" ],
+          "url" : [ "https://twitter.com/masonegger", "https://mason.dev/links" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Just had a friend say \"If I wanted a cloud provider with no soul I've already got options\" and if that isn't the damned truth" ],
+      "in-reply-to" : [ "https://twitter.com/masonegger/status/1626231743140483075" ],
+      "published" : [ "2023-02-16T16:50:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1626262832265166850" ],
+      "url" : [ "https://twitter.com/masonegger/status/1626262832265166850" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I started using Digital Ocean a couple months ago because a friend works there and that highlighted the good judgment of DO. And that friend was caught up in the layoffs and then they do a buyback?\n\nWell hell.</div>",
+      "value" : "I started using Digital Ocean a couple months ago because a friend works there and that highlighted the good judgment of DO. And that friend was caught up in the layoffs and then they do a buyback?\n\nWell hell."
+    } ],
+    "published" : [ "2023-02-18T09:11:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1626872094675066880" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1626872094675066880" ]
+  },
+  "type" : [ "h-entry" ]
+}
