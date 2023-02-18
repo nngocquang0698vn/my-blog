@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Resident of Fluffiton's House" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Max Ircobo" ],
+          "nickname" : [ "IrcoboMartial" ],
+          "numeric-id" : [ "1114883674841989120" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1606689340503035904/S_UE3Igo.jpg" ],
+          "published" : [ "2019-04-07T13:32:36+00:00" ],
+          "uid" : [ "tag:twitter.com:IrcoboMartial" ],
+          "url" : [ "https://twitter.com/IrcoboMartial" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Is \"dude\" gender neutral?" ],
+      "published" : [ "2023-02-10T01:13:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1623852718967103490" ],
+      "url" : [ "https://twitter.com/IrcoboMartial/status/1623852718967103490" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Victoria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Delaney King" ],
+        "nickname" : [ "delaneykingrox" ],
+        "numeric-id" : [ "3181676683" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1590145526561140736/nHps-1Wq.jpg" ],
+        "published" : [ "2015-05-01T11:29:22+00:00" ],
+        "uid" : [ "tag:twitter.com:delaneykingrox" ],
+        "url" : [ "https://twitter.com/delaneykingrox", "http://www.delaneyking.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "No.  Ask men if \"they like to fuck dudes\"." ],
+    "published" : [ "2023-02-10T02:51:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1623877336503549952" ],
+    "url" : [ "https://twitter.com/delaneykingrox/status/1623877336503549952" ]
+  },
+  "type" : [ "h-entry" ]
+}
