@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "127.0.0.1" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Dev" ],
+          "nickname" : [ "TwitterDev" ],
+          "numeric-id" : [ "2244994945" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U.jpg" ],
+          "published" : [ "2013-12-14T04:35:55+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterDev" ],
+          "url" : [ "https://twitter.com/TwitterDev", "https://developer.twitter.com/en/community" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Twitter is committed to the success of our Developer ecosystem. Our previous updates still stand as we phase our roll-out over the next few weeks so that we can focus on the quality and performance of our platform. Thank you!" ],
+      "published" : [ "2023-02-17T23:56:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1626732269174943745" ],
+      "url" : [ "https://twitter.com/TwitterDev/status/1626732269174943745" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/twitterdev/sta…" ],
+      "url" : [ "https://twitter.com/twitterdev/status/1626732269174943745" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We WILL sunset this API if it’s the last thing we do.\n\nIf you how to do APIs or know someone who does, please let us know. No reason, we definitely don’t need help because we fired everyone who knows how to do this. Just let us know, OK?</div>\n<a class=\"tag\" href=\"https://twitter.com/twitterdev/status/1626732269174943745\">twitter.com/twitterdev/sta…</a>",
+      "value" : "We WILL sunset this API if it’s the last thing we do.\n\nIf you how to do APIs or know someone who does, please let us know. No reason, we definitely don’t need help because we fired everyone who knows how to do this. Just let us know, OK?"
+    } ],
+    "published" : [ "2023-02-17T23:58:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1626732750890729474" ],
+    "url" : [ "https://twitter.com/fake_api/status/1626732750890729474" ]
+  },
+  "type" : [ "h-entry" ]
+}
