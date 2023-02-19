@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://spacekaren.sucks/vhpfb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/search?q=%23AntManAndTheWaspQuantumania\">#AntManAndTheWaspQuantumania</a> was weird and wonderful. It’s Jonathan Major’s and Michelle Pfeiffer’s film, no question. Great fun, great effects, lots more to come. Plus MODOK was comic perfect.",
+      "value" : "#AntManAndTheWaspQuantumania was weird and wonderful. It’s Jonathan Major’s and Michelle Pfeiffer’s film, no question. Great fun, great effects, lots more to come. Plus MODOK was comic perfect."
+    } ],
+    "published" : [ "2023-02-19T02:17:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1627130219726528512" ],
+    "url" : [ "https://twitter.com/shanselman/status/1627130219726528512" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FpS6TwGaUAE3_nj.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
