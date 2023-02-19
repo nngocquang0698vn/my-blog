@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "MrHumanity" ],
+          "nickname" : [ "MrHumanityGives" ],
+          "numeric-id" : [ "1046250140313505792" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1501939247481118730/PIqzZW20.jpg" ],
+          "published" : [ "2018-09-30T04:07:26+00:00" ],
+          "uid" : [ "tag:twitter.com:MrHumanityGives" ],
+          "url" : [ "https://twitter.com/MrHumanityGives", "http://www.mrhumanitygives.com", "http://Youtube.com/mrhumanity" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Do you have any more details for the ad revenue sharing feature for creators? @elonmusk\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+        "value" : "Do you have any more details for the ad revenue sharing feature for creators? @elonmusk"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/elonmusk/status/1626527183752802304" ],
+      "published" : [ "2023-02-17T10:23:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1626527710297063425" ],
+      "url" : [ "https://twitter.com/MrHumanityGives/status/1626527710297063425" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/mrhumanitygive…" ],
+      "url" : [ "https://twitter.com/mrhumanitygives/status/1626527710297063425" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "They can’t even figure out how to rate limit the existing API and you think they’re going to add this anytime soon? He’s just blowing hot air, this isn’t coming.\n<a class=\"tag\" href=\"https://twitter.com/mrhumanitygives/status/1626527710297063425\">twitter.com/mrhumanitygive…</a>",
+      "value" : "They can’t even figure out how to rate limit the existing API and you think they’re going to add this anytime soon? He’s just blowing hot air, this isn’t coming."
+    } ],
+    "published" : [ "2023-02-19T09:10:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1627234068520730624" ],
+    "url" : [ "https://twitter.com/fake_api/status/1627234068520730624" ]
+  },
+  "type" : [ "h-entry" ]
+}
