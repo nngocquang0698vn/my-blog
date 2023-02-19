@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "pangaea" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "charlotte" ],
+        "nickname" : [ "cza_li" ],
+        "numeric-id" : [ "1153601408555503616" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1605115608819027968/bDOJaMx7.jpg" ],
+        "published" : [ "2019-07-23T09:43:03+00:00" ],
+        "uid" : [ "tag:twitter.com:cza_li" ],
+        "url" : [ "https://twitter.com/cza_li", "https://cza.li" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "linux tip: \"/bin\" is the recycling bin and you should regularly delete everything in there to free up space" ],
+    "published" : [ "2023-02-18T17:18:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1626994580565491712" ],
+    "url" : [ "https://twitter.com/cza_li/status/1626994580565491712" ]
+  },
+  "type" : [ "h-entry" ]
+}
