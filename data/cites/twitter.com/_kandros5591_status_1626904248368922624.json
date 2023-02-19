@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Milano 🇮🇹" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaga santagostino" ],
+        "nickname" : [ "kandros5591" ],
+        "numeric-id" : [ "829278218" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274983336142934018/tepUUJUl.jpg" ],
+        "published" : [ "2012-09-17T15:32:13+00:00" ],
+        "uid" : [ "tag:twitter.com:kandros5591" ],
+        "url" : [ "https://twitter.com/kandros5591", "http://jagasantagostino.com", "http://jagasantagostino.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My mind is blown 🤯\n\nIn a Dockerfile you can copy things from an image in the registry\n\nIt totally makes sense considering in multi-stage build you reference local layers but I never imaged using it this way\n\nFor copying executables etc is fantastic</div>",
+      "value" : "My mind is blown 🤯\n\nIn a Dockerfile you can copy things from an image in the registry\n\nIt totally makes sense considering in multi-stage build you reference local layers but I never imaged using it this way\n\nFor copying executables etc is fantastic"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FpPsylaaEAIdvay.jpg" ],
+    "published" : [ "2023-02-18T11:19:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1626904248368922624" ],
+    "url" : [ "https://twitter.com/kandros5591/status/1626904248368922624" ]
+  },
+  "type" : [ "h-entry" ]
+}
