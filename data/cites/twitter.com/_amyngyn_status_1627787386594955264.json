@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "shambles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "amy nguyen" ],
+        "nickname" : [ "amyngyn" ],
+        "numeric-id" : [ "961861063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013642778708832256/qPuV1FO_.jpg" ],
+        "published" : [ "2012-11-21T06:09:57+00:00" ],
+        "uid" : [ "tag:twitter.com:amyngyn" ],
+        "url" : [ "https://twitter.com/amyngyn", "http://amy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "who \"wears the pants\" in the relationship isn't about gender or income. it's about who gets dressed to get the food delivery when the driver leaves it too far from the door" ],
+    "published" : [ "2023-02-20T21:48:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1627787386594955264" ],
+    "url" : [ "https://twitter.com/amyngyn/status/1627787386594955264" ]
+  },
+  "type" : [ "h-entry" ]
+}
