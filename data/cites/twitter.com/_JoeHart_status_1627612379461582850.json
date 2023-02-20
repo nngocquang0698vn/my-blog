@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "joehart@social.lol 🏳️‍🌈" ],
+        "nickname" : [ "JoeHart" ],
+        "numeric-id" : [ "11385122" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1567976098041937923/ZzYmCfiZ.jpg" ],
+        "published" : [ "2007-12-20T21:27:58+00:00" ],
+        "uid" : [ "tag:twitter.com:JoeHart" ],
+        "url" : [ "https://twitter.com/JoeHart", "https://www.joehart.co.uk", "http://joehart.fun" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Is there already a tool that scrapes one's mastodon follows and extracts RSS feeds from their linked websites?\n\nIf not I'm definitely gonna get that built.</div>",
+      "value" : "Is there already a tool that scrapes one's mastodon follows and extracts RSS feeds from their linked websites?\n\nIf not I'm definitely gonna get that built."
+    } ],
+    "published" : [ "2023-02-20T10:13:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1627612379461582850" ],
+    "url" : [ "https://twitter.com/JoeHart/status/1627612379461582850" ]
+  },
+  "type" : [ "h-entry" ]
+}
