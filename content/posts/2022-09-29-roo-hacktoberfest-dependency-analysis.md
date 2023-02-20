@@ -14,6 +14,8 @@ canonical_url: https://deliveroo.engineering/2022/09/29/hacktoberfest-dependency
 ---
 <blockquote>This article was <a href="https://deliveroo.engineering/2022/09/29/hacktoberfest-dependency-analysis.html" class="u-repost-of">originally published</a> on the Deliveroo engineering blog.</blockquote>
 
+**Note** I have since created a Go command-line tool for this which can be [found on GitLab.com](https://gitlab.com/tanna.dev/dependabot-graph).
+
 ## Why contributing to Open Source is so important
 
 In recent years, it has become unavoidable to build software on top of Open Source. This is _absolutely_ a great thing, and allows developers to focus on fewer areas of domain specialisation as possible, as well as allowing a much wider range of users to pick up on defects and bring new features to our tools.
