@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada / UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack Ellis" ],
+        "nickname" : [ "JackEllis" ],
+        "numeric-id" : [ "14964243" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989296839194173440/ZRsVtbV5.jpg" ],
+        "published" : [ "2008-05-31T16:19:32+00:00" ],
+        "uid" : [ "tag:twitter.com:JackEllis" ],
+        "url" : [ "https://twitter.com/JackEllis", "http://usefathom.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My favourite thing about modern development is when my local environment randomly breaks." ],
+    "published" : [ "2023-02-20T16:23:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1627705544172769286" ],
+    "url" : [ "https://twitter.com/JackEllis/status/1627705544172769286" ]
+  },
+  "type" : [ "h-entry" ]
+}
