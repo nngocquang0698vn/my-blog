@@ -32,11 +32,14 @@ There are a few Free and Open Source projects that I maintain:
 - [renovate-one-off](https://gitlab.com/tanna.dev/renovate-one-off)
 - [endoflife-checker](https://gitlab.com/tanna.dev/endoflife-checker)
 - [missing-translations](https://gitlab.com/jamietanna/missing-translations)
+- [dependabot-graph](https://gitlab.com/tanna.dev/dependabot-graph)
+- [dmd.tanna.dev / dependency-management-data](https://dmd.tanna.dev/)
 
 I also work very hard on producing Free and Open Source solutions as part of the content on this website.
 
 I also host a number of services:
 
+- [dmd.tanna.dev](https://dmd.tanna.dev/)
 - [rsvp-calendar.tanna.dev](https://rsvp-calendar.tanna.dev/)
 - [books-mf2.herokuapp.com](https://books-mf2.herokuapp.com)
 - [meetup-mf2.herokuapp.com](https://meetup-mf2.herokuapp.com)
