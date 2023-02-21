@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@odrotbohm@chaos.social" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oliver Drotbohm 🥁 & 👨‍💻" ],
+        "nickname" : [ "odrotbohm" ],
+        "numeric-id" : [ "16736130" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/943101759681191936/9Gj94Eu1.jpg" ],
+        "published" : [ "2008-10-14T10:21:38+00:00" ],
+        "uid" : [ "tag:twitter.com:odrotbohm" ],
+        "url" : [ "https://twitter.com/odrotbohm", "https://www.odrotbohm.de/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "TFW when you find out that a security issue you fixed a while ago was discovered by someone else five years (!) earlier, but that person didn't bother to report it. 😕 <a href=\"https://twitter.com/search?q=%23opensource\">#opensource</a>",
+      "value" : "TFW when you find out that a security issue you fixed a while ago was discovered by someone else five years (!) earlier, but that person didn't bother to report it. 😕 #opensource"
+    } ],
+    "published" : [ "2023-02-21T21:54:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1628151265225048065" ],
+    "url" : [ "https://twitter.com/odrotbohm/status/1628151265225048065" ]
+  },
+  "type" : [ "h-entry" ]
+}
