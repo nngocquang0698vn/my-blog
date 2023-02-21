@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Not seeing quantum whatever in the basis that this man doesn't take his shirt off even a single time." ],
+    "photo" : [ {
+      "alt" : "A picture of a very fit Jonathan Majors in swim trunks. Did I mention that he is wet.",
+      "value" : "https://pbs.twimg.com/media/FpdVW8FaMAAzjYF.jpg"
+    } ],
+    "published" : [ "2023-02-21T02:53:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1627863968462290944" ],
+    "url" : [ "https://twitter.com/ReinH/status/1627863968462290944" ]
+  },
+  "type" : [ "h-entry" ]
+}
