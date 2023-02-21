@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Lorenz" ],
+        "nickname" : [ "TaylorLorenz" ],
+        "numeric-id" : [ "208725869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487520401731174404/SwXwcxuH.jpg" ],
+        "published" : [ "2010-10-27T20:40:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TaylorLorenz" ],
+        "url" : [ "https://twitter.com/TaylorLorenz", "https://linktr.ee/TaylorLorenz", "https://taylorlorenz.substack.com/subscribe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Relatable moment " ],
+    "published" : [ "2023-02-21T03:07:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1627867461730304001" ],
+    "url" : [ "https://twitter.com/TaylorLorenz/status/1627867461730304001" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1627804772676825091/pu/vid/576x1024/pP3iQlbhhjZvHfvd.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
