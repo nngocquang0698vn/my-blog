@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://spacekaren.sucks/vhpfb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "RIP Nichelle Nichols. To tell you what this woman means to me. This is a picture of her and I in November of 1986 around the premiere of Star Trek IV. I was so nervous. She was so gracious. I then brought my kids and my mom to meet her 30 years later. Rest in Power." ],
+    "photo" : [ {
+      "alt" : "Young Scott Hanselman and Nichelle Nichols",
+      "value" : "https://pbs.twimg.com/media/FZBQrbDVQAILJDI.jpg"
+    }, "https://pbs.twimg.com/media/FZBQrbDUUAAiv-z.jpg" ],
+    "published" : [ "2022-07-31T19:50:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1553830587122601984" ],
+    "url" : [ "https://twitter.com/shanselman/status/1553830587122601984" ]
+  },
+  "type" : [ "h-entry" ]
+}
