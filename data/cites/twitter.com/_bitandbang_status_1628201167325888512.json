@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Remote" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chris Frantz" ],
+          "nickname" : [ "frantzfries" ],
+          "numeric-id" : [ "528239425" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1329501028593627140/StRKBYOo.jpg" ],
+          "published" : [ "2012-03-18T06:59:25+00:00" ],
+          "uid" : [ "tag:twitter.com:frantzfries" ],
+          "url" : [ "https://twitter.com/frantzfries", "https://chrisfrantz.com", "http://mas.to/@frantzfries" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">This is a big overstep by Microsoft imo\n\nThey are injecting ads *into the Google Chrome download page* pushing their own browser 🫠\n\nThis should not be ok</div>",
+        "value" : "This is a big overstep by Microsoft imo\n\nThey are injecting ads *into the Google Chrome download page* pushing their own browser 🫠\n\nThis should not be ok"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FphzcgsXwAAZ0Y7.jpg" ],
+      "published" : [ "2023-02-21T23:41:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1628178202395873286" ],
+      "url" : [ "https://twitter.com/frantzfries/status/1628178202395873286" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren (parody)" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1594590544176582656/NMUTV2v_.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "it is absolutely fucking tragic what's happened to Edge. This is default, never-used Edge on my personal PC - ads, toolbars... it feels like they're just desperately trying to suck money out of users with ads. " ],
+    "photo" : [ {
+      "alt" : "Screenshot of default Microsoft Edge - tons of news ads, product-based sidebars, and Microsoft bing integrations.",
+      "value" : "https://pbs.twimg.com/media/FpiHwUuXwAIqRoj.jpg"
+    } ],
+    "published" : [ "2023-02-22T01:13:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1628201167325888512" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1628201167325888512" ]
+  },
+  "type" : [ "h-entry" ]
+}
