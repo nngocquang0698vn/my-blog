@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Remote" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chris Frantz" ],
+          "nickname" : [ "frantzfries" ],
+          "numeric-id" : [ "528239425" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1329501028593627140/StRKBYOo.jpg" ],
+          "published" : [ "2012-03-18T06:59:25+00:00" ],
+          "uid" : [ "tag:twitter.com:frantzfries" ],
+          "url" : [ "https://twitter.com/frantzfries", "https://chrisfrantz.com", "http://mas.to/@frantzfries" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">This is a big overstep by Microsoft imo\n\nThey are injecting ads *into the Google Chrome download page* pushing their own browser 🫠\n\nThis should not be ok</div>",
+        "value" : "This is a big overstep by Microsoft imo\n\nThey are injecting ads *into the Google Chrome download page* pushing their own browser 🫠\n\nThis should not be ok"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FphzcgsXwAAZ0Y7.jpg" ],
+      "published" : [ "2023-02-21T23:41:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1628178202395873286" ],
+      "url" : [ "https://twitter.com/frantzfries/status/1628178202395873286" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "hopeless brexit kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "clip studio pain" ],
+        "nickname" : [ "freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1610376840878723072/Z6rYER4L.jpg" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://www.laura.monster" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "okay this is bad but in the other hand it rules that every piece of software microsoft touches ends up developing anxiety it’s really funny" ],
+    "published" : [ "2023-02-22T19:16:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1628473715217367043" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1628473715217367043" ]
+  },
+  "type" : [ "h-entry" ]
+}
