@@ -1,0 +1,53 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "potatum🥔" ],
+          "nickname" : [ "pot8um" ],
+          "numeric-id" : [ "97746906" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1625548518457851921/gCwJ6vqR.jpg" ],
+          "published" : [ "2009-12-18T20:59:44+00:00" ],
+          "uid" : [ "tag:twitter.com:pot8um" ],
+          "url" : [ "https://twitter.com/pot8um", "https://linktr.ee/pot8um" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Me after completing a simple 10-minute task that I’d been putting off for 3 months" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fpl4eQaXsAEVaCP.jpg" ],
+      "published" : [ "2023-02-22T18:42:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1628465204177534977" ],
+      "url" : [ "https://twitter.com/pot8um/status/1628465204177534977" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Victoria Duncan" ],
+        "nickname" : [ "SNeurotypicals" ],
+        "numeric-id" : [ "1176205717876797440" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1553928788651610112/qTzi3azF.jpg" ],
+        "published" : [ "2019-09-23T18:44:39+00:00" ],
+        "uid" : [ "tag:twitter.com:SNeurotypicals" ],
+        "url" : [ "https://twitter.com/SNeurotypicals" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Me realizing I'm going to have to say \"no\" in neurotypical \n\n[Alt: it's a composite image in 3 horizontal rows, each one showing Pedro Pascal's character from Last of Us in various stages of angst. In two of them he's leaning on a fence post as though sad/tired] </div>",
+      "value" : "Me realizing I'm going to have to say \"no\" in neurotypical \n\n[Alt: it's a composite image in 3 horizontal rows, each one showing Pedro Pascal's character from Last of Us in various stages of angst. In two of them he's leaning on a fence post as though sad/tired] "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FpmBRr6aUAA_aJR.jpg" ],
+    "published" : [ "2023-02-22T19:20:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1628474884493033472" ],
+    "url" : [ "https://twitter.com/SNeurotypicals/status/1628474884493033472" ]
+  },
+  "type" : [ "h-entry" ]
+}
