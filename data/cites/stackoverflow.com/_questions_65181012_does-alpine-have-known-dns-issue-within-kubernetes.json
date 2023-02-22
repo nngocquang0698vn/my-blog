@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Does Alpine have known DNS issue within Kubernetes?" ],
+    "summary" : [ "Lately, we've faced some DNS issues with micro-services based on Alpine image (node:12.18.1-alpine) on EKS when trying to resolve &quot;big&quot; DNS queries (When the answer is larger than 512M).\n..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/65181012/does-alpine-have-known-dns-issue-within-kubernetes" ]
+  }
+}
