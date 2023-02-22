@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Charity Majors" ],
+          "nickname" : [ "mipsytipsy" ],
+          "numeric-id" : [ "90488576" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1576759705933819904/iDotz1Gw.jpg" ],
+          "published" : [ "2009-11-16T21:28:13+00:00" ],
+          "uid" : [ "tag:twitter.com:mipsytipsy" ],
+          "url" : [ "https://twitter.com/mipsytipsy", "http://charity.wtf" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "well this shit just made my morning. the datadog receiver in otel is moving again! 🌷🌻🌼🎉🦄📈💜✨🙏🌈 thanks <a href=\"https://twitter.com/boostchicken\">@boostchicken</a> ☺️ <a href=\"https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836#issuecomment-1155145470\">github.com/open-telemetry…</a>",
+        "value" : "well this shit just made my morning. the datadog receiver in otel is moving again! 🌷🌻🌼🎉🦄📈💜✨🙏🌈 thanks @boostchicken ☺️ github.com/open-telemetry…"
+      } ],
+      "published" : [ "2023-01-26T17:39:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1618664818407538688" ],
+      "url" : [ "https://twitter.com/mipsytipsy/status/1618664818407538688" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Worldwide" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kiwi.com Engineering" ],
+        "nickname" : [ "codekiwicom" ],
+        "numeric-id" : [ "743065783299932161" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1042413812522135552/KCd9ml53.png" ],
+        "published" : [ "2016-06-15T13:01:03+00:00" ],
+        "uid" : [ "tag:twitter.com:codekiwicom" ],
+        "url" : [ "https://twitter.com/codekiwicom", "http://code.kiwi.com", "https://linktr.ee/codekiwicom" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Datadog receiver PR got merged, and we cannot hide our excitement about it!✨\nThank you👏 <a href=\"https://twitter.com/boostchicken\">@boostchicken</a> <a href=\"https://twitter.com/grafana\">@grafana</a></div>",
+      "value" : "Datadog receiver PR got merged, and we cannot hide our excitement about it!✨\nThank you👏 @boostchicken @grafana"
+    } ],
+    "published" : [ "2023-02-01T13:39:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1620778839789154305" ],
+    "url" : [ "https://twitter.com/codekiwicom/status/1620778839789154305" ]
+  },
+  "type" : [ "h-entry" ]
+}
