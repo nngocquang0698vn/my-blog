@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kent Beck 🌻" ],
+        "nickname" : [ "KentBeck" ],
+        "numeric-id" : [ "16891384" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457857343568244742/FVQ4hpRx.jpg" ],
+        "published" : [ "2008-10-21T18:56:26+00:00" ],
+        "uid" : [ "tag:twitter.com:KentBeck" ],
+        "url" : [ "https://twitter.com/KentBeck", "http://www.kentbeck.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"I know you're doing a great job as a senior engineer but we just want to see one more semester of that performance before promoting you. We'd hate to have you fail at the higher level.\"" ],
+    "in-reply-to" : [ "https://twitter.com/KentBeck/status/1497301995069194241" ],
+    "published" : [ "2022-02-25T20:06:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1497301996038094851" ],
+    "url" : [ "https://twitter.com/KentBeck/status/1497301996038094851" ]
+  },
+  "type" : [ "h-entry" ]
+}
