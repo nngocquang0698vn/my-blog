@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "evergreen" ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1628830926573649923" ],
+    "photo" : [ {
+      "alt" : "tweet from me, 12/6/20: mamas don't let your babies grow up to be open source maintainers \n\ntweet from my daughter @NaraColdwater: ok",
+      "value" : "https://pbs.twimg.com/media/FprILFpWcAA6NiO.jpg"
+    } ],
+    "published" : [ "2023-02-23T19:08:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1628834311880298498" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1628834311880298498" ]
+  },
+  "type" : [ "h-entry" ]
+}
