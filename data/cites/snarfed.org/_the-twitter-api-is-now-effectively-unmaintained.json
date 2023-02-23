@@ -1,0 +1,46 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Twitter API is now effectively unmaintained" ],
+    "url" : [ "https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained" ],
+    "syndication" : [ "https://twittercommunity.com/t/the-twitter-api-is-now-effectively-unmaintained/186011", "https://news.indieweb.org/en/submit" ],
+    "published" : [ "2023-02-22T20:37:54-08:00" ],
+    "content" : [ {
+      "html" : "<em>\n<a class=\"u-syndication\" href=\"https://twittercommunity.com/t/the-twitter-api-is-now-effectively-unmaintained/186011\">Posted on the Twitter Developers forum</a>\n<a class=\"u-syndication\" href=\"https://news.indieweb.org/en/submit\">and IndieNews</a>.\n</em>\n<p>Hi all! I don’t have much new to say about the ongoing chaos at Twitter or the impending death of the free API tier. I’d just like to draw your attention to <a href=\"https://twittercommunity.com/g/twitter/activity/posts\">this page that shows Twitter employees’ posts here on this forum, in chronological order, descending</a>.</p>\n<p>Before December, a large number of employees posted here regularly on a wide range of topics. Over the last few months, only a single Twitter employee has posted here consistently, and only about the Ads API. A couple others have posted once or twice, but not recently.</p>\n<p>Another data point: <a href=\"https://twittercommunity.com/new\">of the 20 newest posts on this forum, 12 are about Twitter not responding to the standard API access request process, and 4 seem to be about API bugs</a>. This has been the pattern for a while now. It seems like Twitter is now largely ignoring all manual processes and bugs.</p>\n<p>Another, from <a href=\"https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline\">The Verge’s <em>Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter</em></a>:</p>\n<blockquote><p>\n  The team that manages Twitter API for developers has been severely gutted.\n</p></blockquote>\n<p><a href=\"https://techcrunch.com/2022/12/15/developer-platforms-are-all-about-trust-and-twitter-lost-it/\">Another, from the head of Twitter’s public API</a>:</p>\n<blockquote><p>\n  Jack Dorsey and Bruce Falk…charged me with reopening the Twitter API…And then, on November 4, we were fired. Our work computers were bricked in the middle of the night and emails appeared in our personal accounts telling us we were fired…Let this be my personal notice to Twitter developers: The team is gone; the investment has been undone.\n</p></blockquote>\n<p><a href=\"https://twitter.com/chrismoodycom/status/1623123171842097153\">A final data point, from the former head of Gnip and Twitter’s enterprise API business a couple weeks ago</a>:</p>\n<blockquote><p>\n  Twitter already had a $400m paid API business…They fired the entire team so that business will go to $0 soon.\n</p></blockquote>\n<p>I’ll leave it to you all to draw conclusions. For my part, I conclude that the Twitter API is now effectively unmaintained. I expect the company will only touch it when they get a misguided edict from the top – for example, the upcoming free API lobotomy. When that happens, I expect it will be done by engineers from the other side of the org, who don’t know the code or systems much or at all, and will probably break more than they “fix.” I suspect even that is optimistic.</p>\n<p>For my part, sadly I’ve stopped all new development on the Twitter API(s) entirely. I may end up paying for when they force me to, to keep my existing projects and users functional, but I don’t know for how long. Probably not much.</p>\n<p>😢🫡</p>",
+      "value" : "Posted on the Twitter Developers forum and IndieNews.\nHi all! I don’t have much new to say about the ongoing chaos at Twitter or the impending death of the free API tier. I’d just like to draw your attention to this page that shows Twitter employees’ posts here on this forum, in chronological order, descending.\nBefore December, a large number of employees posted here regularly on a wide range of topics. Over the last few months, only a single Twitter employee has posted here consistently, and only about the Ads API. A couple others have posted once or twice, but not recently.\nAnother data point: of the 20 newest posts on this forum, 12 are about Twitter not responding to the standard API access request process, and 4 seem to be about API bugs. This has been the pattern for a while now. It seems like Twitter is now largely ignoring all manual processes and bugs.\nAnother, from The Verge’s Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter:\nThe team that manages Twitter API for developers has been severely gutted.\nAnother, from the head of Twitter’s public API:\nJack Dorsey and Bruce Falk…charged me with reopening the Twitter API…And then, on November 4, we were fired. Our work computers were bricked in the middle of the night and emails appeared in our personal accounts telling us we were fired…Let this be my personal notice to Twitter developers: The team is gone; the investment has been undone.\nA final data point, from the former head of Gnip and Twitter’s enterprise API business a couple weeks ago:\nTwitter already had a $400m paid API business…They fired the entire team so that business will go to $0 soon.\nI’ll leave it to you all to draw conclusions. For my part, I conclude that the Twitter API is now effectively unmaintained. I expect the company will only touch it when they get a misguided edict from the top – for example, the upcoming free API lobotomy. When that happens, I expect it will be done by engineers from the other side of the org, who don’t know the code or systems much or at all, and will probably break more than they “fix.” I suspect even that is optimistic.\nFor my part, sadly I’ve stopped all new development on the Twitter API(s) entirely. I may end up paying for when they force me to, to keep my existing projects and users functional, but I don’t know for how long. Probably not much.\n😢🫡",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
