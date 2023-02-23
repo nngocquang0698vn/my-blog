@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Mountain View, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chrome Developers" ],
+          "nickname" : [ "ChromiumDev" ],
+          "numeric-id" : [ "113713261" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1493981041073299465/Lf-9cv4V.png" ],
+          "published" : [ "2010-02-12T19:48:38+00:00" ],
+          "uid" : [ "tag:twitter.com:ChromiumDev" ],
+          "url" : [ "https://twitter.com/ChromiumDev", "https://web.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Chrome’s Headless mode just got a whole lot better! We made Headless more useful for developers by bringing it closer to Chrome’s regular “headful” mode.\n\n👉🏼 <a href=\"https://developer.chrome.com/articles/new-headless/\">developer.chrome.com/articles/new-h…</a></div>",
+        "value" : "Chrome’s Headless mode just got a whole lot better! We made Headless more useful for developers by bringing it closer to Chrome’s regular “headful” mode.\n\n👉🏼 developer.chrome.com/articles/new-h…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fpk4qFTXwAEV8Fm.jpg" ],
+      "published" : [ "2023-02-22T17:00:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1628439484043001856" ],
+      "url" : [ "https://twitter.com/ChromiumDev/status/1628439484043001856" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "https://mastodon.xyz/@mathias" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mathias Bynens" ],
+        "nickname" : [ "mathias" ],
+        "numeric-id" : [ "532923" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/952797845534453760/HRhT4f_5.jpg" ],
+        "published" : [ "2007-01-04T11:37:32+00:00" ],
+        "uid" : [ "tag:twitter.com:mathias" ],
+        "url" : [ "https://twitter.com/mathias", "https://mths.be/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Did you know that “old” Chrome Headless (2017–2023) was a separate, alternate browser implementation that just happened to be shipped as part of the same Chrome binary? 🤯 It doesn’t share any of the Chrome browser code in //chrome!\n\nSay hello to --headless=new in Chrome 112!</div>",
+      "value" : "Did you know that “old” Chrome Headless (2017–2023) was a separate, alternate browser implementation that just happened to be shipped as part of the same Chrome binary? 🤯 It doesn’t share any of the Chrome browser code in //chrome!\n\nSay hello to --headless=new in Chrome 112!"
+    } ],
+    "published" : [ "2023-02-22T19:28:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1628476883233828872" ],
+    "url" : [ "https://twitter.com/mathias/status/1628476883233828872" ]
+  },
+  "type" : [ "h-entry" ]
+}
