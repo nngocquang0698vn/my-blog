@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jack Cully" ],
+          "nickname" : [ "JackCully" ],
+          "numeric-id" : [ "65926177" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1600083134309179392/B3vnhEN0.jpg" ],
+          "published" : [ "2009-08-15T16:13:42+00:00" ],
+          "uid" : [ "tag:twitter.com:JackCully" ],
+          "url" : [ "https://twitter.com/JackCully", "http://cully.blog/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Please don’t BNPL your takeaway" ],
+      "photo" : [ "https://pbs.twimg.com/media/FeeYQ9FWYAIkRqV.jpg" ],
+      "published" : [ "2022-10-07T14:51:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1578397617784070144" ],
+      "url" : [ "https://twitter.com/JackCully/status/1578397617784070144" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "earth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@rubynerd" ],
+        "nickname" : [ "rubynerd" ],
+        "numeric-id" : [ "207100150" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/821314749929553921/zvYJvU4J.jpg" ],
+        "published" : [ "2010-10-24T14:28:28+00:00" ],
+        "uid" : [ "tag:twitter.com:rubynerd" ],
+        "url" : [ "https://twitter.com/rubynerd", "https://rubynerd.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "contractually speaking this is all i have to say on this matter " ],
+    "photo" : [ "https://pbs.twimg.com/media/FegibSCXgAUfXgL.jpg" ],
+    "published" : [ "2022-10-08T00:55:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1578549525811462146" ],
+    "url" : [ "https://twitter.com/rubynerd/status/1578549525811462146" ]
+  },
+  "type" : [ "h-entry" ]
+}
