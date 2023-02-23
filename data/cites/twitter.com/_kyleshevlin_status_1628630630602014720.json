@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Baking isn't basic. It's chemistry in a kitchen. Don't beat yourself up over it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kefimochi\"></a>",
+      "value" : "Baking isn't basic. It's chemistry in a kitchen. Don't beat yourself up over it."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kefimochi/status/1628629410361507840" ],
+    "published" : [ "2023-02-23T05:39:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1628630630602014720" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1628630630602014720" ]
+  },
+  "type" : [ "h-entry" ]
+}
