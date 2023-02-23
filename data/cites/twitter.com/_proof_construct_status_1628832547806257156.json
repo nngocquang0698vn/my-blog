@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "everywhere" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Ithymia" ],
+        "nickname" : [ "proof_construct" ],
+        "numeric-id" : [ "1497471363031916546" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1620533929907290113/biWs-r44.jpg" ],
+        "published" : [ "2022-02-26T07:19:33+00:00" ],
+        "uid" : [ "tag:twitter.com:proof_construct" ],
+        "url" : [ "https://twitter.com/proof_construct", "http://left.associates" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "That funny feeling when you're not getting paid but still getting tagged on PRs\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>",
+      "value" : "That funny feeling when you're not getting paid but still getting tagged on PRs"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1628830926573649923" ],
+    "published" : [ "2023-02-23T19:01:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1628832547806257156" ],
+    "url" : [ "https://twitter.com/proof_construct/status/1628832547806257156" ]
+  },
+  "type" : [ "h-entry" ]
+}
