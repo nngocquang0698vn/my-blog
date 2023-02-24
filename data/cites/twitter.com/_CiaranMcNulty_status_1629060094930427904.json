@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wandsworth, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ciaran McNulty" ],
+        "nickname" : [ "CiaranMcNulty" ],
+        "numeric-id" : [ "12019422" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942121649633153024/k7rdKXve.jpg" ],
+        "published" : [ "2008-01-09T09:32:32+00:00" ],
+        "uid" : [ "tag:twitter.com:CiaranMcNulty" ],
+        "url" : [ "https://twitter.com/CiaranMcNulty", "http://ciaranmcnulty.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm slowly changing my attitude from: \"I should be able to do work I don't find interesting\"\n\nTo: \"I am not able to do work I don't find interesting\"\n\nA small change but it feels important, enabled by gradually processing my diagnosis of <a href=\"https://twitter.com/search?q=%23ADHD\">#ADHD</a></div>",
+      "value" : "I'm slowly changing my attitude from: \"I should be able to do work I don't find interesting\"\n\nTo: \"I am not able to do work I don't find interesting\"\n\nA small change but it feels important, enabled by gradually processing my diagnosis of #ADHD"
+    } ],
+    "published" : [ "2023-02-24T10:06:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1629060094930427904" ],
+    "url" : [ "https://twitter.com/CiaranMcNulty/status/1629060094930427904" ]
+  },
+  "type" : [ "h-entry" ]
+}
