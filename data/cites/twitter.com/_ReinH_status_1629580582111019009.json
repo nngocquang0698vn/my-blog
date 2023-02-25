@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Manuel Frigerio" ],
+          "nickname" : [ "manuel_frigerio" ],
+          "numeric-id" : [ "469242190" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1590101958244925441/FU5GuyH9.jpg" ],
+          "published" : [ "2012-01-20T11:36:52+00:00" ],
+          "uid" : [ "tag:twitter.com:manuel_frigerio" ],
+          "url" : [ "https://twitter.com/manuel_frigerio", "https://manuel.friger.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Please don't apply for a Senior dev position if your Github looks like this..." ],
+      "photo" : [ "https://pbs.twimg.com/media/FpuVacSaIAAF1HC.png" ],
+      "published" : [ "2023-02-24T10:05:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1629059975418089474" ],
+      "url" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this you? " ],
+    "photo" : [ {
+      "alt" : "A screenshot of Manuel's github contribution graph, which has zero contributions",
+      "value" : "https://pbs.twimg.com/media/Fp1u465aMAAug4h.jpg"
+    } ],
+    "published" : [ "2023-02-25T20:34:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1629580582111019009" ],
+    "url" : [ "https://twitter.com/ReinH/status/1629580582111019009" ]
+  },
+  "type" : [ "h-entry" ]
+}
