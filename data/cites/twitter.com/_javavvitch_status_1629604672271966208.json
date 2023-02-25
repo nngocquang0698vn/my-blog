@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Savannah, GA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "James Garrett" ],
+          "nickname" : [ "jamesgarrettjr" ],
+          "numeric-id" : [ "60929336" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/336461883/n201400707_33182295_3346404.jpg" ],
+          "published" : [ "2009-07-28T15:16:25+00:00" ],
+          "uid" : [ "tag:twitter.com:jamesgarrettjr" ],
+          "url" : [ "https://twitter.com/jamesgarrettjr", "https://www.jamesg.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Also please don’t apply to senior roles with $120k salaries. It hurts the profession 😔\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+        "value" : "Also please don’t apply to senior roles with $120k salaries. It hurts the profession 😔"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fp0GgjlXwAIOC1f.jpg" ],
+      "published" : [ "2023-02-25T12:58:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1629465882396073985" ],
+      "url" : [ "https://twitter.com/jamesgarrettjr/status/1629465882396073985" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1611886230844719105/h2hhgPEn.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch", "http://ConquerSystemDesign.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh they eatin' him UP " ],
+    "published" : [ "2023-02-25T22:10:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1629604672271966208" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1629604672271966208" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fp2EuLQXsAED1y4.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
