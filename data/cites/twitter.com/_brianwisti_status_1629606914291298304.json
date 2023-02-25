@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I mean\n\nI have a very busy-looking Github graph (if you include private repos) because I use GH as a synchronization tool for my notes. Not much code in there. The code repo host is on my Pi.\n\nJust agreeing that yeah pretty colors are a measure of nothing but pretty colors.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ReinH\"></a>",
+      "value" : "I mean\n\nI have a very busy-looking Github graph (if you include private repos) because I use GH as a synchronization tool for my notes. Not much code in there. The code repo host is on my Pi.\n\nJust agreeing that yeah pretty colors are a measure of nothing but pretty colors."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1629580987318562816" ],
+    "published" : [ "2023-02-25T22:18:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1629606914291298304" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1629606914291298304" ]
+  },
+  "type" : [ "h-entry" ]
+}
