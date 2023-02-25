@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Fairfax, VA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Geesaman" ],
+        "nickname" : [ "bradgeesaman" ],
+        "numeric-id" : [ "47816573" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1308554789668769792/lOufvD2r.jpg" ],
+        "published" : [ "2009-06-17T02:06:15+00:00" ],
+        "uid" : [ "tag:twitter.com:bradgeesaman" ],
+        "url" : [ "https://twitter.com/bradgeesaman", "http://honk.sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s not S3 ransomware unless it comes from the global region of AWS.  Otherwise, it’s just “sparkling bucket encryption events”." ],
+    "published" : [ "2023-02-25T14:53:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1629494794773835778" ],
+    "url" : [ "https://twitter.com/bradgeesaman/status/1629494794773835778" ]
+  },
+  "type" : [ "h-entry" ]
+}
