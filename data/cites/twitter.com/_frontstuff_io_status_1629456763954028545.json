@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Dayan" ],
+        "nickname" : [ "frontstuff_io" ],
+        "numeric-id" : [ "937000244650192897" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/977873484759158784/mOItIR7M.jpg" ],
+        "published" : [ "2017-12-02T16:47:21+00:00" ],
+        "uid" : [ "tag:twitter.com:frontstuff_io" ],
+        "url" : [ "https://twitter.com/frontstuff_io", "https://sarahdayan.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The more you grow in your engineering career, the less purely technical your concerns and conversations become." ],
+    "published" : [ "2023-02-25T12:22:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1629456763954028545" ],
+    "url" : [ "https://twitter.com/frontstuff_io/status/1629456763954028545" ]
+  },
+  "type" : [ "h-entry" ]
+}
