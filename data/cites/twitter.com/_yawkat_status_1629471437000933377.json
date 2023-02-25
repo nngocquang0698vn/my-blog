@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Potsdam, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "yawkat" ],
+        "nickname" : [ "yawkat" ],
+        "numeric-id" : [ "463764901" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1157383446584602624/8-g8xmXO.jpg" ],
+        "published" : [ "2012-01-14T13:08:37+00:00" ],
+        "uid" : [ "tag:twitter.com:yawkat" ],
+        "url" : [ "https://twitter.com/yawkat", "http://yawk.at" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It's because his contribution graph looks like this <a href=\"https://github.com/ManuelFrigerio\">github.com/ManuelFrigerio</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Rutix\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/siaw23\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/skelz0r\"></a>",
+      "value" : "It's because his contribution graph looks like this github.com/ManuelFrigerio"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Rutix/status/1629432267960360961" ],
+    "photo" : [ {
+      "alt" : "Empty github contribution graph",
+      "value" : "https://pbs.twimg.com/media/Fp0LofYWwAEWK4H.jpg"
+    } ],
+    "published" : [ "2023-02-25T13:20:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1629471437000933377" ],
+    "url" : [ "https://twitter.com/yawkat/status/1629471437000933377" ]
+  },
+  "type" : [ "h-entry" ]
+}
