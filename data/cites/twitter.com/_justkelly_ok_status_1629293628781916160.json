@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Global" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Associated Press" ],
+          "nickname" : [ "AP" ],
+          "numeric-id" : [ "51241574" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv.png" ],
+          "published" : [ "2009-06-26T21:48:52+00:00" ],
+          "uid" : [ "tag:twitter.com:AP" ],
+          "url" : [ "https://twitter.com/AP", "https://apnews.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "BREAKING: The Biden administration has moved to require patients see a doctor in person before getting attention deficit disorder medication or addictive painkillers, toughening access to the drugs against the backdrop of a deepening opioid crisis. <a href=\"https://apnews.com/article/prescription-drugs-medication-opioids-health-1f23131435341fd192f41f9db027255f?taid=63f95d97f450b9000167d375&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter\">apnews.com/article/prescr…</a>",
+        "value" : "BREAKING: The Biden administration has moved to require patients see a doctor in person before getting attention deficit disorder medication or addictive painkillers, toughening access to the drugs against the backdrop of a deepening opioid crisis. apnews.com/article/prescr…"
+      } ],
+      "published" : [ "2023-02-25T01:00:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1629285114680074247" ],
+      "url" : [ "https://twitter.com/AP/status/1629285114680074247" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/ap/status/1629…" ],
+      "url" : [ "https://twitter.com/ap/status/1629285114680074247" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543218193199685632/tOcSbY0j.jpg" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "https://abortionfunds.org/need-abortion/#funds", "http://ko-fi.com/kellyellis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I get it for opioids, but fuck off with gatekeeping ADHD meds. People are finally able to access care, and they wanna take it away.\n<a class=\"tag\" href=\"https://twitter.com/ap/status/1629285114680074247\">twitter.com/ap/status/1629…</a>",
+      "value" : "I get it for opioids, but fuck off with gatekeeping ADHD meds. People are finally able to access care, and they wanna take it away."
+    } ],
+    "published" : [ "2023-02-25T01:34:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1629293628781916160" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1629293628781916160" ]
+  },
+  "type" : [ "h-entry" ]
+}
