@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren (parody)" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1594590544176582656/NMUTV2v_.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "as someone who’s done a lot of open source, this is an extremely bad and unhealthy take.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "as someone who’s done a lot of open source, this is an extremely bad and unhealthy take."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ],
+    "published" : [ "2023-02-25T21:17:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1629591440618663938" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1629591440618663938" ]
+  },
+  "type" : [ "h-entry" ]
+}
