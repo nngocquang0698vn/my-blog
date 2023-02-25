@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve (Builder.io)" ],
+        "nickname" : [ "Steve8708" ],
+        "numeric-id" : [ "16705419" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1579200056090951680/j3-H7soT.jpg" ],
+        "published" : [ "2008-10-12T06:30:51+00:00" ],
+        "uid" : [ "tag:twitter.com:Steve8708" ],
+        "url" : [ "https://twitter.com/Steve8708", "https://builder.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "naming conventions, lol" ],
+    "photo" : [ "https://pbs.twimg.com/media/FpvQY4DaEAASW5L.jpg" ],
+    "published" : [ "2023-02-24T14:23:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1629124957988085761" ],
+    "url" : [ "https://twitter.com/Steve8708/status/1629124957988085761" ]
+  },
+  "type" : [ "h-entry" ]
+}
