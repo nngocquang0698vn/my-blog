@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "go test and parallelism" ],
+    "summary" : [ "I was recently debugging an issue in some integration-style Go tests which made me realize that I didn't have a very deep understanding of how parallelism works when using `go test`." ],
+    "featured" : [ "https://prettymuchbryce.s3.us-west-1.amazonaws.com/me.jpeg" ],
+    "url" : [ "https://bryce.is/writing/code/go-test-and-parallelism.html" ]
+  }
+}
