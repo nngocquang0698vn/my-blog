@@ -29,6 +29,7 @@ build:
   image:
     name: registry.gitlab.com/tanna.dev/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
+  tags: [ saas-linux-medium-amd64 ]
   artifacts:
     expire_in: 30 minutes
     name: "$CI_COMMIT_REF_SLUG"
