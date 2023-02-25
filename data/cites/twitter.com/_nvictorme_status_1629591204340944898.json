@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "US" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Victor Noguera" ],
+        "nickname" : [ "nvictorme" ],
+        "numeric-id" : [ "128638867" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1623725703416905734/ZQWe3LUF.jpg" ],
+        "published" : [ "2010-04-01T18:50:55+00:00" ],
+        "uid" : [ "tag:twitter.com:nvictorme" ],
+        "url" : [ "https://twitter.com/nvictorme", "https://unstoppabledomains.com/d/nvictor.x" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BenjaminEHowe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BenjaminEHowe/status/1629571877776621568" ],
+    "published" : [ "2023-02-25T21:16:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1629591204340944898" ],
+    "url" : [ "https://twitter.com/nvictorme/status/1629591204340944898" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fp14j41XoAIeGdx.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
