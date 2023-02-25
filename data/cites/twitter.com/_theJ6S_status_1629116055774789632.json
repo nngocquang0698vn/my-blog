@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Johannes @j6s@mastodon.social" ],
+        "nickname" : [ "theJ6S" ],
+        "numeric-id" : [ "123036080" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/834362493661233152/HPOWEY1K.jpg" ],
+        "published" : [ "2010-03-14T19:32:28+00:00" ],
+        "uid" : [ "tag:twitter.com:theJ6S" ],
+        "url" : [ "https://twitter.com/theJ6S", "http://thej6s.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Please don't use public code contributions as your metric for good developers.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "Please don't use public code contributions as your metric for good developers."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ],
+    "published" : [ "2023-02-24T13:48:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1629116055774789632" ],
+    "url" : [ "https://twitter.com/theJ6S/status/1629116055774789632" ]
+  },
+  "type" : [ "h-entry" ]
+}
