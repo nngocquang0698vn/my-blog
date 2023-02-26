@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Go Community" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Go Time ⏰" ],
+          "nickname" : [ "GoTimeFM" ],
+          "numeric-id" : [ "4444394117" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/719641490989789184/n6GGkDEo.jpg" ],
+          "published" : [ "2015-12-11T03:47:27+00:00" ],
+          "uid" : [ "tag:twitter.com:GoTimeFM" ],
+          "url" : [ "https://twitter.com/GoTimeFM", "https://gotime.fm" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">💥 New episode of Go Time 💥\n\n💡 What's new in Go 1.20\n😎 featuring <a href=\"https://twitter.com/carlmjohnson\">@carlmjohnson</a>\n🎤 with <a href=\"https://twitter.com/jboursiquot\">@jboursiquot</a> &amp; <a href=\"https://twitter.com/matryer\">@matryer</a>\n\n💚 <a href=\"https://gotime.fm/267\">gotime.fm/267</a> <a href=\"https://twitter.com/search?q=%23golang\">#golang</a></div>",
+        "value" : "💥 New episode of Go Time 💥\n\n💡 What's new in Go 1.20\n😎 featuring @carlmjohnson\n🎤 with @jboursiquot & @matryer\n\n💚 gotime.fm/267 #golang"
+      } ],
+      "published" : [ "2023-02-16T23:01:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1626356233862098945" ],
+      "url" : [ "https://twitter.com/GoTimeFM/status/1626356233862098945" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gotimefm/statu…" ],
+      "url" : [ "https://twitter.com/gotimefm/status/1626356233862098945" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1568483994471223297/D7gkmiGs.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’d you like <a href=\"https://twitter.com/search?q=%23golang\">#golang</a> and silly giggling schoolboys, this is the listen for you.\n<a class=\"tag\" href=\"https://twitter.com/gotimefm/status/1626356233862098945\">twitter.com/gotimefm/statu…</a>",
+      "value" : "I’d you like #golang and silly giggling schoolboys, this is the listen for you."
+    } ],
+    "published" : [ "2023-02-26T08:31:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1629760931218571265" ],
+    "url" : [ "https://twitter.com/matryer/status/1629760931218571265" ]
+  },
+  "type" : [ "h-entry" ]
+}
