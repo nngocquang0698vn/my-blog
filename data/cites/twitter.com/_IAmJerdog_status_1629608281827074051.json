@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy, The Patronizing Saint of DevOps 🇺🇲🇺🇦" ],
+        "nickname" : [ "IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1603859732556660738/XH-zOqQ3.png" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Especially if most of their work has been done on internal projects, or, *gasp* on GitLab.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kellyjandrews\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kirill_shevch\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "Especially if most of their work has been done on internal projects, or, *gasp* on GitLab."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kellyjandrews/status/1629490014101831680" ],
+    "published" : [ "2023-02-25T22:24:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1629608281827074051" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1629608281827074051" ]
+  },
+  "type" : [ "h-entry" ]
+}
