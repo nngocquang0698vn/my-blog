@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kirill Shevchenko" ],
+        "nickname" : [ "kirill_shevch" ],
+        "numeric-id" : [ "617155906" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1139607208591876099/oU6sAvAG.png" ],
+        "published" : [ "2012-06-24T14:09:16+00:00" ],
+        "uid" : [ "tag:twitter.com:kirill_shevch" ],
+        "url" : [ "https://twitter.com/kirill_shevch", "http://kirillshevch.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "most senior engineers I know have a profile like that\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "most senior engineers I know have a profile like that"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ],
+    "published" : [ "2023-02-24T14:24:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1629125148258234371" ],
+    "url" : [ "https://twitter.com/kirill_shevch/status/1629125148258234371" ]
+  },
+  "type" : [ "h-entry" ]
+}
