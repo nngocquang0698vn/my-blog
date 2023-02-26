@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "From Go on EC2 to Fly.io: +fun, −$9/mo" ],
+    "summary" : [ "How I switched hosting my Go-based side projects from Amazon EC2 to Fly.io, significantly simplified deployment, and saved a bit of cash while I was at it." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ben Hoyt" ]
+      }
+    } ],
+    "url" : [ "https://benhoyt.com/writings/flyio/" ]
+  }
+}
