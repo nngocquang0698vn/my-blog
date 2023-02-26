@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Zoë Schiffer" ],
+          "nickname" : [ "ZoeSchiffer" ],
+          "numeric-id" : [ "808464904575299584" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1564799885794086914/ZU6qMT_n.jpg" ],
+          "published" : [ "2016-12-13T00:13:48+00:00" ],
+          "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+          "url" : [ "https://twitter.com/ZoeSchiffer", "https://mastodon.social/@zoeschiffer" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Just got confirmation that Esther Crawford, chief executive of Twitter Payments, is out." ],
+      "published" : [ "2023-02-26T18:52:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1629917304799760384" ],
+      "url" : [ "https://twitter.com/ZoeSchiffer/status/1629917304799760384" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593964807115284480/cG88df7Z.jpg" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This was the woman who posted a picture of herself sleeping in the office to meet Elon’s deadlines.\n\nAt the time, a lot of prominent people lauded this, saying “this is how the most impressive software is built”.\n\nFast forward a couple of months and she’s fired. <a href=\"https://twitter.com/zoeschiffer/status/1629917304799760384\">twitter.com/zoeschiffer/st…</a></div>",
+      "value" : "This was the woman who posted a picture of herself sleeping in the office to meet Elon’s deadlines.\n\nAt the time, a lot of prominent people lauded this, saying “this is how the most impressive software is built”.\n\nFast forward a couple of months and she’s fired. twitter.com/zoeschiffer/st…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fp6udC8aEAEossU.jpg" ],
+    "published" : [ "2023-02-26T19:50:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1629931933680680960" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1629931933680680960" ]
+  },
+  "type" : [ "h-entry" ]
+}
