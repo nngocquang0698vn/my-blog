@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Ohio" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Corinne Manon-Michael" ],
+          "nickname" : [ "FullStackCorm" ],
+          "numeric-id" : [ "1481323347208196107" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1520268268489121792/QPZOrTgh.jpg" ],
+          "published" : [ "2022-01-12T17:53:09+00:00" ],
+          "uid" : [ "tag:twitter.com:FullStackCorm" ],
+          "url" : [ "https://twitter.com/FullStackCorm" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Please don’t apply for a senior dev job unless your bathroom backsplash looks like this. <a href=\"https://twitter.com/furrycodertrash/status/1629842279920807939\">twitter.com/furrycodertras…</a>",
+        "value" : "Please don’t apply for a senior dev job unless your bathroom backsplash looks like this. twitter.com/furrycodertras…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fp6Knn-WIAUwlVa.jpg" ],
+      "published" : [ "2023-02-26T17:14:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1629892747556532230" ],
+      "url" : [ "https://twitter.com/FullStackCorm/status/1629892747556532230" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Please don’t apply for a senior dev job unless you plan to compete in the 10x developer championship in an arena that looks like this <a href=\"https://twitter.com/fullstackcorm/status/1629892747556532230\">twitter.com/fullstackcorm/…</a>",
+      "value" : "Please don’t apply for a senior dev job unless you plan to compete in the 10x developer championship in an arena that looks like this twitter.com/fullstackcorm/…"
+    } ],
+    "photo" : [ {
+      "alt" : "Olympic stadium in munich",
+      "value" : "https://pbs.twimg.com/media/Fp68Xk9WAAI7cBh.jpg"
+    } ],
+    "published" : [ "2023-02-26T20:51:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1629947235927486465" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1629947235927486465" ]
+  },
+  "type" : [ "h-entry" ]
+}
