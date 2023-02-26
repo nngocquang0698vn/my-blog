@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "https://www.alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It’s such a good show. I want S3 please. Could you put in a call or something to help expedite this?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ReinH\"></a>",
+      "value" : "It’s such a good show. I want S3 please. Could you put in a call or something to help expedite this?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1629946376770686977" ],
+    "published" : [ "2023-02-26T21:03:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1629950415876902915" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1629950415876902915" ]
+  },
+  "type" : [ "h-entry" ]
+}
