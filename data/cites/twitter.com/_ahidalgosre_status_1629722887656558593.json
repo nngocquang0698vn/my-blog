@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Naarm / Melbourne" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jathan Sadowski" ],
+          "nickname" : [ "jathansadowski" ],
+          "numeric-id" : [ "561722062" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1599631030515744768/xONObiyL.jpg" ],
+          "published" : [ "2012-04-24T04:23:52+00:00" ],
+          "uid" : [ "tag:twitter.com:jathansadowski" ],
+          "url" : [ "https://twitter.com/jathansadowski", "http://jathansadowski.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "hahaha fuck yes let’s gooooo" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fpyhc1VacAEp9Lb.jpg" ],
+      "published" : [ "2023-02-25T05:36:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1629354691154042881" ],
+      "url" : [ "https://twitter.com/jathansadowski/status/1629354691154042881" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "https://www.alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I cannot handle reality anymore. Do we have a save point we can go back to and start over maybe?" ],
+    "published" : [ "2023-02-26T05:59:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1629722887656558593" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1629722887656558593" ]
+  },
+  "type" : [ "h-entry" ]
+}
