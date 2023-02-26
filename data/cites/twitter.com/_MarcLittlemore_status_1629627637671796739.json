@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Manuel Frigerio" ],
+          "nickname" : [ "manuel_frigerio" ],
+          "numeric-id" : [ "469242190" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1590101958244925441/FU5GuyH9.jpg" ],
+          "published" : [ "2012-01-20T11:36:52+00:00" ],
+          "uid" : [ "tag:twitter.com:manuel_frigerio" ],
+          "url" : [ "https://twitter.com/manuel_frigerio", "https://manuel.friger.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Please don't apply for a Senior dev position if your Github looks like this..." ],
+      "photo" : [ "https://pbs.twimg.com/media/FpuVacSaIAAF1HC.png" ],
+      "published" : [ "2023-02-24T10:05:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1629059975418089474" ],
+      "url" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Warrington, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marc Littlemore 👋🏻" ],
+        "nickname" : [ "MarcLittlemore" ],
+        "numeric-id" : [ "14449910" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297267914165428227/8EnDHX-0.jpg" ],
+        "published" : [ "2008-04-20T07:28:57+00:00" ],
+        "uid" : [ "tag:twitter.com:MarcLittlemore" ],
+        "url" : [ "https://twitter.com/MarcLittlemore", "https://www.marclittlemore.com/bio/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I spent 19 years writing video games and it was all in private version control. Don’t judge the seniority of software engineers by their public GitHub contributions." ],
+    "published" : [ "2023-02-25T23:41:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1629627637671796739" ],
+    "url" : [ "https://twitter.com/MarcLittlemore/status/1629627637671796739" ]
+  },
+  "type" : [ "h-entry" ]
+}
