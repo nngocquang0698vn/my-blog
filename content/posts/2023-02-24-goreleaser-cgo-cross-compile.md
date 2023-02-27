@@ -12,7 +12,7 @@ license_code: Apache-2.0
 slug: goreleaser-cgo-cross-compile
 image: https://media.jvt.me/b41202acf7.png
 ---
-While working on creating a new Go CLI [`dmd`](https://www.jvt.me/posts/2023/02/20/dmd-cli/), I wanted to set up [Gorelaser](https://goreleaser.com/) to make?  .
+While working on creating a new Go CLI [`dmd`](https://www.jvt.me/posts/2023/02/20/dmd-cli/), I wanted to set up [Gorelaser](https://goreleaser.com/) to make builds much simpler, as I wanted to be able to use this with both my Linux machine and my work Mac.
 
 I thought I had it working until I realised that I was using a library that required CGO to be built, which meant that the binaries I was building weren't actually working.
 
