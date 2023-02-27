@@ -1,0 +1,472 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://scorpinc.social/@az/109934867319257092" ],
+    "uid" : [ "https://scorpinc.social/@az/109934867319257092" ],
+    "published" : [ "2023-02-27T04:42:31+00:00" ],
+    "content" : [ {
+      "html" : "<p>As a user...<br>I want a comment/chat feature.<br>Where...<br>I have no idea if pressing Enter or Shift+Enter or Ctrl+Enter will submit a message or add a new line.</p>",
+      "value" : "As a user...\nI want a comment/chat feature.\nWhere...\nI have no idea if pressing Enter or Shift+Enter or Ctrl+Enter will submit a message or add a new line.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Az" ],
+        "url" : [ "https://scorpinc.social/@az" ],
+        "photo" : [ {
+          "value" : "https://scorpinc.social/system/accounts/avatars/109/329/464/113/021/361/original/27e8bb6d0d5e0b9c.jpeg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Az"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://queer.party/@TatraT815/109935338114446609" ],
+        "uid" : [ "https://queer.party/@TatraT815/109935338114446609" ],
+        "published" : [ "2023-02-27T06:42:14+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> Bonus points if this changes depending on context (for example, if Enter usually submits, except if you're in an unordered list, where it starts a list item. Or does it? No-one knows).</p>",
+          "value" : "@az Bonus points if this changes depending on context (for example, if Enter usually submits, except if you're in an unordered list, where it starts a list item. Or does it? No-one knows).",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Tatra" ],
+            "url" : [ "https://queer.party/@TatraT815" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/935/338/409/989/591/original/217bab958e49d64d.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Tatra"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 06:42 Tatra @TatraT815@queer.party\n@az Bonus points if this changes depending on context (for example, if Enter usually submits, except if you're in an unordered list, where it starts a list item. Or does it? No-one knows). 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.coop/@J12t/109935348515437612" ],
+        "uid" : [ "https://social.coop/@J12t/109935348515437612" ],
+        "published" : [ "2023-02-27T06:44:53+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> CRoulette.</p>",
+          "value" : "@az CRoulette.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Johannes Ernst" ],
+            "url" : [ "https://social.coop/@J12t" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/935/346/718/597/031/original/404eda0c329dfc99.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Johannes Ernst"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 06:44 Johannes Ernst @J12t@social.coop\n@az CRoulette. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cloudisland.nz/@airshipper/109935355928004660" ],
+        "uid" : [ "https://cloudisland.nz/@airshipper/109935355928004660" ],
+        "published" : [ "2023-02-27T06:46:46+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> As a user, I want an autocompleting hashtag list, where I have no idea if I should press tab or enter to make my selection -- but pressing the wrong one makes me delete the entire hashtag to start over.</p>",
+          "value" : "@az As a user, I want an autocompleting hashtag list, where I have no idea if I should press tab or enter to make my selection -- but pressing the wrong one makes me delete the entire hashtag to start over.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "64 Islands Airship Cooperative" ],
+            "url" : [ "https://cloudisland.nz/@airshipper" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/669/240/694/918/802/original/a306d27851298411.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "64 Islands Airship Cooperative"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 06:46 64 Islands Airship Cooperative @airshipper@cloudisland.nz\n@az As a user, I want an autocompleting hashtag list, where I have no idea if I should press tab or enter to make my selection -- but pressing the wrong one makes me delete the entire hashtag to start over. 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/@jaseg/109935446439278964" ],
+        "uid" : [ "https://chaos.social/@jaseg/109935446439278964" ],
+        "published" : [ "2023-02-27T07:09:47+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> The only way of reliably creating a new line instead of submitting that works across apps is copy-pasting a linebreak.</p>",
+          "value" : "@az The only way of reliably creating a new line instead of submitting that works across apps is copy-pasting a linebreak.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jaseg" ],
+            "url" : [ "https://chaos.social/@jaseg" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/375/902/537/376/357/original/a40314669164121c.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "jaseg"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 07:09 jaseg @jaseg@chaos.social\n@az The only way of reliably creating a new line instead of submitting that works across apps is copy-pasting a linebreak. 1+"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.nz/@Uknzguy/109935925961367929" ],
+        "uid" : [ "https://mastodon.nz/@Uknzguy/109935925961367929" ],
+        "published" : [ "2023-02-27T09:11:44+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> <span class=\"h-card\"><a href=\"https://cloudisland.nz/@jet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jet</span></a></span> as a user of a combined chat/voice messaging app<br>I want…<br>a Close Attachment button<br>Where…<br>the close button is exactly over the Leave Call button, so an accidental double click dumps me out of the call I’m in</p>",
+          "value" : "@az @jet as a user of a combined chat/voice messaging app\nI want…\na Close Attachment button\nWhere…\nthe close button is exactly over the Leave Call button, so an accidental double click dumps me out of the call I’m in",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "uknzguy" ],
+            "url" : [ "https://mastodon.nz/@Uknzguy" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/935/926/160/756/765/original/e00a46627eb778c1.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "uknzguy"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      }, {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://cloudisland.nz/@jet" ],
+          "name" : [ "@jet" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 09:11 uknzguy @Uknzguy@mastodon.nz\n@az @jet as a user of a combined chat/voice messaging app\nI want…\na Close Attachment button\nWhere…\nthe close button is exactly over the Leave Call button, so an accidental double click dumps me out of the call I’m in 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://infosec.exchange/@dennisfaucher/109936408006721774" ],
+        "uid" : [ "https://infosec.exchange/@dennisfaucher/109936408006721774" ],
+        "published" : [ "2023-02-27T11:14:20+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> I love how never knowing makes it seem like I've had a stroke mid thought</p>",
+          "value" : "@az I love how never knowing makes it seem like I've had a stroke mid thought",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dennis Faucher :donor: :mastodon:" ],
+            "url" : [ "https://infosec.exchange/@dennisfaucher" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/344/911/783/438/381/original/041aa454508a590b.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Dennis Faucher :donor: :mastodon:"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 11:14 Dennis Faucher :donor: :mastodon: @dennisfaucher@infosec.exchange\n@az I love how never knowing makes it seem like I've had a stroke mid thought 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.me.uk/@woohooctopus/109938608371748545" ],
+        "uid" : [ "https://mastodon.me.uk/@woohooctopus/109938608371748545" ],
+        "published" : [ "2023-02-27T20:33:54+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> Ctrl+Enter in Word: Add new row in the table.<br>Ctrl+Enter in Outlook: Leave the table alone and send the half-written email to your boss.</p>",
+          "value" : "@az Ctrl+Enter in Word: Add new row in the table.\nCtrl+Enter in Outlook: Leave the table alone and send the half-written email to your boss.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Paul Davidson" ],
+            "url" : [ "https://mastodon.me.uk/@woohooctopus" ],
+            "photo" : [ {
+              "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/938/608/684/832/180/original/7d9a8b10c0e0e997.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Paul Davidson"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://scorpinc.social/@az" ],
+          "name" : [ "@az" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Feb 27, 2023, 20:33 Paul Davidson @woohooctopus@mastodon.me.uk\n@az Ctrl+Enter in Word: Add new row in the table.\nCtrl+Enter in Outlook: Leave the table alone and send the half-written email to your boss. 0"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://scorpinc.social/@az/109935809440628803" ],
+      "uid" : [ "https://scorpinc.social/@az/109935809440628803" ],
+      "published" : [ "2023-02-27T08:42:06+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://queer.party/@TatraT815\" class=\"u-url mention\">@<span>TatraT815</span></a></span> Teams is the worst for this.</p>",
+        "value" : "@TatraT815 Teams is the worst for this.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Az" ],
+          "url" : [ "https://scorpinc.social/@az" ],
+          "photo" : [ {
+            "value" : "https://scorpinc.social/system/accounts/avatars/109/329/464/113/021/361/original/27e8bb6d0d5e0b9c.jpeg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Az"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://queer.party/@TatraT815" ],
+        "name" : [ "@TatraT815" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://queer.party/@TatraT815/109935811674352419" ],
+      "uid" : [ "https://queer.party/@TatraT815/109935811674352419" ],
+      "published" : [ "2023-02-27T08:42:40+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> That was exactly what I was thinking of :D</p>",
+        "value" : "@az That was exactly what I was thinking of :D",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Tatra" ],
+          "url" : [ "https://queer.party/@TatraT815" ],
+          "photo" : [ {
+            "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/935/338/409/989/591/original/217bab958e49d64d.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Tatra"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://scorpinc.social/@az" ],
+        "name" : [ "@az" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://toot.cafe/@moopet/109935647740351302" ],
+      "uid" : [ "https://toot.cafe/@moopet/109935647740351302" ],
+      "published" : [ "2023-02-27T08:00:59+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://cloudisland.nz/@airshipper\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>airshipper</span></a></span> <span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> As a user, I want a settings page with tabs where I have no idea whether there's a \"save\" button hidden on one of them or things are saved as I go.</p><p>I want to close the app and re-open it just to be sure.</p>",
+        "value" : "@airshipper @az As a user, I want a settings page with tabs where I have no idea whether there's a \"save\" button hidden on one of them or things are saved as I go.\nI want to close the app and re-open it just to be sure.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Badly-optimised primate" ],
+          "url" : [ "https://toot.cafe/@moopet" ],
+          "photo" : [ {
+            "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/581/517/003/743/326/original/48837c7002b9d5bb.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Badly-optimised primate"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://cloudisland.nz/@airshipper" ],
+        "name" : [ "@airshipper" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://scorpinc.social/@az" ],
+        "name" : [ "@az" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://toot.cat/@FiXato/109935721025080013" ],
+      "uid" : [ "https://toot.cat/@FiXato/109935721025080013" ],
+      "published" : [ "2023-02-27T08:19:37+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://chaos.social/@jaseg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jaseg</span></a></span> you'd think that, huh?<br>In reality though I've encountered apps that still submitted as soon as they noticed the line break, as well as those that showed the line break in the input field, but not in the output, as they only replaced carriage returns with actual newlines, and not line feeds (or vice versa).<br><span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span></p>",
+        "value" : "@jaseg you'd think that, huh?\nIn reality though I've encountered apps that still submitted as soon as they noticed the line break, as well as those that showed the line break in the input field, but not in the output, as they only replaced carriage returns with actual newlines, and not line feeds (or vice versa).\n@az",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "FiXato" ],
+          "url" : [ "https://toot.cat/@FiXato" ],
+          "photo" : [ {
+            "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/382/014/387/569/371/original/74cb0ebca2233aac.jpeg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "FiXato"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/@jaseg" ],
+        "name" : [ "@jaseg" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://scorpinc.social/@az" ],
+        "name" : [ "@az" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.nz/@ramshackle/109935733963368206" ],
+      "uid" : [ "https://mastodon.nz/@ramshackle/109935733963368206" ],
+      "published" : [ "2023-02-27T08:22:54+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://chaos.social/@jaseg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jaseg</span></a></span> <span class=\"h-card\"><a href=\"https://scorpinc.social/@az\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>az</span></a></span> I want ambiguous checkboxes that just change colour, and you have to solve the puzzle of which colour means selected/enabled.</p>",
+        "value" : "@jaseg @az I want ambiguous checkboxes that just change colour, and you have to solve the puzzle of which colour means selected/enabled.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "ramshackle" ],
+          "url" : [ "https://mastodon.nz/@ramshackle" ],
+          "photo" : [ {
+            "value" : "https://scorpinc.social/system/cache/accounts/avatars/109/935/734/157/870/521/original/5849867a89f51e89.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "ramshackle"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/@jaseg" ],
+        "name" : [ "@jaseg" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://scorpinc.social/@az" ],
+        "name" : [ "@az" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
