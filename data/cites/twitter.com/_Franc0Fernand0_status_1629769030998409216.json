@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zurich" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Fernando 🇮🇹🇨🇭" ],
+        "nickname" : [ "Franc0Fernand0" ],
+        "numeric-id" : [ "1344928554425987074" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1566528197109456907/hFoQQLp1.jpg" ],
+        "published" : [ "2021-01-01T08:49:49+00:00" ],
+        "uid" : [ "tag:twitter.com:Franc0Fernand0" ],
+        "url" : [ "https://twitter.com/Franc0Fernand0", "http://www.francofernando.com", "http://polymathicengineer.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This statement is ridicolous.\n\nFirst, seniority has nothing to do with contributions on a public GitHub profile or open source contributions.\n\nSecond, most of my code is in the private repositories of the companies I worked for.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "This statement is ridicolous.\n\nFirst, seniority has nothing to do with contributions on a public GitHub profile or open source contributions.\n\nSecond, most of my code is in the private repositories of the companies I worked for."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ],
+    "published" : [ "2023-02-26T09:03:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1629769030998409216" ],
+    "url" : [ "https://twitter.com/Franc0Fernand0/status/1629769030998409216" ]
+  },
+  "type" : [ "h-entry" ]
+}
