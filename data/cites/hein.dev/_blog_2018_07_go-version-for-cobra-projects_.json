@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Go Version for Cobra Projects" ],
+    "summary" : [ "\nDo you use cobra and  goreleaser to package and build your golang CLIs.\nIf not, you should reconsider. They are a fantastic combination and combined\nwith one of my new projects you can add an easy to use and extensible version\nsubcommand which features different outputs\n" ],
+    "featured" : [ "https://hein.dev/images/chrishein-black.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Chris Hein" ]
+      }
+    } ],
+    "url" : [ "https://hein.dev/blog/2018/07/go-version-for-cobra-projects/" ]
+  }
+}
