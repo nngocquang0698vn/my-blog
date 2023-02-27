@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I wanted to write a blog post about Wiremock but it kind of exploded. Now I am writing an open source library 😅" ],
+    "published" : [ "2023-02-24T11:49:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1629086058796261376" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1629086058796261376" ]
+  },
+  "type" : [ "h-entry" ]
+}
