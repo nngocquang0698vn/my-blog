@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Warrington, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marc Littlemore 👋🏻" ],
+        "nickname" : [ "MarcLittlemore" ],
+        "numeric-id" : [ "14449910" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297267914165428227/8EnDHX-0.jpg" ],
+        "published" : [ "2008-04-20T07:28:57+00:00" ],
+        "uid" : [ "tag:twitter.com:MarcLittlemore" ],
+        "url" : [ "https://twitter.com/MarcLittlemore", "https://www.marclittlemore.com/bio/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm a Senior Engineering Manager and I don't write much code at all during the day. Most of this usage from 2022 is from an Obsidian git sync (for note-taking and backing up markdown files) and not my engineering skills. 😄" ],
+    "in-reply-to" : [ "https://twitter.com/MarcLittlemore/status/1629965725438803968" ],
+    "photo" : [ {
+      "alt" : "My GitHub contributions from 2022 show lots of green dots which indicate my git activity. There are many due to my use of a note-taking app which syncs a markdown backup via git.",
+      "value" : "https://pbs.twimg.com/media/Fp7RZkLWcAIK5ES.png"
+    } ],
+    "published" : [ "2023-02-26T22:23:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1629970430151868416" ],
+    "url" : [ "https://twitter.com/MarcLittlemore/status/1629970430151868416" ]
+  },
+  "type" : [ "h-entry" ]
+}
