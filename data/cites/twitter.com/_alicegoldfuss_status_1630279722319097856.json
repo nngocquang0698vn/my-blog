@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "malice ghoulpus" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1630222372660731904" ],
+    "published" : [ "2023-02-27T18:52:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1630279722319097856" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1630279722319097856" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fp_qwFqagAAHHyn.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
