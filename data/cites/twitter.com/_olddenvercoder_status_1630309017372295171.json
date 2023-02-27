@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Denver, CO" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "tim myers" ],
+          "nickname" : [ "olddenvercoder" ],
+          "numeric-id" : [ "3118810453" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1589414538796883969/kAKN7gbg.jpg" ],
+          "published" : [ "2015-03-30T22:56:14+00:00" ],
+          "uid" : [ "tag:twitter.com:olddenvercoder" ],
+          "url" : [ "https://twitter.com/olddenvercoder", "https://denvercoder.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "About 4 times a year one of these guys, (yes it’s almost always a guy), pops up and thinks their being edgy. They get a ton of hate and then walk it back, then go private, then fade into obscurity.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SergiiKirianov\"></a>",
+        "value" : "About 4 times a year one of these guys, (yes it’s almost always a guy), pops up and thinks their being edgy. They get a ton of hate and then walk it back, then go private, then fade into obscurity."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/SergiiKirianov/status/1630162559331344384" ],
+      "published" : [ "2023-02-27T11:59:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1630175830029619200" ],
+      "url" : [ "https://twitter.com/olddenvercoder/status/1630175830029619200" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tim myers" ],
+        "nickname" : [ "olddenvercoder" ],
+        "numeric-id" : [ "3118810453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589414538796883969/kAKN7gbg.jpg" ],
+        "published" : [ "2015-03-30T22:56:14+00:00" ],
+        "uid" : [ "tag:twitter.com:olddenvercoder" ],
+        "url" : [ "https://twitter.com/olddenvercoder", "https://denvercoder.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Did I call it or did I call it??? " ],
+    "photo" : [ "https://pbs.twimg.com/media/FqAFaJyaAAAaggV.jpg" ],
+    "published" : [ "2023-02-27T20:48:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1630309017372295171" ],
+    "url" : [ "https://twitter.com/olddenvercoder/status/1630309017372295171" ]
+  },
+  "type" : [ "h-entry" ]
+}
