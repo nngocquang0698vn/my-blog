@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Limassol, Cyprus" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joel Eriksson" ],
+        "nickname" : [ "OwariDa" ],
+        "numeric-id" : [ "64150739" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461294485086871560/7BKKVXoh.jpg" ],
+        "published" : [ "2009-08-09T10:21:08+00:00" ],
+        "uid" : [ "tag:twitter.com:OwariDa" ],
+        "url" : [ "https://twitter.com/OwariDa", "https://clevcode.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Interesting take from a guy whose Github looks like this🤔\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "Interesting take from a guy whose Github looks like this🤔"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629059975418089474" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fp10RJEWAAAyRSs.jpg" ],
+    "published" : [ "2023-02-25T20:58:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1629586759737569280" ],
+    "url" : [ "https://twitter.com/OwariDa/status/1629586759737569280" ]
+  },
+  "type" : [ "h-entry" ]
+}
