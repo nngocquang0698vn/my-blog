@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Akehurst" ],
+        "nickname" : [ "TomAkehurst" ],
+        "numeric-id" : [ "340263660" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/412257918944178177/tzGrSuJ0.png" ],
+        "published" : [ "2011-07-22T12:15:22+00:00" ],
+        "uid" : [ "tag:twitter.com:TomAkehurst" ],
+        "url" : [ "https://twitter.com/TomAkehurst", "http://get.mocklab.io", "http://wiremock.org", "http://mocklab.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is great stuff - I've been idly intending to create something similar for quite a while but never found the time.\n\nPlease feel free to raise a PR adding it to the <a href=\"http://wiremock.org\">wiremock.org</a> external resources page if you'd like it promoted there.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/maciejwalkowiak\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/springboot\"></a>",
+      "value" : "This is great stuff - I've been idly intending to create something similar for quite a while but never found the time.\n\nPlease feel free to raise a PR adding it to the wiremock.org external resources page if you'd like it promoted there."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/maciejwalkowiak/status/1630248586557673472" ],
+    "published" : [ "2023-02-27T21:50:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1630324598158835712" ],
+    "url" : [ "https://twitter.com/TomAkehurst/status/1630324598158835712" ]
+  },
+  "type" : [ "h-entry" ]
+}
