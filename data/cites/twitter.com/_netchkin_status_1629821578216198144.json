@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brno, Czech Republic" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pavel Janečka" ],
+        "nickname" : [ "netchkin" ],
+        "numeric-id" : [ "267182759" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330803709341741056/qpIC2Ab5.jpg" ],
+        "published" : [ "2011-03-16T13:30:24+00:00" ],
+        "uid" : [ "tag:twitter.com:netchkin" ],
+        "url" : [ "https://twitter.com/netchkin", "http://journal.netchkin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "He is not missing any point, you failed to make it in the first place.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BenjaminEHowe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/manuel_frigerio\"></a>",
+      "value" : "He is not missing any point, you failed to make it in the first place."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/manuel_frigerio/status/1629819799558553600" ],
+    "published" : [ "2023-02-26T12:31:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1629821578216198144" ],
+    "url" : [ "https://twitter.com/netchkin/status/1629821578216198144" ]
+  },
+  "type" : [ "h-entry" ]
+}
