@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jerry Chen" ],
+        "nickname" : [ "jcsalterego" ],
+        "numeric-id" : [ "14343561" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204533566396420096/ibCd-axs.jpg" ],
+        "published" : [ "2008-04-09T17:28:47+00:00" ],
+        "uid" : [ "tag:twitter.com:jcsalterego" ],
+        "url" : [ "https://twitter.com/jcsalterego" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "...oh\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/vboykis\"></a>",
+      "value" : "...oh"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/vboykis/status/1514364714524065804" ],
+    "photo" : [ "https://pbs.twimg.com/media/FQQb8QuWQAYovjM.png" ],
+    "published" : [ "2022-04-13T22:13:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1514366119662047232" ],
+    "url" : [ "https://twitter.com/jcsalterego/status/1514366119662047232" ]
+  },
+  "type" : [ "h-entry" ]
+}
