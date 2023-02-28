@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/michhoivata/st…" ],
+        "url" : [ "https://twitter.com/michhoivata/status/1629909525917474820" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Houston, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sara" ],
+          "nickname" : [ "saraaaaajean" ],
+          "numeric-id" : [ "1250946309487501312" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1607472854966341633/rj28M25a.jpg" ],
+          "published" : [ "2020-04-17T00:37:02+00:00" ],
+          "uid" : [ "tag:twitter.com:saraaaaajean" ],
+          "url" : [ "https://twitter.com/saraaaaajean" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "My controversial opinion is that when you pay tens of thousands of dollars for the maybe one day you will get in your life that is all about you, you can make whatever rules you want and if other people don’t like it then they don’t have to go.\n<a class=\"tag\" href=\"https://twitter.com/michhoivata/status/1629909525917474820\">twitter.com/michhoivata/st…</a>",
+        "value" : "My controversial opinion is that when you pay tens of thousands of dollars for the maybe one day you will get in your life that is all about you, you can make whatever rules you want and if other people don’t like it then they don’t have to go."
+      } ],
+      "published" : [ "2023-02-28T04:15:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1630421423075278849" ],
+      "url" : [ "https://twitter.com/saraaaaajean/status/1630421423075278849" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don't wanna get involved here. It's not my business really. But I feel like people forget that they can have a grown up party that's wild with no kids and it doesn't have to be a wedding." ],
+    "published" : [ "2023-02-28T05:04:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1630433779205689348" ],
+    "url" : [ "https://twitter.com/polotek/status/1630433779205689348" ]
+  },
+  "type" : [ "h-entry" ]
+}
