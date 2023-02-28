@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Finland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Panu Oksala" ],
+        "nickname" : [ "PanuOksala" ],
+        "numeric-id" : [ "1238975468" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1617246739882250241/6XeVLJvs.jpg" ],
+        "published" : [ "2013-03-03T14:00:01+00:00" ],
+        "uid" : [ "tag:twitter.com:PanuOksala" ],
+        "url" : [ "https://twitter.com/PanuOksala", "https://oksala.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1630400602336374784" ],
+    "photo" : [ "https://pbs.twimg.com/media/FqCMF4eX0AE6Vc6.png" ],
+    "published" : [ "2023-02-28T06:37:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1630457103704809472" ],
+    "url" : [ "https://twitter.com/PanuOksala/status/1630457103704809472" ]
+  },
+  "type" : [ "h-entry" ]
+}
