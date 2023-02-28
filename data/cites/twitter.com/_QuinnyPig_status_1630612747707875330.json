@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn / @quinnypig@awscommunity.social" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"But 'Serverless' doesn't mean 'scales-to-zero'! Where'd you get an idea like that?\" \n\nYour own whitepaper, for one.</div>",
+      "value" : "\"But 'Serverless' doesn't mean 'scales-to-zero'! Where'd you get an idea like that?\" \n\nYour own whitepaper, for one."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1630612045912760321" ],
+    "photo" : [ {
+      "alt" : "For service or platform to be considered serverless, it should provide the\nfollowing capabilities:\n• No server management – You don’t have to provision or maintain\nany servers. There is no software or runtime to install, maintain, or\nadminister.\n• Flexible scaling – You can scale your application automatically or by\nadjusting its capacity through toggling the units of consumption (for\nexample, throughput, memory) rather than units of individual servers.\n• High availability – Serverless applications have built-in availability\nand fault tolerance. You don't need to architect for these capabilities\nbecause the services running the application provide them by default.\n• No idle capacity – You don't have to pay for idle capacity. There is no\nneed to pre-provision or over-provision capacity for things like compute\nand storage. There is no charge when your code isn’t running",
+      "value" : "https://pbs.twimg.com/media/FqEZklzagAEiJfN.png"
+    } ],
+    "published" : [ "2023-02-28T16:55:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1630612747707875330" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1630612747707875330" ]
+  },
+  "type" : [ "h-entry" ]
+}
