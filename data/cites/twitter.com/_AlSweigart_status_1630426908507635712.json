@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Qeqertarsuaq, Greenland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Derf Backderf @derfbackderf@masto.social" ],
+          "nickname" : [ "DerfBackderf" ],
+          "numeric-id" : [ "637327317" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2403792265/avatar.jpg" ],
+          "published" : [ "2012-07-16T20:16:27+00:00" ],
+          "uid" : [ "tag:twitter.com:DerfBackderf" ],
+          "url" : [ "https://twitter.com/DerfBackderf", "http://www.derfcity.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Andrews McMeel Syndicate just \"severed our relationship\" with  Dilbert. \n\nThe strip will no longer be distributed. It's vanished from the GoComics site. This is the publisher of all his books and swag, too.\n\nDude just lost millions.</div>",
+        "value" : "Andrews McMeel Syndicate just \"severed our relationship\" with  Dilbert. \n\nThe strip will no longer be distributed. It's vanished from the GoComics site. This is the publisher of all his books and swag, too.\n\nDude just lost millions."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fp-9bp6XsAIgjo8.jpg" ],
+      "published" : [ "2023-02-27T15:35:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1630230203258617858" ],
+      "url" : [ "https://twitter.com/DerfBackderf/status/1630230203258617858" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@AlSweigart@mastodon.social" ],
+        "nickname" : [ "AlSweigart" ],
+        "numeric-id" : [ "14738418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1615838444877488158/7IQE7ZN_.jpg" ],
+        "published" : [ "2008-05-12T00:22:27+00:00" ],
+        "uid" : [ "tag:twitter.com:AlSweigart" ],
+        "url" : [ "https://twitter.com/AlSweigart", "https://inventwithpython.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'll admit, when I sent them an email telling them to drop Dilbert and encouraged others to do the same, I thought it was going to be a fruitless gesture.\n\nI view my political activism mostly as banging my head against a wall.\n\nBecause eventually, it's the wall that falls down.</div>",
+      "value" : "I'll admit, when I sent them an email telling them to drop Dilbert and encouraged others to do the same, I thought it was going to be a fruitless gesture.\n\nI view my political activism mostly as banging my head against a wall.\n\nBecause eventually, it's the wall that falls down."
+    } ],
+    "published" : [ "2023-02-28T04:37:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1630426908507635712" ],
+    "url" : [ "https://twitter.com/AlSweigart/status/1630426908507635712" ]
+  },
+  "type" : [ "h-entry" ]
+}
