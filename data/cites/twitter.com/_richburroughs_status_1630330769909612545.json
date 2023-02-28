@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Zoë Schiffer" ],
+          "nickname" : [ "ZoeSchiffer" ],
+          "numeric-id" : [ "808464904575299584" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1564799885794086914/ZU6qMT_n.jpg" ],
+          "published" : [ "2016-12-13T00:13:48+00:00" ],
+          "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+          "url" : [ "https://twitter.com/ZoeSchiffer", "https://mastodon.social/@zoeschiffer" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "NEW: Elon Musk just announced Twitter will be making significant performance-based stock and compensation awards for remaining employees." ],
+      "published" : [ "2023-02-27T15:23:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1630227095946399744" ],
+      "url" : [ "https://twitter.com/ZoeSchiffer/status/1630227095946399744" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/zoeschiffer/st…" ],
+      "url" : [ "https://twitter.com/zoeschiffer/status/1630227095946399744" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Burroughs" ],
+        "nickname" : [ "richburroughs" ],
+        "numeric-id" : [ "19552154" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1200607261082705920/HMNZOqa-.jpg" ],
+        "published" : [ "2009-01-26T19:35:35+00:00" ],
+        "uid" : [ "tag:twitter.com:richburroughs" ],
+        "url" : [ "https://twitter.com/richburroughs", "https://linktr.ee/richburroughs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I would love to have equity in some big loans, where do I sign up?\n<a class=\"tag\" href=\"https://twitter.com/zoeschiffer/status/1630227095946399744\">twitter.com/zoeschiffer/st…</a>",
+      "value" : "I would love to have equity in some big loans, where do I sign up?"
+    } ],
+    "published" : [ "2023-02-27T22:15:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1630330769909612545" ],
+    "url" : [ "https://twitter.com/richburroughs/status/1630330769909612545" ]
+  },
+  "type" : [ "h-entry" ]
+}
