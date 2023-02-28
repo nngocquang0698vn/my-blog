@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike McQuaid" ],
+        "nickname" : [ "MikeMcQuaid" ],
+        "numeric-id" : [ "8694172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1630507248760897536/CeYIXjqV.jpg" ],
+        "published" : [ "2007-09-05T20:11:04+00:00" ],
+        "uid" : [ "tag:twitter.com:MikeMcQuaid" ],
+        "url" : [ "https://twitter.com/MikeMcQuaid", "https://mikemcquaid.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "After 10 (calendar) years at <a href=\"https://twitter.com/github\">@github</a>, it's time for something new: I'm joining some ex-@github coworkers as a CTO and Cofounder at <a href=\"https://twitter.com/raisedevs\">@raisedevs</a> building something new. Stay tuned...",
+      "value" : "After 10 (calendar) years at @github, it's time for something new: I'm joining some ex-@github coworkers as a CTO and Cofounder at @raisedevs building something new. Stay tuned..."
+    } ],
+    "published" : [ "2023-02-28T10:04:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1630509342653919232" ],
+    "url" : [ "https://twitter.com/MikeMcQuaid/status/1630509342653919232" ]
+  },
+  "type" : [ "h-entry" ]
+}
