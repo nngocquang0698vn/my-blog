@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "your mom doesn't scale to zero\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/QuinnyPig\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/awscloud\"></a>",
+      "value" : "your mom doesn't scale to zero"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1630612045912760321" ],
+    "published" : [ "2023-02-28T17:24:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1630620037982699529" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1630620037982699529" ]
+  },
+  "type" : [ "h-entry" ]
+}
