@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ninji@vulpine.club @ 🇳🇱" ],
+        "nickname" : [ "_Ninji" ],
+        "numeric-id" : [ "119217218" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1626743224474673154/XPV4Ky-9.jpg" ],
+        "published" : [ "2010-03-03T00:42:57+00:00" ],
+        "uid" : [ "tag:twitter.com:_Ninji" ],
+        "url" : [ "https://twitter.com/_Ninji", "http://wuffs.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "almost nobody will see this post, but it’s cool how the Twitter home timeline service just exploded, very functional website" ],
+    "photo" : [ {
+      "alt" : "JSON block from a HTTP response containing an empty home timeline and an errors object reporting a DependencyError",
+      "value" : "https://pbs.twimg.com/media/FqIJZkOWYAAhs7E.jpg"
+    } ],
+    "published" : [ "2023-03-01T10:23:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1630876354366373888" ],
+    "url" : [ "https://twitter.com/_Ninji/status/1630876354366373888" ]
+  },
+  "type" : [ "h-entry" ]
+}
