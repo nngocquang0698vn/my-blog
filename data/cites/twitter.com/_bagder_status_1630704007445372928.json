@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "daniel:// stenberg://" ],
+        "nickname" : [ "bagder" ],
+        "numeric-id" : [ "14893620" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407469211136450565/VOQGppj0.jpg" ],
+        "published" : [ "2008-05-24T20:46:13+00:00" ],
+        "uid" : [ "tag:twitter.com:bagder" ],
+        "url" : [ "https://twitter.com/bagder", "https://daniel.haxx.se/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This company called <a href=\"https://twitter.com/Microsoft\">@Microsoft</a> runs this package manager called <a href=\"https://twitter.com/nuget\">@nuget</a>.\n\nThey host a curl package there, that was last updated in 2013 and now contains **68** documented vulnerabilities.\n\nBut there is apparently no way I can report this or make them act on this.</div>",
+      "value" : "This company called @Microsoft runs this package manager called @nuget.\n\nThey host a curl package there, that was last updated in 2013 and now contains **68** documented vulnerabilities.\n\nBut there is apparently no way I can report this or make them act on this."
+    } ],
+    "published" : [ "2023-02-28T22:58:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1630704007445372928" ],
+    "url" : [ "https://twitter.com/bagder/status/1630704007445372928" ]
+  },
+  "type" : [ "h-entry" ]
+}
