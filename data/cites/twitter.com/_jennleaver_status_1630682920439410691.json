@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Illinois" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jenn Leaver" ],
+        "nickname" : [ "jennleaver" ],
+        "numeric-id" : [ "43353712" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1397016254985252864/AxHv-VYh.jpg" ],
+        "published" : [ "2009-05-29T15:49:41+00:00" ],
+        "uid" : [ "tag:twitter.com:jennleaver" ],
+        "url" : [ "https://twitter.com/jennleaver" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I helped write those docs years ago and had to reference the docs I wrote to do it 🤪\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/javavvitch\"></a>",
+      "value" : "I helped write those docs years ago and had to reference the docs I wrote to do it 🤪"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/javavvitch/status/1630651324420218880" ],
+    "published" : [ "2023-02-28T21:34:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1630682920439410691" ],
+    "url" : [ "https://twitter.com/jennleaver/status/1630682920439410691" ]
+  },
+  "type" : [ "h-entry" ]
+}
