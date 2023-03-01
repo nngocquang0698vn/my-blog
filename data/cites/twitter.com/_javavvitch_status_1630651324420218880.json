@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1611886230844719105/h2hhgPEn.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch", "http://ConquerSystemDesign.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I have been a software engineer for 7 years and I will never remember the steps to adding a SSH key to my Github profile I'm so sorry." ],
+    "published" : [ "2023-02-28T19:29:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1630651324420218880" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1630651324420218880" ]
+  },
+  "type" : [ "h-entry" ]
+}
