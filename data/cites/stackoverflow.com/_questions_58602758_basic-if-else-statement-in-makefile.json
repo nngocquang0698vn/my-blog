@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Basic if else statement in Makefile" ],
+    "summary" : [ "I'm trying to execute a simple if else statement in a Makefile:\n\ncheck:\n  if [ -z \"$(APP_NAME)\" ]; then \\\n    echo \"Empty\" \\\n  else \\\n    echo \"Not empty\" \\\n  fi\r\nWhen I execute make check I get the " ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/58602758/basic-if-else-statement-in-makefile" ]
+  }
+}
