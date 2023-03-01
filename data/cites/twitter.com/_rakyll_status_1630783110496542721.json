@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1492548437996310529/waX1aEU-.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Layoffs have a deeper impact on those with anxiety disorders regardless of the impact of their contributions." ],
+    "published" : [ "2023-03-01T04:12:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1630783110496542721" ],
+    "url" : [ "https://twitter.com/rakyll/status/1630783110496542721" ]
+  },
+  "type" : [ "h-entry" ]
+}
