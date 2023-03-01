@@ -1,0 +1,71 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Swizec Teller writing a book you’ll wanna read" ],
+          "nickname" : [ "Swizec" ],
+          "numeric-id" : [ "15353121" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1423736293385662466/AnF0Fsi6.jpg" ],
+          "published" : [ "2008-07-08T13:37:47+00:00" ],
+          "uid" : [ "tag:twitter.com:Swizec" ],
+          "url" : [ "https://twitter.com/Swizec", "https://swizec.com", "http://SeniorMindset.com", "http://ReactForDataviz.com", "http://ServerlessHandbook.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "why engineers avoid state machines" ],
+      "photo" : [ "https://pbs.twimg.com/media/FqEP3yTacAA2SAV.jpg" ],
+      "published" : [ "2023-02-28T16:13:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1630602124567654400" ],
+      "url" : [ "https://twitter.com/Swizec/status/1630602124567654400" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/swizec/status/…" ],
+      "url" : [ "https://twitter.com/swizec/status/1630602124567654400" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Swiber" ],
+        "nickname" : [ "kevinswiber" ],
+        "numeric-id" : [ "15478303" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392683005785763841/CAMp4K_g.jpg" ],
+        "published" : [ "2008-07-18T04:05:27+00:00" ],
+        "uid" : [ "tag:twitter.com:kevinswiber" ],
+        "url" : [ "https://twitter.com/kevinswiber", "https://swiber.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My favorite software patterns are some of the most obvious discoveries. I built a whole IoT platform that encouraged folks to model devices as state machines with transitions that were automatically surfaced in a hypermedia REST API. It was rad.\n<a class=\"tag\" href=\"https://twitter.com/swizec/status/1630602124567654400\">twitter.com/swizec/status/…</a>",
+      "value" : "My favorite software patterns are some of the most obvious discoveries. I built a whole IoT platform that encouraged folks to model devices as state machines with transitions that were automatically surfaced in a hypermedia REST API. It was rad."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Scotts Valley, CA" ],
+        "uid" : [ "tag:twitter.com:c3c9f58ab22272da" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-01T04:25:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1630786412856614913" ],
+    "url" : [ "https://twitter.com/kevinswiber/status/1630786412856614913" ]
+  },
+  "type" : [ "h-entry" ]
+}
