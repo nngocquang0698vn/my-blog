@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Cincinnati, OH" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Joel Verhagen" ],
+          "nickname" : [ "joelverhagen" ],
+          "numeric-id" : [ "8567532" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/378800000794159660/e81f2c0f809f41ca34e1e68ae1a95f22.jpeg" ],
+          "published" : [ "2007-08-31T21:48:43+00:00" ],
+          "uid" : [ "tag:twitter.com:joelverhagen" ],
+          "url" : [ "https://twitter.com/joelverhagen", "https://www.joelverhagen.com", "http://nuget.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Hey Daniel, we started a conversation about your support request earlier today. The package owner is engaged. This was a miss on my part not to notify you when we noticed this exceptional circumstance and engaged the owner. We'll reach out to you over email. Thanks.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Microsoft\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bagder\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nuget\"></a>",
+        "value" : "Hey Daniel, we started a conversation about your support request earlier today. The package owner is engaged. This was a miss on my part not to notify you when we noticed this exceptional circumstance and engaged the owner. We'll reach out to you over email. Thanks."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/bagder/status/1630704007445372928" ],
+      "published" : [ "2023-02-28T23:07:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1630706389147418629" ],
+      "url" : [ "https://twitter.com/joelverhagen/status/1630706389147418629" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://spacekaren.sucks/vhpfb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Handled, for folks finding this tweet -&gt;\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Microsoft\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bagder\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nuget\"></a>",
+      "value" : "Handled, for folks finding this tweet ->"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bagder/status/1630704007445372928" ],
+    "published" : [ "2023-03-01T06:51:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1630823076412772353" ],
+    "url" : [ "https://twitter.com/shanselman/status/1630823076412772353" ]
+  },
+  "type" : [ "h-entry" ]
+}
