@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "I like it, but preferably with a \"human-friendly\" layer on top of it to make it easier to work with. Most folks can just autogenerate a client to interact with an API but providing a bit of a nicer layer on top to ie group similar things, make auth easier to manage centrally, etc"
+      "value" : "I would prefer it, but preferably with a \"human-friendly\" layer on top of it to make it easier to work with. Most folks can just autogenerate a client to interact with an API but providing a bit of a nicer layer on top to ie group similar things, make auth easier to manage centrally, etc\r\n\r\nAlso, it indicates that the provider trusts their OpenAPI spec can actually be used"
     } ]
   },
   "kind" : "replies",
