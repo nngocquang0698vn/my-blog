@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1624920313162248192/psEeWYij.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I hope in my lifetime we get to a point where we don't have to spend an entire month out of every year trying to un-erase incredible women from the other eleven months and the thousands of years before it.\n\n<a href=\"https://twitter.com/search?q=%23WomensHistoryMonth\">#WomensHistoryMonth</a></div>",
+      "value" : "I hope in my lifetime we get to a point where we don't have to spend an entire month out of every year trying to un-erase incredible women from the other eleven months and the thousands of years before it.\n\n#WomensHistoryMonth"
+    } ],
+    "published" : [ "2023-03-03T06:52:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1631548023447916544" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1631548023447916544" ]
+  },
+  "type" : [ "h-entry" ]
+}
