@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Elsmore" ],
+        "nickname" : [ "ukmadlz" ],
+        "numeric-id" : [ "20993764" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1285526629318561804/MFcmK-WR.jpg" ],
+        "published" : [ "2009-02-16T15:28:43+00:00" ],
+        "uid" : [ "tag:twitter.com:ukmadlz" ],
+        "url" : [ "https://twitter.com/ukmadlz", "http://elsmore.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What's everyone's opinion on client libraries/SDKs generated from Open API specs?" ],
+    "published" : [ "2023-03-03T08:24:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1631571315571273736" ],
+    "url" : [ "https://twitter.com/ukmadlz/status/1631571315571273736" ]
+  },
+  "type" : [ "h-entry" ]
+}
