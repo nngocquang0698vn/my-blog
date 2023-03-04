@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "job application: \"what is your highest technical achievement?\"" ],
+    "published" : [ "2023-03-04T18:15:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1632082477484212224" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1632082477484212224" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FqZSXEmXoAE_yIu.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
