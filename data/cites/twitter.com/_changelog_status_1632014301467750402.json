@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Houston + Omaha" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Changelog" ],
+        "nickname" : [ "changelog" ],
+        "numeric-id" : [ "90286855" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199065640331595776/BNCgPsAw.jpg" ],
+        "published" : [ "2009-11-16T00:47:38+00:00" ],
+        "uid" : [ "tag:twitter.com:changelog" ],
+        "url" : [ "https://twitter.com/changelog", "https://changelog.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"I do a lot of rsyncing on my network\" <a href=\"https://twitter.com/adamstac\">@adamstac</a> \n\n\"Do a lot of arse-what?\" <a href=\"https://twitter.com/matryer\">@matryer</a> \n\nYou'll never hear `rsync` the same again...</div>",
+      "value" : "\"I do a lot of rsyncing on my network\" @adamstac \n\n\"Do a lot of arse-what?\" @matryer \n\nYou'll never hear `rsync` the same again..."
+    } ],
+    "published" : [ "2023-03-04T13:45:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1632014301467750402" ],
+    "url" : [ "https://twitter.com/changelog/status/1632014301467750402" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1632013816794890241/pu/vid/720x1280/M7YH1QJ2fqh5HxGg.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
