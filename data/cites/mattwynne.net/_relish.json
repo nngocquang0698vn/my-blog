@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Relish" ],
+    "summary" : [ "Back in 2010, David Chelimsky was re-writing RSpec, and had the idea to use Cucumber scenarios to drive the development. The RSpec websit..." ],
+    "featured" : [ "https://cdn.writeas.net/img/w-sq-light.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Matt Wynne" ]
+      }
+    } ],
+    "url" : [ "http://mattwynne.net/relish" ],
+    "published" : [ "2023-03-01T21:40:05Z" ]
+  }
+}
