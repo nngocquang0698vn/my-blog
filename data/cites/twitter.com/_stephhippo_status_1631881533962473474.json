@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steph Hippo" ],
+        "nickname" : [ "stephhippo" ],
+        "numeric-id" : [ "55135988" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989579420452229120/YJH4SCXf.jpg" ],
+        "published" : [ "2009-07-09T04:01:32+00:00" ],
+        "uid" : [ "tag:twitter.com:stephhippo" ],
+        "url" : [ "https://twitter.com/stephhippo", "https://post.news/stephhippo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Have at least one friend who will tell you, \"Don't tweet that.\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/repkevinhern\"></a>",
+      "value" : "Have at least one friend who will tell you, \"Don't tweet that.\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/repkevinhern/status/1631785840316674050" ],
+    "published" : [ "2023-03-04T04:57:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1631881533962473474" ],
+    "url" : [ "https://twitter.com/stephhippo/status/1631881533962473474" ]
+  },
+  "type" : [ "h-entry" ]
+}
