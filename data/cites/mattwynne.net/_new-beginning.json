@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Every ending is a new beginning" ],
+    "summary" : [ "Well, this is new.  After ten years building a company around the Cucumber open source project, I suddenly find myself out of a job.  I..." ],
+    "featured" : [ "https://i.snap.as/sgMrKHJU.jpeg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Matt Wynne" ]
+      }
+    } ],
+    "url" : [ "http://mattwynne.net/new-beginning" ],
+    "published" : [ "2023-02-23T22:10:51Z" ]
+  }
+}
