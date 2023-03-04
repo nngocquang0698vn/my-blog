@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Cambridge, MA, US" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Amartya Datta Gupta" ],
+          "nickname" : [ "amartya00" ],
+          "numeric-id" : [ "154464030" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1615240510083575808/O7XIDNJ2.jpg" ],
+          "published" : [ "2010-06-11T08:48:14+00:00" ],
+          "uid" : [ "tag:twitter.com:amartya00" ],
+          "url" : [ "https://twitter.com/amartya00" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The only way to catch up on emails at this point is to change your job.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/veekorbes\"></a>",
+        "value" : "The only way to catch up on emails at this point is to change your job."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/veekorbes/status/1631328533321760769" ],
+      "published" : [ "2023-03-02T17:31:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1631346594212876289" ],
+      "url" : [ "https://twitter.com/amartya00/status/1631346594212876289" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "vee" ],
+        "nickname" : [ "veekorbes" ],
+        "numeric-id" : [ "839068743313555456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533160359812546560/FLy3l-Ry.jpg" ],
+        "published" : [ "2017-03-07T11:02:32+00:00" ],
+        "uid" : [ "tag:twitter.com:veekorbes" ],
+        "url" : [ "https://twitter.com/veekorbes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "a girl being disappointed at the text \"NEW JOB TO GET A BUMP IN COMPENSATION\" but being happy about the text \"NEW JOB TO GET AN EMPTY INBOX\"",
+      "value" : "https://pbs.twimg.com/media/FqPNduKXwAAtc5k.jpg"
+    } ],
+    "published" : [ "2023-03-02T19:19:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1631373566015840265" ],
+    "url" : [ "https://twitter.com/veekorbes/status/1631373566015840265" ]
+  },
+  "type" : [ "h-entry" ]
+}
