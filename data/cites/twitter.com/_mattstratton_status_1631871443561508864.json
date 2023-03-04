@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "tips: tom@theverge.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tom Warren" ],
+          "nickname" : [ "tomwarren" ],
+          "numeric-id" : [ "12273252" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1601147760673267712/pGbRSFcP.jpg" ],
+          "published" : [ "2008-01-15T14:42:09+00:00" ],
+          "uid" : [ "tag:twitter.com:tomwarren" ],
+          "url" : [ "https://twitter.com/tomwarren", "https://linktr.ee/tomwarren" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "“Twitter is even better for yo”" ],
+      "photo" : [ "https://pbs.twimg.com/media/FqSCP_wXoAAlNw5.jpg" ],
+      "published" : [ "2023-03-03T08:28:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1631572179878813696" ],
+      "url" : [ "https://twitter.com/tomwarren/status/1631572179878813696" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton, professional nerdsniper" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599946475106177025/d0fP2wjB.jpg" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "https://about.me/mattstratton" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This just is a harbinger that Yo is going to have a renaissance" ],
+    "published" : [ "2023-03-04T04:17:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1631871443561508864" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1631871443561508864" ]
+  },
+  "type" : [ "h-entry" ]
+}
