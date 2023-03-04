@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patrick Kolencherry" ],
+        "nickname" : [ "kolencherry" ],
+        "numeric-id" : [ "1463214210" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1214590297734352897/eai8tnlc.jpg" ],
+        "published" : [ "2013-05-27T21:59:41+00:00" ],
+        "uid" : [ "tag:twitter.com:kolencherry" ],
+        "url" : [ "https://twitter.com/kolencherry" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "greatest of all time: sandwich edition\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>",
+      "value" : "greatest of all time: sandwich edition"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1632041234851155973" ],
+    "published" : [ "2023-03-04T15:44:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1632044249603530752" ],
+    "url" : [ "https://twitter.com/kolencherry/status/1632044249603530752" ]
+  },
+  "type" : [ "h-entry" ]
+}
