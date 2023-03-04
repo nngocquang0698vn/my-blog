@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Interview with a Pornhub Web Developer" ],
+    "summary" : [ "A chat with the PornHub development team, about working in the adult website industry, technology, virtual reality, and more." ],
+    "featured" : [ "https://davidwalsh.name/demo/PornHubLogo.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Walsh" ]
+      }
+    } ],
+    "url" : [ "https://davidwalsh.name/pornhub-interview" ],
+    "published" : [ "2020-05-25T17:27:41+00:00" ]
+  }
+}
