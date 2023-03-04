@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "any pronouns" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "some Tweeters you’ve liked" ],
+        "nickname" : [ "JEllulz" ],
+        "numeric-id" : [ "993586358936571905" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/993587895620468737/qgoK2Nlt.jpg" ],
+        "published" : [ "2018-05-07T20:20:22+00:00" ],
+        "uid" : [ "tag:twitter.com:JEllulz" ],
+        "url" : [ "https://twitter.com/JEllulz", "https://twitter.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Can you reply with a screenshot of musk tweeting \"Interesting\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mikepqr\"></a>",
+      "value" : "Can you reply with a screenshot of musk tweeting \"Interesting\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mikepqr/status/1631739144094507008" ],
+    "published" : [ "2023-03-03T23:04:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1631792799979896834" ],
+    "url" : [ "https://twitter.com/JEllulz/status/1631792799979896834" ]
+  },
+  "type" : [ "h-entry" ]
+}
