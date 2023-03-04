@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton, professional nerdsniper" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599946475106177025/d0fP2wjB.jpg" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "https://about.me/mattstratton" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1631871720331280386" ],
+    "published" : [ "2023-03-04T04:54:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1631880660448149505" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1631880660448149505" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FqWazz6WIAEz9o_.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
