@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wolfgang Blau" ],
+        "nickname" : [ "wblau" ],
+        "numeric-id" : [ "15129265" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1195501384482852865/0HviCWNm.jpg" ],
+        "published" : [ "2008-06-16T00:30:56+00:00" ],
+        "uid" : [ "tag:twitter.com:wblau" ],
+        "url" : [ "https://twitter.com/wblau", "https://www.linkedin.com/in/wolfgang-blau-68726244/", "https://mastodon.social/@wblau" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "and in trains that won’t bust your ears, <a href=\"https://twitter.com/TfL\">@TfL</a> <a href=\"https://twitter.com/search?q=%23northernline\">#northernline</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/modacitylife\"></a>",
+      "value" : "and in trains that won’t bust your ears, @TfL #northernline"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/modacitylife/status/1631922815220822016" ],
+    "published" : [ "2023-03-04T10:42:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1631968338850062336" ],
+    "url" : [ "https://twitter.com/wblau/status/1631968338850062336" ]
+  },
+  "type" : [ "h-entry" ]
+}
