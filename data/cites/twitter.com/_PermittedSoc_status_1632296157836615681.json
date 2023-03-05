@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "httpapi_wg" ],
+          "nickname" : [ "httpapi_wg" ],
+          "numeric-id" : [ "1521650639142461441" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1521990205821288449/95gsrJ07.png" ],
+          "published" : [ "2022-05-04T00:39:21+00:00" ],
+          "uid" : [ "tag:twitter.com:httpapi_wg" ],
+          "url" : [ "https://twitter.com/httpapi_wg", "https://ietf-wg-httpapi.github.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "YAML Media Type has entered evalutation by the IESG. <a href=\"https://datatracker.ietf.org/doc/draft-ietf-httpapi-yaml-mediatypes/\">datatracker.ietf.org/doc/draft-ietf…</a>",
+        "value" : "YAML Media Type has entered evalutation by the IESG. datatracker.ietf.org/doc/draft-ietf…"
+      } ],
+      "published" : [ "2023-01-20T20:27:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1616532978619875346" ],
+      "url" : [ "https://twitter.com/httpapi_wg/status/1616532978619875346" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Newbury, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Ralphson" ],
+        "nickname" : [ "PermittedSoc" ],
+        "numeric-id" : [ "2455731378" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1087078821675839490/1eRAzd_4.jpg" ],
+        "published" : [ "2014-04-21T00:34:44+00:00" ],
+        "uid" : [ "tag:twitter.com:PermittedSoc" ],
+        "url" : [ "https://twitter.com/PermittedSoc", "http://mermade.org.uk", "http://APIs.guru" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It's great that the application/yaml mediatype is getting formalised.\n\nIt may not be so great that this <a href=\"https://twitter.com/search?q=%23RFC\">#RFC</a>  candidate says \"A fragment identifier starting with '*' is to be interpreted as a YAML alias node\". If you simply parse the <a href=\"https://twitter.com/search?q=%23YAML\">#YAML</a> to an object, the alias nodes are lost.</div>",
+      "value" : "It's great that the application/yaml mediatype is getting formalised.\n\nIt may not be so great that this #RFC  candidate says \"A fragment identifier starting with '*' is to be interpreted as a YAML alias node\". If you simply parse the #YAML to an object, the alias nodes are lost."
+    } ],
+    "published" : [ "2023-03-05T08:25:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1632296157836615681" ],
+    "url" : [ "https://twitter.com/PermittedSoc/status/1632296157836615681" ]
+  },
+  "type" : [ "h-entry" ]
+}
