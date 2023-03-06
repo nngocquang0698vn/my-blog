@@ -35,7 +35,8 @@ The TL;DR is, yes you can, but it's a little hacky. You can find [the project on
 Via the README, running the following:
 
 ```sh
-npm exec tsup index.ts && node dist/index.js --token $GITHUB_COM_TOKEN jamietanna/jamietanna
+npm i @jamietanna/renovate-graph
+renovate-graph --token $GITHUB_COM_TOKEN jamietanna/jamietanna
 ```
 
 Will create the file `out/jamietanna-jamietanna.json`, which contains the internal dependency data that Renovate sees, i.e.:
@@ -207,9 +208,9 @@ Alternatively, and handier for when running against quite a few repos, you can r
 
 ```sh
 # or with autodiscovery and a filter
-npm exec tsup index.ts && node dist/index.js --token $GITHUB_COM_TOKEN --autodiscover --autodiscover-filter 'jamietanna/*'
+renovate-graph --token $GITHUB_COM_TOKEN --autodiscover --autodiscover-filter 'jamietanna/*'
 ```
 
 Which then populates many files in the `out` directory.
 
-As per the README of the project, you can then use `sqlite-utils` and a hand-rolled script to construct an SQLite database with the data, for easy querying.
+As per the README of the project, you can then use the [`dmd` CLI](https://gitlab.com/tanna.dev/dependency-management-data/) to convert this to an SQLite database, as well as perform other transformations.
