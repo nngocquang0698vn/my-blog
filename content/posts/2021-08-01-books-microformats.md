@@ -1,5 +1,5 @@
 ---
-title: "Introducing a Microformats API for Books: `books-mf2.herokuapp.com`"
+title: "Introducing a Microformats API for Books: `books-mf2.fly.dev`"
 description: "Announcing the Microformats translation layer for book data."
 date: "2021-08-01T13:42:17+0100"
 syndication:
@@ -32,7 +32,7 @@ Let's assume that we're excited to read the final book in The Expanse series, [_
 We can take the ISBN 10 or ISBN 13, and put it into the API:
 
 ```json
-GET https://books-mf2.herokuapp.com/isbn/9780316332910
+GET https://books-mf2.fly.dev/isbn/9780316332910
 {
   "items": [
     {
