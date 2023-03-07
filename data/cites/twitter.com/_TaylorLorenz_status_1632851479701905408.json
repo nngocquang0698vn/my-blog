@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York and the World" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Bloomberg" ],
+          "nickname" : [ "business" ],
+          "numeric-id" : [ "34713362" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg" ],
+          "published" : [ "2009-04-23T20:05:17+00:00" ],
+          "uid" : [ "tag:twitter.com:business" ],
+          "url" : [ "https://twitter.com/business", "https://www.bloomberg.com/account/newsletters/politics", "http://bloom.bg/newsletters", "http://bloom.bg/podcasts", "http://trib.al/jtoXfuT" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "“We are putting out a clear call to all of our shops: Do not allow people to enter the store without taking off their face mask,\" NYC Mayor Eric Adams said <a href=\"https://trib.al/dWBbkIQ\">trib.al/dWBbkIQ</a>",
+        "value" : "“We are putting out a clear call to all of our shops: Do not allow people to enter the store without taking off their face mask,\" NYC Mayor Eric Adams said trib.al/dWBbkIQ"
+      } ],
+      "published" : [ "2023-03-06T20:25:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1632839945298509824" ],
+      "url" : [ "https://twitter.com/business/status/1632839945298509824" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Lorenz" ],
+        "nickname" : [ "TaylorLorenz" ],
+        "numeric-id" : [ "208725869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487520401731174404/SwXwcxuH.jpg" ],
+        "published" : [ "2010-10-27T20:40:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TaylorLorenz" ],
+        "url" : [ "https://twitter.com/TaylorLorenz", "https://linktr.ee/TaylorLorenz", "https://taylorlorenz.substack.com/subscribe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is extremely fucked up and cruel, especially considering medically vulnerable ppl are told they MUST wear their masks at all times to stay safe and if they even let it slip once and become infected and die/become disabled that’s on them" ],
+    "published" : [ "2023-03-06T21:11:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1632851479701905408" ],
+    "url" : [ "https://twitter.com/TaylorLorenz/status/1632851479701905408" ]
+  },
+  "type" : [ "h-entry" ]
+}
