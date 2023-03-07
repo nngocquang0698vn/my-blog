@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David C Bell" ],
+        "nickname" : [ "MovieHooligan" ],
+        "numeric-id" : [ "402817483" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/742071120371716097/DjfdrGuv.jpg" ],
+        "published" : [ "2011-11-01T16:28:33+00:00" ],
+        "uid" : [ "tag:twitter.com:MovieHooligan" ],
+        "url" : [ "https://twitter.com/MovieHooligan", "https://www.patreon.com/GamefullyUnemployed", "http://Cracked.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Have you tried resigning from the company to see if that fixes the problem?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pmarca\"></a>",
+      "value" : "Have you tried resigning from the company to see if that fixes the problem?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1632810081497513993" ],
+    "published" : [ "2023-03-06T18:55:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1632817299660083200" ],
+    "url" : [ "https://twitter.com/MovieHooligan/status/1632817299660083200" ]
+  },
+  "type" : [ "h-entry" ]
+}
