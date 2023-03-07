@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Support" ],
+          "nickname" : [ "TwitterSupport" ],
+          "numeric-id" : [ "17874544" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao.jpg" ],
+          "published" : [ "2008-12-04T18:51:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSupport" ],
+          "url" : [ "https://twitter.com/TwitterSupport", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Some parts of Twitter may not be working as expected right now. We made an internal change that had some unintended consequences. We’re working on this now and will share an update when it’s fixed." ],
+      "published" : [ "2023-03-06T17:19:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1632792942262747136" ],
+      "url" : [ "https://twitter.com/TwitterSupport/status/1632792942262747136" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nashua, NH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cadbury Creme Egg Enthusiast" ],
+        "nickname" : [ "thx3188" ],
+        "numeric-id" : [ "906956370" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588994522243022853/IPFpF6Lu.jpg" ],
+        "published" : [ "2012-10-26T23:18:47+00:00" ],
+        "uid" : [ "tag:twitter.com:thx3188" ],
+        "url" : [ "https://twitter.com/thx3188", "https://www.youtube.com/thx3188" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "How I imagine every day at Twitter goes: <a href=\"https://twitter.com/twittersupport/status/1632792942262747136\">twitter.com/twittersupport…</a>",
+      "value" : "How I imagine every day at Twitter goes: twitter.com/twittersupport…"
+    } ],
+    "published" : [ "2023-03-06T18:54:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1632816855793520642" ],
+    "url" : [ "https://twitter.com/thx3188/status/1632816855793520642" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FqjuRcKWwAEvi4Z.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
