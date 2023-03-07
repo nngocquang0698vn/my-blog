@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593964807115284480/cG88df7Z.jpg" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Thinking of the time Elon publicly fired an Android engineer for saying that the app was slow because of technical debt and a full rewrite is needed to address perf problems.\n\n3 months on, Elon himself proposes a full rewrite himself, because a config change caused an outage. 😅</div>",
+      "value" : "Thinking of the time Elon publicly fired an Android engineer for saying that the app was slow because of technical debt and a full rewrite is needed to address perf problems.\n\n3 months on, Elon himself proposes a full rewrite himself, because a config change caused an outage. 😅"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FqkPSb5aYAAhL2J.jpg" ],
+    "published" : [ "2023-03-06T21:18:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1632853153170489344" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1632853153170489344" ]
+  },
+  "type" : [ "h-entry" ]
+}
