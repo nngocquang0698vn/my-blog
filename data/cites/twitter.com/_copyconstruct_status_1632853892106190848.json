@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593964807115284480/cG88df7Z.jpg" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Every company has tech debt, but Twitter 1.0 had extensively invested (pioneered even) many mechanisms to safely test and deploy changes (including many types of config changes) in prod. \n\nGuess all those thousands of engineers were actually doing something worthwhile, after all.</div>",
+      "value" : "Every company has tech debt, but Twitter 1.0 had extensively invested (pioneered even) many mechanisms to safely test and deploy changes (including many types of config changes) in prod. \n\nGuess all those thousands of engineers were actually doing something worthwhile, after all."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/copyconstruct/status/1632853153170489344" ],
+    "published" : [ "2023-03-06T21:21:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1632853892106190848" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1632853892106190848" ]
+  },
+  "type" : [ "h-entry" ]
+}
