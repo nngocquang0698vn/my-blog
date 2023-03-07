@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Landon Howell" ],
+        "nickname" : [ "landonhowell" ],
+        "numeric-id" : [ "19151705" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1519376729965477889/hHsmvdnu.jpg" ],
+        "published" : [ "2009-01-18T17:58:55+00:00" ],
+        "uid" : [ "tag:twitter.com:landonhowell" ],
+        "url" : [ "https://twitter.com/landonhowell", "https://landonhowell.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/broderick\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/broderick/status/1632813268581359616" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fqk0tt2XsAE-3Kk.jpg" ],
+    "published" : [ "2023-03-07T00:01:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1632894302094229507" ],
+    "url" : [ "https://twitter.com/landonhowell/status/1632894302094229507" ]
+  },
+  "type" : [ "h-entry" ]
+}
