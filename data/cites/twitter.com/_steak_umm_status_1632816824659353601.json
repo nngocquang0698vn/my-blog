@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pennsylvania" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steak-umm" ],
+        "nickname" : [ "steak_umm" ],
+        "numeric-id" : [ "73204975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505963741954945028/kk8k_nwH.jpg" ],
+        "published" : [ "2009-09-10T19:57:20+00:00" ],
+        "uid" : [ "tag:twitter.com:steak_umm" ],
+        "url" : [ "https://twitter.com/steak_umm", "http://steakumm.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "evergreen tweet\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TwitterSupport\"></a>",
+      "value" : "evergreen tweet"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TwitterSupport/status/1632792942262747136" ],
+    "published" : [ "2023-03-06T18:54:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1632816824659353601" ],
+    "url" : [ "https://twitter.com/steak_umm/status/1632816824659353601" ]
+  },
+  "type" : [ "h-entry" ]
+}
