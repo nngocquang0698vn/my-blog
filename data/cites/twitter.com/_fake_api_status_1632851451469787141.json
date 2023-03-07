@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Platformer" ],
+          "nickname" : [ "platformer" ],
+          "numeric-id" : [ "1306335292668801025" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1308622638403657729/8Z5lsHhS.jpg" ],
+          "published" : [ "2020-09-16T20:53:43+00:00" ],
+          "uid" : [ "tag:twitter.com:platformer" ],
+          "url" : [ "https://twitter.com/platformer", "https://www.platformer.news/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">For all followers today:\n\n- How a single engineer brought down Twitter on Monday\n- The high cost of cutting expenses\n- Good tweet about tax season\n\n<a href=\"https://www.platformer.news/p/how-a-single-engineer-brought-down\">platformer.news/p/how-a-single…</a></div>",
+        "value" : "For all followers today:\n\n- How a single engineer brought down Twitter on Monday\n- The high cost of cutting expenses\n- Good tweet about tax season\n\nplatformer.news/p/how-a-single…"
+      } ],
+      "published" : [ "2023-03-06T21:01:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1632849015741227008" ],
+      "url" : [ "https://twitter.com/platformer/status/1632849015741227008" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twіtter API" ],
+        "nickname" : [ "fake_api" ],
+        "numeric-id" : [ "301193090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589062786004537344/gyESmj-4.jpg" ],
+        "published" : [ "2011-05-19T01:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:fake_api" ],
+        "url" : [ "https://twitter.com/fake_api", "https://instagram.com/fake_api" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Everyone please stop talking about this. It was just a minor outage of the entire platform for over an hour caused by our need to relentlessly monetize every aspect of this website without any knowledgeable staff or adequate planning. This is not a big deal!" ],
+    "published" : [ "2023-03-06T21:11:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1632851451469787141" ],
+    "url" : [ "https://twitter.com/fake_api/status/1632851451469787141" ]
+  },
+  "type" : [ "h-entry" ]
+}
