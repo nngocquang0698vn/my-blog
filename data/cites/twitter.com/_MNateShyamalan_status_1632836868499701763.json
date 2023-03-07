@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "tweets" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "soul nate" ],
+        "nickname" : [ "MNateShyamalan" ],
+        "numeric-id" : [ "218166083" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591604213976530946/0CF-Esuh.jpg" ],
+        "published" : [ "2010-11-21T16:15:19+00:00" ],
+        "uid" : [ "tag:twitter.com:MNateShyamalan" ],
+        "url" : [ "https://twitter.com/MNateShyamalan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "twitter engineer here. the app broke cuz elon made us tweak the algorithm to force stephen king to see all his posts. we told him we should run unit tests before pushing to prod, but he just said “haha. unit testes. epic.” then he got up and stood in a corner like the blair witch" ],
+    "published" : [ "2023-03-06T20:13:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1632836868499701763" ],
+    "url" : [ "https://twitter.com/MNateShyamalan/status/1632836868499701763" ]
+  },
+  "type" : [ "h-entry" ]
+}
