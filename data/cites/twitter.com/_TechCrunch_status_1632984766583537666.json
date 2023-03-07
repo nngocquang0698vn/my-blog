@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "TechCrunch" ],
+        "nickname" : [ "TechCrunch" ],
+        "numeric-id" : [ "816653" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX.png" ],
+        "published" : [ "2007-03-07T01:27:09+00:00" ],
+        "uid" : [ "tag:twitter.com:TechCrunch" ],
+        "url" : [ "https://twitter.com/TechCrunch", "https://techcrunch.com/newsletters", "http://techcrunch.com/tips" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "ADHD startups are exploding, and now there even a dedicated browser <a href=\"https://tcrn.ch/3JiITGB\">tcrn.ch/3JiITGB</a> by <a href=\"https://twitter.com/mikebutcher\">@mikebutcher</a>",
+      "value" : "ADHD startups are exploding, and now there even a dedicated browser tcrn.ch/3JiITGB by @mikebutcher"
+    } ],
+    "published" : [ "2023-03-07T06:01:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1632984766583537666" ],
+    "url" : [ "https://twitter.com/TechCrunch/status/1632984766583537666" ]
+  },
+  "type" : [ "h-entry" ]
+}
