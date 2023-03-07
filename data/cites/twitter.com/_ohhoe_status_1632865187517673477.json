@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, I guess" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Broderick" ],
+          "nickname" : [ "broderick" ],
+          "numeric-id" : [ "18205531" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1419661731324956678/XFT3yMLU.jpg" ],
+          "published" : [ "2008-12-18T01:29:08+00:00" ],
+          "uid" : [ "tag:twitter.com:broderick" ],
+          "url" : [ "https://twitter.com/broderick", "https://www.garbageday.email" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Stack’s brittle" ],
+      "photo" : [ "https://pbs.twimg.com/media/FqjrArkWcAEvDSP.jpg" ],
+      "published" : [ "2023-03-06T18:39:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1632813268581359616" ],
+      "url" : [ "https://twitter.com/broderick/status/1632813268581359616" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rachel" ],
+        "nickname" : [ "ohhoe" ],
+        "numeric-id" : [ "2141321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1596767644300066816/8JXwGlbf.jpg" ],
+        "published" : [ "2007-03-24T23:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:ohhoe" ],
+        "url" : [ "https://twitter.com/ohhoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I love watching this man prove he knows nothing about coding over and over" ],
+    "published" : [ "2023-03-06T22:06:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1632865187517673477" ],
+    "url" : [ "https://twitter.com/ohhoe/status/1632865187517673477" ]
+  },
+  "type" : [ "h-entry" ]
+}
