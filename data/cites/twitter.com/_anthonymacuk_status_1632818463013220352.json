@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anthony Macuk" ],
+        "nickname" : [ "anthonymacuk" ],
+        "numeric-id" : [ "211441521" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1580693405767704591/ufYjECr0.jpg" ],
+        "published" : [ "2010-11-03T08:04:39+00:00" ],
+        "uid" : [ "tag:twitter.com:anthonymacuk" ],
+        "url" : [ "https://twitter.com/anthonymacuk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"what?\"\n*loading a pistol and walking back into the server room* stack's brittle</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/broderick\"></a>",
+      "value" : "\"what?\"\n*loading a pistol and walking back into the server room* stack's brittle"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/broderick/status/1632813268581359616" ],
+    "published" : [ "2023-03-06T19:00:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1632818463013220352" ],
+    "url" : [ "https://twitter.com/anthonymacuk/status/1632818463013220352" ]
+  },
+  "type" : [ "h-entry" ]
+}
