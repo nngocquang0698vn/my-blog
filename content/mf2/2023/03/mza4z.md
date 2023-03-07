@@ -1,6 +1,6 @@
 {
   "date" : "2023-03-07T07:53:00+0000",
-  "deleted" : false,
+  "deleted" : true,
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
