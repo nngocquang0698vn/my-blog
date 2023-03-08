@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Making my way downtown" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr Farts, Esq." ],
+        "nickname" : [ "ZachBDB" ],
+        "numeric-id" : [ "836526462" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1600007709184724994/IkCSHUe0.jpg" ],
+        "published" : [ "2012-09-20T23:06:12+00:00" ],
+        "uid" : [ "tag:twitter.com:ZachBDB" ],
+        "url" : [ "https://twitter.com/ZachBDB" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Glinner\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Glinner/status/1633203401918935041" ],
+    "photo" : [ "https://pbs.twimg.com/media/FqpwUe9X0AMvc5D.png" ],
+    "published" : [ "2023-03-07T23:00:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1633241337389621248" ],
+    "url" : [ "https://twitter.com/ZachBDB/status/1633241337389621248" ]
+  },
+  "type" : [ "h-entry" ]
+}
