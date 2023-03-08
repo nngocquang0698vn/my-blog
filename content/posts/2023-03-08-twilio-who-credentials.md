@@ -7,7 +7,6 @@ tags:
 - twilio
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: https://media.jvt.me/770ef46545.png
 slug: twilio-who-credentials
 ---
 Let's say you've found some Twilio credentials, and want to work out whether they're still active.
