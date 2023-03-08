@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Making Go telemetry opt-in is a mistake" ],
+    "summary" : [ "A hot take." ],
+    "featured" : [ "https://twi.github.io/blog/blog/images/librarian.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Twilight Sparkle" ]
+      }
+    } ],
+    "url" : [ "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html" ]
+  }
+}
