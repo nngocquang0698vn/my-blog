@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Introducing ngrok-go: Ingress to Your Go Apps as a `net.Listener`" ],
+    "summary" : [ "Today, we're excited to announce ngrok-go, our idiomatic Go package for embedding secure ingress directly into your Go applications. If you’ve used ngrok before, you can think of ngrok-go as the ngrok agent packaged as a Go library." ],
+    "featured" : [ "/assets/blog/ngrok-go.png" ],
+    "url" : [ "https://blog.ngrok.com/posts/ngrok-go" ]
+  }
+}
