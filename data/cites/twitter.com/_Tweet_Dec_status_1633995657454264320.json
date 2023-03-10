@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Declan Cashin" ],
+        "nickname" : [ "Tweet_Dec" ],
+        "numeric-id" : [ "17519978" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1540359756921163777/9KK3hi2u.jpg" ],
+        "published" : [ "2008-11-20T19:53:16+00:00" ],
+        "uid" : [ "tag:twitter.com:Tweet_Dec" ],
+        "url" : [ "https://twitter.com/Tweet_Dec" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Happy 6th anniversary to the greatest moment in the history of the internet " ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Brent, London" ],
+        "uid" : [ "tag:twitter.com:5524b796309058b5" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-10T00:58:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1633995657454264320" ],
+    "url" : [ "https://twitter.com/Tweet_Dec/status/1633995657454264320" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/840176094116532224/pu/vid/638x360/xHnWwPvFXMlhT_aZ.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
