@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Redmond, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "TypeScript" ],
+          "nickname" : [ "typescript" ],
+          "numeric-id" : [ "809233214" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b.jpg" ],
+          "published" : [ "2012-09-07T16:57:49+00:00" ],
+          "uid" : [ "tag:twitter.com:typescript" ],
+          "url" : [ "https://twitter.com/typescript", "http://www.typescriptlang.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Want to hear about our refactoring adventures?\n\nWe put together a nice short write-up (just 6,000 words) about our journey in modernizing the TypeScript codebase, and our migration to modules!\n\n<a href=\"https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules/\">devblogs.microsoft.com/typescript/typ…</a></div>",
+        "value" : "Want to hear about our refactoring adventures?\n\nWe put together a nice short write-up (just 6,000 words) about our journey in modernizing the TypeScript codebase, and our migration to modules!\n\ndevblogs.microsoft.com/typescript/typ…"
+      } ],
+      "published" : [ "2023-03-09T21:42:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1633946375422644225" ],
+      "url" : [ "https://twitter.com/typescript/status/1633946375422644225" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob Palmer" ],
+        "nickname" : [ "robpalmer2" ],
+        "numeric-id" : [ "55897406" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/653235651752517632/NcqE9VJo.jpg" ],
+        "published" : [ "2009-07-11T18:45:00+00:00" ],
+        "uid" : [ "tag:twitter.com:robpalmer2" ],
+        "url" : [ "https://twitter.com/robpalmer2" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TypeScript source code now uses ES modules 🎉\n\n🔹 npm package is 46% smaller\n🔹 Build times reduced by 10-25% 😲\n\nThe next likely step is to ship native ESM for even more wins 👍\n\ne.g. making the CJS entrypoint a thin wrapper around a native ESM entrypoint will save 7 MB alone 🔥</div>",
+      "value" : "TypeScript source code now uses ES modules 🎉\n\n🔹 npm package is 46% smaller\n🔹 Build times reduced by 10-25% 😲\n\nThe next likely step is to ship native ESM for even more wins 👍\n\ne.g. making the CJS entrypoint a thin wrapper around a native ESM entrypoint will save 7 MB alone 🔥"
+    } ],
+    "published" : [ "2023-03-10T11:47:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1634159117387411459" ],
+    "url" : [ "https://twitter.com/robpalmer2/status/1634159117387411459" ]
+  },
+  "type" : [ "h-entry" ]
+}
