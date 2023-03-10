@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sparklelandia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jennifer Davis" ],
+        "nickname" : [ "sigje" ],
+        "numeric-id" : [ "17527655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477874340028813314/ttyMhW2d.jpg" ],
+        "published" : [ "2008-11-21T00:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:sigje" ],
+        "url" : [ "https://twitter.com/sigje", "http://jennifer.dev", "http://pronoun.is/she?or=they" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "uhoh. what is the project?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>",
+      "value" : "uhoh. what is the project?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bitandbang/status/1634065846002753537" ],
+    "published" : [ "2023-03-10T05:52:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1634069572746903553" ],
+    "url" : [ "https://twitter.com/sigje/status/1634069572746903553" ]
+  },
+  "type" : [ "h-entry" ]
+}
