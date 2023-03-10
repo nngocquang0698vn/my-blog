@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "skottler@mastodon.lol" ],
+        "nickname" : [ "samkottler" ],
+        "numeric-id" : [ "103914540" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1562191551303806977/XI7W1_RE.jpg" ],
+        "published" : [ "2010-01-11T17:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:samkottler" ],
+        "url" : [ "https://twitter.com/samkottler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "it's wild how you can make a bank insolvent by telling everyone it's insolvent" ],
+    "published" : [ "2023-03-10T15:37:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1634217022346149889" ],
+    "url" : [ "https://twitter.com/samkottler/status/1634217022346149889" ]
+  },
+  "type" : [ "h-entry" ]
+}
