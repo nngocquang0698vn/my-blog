@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ring -1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Buchanan" ],
+        "nickname" : [ "David3141593" ],
+        "numeric-id" : [ "2242426383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/824035276620238848/bdPI4Q1t.jpg" ],
+        "published" : [ "2013-12-24T23:44:16+00:00" ],
+        "uid" : [ "tag:twitter.com:David3141593" ],
+        "url" : [ "https://twitter.com/David3141593", "https://www.da.vidbuchanan.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The Quest for Netflix on Asahi Linux\n\n(\"do not violate the DMCA challenge 2023\")\n\n<a href=\"https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html\">da.vidbuchanan.co.uk/blog/netflix-o…</a></div>",
+      "value" : "The Quest for Netflix on Asahi Linux\n\n(\"do not violate the DMCA challenge 2023\")\n\nda.vidbuchanan.co.uk/blog/netflix-o…"
+    } ],
+    "photo" : [ {
+      "alt" : "You wouldn't pay for 4K netflix, and then download a chromebook recovery image, in order to extract the aarch64 widevine CDM blobs, and then patch in support for 16K pages, and apply miscellaneous glibc compat workarounds, and then spoof your useragent, and install a browser extension to unlock HD resolutions, to legally watch your media in only 1080p.",
+      "value" : "https://pbs.twimg.com/media/FqyH2h2acAIAjzK.jpg"
+    } ],
+    "published" : [ "2023-03-09T14:02:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1633830656575954947" ],
+    "url" : [ "https://twitter.com/David3141593/status/1633830656575954947" ]
+  },
+  "type" : [ "h-entry" ]
+}
