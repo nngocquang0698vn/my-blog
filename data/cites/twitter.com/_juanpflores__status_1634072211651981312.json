@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Juan Pa" ],
+        "nickname" : [ "juanpflores_" ],
+        "numeric-id" : [ "305176724" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524602556751568897/F8ocr4Os.jpg" ],
+        "published" : [ "2011-05-25T19:36:33+00:00" ],
+        "uid" : [ "tag:twitter.com:juanpflores_" ],
+        "url" : [ "https://twitter.com/juanpflores_", "http://juanpflores.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "And then update their fork with the latest commits of the original repository\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>",
+      "value" : "And then update their fork with the latest commits of the original repository"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bitandbang/status/1634065846002753537" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Seattle, WA" ],
+        "uid" : [ "tag:twitter.com:300bcc6e23a88361" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-10T06:02:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1634072211651981312" ],
+    "url" : [ "https://twitter.com/juanpflores_/status/1634072211651981312" ]
+  },
+  "type" : [ "h-entry" ]
+}
