@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Yehuda Katz" ],
+          "nickname" : [ "wycats" ],
+          "numeric-id" : [ "8526432" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/861010112852262912/nbPZKMyR.jpg" ],
+          "published" : [ "2007-08-30T04:07:52+00:00" ],
+          "uid" : [ "tag:twitter.com:wycats" ],
+          "url" : [ "https://twitter.com/wycats", "http://yehudakatz.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Windows is the best platform for programming now." ],
+      "published" : [ "2023-03-08T16:26:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1633504510298693633" ],
+      "url" : [ "https://twitter.com/wycats/status/1633504510298693633" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Phoenix, AZ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Darren Shepherd" ],
+        "nickname" : [ "ibuildthecloud" ],
+        "numeric-id" : [ "1591197324" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/482750788519731201/Fcs5tabg.jpeg" ],
+        "published" : [ "2013-07-13T15:16:57+00:00" ],
+        "uid" : [ "tag:twitter.com:ibuildthecloud" ],
+        "url" : [ "https://twitter.com/ibuildthecloud", "https://acorn.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think Linux is. It’s just not the best desktop platform for anything else, like clicking things or rendering readable text." ],
+    "published" : [ "2023-03-10T06:21:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1634077112364826624" ],
+    "url" : [ "https://twitter.com/ibuildthecloud/status/1634077112364826624" ]
+  },
+  "type" : [ "h-entry" ]
+}
