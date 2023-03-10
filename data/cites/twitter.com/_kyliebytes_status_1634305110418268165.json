@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA via Seattle" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ben Bergman" ],
+          "nickname" : [ "thebenbergman" ],
+          "numeric-id" : [ "64295115" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1446533561440296966/IAHxcWj3.jpg" ],
+          "published" : [ "2009-08-10T00:41:39+00:00" ],
+          "uid" : [ "tag:twitter.com:thebenbergman" ],
+          "url" : [ "https://twitter.com/thebenbergman", "https://www.businessinsider.com/author/ben-bergman" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Scott Painter, founder and CEO of Autonomy, told me: \"I have about ten million dollars with them and I'm not the least bit worried. I'm going to buy their stock today.\"\n\n<a href=\"https://www.businessinsider.com/founders-call-for-calm-silicon-valley-banks-stock-price-plummets-2023-3\">businessinsider.com/founders-call-…</a></div>",
+        "value" : "Scott Painter, founder and CEO of Autonomy, told me: \"I have about ten million dollars with them and I'm not the least bit worried. I'm going to buy their stock today.\"\n\nbusinessinsider.com/founders-call-…"
+      } ],
+      "published" : [ "2023-03-10T00:51:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1633993973353287683" ],
+      "url" : [ "https://twitter.com/thebenbergman/status/1633993973353287683" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kylie Robison @ SXSW" ],
+        "nickname" : [ "kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537302292927418368/obPZaiS2.jpg" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Someone needs to check in on this guy" ],
+    "published" : [ "2023-03-10T21:27:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1634305110418268165" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1634305110418268165" ]
+  },
+  "type" : [ "h-entry" ]
+}
