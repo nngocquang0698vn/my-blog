@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "DiscussingFilm" ],
+          "nickname" : [ "DiscussingFilm" ],
+          "numeric-id" : [ "780460754910732288" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1478853769710510080/FAP8TTPR.jpg" ],
+          "published" : [ "2016-09-26T17:35:19+00:00" ],
+          "uid" : [ "tag:twitter.com:DiscussingFilm" ],
+          "url" : [ "https://twitter.com/DiscussingFilm", "http://discussingfilm.net/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Jennifer Lawrence stars in the first trailer for ‘NO HARD FEELINGS’.\n\nThe film releases on June 16 in theaters. </div>",
+        "value" : "Jennifer Lawrence stars in the first trailer for ‘NO HARD FEELINGS’.\n\nThe film releases on June 16 in theaters. "
+      } ],
+      "published" : [ "2023-03-09T15:03:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1633845977164701697" ],
+      "url" : [ "https://twitter.com/DiscussingFilm/status/1633845977164701697" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1633568401682513923/vid/1920x1080/94wiVUPGn6bdGr2z.mp4?tag=16" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aster Olsen" ],
+        "nickname" : [ "AsterOlsen" ],
+        "numeric-id" : [ "1140964907560685570" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1610147600505933825/M2FPc1dq.jpg" ],
+        "published" : [ "2019-06-18T12:50:06+00:00" ],
+        "uid" : [ "tag:twitter.com:AsterOlsen" ],
+        "url" : [ "https://twitter.com/AsterOlsen", "http://asterolsen.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the sissy hypno captions aesthetic is mainstream now" ],
+    "published" : [ "2023-03-10T21:30:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1634305700548714496" ],
+    "url" : [ "https://twitter.com/AsterOlsen/status/1634305700548714496" ]
+  },
+  "type" : [ "h-entry" ]
+}
