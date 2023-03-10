@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Declan Cashin" ],
+        "nickname" : [ "Tweet_Dec" ],
+        "numeric-id" : [ "17519978" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1540359756921163777/9KK3hi2u.jpg" ],
+        "published" : [ "2008-11-20T19:53:16+00:00" ],
+        "uid" : [ "tag:twitter.com:Tweet_Dec" ],
+        "url" : [ "https://twitter.com/Tweet_Dec" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A week rarely goes by when I don’t think of you and your lovely family and smile <a href=\"https://twitter.com/Robert_E_Kelly\">@Robert_E_Kelly</a>",
+      "value" : "A week rarely goes by when I don’t think of you and your lovely family and smile @Robert_E_Kelly"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Tweet_Dec/status/1633995657454264320" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Kensington, London" ],
+        "uid" : [ "tag:twitter.com:01c7ed8caf11e8b2" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-10T05:55:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1634070421304664064" ],
+    "url" : [ "https://twitter.com/Tweet_Dec/status/1634070421304664064" ]
+  },
+  "type" : [ "h-entry" ]
+}
