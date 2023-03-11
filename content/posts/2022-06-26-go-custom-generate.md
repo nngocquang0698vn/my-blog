@@ -228,3 +228,5 @@ func NewErr{{ .Name }}WithMessageAndCause(message string, cause error) error {
 ```
 
 This is a fairly straightforward way to produce valid Go code, removing boilerplate and making it simpler to ship code! As we can perform it all through the project, or consume an external, shared, tool, it's pretty handy.
+
+Example code can be found [on GitLab.com](https://gitlab.com/tanna.dev/go-codegen-example).
