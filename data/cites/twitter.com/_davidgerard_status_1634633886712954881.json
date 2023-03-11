@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "your #1 source for absurdist true crime 🐀 🐍👑 🌷" ],
+        "nickname" : [ "davidgerard" ],
+        "numeric-id" : [ "14723614" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509946632049238019/XJIIi7GR.jpg" ],
+        "published" : [ "2008-05-10T10:53:12+00:00" ],
+        "uid" : [ "tag:twitter.com:davidgerard" ],
+        "url" : [ "https://twitter.com/davidgerard", "https://davidgerard.co.uk/blockchain/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">UNVERIFIED RUMOUR:\n\nMusk fired everyone with access to the private key to their internal root CA, and they can no longer run Puppet because the Puppet master's CA cert expired and they can't get a new one because no one has access. They no longer can mint certs.\n\n*ahem* lol</div>",
+      "value" : "UNVERIFIED RUMOUR:\n\nMusk fired everyone with access to the private key to their internal root CA, and they can no longer run Puppet because the Puppet master's CA cert expired and they can't get a new one because no one has access. They no longer can mint certs.\n\n*ahem* lol"
+    } ],
+    "published" : [ "2023-03-11T19:14:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1634633886712954881" ],
+    "url" : [ "https://twitter.com/davidgerard/status/1634633886712954881" ]
+  },
+  "type" : [ "h-entry" ]
+}
