@@ -11,6 +11,7 @@ tags:
 - "open-source"
 - "security"
 - "typescript"
+- dependency-management-data
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/6661d55f5a.jpeg"
