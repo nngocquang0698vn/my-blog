@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "she/her" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "jody" ],
+          "nickname" : [ "wnbagirlfriend" ],
+          "numeric-id" : [ "1205564216972849153" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1427129645888114693/HsNIpekZ.jpg" ],
+          "published" : [ "2019-12-13T19:04:53+00:00" ],
+          "uid" : [ "tag:twitter.com:wnbagirlfriend" ],
+          "url" : [ "https://twitter.com/wnbagirlfriend" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "what feelings do men experience" ],
+      "published" : [ "2023-03-06T21:51:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1632861584740560896" ],
+      "url" : [ "https://twitter.com/wnbagirlfriend/status/1632861584740560896" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Frank Cifaldi (GDC).nes" ],
+        "nickname" : [ "frankcifaldi" ],
+        "numeric-id" : [ "24048220" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1597753788751695872/qAFxIt5I.jpg" ],
+        "published" : [ "2009-03-12T21:57:29+00:00" ],
+        "uid" : [ "tag:twitter.com:frankcifaldi" ],
+        "url" : [ "https://twitter.com/frankcifaldi", "http://GameHistory.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fq49nQIakAAHQKt.jpg" ],
+    "published" : [ "2023-03-10T21:53:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1634311461433651200" ],
+    "url" : [ "https://twitter.com/frankcifaldi/status/1634311461433651200" ]
+  },
+  "type" : [ "h-entry" ]
+}
