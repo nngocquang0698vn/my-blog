@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jez" ],
+        "nickname" : [ "JezCorden" ],
+        "numeric-id" : [ "918978248" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1592016858290556928/nyUIc1Su.jpg" ],
+        "published" : [ "2012-11-01T13:07:01+00:00" ],
+        "uid" : [ "tag:twitter.com:JezCorden" ],
+        "url" : [ "https://twitter.com/JezCorden", "http://www.windowscentral.com/author/jez-corden", "http://linktr.ee/jezc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "awkward moment the BBC is being fact checked by Twitter\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BBCWorld\"></a>",
+      "value" : "awkward moment the BBC is being fact checked by Twitter"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BBCWorld/status/1633717516617891843" ],
+    "published" : [ "2023-03-11T11:07:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1634511315644424193" ],
+    "url" : [ "https://twitter.com/JezCorden/status/1634511315644424193" ]
+  },
+  "type" : [ "h-entry" ]
+}
