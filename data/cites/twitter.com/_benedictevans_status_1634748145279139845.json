@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zoom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Benedict Evans" ],
+        "nickname" : [ "benedictevans" ],
+        "numeric-id" : [ "1236101" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431026502192205828/LaLAMvdn.jpg" ],
+        "published" : [ "2007-03-15T17:33:00+00:00" ],
+        "uid" : [ "tag:twitter.com:benedictevans" ],
+        "url" : [ "https://twitter.com/benedictevans", "http://www.ben-evans.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "SVB depositors withdrew $42bn on Thursday.  Blockchain solves bank runs because it would take years to handle $42bn of transfers." ],
+    "published" : [ "2023-03-12T02:48:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1634748145279139845" ],
+    "url" : [ "https://twitter.com/benedictevans/status/1634748145279139845" ]
+  },
+  "type" : [ "h-entry" ]
+}
