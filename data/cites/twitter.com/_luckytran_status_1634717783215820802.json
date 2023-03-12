@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Queens, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sophia 🇺🇦 💪🏼😷 ♦️" ],
+          "nickname" : [ "Sophiepedia" ],
+          "numeric-id" : [ "14268501" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1586915244865191936/MRliN_dc.jpg" ],
+          "published" : [ "2008-03-31T18:57:00+00:00" ],
+          "uid" : [ "tag:twitter.com:Sophiepedia" ],
+          "url" : [ "https://twitter.com/Sophiepedia" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "NYU Langone is the only health organization in NYC to drop the mask requirement. As you can see, their top priority is our safety but apparently they forgot how SARS-CoV-2 spreads. As long as you wash your hands." ],
+      "photo" : [ "https://pbs.twimg.com/media/Fq-q5hJWIAQuutj.jpg" ],
+      "published" : [ "2023-03-12T00:29:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1634713099449122819" ],
+      "url" : [ "https://twitter.com/Sophiepedia/status/1634713099449122819" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City and Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Lucky Tran" ],
+        "nickname" : [ "luckytran" ],
+        "numeric-id" : [ "159955958" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541499488149307392/oQ0id3Ty.jpg" ],
+        "published" : [ "2010-06-26T19:47:02+00:00" ],
+        "uid" : [ "tag:twitter.com:luckytran" ],
+        "url" : [ "https://twitter.com/luckytran", "https://linktr.ee/luckytran", "http://linktr.ee/luckytran" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Really NYU? Cover coughs and sneezes on your signage, but no recommendation to wear a mask? After 3 years of the pandemic? If you aren't going to require masks to protect your patients, the very least you can do is educate people about them." ],
+    "published" : [ "2023-03-12T00:47:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1634717783215820802" ],
+    "url" : [ "https://twitter.com/luckytran/status/1634717783215820802" ]
+  },
+  "type" : [ "h-entry" ]
+}
