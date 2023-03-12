@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC News (World)" ],
+          "nickname" : [ "BBCWorld" ],
+          "numeric-id" : [ "742143" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38.jpg" ],
+          "published" : [ "2007-02-01T07:44:29+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCWorld" ],
+          "url" : [ "https://twitter.com/BBCWorld", "http://www.bbc.com/news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Mental-health crisis from pandemic was minimal, study suggests <a href=\"https://bbc.in/3ZA0EHd\">bbc.in/3ZA0EHd</a>",
+        "value" : "Mental-health crisis from pandemic was minimal, study suggests bbc.in/3ZA0EHd"
+      } ],
+      "published" : [ "2023-03-09T06:33:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1633717516617891843" ],
+      "url" : [ "https://twitter.com/BBCWorld/status/1633717516617891843" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kel" ],
+        "nickname" : [ "creepygnomes" ],
+        "numeric-id" : [ "550560167" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335657701108539398/bWE9wZly.jpg" ],
+        "published" : [ "2012-04-11T00:28:21+00:00" ],
+        "uid" : [ "tag:twitter.com:creepygnomes" ],
+        "url" : [ "https://twitter.com/creepygnomes", "http://Instagram.com/creepygnomes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I ate one chicken nugget a minute for 60 minutes and streamed it on twitch. <a href=\"https://twitter.com/bbcworld/status/1633717516617891843\">twitter.com/bbcworld/statu…</a>",
+      "value" : "I ate one chicken nugget a minute for 60 minutes and streamed it on twitch. twitter.com/bbcworld/statu…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fq-dQ98WIAIWWwy.jpg", "https://pbs.twimg.com/media/Fq-dQ-MWwAAuk6g.jpg", "https://pbs.twimg.com/media/Fq-dQ-GXsAcmTBE.jpg" ],
+    "published" : [ "2023-03-11T23:29:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1634698108348006402" ],
+    "url" : [ "https://twitter.com/creepygnomes/status/1634698108348006402" ]
+  },
+  "type" : [ "h-entry" ]
+}
