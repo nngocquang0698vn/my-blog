@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "ah you're just a piece of shit\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/svpino\"></a>",
+      "value" : "ah you're just a piece of shit"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/svpino/status/1634703595999223808" ],
+    "published" : [ "2023-03-12T01:00:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1634721078567407617" ],
+    "url" : [ "https://twitter.com/ReinH/status/1634721078567407617" ]
+  },
+  "type" : [ "h-entry" ]
+}
