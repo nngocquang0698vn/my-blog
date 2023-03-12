@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I had a good week" ],
+    "summary" : [ "I had a good week" ],
+    "featured" : [ "https://remysharp.com/images/cards/og/9-7.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Remy Sharp" ]
+      }
+    } ],
+    "url" : [ "https://remysharp.com/2023/03/11/i-had-a-good-week" ]
+  }
+}
