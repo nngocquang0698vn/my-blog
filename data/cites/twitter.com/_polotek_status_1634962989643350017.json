@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "he/him" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Justin Garrison" ],
+          "nickname" : [ "rothgar" ],
+          "numeric-id" : [ "14361975" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1575266180075442176/yz_pmhBM.jpg" ],
+          "published" : [ "2008-04-11T15:59:21+00:00" ],
+          "uid" : [ "tag:twitter.com:rothgar" ],
+          "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I met someone that works at the company I work at 10 years ago\n\nThey told me my name was all over the place because most of my docs were still there and being used\n\nThat’s how you level up a team and company long after you’ve left! 💪</div>",
+        "value" : "I met someone that works at the company I work at 10 years ago\n\nThey told me my name was all over the place because most of my docs were still there and being used\n\nThat’s how you level up a team and company long after you’ve left! 💪"
+      } ],
+      "published" : [ "2023-03-12T00:52:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1634719037820395521" ],
+      "url" : [ "https://twitter.com/rothgar/status/1634719037820395521" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "And they don't even have to pay you anymore! It's a win for everybody really." ],
+    "published" : [ "2023-03-12T17:02:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1634962989643350017" ],
+    "url" : [ "https://twitter.com/polotek/status/1634962989643350017" ]
+  },
+  "type" : [ "h-entry" ]
+}
