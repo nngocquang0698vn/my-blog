@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Breen" ],
+        "nickname" : [ "matbreen" ],
+        "numeric-id" : [ "21713693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/910241015872856066/RV75b4az.jpg" ],
+        "published" : [ "2009-02-24T00:48:55+00:00" ],
+        "uid" : [ "tag:twitter.com:matbreen" ],
+        "url" : [ "https://twitter.com/matbreen", "http://www.matthewbreen.com", "http://Post.news/@matthewbreen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Not exactly a good study then, is it?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BBCWorld\"></a>",
+      "value" : "Not exactly a good study then, is it?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BBCWorld/status/1633717516617891843" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fq42SQwXwAEN_Kb.jpg" ],
+    "published" : [ "2023-03-10T21:21:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1634303406788558849" ],
+    "url" : [ "https://twitter.com/matbreen/status/1634303406788558849" ]
+  },
+  "type" : [ "h-entry" ]
+}
