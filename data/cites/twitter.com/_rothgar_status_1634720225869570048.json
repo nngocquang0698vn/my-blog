@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Garrison" ],
+        "nickname" : [ "rothgar" ],
+        "numeric-id" : [ "14361975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1575266180075442176/yz_pmhBM.jpg" ],
+        "published" : [ "2008-04-11T15:59:21+00:00" ],
+        "uid" : [ "tag:twitter.com:rothgar" ],
+        "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">When people ask me how they can become a senior engineer I always tell them to write docs\n\nFigure out how something works that’s not documented and write the docs\n\nIt’ll outlive any code you could write to improve the service</div>",
+      "value" : "When people ask me how they can become a senior engineer I always tell them to write docs\n\nFigure out how something works that’s not documented and write the docs\n\nIt’ll outlive any code you could write to improve the service"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rothgar/status/1634719597327953920" ],
+    "published" : [ "2023-03-12T00:57:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1634720225869570048" ],
+    "url" : [ "https://twitter.com/rothgar/status/1634720225869570048" ]
+  },
+  "type" : [ "h-entry" ]
+}
