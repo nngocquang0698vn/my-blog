@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Montreal, Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marc-André Giroux" ],
+          "nickname" : [ "__xuorig__" ],
+          "numeric-id" : [ "705726541" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1448627465895690240/JBNdJiLf.jpg" ],
+          "published" : [ "2012-07-19T20:24:59+00:00" ],
+          "uid" : [ "tag:twitter.com:__xuorig__" ],
+          "url" : [ "https://twitter.com/__xuorig__", "https://productionreadygraphql.com", "http://book.productionreadygraphql.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "graphql is overkill you can simply use http with a strongly typed schema and use sparse field sets to select fields and write a specification for the sparse field set language, a parser and execution layer" ],
+      "published" : [ "2023-03-10T19:03:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1634268690567839746" ],
+      "url" : [ "https://twitter.com/__xuorig__/status/1634268690567839746" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montreal, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marc-André Giroux" ],
+        "nickname" : [ "__xuorig__" ],
+        "numeric-id" : [ "705726541" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1448627465895690240/JBNdJiLf.jpg" ],
+        "published" : [ "2012-07-19T20:24:59+00:00" ],
+        "uid" : [ "tag:twitter.com:__xuorig__" ],
+        "url" : [ "https://twitter.com/__xuorig__", "https://productionreadygraphql.com", "http://book.productionreadygraphql.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Well, turns out my most popular tweet of all time was a troll one" ],
+    "published" : [ "2023-03-12T14:52:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1634930270305497090" ],
+    "url" : [ "https://twitter.com/__xuorig__/status/1634930270305497090" ]
+  },
+  "type" : [ "h-entry" ]
+}
