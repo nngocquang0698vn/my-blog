@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent", "http://pragmaticurl.com/contact" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">There’s already a wave of dev tools startups building AI-assisted code reviews.\n\nWhile it’s clear that such tools can (and will) serve as improved linters, their pitch misses an important thing about code reviews:\n\nHow code reviews spread knowledge about the code across the team.</div>",
+      "value" : "There’s already a wave of dev tools startups building AI-assisted code reviews.\n\nWhile it’s clear that such tools can (and will) serve as improved linters, their pitch misses an important thing about code reviews:\n\nHow code reviews spread knowledge about the code across the team."
+    } ],
+    "published" : [ "2023-03-13T08:23:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1635194926836355072" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1635194926836355072" ]
+  },
+  "type" : [ "h-entry" ]
+}
