@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Whitestone, Queens" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "George Santos" ],
+          "nickname" : [ "Santos4Congress" ],
+          "numeric-id" : [ "1174153996363345921" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1550961097045409792/dGE-MSAV.jpg" ],
+          "published" : [ "2019-09-18T02:52:57+00:00" ],
+          "uid" : [ "tag:twitter.com:Santos4Congress" ],
+          "url" : [ "https://twitter.com/Santos4Congress", "http://www.georgeforny.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "School choice is the only way to go moving forward." ],
+      "published" : [ "2023-02-27T02:24:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1630031044643635200" ],
+      "url" : [ "https://twitter.com/Santos4Congress/status/1630031044643635200" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marisa Kabas" ],
+        "nickname" : [ "MarisaKabas" ],
+        "numeric-id" : [ "30808826" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1619860047571435522/u7GjVQoH.jpg" ],
+        "published" : [ "2009-04-13T04:42:03+00:00" ],
+        "uid" : [ "tag:twitter.com:MarisaKabas" ],
+        "url" : [ "https://twitter.com/MarisaKabas", "https://thehandbasket.substack.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "totally. just choose a school and say you went there." ],
+    "published" : [ "2023-02-27T03:31:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1630047987995930624" ],
+    "url" : [ "https://twitter.com/MarisaKabas/status/1630047987995930624" ]
+  },
+  "type" : [ "h-entry" ]
+}
