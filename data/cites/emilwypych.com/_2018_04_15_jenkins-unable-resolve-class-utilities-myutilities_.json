@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Jenkins - unable to resolve class utilities.MyUtilities" ],
+    "summary" : [ "If you use Jenkins Jobs DSL Plugin, you might face the unable to resolve class utilities.MyUtilities error during the external class importing. The probable reason is the plugin security." ],
+    "featured" : [ "https://emilwypych.com/wp-content/uploads/2018/03/documentation_real_example-1024x718.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Emil" ]
+      }
+    } ],
+    "url" : [ "https://emilwypych.com/2018/04/15/jenkins-unable-resolve-class-utilities-myutilities/" ],
+    "published" : [ "2018-04-15T17:17:32+00:00" ]
+  }
+}
