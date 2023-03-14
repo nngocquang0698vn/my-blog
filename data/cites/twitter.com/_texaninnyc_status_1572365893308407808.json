@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pedro Pascal's Wager" ],
+        "nickname" : [ "texaninnyc" ],
+        "numeric-id" : [ "18748285" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1635328894768226319/2pytapun.jpg" ],
+        "published" : [ "2009-01-08T01:33:45+00:00" ],
+        "uid" : [ "tag:twitter.com:texaninnyc" ],
+        "url" : [ "https://twitter.com/texaninnyc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hi <a href=\"https://twitter.com/U2\">@U2</a> big fan. I notice that your guitarist uses a lot of unresolved sus2 and sus4 chords that build tension but never release it by going to the tonic. Is that why he's called the Edge. Please respond.",
+      "value" : "Hi @U2 big fan. I notice that your guitarist uses a lot of unresolved sus2 and sus4 chords that build tension but never release it by going to the tonic. Is that why he's called the Edge. Please respond."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Queens, NY" ],
+        "uid" : [ "tag:twitter.com:00c39537733fa112" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-09-20T23:23:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1572365893308407808" ],
+    "url" : [ "https://twitter.com/texaninnyc/status/1572365893308407808" ]
+  },
+  "type" : [ "h-entry" ]
+}
