@@ -1,0 +1,70 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Probably Somewhere Eating " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Queen La Beefa 👑" ],
+          "nickname" : [ "Bre_aun_na" ],
+          "numeric-id" : [ "2349843789" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1624630259990536193/2zFrtJo1.jpg" ],
+          "published" : [ "2014-02-18T03:25:40+00:00" ],
+          "uid" : [ "tag:twitter.com:Bre_aun_na" ],
+          "url" : [ "https://twitter.com/Bre_aun_na" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "A promotion with no raise is called what?" ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Cleveland, OH" ],
+          "uid" : [ "tag:twitter.com:0eb9676d24b211f1" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2023-03-14T13:19:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1635631723693105155" ],
+      "url" : [ "https://twitter.com/Bre_aun_na/status/1635631723693105155" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/bre_aun_na/sta…" ],
+      "url" : [ "https://twitter.com/bre_aun_na/status/1635631723693105155" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Baltimore, MD" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gilly🫶🏽" ],
+        "nickname" : [ "gillyorwhatever" ],
+        "numeric-id" : [ "2597003216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1609089238179483649/D04NgtAP.jpg" ],
+        "published" : [ "2014-06-30T22:33:06+00:00" ],
+        "uid" : [ "tag:twitter.com:gillyorwhatever" ],
+        "url" : [ "https://twitter.com/gillyorwhatever", "https://www.instagram.com/gillyorwhatever/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "An exit interview.\n<a class=\"tag\" href=\"https://twitter.com/bre_aun_na/status/1635631723693105155\">twitter.com/bre_aun_na/sta…</a>",
+      "value" : "An exit interview."
+    } ],
+    "published" : [ "2023-03-14T13:42:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1635637561212260353" ],
+    "url" : [ "https://twitter.com/gillyorwhatever/status/1635637561212260353" ]
+  },
+  "type" : [ "h-entry" ]
+}
