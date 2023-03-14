@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Darkweak" ],
+        "nickname" : [ "Darkweak_dev" ],
+        "numeric-id" : [ "1072079065039945729" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1189111703499411462/ZVbOcszq.jpg" ],
+        "published" : [ "2018-12-10T10:42:22+00:00" ],
+        "uid" : [ "tag:twitter.com:Darkweak_dev" ],
+        "url" : [ "https://twitter.com/Darkweak_dev", "https://devcv.fr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I tagged the new version of Souin the HTTP cache middleware used by <a href=\"https://twitter.com/caddyserver\">@caddyserver</a>, compatible with <a href=\"https://twitter.com/tyk_io\">@tyk_io</a> <a href=\"https://twitter.com/traefik\">@traefik</a> and soon in the <a href=\"https://twitter.com/ApiPlatform\">@ApiPlatform</a> documentation! Thanks to all of the helpers to bring this release up! ✌️🚀",
+      "value" : "I tagged the new version of Souin the HTTP cache middleware used by @caddyserver, compatible with @tyk_io @traefik and soon in the @ApiPlatform documentation! Thanks to all of the helpers to bring this release up! ✌️🚀"
+    } ],
+    "published" : [ "2023-03-14T00:20:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1635435653017247744" ],
+    "url" : [ "https://twitter.com/Darkweak_dev/status/1635435653017247744" ]
+  },
+  "type" : [ "h-entry" ]
+}
