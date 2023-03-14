@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Nash | @philnash@mastodon.social" ],
+        "nickname" : [ "philnash" ],
+        "numeric-id" : [ "9152632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529650319650881537/iZBKINQk.jpg" ],
+        "published" : [ "2007-09-29T01:15:10+00:00" ],
+        "uid" : [ "tag:twitter.com:philnash" ],
+        "url" : [ "https://twitter.com/philnash", "https://philna.sh", "http://mastodon.social/@philnash" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">So it’s Pi Day today. A ridiculous day if you ask me, not because I don’t like pi, but because the date format MM/DD is simply wrong.\n\nPi day should be celebrated on the 31st April instead, that’s when you’ll find me celebrating all the maths and not any time sooner.</div>",
+      "value" : "So it’s Pi Day today. A ridiculous day if you ask me, not because I don’t like pi, but because the date format MM/DD is simply wrong.\n\nPi day should be celebrated on the 31st April instead, that’s when you’ll find me celebrating all the maths and not any time sooner."
+    } ],
+    "published" : [ "2023-03-14T11:59:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1635611509551435776" ],
+    "url" : [ "https://twitter.com/philnash/status/1635611509551435776" ]
+  },
+  "type" : [ "h-entry" ]
+}
