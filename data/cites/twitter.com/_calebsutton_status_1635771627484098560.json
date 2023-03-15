@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Alaska" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "caleb" ],
+        "nickname" : [ "calebsutton" ],
+        "numeric-id" : [ "20648903" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1171200021439496192/bn21W5PT.jpg" ],
+        "published" : [ "2009-02-12T02:34:39+00:00" ],
+        "uid" : [ "tag:twitter.com:calebsutton" ],
+        "url" : [ "https://twitter.com/calebsutton", "http://longwinter.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "How do you feel about starting a deployment at 4:30pm on Friday?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KitMerker\"></a>",
+      "value" : "How do you feel about starting a deployment at 4:30pm on Friday?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/KitMerker/status/1635767347750502400" ],
+    "published" : [ "2023-03-14T22:35:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1635771627484098560" ],
+    "url" : [ "https://twitter.com/calebsutton/status/1635771627484098560" ]
+  },
+  "type" : [ "h-entry" ]
+}
