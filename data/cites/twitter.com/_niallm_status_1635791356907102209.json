@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dublin City, Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Niall Murphy" ],
+        "nickname" : [ "niallm" ],
+        "numeric-id" : [ "6297992" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/713133279969460224/TzMzpikZ.jpg" ],
+        "published" : [ "2007-05-24T22:33:14+00:00" ],
+        "uid" : [ "tag:twitter.com:niallm" ],
+        "url" : [ "https://twitter.com/niallm", "http://www.stanza.systems" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“What single experience makes you hate most of the rest of the day, if you have to do it?”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KitMerker\"></a>",
+      "value" : "“What single experience makes you hate most of the rest of the day, if you have to do it?”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/KitMerker/status/1635767347750502400" ],
+    "published" : [ "2023-03-14T23:53:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1635791356907102209" ],
+    "url" : [ "https://twitter.com/niallm/status/1635791356907102209" ]
+  },
+  "type" : [ "h-entry" ]
+}
