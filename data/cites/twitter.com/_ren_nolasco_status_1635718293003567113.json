@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hollywood, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Hollywood Handle" ],
+          "nickname" : [ "hollywoodhandle" ],
+          "numeric-id" : [ "1435732236628803586" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1603578456939405312/gXntgAxF.jpg" ],
+          "published" : [ "2021-09-08T22:30:23+00:00" ],
+          "uid" : [ "tag:twitter.com:hollywoodhandle" ],
+          "url" : [ "https://twitter.com/hollywoodhandle", "http://thehollywoodhandle.co" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The first poster for ‘CHUPA’ has been released.\n\nThe movie releases on Netflix on April 7</div>",
+        "value" : "The first poster for ‘CHUPA’ has been released.\n\nThe movie releases on Netflix on April 7"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FrMIX3vWIAQC8JB.jpg" ],
+      "published" : [ "2023-03-14T15:12:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1635660299150794753" ],
+      "url" : [ "https://twitter.com/hollywoodhandle/status/1635660299150794753" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Fortaleza-Brasil" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ren nolasco 🗡️" ],
+        "nickname" : [ "ren_nolasco" ],
+        "numeric-id" : [ "216775778" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1589595381205286915/4WGlJfub.jpg" ],
+        "published" : [ "2010-11-17T17:50:50+00:00" ],
+        "uid" : [ "tag:twitter.com:ren_nolasco" ],
+        "url" : [ "https://twitter.com/ren_nolasco", "https://linktr.ee/ren_nolasco" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Making a chupacabra movie and calling it just \"Chupa\" apparently not knowing that if you take away the \"cabra\" context it's just a sexual word it's the most gringo thing I've seen today" ],
+    "published" : [ "2023-03-14T19:03:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1635718293003567113" ],
+    "url" : [ "https://twitter.com/ren_nolasco/status/1635718293003567113" ]
+  },
+  "type" : [ "h-entry" ]
+}
