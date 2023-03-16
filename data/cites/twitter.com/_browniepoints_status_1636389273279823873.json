@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bellevue" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "A Guy Who Codes" ],
+        "nickname" : [ "browniepoints" ],
+        "numeric-id" : [ "14222410" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1532731483772928001/-eZTOA-Z.jpg" ],
+        "published" : [ "2008-03-26T03:02:10+00:00" ],
+        "uid" : [ "tag:twitter.com:browniepoints" ],
+        "url" : [ "https://twitter.com/browniepoints", "http://aguywhocodes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The meme you never knew you needed until now" ],
+    "photo" : [ {
+      "alt" : "The Real Housewives/cat reaction meme replaced with animated X-Men characters Scott is pointing and yelling, Jean is holding him back in one panel. In the second, Wolverine is sitting at the table snarling with his claws out",
+      "value" : "https://pbs.twimg.com/media/FrWfXwyaYAEFsVb.jpg"
+    } ],
+    "published" : [ "2023-03-16T15:29:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1636389273279823873" ],
+    "url" : [ "https://twitter.com/browniepoints/status/1636389273279823873" ]
+  },
+  "type" : [ "h-entry" ]
+}
