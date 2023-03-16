@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "California, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Netflix" ],
+          "nickname" : [ "netflix" ],
+          "numeric-id" : [ "16573941" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ],
+          "published" : [ "2008-10-03T04:16:17+00:00" ],
+          "uid" : [ "tag:twitter.com:netflix" ],
+          "url" : [ "https://twitter.com/netflix", "http://netflix.com/netflixisajoke" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Pornography is a billion dollar industry that accounts for 35% of all internet traffic — but who protects the people they profit off? \n\nMoney Shot: The Pornhub Story is now on Netflix</div>",
+        "value" : "Pornography is a billion dollar industry that accounts for 35% of all internet traffic — but who protects the people they profit off? \n\nMoney Shot: The Pornhub Story is now on Netflix"
+      } ],
+      "published" : [ "2023-03-15T22:00:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1636125124909776898" ],
+      "url" : [ "https://twitter.com/netflix/status/1636125124909776898" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1636123010972229632/vid/1920x1080/zgSlWXyClpQBP_75.mp4?tag=16" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mistress Matisse" ],
+        "nickname" : [ "mistressmatisse" ],
+        "numeric-id" : [ "14990112" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/54983301/2twitter.jpg" ],
+        "published" : [ "2008-06-03T06:49:20+00:00" ],
+        "uid" : [ "tag:twitter.com:mistressmatisse" ],
+        "url" : [ "https://twitter.com/mistressmatisse" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This was - surprisingly not-terrible! Seriously, way less awful than I was expecting. (I basically always hate sex work documentaries.)\nSo my compliments to all the beautiful and brave sexworkers who made it so good! \nHa, I bet Lollo is way pissed this wasn’t way more slanted.</div>",
+      "value" : "This was - surprisingly not-terrible! Seriously, way less awful than I was expecting. (I basically always hate sex work documentaries.)\nSo my compliments to all the beautiful and brave sexworkers who made it so good! \nHa, I bet Lollo is way pissed this wasn’t way more slanted."
+    } ],
+    "published" : [ "2023-03-16T07:11:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1636263977549467648" ],
+    "url" : [ "https://twitter.com/mistressmatisse/status/1636263977549467648" ]
+  },
+  "type" : [ "h-entry" ]
+}
