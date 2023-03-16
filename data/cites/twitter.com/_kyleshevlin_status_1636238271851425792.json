@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I bet your friends who have suffered from depression, too, wouldn’t bat an eye. They’d understand.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/aubrionna\"></a>",
+      "value" : "I bet your friends who have suffered from depression, too, wouldn’t bat an eye. They’d understand."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/aubrionna/status/1636237660976021504" ],
+    "published" : [ "2023-03-16T05:29:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1636238271851425792" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1636238271851425792" ]
+  },
+  "type" : [ "h-entry" ]
+}
