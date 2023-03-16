@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC/LI" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marjorie Gaylor Queen 🏳️‍🌈" ],
+          "nickname" : [ "Tim_Tweeted" ],
+          "numeric-id" : [ "425298674" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1502063803281944612/tmrOQu1u.jpg" ],
+          "published" : [ "2011-11-30T20:41:51+00:00" ],
+          "uid" : [ "tag:twitter.com:Tim_Tweeted" ],
+          "url" : [ "https://twitter.com/Tim_Tweeted", "https://mobile.twitter.com/search?q=(from%3Atim_tweeted)%20-filter%3Areplies&src=typed_query" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "An elementary school in Cullman, AL shows off its new fold-out whiteboard / ballistic shield system" ],
+      "published" : [ "2023-03-14T16:11:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1635674970725535745" ],
+      "url" : [ "https://twitter.com/Tim_Tweeted/status/1635674970725535745" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1635674944322379778/pu/vid/576x1024/KbNATgH1ViOGBIE_.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/tim_tweeted/st…" ],
+      "url" : [ "https://twitter.com/tim_tweeted/status/1635674970725535745" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "PoliticsGirl" ],
+        "nickname" : [ "IAmPoliticsGirl" ],
+        "numeric-id" : [ "3827830753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/659124276704882688/mP-phgl5.jpg" ],
+        "published" : [ "2015-10-08T17:58:18+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmPoliticsGirl" ],
+        "url" : [ "https://twitter.com/IAmPoliticsGirl", "https://linktr.ee/politicsgirl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My God. We don’t want ballistic shield systems in our classrooms. We want you do something about gun violence in America.\n<a class=\"tag\" href=\"https://twitter.com/tim_tweeted/status/1635674970725535745\">twitter.com/tim_tweeted/st…</a>",
+      "value" : "My God. We don’t want ballistic shield systems in our classrooms. We want you do something about gun violence in America."
+    } ],
+    "published" : [ "2023-03-14T17:38:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1635696991383732227" ],
+    "url" : [ "https://twitter.com/IAmPoliticsGirl/status/1635696991383732227" ]
+  },
+  "type" : [ "h-entry" ]
+}
