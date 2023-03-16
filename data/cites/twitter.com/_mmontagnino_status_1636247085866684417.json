@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marian Montagnino" ],
+        "nickname" : [ "mmontagnino" ],
+        "numeric-id" : [ "612493515" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1564841542749020160/kSbD6SMf.jpg" ],
+        "published" : [ "2012-06-19T09:20:24+00:00" ],
+        "uid" : [ "tag:twitter.com:mmontagnino" ],
+        "url" : [ "https://twitter.com/mmontagnino" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Unless they are a fun acronym, like my team name, PIE, short for Production Infrastructure Engineering 🥧 How could you dislike pie?!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/konradreiche\"></a>",
+      "value" : "Unless they are a fun acronym, like my team name, PIE, short for Production Infrastructure Engineering 🥧 How could you dislike pie?!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/konradreiche/status/1636212418945900544" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Los Angeles, CA" ],
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-16T06:04:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1636247085866684417" ],
+    "url" : [ "https://twitter.com/mmontagnino/status/1636247085866684417" ]
+  },
+  "type" : [ "h-entry" ]
+}
