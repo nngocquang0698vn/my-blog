@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Vancouver, BC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "murat 🍥" ],
+          "nickname" : [ "mayfer" ],
+          "numeric-id" : [ "14103325" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1592599455895031808/VM5FWW47.jpg" ],
+          "published" : [ "2008-03-08T20:40:13+00:00" ],
+          "uid" : [ "tag:twitter.com:mayfer" ],
+          "url" : [ "https://twitter.com/mayfer", "http://muratayfer.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">built a GPT4 pipeline to generate a whole working node  app with registration, login, reset password etc from a command. there were 2 small errors\n\nincludes DB init, <a href=\"http://README.md\">README.md</a>, correct install &amp; run instructions\n\ni was able to login and change password on first try</div>",
+        "value" : "built a GPT4 pipeline to generate a whole working node  app with registration, login, reset password etc from a command. there were 2 small errors\n\nincludes DB init, README.md, correct install & run instructions\n\ni was able to login and change password on first try"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FrYb3kCaEAARbBT.png", "https://pbs.twimg.com/media/FrYcCRsakAAF-Lq.jpg", "https://pbs.twimg.com/media/FrYcFYwagAAvk8u.jpg" ],
+      "published" : [ "2023-03-17T00:43:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1636528700186558465" ],
+      "url" : [ "https://twitter.com/mayfer/status/1636528700186558465" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "ah yes, please have AI create programs where passwords are stored in plaintext. more job security for me!" ],
+    "published" : [ "2023-03-17T19:52:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1636817809480007681" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1636817809480007681" ]
+  },
+  "type" : [ "h-entry" ]
+}
