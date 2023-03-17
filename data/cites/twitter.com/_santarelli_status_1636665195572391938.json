@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "England, United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "bird on a plane" ],
+        "nickname" : [ "santarelli" ],
+        "numeric-id" : [ "16503482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588440767122513922/j4JmsOTN.jpg" ],
+        "published" : [ "2008-09-28T22:08:25+00:00" ],
+        "uid" : [ "tag:twitter.com:santarelli" ],
+        "url" : [ "https://twitter.com/santarelli" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "happy birthday Jamie!!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "happy birthday Jamie!!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1636637518803222531" ],
+    "published" : [ "2023-03-17T09:46:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1636665195572391938" ],
+    "url" : [ "https://twitter.com/santarelli/status/1636665195572391938" ]
+  },
+  "type" : [ "h-entry" ]
+}
