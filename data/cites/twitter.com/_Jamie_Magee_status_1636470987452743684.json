@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamie Magee" ],
+        "nickname" : [ "Jamie_Magee" ],
+        "numeric-id" : [ "7139212" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1299066732523458561/yIkuDosd.jpg" ],
+        "published" : [ "2007-06-28T21:23:23+00:00" ],
+        "uid" : [ "tag:twitter.com:Jamie_Magee" ],
+        "url" : [ "https://twitter.com/Jamie_Magee", "http://jamiemagee.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I just published a new article on maintaining AUR packages using <a href=\"https://twitter.com/renovatebot\">@renovatebot</a>. Check it out if you're manually updating package versions and want to automate your workflow!\n\n<a href=\"https://twitter.com/search?q=%23ArchLinux\">#ArchLinux</a> <a href=\"https://twitter.com/search?q=%23AUR\">#AUR</a> \n\n<a href=\"https://jamiemagee.co.uk/blog/maintaining-aur-packages-with-renovate/\">jamiemagee.co.uk/blog/maintaini…</a></div>",
+      "value" : "I just published a new article on maintaining AUR packages using @renovatebot. Check it out if you're manually updating package versions and want to automate your workflow!\n\n#ArchLinux #AUR \n\njamiemagee.co.uk/blog/maintaini…"
+    } ],
+    "published" : [ "2023-03-16T20:54:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1636470987452743684" ],
+    "url" : [ "https://twitter.com/Jamie_Magee/status/1636470987452743684" ]
+  },
+  "type" : [ "h-entry" ]
+}
