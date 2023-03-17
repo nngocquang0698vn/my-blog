@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Kraków, Poland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "José Valim (@josevalim@genserver.social)" ],
+          "nickname" : [ "josevalim" ],
+          "numeric-id" : [ "10230812" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/667973757181431808/IdQgSAH_.jpg" ],
+          "published" : [ "2007-11-13T23:23:25+00:00" ],
+          "uid" : [ "tag:twitter.com:josevalim" ],
+          "url" : [ "https://twitter.com/josevalim", "https://dashbit.co/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Docker is now being actively hostile to open source projects. If we want to maintain elixir, livebook, and other images as teams, we now either have to shell out $300 per org or our the accounts will be deleted." ],
+      "published" : [ "2023-03-14T22:17:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1635767176769462272" ],
+      "url" : [ "https://twitter.com/josevalim/status/1635767176769462272" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Stacoviak" ],
+        "nickname" : [ "adamstac" ],
+        "numeric-id" : [ "816954" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608315026946854915/Lw2zQWOZ.jpg" ],
+        "published" : [ "2007-03-07T03:17:21+00:00" ],
+        "uid" : [ "tag:twitter.com:adamstac" ],
+        "url" : [ "https://twitter.com/adamstac", "https://adamstacoviak.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We welcome anyone at <a href=\"https://twitter.com/Docker\">@docker</a> to join us on <a href=\"https://twitter.com/changelog\">@changelog</a> and talk through this change and their plans to (or to not) support open source. <a href=\"https://twitter.com/search?q=%23maintainersmaintainersmaintainers\">#maintainersmaintainersmaintainers</a>",
+      "value" : "We welcome anyone at @docker to join us on @changelog and talk through this change and their plans to (or to not) support open source. #maintainersmaintainersmaintainers"
+    } ],
+    "published" : [ "2023-03-15T21:35:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1636118904664719360" ],
+    "url" : [ "https://twitter.com/adamstac/status/1636118904664719360" ]
+  },
+  "type" : [ "h-entry" ]
+}
