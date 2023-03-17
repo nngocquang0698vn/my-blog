@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Tim Perry (@pimterry@toot.cafe)" ],
+    "summary" : [ "The ongoing Docker drama left me wanting to control my Docker image hosting, so I went digging into the API traffic of 'docker pull'.\n\nTurns out it's easy to use your own domain as the hostname for Docker images, all without having to self-host your own full registry: https://httptoolkit.com/blog/docker-image-registry-facade/" ],
+    "url" : [ "https://toot.cafe/@pimterry/110038481874495616" ]
+  }
+}
