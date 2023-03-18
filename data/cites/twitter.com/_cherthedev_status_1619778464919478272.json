@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1624920313162248192/psEeWYij.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">They say \"write what you know.\" That gives you the false impression you should... write what you know. Present tense. \n\nI say: \"Write what you learn; learn what you write.\"</div>",
+      "value" : "They say \"write what you know.\" That gives you the false impression you should... write what you know. Present tense. \n\nI say: \"Write what you learn; learn what you write.\""
+    } ],
+    "published" : [ "2023-01-29T19:24:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1619778464919478272" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1619778464919478272" ]
+  },
+  "type" : [ "h-entry" ]
+}
