@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "ATL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "whoDean" ],
+        "nickname" : [ "whodean" ],
+        "numeric-id" : [ "17425412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/770446751408988160/Cqzn0AEW.jpg" ],
+        "published" : [ "2008-11-16T18:00:05+00:00" ],
+        "uid" : [ "tag:twitter.com:whodean" ],
+        "url" : [ "https://twitter.com/whodean" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "WW 1984 was terrible, regardless of this\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/film_girl\"></a>",
+      "value" : "WW 1984 was terrible, regardless of this"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/film_girl/status/1636905890195599360" ],
+    "published" : [ "2023-03-18T01:51:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1636908261650714624" ],
+    "url" : [ "https://twitter.com/whodean/status/1636908261650714624" ]
+  },
+  "type" : [ "h-entry" ]
+}
