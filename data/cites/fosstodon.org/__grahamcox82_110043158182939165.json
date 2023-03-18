@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Graham (@grahamcox82@fosstodon.org)" ],
+    "summary" : [ "So, when writing code it's important to test that it works. And especially on boundaries - e.g. where you interact with other systems.\n\nIn both #rust and #golang, the #AWS SDK recommends injecting a mock version of the SDK client so you can control how it acts. But it's impossible to construct the error types in both cases, so it's impossible to test the error paths.\n\nAm I missing something here? This seems like a *huge* oversight!" ],
+    "url" : [ "https://fosstodon.org/@grahamcox82/110043158182939165" ]
+  }
+}
