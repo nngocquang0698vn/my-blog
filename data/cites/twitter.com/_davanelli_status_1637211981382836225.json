@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Landan Tawn!" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dave Richardson" ],
+        "nickname" : [ "davanelli" ],
+        "numeric-id" : [ "105124522" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1136671653872713729/Rhrrj_gu.jpg" ],
+        "published" : [ "2010-01-15T12:34:41+00:00" ],
+        "uid" : [ "tag:twitter.com:davanelli" ],
+        "url" : [ "https://twitter.com/davanelli" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You can still use authenticator app. (don't agree just saying)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/heldiney\"></a>",
+      "value" : "You can still use authenticator app. (don't agree just saying)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/heldiney/status/1637203474197671937" ],
+    "published" : [ "2023-03-18T21:58:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1637211981382836225" ],
+    "url" : [ "https://twitter.com/davanelli/status/1637211981382836225" ]
+  },
+  "type" : [ "h-entry" ]
+}
