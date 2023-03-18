@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Pop Crave" ],
+          "nickname" : [ "PopCrave" ],
+          "numeric-id" : [ "4429003533" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7.jpg" ],
+          "published" : [ "2015-12-09T18:00:33+00:00" ],
+          "uid" : [ "tag:twitter.com:PopCrave" ],
+          "url" : [ "https://twitter.com/PopCrave", "http://PopCrave.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "3 years ago, Gal Gadot shared a star-studded cover of John Lennon’s “Imagine” in response to the start of the COVID-19 pandemic. " ],
+      "published" : [ "2023-03-18T00:02:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1636880737134854146" ],
+      "url" : [ "https://twitter.com/PopCrave/status/1636880737134854146" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1240512857621426176/vid/640x1136/coaijv2B3JBf73hS.mp4?tag=13" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SEA via NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Christina Warren" ],
+        "nickname" : [ "film_girl" ],
+        "numeric-id" : [ "9866582" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591865197739720704/pWWspjmm.jpg" ],
+        "published" : [ "2007-11-01T22:45:37+00:00" ],
+        "uid" : [ "tag:twitter.com:film_girl" ],
+        "url" : [ "https://twitter.com/film_girl", "http://christina.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Never forget when we all came together to drag this bit of social media pandering that probably helped ruin Wonder Woman 1984 as well." ],
+    "published" : [ "2023-03-18T01:42:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1636905890195599360" ],
+    "url" : [ "https://twitter.com/film_girl/status/1636905890195599360" ]
+  },
+  "type" : [ "h-entry" ]
+}
