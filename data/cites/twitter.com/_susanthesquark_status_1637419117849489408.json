@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Susan Rigetti" ],
+        "nickname" : [ "susanthesquark" ],
+        "numeric-id" : [ "4625037762" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1553437900238249986/T479PI5j.jpg" ],
+        "published" : [ "2015-12-21T21:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:susanthesquark" ],
+        "url" : [ "https://twitter.com/susanthesquark", "https://www.susanrigetti.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I saw someone say the other day that the melting face is flirting. Absurd! No. It’s smiling while the world ends. Come on." ],
+    "in-reply-to" : [ "https://twitter.com/susanthesquark/status/1637418916749389827" ],
+    "published" : [ "2023-03-19T11:41:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1637419117849489408" ],
+    "url" : [ "https://twitter.com/susanthesquark/status/1637419117849489408" ]
+  },
+  "type" : [ "h-entry" ]
+}
