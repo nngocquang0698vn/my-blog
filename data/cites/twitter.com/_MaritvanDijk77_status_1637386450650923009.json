@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "FintwitSub" ],
+          "nickname" : [ "FintwitSub" ],
+          "numeric-id" : [ "1355887929118351360" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1462505564731326471/8kyWDFZY.jpg" ],
+          "published" : [ "2021-01-31T14:37:36+00:00" ],
+          "uid" : [ "tag:twitter.com:FintwitSub" ],
+          "url" : [ "https://twitter.com/FintwitSub" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "At least TDD is dead, AI will write the tests, as its one of the easiest parts to automatize\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mariofusco\"></a>",
+        "value" : "At least TDD is dead, AI will write the tests, as its one of the easiest parts to automatize"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/mariofusco/status/1636799865123373059" ],
+      "published" : [ "2023-03-18T08:15:30+00:00" ],
+      "uid" : [ "tag:twitter.com:1637004790730223620" ],
+      "url" : [ "https://twitter.com/FintwitSub/status/1637004790730223620" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amstelveen, Nederland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marit van Dijk ☕️🥑" ],
+        "nickname" : [ "MaritvanDijk77" ],
+        "numeric-id" : [ "2351468094" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/928901212098965505/yQTOF6tx.jpg" ],
+        "published" : [ "2014-02-19T10:21:37+00:00" ],
+        "uid" : [ "tag:twitter.com:MaritvanDijk77" ],
+        "url" : [ "https://twitter.com/MaritvanDijk77", "https://maritvandijk.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tell me you don't understand TDD without telling me you don't uhderstand TDD." ],
+    "published" : [ "2023-03-19T09:32:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1637386450650923009" ],
+    "url" : [ "https://twitter.com/MaritvanDijk77/status/1637386450650923009" ]
+  },
+  "type" : [ "h-entry" ]
+}
