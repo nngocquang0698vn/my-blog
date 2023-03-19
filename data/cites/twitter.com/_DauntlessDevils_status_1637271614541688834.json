@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Thirst happens here" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaskier 🐀" ],
+        "nickname" : [ "DauntlessDevils" ],
+        "numeric-id" : [ "1320901146811240448" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1598434041384017921/o_b3a9IV.jpg" ],
+        "published" : [ "2020-10-27T01:32:51+00:00" ],
+        "uid" : [ "tag:twitter.com:DauntlessDevils" ],
+        "url" : [ "https://twitter.com/DauntlessDevils" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I didn’t blank, he was the best part of that movie\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hamishsteele\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zachsilberberg\"></a>",
+      "value" : "I didn’t blank, he was the best part of that movie"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hamishsteele/status/1637095439576047619" ],
+    "published" : [ "2023-03-19T01:55:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1637271614541688834" ],
+    "url" : [ "https://twitter.com/DauntlessDevils/status/1637271614541688834" ]
+  },
+  "type" : [ "h-entry" ]
+}
