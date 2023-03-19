@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "☕️" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam 💭" ],
+        "nickname" : [ "samthielman" ],
+        "numeric-id" : [ "17220917" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593401381985173507/_maYCzd-.jpg" ],
+        "published" : [ "2008-11-06T22:20:23+00:00" ],
+        "uid" : [ "tag:twitter.com:samthielman" ],
+        "url" : [ "https://twitter.com/samthielman", "https://mastodon.social/@samthielman", "http://foreverwars.ghost.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Incredible content" ],
+    "photo" : [ "https://pbs.twimg.com/media/Frg4wsWXgAM-Jax.jpg" ],
+    "published" : [ "2023-03-18T15:56:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1637120878956650496" ],
+    "url" : [ "https://twitter.com/samthielman/status/1637120878956650496" ]
+  },
+  "type" : [ "h-entry" ]
+}
