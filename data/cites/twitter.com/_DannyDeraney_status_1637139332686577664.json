@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "LA-NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Danny Deraney" ],
+        "nickname" : [ "DannyDeraney" ],
+        "numeric-id" : [ "18309553" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1556448528473284616/R8gGwRh1.jpg" ],
+        "published" : [ "2008-12-22T16:08:35+00:00" ],
+        "uid" : [ "tag:twitter.com:DannyDeraney" ],
+        "url" : [ "https://twitter.com/DannyDeraney", "https://linktr.ee/DannyDeraney" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">When you realize the dream job you never knew you always wanted, exists.\n\nTeaching a baby kangaroo how to hop.\n\n</div>",
+      "value" : "When you realize the dream job you never knew you always wanted, exists.\n\nTeaching a baby kangaroo how to hop.\n\n"
+    } ],
+    "published" : [ "2023-03-18T17:10:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1637139332686577664" ],
+    "url" : [ "https://twitter.com/DannyDeraney/status/1637139332686577664" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1637103225445679104/pu/vid/608x1080/qX_77WMr-6Q6_Wra.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
