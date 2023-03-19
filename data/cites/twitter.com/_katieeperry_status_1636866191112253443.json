@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Perry" ],
+        "nickname" : [ "katieeperry" ],
+        "numeric-id" : [ "17246902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599263431064014849/Tt8r-bEP.jpg" ],
+        "published" : [ "2008-11-08T06:40:23+00:00" ],
+        "uid" : [ "tag:twitter.com:katieeperry" ],
+        "url" : [ "https://twitter.com/katieeperry" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How about this for a cross-generational collab" ],
+    "photo" : [ "https://pbs.twimg.com/media/FrdRHqhX0AAHp8u.jpg" ],
+    "published" : [ "2023-03-17T23:04:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1636866191112253443" ],
+    "url" : [ "https://twitter.com/katieeperry/status/1636866191112253443" ]
+  },
+  "type" : [ "h-entry" ]
+}
