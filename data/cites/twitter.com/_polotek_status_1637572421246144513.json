@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Northern Virginia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "John Breen" ],
+          "nickname" : [ "_breeeeen_" ],
+          "numeric-id" : [ "476530679" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1545944747428249600/wGGcvB3F.jpg" ],
+          "published" : [ "2012-01-28T07:04:31+00:00" ],
+          "uid" : [ "tag:twitter.com:_breeeeen_" ],
+          "url" : [ "https://twitter.com/_breeeeen_", "https://breen.tech", "https://spore.social/@breen" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Twitter is showing me this tweet from Nat Friedman. \n\nNat Friedman has had me blocked for years. How am I seeing this tweet?\n\nMy guess is because I follow both <a href=\"https://twitter.com/kelseyhightower\">@kelseyhightower</a> and <a href=\"https://twitter.com/polotek\">@polotek</a> so this thread got pulled into my feed. But I def shouldn’t see Nat’s tweet.</div>",
+        "value" : "Twitter is showing me this tweet from Nat Friedman. \n\nNat Friedman has had me blocked for years. How am I seeing this tweet?\n\nMy guess is because I follow both @kelseyhightower and @polotek so this thread got pulled into my feed. But I def shouldn’t see Nat’s tweet."
+      } ],
+      "photo" : [ {
+        "alt" : "Screenshot showing a tweet from Nat Friedman followed by replies from Kelsey Hightower and Marco Rogers",
+        "value" : "https://pbs.twimg.com/media/FrnDGTFXwAAgpWQ.jpg"
+      } ],
+      "published" : [ "2023-03-19T20:39:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1637554457071214592" ],
+      "url" : [ "https://twitter.com/_breeeeen_/status/1637554457071214592" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "https://marcorogers.com/where-to-find-me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Yeah it feels like the new fyp algorithm doesn't give a shit about visibility rules. This is what happens when you fire everybody who knew how things worked and you have to basically start over." ],
+    "published" : [ "2023-03-19T21:51:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1637572421246144513" ],
+    "url" : [ "https://twitter.com/polotek/status/1637572421246144513" ]
+  },
+  "type" : [ "h-entry" ]
+}
