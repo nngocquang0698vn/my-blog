@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "New York Post" ],
+          "nickname" : [ "nypost" ],
+          "numeric-id" : [ "17469289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg" ],
+          "published" : [ "2008-11-18T19:46:36+00:00" ],
+          "uid" : [ "tag:twitter.com:nypost" ],
+          "url" : [ "https://twitter.com/nypost", "http://www.nypost.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Sydney Sweeney: ‘I had boobs before other girls and I felt ostracized’ <a href=\"https://trib.al/Ly1ddyV\">trib.al/Ly1ddyV</a>",
+        "value" : "Sydney Sweeney: ‘I had boobs before other girls and I felt ostracized’ trib.al/Ly1ddyV"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FrbuV_jWYAAgCwT.jpg" ],
+      "published" : [ "2023-03-17T15:53:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1636757577882017792" ],
+      "url" : [ "https://twitter.com/nypost/status/1636757577882017792" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oink" ],
+        "nickname" : [ "oink2boink" ],
+        "numeric-id" : [ "1354173069921820674" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542612143077482498/2Do_d8pF.jpg" ],
+        "published" : [ "2021-01-26T21:03:25+00:00" ],
+        "uid" : [ "tag:twitter.com:oink2boink" ],
+        "url" : [ "https://twitter.com/oink2boink" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "They’re big but I wouldn’t say they’re ostrich sized" ],
+    "published" : [ "2023-03-18T18:20:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1637157135006982145" ],
+    "url" : [ "https://twitter.com/oink2boink/status/1637157135006982145" ]
+  },
+  "type" : [ "h-entry" ]
+}
