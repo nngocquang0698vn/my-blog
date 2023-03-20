@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bristol, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Danny Dainton" ],
+        "nickname" : [ "DannyDainton" ],
+        "numeric-id" : [ "615222878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1093068971354611712/zY2OABvv.jpg" ],
+        "published" : [ "2012-06-22T14:40:33+00:00" ],
+        "uid" : [ "tag:twitter.com:DannyDainton" ],
+        "url" : [ "https://twitter.com/DannyDainton", "https://dannydainton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Importing cURL commands into <a href=\"https://twitter.com/getpostman\">@getpostman</a>? \n\nYou can now do this directly within the request tab 😍 \n\nHere's an example using the <a href=\"https://twitter.com/github\">@github</a> API docs - It's an awesome feature, one of many in the new release! 🏆</div>",
+      "value" : "Importing cURL commands into @getpostman? \n\nYou can now do this directly within the request tab 😍 \n\nHere's an example using the @github API docs - It's an awesome feature, one of many in the new release! 🏆"
+    } ],
+    "published" : [ "2023-03-20T10:16:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1637759998657789953" ],
+    "url" : [ "https://twitter.com/DannyDainton/status/1637759998657789953" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1637758448212365312/pu/vid/1642x720/-BnJD1jafffNdFbw.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
