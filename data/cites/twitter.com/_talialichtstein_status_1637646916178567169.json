@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "New York Post" ],
+          "nickname" : [ "nypost" ],
+          "numeric-id" : [ "17469289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg" ],
+          "published" : [ "2008-11-18T19:46:36+00:00" ],
+          "uid" : [ "tag:twitter.com:nypost" ],
+          "url" : [ "https://twitter.com/nypost", "http://www.nypost.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Sydney Sweeney: ‘I had boobs before other girls and I felt ostracized’ <a href=\"https://trib.al/Ly1ddyV\">trib.al/Ly1ddyV</a>",
+        "value" : "Sydney Sweeney: ‘I had boobs before other girls and I felt ostracized’ trib.al/Ly1ddyV"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FrbuV_jWYAAgCwT.jpg" ],
+      "published" : [ "2023-03-17T15:53:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1636757577882017792" ],
+      "url" : [ "https://twitter.com/nypost/status/1636757577882017792" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Talia Lichtstein" ],
+        "nickname" : [ "talialichtstein" ],
+        "numeric-id" : [ "629067298" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1604933294100987905/PP0zJaRb.jpg" ],
+        "published" : [ "2012-07-07T06:15:24+00:00" ],
+        "uid" : [ "tag:twitter.com:talialichtstein" ],
+        "url" : [ "https://twitter.com/talialichtstein", "https://linktr.ee/talialichtstein" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The boys in my 8th grade English class created a game where they’d throw erasers at me and see if they could get it in my cleavage :) I don’t want or need a single fucking male opinion on how a woman processes/ reflects on her experience hitting puberty" ],
+    "published" : [ "2023-03-20T02:47:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1637646916178567169" ],
+    "url" : [ "https://twitter.com/talialichtstein/status/1637646916178567169" ]
+  },
+  "type" : [ "h-entry" ]
+}
