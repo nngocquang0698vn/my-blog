@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Cyber, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "SwiftInSecurity" ],
+          "nickname" : [ "SwiftOnSecurity" ],
+          "numeric-id" : [ "2436389418" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1622290825609728002/yhvytMly.jpg" ],
+          "published" : [ "2014-04-10T02:54:26+00:00" ],
+          "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+          "url" : [ "https://twitter.com/SwiftOnSecurity" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I was not aware this URL format was still allowed. Would you have clicked this phish? Tell me what's wrong and why:" ],
+      "photo" : [ "https://pbs.twimg.com/media/FrtNVUPWwAAB1wK.jpg" ],
+      "published" : [ "2023-03-21T01:22:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1637987920853254146" ],
+      "url" : [ "https://twitter.com/SwiftOnSecurity/status/1637987920853254146" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/swiftonsecurit…" ],
+      "url" : [ "https://twitter.com/swiftonsecurity/status/1637987920853254146" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1633768056424914945/HQUiW_k6.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is really sneaky and I suspect many would fall for this. \n\nWhy?\n\nOnly developers know what basic auth is, to everyone else this username is the legit Netflix domain.</div>\n<a class=\"tag\" href=\"https://twitter.com/swiftonsecurity/status/1637987920853254146\">twitter.com/swiftonsecurit…</a>",
+      "value" : "This is really sneaky and I suspect many would fall for this. \n\nWhy?\n\nOnly developers know what basic auth is, to everyone else this username is the legit Netflix domain."
+    } ],
+    "published" : [ "2023-03-21T14:40:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1638188771903504385" ],
+    "url" : [ "https://twitter.com/rawkode/status/1638188771903504385" ]
+  },
+  "type" : [ "h-entry" ]
+}
