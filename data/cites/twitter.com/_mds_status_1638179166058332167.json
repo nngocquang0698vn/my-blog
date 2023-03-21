@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "× →" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "MDS" ],
+        "nickname" : [ "mds" ],
+        "numeric-id" : [ "17202524" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458454547895046145/pnweGRmf.jpg" ],
+        "published" : [ "2008-11-06T01:31:49+00:00" ],
+        "uid" : [ "tag:twitter.com:mds" ],
+        "url" : [ "https://twitter.com/mds", "https://shiftnudge.com/checklist" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "closet.appendChild();\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brad_frost\"></a>",
+      "value" : "closet.appendChild();"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/brad_frost/status/1638173652305997829" ],
+    "published" : [ "2023-03-21T14:02:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1638179166058332167" ],
+    "url" : [ "https://twitter.com/mds/status/1638179166058332167" ]
+  },
+  "type" : [ "h-entry" ]
+}
