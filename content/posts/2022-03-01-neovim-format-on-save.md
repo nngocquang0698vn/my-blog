@@ -19,24 +19,24 @@ After being quite used to the way that I could get [my Java projects to autoform
 The Neovim docs actually highlight this:
 
 ```vim
-autocmd BufWritePre <buffer> lua vim.lsp.buf.formatting_sync()
+autocmd BufWritePre <buffer> lua vim.lsp.buf.format()
 " or
-autocmd BufWritePre * lua vim.lsp.buf.formatting_sync()
+autocmd BufWritePre * lua vim.lsp.buf.format()
 ```
 
 Or if you're using the Lua configuration:
 
 ```lua
-vim.cmd [[autocmd BufWritePre <buffer> lua vim.lsp.buf.formatting_sync()]]
+vim.cmd [[autocmd BufWritePre <buffer> lua vim.lsp.buf.format()]]
 -- or
-vim.cmd [[autocmd BufWritePre * lua vim.lsp.buf.formatting_sync()]]
+vim.cmd [[autocmd BufWritePre * lua vim.lsp.buf.format()]]
 ```
 
 Or if you want to write Lua, but haven't yet fully migrated to a Lua-only configuration, you'll want the following:
 
 ```vim
 lua <<EOF
-vim.cmd [[autocmd BufWritePre * lua vim.lsp.buf.formatting_sync()]]
+vim.cmd [[autocmd BufWritePre * lua vim.lsp.buf.format()]]
 EOF
 ```
 
