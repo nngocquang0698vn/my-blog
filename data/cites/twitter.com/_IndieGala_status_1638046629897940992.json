@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rome" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "IndieGala" ],
+        "nickname" : [ "IndieGala" ],
+        "numeric-id" : [ "421286008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1503311671439278080/nBRtqyMO.jpg" ],
+        "published" : [ "2011-11-25T19:05:54+00:00" ],
+        "uid" : [ "tag:twitter.com:IndieGala" ],
+        "url" : [ "https://twitter.com/IndieGala", "https://www.indiegala.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hmm, a challenge lifelong it is...\n<a href=\"https://www.indiegala.com/\">indiegala.com</a></div>",
+      "value" : "Hmm, a challenge lifelong it is...\nindiegala.com"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FruCUAhX0AE50cw.jpg" ],
+    "published" : [ "2023-03-21T05:15:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1638046629897940992" ],
+    "url" : [ "https://twitter.com/IndieGala/status/1638046629897940992" ]
+  },
+  "type" : [ "h-entry" ]
+}
