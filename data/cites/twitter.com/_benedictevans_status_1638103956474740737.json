@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zoom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Benedict Evans" ],
+        "nickname" : [ "benedictevans" ],
+        "numeric-id" : [ "1236101" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431026502192205828/LaLAMvdn.jpg" ],
+        "published" : [ "2007-03-15T17:33:00+00:00" ],
+        "uid" : [ "tag:twitter.com:benedictevans" ],
+        "url" : [ "https://twitter.com/benedictevans", "http://www.ben-evans.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Congratulations to Credit Suisse on their $3bn exit. People think of startups as an overnight success, but they'd been grinding away since 1856. Sometimes you have to ignore the noise and stick to your vision." ],
+    "published" : [ "2023-03-21T09:03:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1638103956474740737" ],
+    "url" : [ "https://twitter.com/benedictevans/status/1638103956474740737" ]
+  },
+  "type" : [ "h-entry" ]
+}
