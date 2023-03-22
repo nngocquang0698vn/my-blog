@@ -14,7 +14,7 @@ slug: "next-promo"
 ---
 With [the news that Deliveroo are making 9% of the company redundant](https://www.jvt.me/mf2/2023/02/airop/), of which all Senior Software Engineers are "at risk" of redundancies, I've been considering where I am and where I want to be going in my career regardless of whether I'm made redundant.
 
-I'll be finding out in the next few minutes(!!!!) as to whether my role is going to be made redundant, but that doesn't mean that I necessarily need to wait until then to decide a few things. I'm using this post as a way to get my ADHD brain in check and work through the thoughts I've got, putting proverbial pen to paper to talk through it, and collating thoughts that I've been having over the last 6 months or so.
+I'll be finding out in the next few minutes(!!!!) as to whether my role is going to be made redundant (update: I am not being made redundant), but that doesn't mean that I necessarily need to wait until then to decide a few things. I'm using this post as a way to get my ADHD brain in check and work through the thoughts I've got, putting proverbial pen to paper to talk through it, and collating thoughts that I've been having over the last 6 months or so.
 
 Off the back of the performance review cycle earlier this year, I'd been discussing with my manager my stretching up to Staff Engineer, and the gaps I had to work on that would give me the capabilities to be able to get there.
 
