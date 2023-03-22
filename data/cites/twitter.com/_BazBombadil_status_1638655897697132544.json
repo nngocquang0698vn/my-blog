@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Justin Roiland" ],
+          "nickname" : [ "JustinRoiland" ],
+          "numeric-id" : [ "611941828" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3726297405/1cabbbfd3f504ff155006e0d4ca225bc.jpeg" ],
+          "published" : [ "2012-06-18T19:38:56+00:00" ],
+          "uid" : [ "tag:twitter.com:JustinRoiland" ],
+          "url" : [ "https://twitter.com/JustinRoiland", "http://www.squanchgames.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "justice" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fr2VHACaUAAFwc2.jpg" ],
+      "published" : [ "2023-03-22T19:52:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1638629789258100737" ],
+      "url" : [ "https://twitter.com/JustinRoiland/status/1638629789258100737" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/justinroiland/…" ],
+      "url" : [ "https://twitter.com/justinroiland/status/1638629789258100737" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "philly / dont dm " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "𝕓𝕒𝕫." ],
+        "nickname" : [ "BazBombadil" ],
+        "numeric-id" : [ "758885548668825601" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1513420476978274305/usaWj0fo.jpg" ],
+        "published" : [ "2016-07-29T04:43:09+00:00" ],
+        "uid" : [ "tag:twitter.com:BazBombadil" ],
+        "url" : [ "https://twitter.com/BazBombadil", "https://boxd.it/1Ml3B" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">the american justice system \nfamously always right</div>\n<a class=\"tag\" href=\"https://twitter.com/justinroiland/status/1638629789258100737\">twitter.com/justinroiland/…</a>",
+      "value" : "the american justice system \nfamously always right"
+    } ],
+    "published" : [ "2023-03-22T21:36:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1638655897697132544" ],
+    "url" : [ "https://twitter.com/BazBombadil/status/1638655897697132544" ]
+  },
+  "type" : [ "h-entry" ]
+}
