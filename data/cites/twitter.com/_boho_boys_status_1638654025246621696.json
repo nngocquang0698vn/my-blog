@@ -1,0 +1,39 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Boho Boys" ],
+        "nickname" : [ "boho_boys" ],
+        "numeric-id" : [ "1562850974309310465" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588057309523152896/1MmIUPY9.jpg" ],
+        "published" : [ "2022-08-25T17:15:03+00:00" ],
+        "uid" : [ "tag:twitter.com:boho_boys" ],
+        "url" : [ "https://twitter.com/boho_boys", "https://www.amazon.com/hz/wishlist/ls/3O5MUTIDBN2GZ?ref_=wl_share", "http://onlyfans.com/boho_boys/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Justin Roiland rn.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JustinRoiland\"></a>",
+      "value" : "Justin Roiland rn."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JustinRoiland/status/1638629789258100737" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Austin, TX" ],
+        "uid" : [ "tag:twitter.com:c3f37afa9efcf94b" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fr2rJrIX0AIeDJb.jpg" ],
+    "published" : [ "2023-03-22T21:28:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1638654025246621696" ],
+    "url" : [ "https://twitter.com/boho_boys/status/1638654025246621696" ]
+  },
+  "type" : [ "h-entry" ]
+}
