@@ -6,7 +6,7 @@
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2023-02-09T22:35:00+0000" ],
-    "category" : [ "deliveroo", "job" ],
+    "category" : [ "deliveroo", "job", "roodundancies" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
