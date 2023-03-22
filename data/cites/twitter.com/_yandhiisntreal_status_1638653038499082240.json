@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Justin Roiland" ],
+          "nickname" : [ "JustinRoiland" ],
+          "numeric-id" : [ "611941828" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3726297405/1cabbbfd3f504ff155006e0d4ca225bc.jpeg" ],
+          "published" : [ "2012-06-18T19:38:56+00:00" ],
+          "uid" : [ "tag:twitter.com:JustinRoiland" ],
+          "url" : [ "https://twitter.com/JustinRoiland", "http://www.squanchgames.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "justice" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fr2VHACaUAAFwc2.jpg" ],
+      "published" : [ "2023-03-22T19:52:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1638629789258100737" ],
+      "url" : [ "https://twitter.com/JustinRoiland/status/1638629789258100737" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn • he/they • nb • bi" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sean" ],
+        "nickname" : [ "yandhiisntreal" ],
+        "numeric-id" : [ "1098236096302010368" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477239698057748485/PfnT91c1.jpg" ],
+        "published" : [ "2019-02-20T15:01:04+00:00" ],
+        "uid" : [ "tag:twitter.com:yandhiisntreal" ],
+        "url" : [ "https://twitter.com/yandhiisntreal" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i turned myself into a martyr morty, i'm CANCELLED RIIIIIIIIIIICK" ],
+    "published" : [ "2023-03-22T21:25:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1638653038499082240" ],
+    "url" : [ "https://twitter.com/yandhiisntreal/status/1638653038499082240" ]
+  },
+  "type" : [ "h-entry" ]
+}
