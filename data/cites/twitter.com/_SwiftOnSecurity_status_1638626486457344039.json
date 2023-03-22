@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bellevue, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CS2" ],
+          "nickname" : [ "CounterStrike" ],
+          "numeric-id" : [ "353780675" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1606750479836647425/1qsSFQOn.jpg" ],
+          "published" : [ "2011-08-12T16:37:01+00:00" ],
+          "uid" : [ "tag:twitter.com:CounterStrike" ],
+          "url" : [ "https://twitter.com/CounterStrike", "https://blog.counter-strike.net/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Today we're excited to announce Counter-Strike 2. Counter-Strike 2 is an overhaul to every system, every piece of content, and every part of the C-S experience. First, let's talk about smoke grenades:" ],
+      "published" : [ "2023-03-22T16:35:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1638580074126659584" ],
+      "url" : [ "https://twitter.com/CounterStrike/status/1638580074126659584" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1638579917783965696/pu/vid/1280x720/0OxOfrfrWi37j6Xi.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/counterstrike/…" ],
+      "url" : [ "https://twitter.com/counterstrike/status/1638580074126659584" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cyber, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SwiftInsecurity" ],
+        "nickname" : [ "SwiftOnSecurity" ],
+        "numeric-id" : [ "2436389418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1622290825609728002/yhvytMly.jpg" ],
+        "published" : [ "2014-04-10T02:54:26+00:00" ],
+        "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+        "url" : [ "https://twitter.com/SwiftOnSecurity" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Every millennial gettin ready to be duct taped to the ceiling fr\n<a class=\"tag\" href=\"https://twitter.com/counterstrike/status/1638580074126659584\">twitter.com/counterstrike/…</a>",
+      "value" : "Every millennial gettin ready to be duct taped to the ceiling fr"
+    } ],
+    "published" : [ "2023-03-22T19:39:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1638626486457344039" ],
+    "url" : [ "https://twitter.com/SwiftOnSecurity/status/1638626486457344039" ]
+  },
+  "type" : [ "h-entry" ]
+}
