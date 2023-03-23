@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "kariLou 🇻🇪" ],
+          "nickname" : [ "kariLOU88" ],
+          "numeric-id" : [ "118526797" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1572020733634646017/8f9LOomC.jpg" ],
+          "published" : [ "2010-02-28T23:48:36+00:00" ],
+          "uid" : [ "tag:twitter.com:kariLOU88" ],
+          "url" : [ "https://twitter.com/kariLOU88" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Omg this dude at the bar was hitting on me and was so shitfaced he called an Uber. He stands up and he’s got cheese sticks in his back pocket. Am I in love?" ],
+      "photo" : [ "https://pbs.twimg.com/media/FrjxwM5X0AIvwuo.jpg" ],
+      "published" : [ "2023-03-19T05:25:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1637324283251703809" ],
+      "url" : [ "https://twitter.com/kariLOU88/status/1637324283251703809" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Ibbotson" ],
+        "nickname" : [ "quinceleaf" ],
+        "numeric-id" : [ "415891506" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1434914030116917248/IpUbyYvQ.jpg" ],
+        "published" : [ "2011-11-18T23:32:13+00:00" ],
+        "uid" : [ "tag:twitter.com:quinceleaf" ],
+        "url" : [ "https://twitter.com/quinceleaf", "https://www.polywork.com/quinceleaf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Crossed my TL this week <a href=\"https://twitter.com/kariLOU88/status/1637324283251703809?s=20\">twitter.com/kariLOU88/stat…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kvlly\"></a>",
+      "value" : "Crossed my TL this week twitter.com/kariLOU88/stat…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kvlly/status/1638756026202853376" ],
+    "published" : [ "2023-03-23T05:09:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1638769847633866757" ],
+    "url" : [ "https://twitter.com/quinceleaf/status/1638769847633866757" ]
+  },
+  "type" : [ "h-entry" ]
+}
