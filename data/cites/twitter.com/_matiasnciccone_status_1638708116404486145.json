@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rosario, Santa Fe, Argentina" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matías Ciccone" ],
+        "nickname" : [ "matiasnciccone" ],
+        "numeric-id" : [ "125359487" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1103324954525872133/bdEHbMSE.jpg" ],
+        "published" : [ "2010-03-22T15:15:30+00:00" ],
+        "uid" : [ "tag:twitter.com:matiasnciccone" ],
+        "url" : [ "https://twitter.com/matiasnciccone" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "what about git worktree?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/housecor\"></a>",
+      "value" : "what about git worktree?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/housecor/status/1638706883488804864" ],
+    "published" : [ "2023-03-23T01:03:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1638708116404486145" ],
+    "url" : [ "https://twitter.com/matiasnciccone/status/1638708116404486145" ]
+  },
+  "type" : [ "h-entry" ]
+}
