@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "serena" ],
+        "nickname" : [ "serenacoady" ],
+        "numeric-id" : [ "470843084" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435335723943702532/68JYeyqH.jpg" ],
+        "published" : [ "2012-01-22T06:29:57+00:00" ],
+        "uid" : [ "tag:twitter.com:serenacoady" ],
+        "url" : [ "https://twitter.com/serenacoady", "http://linktr.ee/serenkuluscolon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "the people have spoken. the name of the publication rhymes with… green pant\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sophxthompson\"></a>",
+      "value" : "the people have spoken. the name of the publication rhymes with… green pant"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sophxthompson/status/1638489122263162881" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fr2KQslWIA4jHH9.jpg" ],
+    "published" : [ "2023-03-22T19:05:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1638617863907844130" ],
+    "url" : [ "https://twitter.com/serenacoady/status/1638617863907844130" ]
+  },
+  "type" : [ "h-entry" ]
+}
