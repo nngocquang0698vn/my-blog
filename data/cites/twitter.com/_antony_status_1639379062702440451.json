@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Docklands, London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "antony " ],
+        "nickname" : [ "antony" ],
+        "numeric-id" : [ "818570" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475035004908580866/rHYaAjKT.jpg" ],
+        "published" : [ "2007-03-07T16:19:19+00:00" ],
+        "uid" : [ "tag:twitter.com:antony" ],
+        "url" : [ "https://twitter.com/antony" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "They changed it about 24 hours ago.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/allenholub\"></a>",
+      "value" : "They changed it about 24 hours ago."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/allenholub/status/1639378384592719872" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "South Hayling, England" ],
+        "uid" : [ "tag:twitter.com:59f85493f9ac51e9" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-24T21:30:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1639379062702440451" ],
+    "url" : [ "https://twitter.com/antony/status/1639379062702440451" ]
+  },
+  "type" : [ "h-entry" ]
+}
