@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://youtube.com/live/X1Iwa2CD6lo" ],
+    "listen-of" : [ "https://www.youtube.com/watch?v=X1Iwa2CD6lo" ],
     "published" : [ "2023-03-23T10:40:16.298573888Z" ],
     "post-status" : [ "published" ]
   },
