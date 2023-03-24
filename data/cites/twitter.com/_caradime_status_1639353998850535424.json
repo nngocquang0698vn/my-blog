@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cara!" ],
+        "nickname" : [ "caradime" ],
+        "numeric-id" : [ "1620953519355469825" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1620955190823378944/1PR3DLUS.jpg" ],
+        "published" : [ "2023-02-02T01:13:37+00:00" ],
+        "uid" : [ "tag:twitter.com:caradime" ],
+        "url" : [ "https://twitter.com/caradime" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">tired: whole milk\nwired: hole milk</div>",
+      "value" : "tired: whole milk\nwired: hole milk"
+    } ],
+    "published" : [ "2023-03-24T19:50:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1639353998850535424" ],
+    "url" : [ "https://twitter.com/caradime/status/1639353998850535424" ]
+  },
+  "type" : [ "h-entry" ]
+}
