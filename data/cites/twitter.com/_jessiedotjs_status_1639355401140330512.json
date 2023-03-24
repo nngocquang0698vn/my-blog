@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jessie.js @ Cairo" ],
+        "nickname" : [ "jessiedotjs" ],
+        "numeric-id" : [ "110298748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436157880877531141/2-dt4exX.jpg" ],
+        "published" : [ "2010-02-01T02:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:jessiedotjs" ],
+        "url" : [ "https://twitter.com/jessiedotjs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My Uber driver couldn’t find me so he cancelled and I just got matched with him again while standing directly next to his car and this is the most awkward ride I’ve been in" ],
+    "published" : [ "2023-03-24T19:56:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1639355401140330512" ],
+    "url" : [ "https://twitter.com/jessiedotjs/status/1639355401140330512" ]
+  },
+  "type" : [ "h-entry" ]
+}
