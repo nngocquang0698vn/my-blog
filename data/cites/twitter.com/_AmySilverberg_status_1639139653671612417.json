@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy Silverberg" ],
+        "nickname" : [ "AmySilverberg" ],
+        "numeric-id" : [ "239128760" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199924215949881344/BkF6_8TC.jpg" ],
+        "published" : [ "2011-01-16T22:04:55+00:00" ],
+        "uid" : [ "tag:twitter.com:AmySilverberg" ],
+        "url" : [ "https://twitter.com/AmySilverberg", "http://www.amysilverberg.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You look fun/hot!!!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ElyKreimendahl\"></a>",
+      "value" : "You look fun/hot!!!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ElyKreimendahl/status/1639075538961661955" ],
+    "published" : [ "2023-03-24T05:38:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1639139653671612417" ],
+    "url" : [ "https://twitter.com/AmySilverberg/status/1639139653671612417" ]
+  },
+  "type" : [ "h-entry" ]
+}
