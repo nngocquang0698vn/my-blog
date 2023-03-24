@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Zakaria Amine" ],
+          "nickname" : [ "zakariaamine_" ],
+          "numeric-id" : [ "3937720216" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/937333002115452931/WgjAHSU7.jpg" ],
+          "published" : [ "2015-10-12T14:02:50+00:00" ],
+          "uid" : [ "tag:twitter.com:zakariaamine_" ],
+          "url" : [ "https://twitter.com/zakariaamine_", "http://www.zakariaamine.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I can't believe a feature that I suggested randomly as a response to Daniel Stenberg poll is now part of curl (since 7.82.0). It's now possible to use curl --json which is equivalent to curl -H \"Content-Type: application/json\" -d. Thanks <a href=\"https://twitter.com/bagder\">@bagder</a>",
+        "value" : "I can't believe a feature that I suggested randomly as a response to Daniel Stenberg poll is now part of curl (since 7.82.0). It's now possible to use curl --json which is equivalent to curl -H \"Content-Type: application/json\" -d. Thanks @bagder"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fr7vnJQWwAQMujE.png" ],
+      "published" : [ "2023-03-23T21:09:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1639011387660697600" ],
+      "url" : [ "https://twitter.com/zakariaamine_/status/1639011387660697600" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ely, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Kehoe" ],
+        "nickname" : [ "ben11kehoe" ],
+        "numeric-id" : [ "3326912038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/938429074543869952/p-Coz-7j.jpg" ],
+        "published" : [ "2015-06-15T12:32:14+00:00" ],
+        "uid" : [ "tag:twitter.com:ben11kehoe" ],
+        "url" : [ "https://twitter.com/ben11kehoe", "https://mastodon.cloud/@ben11kehoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Things don't change if you don't speak up" ],
+    "published" : [ "2023-03-24T19:33:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1639349829171044362" ],
+    "url" : [ "https://twitter.com/ben11kehoe/status/1639349829171044362" ]
+  },
+  "type" : [ "h-entry" ]
+}
