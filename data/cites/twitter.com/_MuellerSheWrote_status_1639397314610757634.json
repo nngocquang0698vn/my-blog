@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mueller, She Wrote" ],
+        "nickname" : [ "MuellerSheWrote" ],
+        "numeric-id" : [ "926164634570067968" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1588302578625880065/sW7WfsRS.jpg" ],
+        "published" : [ "2017-11-02T19:10:30+00:00" ],
+        "uid" : [ "tag:twitter.com:MuellerSheWrote" ],
+        "url" : [ "https://twitter.com/MuellerSheWrote", "http://www.muellershewrote.com", "http://post.news/muellershewrote", "http://muellershewrote.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "For fuckin’\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/laralogan\"></a>",
+      "value" : "For fuckin’"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/laralogan/status/1639319145018978304" ],
+    "published" : [ "2023-03-24T22:42:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1639397314610757634" ],
+    "url" : [ "https://twitter.com/MuellerSheWrote/status/1639397314610757634" ]
+  },
+  "type" : [ "h-entry" ]
+}
