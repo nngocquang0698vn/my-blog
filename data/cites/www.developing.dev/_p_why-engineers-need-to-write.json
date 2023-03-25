@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Why Engineers Need To Write" ],
+    "summary" : [ "I hated writing in high school. It wasn’t objective like my favorite subjects, math and science. It also didn’t help that we had to write about old, hard-to-understand literature like Shakespeare. But my perspective on writing changed once I started working full-time as a software engineer." ],
+    "featured" : [ "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F563950db-225a-4580-8083-c68bf3de222a_1200x800.jpeg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Peterman" ]
+      }
+    } ],
+    "url" : [ "https://www.developing.dev/p/why-engineers-need-to-write" ]
+  }
+}
