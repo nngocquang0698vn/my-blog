@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Content was king" ],
+    "summary" : [ "Judging a book by its cover is a great idea. Until content makes a comeback." ],
+    "featured" : [ "https://justingarrison.com/img/content-was-king-banner.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Justin Garrison" ]
+      }
+    } ],
+    "url" : [ "https://justingarrison.com/blog/2023-03-15-content-was-king/" ],
+    "published" : [ "2023-03-15T00:00:00+00:00" ]
+  }
+}
