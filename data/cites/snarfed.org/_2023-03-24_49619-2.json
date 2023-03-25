@@ -1,0 +1,47 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Content negotiation considered harmful" ],
+    "url" : [ "https://snarfed.org/2023-03-24_49619-2" ],
+    "syndication" : [ "https://lists.w3.org/Archives/Public/public-swicg/2023Mar/0174.html", "https://fed.brid.gy/user/snarfed.org", "https://lists.w3.org/Archives/Public/public-swicg/2023Mar/0174.html", "https://fed.brid.gy/user/snarfed.org" ],
+    "photo" : [ "https://snarfed.org/matilda-used-car-salesman-harry-wormwood.jpg" ],
+    "published" : [ "2023-03-24T10:48:59-07:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right half\">\n <a href=\"https://thenewswheel.com/top-5-worst-car-salesmen-from-movies/\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/matilda-used-car-salesman-harry-wormwood.jpg\" data-lazy-src=\"/matilda-used-car-salesman-harry-wormwood.jpg?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/matilda-used-car-salesman-harry-wormwood.jpg\"></noscript>\n\n<em><a href=\"https://www.imdb.com/title/tt0117008/\">Matilda</a></em>, 1996\n\n<p><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation\">Content negotiation</a> is a feature of HTTP that lets clients ask for, and servers return, different content types based on the request’s <code>Accept</code> header.</p>\n<p>Sounds great, right? Well, no. Content negotiation is the classic example of an idea that sounds good in theory, but for the vast majority of web developers, turns out to be net harmful in practice. A few reasons:\n<span id=\"more-49619\"></span></p>\n<ul>\n<li>Most web developers are not aware that conneg exists. This is usually fine, since it’s uncommon, but can be an unpleasant surprise when they first hit it and don’t understand it.</li>\n<li>The <code>Accept</code> header is notoriously complicated to parse, generate, and fully comply with. Imo much of that complexity is unneeded in practice.</li>\n<li>It often breaks caching when it’s first introduced. Internal and external caches generally ignore Content-Type and Accept (etc) by default, so when conneg is first introduced, clients often get the wrong response type. Developers learn the hard way that they need to add Accept to Vary and to their framework’s cache.</li>\n<li>URLs leak across contexts. They may start out within a single service or API, but they gradually proliferate into user-visible links, object identifiers in other systems, add-on services, third party tools, etc. These generally don’t know the original conneg requirements, which causes unpleasant surprises.</li>\n</ul>\n<p>I think most of this boils down to: <em>modality</em> generally considered harmful. When something always behaves the same way, it’s reliable and easy to use. When it behaves differently based on something far away that you may not know exists, it’s unreliable and surprising. Add in a very large ecosystem of independent tools that all need to interoperate, often in fine-grained ways, and you have a recipe for failure.</p>",
+      "value" : "https://snarfed.org/matilda-used-car-salesman-harry-wormwood.jpg https://snarfed.org/matilda-used-car-salesman-harry-wormwood.jpg Matilda, 1996\nContent negotiation is a feature of HTTP that lets clients ask for, and servers return, different content types based on the request’s Accept header.\nSounds great, right? Well, no. Content negotiation is the classic example of an idea that sounds good in theory, but for the vast majority of web developers, turns out to be net harmful in practice. A few reasons: Most web developers are not aware that conneg exists. This is usually fine, since it’s uncommon, but can be an unpleasant surprise when they first hit it and don’t understand it. The Accept header is notoriously complicated to parse, generate, and fully comply with. Imo much of that complexity is unneeded in practice. It often breaks caching when it’s first introduced. Internal and external caches generally ignore Content-Type and Accept (etc) by default, so when conneg is first introduced, clients often get the wrong response type. Developers learn the hard way that they need to add Accept to Vary and to their framework’s cache. URLs leak across contexts. They may start out within a single service or API, but they gradually proliferate into user-visible links, object identifiers in other systems, add-on services, third party tools, etc. These generally don’t know the original conneg requirements, which causes unpleasant surprises.\nI think most of this boils down to: modality generally considered harmful. When something always behaves the same way, it’s reliable and easy to use. When it behaves differently based on something far away that you may not know exists, it’s unreliable and surprising. Add in a very large ecosystem of independent tools that all need to interoperate, often in fine-grained ways, and you have a recipe for failure.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
