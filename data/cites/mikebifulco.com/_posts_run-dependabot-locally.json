@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-card", "h-entry" ],
+  "properties" : {
+    "name" : [ "How to run dependabot locally on your projects", "Mike Bifulco" ],
+    "summary" : [ "Since its release, teams around the world have been using dependabot to automate the process of keeping your project's dependencies up to date. In this article, I'll show you how you can run dependabot on the command line using dependabot-core." ],
+    "category" : [ "dev", "javascript", "react" ],
+    "photo" : [ {
+      "value" : "https://res.cloudinary.com/mikebifulco-com/image/upload/q_auto:eco,f_auto/v1/posts/run-dependabot-locally/cover.webp",
+      "alt" : "Hero"
+    } ],
+    "url" : [ "https://mikebifulco.com/posts/run-dependabot-locally" ],
+    "published" : [ "Fri, 10 Dec 2021 00:00:00 GMT" ],
+    "content" : [ {
+      "html" : "Since its release, teams around the world have been using dependabot to automate the process of keeping your project's dependencies up to date. In this article, I'll show you how you can run dependabot on the command line using dependabot-core.",
+      "value" : "Since its release, teams around the world have been using dependabot to automate the process of keeping your project's dependencies up to date. In this article, I'll show you how you can run dependabot on the command line using dependabot-core.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mike Bifulco" ],
+        "url" : [ "https://mikebifulco.com/posts/run-dependabot-locally" ]
+      },
+      "lang" : "en",
+      "value" : "Mike Bifulco"
+    } ]
+  },
+  "lang" : "en"
+}
