@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Perth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Garrett Mundy" ],
+        "nickname" : [ "GarrettIvo" ],
+        "numeric-id" : [ "326733701" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324498394501427200/Lt6T3VgA.jpg" ],
+        "published" : [ "2011-06-30T11:58:44+00:00" ],
+        "uid" : [ "tag:twitter.com:GarrettIvo" ],
+        "url" : [ "https://twitter.com/GarrettIvo", "http://abc.net.au/news" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Like... razors?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BryanB8\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/laralogan\"></a>",
+      "value" : "Like... razors?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BryanB8/status/1639329614404124686" ],
+    "published" : [ "2023-03-25T02:33:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1639455310292320257" ],
+    "url" : [ "https://twitter.com/GarrettIvo/status/1639455310292320257" ]
+  },
+  "type" : [ "h-entry" ]
+}
