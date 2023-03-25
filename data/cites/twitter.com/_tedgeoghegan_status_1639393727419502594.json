@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manhattan, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ted Geoghegan" ],
+        "nickname" : [ "tedgeoghegan" ],
+        "numeric-id" : [ "36065775" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357090601846665218/7R7WjeLs.jpg" ],
+        "published" : [ "2009-04-28T13:37:06+00:00" ],
+        "uid" : [ "tag:twitter.com:tedgeoghegan" ],
+        "url" : [ "https://twitter.com/tedgeoghegan", "https://www.imdb.com/name/nm0313295/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’d call you an absolute dildo, but dildos bring people joy.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/laralogan\"></a>",
+      "value" : "I’d call you an absolute dildo, but dildos bring people joy."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/laralogan/status/1639319145018978304" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Manhattan, NY" ],
+        "uid" : [ "tag:twitter.com:01a9a39529b27f36" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-24T22:28:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1639393727419502594" ],
+    "url" : [ "https://twitter.com/tedgeoghegan/status/1639393727419502594" ]
+  },
+  "type" : [ "h-entry" ]
+}
