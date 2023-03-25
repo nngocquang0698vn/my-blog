@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Philip Potter" ],
+        "nickname" : [ "philandstuff" ],
+        "numeric-id" : [ "15619048" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1108290909584666624/Ot3xqsdf.png" ],
+        "published" : [ "2008-07-27T10:19:37+00:00" ],
+        "uid" : [ "tag:twitter.com:philandstuff" ],
+        "url" : [ "https://twitter.com/philandstuff", "http://www.philandstuff.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thank you for your service! What's next?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Danomanic\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GDSTeam\"></a>",
+      "value" : "Thank you for your service! What's next?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Danomanic/status/1639174837754114049" ],
+    "published" : [ "2023-03-25T22:16:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1639753077300375554" ],
+    "url" : [ "https://twitter.com/philandstuff/status/1639753077300375554" ]
+  },
+  "type" : [ "h-entry" ]
+}
