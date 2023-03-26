@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bellevue" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "A Guy Who Codes" ],
+        "nickname" : [ "browniepoints" ],
+        "numeric-id" : [ "14222410" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1532731483772928001/-eZTOA-Z.jpg" ],
+        "published" : [ "2008-03-26T03:02:10+00:00" ],
+        "uid" : [ "tag:twitter.com:browniepoints" ],
+        "url" : [ "https://twitter.com/browniepoints", "http://aguywhocodes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I love this time of year because it’s when all the photos of T’Challa as a kitten pop up on my fb memories. Whenever I came home he would walk up to me and meow like he was excited to see me." ],
+    "photo" : [ {
+      "alt" : "T’Challa as a kitten greets me with the kitten eyes as I enter the house.",
+      "value" : "https://pbs.twimg.com/media/FsHz9HFaIAAXD7J.jpg"
+    } ],
+    "published" : [ "2023-03-26T05:21:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1639859976482193409" ],
+    "url" : [ "https://twitter.com/browniepoints/status/1639859976482193409" ]
+  },
+  "type" : [ "h-entry" ]
+}
