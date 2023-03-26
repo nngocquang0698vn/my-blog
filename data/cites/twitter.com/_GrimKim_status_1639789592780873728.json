@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "VICE" ],
+          "nickname" : [ "VICE" ],
+          "numeric-id" : [ "23818581" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4.jpg" ],
+          "published" : [ "2009-03-11T20:00:38+00:00" ],
+          "uid" : [ "tag:twitter.com:VICE" ],
+          "url" : [ "https://twitter.com/VICE", "http://www.vice.com", "http://link1.vice.com/join/6qz/signup" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">That blanket NDA you signed years ago to get severance? It's void now, according to the National Labor Relations Board.\n<a href=\"https://trib.al/scWpBsH\">trib.al/scWpBsH</a></div>",
+        "value" : "That blanket NDA you signed years ago to get severance? It's void now, according to the National Labor Relations Board.\ntrib.al/scWpBsH"
+      } ],
+      "published" : [ "2023-03-24T14:41:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1639276358453927941" ],
+      "url" : [ "https://twitter.com/VICE/status/1639276358453927941" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/vice/status/16…" ],
+      "url" : [ "https://twitter.com/vice/status/1639276358453927941" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "South Philly" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kim Kelly" ],
+        "nickname" : [ "GrimKim" ],
+        "numeric-id" : [ "15814350" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1625580397940596750/FPGkBIDS.jpg" ],
+        "published" : [ "2008-08-11T21:47:25+00:00" ],
+        "uid" : [ "tag:twitter.com:GrimKim" ],
+        "url" : [ "https://twitter.com/GrimKim", "https://www.patreon.com/kimkelly" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "When I worked at Vice, my boss was outed as a sexual predator and was reported to HR and they did nothing :)\n<a class=\"tag\" href=\"https://twitter.com/vice/status/1639276358453927941\">twitter.com/vice/status/16…</a>",
+      "value" : "When I worked at Vice, my boss was outed as a sexual predator and was reported to HR and they did nothing :)"
+    } ],
+    "published" : [ "2023-03-26T00:41:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1639789592780873728" ],
+    "url" : [ "https://twitter.com/GrimKim/status/1639789592780873728" ]
+  },
+  "type" : [ "h-entry" ]
+}
