@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Common pitfalls of GitHub Actions" ],
+    "summary" : [ "If you create GitHub Actions via GitHub's UI by going to the URL of the form https://github.com///actions/new, it provides templates for setting up the build. However, the template is broken. There are four problems with the default template No dependency caching - so package dependencies will be resolved and reinstalled every time No cancelation of" ],
+    "url" : [ "https://ashishb.net/tech/common-pitfalls-of-github-actions/" ]
+  }
+}
