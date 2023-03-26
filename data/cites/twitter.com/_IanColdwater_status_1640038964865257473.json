@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "he/him" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "дэн" ],
+          "nickname" : [ "dan_abramov" ],
+          "numeric-id" : [ "70345946" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1545194945161707520/rqkwPViA.jpg" ],
+          "published" : [ "2009-08-31T08:28:07+00:00" ],
+          "uid" : [ "tag:twitter.com:dan_abramov" ],
+          "url" : [ "https://twitter.com/dan_abramov" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "if i was 20 now i’d drop everything and jump into AI. i feel a great deal of FOMO tbh but also hesitant about abandoning all the context i already have in my field. not sure what to do." ],
+      "published" : [ "2023-03-26T16:07:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1640022734989139970" ],
+      "url" : [ "https://twitter.com/dan_abramov/status/1640022734989139970" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Young engineers: please don't do this. Learn the fundamentals; tech is all the same bits and bytes on the lower levels. This knowledge will serve you no matter what the flavor of the week is, because you'll be able to understand them all" ],
+    "published" : [ "2023-03-26T17:12:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1640038964865257473" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1640038964865257473" ]
+  },
+  "type" : [ "h-entry" ]
+}
