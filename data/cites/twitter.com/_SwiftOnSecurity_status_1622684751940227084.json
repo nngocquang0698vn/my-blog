@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cyber, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grand Swift Auto: Taylor's Version" ],
+        "nickname" : [ "SwiftOnSecurity" ],
+        "numeric-id" : [ "2436389418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1639393145082322945/4RQJ0y4N.jpg" ],
+        "published" : [ "2014-04-10T02:54:26+00:00" ],
+        "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+        "url" : [ "https://twitter.com/SwiftOnSecurity" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "(Archived from <a href=\"https://twitter.com/shanselman\">@shanselman</a>)",
+      "value" : "(Archived from @shanselman)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SwiftOnSecurity/status/1622679994097868802" ],
+    "photo" : [ {
+      "alt" : "Tweet screenshot:\nScott Hanselman\n@shanselman\nHIPS & SSL doesn't mean \"trust this.\"\nIt means \"this is private.\" You may be having a private conversation with Satan.\n4/4/12 \n4,725 Retweets 242 Quote Tweets 5,497 Like",
+      "value" : "https://pbs.twimg.com/media/FoTvLluWYAE3D_m.jpg"
+    } ],
+    "published" : [ "2023-02-06T19:52:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1622684751940227084" ],
+    "url" : [ "https://twitter.com/SwiftOnSecurity/status/1622684751940227084" ]
+  },
+  "type" : [ "h-entry" ]
+}
