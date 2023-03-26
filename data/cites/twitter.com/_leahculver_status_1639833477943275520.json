@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Leah Culver" ],
+        "nickname" : [ "leahculver" ],
+        "numeric-id" : [ "662433" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1622232751650004992/zlkcuusC.jpg" ],
+        "published" : [ "2007-01-19T00:07:47+00:00" ],
+        "uid" : [ "tag:twitter.com:leahculver" ],
+        "url" : [ "https://twitter.com/leahculver", "http://leahculver.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A Wi-Fi password for <a href=\"https://twitter.com/AFCRichmond\">@AFCRichmond</a> shows up twice in the latest <a href=\"https://twitter.com/TedLasso\">@TedLasso</a> episode. Any idea why?",
+      "value" : "A Wi-Fi password for @AFCRichmond shows up twice in the latest @TedLasso episode. Any idea why?"
+    } ],
+    "photo" : [ {
+      "alt" : "Still from Ted Lasso with Wi-Fi password",
+      "value" : "https://pbs.twimg.com/media/FsHb2vragAAfvYJ.jpg"
+    }, {
+      "alt" : "Another still from Ted Lasso with Wi-Fi password",
+      "value" : "https://pbs.twimg.com/media/FsHb2vLaMAIafPE.jpg"
+    } ],
+    "published" : [ "2023-03-26T03:35:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1639833477943275520" ],
+    "url" : [ "https://twitter.com/leahculver/status/1639833477943275520" ]
+  },
+  "type" : [ "h-entry" ]
+}
