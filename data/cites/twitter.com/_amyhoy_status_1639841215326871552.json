@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "she/her" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Acorn1010" ],
+          "nickname" : [ "theacorn1010" ],
+          "numeric-id" : [ "759063582340370432" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1041009159016112129/TX2BBWfQ.jpg" ],
+          "published" : [ "2016-07-29T16:30:35+00:00" ],
+          "uid" : [ "tag:twitter.com:theacorn1010" ],
+          "url" : [ "https://twitter.com/theacorn1010", "https://acorn1010.com", "http://Foony.com", "http://twitch.tv/acorn1010", "http://github.com/acorn1010" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Just tried Bard. It's great <a href=\"https://twitter.com/i/web/status/1639128434772434944\">twitter.com/i/web/status/1…</a>",
+        "value" : "Just tried Bard. It's great twitter.com/i/web/status/1…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fr9ammbakAE_tpi.png" ],
+      "published" : [ "2023-03-24T04:54:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1639128434772434944" ],
+      "url" : [ "https://twitter.com/theacorn1010/status/1639128434772434944" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tucson, AZ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy Hoy" ],
+        "nickname" : [ "amyhoy" ],
+        "numeric-id" : [ "627213" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1213605284444164096/d785ziR8.jpg" ],
+        "published" : [ "2007-01-11T21:52:20+00:00" ],
+        "uid" : [ "tag:twitter.com:amyhoy" ],
+        "url" : [ "https://twitter.com/amyhoy", "http://www.stackingthebricks.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the way i *cackled*. great job, google. bard is definitely ready for prime time." ],
+    "published" : [ "2023-03-26T04:06:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1639841215326871552" ],
+    "url" : [ "https://twitter.com/amyhoy/status/1639841215326871552" ]
+  },
+  "type" : [ "h-entry" ]
+}
