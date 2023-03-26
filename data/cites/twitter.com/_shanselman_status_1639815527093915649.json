@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://spacekaren.sucks/vhpfb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just so deeply sad, awful, scary, and profoundly disappointing, this Jonathan Majors situation." ],
+    "in-reply-to" : [ "https://twitter.com/shanselman/status/1639801635487764480" ],
+    "published" : [ "2023-03-26T02:24:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1639815527093915649" ],
+    "url" : [ "https://twitter.com/shanselman/status/1639815527093915649" ]
+  },
+  "type" : [ "h-entry" ]
+}
