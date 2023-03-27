@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "kate conger" ],
+          "nickname" : [ "kateconger" ],
+          "numeric-id" : [ "316154811" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1389641884054679552/Yjw2e4Ux.jpg" ],
+          "published" : [ "2011-06-13T01:12:40+00:00" ],
+          "uid" : [ "tag:twitter.com:kateconger" ],
+          "url" : [ "https://twitter.com/kateconger", "https://www.nytimes.com/by/kate-conger" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Parts of Twitter’s source code were leaked online. The company suspects a former employee is behind the breach. Scoop w/<a href=\"https://twitter.com/RMac18\">@RMac18</a> <a href=\"https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html\">nytimes.com/2023/03/26/tec…</a>",
+        "value" : "Parts of Twitter’s source code were leaked online. The company suspects a former employee is behind the breach. Scoop w/@RMac18 nytimes.com/2023/03/26/tec…"
+      } ],
+      "published" : [ "2023-03-26T22:07:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1640113300842360832" ],
+      "url" : [ "https://twitter.com/kateconger/status/1640113300842360832" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticurl.com/talent", "http://pragmaticurl.com/contact" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Things that make this source code leak dangerous for Twitter:\n\n1. Regulators can inspect, and potentially find cases when Twitter told them A, when the source code says B\n\n2. IP and patent challenges could come from third parties examining it\n\n3. Business logic exploits</div>",
+      "value" : "Things that make this source code leak dangerous for Twitter:\n\n1. Regulators can inspect, and potentially find cases when Twitter told them A, when the source code says B\n\n2. IP and patent challenges could come from third parties examining it\n\n3. Business logic exploits"
+    } ],
+    "published" : [ "2023-03-27T10:11:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1640295593464537088" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1640295593464537088" ]
+  },
+  "type" : [ "h-entry" ]
+}
