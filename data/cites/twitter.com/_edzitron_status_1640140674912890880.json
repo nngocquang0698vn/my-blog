@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Beautful Las Vegas Nevada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Zitron" ],
+        "nickname" : [ "edzitron" ],
+        "numeric-id" : [ "18359716" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595258177993351168/Kiw1x2Mw.jpg" ],
+        "published" : [ "2008-12-24T16:04:52+00:00" ],
+        "uid" : [ "tag:twitter.com:edzitron" ],
+        "url" : [ "https://twitter.com/edzitron", "http://www.ezpr.com", "http://ez.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Concerning\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RMac18\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kateconger\"></a>",
+      "value" : "Concerning"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kateconger/status/1640113300842360832" ],
+    "published" : [ "2023-03-26T23:56:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1640140674912890880" ],
+    "url" : [ "https://twitter.com/edzitron/status/1640140674912890880" ]
+  },
+  "type" : [ "h-entry" ]
+}
