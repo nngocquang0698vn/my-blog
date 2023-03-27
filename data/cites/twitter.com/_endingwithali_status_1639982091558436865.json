@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Switzerland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "tugy | Amforc" ],
+          "nickname" : [ "TugyTur" ],
+          "numeric-id" : [ "1015567357" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1639038944842055680/fgeRi27O.jpg" ],
+          "published" : [ "2012-12-16T16:27:34+00:00" ],
+          "uid" : [ "tag:twitter.com:TugyTur" ],
+          "url" : [ "https://twitter.com/TugyTur", "https://amforc.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Instructions were unclear, authenticated on this weird url\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/endingwithali\"></a>",
+        "value" : "Instructions were unclear, authenticated on this weird url"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/endingwithali/status/1639974891251269635" ],
+      "published" : [ "2023-03-26T13:06:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1639977116019163136" ],
+      "url" : [ "https://twitter.com/TugyTur/status/1639977116019163136" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "She / Her / ✡️" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ali" ],
+        "nickname" : [ "endingwithali" ],
+        "numeric-id" : [ "26898555" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399700937304858624/C1-U5q5X.jpg" ],
+        "published" : [ "2009-03-27T00:16:35+00:00" ],
+        "uid" : [ "tag:twitter.com:endingwithali" ],
+        "url" : [ "https://twitter.com/endingwithali", "http://ali.dev", "http://twitch.tv/endingwithali" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/tugytur/status/1639977116019163136\">twitter.com/tugytur/status…</a>",
+      "value" : "twitter.com/tugytur/status…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FsJjBN9WIAEAXQ7.jpg" ],
+    "published" : [ "2023-03-26T13:26:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1639982091558436865" ],
+    "url" : [ "https://twitter.com/endingwithali/status/1639982091558436865" ]
+  },
+  "type" : [ "h-entry" ]
+}
