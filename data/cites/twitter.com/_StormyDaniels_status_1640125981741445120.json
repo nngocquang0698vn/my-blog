@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Florida" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marcia Barnett" ],
+          "nickname" : [ "barnettgroup" ],
+          "numeric-id" : [ "22296372" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1426207632910692363/QeIE_k-K.jpg" ],
+          "published" : [ "2009-02-28T21:16:05+00:00" ],
+          "uid" : [ "tag:twitter.com:barnettgroup" ],
+          "url" : [ "https://twitter.com/barnettgroup", "http://www.barnettgroupinc.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "President Trump wouldn’t touch you with a 10ft pole.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/StormyDaniels\"></a>",
+        "value" : "President Trump wouldn’t touch you with a 10ft pole."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/StormyDaniels/status/1640089313709895682" ],
+      "published" : [ "2023-03-26T22:15:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1640115279479951362" ],
+      "url" : [ "https://twitter.com/barnettgroup/status/1640115279479951362" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "a tour bus & nightmares" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stormy Daniels" ],
+        "nickname" : [ "StormyDaniels" ],
+        "numeric-id" : [ "19910041" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1044287078769594368/YvQV0VsT.jpg" ],
+        "published" : [ "2009-02-02T14:56:10+00:00" ],
+        "uid" : [ "tag:twitter.com:StormyDaniels" ],
+        "url" : [ "https://twitter.com/StormyDaniels", "http://onlyfans.com/stormydaniels", "http://linktr.ee/StormyDaniels" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "True. He used a 3 inch one." ],
+    "published" : [ "2023-03-26T22:58:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1640125981741445120" ],
+    "url" : [ "https://twitter.com/StormyDaniels/status/1640125981741445120" ]
+  },
+  "type" : [ "h-entry" ]
+}
