@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Excluding files from git-diff" ],
+    "summary" : [ "I am tracking a project with git. There are some Xcode project files in the working copy that I want to keep tracking, but do not want to see in diffs, because there are always dozens of changed li..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/1016798/excluding-files-from-git-diff" ]
+  }
+}
