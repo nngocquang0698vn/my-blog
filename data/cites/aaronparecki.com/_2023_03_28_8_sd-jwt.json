@@ -1,0 +1,98 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "oauth", "ietf116" ],
+    "pk-num-likes" : [ "2" ],
+    "pk-num-reposts" : [ "2" ],
+    "photo" : [ "https://aaronparecki.com/img/1240x0/2023/03/28/8/photo.jpg" ],
+    "url" : [ "https://aaronparecki.com/2023/03/28/8/sd-jwt" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1640515337363017728", "https://micro.blog/aaronpk/17982835" ],
+    "published" : [ "2023-03-28T09:45:07+09:00" ],
+    "content" : [ {
+      "html" : "First <a href=\"https://aaronparecki.com/tag/ietf116\">#ietf116</a> session of the day is <a href=\"https://aaronparecki.com/tag/oauth\">#OAuth</a> complete with custom SD-JWT t-shirts <a href=\"https://aaronparecki.com/emoji/%F0%9F%98%82\" class=\"emoji\">😂</a>  <br> <br><a href=\"https://twitter.com/kristinayasuda\">@kristinayasuda</a> <a href=\"https://twitter.com/dfett42\">@dfett42</a>",
+      "value" : "First #ietf116 session of the day is #OAuth complete with custom SD-JWT t-shirts 😂\n\n@kristinayasuda @dfett42"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/emoji/aaronpk1367.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "西区" ],
+        "region" : [ "神奈川県" ],
+        "country" : [ "JPN" ]
+      },
+      "value" : "西区, 神奈川県, JPN"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://baraag.net/users/Satanist#likes/31839842" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "⛧Satanist⛧" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://baraag.net/users/Satanist" ]
+          },
+          "value" : "⛧Satanist⛧"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ⛧Satanist⛧"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.cologne/users/df#likes/570780" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "" ],
+            "url" : [ "https://social.cologne/users/df" ]
+          },
+          "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/AxelNennker/statuses/110098671261021021/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Axel Nennker" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/AxelNennker" ]
+          },
+          "value" : "Axel Nennker"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Axel Nennker"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.cologne/users/df/statuses/110098385622520589/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "" ],
+            "url" : [ "https://social.cologne/users/df" ]
+          },
+          "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+    } ]
+  },
+  "id" : "post-id-97610"
+}
