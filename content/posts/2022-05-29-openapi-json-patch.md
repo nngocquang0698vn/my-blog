@@ -53,6 +53,13 @@ components:
           type: string
         value:
           description: The value to add, replace or test.
+        op:
+          description: The operation to perform.
+          type: string
+          enum:
+            - add
+            - replace
+            - test
     JSONPatchRequestRemove:
       type: object
       additionalProperties: false
