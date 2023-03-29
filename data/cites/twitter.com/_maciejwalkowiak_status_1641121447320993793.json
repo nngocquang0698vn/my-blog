@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://maciejwalkowiak.com", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm still puzzled that there is no first-class support for OpenAPI spec in Spring Boot. \n\nWithout getting again into the conversation if OpenAPI is the right thing to do, realistically - this is the industry standard.</div>",
+      "value" : "I'm still puzzled that there is no first-class support for OpenAPI spec in Spring Boot. \n\nWithout getting again into the conversation if OpenAPI is the right thing to do, realistically - this is the industry standard."
+    } ],
+    "published" : [ "2023-03-29T16:53:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1641121447320993793" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1641121447320993793" ]
+  },
+  "type" : [ "h-entry" ]
+}
