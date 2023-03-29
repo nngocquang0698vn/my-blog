@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London (UTC)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Natalie Marleny" ],
+        "nickname" : [ "NatalieMarleny" ],
+        "numeric-id" : [ "759395244249124864" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1545518021619359752/44nDa6Py.jpg" ],
+        "published" : [ "2016-07-30T14:28:29+00:00" ],
+        "uid" : [ "tag:twitter.com:NatalieMarleny" ],
+        "url" : [ "https://twitter.com/NatalieMarleny", "https://nataliemarleny.com/blog", "http://indent.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">👀 \n\nI wouldn’t try and convince someone to move here as London is expensive, and there’s a very real divide in the experience between people who have inherited property here and those who haven’t.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulienuh\"></a>",
+      "value" : "👀 \n\nI wouldn’t try and convince someone to move here as London is expensive, and there’s a very real divide in the experience between people who have inherited property here and those who haven’t."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/paulienuh/status/1641060629032194049" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "London, England" ],
+        "uid" : [ "tag:twitter.com:5d838f7a011f4a2d" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2023-03-29T13:11:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1641065419984236544" ],
+    "url" : [ "https://twitter.com/NatalieMarleny/status/1641065419984236544" ]
+  },
+  "type" : [ "h-entry" ]
+}
