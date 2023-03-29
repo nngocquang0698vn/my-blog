@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Mark (@computerist@mastodon.social)" ],
+    "summary" : [ "OK, let's debate a definition. Today, let's talk about \"vulnerability\" in software.\n\nYour product, (let's call it A) uses a library (which we'll call X).\n\nX has a load of features. Among those is some function, \"someFunc\" which has a bug. It's supposed to be safe to call with untrusted data... but some clever researchers have found that they can craft input that results in remote code execution (RCE).\n\nX has a vulnerability. Does A?" ],
+    "url" : [ "https://mastodon.social/@computerist/110106189432376289" ]
+  }
+}
