@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "127.0.0.1" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Dev" ],
+          "nickname" : [ "TwitterDev" ],
+          "numeric-id" : [ "2244994945" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U.jpg" ],
+          "published" : [ "2013-12-14T04:35:55+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterDev" ],
+          "url" : [ "https://twitter.com/TwitterDev", "https://developer.twitter.com/en/community" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We are also launching a new Basic (v2) access for hobbyists with 10,000 GET/month and 50,000 POST/month, 2 app IDs, and Login with Twitter for $100/month. \n\nSubscribe now: <a href=\"https://developer.twitter.com/en/portal/products/basic\">developer.twitter.com/en/portal/prod…</a></div>",
+        "value" : "We are also launching a new Basic (v2) access for hobbyists with 10,000 GET/month and 50,000 POST/month, 2 app IDs, and Login with Twitter for $100/month. \n\nSubscribe now: developer.twitter.com/en/portal/prod…"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/TwitterDev/status/1641222783601631233" ],
+      "published" : [ "2023-03-29T23:36:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1641222784599879680" ],
+      "url" : [ "https://twitter.com/TwitterDev/status/1641222784599879680" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/twitterdev/sta…" ],
+      "url" : [ "https://twitter.com/twitterdev/status/1641222784599879680" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "WWW" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "APIs You Won't Hate" ],
+        "nickname" : [ "apisyouwonthate" ],
+        "numeric-id" : [ "3872196551" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163517307873837057/tV6D2Rq6.jpg" ],
+        "published" : [ "2015-10-05T15:28:25+00:00" ],
+        "uid" : [ "tag:twitter.com:apisyouwonthate" ],
+        "url" : [ "https://twitter.com/apisyouwonthate", "https://apisyouwonthate.com", "https://plnk.to/apisyouwonthate" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Which hobbyists have $100/month to muck about with the Twitter API? \n\nTwitter Ecosystem: brought to you by literally just trust fund baby hackers?</div>\n<a class=\"tag\" href=\"https://twitter.com/twitterdev/status/1641222784599879680\">twitter.com/twitterdev/sta…</a>",
+      "value" : "Which hobbyists have $100/month to muck about with the Twitter API? \n\nTwitter Ecosystem: brought to you by literally just trust fund baby hackers?"
+    } ],
+    "published" : [ "2023-03-30T08:57:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1641363914356031488" ],
+    "url" : [ "https://twitter.com/apisyouwonthate/status/1641363914356031488" ]
+  },
+  "type" : [ "h-entry" ]
+}
