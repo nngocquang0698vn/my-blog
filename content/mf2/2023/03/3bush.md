@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/719/myself-its-not-weird-at-all" ],
+    "listen-of" : [ "https://hanselminutes.com/719/myself-its-not-weird-at-all" ],
     "published" : [ "2023-03-28T07:19:08.885022133Z" ],
     "post-status" : [ "published" ]
   },
