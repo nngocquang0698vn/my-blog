@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Munich, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Preslav is on 🐘(@preslavrachev@mastodon.social)" ],
+        "nickname" : [ "preslavrachev" ],
+        "numeric-id" : [ "14154587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1595738121013977088/vX13gzKU.jpg" ],
+        "published" : [ "2008-03-15T21:10:41+00:00" ],
+        "uid" : [ "tag:twitter.com:preslavrachev" ],
+        "url" : [ "https://twitter.com/preslavrachev", "https://preslav.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Go doesn't like frameworks, and won't ever work well with frameworks. Just use the standard library.\"\n\n<a href=\"https://preslav.me/2023/03/23/where-is-the-spring-framework-for-golang/\">preslav.me/2023/03/23/whe…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitfield\"></a>",
+      "value" : "\"Go doesn't like frameworks, and won't ever work well with frameworks. Just use the standard library.\"\n\npreslav.me/2023/03/23/whe…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bitfield/status/1639209129297297411" ],
+    "published" : [ "2023-03-24T11:43:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1639231472509829120" ],
+    "url" : [ "https://twitter.com/preslavrachev/status/1639231472509829120" ]
+  },
+  "type" : [ "h-entry" ]
+}
