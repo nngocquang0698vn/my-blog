@@ -26,7 +26,7 @@ By using [the custom regex manager](https://docs.renovatebot.com/modules/manager
         ".sh$"
       ],
       "matchStrings": [
-        "go install (?<depName>[^@]+?)@(?<currentValue>[0-9.-a-zA-Z]+?)"
+        "go install (?<depName>[^@]+?)@(?<currentValue>[0-9.-a-zA-Z]+)"
       ],
       "datasourceTemplate": "go"
     }
