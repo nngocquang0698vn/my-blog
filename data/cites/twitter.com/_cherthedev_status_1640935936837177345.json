@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1640983882119122944/o2uqPhOz.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“I just want to be alone together”\n\n“I wasn’t ignoring you, I was not perceiving the outside world at all”</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dustychipura\"></a>",
+      "value" : "“I just want to be alone together”\n\n“I wasn’t ignoring you, I was not perceiving the outside world at all”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/dustychipura/status/1640760661343887361" ],
+    "published" : [ "2023-03-29T04:36:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1640935936837177345" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1640935936837177345" ]
+  },
+  "type" : [ "h-entry" ]
+}
