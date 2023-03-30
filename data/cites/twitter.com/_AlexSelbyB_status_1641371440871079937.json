@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Selby-Boothroyd" ],
+        "nickname" : [ "AlexSelbyB" ],
+        "numeric-id" : [ "2752062700" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/910265759850549248/gt0SDffP.jpg" ],
+        "published" : [ "2014-08-26T21:30:57+00:00" ],
+        "uid" : [ "tag:twitter.com:AlexSelbyB" ],
+        "url" : [ "https://twitter.com/AlexSelbyB", "https://www.economist.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Jontafkasi\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Jontafkasi/status/1641193954778697728" ],
+    "photo" : [ "https://pbs.twimg.com/media/FsdShlUWwAAr6lR.jpg", "https://pbs.twimg.com/media/FsdSmOBX0AEQYQL.png" ],
+    "published" : [ "2023-03-30T09:27:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1641371440871079937" ],
+    "url" : [ "https://twitter.com/AlexSelbyB/status/1641371440871079937" ]
+  },
+  "type" : [ "h-entry" ]
+}
