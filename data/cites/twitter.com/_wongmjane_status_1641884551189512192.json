@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hong Kong" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jane Manchun Wong" ],
+        "nickname" : [ "wongmjane" ],
+        "numeric-id" : [ "337119125" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608707742570786816/mhV1fpE2.jpg" ],
+        "published" : [ "2011-07-17T13:48:53+00:00" ],
+        "uid" : [ "tag:twitter.com:wongmjane" ],
+        "url" : [ "https://twitter.com/wongmjane", "https://wongmjane.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Twitter’s algorithm specifically labels whether the Tweet author is Elon Musk\n\n“author_is_elon”\n\nbesides the Democrat, Republican and “Power User” labels\n\n<a href=\"https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/decorator/HomeTweetTypePredicates.scala#L224-L246\">github.com/twitter/the-al…</a> <a href=\"https://twitter.com/i/web/status/1641884551189512192\">twitter.com/i/web/status/1…</a></div>",
+      "value" : "Twitter’s algorithm specifically labels whether the Tweet author is Elon Musk\n\n“author_is_elon”\n\nbesides the Democrat, Republican and “Power User” labels\n\ngithub.com/twitter/the-al… twitter.com/i/web/status/1…"
+    } ],
+    "photo" : [ {
+      "alt" : "from the source code:\n\n    (\n      \"author_is_elon\",\n      candidate =>\n        candidate\n          .getOrElse(AuthorIdFeature, None).contains(candidate.getOrElse(DDGStatsElonFeature, 0L))),\n    (\n      \"author_is_power_user\",\n      candidate =>\n        candidate\n          .getOrElse(AuthorIdFeature, None)\n          .exists(candidate.getOrElse(DDGStatsVitsFeature, Set.empty[Long]).contains)),\n    (\n      \"author_is_democrat\",\n      candidate =>\n        candidate\n          .getOrElse(AuthorIdFeature, None)\n          .exists(candidate.getOrElse(DDGStatsDemocratsFeature, Set.empty[Long]).contains)),\n    (\n      \"author_is_republican\",\n      candidate =>\n        candidate\n          .getOrElse(AuthorIdFeature, None)\n          .exists(candidate.getOrElse(DDGStatsRepublicansFeature, Set.empty[Long]).contains)),",
+      "value" : "https://pbs.twimg.com/media/Fskk5tTaUAEuobA.jpg"
+    } ],
+    "published" : [ "2023-03-31T19:25:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1641884551189512192" ],
+    "url" : [ "https://twitter.com/wongmjane/status/1641884551189512192" ]
+  },
+  "type" : [ "h-entry" ]
+}
