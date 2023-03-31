@@ -1,0 +1,212 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "travel" ],
+    "pk-num-likes" : [ "7" ],
+    "pk-num-replies" : [ "3" ],
+    "url" : [ "https://aaronparecki.com/2023/03/31/34/bubbly" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1641753078918713344", "https://micro.blog/aaronpk/18070700" ],
+    "published" : [ "2023-03-31T10:43:27+00:00" ],
+    "content" : [ {
+      "html" : "I've always thought I present pretty clearly as cisgender male, but this flight attendant just told me \"no ma'am\" when I asked if they had any sparkling wine on board <a href=\"https://aaronparecki.com/emoji/%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F\" class=\"emoji\">🤷‍♂️</a>",
+      "value" : "I've always thought I present pretty clearly as cisgender male, but this flight attendant just told me \"no ma'am\" when I asked if they had any sparkling wine on board 🤷‍♂️"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "American Airlines Flight 176 HND to DFW" ],
+        "country" : [ "JPN" ],
+        "url" : [ "https://aaronparecki.com/2023/03/31/1/" ]
+      },
+      "value" : "https://aaronparecki.com/2023/03/31/1/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.anaproy.nl/users/proycon#likes/2793" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "proycon" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.anaproy.nl/users/proycon" ]
+          },
+          "value" : "proycon"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png proycon"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://baraag.net/users/Satanist#likes/32008197" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "⛧Satanist⛧" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://baraag.net/users/Satanist" ]
+          },
+          "value" : "⛧Satanist⛧"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ⛧Satanist⛧"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/users/whalecoiner#likes/713109" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O'Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://indieweb.social/users/whalecoiner" ]
+          },
+          "value" : "Charlie O'Hara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O'Hara"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://norden.social/users/hmans#likes/3402530" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hendrik Mans 🐝" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://norden.social/users/hmans" ]
+          },
+          "value" : "Hendrik Mans 🐝"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Hendrik Mans 🐝"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1641753078918713344#favorited-by-1196681156831383557" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sunrise Water Media" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/SunriseWtrMedia" ]
+          },
+          "value" : "Sunrise Water Media"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Sunrise Water Media"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1641753078918713344#favorited-by-5166091" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dan Moore" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/mooreds" ]
+          },
+          "value" : "Dan Moore"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dan Moore"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1641753078918713344#favorited-by-14741448" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Vittorio" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/vibronet" ]
+          },
+          "value" : "Vittorio"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Vittorio"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/@whalecoiner/110117647477077517" ],
+        "published" : [ "2023-03-31T11:25:54+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> there *is* a low-grade feral lesbian vibe about you.</p>",
+          "value" : "@aaronpk there *is* a low-grade feral lesbian vibe about you."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Charlie O'Hara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://indieweb.social/users/whalecoiner" ]
+          },
+          "value" : "Charlie O'Hara"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Charlie O'Hara indieweb.social/users/whalecoiner\n@aaronpk there *is* a low-grade feral lesbian vibe about you. Fri, Mar 31, 2023 11:25am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/mbkriegh/18071093" ],
+        "published" : [ "2023-03-31T11:13:07+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/aaronpk\" rel=\"nofollow\">@aaronpk</a> a Freudian slip that puts sparkling wine in the feminine category?</p>",
+          "value" : "@aaronpk a Freudian slip that puts sparkling wine in the feminine category?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "mbkriegh" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/mbkriegh" ]
+          },
+          "value" : "mbkriegh"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png mbkriegh micro.blog/mbkriegh\n@aaronpk a Freudian slip that puts sparkling wine in the feminine category? Fri, Mar 31, 2023 11:13am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://aaronparecki.com/2023/03/31/35/" ],
+        "syndication" : [ "https://twitter.com/aaronpk/status/1641755159461249024" ],
+        "published" : [ "2023-03-31T10:47:23+00:00" ],
+        "content" : [ {
+          "html" : "But also wtf <a href=\"https://twitter.com/AmericanAir\" rel=\"nofollow\">@AmericanAir</a> what's the point in buying a Premium Economy ticket if you don't serve bubbly, and also ran out of the IPA that's on the menu before the plane even took off",
+          "value" : "But also wtf @AmericanAir what's the point in buying a Premium Economy ticket if you don't serve bubbly, and also ran out of the IPA that's on the menu before the plane even took off"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Parecki" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://aaronparecki.com/" ]
+          },
+          "value" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Parecki aaronparecki.com But also wtf @AmericanAir what's the point in buying a Premium Economy ticket if you don't serve bubbly, and also ran out of the IPA that's on the menu before the plane even took off Fri, Mar 31, 2023 10:47am +00:00"
+    } ]
+  },
+  "id" : "post-id-97754"
+}
