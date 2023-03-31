@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Czarcuterie Board of Insults 🇺🇦" ],
+        "nickname" : [ "pczarkowski" ],
+        "numeric-id" : [ "163997887" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/826231488286896128/rRCwQvRh.jpg" ],
+        "published" : [ "2010-07-07T19:59:49+00:00" ],
+        "uid" : [ "tag:twitter.com:pczarkowski" ],
+        "url" : [ "https://twitter.com/pczarkowski", "http://tech.paulcz.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "They don't respect a LICENSE.txt file in GitHub, why would they respect a robots file?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/joshrosso\"></a>",
+      "value" : "They don't respect a LICENSE.txt file in GitHub, why would they respect a robots file?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/joshrosso/status/1641476768967151617" ],
+    "published" : [ "2023-03-31T12:54:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1641785950828199936" ],
+    "url" : [ "https://twitter.com/pczarkowski/status/1641785950828199936" ]
+  },
+  "type" : [ "h-entry" ]
+}
