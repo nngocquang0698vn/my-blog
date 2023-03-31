@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "GitHub" ],
+        "nickname" : [ "github" ],
+        "numeric-id" : [ "13334762" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA.png" ],
+        "published" : [ "2008-02-11T04:41:50+00:00" ],
+        "uid" : [ "tag:twitter.com:github" ],
+        "url" : [ "https://twitter.com/github", "http://github.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We are open sourcing our own OSPO policies, tools, and guides to help other OSPOs get started. See how you can get started. <a href=\"https://github.blog/2023-03-13-an-open-source-project-to-empower-ospos-everywhere/\">github.blog/2023-03-13-an-…</a>",
+      "value" : "We are open sourcing our own OSPO policies, tools, and guides to help other OSPOs get started. See how you can get started. github.blog/2023-03-13-an-…"
+    } ],
+    "published" : [ "2023-03-31T12:07:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1641774091458732032" ],
+    "url" : [ "https://twitter.com/github/status/1641774091458732032" ]
+  },
+  "type" : [ "h-entry" ]
+}
