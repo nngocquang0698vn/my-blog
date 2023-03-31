@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/wongmjane/stat…" ],
+      "url" : [ "https://twitter.com/wongmjane/status/1641884551189512192" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, I guess" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Broderick" ],
+        "nickname" : [ "broderick" ],
+        "numeric-id" : [ "18205531" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1419661731324956678/XFT3yMLU.jpg" ],
+        "published" : [ "2008-12-18T01:29:08+00:00" ],
+        "uid" : [ "tag:twitter.com:broderick" ],
+        "url" : [ "https://twitter.com/broderick", "https://www.garbageday.email" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Musk being asked about this live on Spaces right now.\n\nSays “it shouldn’t be there.”\n\n“There’s a ton of stupid and embarrassing things being shown by making the code open source.”</div>\n<a class=\"tag\" href=\"https://twitter.com/wongmjane/status/1641884551189512192\">twitter.com/wongmjane/stat…</a>",
+      "value" : "Musk being asked about this live on Spaces right now.\n\nSays “it shouldn’t be there.”\n\n“There’s a ton of stupid and embarrassing things being shown by making the code open source.”"
+    } ],
+    "published" : [ "2023-03-31T19:56:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1641892314372100123" ],
+    "url" : [ "https://twitter.com/broderick/status/1641892314372100123" ]
+  },
+  "type" : [ "h-entry" ]
+}
