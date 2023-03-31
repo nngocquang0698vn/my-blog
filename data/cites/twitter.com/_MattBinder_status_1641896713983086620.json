@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matt Binder" ],
+          "nickname" : [ "MattBinder" ],
+          "numeric-id" : [ "14931637" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1177635972466515968/wagz7QQt.jpg" ],
+          "published" : [ "2008-05-28T07:59:20+00:00" ],
+          "uid" : [ "tag:twitter.com:MattBinder" ],
+          "url" : [ "https://twitter.com/MattBinder", "http://patreon.com/mattbinder", "http://ScamEconomy.com", "http://DOOMEDcast.com", "http://youtube.com/MattBinder", "http://misinfo.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Twitter's algorithm is specifically tracking tweet metrics for four groups:\n- power users\n- republicans\n- democrats\nand...\n- elon musk</div>",
+        "value" : "Twitter's algorithm is specifically tracking tweet metrics for four groups:\n- power users\n- republicans\n- democrats\nand...\n- elon musk"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fskv3bxX0AcIt4u.jpg" ],
+      "published" : [ "2023-03-31T20:12:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1641896208464597010" ],
+      "url" : [ "https://twitter.com/MattBinder/status/1641896208464597010" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Binder" ],
+        "nickname" : [ "MattBinder" ],
+        "numeric-id" : [ "14931637" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1177635972466515968/wagz7QQt.jpg" ],
+        "published" : [ "2008-05-28T07:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:MattBinder" ],
+        "url" : [ "https://twitter.com/MattBinder", "http://patreon.com/mattbinder", "http://ScamEconomy.com", "http://DOOMEDcast.com", "http://youtube.com/MattBinder", "http://misinfo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">elon was asked about this on Twitter Spaces and he said \"this is the first time i'm seeing this\" and said they  should change it\n\nhe also decided that the person who asked him about it would be the last speaker and ended the Space right after </div>",
+      "value" : "elon was asked about this on Twitter Spaces and he said \"this is the first time i'm seeing this\" and said they  should change it\n\nhe also decided that the person who asked him about it would be the last speaker and ended the Space right after "
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MattBinder/status/1641896208464597010" ],
+    "published" : [ "2023-03-31T20:14:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1641896713983086620" ],
+    "url" : [ "https://twitter.com/MattBinder/status/1641896713983086620" ]
+  },
+  "type" : [ "h-entry" ]
+}
