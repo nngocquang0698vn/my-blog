@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "connor" ],
+        "nickname" : [ "connor_soup" ],
+        "numeric-id" : [ "403847070" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1593327020993384448/pT1zfTid.jpg" ],
+        "published" : [ "2011-11-03T02:35:13+00:00" ],
+        "uid" : [ "tag:twitter.com:connor_soup" ],
+        "url" : [ "https://twitter.com/connor_soup" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "been dying at this 4 second video for like 15 min now" ],
+    "published" : [ "2023-03-29T04:02:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1640927476086865923" ],
+    "url" : [ "https://twitter.com/connor_soup/status/1640927476086865923" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1640927430922706945/pu/vid/886x712/QQ8VA6JxZGGSB_Ys.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
