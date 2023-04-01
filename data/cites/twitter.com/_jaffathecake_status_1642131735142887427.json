@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Haywards Heath" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake Archibald" ],
+        "nickname" : [ "jaffathecake" ],
+        "numeric-id" : [ "15390783" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1695239906/me.jpg" ],
+        "published" : [ "2008-07-11T12:42:42+00:00" ],
+        "uid" : [ "tag:twitter.com:jaffathecake" ],
+        "url" : [ "https://twitter.com/jaffathecake", "http://www.jakearchibald.com", "https://mastodon.social/@jaffathecake" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Co-op" ],
+    "in-reply-to" : [ "https://twitter.com/jaffathecake/status/1641522489560801291" ],
+    "photo" : [ {
+      "alt" : "A black cat sitting on my knee, with a paw on my hand, which is holding a PS5 controller",
+      "value" : "https://pbs.twimg.com/media/FsoGG-yWIAAo8C1.jpg"
+    } ],
+    "published" : [ "2023-04-01T11:48:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1642131735142887427" ],
+    "url" : [ "https://twitter.com/jaffathecake/status/1642131735142887427" ]
+  },
+  "type" : [ "h-entry" ]
+}
