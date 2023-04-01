@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denmark" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "George Gilliatt" ],
+        "nickname" : [ "GeorgeGilliatt" ],
+        "numeric-id" : [ "1075056716" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335825577060823040/swj74GJL.jpg" ],
+        "published" : [ "2013-01-09T22:22:00+00:00" ],
+        "uid" : [ "tag:twitter.com:GeorgeGilliatt" ],
+        "url" : [ "https://twitter.com/GeorgeGilliatt", "http://instagram.com/georgegilliatt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LEGO_Group\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/LEGO_Group/status/1642074591559335936" ],
+    "photo" : [ "https://pbs.twimg.com/media/FsnTNPoX0AIEBah.jpg" ],
+    "published" : [ "2023-04-01T08:05:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1642075768413904896" ],
+    "url" : [ "https://twitter.com/GeorgeGilliatt/status/1642075768413904896" ]
+  },
+  "type" : [ "h-entry" ]
+}
