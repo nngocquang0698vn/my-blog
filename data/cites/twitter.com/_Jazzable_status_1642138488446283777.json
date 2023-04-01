@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NBG-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Just Jazz" ],
+        "nickname" : [ "Jazzable" ],
+        "numeric-id" : [ "18134260" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1591014356430606336/y1TetdPG.jpg" ],
+        "published" : [ "2008-12-15T10:09:27+00:00" ],
+        "uid" : [ "tag:twitter.com:Jazzable" ],
+        "url" : [ "https://twitter.com/Jazzable" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Rogue one.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rstevens\"></a>",
+      "value" : "Rogue one."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rstevens/status/1642138077131939841" ],
+    "published" : [ "2023-04-01T12:14:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1642138488446283777" ],
+    "url" : [ "https://twitter.com/Jazzable/status/1642138488446283777" ]
+  },
+  "type" : [ "h-entry" ]
+}
