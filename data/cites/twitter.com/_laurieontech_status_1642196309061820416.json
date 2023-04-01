@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There is a difference between open source and “make public”" ],
+    "published" : [ "2023-04-01T16:04:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1642196309061820416" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1642196309061820416" ]
+  },
+  "type" : [ "h-entry" ]
+}
