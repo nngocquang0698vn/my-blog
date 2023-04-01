@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@AlSweigart@mastodon.social" ],
+        "nickname" : [ "AlSweigart" ],
+        "numeric-id" : [ "14738418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1615838444877488158/7IQE7ZN_.jpg" ],
+        "published" : [ "2008-05-12T00:22:27+00:00" ],
+        "uid" : [ "tag:twitter.com:AlSweigart" ],
+        "url" : [ "https://twitter.com/AlSweigart", "https://inventwithpython.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Samantha doesn't feel safe enough around you to tell you herself." ],
+    "photo" : [ "https://pbs.twimg.com/media/FsmWlAHXoAAcqBH.png" ],
+    "published" : [ "2023-04-01T03:42:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1642009389174345731" ],
+    "url" : [ "https://twitter.com/AlSweigart/status/1642009389174345731" ]
+  },
+  "type" : [ "h-entry" ]
+}
