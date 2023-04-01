@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Southern California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ron James" ],
+        "nickname" : [ "digitMusic" ],
+        "numeric-id" : [ "592231281" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2255648546/ron.jpg" ],
+        "published" : [ "2012-05-27T21:20:25+00:00" ],
+        "uid" : [ "tag:twitter.com:digitMusic" ],
+        "url" : [ "https://twitter.com/digitMusic", "https://digit.sourceaudio.com/#!albums" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Busy counting money, get back to you later.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ZoeSchiffer\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jack\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/runasand\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sheeraf\"></a>",
+      "value" : "Busy counting money, get back to you later."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/runasand/status/1641876499811688463" ],
+    "published" : [ "2023-03-31T19:41:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1641888579663060992" ],
+    "url" : [ "https://twitter.com/digitMusic/status/1641888579663060992" ]
+  },
+  "type" : [ "h-entry" ]
+}
