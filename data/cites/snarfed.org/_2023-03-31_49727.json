@@ -1,0 +1,235 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2023-03-31_49727" ],
+    "syndication" : [ "https://fed.brid.gy/user/snarfed.org", "https://twitter.com/schnarfed/status/1641884365637709824", "https://fed.brid.gy/user/snarfed.org", "https://twitter.com/schnarfed/status/1641884365637709824" ],
+    "published" : [ "2023-03-31T12:26:49-07:00" ],
+    "content" : [ {
+      "html" : "<p>Amidst all the excitement around <a href=\"https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm\">Twitter open sourcing its “algorithm,”</a> one bit is easy to miss: <a href=\"https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/COPYING\">they licensed it as AGPL</a>. That means anyone else who uses it will have to open source their code too, even cloud-based web sites and services, but Twitter themselves are under no such obligation to open source the rest of <em>their</em> code. Clever!</p>",
+      "value" : "Amidst all the excitement around Twitter open sourcing its “algorithm,” one bit is easy to miss: they licensed it as AGPL. That means anyone else who uses it will have to open source their code too, even cloud-based web sites and services, but Twitter themselves are under no such obligation to open source the rest of their code. Clever!",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://jamesg.coffee/2023/snarfedorg-10" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "James' Coffee Blog" ],
+            "url" : [ "https://jamesg.coffee/profile/capjamesg" ]
+          },
+          "lang" : "en-US",
+          "value" : "James' Coffee Blog"
+        } ]
+      },
+      "id" : "comment-2862310",
+      "lang" : "en-US",
+      "value" : "https://jamesg.coffee/2023/snarfedorg-10"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-1123686164" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Abhishek Tripathi" ],
+            "url" : [ "https://twitter.com/twistin456" ]
+          },
+          "lang" : "en-US",
+          "value" : "Abhishek Tripathi"
+        } ]
+      },
+      "id" : "comment-2862291",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-1123686164"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-776387671" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Noah: @Nezteb@micro.blog" ],
+            "url" : [ "https://twitter.com/Nezteb" ]
+          },
+          "lang" : "en-US",
+          "value" : "Noah: @Nezteb@micro.blog"
+        } ]
+      },
+      "id" : "comment-2862286",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-776387671"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-260959249" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Katsuya" ],
+            "url" : [ "https://twitter.com/kn" ]
+          },
+          "lang" : "en-US",
+          "value" : "Katsuya"
+        } ]
+      },
+      "id" : "comment-2862281",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-260959249"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-536965103" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Brett Slatkin" ],
+            "url" : [ "https://twitter.com/haxor" ]
+          },
+          "lang" : "en-US",
+          "value" : "Brett Slatkin"
+        } ]
+      },
+      "id" : "comment-2862279",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-536965103"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-17607249" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "📦🛠👷🏻‍♂️Sean Larkin" ],
+            "url" : [ "https://twitter.com/TheLarkInn" ]
+          },
+          "lang" : "en-US",
+          "value" : "📦🛠👷🏻‍♂️Sean Larkin"
+        } ]
+      },
+      "id" : "comment-2862277",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-17607249"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-3236835803" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sopporto tecnico" ],
+            "url" : [ "https://twitter.com/sopportotecnico" ]
+          },
+          "lang" : "en-US",
+          "value" : "Sopporto tecnico"
+        } ]
+      },
+      "id" : "comment-2862275",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-3236835803"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-7312842" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "nicolas" ],
+            "url" : [ "https://twitter.com/nicolascluz" ]
+          },
+          "lang" : "en-US",
+          "value" : "nicolas"
+        } ]
+      },
+      "id" : "comment-2862274",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/schnarfed/status/1641884365637709824#favorited-by-7312842"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/twistin456/status/1642010389171822592" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Abhishek Tripathi" ],
+            "url" : [ "https://twitter.com/twistin456" ]
+          },
+          "lang" : "en-US",
+          "value" : "Abhishek Tripathi"
+        } ]
+      },
+      "id" : "comment-2862292",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/twistin456/status/1642010389171822592"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/TheLarkInn/status/1641890770595774465" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "📦🛠👷🏻‍♂️Sean Larkin" ],
+            "url" : [ "https://twitter.com/TheLarkInn" ]
+          },
+          "lang" : "en-US",
+          "value" : "📦🛠👷🏻‍♂️Sean Larkin"
+        } ]
+      },
+      "id" : "comment-2862276",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/TheLarkInn/status/1641890770595774465"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/nicolascluz/status/1641887835585237002" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "nicolas" ],
+            "url" : [ "https://twitter.com/nicolascluz" ]
+          },
+          "lang" : "en-US",
+          "value" : "nicolas"
+        } ]
+      },
+      "id" : "comment-2862273",
+      "lang" : "en-US",
+      "value" : "https://twitter.com/nicolascluz/status/1641887835585237002"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
