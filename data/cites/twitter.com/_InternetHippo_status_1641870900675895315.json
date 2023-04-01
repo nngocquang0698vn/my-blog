@@ -1,0 +1,45 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Mark Cuban" ],
+          "nickname" : [ "mcuban" ],
+          "numeric-id" : [ "16228398" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1422637130/mccigartrophy.jpg" ],
+          "published" : [ "2008-09-10T21:12:01+00:00" ],
+          "uid" : [ "tag:twitter.com:mcuban" ],
+          "url" : [ "https://twitter.com/mcuban", "https://costplusdrugs.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<a href=\"https://twitter.com/elonmusk\">@elonmusk</a> , question for you. I'm losing about 500 to 1k users a day. To counter this I went Blue² thinking it gave me some preference and would help retain or grow users.  Any suggestions ?",
+        "value" : "@elonmusk , question for you. I'm losing about 500 to 1k users a day. To counter this I went Blue² thinking it gave me some preference and would help retain or grow users.  Any suggestions ?"
+      } ],
+      "published" : [ "2023-03-31T01:49:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1641618710317223936" ],
+      "url" : [ "https://twitter.com/mcuban/status/1641618710317223936" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Mr. Bedtime" ],
+        "nickname" : [ "InternetHippo" ],
+        "numeric-id" : [ "19638752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608921145864237061/6jLuKzve.jpg" ],
+        "published" : [ "2009-01-28T06:01:15+00:00" ],
+        "uid" : [ "tag:twitter.com:InternetHippo" ],
+        "url" : [ "https://twitter.com/InternetHippo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FskY4TgWYAwM8ob.jpg" ],
+    "published" : [ "2023-03-31T18:31:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1641870900675895315" ],
+    "url" : [ "https://twitter.com/InternetHippo/status/1641870900675895315" ]
+  },
+  "type" : [ "h-entry" ]
+}
