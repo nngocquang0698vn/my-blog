@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "CNY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Boudreau" ],
+        "nickname" : [ "iboudreau" ],
+        "numeric-id" : [ "40146181" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1608985074149593088/JLoGh0K4.jpg" ],
+        "published" : [ "2009-05-15T01:49:36+00:00" ],
+        "uid" : [ "tag:twitter.com:iboudreau" ],
+        "url" : [ "https://twitter.com/iboudreau", "https://www.ianboudreau.com", "http://linktr.ee/iboudreau" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just a brutally sad way to live your life" ],
+    "photo" : [ "https://pbs.twimg.com/media/FssAORgXgAElxAW.jpg" ],
+    "published" : [ "2023-04-02T06:00:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1642406736014331905" ],
+    "url" : [ "https://twitter.com/iboudreau/status/1642406736014331905" ]
+  },
+  "type" : [ "h-entry" ]
+}
