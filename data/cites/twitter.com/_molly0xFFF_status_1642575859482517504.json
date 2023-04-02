@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Edwin K" ],
+          "nickname" : [ "edwk" ],
+          "numeric-id" : [ "9291212" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1622081820845301760/KxnLN5Fs.jpg" ],
+          "published" : [ "2007-10-07T10:02:20+00:00" ],
+          "uid" : [ "tag:twitter.com:edwk" ],
+          "url" : [ "https://twitter.com/edwk", "http://feedly.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You also asked: \"Can this be used against unions organizing protests against their company?\" This is not a use case we have seen. We are going to do more research next week and determine if organizations rely on news and journalists to discover strikes.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PCMag\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/molly0xFFF\"></a>",
+        "value" : "You also asked: \"Can this be used against unions organizing protests against their company?\" This is not a use case we have seen. We are going to do more research next week and determine if organizations rely on news and journalists to discover strikes."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/edwk/status/1642571767431704576" ],
+      "published" : [ "2023-04-02T17:03:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1642573576112046080" ],
+      "url" : [ "https://twitter.com/edwk/status/1642573576112046080" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@molly0xfff@hachyderm.io" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly White" ],
+        "nickname" : [ "molly0xFFF" ],
+        "numeric-id" : [ "545445165" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1624591082494255104/BqIgOsLt.jpg" ],
+        "published" : [ "2012-04-04T19:00:12+00:00" ],
+        "uid" : [ "tag:twitter.com:molly0xFFF" ],
+        "url" : [ "https://twitter.com/molly0xFFF", "https://www.mollywhite.net/linktree", "http://newsletter.mollywhite.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">no, i didn't ask that, because i already know that it can.\n\nwhy wouldn't you research this BEFORE you released the tool? why would you publish a blog post advertising the tool that shows how it characterizes a union strike as a \"risky protest\"?</div>",
+      "value" : "no, i didn't ask that, because i already know that it can.\n\nwhy wouldn't you research this BEFORE you released the tool? why would you publish a blog post advertising the tool that shows how it characterizes a union strike as a \"risky protest\"?"
+    } ],
+    "published" : [ "2023-04-02T17:12:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1642575859482517504" ],
+    "url" : [ "https://twitter.com/molly0xFFF/status/1642575859482517504" ]
+  },
+  "type" : [ "h-entry" ]
+}
