@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tomasz Gałkowski" ],
+        "nickname" : [ "tkg_codes" ],
+        "numeric-id" : [ "409798253" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469690486893993984/lqFQFv6p.jpg" ],
+        "published" : [ "2011-11-11T07:14:20+00:00" ],
+        "uid" : [ "tag:twitter.com:tkg_codes" ],
+        "url" : [ "https://twitter.com/tkg_codes", "https://tkg.codes", "http://tkg.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Elon had no clue how \"algorithm\" works but promised to open-source it. In order to not look like a bellend he open-sourced whatever just to claim \"see, I did it!\".\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+      "value" : "Elon had no clue how \"algorithm\" works but promised to open-source it. In order to not look like a bellend he open-sourced whatever just to claim \"see, I did it!\"."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1642228019963019271" ],
+    "published" : [ "2023-04-02T07:16:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1642425811092242434" ],
+    "url" : [ "https://twitter.com/tkg_codes/status/1642425811092242434" ]
+  },
+  "type" : [ "h-entry" ]
+}
