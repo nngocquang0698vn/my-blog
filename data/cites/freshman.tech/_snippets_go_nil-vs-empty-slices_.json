@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The difference between nil and empty slices in Go" ],
+    "summary" : [ "The difference between nil and empty slices are a common point of confusion for newbies to Go. This post discusses how they differ and when to use each one." ],
+    "featured" : [ "https://ik.imagekit.io/freshman/Freshman-Banner-1000_nXNEaFNh8.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ayooluwa Isaiah" ]
+      }
+    } ],
+    "url" : [ "https://freshman.tech/snippets/go/nil-vs-empty-slices/" ],
+    "published" : [ "2023-01-23 21:11:37 +0100 +0100" ]
+  }
+}
