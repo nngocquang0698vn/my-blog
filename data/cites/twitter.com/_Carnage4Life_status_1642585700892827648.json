@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Crowsa Luxemburg" ],
+          "nickname" : [ "quendergeer" ],
+          "numeric-id" : [ "845709985" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1568892935093063687/ItqwaQ9b.jpg" ],
+          "published" : [ "2012-09-25T15:15:21+00:00" ],
+          "uid" : [ "tag:twitter.com:quendergeer" ],
+          "url" : [ "https://twitter.com/quendergeer", "http://quendergeer.wordpress.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "i have to hand it to them, \"twitter staff have to remove legacy checkmarks manually one by one\" is a bit i couldn't have come up with in my wildest imaginings" ],
+      "published" : [ "2023-04-02T09:17:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1642456239433973760" ],
+      "url" : [ "https://twitter.com/quendergeer/status/1642456239433973760" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dare Obasanjo" ],
+        "nickname" : [ "Carnage4Life" ],
+        "numeric-id" : [ "11336782" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp.jpg" ],
+        "published" : [ "2007-12-19T14:55:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Carnage4Life" ],
+        "url" : [ "https://twitter.com/Carnage4Life", "https://mas.to/@carnage4life" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">According to leaks, Twitter’s verification system doesn’t support mass deletion of legacy blue checks which is actually understandable.\n\nWhy would you need to design the need to bulk unverify all the verified users in the system? No one anticipated the whims of a genius CEO.</div>",
+      "value" : "According to leaks, Twitter’s verification system doesn’t support mass deletion of legacy blue checks which is actually understandable.\n\nWhy would you need to design the need to bulk unverify all the verified users in the system? No one anticipated the whims of a genius CEO."
+    } ],
+    "published" : [ "2023-04-02T17:52:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1642585700892827648" ],
+    "url" : [ "https://twitter.com/Carnage4Life/status/1642585700892827648" ]
+  },
+  "type" : [ "h-entry" ]
+}
