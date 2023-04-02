@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pete Forester 🇺🇸" ],
+        "nickname" : [ "pete_forester" ],
+        "numeric-id" : [ "105393023" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1027289202076131328/DEQdn3C5.jpg" ],
+        "published" : [ "2010-01-16T06:12:24+00:00" ],
+        "uid" : [ "tag:twitter.com:pete_forester" ],
+        "url" : [ "https://twitter.com/pete_forester", "https://www.peteforester.com/screenwriting" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Going to guess she spent as much time showing her son love as she did making this sign. Which is to say: she phoned it in and assumed the least she could do would be the most anyone would ever need.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JeanRhys____\"></a>",
+      "value" : "Going to guess she spent as much time showing her son love as she did making this sign. Which is to say: she phoned it in and assumed the least she could do would be the most anyone would ever need."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JeanRhys____/status/1642555572019949571" ],
+    "published" : [ "2023-04-02T18:08:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1642589952029384706" ],
+    "url" : [ "https://twitter.com/pete_forester/status/1642589952029384706" ]
+  },
+  "type" : [ "h-entry" ]
+}
