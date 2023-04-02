@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Philip Bump" ],
+        "nickname" : [ "pbump" ],
+        "numeric-id" : [ "950531" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1554893308790546434/Gg2fE0f6.jpg" ],
+        "published" : [ "2007-03-11T19:58:10+00:00" ],
+        "uid" : [ "tag:twitter.com:pbump" ],
+        "url" : [ "https://twitter.com/pbump", "http://pbump.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is *such* a tell. The beauty of Twitter (and of blogging for that matter) was that random interesting things might be elevated, might *become* popular.\n\nIt is not a how-cool-am-I popularity contest.</div>",
+      "value" : "This is *such* a tell. The beauty of Twitter (and of blogging for that matter) was that random interesting things might be elevated, might *become* popular.\n\nIt is not a how-cool-am-I popularity contest."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FstRmoLWIAAVjb1.jpg" ],
+    "published" : [ "2023-04-02T11:56:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1642496217077764097" ],
+    "url" : [ "https://twitter.com/pbump/status/1642496217077764097" ]
+  },
+  "type" : [ "h-entry" ]
+}
