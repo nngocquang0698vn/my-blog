@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Ethiopia | Ireland " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Abeba Birhane" ],
+          "nickname" : [ "Abebab" ],
+          "numeric-id" : [ "229005889" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1464724805089959945/a_yDX4ZA.jpg" ],
+          "published" : [ "2010-12-21T07:57:57+00:00" ],
+          "uid" : [ "tag:twitter.com:Abebab" ],
+          "url" : [ "https://twitter.com/Abebab", "https://abebabirhane.github.io/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">aii, let's do this... AI/ML version \n\nwhat’s your critical hot take on AI/ML that would have you in this position</div>",
+        "value" : "aii, let's do this... AI/ML version \n\nwhat’s your critical hot take on AI/ML that would have you in this position"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FsuCkpaWIAAJXWT.jpg" ],
+      "published" : [ "2023-04-02T15:32:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1642550494265589761" ],
+      "url" : [ "https://twitter.com/Abebab/status/1642550494265589761" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/abebab/status/…" ],
+      "url" : [ "https://twitter.com/abebab/status/1642550494265589761" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "have you *seen* these guys? what about them and their behavior suggests that they are to be trusted with your or any data\n<a class=\"tag\" href=\"https://twitter.com/abebab/status/1642550494265589761\">twitter.com/abebab/status/…</a>",
+      "value" : "have you *seen* these guys? what about them and their behavior suggests that they are to be trusted with your or any data"
+    } ],
+    "published" : [ "2023-04-02T18:01:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1642588192028213249" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1642588192028213249" ]
+  },
+  "type" : [ "h-entry" ]
+}
