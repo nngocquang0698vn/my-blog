@@ -2,8 +2,14 @@
   "type" : [ "h-entry" ],
   "properties" : {
     "name" : [ "sq" ],
-    "summary" : [ "sq is for wrangling data" ],
-    "featured" : [ "https://sq.io/doks.png" ],
-    "url" : [ "https://sq.io/" ]
-  }
+    "url" : [ "https://sq.io/" ],
+    "uid" : [ "https://sq.io/" ],
+    "published" : [ "2023-03-30 11:10:21" ],
+    "content" : [ {
+      "html" : "<p>Like jq but for postgres databases (or sqlserver, csv or even xlsx).</p>\n<p>What's neat is that you register a database with the system, then you can query against that particular database.</p>\n<p>Very nice that I can use this on the command line and then pipe into <code>jq</code> for more data manip.</p>\n<p><em>Source: <a href=\"https://sq.io/\">sq.io</a></em></p>",
+      "value" : "Like jq but for postgres databases (or sqlserver, csv or even xlsx).\nWhat's neat is that you register a database with the system, then you can query against that particular database.\nVery nice that I can use this on the command line and then pipe into jq for more data manip.\nSource: sq.io",
+      "lang" : "en"
+    } ]
+  },
+  "lang" : "en"
 }

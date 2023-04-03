@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "sq" ],
+    "summary" : [ "sq" ],
+    "featured" : [ "https://remysharp.com/images/cards/8.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Remy Sharp" ]
+      }
+    } ],
+    "url" : [ "https://remysharp.com/links/2023-03-30-75858f69" ]
+  }
+}
