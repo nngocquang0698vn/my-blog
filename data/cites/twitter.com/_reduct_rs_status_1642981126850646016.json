@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "your compiler warnings" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ReductRs" ],
+        "nickname" : [ "reduct_rs" ],
+        "numeric-id" : [ "1060299146546958337" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1060309100028784640/AoC1a04b.jpg" ],
+        "published" : [ "2018-11-07T22:33:10+00:00" ],
+        "uid" : [ "tag:twitter.com:reduct_rs" ],
+        "url" : [ "https://twitter.com/reduct_rs", "http://reduct.rs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Bjarne Stroustrup Announces Null Pointers Were Literally Just a Bit" ],
+    "published" : [ "2023-04-03T20:03:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1642981126850646016" ],
+    "url" : [ "https://twitter.com/reduct_rs/status/1642981126850646016" ]
+  },
+  "type" : [ "h-entry" ]
+}
