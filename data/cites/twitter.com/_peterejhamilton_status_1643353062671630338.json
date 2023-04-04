@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pete Hamilton" ],
+        "nickname" : [ "peterejhamilton" ],
+        "numeric-id" : [ "30989114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436358943366950914/kX83nsXS.jpg" ],
+        "published" : [ "2009-04-13T23:18:04+00:00" ],
+        "uid" : [ "tag:twitter.com:peterejhamilton" ],
+        "url" : [ "https://twitter.com/peterejhamilton", "https://incident.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Someone just asked me \"what does your incident count look like over this\". Pretty interesting! 👀\n\nIntuitively, they correlate — more change generally means a higher change failure rate, something to acknowledge, embrace and track 📊</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/incident_io\"></a>",
+      "value" : "Someone just asked me \"what does your incident count look like over this\". Pretty interesting! 👀\n\nIntuitively, they correlate — more change generally means a higher change failure rate, something to acknowledge, embrace and track 📊"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/peterejhamilton/status/1643329150747279360" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fs5Z8ZcWwAMdUa_.jpg" ],
+    "published" : [ "2023-04-04T20:41:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1643353062671630338" ],
+    "url" : [ "https://twitter.com/peterejhamilton/status/1643353062671630338" ]
+  },
+  "type" : [ "h-entry" ]
+}
