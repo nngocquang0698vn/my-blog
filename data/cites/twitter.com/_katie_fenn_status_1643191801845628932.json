@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sheffield" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Fenn" ],
+        "nickname" : [ "katie_fenn" ],
+        "numeric-id" : [ "14979616" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1604082685642686472/Lh4emaYz.jpg" ],
+        "published" : [ "2008-06-02T12:02:44+00:00" ],
+        "uid" : [ "tag:twitter.com:katie_fenn" ],
+        "url" : [ "https://twitter.com/katie_fenn", "http://front-end.social/web/@katiefenn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Doesn’t work when the CTO interviewed you while they themselves were draped in cats 😂\n\n(Though seriously, she was very nice and totally understood this excuse when a couple of minutes late to a meeting)</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rem\"></a>",
+      "value" : "Doesn’t work when the CTO interviewed you while they themselves were draped in cats 😂\n\n(Though seriously, she was very nice and totally understood this excuse when a couple of minutes late to a meeting)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rem/status/1643184156422160385" ],
+    "published" : [ "2023-04-04T10:00:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1643191801845628932" ],
+    "url" : [ "https://twitter.com/katie_fenn/status/1643191801845628932" ]
+  },
+  "type" : [ "h-entry" ]
+}
