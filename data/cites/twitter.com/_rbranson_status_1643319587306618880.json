@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mission, San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rick branson (rip human hustle)" ],
+        "nickname" : [ "rbranson" ],
+        "numeric-id" : [ "5264791" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1601632989670039552/VkBjFfMb.jpg" ],
+        "published" : [ "2007-04-19T20:39:30+00:00" ],
+        "uid" : [ "tag:twitter.com:rbranson" ],
+        "url" : [ "https://twitter.com/rbranson", "https://rickbranson.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "according to this, using redis makes you a -10x engineer" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fs4-Ah-aMAAsxPv.jpg" ],
+    "published" : [ "2023-04-04T18:28:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1643319587306618880" ],
+    "url" : [ "https://twitter.com/rbranson/status/1643319587306618880" ]
+  },
+  "type" : [ "h-entry" ]
+}
