@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hell" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shibetoshi Nakamoto" ],
+        "nickname" : [ "BillyM2k" ],
+        "numeric-id" : [ "30699048" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1641186477563600897/Yx-bMv18.jpg" ],
+        "published" : [ "2009-04-12T18:54:20+00:00" ],
+        "uid" : [ "tag:twitter.com:BillyM2k" ],
+        "url" : [ "https://twitter.com/BillyM2k", "https://www.billym2k.net", "http://billym2k.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "why tho\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DiscussingFilm\"></a>",
+      "value" : "why tho"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/DiscussingFilm/status/1643035502570876928" ],
+    "published" : [ "2023-04-04T00:03:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1643041492188160000" ],
+    "url" : [ "https://twitter.com/BillyM2k/status/1643041492188160000" ]
+  },
+  "type" : [ "h-entry" ]
+}
