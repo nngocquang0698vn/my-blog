@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Corn" ],
+          "nickname" : [ "DavidCornDC" ],
+          "numeric-id" : [ "15220768" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/431276795216678912/K9GgLuad.png" ],
+          "published" : [ "2008-06-24T15:58:28+00:00" ],
+          "uid" : [ "tag:twitter.com:DavidCornDC" ],
+          "url" : [ "https://twitter.com/DavidCornDC", "http://www.motherjones.com", "http://davidcorn.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "A “Trump or Death” flag. Who says it’s not a cult? <a href=\"https://twitter.com/search?q=%23Trump\">#Trump</a> <a href=\"https://twitter.com/search?q=%23TrumpArraignment\">#TrumpArraignment</a>",
+        "value" : "A “Trump or Death” flag. Who says it’s not a cult? #Trump #TrumpArraignment"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fs4HyTqXsAALAmB.jpg" ],
+      "published" : [ "2023-04-04T14:29:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1643259589129916416" ],
+      "url" : [ "https://twitter.com/DavidCornDC/status/1643259589129916416" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kokomo" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ham Elliot" ],
+        "nickname" : [ "r0wdy_" ],
+        "numeric-id" : [ "2185274887" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1636551406608871424/dnUStfxL.jpg" ],
+        "published" : [ "2013-11-10T00:15:43+00:00" ],
+        "uid" : [ "tag:twitter.com:r0wdy_" ],
+        "url" : [ "https://twitter.com/r0wdy_" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/davidcorndc/status/1643259589129916416\">twitter.com/davidcorndc/st…</a>",
+      "value" : "twitter.com/davidcorndc/st…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fs4L4WCWcAAHD-1.jpg" ],
+    "published" : [ "2023-04-04T14:47:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1643263979785973760" ],
+    "url" : [ "https://twitter.com/r0wdy_/status/1643263979785973760" ]
+  },
+  "type" : [ "h-entry" ]
+}
