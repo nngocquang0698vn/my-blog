@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "No Lie with Brian Tyler Cohen" ],
+          "nickname" : [ "NoLieWithBTC" ],
+          "numeric-id" : [ "1268223690480615424" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1362883469077020677/H8V5ANco.jpg" ],
+          "published" : [ "2020-06-03T16:51:35+00:00" ],
+          "uid" : [ "tag:twitter.com:NoLieWithBTC" ],
+          "url" : [ "https://twitter.com/NoLieWithBTC", "https://linktr.ee/briantylercohen" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Marjorie Taylor Greene, Eric Trump, and Donald Trump Jr. have all posted photos of the judge’s daughter on social media. My God." ],
+      "published" : [ "2023-04-04T19:30:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1643335207846641664" ],
+      "url" : [ "https://twitter.com/NoLieWithBTC/status/1643335207846641664" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "ǌ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matt clawson" ],
+        "nickname" : [ "matt_clawson" ],
+        "numeric-id" : [ "16307782" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1381974771013980168/7Bv4judw.jpg" ],
+        "published" : [ "2008-09-16T06:31:36+00:00" ],
+        "uid" : [ "tag:twitter.com:matt_clawson" ],
+        "url" : [ "https://twitter.com/matt_clawson", "https://cohost.org/mattc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The \"protect our kids\" camp, folks..." ],
+    "published" : [ "2023-04-04T21:09:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1643360241466081280" ],
+    "url" : [ "https://twitter.com/matt_clawson/status/1643360241466081280" ]
+  },
+  "type" : [ "h-entry" ]
+}
