@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Forlì, Emilia Romagna" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matteo Collina" ],
+        "nickname" : [ "matteocollina" ],
+        "numeric-id" : [ "15979784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541698320443314179/4Cp5IrGB.jpg" ],
+        "published" : [ "2008-08-25T10:17:31+00:00" ],
+        "uid" : [ "tag:twitter.com:matteocollina" ],
+        "url" : [ "https://twitter.com/matteocollina", "https://nodeland.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Working in Open Source Security is one of the hardest and thankless jobs." ],
+    "published" : [ "2023-04-04T16:06:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1643283878570778629" ],
+    "url" : [ "https://twitter.com/matteocollina/status/1643283878570778629" ]
+  },
+  "type" : [ "h-entry" ]
+}
