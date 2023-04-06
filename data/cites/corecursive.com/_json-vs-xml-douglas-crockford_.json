@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "JSON vs XML - CoRecursive Podcast" ],
+    "summary" : [ "Today's guest is Douglas Crockford. He's sharing the story of JSON, his discovery of JavaScript's good parts, and his approach to finding a simple way to build software. Also, his battles against XML, against complexity, his battles to say that there's a better way to build software. This is foundational stuff for the web, and Doug is an iconoclast. […]" ],
+    "featured" : [ "https://corecursive.com/assets/images/087/wide.png" ],
+    "audio" : [ "https://chtbl.com/track/7D91G/traffic.libsyn.com/corecursive/087-Douglas-Crockford.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adam Gordon Bell" ]
+      }
+    } ],
+    "url" : [ "https://corecursive.com/json-vs-xml-douglas-crockford/" ]
+  }
+}
