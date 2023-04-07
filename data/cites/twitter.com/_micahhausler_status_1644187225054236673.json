@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Franklin, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Micah Hausler" ],
+        "nickname" : [ "micahhausler" ],
+        "numeric-id" : [ "106090190" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330685608855957505/477uBT_y.jpg" ],
+        "published" : [ "2010-01-18T13:27:48+00:00" ],
+        "uid" : [ "tag:twitter.com:micahhausler" ],
+        "url" : [ "https://twitter.com/micahhausler", "https://micahhausler.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You’ve not really lived until you’ve reviewed production host access logs" ],
+    "published" : [ "2023-04-07T03:55:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1644187225054236673" ],
+    "url" : [ "https://twitter.com/micahhausler/status/1644187225054236673" ]
+  },
+  "type" : [ "h-entry" ]
+}
