@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stanford, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cynthia Lee" ],
+        "nickname" : [ "cynthiablee" ],
+        "numeric-id" : [ "23896773" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524206173594939395/vtBQ-Dar.jpg" ],
+        "published" : [ "2009-03-12T04:20:45+00:00" ],
+        "uid" : [ "tag:twitter.com:cynthiablee" ],
+        "url" : [ "https://twitter.com/cynthiablee", "http://www.stanford.edu/~cbl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“Are those earrings red-black trees? Can I get a photo of them? I’d like to send it to Bob.” [who invented them 😅] And that’s how I got this selfie with Don Knuth." ],
+    "photo" : [ {
+      "alt" : "Selfie of Don Knuth and Cynthia Lee. Cynthia is wearing large dangly earrings made of gold wire and red and black beads, arranged in the form of a red-black tree.",
+      "value" : "https://pbs.twimg.com/media/FtGLjmEaEAA46g_.jpg"
+    } ],
+    "published" : [ "2023-04-07T08:00:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1644248788499050496" ],
+    "url" : [ "https://twitter.com/cynthiablee/status/1644248788499050496" ]
+  },
+  "type" : [ "h-entry" ]
+}
