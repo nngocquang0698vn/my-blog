@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How I (Usually) Write Blog Posts · Matthias Ott – User Experience Designer" ],
+    "summary" : [ "Matthias Ott is an independent user experience designer and developer from Stuttgart, Germany. Besides design practice he teaches Interface Prototyping at the Muthesius Academy of Fine Arts and Design, Kiel." ],
+    "featured" : [ "https://matthiasott.com/apple-touch-icon-120x120.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Matthias Ott" ]
+      }
+    } ],
+    "url" : [ "https://matthiasott.com/notes/how-i-write-blog-posts" ]
+  }
+}
