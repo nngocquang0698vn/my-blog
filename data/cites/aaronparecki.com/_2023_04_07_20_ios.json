@@ -1,0 +1,426 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "security" ],
+    "pk-num-likes" : [ "14" ],
+    "pk-num-reposts" : [ "8" ],
+    "pk-num-replies" : [ "2" ],
+    "photo" : [ "https://aaronparecki.com/img/1240x0/2023/04/07/20/photo.jpg" ],
+    "url" : [ "https://aaronparecki.com/2023/04/07/20/ios" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1644542198543966208", "https://micro.blog/aaronpk/18249682" ],
+    "published" : [ "2023-04-07T20:26:26-07:00" ],
+    "content" : [ {
+      "html" : "we all know the real reason you install iOS updates <a href=\"https://aaronparecki.com/emoji/%F0%9F%91%80\" class=\"emoji\">👀</a> <br> <br>p.s. go update your devices",
+      "value" : "we all know the real reason you install iOS updates 👀\n\np.s. go update your devices"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/Abashima#likes/81010120" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Haddock" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/Abashima" ]
+          },
+          "value" : "Eric Haddock"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eric Haddock"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://sfba.social/users/ayelienne#likes/2684168" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "ayelienne" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://sfba.social/users/ayelienne" ]
+          },
+          "value" : "ayelienne"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ayelienne"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/heidi_helen#likes/81009537" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Heidi Helen Pilypas" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/heidi_helen" ]
+          },
+          "value" : "Heidi Helen Pilypas"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Heidi Helen Pilypas"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/karabaic#likes/81008315" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jack the nonabrasive" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/karabaic" ]
+          },
+          "value" : "jack the nonabrasive"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jack the nonabrasive"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://sfba.social/users/drahardja#likes/2683999" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dave Rahardja" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://sfba.social/users/drahardja" ]
+          },
+          "value" : "Dave Rahardja"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dave Rahardja"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://baraag.net/users/Satanist#likes/32408444" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "⛧Satanist⛧" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://baraag.net/users/Satanist" ]
+          },
+          "value" : "⛧Satanist⛧"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ⛧Satanist⛧"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.pixels.pizza/users/pixel#likes/9424" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Vitiello" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.pixels.pizza/users/pixel" ]
+          },
+          "value" : "Eric Vitiello"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eric Vitiello"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://flipboard.social/users/xtel#likes/14316" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Christel van der Boom" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://flipboard.social/users/xtel" ]
+          },
+          "value" : "Christel van der Boom"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Christel van der Boom"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mstdn.social/users/DocCarms#likes/17663227" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Carmela" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mstdn.social/users/DocCarms" ]
+          },
+          "value" : "Carmela"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Carmela"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fedibird.com/users/Nonog#likes/16041076" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Matt Willemsen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://fedibird.com/users/Nonog" ]
+          },
+          "value" : "Matt Willemsen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Matt Willemsen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://tech.lgbt/users/desertcave#likes/4359036" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "A Stream of Sand :v_enby:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://tech.lgbt/users/desertcave" ]
+          },
+          "value" : "A Stream of Sand :v_enby:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png A Stream of Sand :v_enby:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.davidgarywood.com/users/davidgarywood#likes/23530" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dave ✨" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.davidgarywood.com/users/davidgarywood" ]
+          },
+          "value" : "Dave ✨"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dave ✨"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cosocial.ca/users/evan#likes/7229" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Evan Prodromou" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://cosocial.ca/users/evan" ]
+          },
+          "value" : "Evan Prodromou"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Evan Prodromou"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://wandering.shop/users/emmah#likes/3066085" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Emma Needs ☕️" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://wandering.shop/users/emmah" ]
+          },
+          "value" : "Emma Needs ☕️"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Emma Needs ☕️"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://dmv.community/users/yaitorr/statuses/110161609096224598/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Yaisiel (Yai) Torres" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://dmv.community/users/yaitorr" ]
+          },
+          "value" : "Yaisiel (Yai) Torres"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Yaisiel (Yai) Torres"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/Abashima/statuses/110161562389517308/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Haddock" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/Abashima" ]
+          },
+          "value" : "Eric Haddock"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eric Haddock"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://sfba.social/users/ayelienne/statuses/110161534146137777/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "ayelienne" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://sfba.social/users/ayelienne" ]
+          },
+          "value" : "ayelienne"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png ayelienne"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/karabaic/statuses/110161467054646829/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jack the nonabrasive" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/karabaic" ]
+          },
+          "value" : "jack the nonabrasive"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jack the nonabrasive"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.pixels.pizza/users/pixel/statuses/110161387018509509/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Vitiello" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.pixels.pizza/users/pixel" ]
+          },
+          "value" : "Eric Vitiello"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Eric Vitiello"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://flipboard.social/users/xtel/statuses/110161149680187426/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Christel van der Boom" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://flipboard.social/users/xtel" ]
+          },
+          "value" : "Christel van der Boom"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Christel van der Boom"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://witches.rest/users/lindsey/statuses/110161129773171645/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Lindsey B" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://witches.rest/users/lindsey" ]
+          },
+          "value" : "Lindsey B"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Lindsey B"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://cosocial.ca/users/evan/statuses/110161119640312387/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Evan Prodromou" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://cosocial.ca/users/evan" ]
+          },
+          "value" : "Evan Prodromou"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Evan Prodromou"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://sfba.social/@drahardja/110161453482487728" ],
+        "published" : [ "2023-04-07T22:06:21-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> Using new emoji to get people to install security updates is a genius move, and I endorse it wholeheartedly.</p>",
+          "value" : "@aaronpk Using new emoji to get people to install security updates is a genius move, and I endorse it wholeheartedly."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dave Rahardja" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://sfba.social/users/drahardja" ]
+          },
+          "value" : "Dave Rahardja"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dave Rahardja sfba.social/users/drahardja\n@aaronpk Using new emoji to get people to install security updates is a genius move, and I endorse it wholeheartedly. Fri, Apr 7, 2023 10:06pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@xenotrope/110161163713013483" ],
+        "published" : [ "2023-04-07T20:52:39-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> \"How to get people who installed a leaked build to stop using that build?\"</p><p><a href=\"https://devblogs.microsoft.com/oldnewthing/20160906-00/?p=94255\"><span>https://</span><span>devblogs.microsoft.com/oldnewt</span><span>hing/20160906-00/?p=94255</span></a></p>",
+          "value" : "@aaronpk \"How to get people who installed a leaked build to stop using that build?\"\nhttps://devblogs.microsoft.com/oldnewthing/20160906-00/?p=94255"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Toby" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://bsd.network/users/xenotrope" ]
+          },
+          "value" : "Toby"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Toby bsd.network/users/xenotrope\n@aaronpk \"How to get people who installed a leaked build to stop using that build?\"\nhttps://devblogs.microsoft.com/oldnewthing/20160906-00/?p=94255 Fri, Apr 7, 2023 8:52pm -07:00"
+    } ]
+  },
+  "id" : "post-id-97992"
+}
