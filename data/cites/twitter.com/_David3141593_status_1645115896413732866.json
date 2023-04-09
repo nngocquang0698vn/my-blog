@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "EL3" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Buchanan" ],
+        "nickname" : [ "David3141593" ],
+        "numeric-id" : [ "2242426383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/824035276620238848/bdPI4Q1t.jpg" ],
+        "published" : [ "2013-12-24T23:44:16+00:00" ],
+        "uid" : [ "tag:twitter.com:David3141593" ],
+        "url" : [ "https://twitter.com/David3141593", "https://www.da.vidbuchanan.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "stop maintaining software" ],
+    "photo" : [ {
+      "alt" : "STOP MAINTAINING SOFTWARE.\n\n- YEARS of SEMANTIC VERSIONING and yet NO REAL-WORLD USE FOUND for going higher than v1.0.\n\n- Wanted more features anyway, for a laugh? We had a tool for that: It was called \"PLUGINS\".\n\n- \"Yes please update to version 37.0.0.69.march2023.jaguar or above. Please backport security patches to the LTS release\" - Statements dreamed up by the utterly Deranged.\n\nLOOK at what Software Engineers have been demanding your Respect for all this time, with all the build systems and dependencies we built for them. (This is REAL Software, made by REAL Developers): A screenshot of windows update. A screenshot of a 12.43GB macOS Big Sur update. A screenshot of an Arch Linux update with a \"total installed size\" of 22001.30MiB.\n\n\"Hello I would like to install updates please\". They have played us for absolute fools.",
+      "value" : "https://pbs.twimg.com/media/FtSgIkSWYAAkb0t.jpg"
+    } ],
+    "published" : [ "2023-04-09T17:26:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1645115896413732866" ],
+    "url" : [ "https://twitter.com/David3141593/status/1645115896413732866" ]
+  },
+  "type" : [ "h-entry" ]
+}
