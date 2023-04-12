@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, Nottingham (52.935" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan" ],
+        "nickname" : [ "jbjon" ],
+        "numeric-id" : [ "7731772" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1121021071430508557/JbseJNrA.jpg" ],
+        "published" : [ "2007-07-26T08:21:44+00:00" ],
+        "uid" : [ "tag:twitter.com:jbjon" ],
+        "url" : [ "https://twitter.com/jbjon", "http://www.mindthe.net/devices/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> has been doing some stuff around this at <a href=\"https://dmd.tanna.dev/\">dmd.tanna.dev</a> if my skim reading is accurate?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mariodc\"></a>",
+      "value" : "I think @JamieTanna has been doing some stuff around this at dmd.tanna.dev if my skim reading is accurate?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mariodc/status/1646096183075454977" ],
+    "published" : [ "2023-04-12T20:13:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1646245234232139780" ],
+    "url" : [ "https://twitter.com/jbjon/status/1646245234232139780" ]
+  },
+  "type" : [ "h-entry" ]
+}
