@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Abhishek Arya" ],
+        "nickname" : [ "infernosec" ],
+        "numeric-id" : [ "39004153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1195975291832688640/BkHzYSrI.jpg" ],
+        "published" : [ "2009-05-10T05:37:58+00:00" ],
+        "uid" : [ "tag:twitter.com:infernosec" ],
+        "url" : [ "https://twitter.com/infernosec" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We are excited to launch Open Source Insights <a href=\"http://deps.dev\">deps.dev</a> API! This makes critical security metadata for 50M pkg versions across 5 major ecosystems (Go,Maven,PyPI,npm &amp; Cargo) universally accessible with a single API call (no signup, keys) <a href=\"https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html\">security.googleblog.com/2023/04/announ…</a>",
+      "value" : "We are excited to launch Open Source Insights deps.dev API! This makes critical security metadata for 50M pkg versions across 5 major ecosystems (Go,Maven,PyPI,npm & Cargo) universally accessible with a single API call (no signup, keys) security.googleblog.com/2023/04/announ…"
+    } ],
+    "published" : [ "2023-04-11T16:39:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1645829046134280194" ],
+    "url" : [ "https://twitter.com/infernosec/status/1645829046134280194" ]
+  },
+  "type" : [ "h-entry" ]
+}
