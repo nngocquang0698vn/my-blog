@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Twitter Write" ],
+          "nickname" : [ "TwitterWrite" ],
+          "numeric-id" : [ "3001165942" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1539639583612305410/AfqQSDW7.png" ],
+          "published" : [ "2015-01-27T10:07:33+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterWrite" ],
+          "url" : [ "https://twitter.com/TwitterWrite", "https://twitter.com/i/notes/1539382544856035328" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We’re making improvements to the writing and reading experience on Twitter! Starting today, Twitter now supports Tweets up to 10,000 characters in length, with bold and italic text formatting.\n\nSign up for Twitter Blue to access these new features, and apply to enable… <a href=\"https://twitter.com/i/web/status/1646674962055565319\">twitter.com/i/web/status/1…</a></div>",
+        "value" : "We’re making improvements to the writing and reading experience on Twitter! Starting today, Twitter now supports Tweets up to 10,000 characters in length, with bold and italic text formatting.\n\nSign up for Twitter Blue to access these new features, and apply to enable… twitter.com/i/web/status/1…"
+      } ],
+      "published" : [ "2023-04-14T00:41:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1646674962055565319" ],
+      "url" : [ "https://twitter.com/TwitterWrite/status/1646674962055565319" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/twitterwrite/s…" ],
+      "url" : [ "https://twitter.com/twitterwrite/status/1646674962055565319" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1599225756009508865/IWOcD4Yq.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "https://spacekaren.sucks/vhpfb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Own your words. Don’t pour your limited keystrokes into a walled garden you don’t control or own. Twitter is not your blog. \n\nThis tweet was dictated.</div>\n<a class=\"tag\" href=\"https://twitter.com/twitterwrite/status/1646674962055565319\">twitter.com/twitterwrite/s…</a>",
+      "value" : "Own your words. Don’t pour your limited keystrokes into a walled garden you don’t control or own. Twitter is not your blog. \n\nThis tweet was dictated."
+    } ],
+    "published" : [ "2023-04-14T21:45:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1646993047853633536" ],
+    "url" : [ "https://twitter.com/shanselman/status/1646993047853633536" ]
+  },
+  "type" : [ "h-entry" ]
+}
