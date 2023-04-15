@@ -1,0 +1,33 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "4cb08e76-e33b-517d-9119-57f19d4f9f73" ],
+    "name" : [ "Goodbye, Twitter third-party login" ],
+    "summary" : [ "So, a little while ago I did an extremely unscientific poll on login methods via Authl on this website. The results of that (measured by folks who accessed my site for any authenticated reason, not just folks visiting the login method poll):" ],
+    "url" : [ "https://beesbuzz.biz/blog/9807-Goodbye-Twitter-third-party-login" ],
+    "syndication" : [ "https://news.indieweb.org/en" ],
+    "published" : [ "2023-04-14T15:58:10-07:00" ],
+    "content" : [ {
+      "html" : "<div id=\"preamble\" class=\"body\">\n<p>So, a little while ago I did an extremely unscientific poll on login methods via <a href=\"https://authl.readthedocs.io/\">Authl</a> on this website. The results of that (measured by folks who accessed my site for any authenticated reason, not just folks visiting the <a href=\"https://beesbuzz.biz/14511\">login method poll</a>):</p>\n<ul>\n<li>8 signed in via Fediverse (Mastodon/Pleroma/etc.)</li>\n<li>4 signed in via <a href=\"https://indieweb.org/IndieAuth\">IndieAuth</a></li>\n<li>7 signed in via email</li>\n</ul>\n<p>Not a single one signed in via Twitter.</p>\n</div><div id=\"more\">\n<p>So anyway, today Twitter rolled out the API payments change. They had claimed that third-party OAuth would continue to be a free feature, but they still banned my old API keys (with a supposed “terms of service violation”) and required me to create a new application under the new payments-enabled regime.</p><p>Even with nobody logging on via Twitter, I figured I’d make a token effort to keep Twitter signin working. I created a new app on the free tier, set up its API token and endpoints, redeployed my Authl config with the new settings, and…</p><p>It didn’t work, and the Twitter developer console gave me no useful information about how to fix it.</p><p>So, Twitter login is disabled and I don’t have any plans to bring it back. If there’s a code change necessary in Authl, someone else is more than free to make an appropriate pull request and a documentation fix, but at this time I have no interest in fixing it myself.</p><p>As always my top recommendation for third-party login is using <a href=\"https://indieauth.spec.indieweb.org/\">IndieAuth</a> (just because having control over your own web presence is always a good thing), but Fediverse is also a pretty good approach. I don’t super recommend email for a couple of reasons but it’s at least already available to pretty much everyone on the Internet. But those are the three primary mechanisms I’d suggest for people building web apps (and if they’re building those apps in Python, definitely consider Authl for that purpose).</p>\n</div>",
+      "value" : "So, a little while ago I did an extremely unscientific poll on login methods via Authl on this website. The results of that (measured by folks who accessed my site for any authenticated reason, not just folks visiting the login method poll): 8 signed in via Fediverse (Mastodon/Pleroma/etc.) 4 signed in via IndieAuth 7 signed in via email\nNot a single one signed in via Twitter.\nSo anyway, today Twitter rolled out the API payments change. They had claimed that third-party OAuth would continue to be a free feature, but they still banned my old API keys (with a supposed “terms of service violation”) and required me to create a new application under the new payments-enabled regime.\nEven with nobody logging on via Twitter, I figured I’d make a token effort to keep Twitter signin working. I created a new app on the free tier, set up its API token and endpoints, redeployed my Authl config with the new settings, and…\nIt didn’t work, and the Twitter developer console gave me no useful information about how to fix it.\nSo, Twitter login is disabled and I don’t have any plans to bring it back. If there’s a code change necessary in Authl, someone else is more than free to make an appropriate pull request and a documentation fix, but at this time I have no interest in fixing it myself.\nAs always my top recommendation for third-party login is using IndieAuth (just because having control over your own web presence is always a good thing), but Fediverse is also a pretty good approach. I don’t super recommend email for a couple of reasons but it’s at least already available to pretty much everyone on the Internet. But those are the three primary mechanisms I’d suggest for people building web apps (and if they’re building those apps in Python, definitely consider Authl for that purpose).",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "fluffy" ],
+        "note" : [ "A Seattle-based programmer/musician who makes games, comics, and bad decisions." ],
+        "pronouns" : [ "she/her or they/them" ],
+        "pronoun-nominative" : [ "she", "they" ],
+        "pronoun-oblique" : [ "her", "them" ],
+        "url" : [ "https://beesbuzz.biz/" ],
+        "email" : [ "mailto:fluffy%40beesbuzz%2ebiz" ],
+        "photo" : [ "https://beesbuzz.biz/static/headshot.jpg" ],
+        "bday" : [ "1978-06-14" ]
+      },
+      "lang" : "en",
+      "value" : "fluffy"
+    } ]
+  },
+  "lang" : "en"
+}
