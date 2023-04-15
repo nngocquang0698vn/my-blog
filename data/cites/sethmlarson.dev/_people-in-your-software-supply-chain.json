@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "People in your software supply chain" ],
+    "summary" : [ "\n\n\n\n\nFor many open source consumers the \"logical units\" being depended on are libraries. However, the libraries themselves are only a product of what consumers are actually depending on: people.\n\nY..." ],
+    "featured" : [ "https://github.com/sethmlarson.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Seth Michael Larson" ]
+      }
+    } ],
+    "url" : [ "https://sethmlarson.dev/people-in-your-software-supply-chain" ]
+  }
+}
