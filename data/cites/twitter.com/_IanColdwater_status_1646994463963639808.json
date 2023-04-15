@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Michigan, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sensory Stories by Nicole" ],
+          "nickname" : [ "sensorystories_" ],
+          "numeric-id" : [ "47688019" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1512163675192373248/qK0-A3xQ.jpg" ],
+          "published" : [ "2009-06-16T17:44:33+00:00" ],
+          "uid" : [ "tag:twitter.com:sensorystories_" ],
+          "url" : [ "https://twitter.com/sensorystories_", "http://nicolefilipponeauthor.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Why are there so many undiagnosed adults who are only now discovering that they are autistic, adhd, or neurodivergent in some way?\n\nLet's break it down... \\1</div>",
+        "value" : "Why are there so many undiagnosed adults who are only now discovering that they are autistic, adhd, or neurodivergent in some way?\n\nLet's break it down... \\1"
+      } ],
+      "published" : [ "2023-04-14T12:58:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1646860504705511424" ],
+      "url" : [ "https://twitter.com/sensorystories_/status/1646860504705511424" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1613624809258160147/TqPERW6A.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://hachyderm.io/@ian/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "People didn't think girls could have ADHD or autism until relatively recently so half the population didn't get diagnosed no matter how obvious the signs" ],
+    "published" : [ "2023-04-14T21:50:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1646994463963639808" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1646994463963639808" ]
+  },
+  "type" : [ "h-entry" ]
+}
