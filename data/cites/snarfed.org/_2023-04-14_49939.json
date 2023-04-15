@@ -1,0 +1,82 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2023-04-14_49939" ],
+    "syndication" : [ "https://fed.brid.gy/user/snarfed.org", "https://staging.bsky.app/profile/snarfed.org/post/3jtf727d3km2s", "https://fed.brid.gy/user/snarfed.org", "https://staging.bsky.app/profile/snarfed.org/post/3jtf727d3km2s" ],
+    "published" : [ "2023-04-14T22:25:52-07:00" ],
+    "content" : [ {
+      "html" : "<div class=\"wp-block-jetpack-markdown\">\n<blockquote>\n<p>Over time, all data approaches either deleted or public.</p>\n</blockquote>\n<p><a href=\"https://medium.com/message/hello-future-pastebin-readers-39d9b4eb935f\">– Norton’s Law</a></p>\n</div>",
+      "value" : "Over time, all data approaches either deleted or public.\n– Norton’s Law",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2023-04-14T22:42:01-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shreyan Jain :verified:" ],
+            "url" : [ "https://mstdn.social/@shreyan" ]
+          },
+          "lang" : "en-US",
+          "value" : "Shreyan Jain :verified:"
+        } ]
+      },
+      "id" : "li-comment-2862793",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Shreyan Jain :verified: April 14, 2023_@snarfed.org Honestly – I think that’s a good thing."
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://jamesg.coffee/2023/snarfedorg-12" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "James' Coffee Blog" ],
+            "url" : [ "https://jamesg.coffee/profile/capjamesg" ]
+          },
+          "lang" : "en-US",
+          "value" : "James' Coffee Blog"
+        } ]
+      },
+      "id" : "comment-2862796",
+      "lang" : "en-US",
+      "value" : "https://jamesg.coffee/2023/snarfedorg-12"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
