@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Upstream 2023 | A celebration of open source" ],
+    "summary" : [ "A one-day celebration of open source, the developers who use it, and the maintainers who make it." ],
+    "featured" : [ "https://upstream.live/hubfs/Social%20post%20-%202%20%282%29.png#keepProtocol" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Tidelift" ]
+      }
+    } ],
+    "url" : [ "https://upstream.live" ]
+  }
+}
