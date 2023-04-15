@@ -1,0 +1,116 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2023-04-13_49914" ],
+    "syndication" : [ "https://fed.brid.gy/user/snarfed.org", "https://staging.bsky.app/profile/snarfed.org/post/3jtcmo45q632o", "https://fed.brid.gy/user/snarfed.org", "https://staging.bsky.app/profile/snarfed.org/post/3jtcmo45q632o" ],
+    "published" : [ "2023-04-13T21:53:54-07:00" ],
+    "content" : [ {
+      "html" : "<p>date night. kid spent a few hours with the high school babysitter. both girls, one 8, one 14-ish. what did they do? first, painted their nails. second, coded a video game.</p>\n<p>2023, folks, gotta love it</p>",
+      "value" : "date night. kid spent a few hours with the high school babysitter. both girls, one 8, one 14-ish. what did they do? first, painted their nails. second, coded a video game.\n2023, folks, gotta love it",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?id=https%3A%2F%2Findieweb.social%2Fusers%2Frobdolin%5E%5Elikes%2F752286" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Rob Dolin" ],
+            "url" : [ "https://indieweb.social/@robdolin" ]
+          },
+          "lang" : "en-US",
+          "value" : "Rob Dolin"
+        } ]
+      },
+      "id" : "comment-2862770",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?id=https%3A%2F%2Findieweb.social%2Fusers%2Frobdolin%5E%5Elikes%2F752286"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?id=https%3A%2F%2Fmasto.nyc%2Fusers%2Fjmac%5E%5Elikes%2F23014" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jmac" ],
+            "url" : [ "https://masto.nyc/@jmac" ]
+          },
+          "lang" : "en-US",
+          "value" : "jmac"
+        } ]
+      },
+      "id" : "comment-2862769",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?id=https%3A%2F%2Fmasto.nyc%2Fusers%2Fjmac%5E%5Elikes%2F23014"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?id=https%3A%2F%2Ftech.lgbt%2Fusers%2Fnelson%5E%5Elikes%2F4467506" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nelson Minar 🧚‍♂️" ],
+            "url" : [ "https://tech.lgbt/@nelson" ]
+          },
+          "lang" : "en-US",
+          "value" : "Nelson Minar 🧚‍♂️"
+        } ]
+      },
+      "id" : "comment-2862756",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?id=https%3A%2F%2Ftech.lgbt%2Fusers%2Fnelson%5E%5Elikes%2F4467506"
+    } ],
+    "bookmark" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://jamesg.coffee/2023/snarfedorg-11" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "James' Coffee Blog" ],
+            "url" : [ "https://jamesg.coffee/profile/capjamesg" ]
+          },
+          "lang" : "en-US",
+          "value" : "James' Coffee Blog"
+        } ]
+      },
+      "id" : "comment-2862766",
+      "lang" : "en-US",
+      "value" : "https://jamesg.coffee/2023/snarfedorg-11"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
