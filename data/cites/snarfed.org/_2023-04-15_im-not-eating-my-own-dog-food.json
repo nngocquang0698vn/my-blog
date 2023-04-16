@@ -1,0 +1,82 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I’m not eating my own dog food" ],
+    "url" : [ "https://snarfed.org/2023-04-15_im-not-eating-my-own-dog-food" ],
+    "syndication" : [ "https://news.indieweb.org/en", "https://fed.brid.gy/user/snarfed.org", "https://staging.bsky.app/profile/snarfed.org/post/3jth5fsfc2s2q", "https://news.indieweb.org/en", "https://fed.brid.gy/user/snarfed.org", "https://staging.bsky.app/profile/snarfed.org/post/3jth5fsfc2s2q" ],
+    "published" : [ "2023-04-15T17:00:53-07:00" ],
+    "content" : [ {
+      "html" : "<p class=\"right half\">\n <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/dog_not_eating_dog_food.webp\" data-lazy-src=\"/dog_not_eating_dog_food.webp?is-pending-load=1\" srcset=\"\"></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"shadow\" src=\"https://snarfed.org/dog_not_eating_dog_food.webp\"></noscript>\n<a class=\"captioned\" href=\"https://www.petmd.com/dog/symptoms/why-my-dog-not-eating\">PetMD</a>\n<p>…or if you prefer, <a href=\"https://indieweb.org/eat_what_you_cook\">eating my own cooking</a>, or <a href=\"https://indieweb.org/scratch_your_own_itch\">scratching my own itch</a>, or <a href=\"https://indieweb.org/selfdogfood#drinking_our_own_champagne\">drinking my own champagne</a>. Sure. These are all metaphors for the idea that if you build something, it turns out better if you use it yourself, especially if you <em>want</em> it yourself. However, when I think about <a href=\"https://brid.gy/\">my projects</a> <a href=\"https://fed.brid.gy/\">for bridging</a> <a href=\"https://granary.io/\">social networks</a>, I wonder if I don’t use them myself deeply enough. If I’m not the target audience. Is that a problem?</p>\n<p>It’s not entirely true. Strictly speaking, I do use them. After this post gets published, you’ll see a trickle of likes, reposts, and replies from social networks start to show up <a href=\"https://snarfed.org/2023-04-15_im-not-eating-my-own-dog-food#comments\">down in the comments</a>, thanks to <a href=\"https://brid.gy/\">Bridgy</a> and <a href=\"https://fed.brid.gy/\">Bridgy Fed</a>. The part I worry about isn’t the tools part, it’s the social part. How online social tools should work, how communities should use them, how they affect the ways people interact online. These have all been hot topics for a while now, with social networks pushing “healthy conversations” and Congress haranguing tech execs on Capitol Hill, and even more acutely recently now that <a href=\"https://snarfed.org/2023-04-03_so-long-twitter-api-and-thanks-for-all-the-fish\">Twitter is burning</a> and a new crop of social networks has sprouted.\n<span id=\"more-49946\"></span></p>\n<p>These questions are complex, deep, and important. Many people have their own slants: big companies on business models, startups <a href=\"https://on.substack.com/p/introducing-notes\">on</a> <a href=\"https://bere.al/\">features</a> <a href=\"https://post.news/\">and</a> <a href=\"https://artifact.news/\">news</a>, <a href=\"https://indieweb.org/\">IndieWeb</a> on owning your data, the <a href=\"https://en.wikipedia.org/wiki/Fediverse\">fediverse</a> on <a href=\"https://www.hughrundle.net/home-invasion/\">consent and safety</a>, libertarian techies <a href=\"https://github.com/nostr-protocol/nostr\">on anti-censorship</a>, government officials on…whatever helps them get re-elected, I guess.</p>\n<p>I don’t know which of these angles is right,  but I do know the issues are important. And as someone building social plumbing and tools, I’m keenly aware that my choices directly impact them, if only for my relatively small user base. They’re not easy choices! <a href=\"https://registerspill.thorstenball.com/p/two-types-of-software-engineers\">In Thorsten Ball’s dichotomy</a>, I’m fully type 2: if a technical problem requires human behavior, that makes it <em>more</em> difficult to handle, not less.</p>\n<p class=\"left half\">\n <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/cebu_taoist_temple_philippines.jpg\" data-lazy-src=\"/cebu_taoist_temple_philippines.jpg?is-pending-load=1\" srcset=\"\"></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"shadow\" src=\"https://snarfed.org/cebu_taoist_temple_philippines.jpg\"></noscript>\n<a class=\"captioned\" href=\"https://www.shutterstock.com/image-photo/pagoda-dragon-sculpture-taoist-temple-cebu-338318765\">Curioso</a>\n<p>The problem is, I don’t have my own angle. I don’t know how tech should handle online social interactions – granted, probably no one does for sure – and I’m not particularly qualified or motivated to tackle it. Part of it is that <a href=\"https://snarfed.org/2018-09-04_i-dont-hang-out-on-the-internet\">I don’t really hang out on the internet</a>. I’m <a href=\"https://en.wikipedia.org/wiki/Extremely_online\">somewhat online</a> in a few bits of open source, but only somewhat, and not a ton elsewhere. I don’t post many times a day, I’m not on Twitter or Mastodon for hours at a time, I haven’t made many close friends on the internet. I definitely don’t have deep experience in community organizing or support.</p>\n<p>At the same time, I’m not under any illusion that the tools and services I build are neutral. We’ve mostly matured beyond “tech isn’t good or bad, it’s how it’s used,” especially for social tech. <a href=\"https://www.joelonsoftware.com/2003/03/03/building-communities-with-software/\">Joel Spolksy’s historical view on this is one of my favorites</a>, including his “primary axiom of online communities”:</p>\n<blockquote><p>\n  Small software implementation details result in big differences in the way the community develops, behaves, and feels.</p></blockquote>\n<p>I’ve seen this firsthand with <a href=\"https://brid.gy/\">Bridgy</a>. Most users love it, but I do occasionally hear complaints that it creates surprising <a href=\"https://en.wikipedia.org/wiki/Context_collapse\">context collapses</a> when someone’s reply shows up in a different place than they originally posted it. There’s also the broader concern that webmentions <a href=\"https://havenweb.org/2023/04/10/private-comments.html\">support and promote public conversations over private ones</a>, and the ongoing debate over whether they <a href=\"https://sebastiangreger.net/2018/05/indieweb-privacy-challenge-webmentions-backfeeds-gdpr/\">hurt</a> <a href=\"https://ascraeus.org/micro/1525556293/\">or help</a> your control over your own data. These conversations are <a href=\"https://indieweb.org/backfeed#Storage,_legal,_data_ownership,_UX...\">many years old</a>, but the recent explosion of alternative social networks and the fediverse has injected new life into them.</p>\n<p>Again, these are important questions. We need to figure out how to design healthy online spaces and tools! And I may have a few loose opinions here and there, but in general, I don’t have deeply held ideas or convictions, nor do I have a burning desire to work on the problem. It’s just not me.</p>\n<p>I’m grateful to the people and groups who are. And honestly, I’m not <em>too</em> worried. I still believe I can build tools that are net positive even if I’m Not That Online. I don’t feel too much like I’m neglecting some internet civic duty. But every now and then, I wonder if I’m not eating quite enough of my own <strike>dog food</strike> cooking, or not in quite the right way, or something.</p>\n<p>Am I overthinking it? What do you think?</p>",
+      "value" : "https://snarfed.org/dog_not_eating_dog_food.webp https://snarfed.org/dog_not_eating_dog_food.webp PetMD\n…or if you prefer, eating my own cooking, or scratching my own itch, or drinking my own champagne. Sure. These are all metaphors for the idea that if you build something, it turns out better if you use it yourself, especially if you want it yourself. However, when I think about my projects for bridging social networks, I wonder if I don’t use them myself deeply enough. If I’m not the target audience. Is that a problem?\nIt’s not entirely true. Strictly speaking, I do use them. After this post gets published, you’ll see a trickle of likes, reposts, and replies from social networks start to show up down in the comments, thanks to Bridgy and Bridgy Fed. The part I worry about isn’t the tools part, it’s the social part. How online social tools should work, how communities should use them, how they affect the ways people interact online. These have all been hot topics for a while now, with social networks pushing “healthy conversations” and Congress haranguing tech execs on Capitol Hill, and even more acutely recently now that Twitter is burning and a new crop of social networks has sprouted.\nThese questions are complex, deep, and important. Many people have their own slants: big companies on business models, startups on features and news, IndieWeb on owning your data, the fediverse on consent and safety, libertarian techies on anti-censorship, government officials on…whatever helps them get re-elected, I guess.\nI don’t know which of these angles is right, but I do know the issues are important. And as someone building social plumbing and tools, I’m keenly aware that my choices directly impact them, if only for my relatively small user base. They’re not easy choices! In Thorsten Ball’s dichotomy, I’m fully type 2: if a technical problem requires human behavior, that makes it more difficult to handle, not less.\nhttps://snarfed.org/cebu_taoist_temple_philippines.jpg https://snarfed.org/cebu_taoist_temple_philippines.jpg Curioso\nThe problem is, I don’t have my own angle. I don’t know how tech should handle online social interactions – granted, probably no one does for sure – and I’m not particularly qualified or motivated to tackle it. Part of it is that I don’t really hang out on the internet. I’m somewhat online in a few bits of open source, but only somewhat, and not a ton elsewhere. I don’t post many times a day, I’m not on Twitter or Mastodon for hours at a time, I haven’t made many close friends on the internet. I definitely don’t have deep experience in community organizing or support.\nAt the same time, I’m not under any illusion that the tools and services I build are neutral. We’ve mostly matured beyond “tech isn’t good or bad, it’s how it’s used,” especially for social tech. Joel Spolksy’s historical view on this is one of my favorites, including his “primary axiom of online communities”:\nSmall software implementation details result in big differences in the way the community develops, behaves, and feels.\nI’ve seen this firsthand with Bridgy. Most users love it, but I do occasionally hear complaints that it creates surprising context collapses when someone’s reply shows up in a different place than they originally posted it. There’s also the broader concern that webmentions support and promote public conversations over private ones, and the ongoing debate over whether they hurt or help your control over your own data. These conversations are many years old, but the recent explosion of alternative social networks and the fediverse has injected new life into them.\nAgain, these are important questions. We need to figure out how to design healthy online spaces and tools! And I may have a few loose opinions here and there, but in general, I don’t have deeply held ideas or convictions, nor do I have a burning desire to work on the problem. It’s just not me.\nI’m grateful to the people and groups who are. And honestly, I’m not too worried. I still believe I can build tools that are net positive even if I’m Not That Online. I don’t feel too much like I’m neglecting some internet civic duty. But every now and then, I wonder if I’m not eating quite enough of my own dog food cooking, or not in quite the right way, or something.\nAm I overthinking it? What do you think?",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "published" : [ "2023-04-15T22:43:08-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jeremy Cherfas" ],
+            "url" : [ "https://stream.jeremycherfas.net/profile/jeremy" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jeremy Cherfas"
+        } ]
+      },
+      "id" : "li-comment-2862817",
+      "lang" : "en-US",
+      "value" : "https://snarfed.org/Jeremy Cherfas April 15, 2023_Interesting to read Ryan’s thoughts about being Not That Online and whether that affects the incredibly handy tools he makes for others. Maybe I’m overthinking my own dilemmas."
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?id=https%3A%2F%2Fsfba.social%2Fusers%2FCynk%5E%5Elikes%2F2773671" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Cynthia Johanson :ggbridge:" ],
+            "url" : [ "https://sfba.social/@Cynk" ]
+          },
+          "lang" : "en-US",
+          "value" : "Cynthia Johanson :ggbridge:"
+        } ]
+      },
+      "id" : "comment-2862813",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?id=https%3A%2F%2Fsfba.social%2Fusers%2FCynk%5E%5Elikes%2F2773671"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
