@@ -69,7 +69,7 @@ Notes:
 
 It's been a fun journey, and I'm really loving it!
 
-[explicit-licensing]: /posts/2018/07/29/more-explicit-post-licensing.md/
+[explicit-licensing]: /posts/2018/07/29/more-explicit-post-licensing/
 [tale-hugo]: https://github.com/EmielH/tale-hugo
 [jvt.me]: https://gitlab.com/jamietanna/jvt.me
 [fork]: https://gitlab.com/jamietanna/tale-hugo-jvt.me
