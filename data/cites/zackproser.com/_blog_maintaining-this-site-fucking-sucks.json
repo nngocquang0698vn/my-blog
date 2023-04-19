@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Zack Proser Portfolio" ],
+    "summary" : [ "Software engineer and artist" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Zack Proser" ]
+      }
+    } ],
+    "url" : [ "https://zackproser.com/blog/maintaining-this-site-fucking-sucks" ]
+  }
+}
