@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tucson, AZ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy Hoy" ],
+        "nickname" : [ "amyhoy" ],
+        "numeric-id" : [ "627213" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1213605284444164096/d785ziR8.jpg" ],
+        "published" : [ "2007-01-11T21:52:20+00:00" ],
+        "uid" : [ "tag:twitter.com:amyhoy" ],
+        "url" : [ "https://twitter.com/amyhoy", "http://www.stackingthebricks.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "if you gaze into the scroll, the scroll gazes also into you\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/defunkt\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/robbyrussell\"></a>",
+      "value" : "if you gaze into the scroll, the scroll gazes also into you"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/defunkt/status/1648783762698928128" ],
+    "published" : [ "2023-04-19T20:26:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1648785162682109952" ],
+    "url" : [ "https://twitter.com/amyhoy/status/1648785162682109952" ]
+  },
+  "type" : [ "h-entry" ]
+}
