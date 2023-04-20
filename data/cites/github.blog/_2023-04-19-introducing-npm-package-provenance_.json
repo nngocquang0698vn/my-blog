@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Introducing npm package provenance | The GitHub Blog" ],
+    "summary" : [ "How to verifiably link npm packages to their source repository and build instructions." ],
+    "featured" : [ "https://github.blog/wp-content/uploads/2023/04/introducing-npm-package-provenance.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Brian DeHamer" ]
+      }
+    } ],
+    "url" : [ "https://github.blog/2023-04-19-introducing-npm-package-provenance/" ],
+    "published" : [ "2023-04-19T18:42:35+00:00" ]
+  }
+}
