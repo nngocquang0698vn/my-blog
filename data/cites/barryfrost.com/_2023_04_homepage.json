@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "A small change to my homepage: I’ve moved my weeknotes into their own section, freeing up the “Recently” list to show non-weeknotes content." ],
+    "category" : [ "vibrancy" ],
+    "url" : [ "https://barryfrost.com/2023/04/homepage" ],
+    "published" : [ "2023-04-15T17:17:49.929Z" ],
+    "updated" : [ "2023-04-15T19:37:44.625Z" ],
+    "content" : [ {
+      "html" : "<p>A small change to my homepage: I’ve moved my <a href=\"https://barryfrost.com/categories/weeknotes\">weeknotes</a> into their own section, freeing up the “Recently” list to show non-weeknotes content.</p>",
+      "value" : "A small change to my homepage: I’ve moved my weeknotes into their own section, freeing up the “Recently” list to show non-weeknotes content.",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "photo" : [ {
+          "value" : "https://barryfrost.com/barryfrost.jpg",
+          "alt" : "Photo of Barry"
+        } ],
+        "url" : [ "https://barryfrost.com/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://barryfrost.com/"
+    } ]
+  },
+  "lang" : "en-GB"
+}
