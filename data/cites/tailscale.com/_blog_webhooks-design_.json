@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Making your Tailscale experience a little more eventful with webhooks" ],
+    "summary" : [ "Tailscale is amazing. But you already knew that, right? There’s nothing more satisfying than being able to set up a secure network in seconds, almost like magic — except maybe realizing it’s Friday when you thought it was Thursday, but I digress." ],
+    "featured" : [ "https://tailscale.com/blog/webhooks-design/social.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Tailscale" ]
+      }
+    } ],
+    "url" : [ "https://tailscale.com/blog/webhooks-design/" ]
+  }
+}
