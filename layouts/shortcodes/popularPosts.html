@@ -1,0 +1,45 @@
+<article id="popular-posts">
+  <p>Below are some of the blog posts I've written that either received a lot of discussion at the time of posting, or still regularly get a lot of traffic:</p>
+
+  <ul>
+  {{ $posts := slice
+      "https://www.jvt.me/posts/2023/03/22/next-promo/"
+      "https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/"
+      "https://www.jvt.me/posts/2023/03/13/sqlite-json/"
+      "https://www.jvt.me/posts/2023/02/24/goreleaser-cgo-cross-compile/"
+      "https://www.jvt.me/posts/2023/01/21/bulk-git-repo-changes/"
+      "https://www.jvt.me/posts/2023/01/09/capital-one-chef-pipeline/"
+      "https://www.jvt.me/posts/2022/12/09/adhd-diagnosis-process/"
+      "https://www.jvt.me/posts/2022/11/01/renovate-dependency-graph/"
+      "https://www.jvt.me/posts/2022/10/22/tech-industry-free-labour/"
+      "https://www.jvt.me/posts/2022/10/14/blog-viral/"
+      "https://www.jvt.me/posts/2022/10/04/adhd/"
+      "https://www.jvt.me/posts/2022/09/21/year-later-salary-history/"
+      "https://www.jvt.me/posts/2022/08/12/learning-new-language-go/"
+      "https://www.jvt.me/posts/2022/07/12/go-openapi-server/"
+      "https://www.jvt.me/posts/2022/06/27/roo-openapi-design-first/"
+      "https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/"
+      "https://www.jvt.me/posts/2022/05/12/modernise-spring-boot-lessons/"
+      "https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/"
+      "https://www.jvt.me/posts/2022/02/03/common-dangerous-logs/"
+      "https://www.jvt.me/posts/2021/11/17/java-serverless-learnings/"
+      "https://www.jvt.me/posts/2021/10/19/dagger-java-lambda/"
+      "https://www.jvt.me/posts/2021/09/09/public-salary-history/"
+      "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+      "https://www.jvt.me/posts/2019/10/20/indieweb-talk/"
+      "https://www.jvt.me/posts/2019/07/22/why-website/"
+      "https://www.jvt.me/posts/2017/06/25/blogumentation/"
+  }}
+	{{ range $posts }}
+
+    {{ $filename := replaceRE `.*posts/(\d+)/(\d+)/(\d+)/(.*)/` "posts/$1-$2-$3-$4.md" . }}
+    {{ $p := $.Site.GetPage $filename }}
+
+    <li>
+      <a href="{{ $p.Permalink }}">
+        {{ $p.Title }}
+      </a>
+    </li>
+	{{ end }}
+  </ul>
+</article>
