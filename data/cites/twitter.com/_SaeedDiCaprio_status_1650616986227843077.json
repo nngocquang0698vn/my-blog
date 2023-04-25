@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "press[at]dexerto.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dexerto" ],
+          "nickname" : [ "Dexerto" ],
+          "numeric-id" : [ "76766018" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1538912754555408385/bbTCYAck.jpg" ],
+          "published" : [ "2009-09-23T21:44:53+00:00" ],
+          "uid" : [ "tag:twitter.com:Dexerto" ],
+          "url" : [ "https://twitter.com/Dexerto", "https://www.dexerto.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Elon Musk revealed he makes over $120,000/month in Twitter subscription revenue according to his screenshot showing subscriber count" ],
+      "photo" : [ "https://pbs.twimg.com/media/Fugmyp4WwBshXZV.jpg", "https://pbs.twimg.com/media/Fugmyp4WwA0L58a.jpg" ],
+      "published" : [ "2023-04-24T21:25:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1650611919395364867" ],
+      "url" : [ "https://twitter.com/Dexerto/status/1650611919395364867" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC/ON  he/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hurt CoPain" ],
+        "nickname" : [ "SaeedDiCaprio" ],
+        "numeric-id" : [ "799861584" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1493069244749295617/H7gMGe8-.jpg" ],
+        "published" : [ "2012-09-03T07:41:39+00:00" ],
+        "uid" : [ "tag:twitter.com:SaeedDiCaprio" ],
+        "url" : [ "https://twitter.com/SaeedDiCaprio", "http://instagram.com/saeed.dicaprio" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "omg I found his burner <a href=\"https://twitter.com/dexerto/status/1650611919395364867\">twitter.com/dexerto/status…</a>",
+      "value" : "omg I found his burner twitter.com/dexerto/status…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FugrZlPWwAE2LHj.jpg" ],
+    "published" : [ "2023-04-24T21:45:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1650616986227843077" ],
+    "url" : [ "https://twitter.com/SaeedDiCaprio/status/1650616986227843077" ]
+  },
+  "type" : [ "h-entry" ]
+}
