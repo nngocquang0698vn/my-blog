@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pete Hamilton" ],
+        "nickname" : [ "peterejhamilton" ],
+        "numeric-id" : [ "30989114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436358943366950914/kX83nsXS.jpg" ],
+        "published" : [ "2009-04-13T23:18:04+00:00" ],
+        "uid" : [ "tag:twitter.com:peterejhamilton" ],
+        "url" : [ "https://twitter.com/peterejhamilton", "https://incident.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The rings are incidents, the arcs are links to the folks collaborating on it. It's particularly cool seeing some of the the clear London <-> NYC <-> SF teams stand out and the impact of remote work, too. Many incidents involve people from all over." ],
+    "in-reply-to" : [ "https://twitter.com/peterejhamilton/status/1651192168130785281" ],
+    "published" : [ "2023-04-26T11:51:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1651192169649061888" ],
+    "url" : [ "https://twitter.com/peterejhamilton/status/1651192169649061888" ]
+  },
+  "type" : [ "h-entry" ]
+}
