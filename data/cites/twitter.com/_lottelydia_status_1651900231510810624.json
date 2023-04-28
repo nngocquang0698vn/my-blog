@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Home Office" ],
+          "nickname" : [ "ukhomeoffice" ],
+          "numeric-id" : [ "138037459" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1610222397122134016/1AVBaiGp.jpg" ],
+          "published" : [ "2010-04-28T13:11:51+00:00" ],
+          "uid" : [ "tag:twitter.com:ukhomeoffice" ],
+          "url" : [ "https://twitter.com/ukhomeoffice", "https://www.gov.uk/government/organisations/home-office" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">⚠️ Slow walking protests cause serious disruption.\n\nNew policing powers will ensure hardworking everyday people will no longer be collateral damage to disruptive protests.</div>",
+        "value" : "⚠️ Slow walking protests cause serious disruption.\n\nNew policing powers will ensure hardworking everyday people will no longer be collateral damage to disruptive protests."
+      } ],
+      "photo" : [ {
+        "alt" : "Graphic with backdrop photo of a London street witnessing a demonstration, with a police car on the side.\nThere is text highlighted in white, that reads 'Legislation introduced'. Below that is large text in yellow that reads 'We are tackling serious disruption'.",
+        "value" : "https://pbs.twimg.com/media/Fuu4jTtX0AA-y5N.jpg"
+      } ],
+      "published" : [ "2023-04-27T17:51:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1651645368080257028" ],
+      "url" : [ "https://twitter.com/ukhomeoffice/status/1651645368080257028" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Dr Charlotte Lydia Riley" ],
+        "nickname" : [ "lottelydia" ],
+        "numeric-id" : [ "16805695" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1289879964683304964/5pOQoo4o.jpg" ],
+        "published" : [ "2008-10-16T11:34:33+00:00" ],
+        "uid" : [ "tag:twitter.com:lottelydia" ],
+        "url" : [ "https://twitter.com/lottelydia", "http://tomorrowneverknowspod.com/", "http://penguin.co.uk/books/442125/i", "http://tinyurl.com/bdf3p4rw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is literally the most peaceful form of protest and the Government is seeking to criminalise it because their objection is not to the format that protest takes, it's to the fact that protest happens at all" ],
+    "published" : [ "2023-04-28T10:44:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1651900231510810624" ],
+    "url" : [ "https://twitter.com/lottelydia/status/1651900231510810624" ]
+  },
+  "type" : [ "h-entry" ]
+}
