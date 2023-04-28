@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Otto English" ],
+        "nickname" : [ "Otto_English" ],
+        "numeric-id" : [ "310746442" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1403301381230968834/oUfjbFEz.jpg" ],
+        "published" : [ "2011-06-04T08:34:34+00:00" ],
+        "uid" : [ "tag:twitter.com:Otto_English" ],
+        "url" : [ "https://twitter.com/Otto_English", "https://www.amazon.co.uk/Fake-History-Great-Shaped-World/dp/1787396428/ref=tmm_pap_swatch_0?_encodin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Stop what you are doing and watch this 30 second video of an academic confronting the risible <a href=\"https://twitter.com/LozzaFox\">@lozzafox</a> with a dose of truth.\n\nTrust me.</div>",
+      "value" : "Stop what you are doing and watch this 30 second video of an academic confronting the risible @lozzafox with a dose of truth.\n\nTrust me."
+    } ],
+    "published" : [ "2023-04-28T06:44:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1651839702150926336" ],
+    "url" : [ "https://twitter.com/Otto_English/status/1651839702150926336" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1651839658857209856/pu/vid/1280x720/Pmw8vSRbQHEpCMm2.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
