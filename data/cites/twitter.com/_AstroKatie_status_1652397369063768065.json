@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Ontario, Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "T. Ryan Gregory" ],
+          "nickname" : [ "TRyanGregory" ],
+          "numeric-id" : [ "151257881" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1643613375207800839/NQKQ9fIu.jpg" ],
+          "published" : [ "2010-06-03T00:32:51+00:00" ],
+          "uid" : [ "tag:twitter.com:TRyanGregory" ],
+          "url" : [ "https://twitter.com/TRyanGregory" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Mystery.\n\n<a href=\"https://www.reuters.com/world/uk/uk-sees-record-sickness-zero-productivity-growth-2022-2023-04-26/\">reuters.com/world/uk/uk-se…</a></div>",
+        "value" : "Mystery.\n\nreuters.com/world/uk/uk-se…"
+      } ],
+      "published" : [ "2023-04-29T12:37:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1652290917242396673" ],
+      "url" : [ "https://twitter.com/TRyanGregory/status/1652290917242396673" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/tryangregory/s…" ],
+      "url" : [ "https://twitter.com/tryangregory/status/1652290917242396673" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Waterloo, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Mack" ],
+        "nickname" : [ "AstroKatie" ],
+        "numeric-id" : [ "33773592" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2818477708/0ef050189a11bb7f9cf56306f5d171bf.png" ],
+        "published" : [ "2009-04-21T02:22:18+00:00" ],
+        "uid" : [ "tag:twitter.com:AstroKatie" ],
+        "url" : [ "https://twitter.com/AstroKatie", "http://www.astrokatie.com/book", "http://mastodon.social/@AstroKatie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’m not sure how widely this is understood. It’s not that the chance of getting sick is actually low now, it’s that our leaders have decided that it’s time for us to just be cool with getting sick a lot now, and we’re all being socially pressured to act like it’s weird not to be.\n<a class=\"tag\" href=\"https://twitter.com/tryangregory/status/1652290917242396673\">twitter.com/tryangregory/s…</a>",
+      "value" : "I’m not sure how widely this is understood. It’s not that the chance of getting sick is actually low now, it’s that our leaders have decided that it’s time for us to just be cool with getting sick a lot now, and we’re all being socially pressured to act like it’s weird not to be."
+    } ],
+    "published" : [ "2023-04-29T19:40:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1652397369063768065" ],
+    "url" : [ "https://twitter.com/AstroKatie/status/1652397369063768065" ]
+  },
+  "type" : [ "h-entry" ]
+}
