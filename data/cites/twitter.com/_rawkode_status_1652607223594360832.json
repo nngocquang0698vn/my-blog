@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1633768056424914945/HQUiW_k6.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“It looks like JSON Schema, but it’s not”\n\nJust fucking use JSON Schema and let people use an extensive world of existing libraries and tooling.</div>",
+      "value" : "“It looks like JSON Schema, but it’s not”\n\nJust fucking use JSON Schema and let people use an extensive world of existing libraries and tooling."
+    } ],
+    "published" : [ "2023-04-30T09:34:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1652607223594360832" ],
+    "url" : [ "https://twitter.com/rawkode/status/1652607223594360832" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Fu89gKhXwAELX1f.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
