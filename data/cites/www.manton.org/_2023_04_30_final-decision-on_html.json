@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Final decision on the Twitter API" ],
+    "summary" : [ "Not content with banning native third-party apps, Twitter has continued to cripple their API and move to paid plans for very basic access. I was committed to support Twitter cross-posting as long as possible because there are still Micro.blog customers who want to keep a foot in the Twitter world. But we knew it couldn’t last forever.\nJuly 15th will be our last day to support cross-posting blog posts to Twitter." ],
+    "featured" : [ "https://micro.blog/manton/avatar.jpg", "https://micro.blog/manton/avatar.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ]
+      }
+    } ],
+    "url" : [ "https://www.manton.org/2023/04/30/final-decision-on.html" ],
+    "published" : [ "2023-04-30T11:25:04-05:00" ]
+  }
+}
