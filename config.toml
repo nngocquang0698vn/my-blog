@@ -238,6 +238,12 @@ notAlternative = true
     title = "Open Source Projects I Maintain"
     url = "/open-source/"
     weight = 50
+  [[menu.footer]]
+    identifier = "name-pronounciation"
+    name = "My name and pronounciation"
+    title = "My name and pronounciation"
+    url = "https://name.pn/jamie-tanna"
+    weight = 90
 
 [deployment]
 [[deployment.targets]]
