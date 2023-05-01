@@ -1,0 +1,38 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Trudi Canavan"
+          ],
+          "photo": [
+            {
+              "alt": "Picture of Trudi Canavan",
+              "value": "https://covers.openlibrary.org/b/id/13441392.jpg"
+            }
+          ],
+          "url": [
+            "https://openlibrary.org/authors/OL2629960A"
+          ]
+        }
+      }
+    ],
+    "name": [
+      "The magician's apprentice"
+    ],
+    "uid": [
+      "isbn:9781841495972"
+    ],
+    "url": [
+      "https://books-mf2.fly.dev/isbn/1841495972",
+      "https://openlibrary.org/books/OL24519792M"
+    ]
+  }
+}
