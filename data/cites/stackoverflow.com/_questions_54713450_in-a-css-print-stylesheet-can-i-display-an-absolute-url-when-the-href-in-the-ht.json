@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "In a CSS print stylesheet, can I display an absolute URL when the href in the HTML is relative?" ],
+    "summary" : [ "I have a print stylesheet which adds a URL after links. Something like this: \n\n@media print {\n  a:after {\n    content: \" (\" attr(href) \") \";\n  }\n}\r\nThis results in a link like this. \n\nthis is an &l..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/54713450/in-a-css-print-stylesheet-can-i-display-an-absolute-url-when-the-href-in-the-ht" ]
+  }
+}
