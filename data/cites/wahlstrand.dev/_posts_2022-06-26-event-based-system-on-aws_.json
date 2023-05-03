@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Event-based apps with Go and EventBridge" ],
+    "summary" : [ "Made by a minimal, responsible and friendly person." ],
+    "featured" : [ "https://wahlstrand.dev/default-og.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Magnus Wahlstrand" ]
+      }
+    } ],
+    "url" : [ "https://wahlstrand.dev/posts/2022-06-26-event-based-system-on-aws/" ]
+  }
+}
