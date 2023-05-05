@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DeliverooEng" ],
+        "nickname" : [ "DeliverooEng" ],
+        "numeric-id" : [ "3200498391" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204361659059507202/u-DXddut.jpg" ],
+        "published" : [ "2015-04-24T10:08:05+00:00" ],
+        "uid" : [ "tag:twitter.com:DeliverooEng" ],
+        "url" : [ "https://twitter.com/DeliverooEng", "http://deliveroo.engineering" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We're going to miss you, Kingy 👑 You've been an awesome member of the team, all the best for the amazing things you're going to do next!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monzo\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ripixelcodes\"></a>",
+      "value" : "We're going to miss you, Kingy 👑 You've been an awesome member of the team, all the best for the amazing things you're going to do next!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ripixelcodes/status/1654433026061811714" ],
+    "published" : [ "2023-05-05T15:44:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1654512442272104449" ],
+    "url" : [ "https://twitter.com/DeliverooEng/status/1654512442272104449" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FvYCSm4WIAISPV_.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
