@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "bridgy-twitter-content" : [ "Had anyone ever seen an error like this with #AWSLambda?\nIt's a Node 18 app that calls out to Renovate but fails due to some deep intenals in Node when doing some performance checking?{ \"errorType\": \"TypeError\", \"errorMessage\": \"performance.markResourceTiming is not a function\", \"stack\": [ \"TypeError: performance.markResourceTiming is not a function\", \" at markResourceTiming (node:internal/deps/undici/undici:10636:21)\", \" at finalizeAndReportTiming (node:internal/deps/undici/undici:10632:7)\", \" at Object.handleFetchDone [as processResponseEndOfBody] (node:internal/deps/undici/undici:10579:45)\", \" at node:internal/deps/undici/undici:10895:44\", \" at node:internal/process/task_queues:140:7\", \" at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\", \" at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)\", \" at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\" ] }\nVery odd, and this Go issue is the only thing I could find that may relate 🤔" ],
+    "category" : [ "awslambda" ],
+    "uid" : [ "https://www.jvt.me/mf2/2023/05/98kew/" ],
+    "url" : [ "https://www.jvt.me/mf2/2023/05/98kew/" ],
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "published" : [ "2023-05-06T08:52:00+0100" ],
+    "content" : [ {
+      "html" : "<p></p><p>Had anyone ever seen an error like this with <a href=\"https://www.jvt.me/tags/awslambda/\">#AWSLambda</a>?</p><p>It's a Node 18 app that calls out to <a href=\"https://docs.renovatebot.com\">Renovate</a> but fails due to some deep intenals in Node when doing some performance checking?</p><div class=\"highlight\"><pre tabindex=\"0\" class=\"chroma\"><code class=\"language-json\" data-lang=\"json\"><span class=\"line\"><span class=\"cl\"><span class=\"p\">{</span>\n</span></span><span class=\"line\"><span class=\"cl\">    <span class=\"nt\">\"errorType\"</span><span class=\"p\">:</span> <span class=\"s2\">\"TypeError\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">    <span class=\"nt\">\"errorMessage\"</span><span class=\"p\">:</span> <span class=\"s2\">\"performance.markResourceTiming is not a function\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">    <span class=\"nt\">\"stack\"</span><span class=\"p\">:</span> <span class=\"p\">[</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"TypeError: performance.markResourceTiming is not a function\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at markResourceTiming (node:internal/deps/undici/undici:10636:21)\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at finalizeAndReportTiming (node:internal/deps/undici/undici:10632:7)\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at Object.handleFetchDone [as processResponseEndOfBody] (node:internal/deps/undici/undici:10579:45)\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at node:internal/deps/undici/undici:10895:44\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at node:internal/process/task_queues:140:7\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)\"</span><span class=\"p\">,</span>\n</span></span><span class=\"line\"><span class=\"cl\">        <span class=\"s2\">\"    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\"</span>\n</span></span><span class=\"line\"><span class=\"cl\">    <span class=\"p\">]</span>\n</span></span><span class=\"line\"><span class=\"cl\"><span class=\"p\">}</span>\n</span></span></code></pre></div><p>Very odd, and <a href=\"https://github.com/golang/go/issues/57516\">this Go issue</a> is the only thing I could find that may relate 🤔</p>",
+      "value" : "Had anyone ever seen an error like this with #AWSLambda?\nIt's a Node 18 app that calls out to Renovate but fails due to some deep intenals in Node when doing some performance checking?{ \"errorType\": \"TypeError\", \"errorMessage\": \"performance.markResourceTiming is not a function\", \"stack\": [ \"TypeError: performance.markResourceTiming is not a function\", \" at markResourceTiming (node:internal/deps/undici/undici:10636:21)\", \" at finalizeAndReportTiming (node:internal/deps/undici/undici:10632:7)\", \" at Object.handleFetchDone [as processResponseEndOfBody] (node:internal/deps/undici/undici:10579:45)\", \" at node:internal/deps/undici/undici:10895:44\", \" at node:internal/process/task_queues:140:7\", \" at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\", \" at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)\", \" at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\" ] }\nVery odd, and this Go issue is the only thing I could find that may relate 🤔",
+      "lang" : "en-gb"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jamie Tanna" ],
+        "photo" : [ {
+          "value" : "https://www.jvt.me/img/profile.png",
+          "alt" : "Jamie Tanna's profile image"
+        } ],
+        "url" : [ "https://www.jvt.me" ]
+      },
+      "lang" : "en-gb",
+      "value" : "Jamie Tanna"
+    } ]
+  },
+  "lang" : "en-gb"
+}
