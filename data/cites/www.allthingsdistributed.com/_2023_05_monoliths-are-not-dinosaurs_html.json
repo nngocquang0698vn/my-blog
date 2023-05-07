@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Monoliths are not dinosaurs" ],
+    "summary" : [ "Building evolvable software systems is a strategy, not a religion. And revisiting your architectures with an open mind is a must." ],
+    "featured" : [ "https://www.allthingsdistributed.com/images/philosodino.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Dr Werner Vogels - https://www.allthingsdistributed.com/" ]
+      }
+    } ],
+    "url" : [ "https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html" ],
+    "published" : [ "2023-05-05T12:00:00-08:00" ]
+  }
+}
