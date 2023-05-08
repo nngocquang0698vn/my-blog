@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2023-05-06_50191" ],
+    "syndication" : [ "https://fed.brid.gy/user/snarfed.org", "https://bsky.app/profile/snarfed.org/post/3jv3btxw5772y", "https://fed.brid.gy/user/snarfed.org", "https://bsky.app/profile/snarfed.org/post/3jv3btxw5772y" ],
+    "published" : [ "2023-05-06T10:42:29-07:00" ],
+    "content" : [ {
+      "html" : "<p>remembered an important fact about myself just now</p>\n<p>deep down, at heart…I’m a normie</p>\n<p>(and I’m ok with that)</p>",
+      "value" : "remembered an important fact about myself just now\ndeep down, at heart…I’m a normie\n(and I’m ok with that)",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/render?id=https%3A%2F%2Ftech.lgbt%2Fusers%2Fnelson%5E%5Elikes%2F4894364" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nelson Minar 🧚‍♂️" ],
+            "url" : [ "https://tech.lgbt/@nelson" ]
+          },
+          "lang" : "en-US",
+          "value" : "Nelson Minar 🧚‍♂️"
+        } ]
+      },
+      "id" : "comment-2863394",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/render?id=https%3A%2F%2Ftech.lgbt%2Fusers%2Fnelson%5E%5Elikes%2F4894364"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
