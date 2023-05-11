@@ -1,0 +1,152 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "pk-num-likes" : [ "4" ],
+    "pk-num-replies" : [ "2" ],
+    "url" : [ "https://aaronparecki.com/2023/05/09/14/acquisition" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1656139675889967105", "https://micro.blog/aaronpk/18995993" ],
+    "published" : [ "2023-05-09T20:30:39-07:00" ],
+    "content" : [ {
+      "html" : "It's been over ten years so I think it's okay to vaguely mention my experience when the president and owner of the company accidentally broke the embargo of our acquisition due to timezones and really messed things up. Follow this advice <a href=\"https://aaronparecki.com/emoji/%F0%9F%91%87\" class=\"emoji\">👇</a> <a href=\"https://twitter.com/agenttinsley/status/1655997440938627072\"><span class=\"protocol\">https://</span>twitter.com/agenttinsley/status/1655997440938627072</a>",
+      "value" : "It's been over ten years so I think it's okay to vaguely mention my experience when the president and owner of the company accidentally broke the embargo of our acquisition due to timezones and really messed things up. Follow this advice 👇 https://twitter.com/agenttinsley/status/1655997440938627072"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/users/geekgonecrazy#likes/4986335" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Ogle :linux: :manjaro:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://fosstodon.org/users/geekgonecrazy" ]
+          },
+          "value" : "Aaron Ogle :linux: :manjaro:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Ogle :linux: :manjaro:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://masto.nyc/users/jmac#likes/26156" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jason McIntosh" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://masto.nyc/users/jmac" ]
+          },
+          "value" : "Jason McIntosh"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jason McIntosh"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.coop/users/brainwane#likes/1295627" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sumana Harihareswara" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.coop/users/brainwane" ]
+          },
+          "value" : "Sumana Harihareswara"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Sumana Harihareswara"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://phire.place/users/phire#likes/48870" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jenny (phire)" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://phire.place/users/phire" ]
+          },
+          "value" : "jenny (phire)"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jenny (phire)"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.online/@carpetbomberz/110345139519405204" ],
+        "published" : [ "2023-05-10T08:40:08-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> As we know from livestreams on NYE, timezones are HARD.😉</p>",
+          "value" : "@aaronpk As we know from livestreams on NYE, timezones are HARD.😉"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "carpetbomberz" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.online/users/carpetbomberz" ]
+          },
+          "value" : "carpetbomberz"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png carpetbomberz mastodon.online/users/carpetbomberz\n@aaronpk As we know from livestreams on NYE, timezones are HARD.😉 Wed, May 10, 2023 8:40am -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://pub.calebhearth.com/@caleb/110342318255692485" ],
+        "published" : [ "2023-05-09T20:42:38-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> What was leaked?</p>",
+          "value" : "@aaronpk What was leaked?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Caleb Hearth" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://pub.calebhearth.com/users/caleb" ]
+          },
+          "value" : "Caleb Hearth"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Caleb Hearth pub.calebhearth.com/users/caleb\n@aaronpk What was leaked? Tue, May 9, 2023 8:42pm -07:00"
+    } ]
+  },
+  "id" : "post-id-98676"
+}
