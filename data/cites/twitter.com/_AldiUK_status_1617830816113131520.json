@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "No Context Brits" ],
+          "nickname" : [ "NoContextBrits" ],
+          "numeric-id" : [ "1377572924413124609" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1613605401752109056/lajKRbAP.jpg" ],
+          "published" : [ "2021-04-01T10:46:07+00:00" ],
+          "uid" : [ "tag:twitter.com:NoContextBrits" ],
+          "url" : [ "https://twitter.com/NoContextBrits" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Fm8pHY5X0Ao28g0.jpg" ],
+      "published" : [ "2023-01-20T21:59:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1616556006334517271" ],
+      "url" : [ "https://twitter.com/NoContextBrits/status/1616556006334517271" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Aldi Stores UK" ],
+        "nickname" : [ "AldiUK" ],
+        "numeric-id" : [ "28596803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1605189100037963777/Wdkzj5Ol.jpg" ],
+        "published" : [ "2009-04-03T16:26:05+00:00" ],
+        "uid" : [ "tag:twitter.com:AldiUK" ],
+        "url" : [ "https://twitter.com/AldiUK", "https://www.aldi.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Nice to see they’re finally being honest 👀" ],
+    "published" : [ "2023-01-24T10:24:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1617830816113131520" ],
+    "url" : [ "https://twitter.com/AldiUK/status/1617830816113131520" ]
+  },
+  "type" : [ "h-entry" ]
+}
