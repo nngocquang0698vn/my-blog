@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Manton Reece" ],
+    "summary" : [ "I’m excited to announce: Summer of blogging! For new folks signing up on Micro.blog, hosting is only $1/month for the summer. Full blog, photos, themes, ActivityPub, Bluesky cross-posting, and more. It’s a great time to start a blog at your own domain." ],
+    "featured" : [ "https://micro.blog/manton/avatar.jpg", "https://micro.blog/manton/avatar.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ]
+      }
+    } ],
+    "url" : [ "https://www.manton.org/2023/05/11/im-excited-to.html" ],
+    "published" : [ "2023-05-11T15:28:19-05:00" ]
+  }
+}
