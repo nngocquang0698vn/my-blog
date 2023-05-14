@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "in-reply-to" : [ "https://www.jvt.me/events/personal-events/2023-05-wyeax/" ],
+    "in-reply-to" : [ "https://resources.github.com/github-summerfest-2023/" ],
     "published" : [ "2023-05-11T06:46:20.731149973Z" ],
     "post-status" : [ "published" ],
     "rsvp" : [ "maybe" ]
