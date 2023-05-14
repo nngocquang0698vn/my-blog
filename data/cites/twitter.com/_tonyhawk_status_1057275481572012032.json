@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego & world at large" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tony Hawk" ],
+        "nickname" : [ "tonyhawk" ],
+        "numeric-id" : [ "21879024" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325015260/1979_driveway_fs_stink.jpg" ],
+        "published" : [ "2009-02-25T15:52:43+00:00" ],
+        "uid" : [ "tag:twitter.com:tonyhawk" ],
+        "url" : [ "https://twitter.com/tonyhawk", "http://linktr.ee/tonyhawk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I appreciate the hesitation though\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/silenthooper\"></a>",
+      "value" : "I appreciate the hesitation though"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/silenthooper/status/1055455201786781698" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Encinitas, CA" ],
+        "uid" : [ "tag:twitter.com:1f6b47c3f3352385" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2018-10-30T14:18:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1057275481572012032" ],
+    "url" : [ "https://twitter.com/tonyhawk/status/1057275481572012032" ]
+  },
+  "type" : [ "h-entry" ]
+}
