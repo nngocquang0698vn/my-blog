@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-card" ],
+  "properties" : {
+    "note" : [ "My name is Ana Rodrigues and I'm a front end developer in London." ],
+    "name" : [ "Ana Rodrigues" ],
+    "photo" : [ {
+      "value" : "https://ohhelloana.blog/assets/profile.jpg",
+      "alt" : "Selfie of Ana."
+    } ],
+    "url" : [ "http://ohhelloana.blog" ],
+    "author" : [ "https://ohhelloana.blog/one-year-later/Ana Rodrigues" ]
+  },
+  "lang" : "en"
+}
