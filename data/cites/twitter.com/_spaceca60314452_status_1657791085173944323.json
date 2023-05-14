@@ -1,27 +1,65 @@
 {
-  "properties" : {
-    "author" : [ {
-      "properties" : {
-        "location" : [ {
-          "properties" : {
-            "name" : [ "Los Angeles, CA" ]
-          },
-          "type" : [ "h-card", "p-location" ]
-        } ],
-        "name" : [ "forest dwelling communist on stolen land" ],
-        "nickname" : [ "spaceca60314452" ],
-        "numeric-id" : [ "1346272382802034689" ],
-        "photo" : [ "https://pbs.twimg.com/profile_images/1619373985711652865/_0zW0-b7.jpg" ],
-        "published" : [ "2021-01-05T01:48:52+00:00" ],
-        "uid" : [ "tag:twitter.com:spaceca60314452" ],
-        "url" : [ "https://twitter.com/spaceca60314452" ]
-      },
-      "type" : [ "h-card" ]
-    } ],
-    "photo" : [ "https://pbs.twimg.com/media/FwGoNIGaAAAh8i9.jpg" ],
-    "published" : [ "2023-05-14T16:52:49+00:00" ],
-    "uid" : [ "tag:twitter.com:1657791085173944323" ],
-    "url" : [ "https://twitter.com/spaceca60314452/status/1657791085173944323" ]
+  "properties": {
+    "author": [
+      {
+        "properties": {
+          "location": [
+            {
+              "properties": {
+                "name": [
+                  "Los Angeles, CA"
+                ]
+              },
+              "type": [
+                "h-card",
+                "p-location"
+              ]
+            }
+          ],
+          "name": [
+            "forest dwelling communist on stolen land"
+          ],
+          "nickname": [
+            "spaceca60314452"
+          ],
+          "numeric-id": [
+            "1346272382802034689"
+          ],
+          "photo": [
+            {
+              "photo": "https://pbs.twimg.com/profile_images/1619373985711652865/_0zW0-b7.jpg",
+              "alt": "A scene from Superstore, where two employees are chatting during the Coronavirus pandemic, with one employee saying \"You gotta look at it from corporate's perspective. They love money, and they don't care if we die.\""
+            }
+          ],
+          "published": [
+            "2021-01-05T01:48:52+00:00"
+          ],
+          "uid": [
+            "tag:twitter.com:spaceca60314452"
+          ],
+          "url": [
+            "https://twitter.com/spaceca60314452"
+          ]
+        },
+        "type": [
+          "h-card"
+        ]
+      }
+    ],
+    "photo": [
+      "https://pbs.twimg.com/media/FwGoNIGaAAAh8i9.jpg"
+    ],
+    "published": [
+      "2023-05-14T16:52:49+00:00"
+    ],
+    "uid": [
+      "tag:twitter.com:1657791085173944323"
+    ],
+    "url": [
+      "https://twitter.com/spaceca60314452/status/1657791085173944323"
+    ]
   },
-  "type" : [ "h-entry" ]
+  "type": [
+    "h-entry"
+  ]
 }
