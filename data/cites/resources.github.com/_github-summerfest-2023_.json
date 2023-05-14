@@ -1,9 +1,25 @@
 {
-  "type" : [ "h-entry" ],
-  "properties" : {
-    "name" : [ "GitHub Summerfest 2023" ],
-    "summary" : [ "It’s that time of year again—GitHub Summerfest is back! Join us virtually for a jam-packed event with all the favorites you know and love: Demos from subject matter experts, opportunities for Q&A, swag and fun virtual games!" ],
-    "featured" : [ "https://images.ctfassets.net/wfutmusr1t3h/3OoKTcmeaasBlaj20v7EFZ/5096d21a1f881cd43b2be8ae32d98ea3/1200x630-LandingPageBanner-Summerfest.jpg" ],
-    "url" : [ "https://resources.github.com/github-summerfest-2023/" ]
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "name": [
+      "GitHub Summerfest 2023"
+    ],
+    "summary": [
+      "It’s that time of year again—GitHub Summerfest is back! Join us virtually for a jam-packed event with all the favorites you know and love: Demos from subject matter experts, opportunities for Q&A, swag and fun virtual games!"
+    ],
+    "featured": [
+      "https://images.ctfassets.net/wfutmusr1t3h/3OoKTcmeaasBlaj20v7EFZ/5096d21a1f881cd43b2be8ae32d98ea3/1200x630-LandingPageBanner-Summerfest.jpg"
+    ],
+    "url": [
+      "https://resources.github.com/github-summerfest-2023/"
+    ],
+    "start": [
+      "2023-06-06T15:00:00.000Z"
+    ],
+    "end": [
+      "2023-06-06T16:00:00.000Z"
+    ]
   }
 }
