@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Basel to San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Where the Tweets have no name" ],
+        "nickname" : [ "andrewthesmart" ],
+        "numeric-id" : [ "59302880" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/418835771227766784/j0n6_Ohm.jpeg" ],
+        "published" : [ "2009-07-23T00:24:53+00:00" ],
+        "uid" : [ "tag:twitter.com:andrewthesmart" ],
+        "url" : [ "https://twitter.com/andrewthesmart", "http://www.orbooks.com/andrew-smart/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "AI ethics is fine as long as you don’t start questioning capitalism.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/timnitGebru\"></a>",
+      "value" : "AI ethics is fine as long as you don’t start questioning capitalism."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/timnitGebru/status/1657927149259747328" ],
+    "published" : [ "2023-05-15T03:43:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1657954932019036162" ],
+    "url" : [ "https://twitter.com/andrewthesmart/status/1657954932019036162" ]
+  },
+  "type" : [ "h-entry" ]
+}
