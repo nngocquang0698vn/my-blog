@@ -22,7 +22,7 @@ In recent years, it has become unavoidable to build software on top of Open Sour
 
 However, with events such as the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) security vulnerability, times where maintainers have removed their libraries [from package and source repositories](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/), sometimes in [political protest](https://www.wired.com/story/developer-deletes-code-protest-ice/), it's understandable that businesses are somewhat hesitant about the sustainability of projects.
 
-One of the key things that all Open Source licences highlight is that they're provided "as is", with “no warranty”. Although maintainers may get to that bug fix, or incredibly high severity security fix, the whole point is that the source is available for you, dear reader, to contribute that fix without needing to wait for a maintainer to assist you.
+One of the key things that all Open Source licences highlight is that they're provided "as is", with "no warranty". Although maintainers may get to that bug fix, or incredibly high severity security fix, the whole point is that the source is available for you, dear reader, to contribute that fix without needing to wait for a maintainer to assist you.
 
 Sometimes it's straightforward to spot an issue and try to fix it yourself, but if you've never contributed to an Open Source project before it can be particularly daunting, especially if it's a considerably large codebase or if it's critical infrastructure for several companies and projects.
 
