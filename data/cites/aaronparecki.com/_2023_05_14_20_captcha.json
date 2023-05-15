@@ -1,0 +1,157 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "pk-num-likes" : [ "5" ],
+    "pk-num-reposts" : [ "1" ],
+    "pk-num-replies" : [ "1" ],
+    "url" : [ "https://aaronparecki.com/2023/05/14/20/captcha" ],
+    "syndication" : [ "at://did:plc:s2koow7r6t7tozgd4slc3dsg/app.bsky.feed.post/3jvqge5d4ye2j", "https://micro.blog/aaronpk/19122550" ],
+    "published" : [ "2023-05-14T20:30:37-07:00" ],
+    "content" : [ {
+      "html" : "Soon we'll be solving AI-generated captchas by trying to figure out what the machine wants us to think the answer is",
+      "value" : "Soon we'll be solving AI-generated captchas by trying to figure out what the machine wants us to think the answer is"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://emacs.ch/users/skybert#likes/63628" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Torstein Krause Johansen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://emacs.ch/users/skybert" ]
+          },
+          "value" : "Torstein Krause Johansen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Torstein Krause Johansen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://friendica.gidikroon.eu/objects/1f16c6da-1064-61cd-1735-a70267842633" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Gidi Kroon" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://friendica.gidikroon.eu/profile/gidi" ]
+          },
+          "value" : "Gidi Kroon"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Gidi Kroon"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.sdf.org/users/Subumbral#likes/2682697" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mike" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.sdf.org/users/Subumbral" ]
+          },
+          "value" : "Mike"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Mike"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/sonicrocketman#likes/86956506" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "brian schrader" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/sonicrocketman" ]
+          },
+          "value" : "brian schrader"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png brian schrader"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.lifeofpablo.com/users/pablo#likes/284" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Pablo Morales" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.lifeofpablo.com/users/pablo" ]
+          },
+          "value" : "Pablo Morales"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Pablo Morales"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.lifeofpablo.com/users/pablo/statuses/110370629145921930/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Pablo Morales" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.lifeofpablo.com/users/pablo" ]
+          },
+          "value" : "Pablo Morales"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Pablo Morales"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://phire.place/@phire/110370732480658955" ],
+        "published" : [ "2023-05-14T21:08:45-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> tbh I already leave out squares in Google's captcha that technically involve a sliver of a bike or a truck or whatever but that I know the captcha doesn't think is big enough to count ¯\\_(ツ)_/¯</p>",
+          "value" : "@aaronpk tbh I already leave out squares in Google's captcha that technically involve a sliver of a bike or a truck or whatever but that I know the captcha doesn't think is big enough to count ¯\\_(ツ)_/¯"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jenny (phire)" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://phire.place/users/phire" ]
+          },
+          "value" : "jenny (phire)"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jenny (phire) phire.place/users/phire\n@aaronpk tbh I already leave out squares in Google's captcha that technically involve a sliver of a bike or a truck or whatever but that I know the captcha doesn't think is big enough to count ¯\\_(ツ)_/¯ Sun, May 14, 2023 9:08pm -07:00"
+    } ]
+  },
+  "id" : "post-id-98762"
+}
