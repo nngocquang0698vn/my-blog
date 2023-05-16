@@ -1,0 +1,13 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to be a -10x Engineer" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Taylor Troesh" ]
+      }
+    } ],
+    "url" : [ "https://taylor.town/-10x" ]
+  }
+}
