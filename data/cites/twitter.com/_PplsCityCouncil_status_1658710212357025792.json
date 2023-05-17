@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "ABC7 Eyewitness News" ],
+          "nickname" : [ "ABC7" ],
+          "numeric-id" : [ "16374678" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1635785477537304576/zM3O6-92.jpg" ],
+          "published" : [ "2008-09-20T04:22:30+00:00" ],
+          "uid" : [ "tag:twitter.com:ABC7" ],
+          "url" : [ "https://twitter.com/ABC7", "http://abc7.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">There is a serious aggressive bees problem in parts of Southern California. A bee expert explains why some bees cannot be saved. \n<a href=\"https://abc7.com/encino-pasadena-bees-bee-attack/13257206/\">abc7.com/encino-pasaden…</a></div>",
+        "value" : "There is a serious aggressive bees problem in parts of Southern California. A bee expert explains why some bees cannot be saved. \nabc7.com/encino-pasaden…"
+      } ],
+      "published" : [ "2023-05-17T01:53:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1658651808850649096" ],
+      "url" : [ "https://twitter.com/ABC7/status/1658651808850649096" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/abc7/status/16…" ],
+      "url" : [ "https://twitter.com/abc7/status/1658651808850649096" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "People's City Council - Los Angeles" ],
+        "nickname" : [ "PplsCityCouncil" ],
+        "numeric-id" : [ "1253939558514692098" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1644173964846182400/pbxDaHAz.jpg" ],
+        "published" : [ "2020-04-25T06:51:11+00:00" ],
+        "uid" : [ "tag:twitter.com:PplsCityCouncil" ],
+        "url" : [ "https://twitter.com/PplsCityCouncil", "https://www.patreon.com/therobinsonspace" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Copaganda\n<a class=\"tag\" href=\"https://twitter.com/abc7/status/1658651808850649096\">twitter.com/abc7/status/16…</a>",
+      "value" : "Copaganda"
+    } ],
+    "published" : [ "2023-05-17T05:45:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1658710212357025792" ],
+    "url" : [ "https://twitter.com/PplsCityCouncil/status/1658710212357025792" ]
+  },
+  "type" : [ "h-entry" ]
+}
