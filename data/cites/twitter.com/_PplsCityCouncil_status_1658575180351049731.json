@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "ABC7 Eyewitness News" ],
+          "nickname" : [ "ABC7" ],
+          "numeric-id" : [ "16374678" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1635785477537304576/zM3O6-92.jpg" ],
+          "published" : [ "2008-09-20T04:22:30+00:00" ],
+          "uid" : [ "tag:twitter.com:ABC7" ],
+          "url" : [ "https://twitter.com/ABC7", "http://abc7.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "An LAPD volunteer officer was stung dozens of times and lost his footing as he was assisting with the response to a bee swarm in Encino <a href=\"https://abc7.la/455yvuA\">abc7.la/455yvuA</a>",
+        "value" : "An LAPD volunteer officer was stung dozens of times and lost his footing as he was assisting with the response to a bee swarm in Encino abc7.la/455yvuA"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FwOT8cUaMAAz-4D.jpg" ],
+      "published" : [ "2023-05-16T04:42:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1658331994806419458" ],
+      "url" : [ "https://twitter.com/ABC7/status/1658331994806419458" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "People's City Council - Los Angeles" ],
+        "nickname" : [ "PplsCityCouncil" ],
+        "numeric-id" : [ "1253939558514692098" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1644173964846182400/pbxDaHAz.jpg" ],
+        "published" : [ "2020-04-25T06:51:11+00:00" ],
+        "uid" : [ "tag:twitter.com:PplsCityCouncil" ],
+        "url" : [ "https://twitter.com/PplsCityCouncil", "https://www.patreon.com/therobinsonspace" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Bees said ACAB 😭😭😭 <a href=\"https://twitter.com/abc7/status/1658331994806419458\">twitter.com/abc7/status/16…</a>",
+      "value" : "Bees said ACAB 😭😭😭 twitter.com/abc7/status/16…"
+    } ],
+    "published" : [ "2023-05-16T20:48:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1658575180351049731" ],
+    "url" : [ "https://twitter.com/PplsCityCouncil/status/1658575180351049731" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1658575072620343296/pu/vid/888x498/75SNp3AAq8bhdJGX.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
