@@ -1,0 +1,38 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "bridgy-twitter-content" : [ "I wrote about how I picked up Go last year that may be of help 🤞🏽 got some resources linked out from it" ],
+    "uid" : [ "https://www.jvt.me/mf2/2023/05/osaan/" ],
+    "url" : [ "https://www.jvt.me/mf2/2023/05/osaan/" ],
+    "published" : [ "2023-05-16T19:54:00+0100" ],
+    "content" : [ {
+      "html" : "<p>I <a href=\"https://www.jvt.me/posts/2022/08/12/learning-new-language-go/\">wrote about how I picked up Go last year</a> that may be of help 🤞🏽 got some resources linked out from it</p>",
+      "value" : "I wrote about how I picked up Go last year that may be of help 🤞🏽 got some resources linked out from it",
+      "lang" : "en-gb"
+    } ],
+    "in-reply-to" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Patricia Aas (@Patricia@vivaldi.net)" ],
+        "summary" : [ "What is the best “Learning Go” resource?" ],
+        "url" : [ "https://social.vivaldi.net/@Patricia/110379049786911775" ]
+      },
+      "lang" : "en-gb",
+      "value" : "https://social.vivaldi.net/@Patricia/110379049786911775"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jamie Tanna" ],
+        "photo" : [ {
+          "value" : "https://www.jvt.me/img/profile.png",
+          "alt" : "Jamie Tanna's profile image"
+        } ],
+        "url" : [ "https://www.jvt.me" ]
+      },
+      "lang" : "en-gb",
+      "value" : "Jamie Tanna"
+    } ]
+  },
+  "lang" : "en-gb"
+}
