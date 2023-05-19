@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Do you develop with AWS? 👉" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Gardner" ],
+        "nickname" : [ "jeffgardnerdev" ],
+        "numeric-id" : [ "138157498" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1612651657053061122/SM5o1O83.jpg" ],
+        "published" : [ "2010-04-28T19:50:14+00:00" ],
+        "uid" : [ "tag:twitter.com:jeffgardnerdev" ],
+        "url" : [ "https://twitter.com/jeffgardnerdev", "https://clawsapp.com", "http://clawsapp.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Coming soon to claws:\n\nSee what IAM actions are required for any AWS CLI command!\n\n<a href=\"https://twitter.com/search?q=%23buildinpublic\">#buildinpublic</a></div>",
+      "value" : "Coming soon to claws:\n\nSee what IAM actions are required for any AWS CLI command!\n\n#buildinpublic"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fwa0WiaaYAEQ94_.jpg" ],
+    "published" : [ "2023-05-18T14:59:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1659212060998402049" ],
+    "url" : [ "https://twitter.com/jeffgardnerdev/status/1659212060998402049" ]
+  },
+  "type" : [ "h-entry" ]
+}
