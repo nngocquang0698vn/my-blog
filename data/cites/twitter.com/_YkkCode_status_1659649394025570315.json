@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kaan Karakaya" ],
+        "nickname" : [ "YkkCode" ],
+        "numeric-id" : [ "925045844373659649" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1502742418935922694/yNUnV7fU.jpg" ],
+        "published" : [ "2017-10-30T17:04:50+00:00" ],
+        "uid" : [ "tag:twitter.com:YkkCode" ],
+        "url" : [ "https://twitter.com/YkkCode", "https://github.com/TheYkk", "http://booking.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Life saver <a href=\"https://www.jvt.me/posts/2022/07/07/go-mod-fork/\">jvt.me/posts/2022/07/…</a>",
+      "value" : "Life saver jvt.me/posts/2022/07/…"
+    } ],
+    "published" : [ "2023-05-19T19:57:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1659649394025570315" ],
+    "url" : [ "https://twitter.com/YkkCode/status/1659649394025570315" ]
+  },
+  "type" : [ "h-entry" ]
+}
