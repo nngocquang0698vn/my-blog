@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belgium 🇧🇪" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maarten Belmans" ],
+        "nickname" : [ "PoeHaH" ],
+        "numeric-id" : [ "74488053" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/471595663336042497/0e9RmuJ8.jpeg" ],
+        "published" : [ "2009-09-15T16:29:51+00:00" ],
+        "uid" : [ "tag:twitter.com:PoeHaH" ],
+        "url" : [ "https://twitter.com/PoeHaH", "http://studiowombat.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Downtime is important otherwise you burn out and can't build anything.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TweetsOfSumit\"></a>",
+      "value" : "Downtime is important otherwise you burn out and can't build anything."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TweetsOfSumit/status/1564198973161750529" ],
+    "published" : [ "2022-08-29T10:41:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1564201465052381185" ],
+    "url" : [ "https://twitter.com/PoeHaH/status/1564201465052381185" ]
+  },
+  "type" : [ "h-entry" ]
+}
