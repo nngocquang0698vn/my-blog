@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "A million times this" ],
+    "url" : [ "https://werd.io/2023/a-million-times-this" ],
+    "published" : [ "2023-05-20T14:36:17+00:00" ],
+    "content" : [ {
+      "html" : "<blockquote><p>And that's the thing -- the best thing doesn't win -- the one that is easiest for others to build off of is what wins!<br><br><a href=\"https://mastodon.social/@film_girl/110398184875372770\">~ Christina Warren on Mastodon</a>, discussing ActivityPub and AT Protocol</p></blockquote><p>This is exactly right. It’s not about ideological purity or architectural perfection.</p><p>Can a developer take your protocol, without permission or pushback, and build something meaningful in under a day? <em>That’s</em> how you win.</p>",
+      "value" : "And that's the thing -- the best thing doesn't win -- the one that is easiest for others to build off of is what wins!\n\n~ Christina Warren on Mastodon, discussing ActivityPub and AT Protocol\nThis is exactly right. It’s not about ideological purity or architectural perfection.\nCan a developer take your protocol, without permission or pushback, and build something meaningful in under a day? That’s how you win.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ben Werdmuller" ],
+        "url" : [ "https://werd.io/profile/benwerd", "https://werd.io/profile/benwerd", "https://werd.io/profile/benwerd" ],
+        "photo" : [ "https://werd.io/file/5d388c5fb16ea14aac640912/thumb.jpg" ]
+      },
+      "lang" : "en",
+      "value" : "Ben Werdmuller"
+    } ]
+  },
+  "lang" : "en"
+}
