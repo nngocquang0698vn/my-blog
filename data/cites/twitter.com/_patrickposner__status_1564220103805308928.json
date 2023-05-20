@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Deutschland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patrick Posner" ],
+        "nickname" : [ "patrickposner_" ],
+        "numeric-id" : [ "704714606091042817" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1218150672564203521/E1NSp1bs.jpg" ],
+        "published" : [ "2016-03-01T17:07:09+00:00" ],
+        "uid" : [ "tag:twitter.com:patrickposner_" ],
+        "url" : [ "https://twitter.com/patrickposner_", "https://patrickposner.dev", "http://patrickposner.dev/newsletter/", "http://simplystatic.com", "http://simplycdn.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This advice is pretty much trash. You need time to recharge (even if Netflix isn't a good way for that).\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TweetsOfSumit\"></a>",
+      "value" : "This advice is pretty much trash. You need time to recharge (even if Netflix isn't a good way for that)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TweetsOfSumit/status/1564198973161750529" ],
+    "published" : [ "2022-08-29T11:55:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1564220103805308928" ],
+    "url" : [ "https://twitter.com/patrickposner_/status/1564220103805308928" ]
+  },
+  "type" : [ "h-entry" ]
+}
