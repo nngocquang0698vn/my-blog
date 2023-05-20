@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "ClutchPoints" ],
+          "nickname" : [ "ClutchPointsApp" ],
+          "numeric-id" : [ "3312776298" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1328973752646860800/51qxl8bd.jpg" ],
+          "published" : [ "2015-08-11T23:31:20+00:00" ],
+          "uid" : [ "tag:twitter.com:ClutchPointsApp" ],
+          "url" : [ "https://twitter.com/ClutchPointsApp", "http://www.clutchpoints.com", "https://clutchpoints.com/newsletters" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Grizzlies star Ja Morant was allegedly seen holding a gun on an IG Live yesterday.\n\n</div>",
+        "value" : "Grizzlies star Ja Morant was allegedly seen holding a gun on an IG Live yesterday.\n\n"
+      } ],
+      "published" : [ "2023-05-14T11:07:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1657704154800717826" ],
+      "url" : [ "https://twitter.com/ClutchPointsApp/status/1657704154800717826" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1657701855084920832/pu/vid/540x960/k2CN9u5Cas49Dd86.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Dasia" ],
+        "nickname" : [ "here2vent21" ],
+        "numeric-id" : [ "1452629180068290563" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1630268441126117376/XzXSVqls.jpg" ],
+        "published" : [ "2021-10-25T13:32:57+00:00" ],
+        "uid" : [ "tag:twitter.com:here2vent21" ],
+        "url" : [ "https://twitter.com/here2vent21" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "That gun be speaking to Ja Morant like the Green Goblin mask" ],
+    "published" : [ "2023-05-15T01:13:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1657917075237785600" ],
+    "url" : [ "https://twitter.com/here2vent21/status/1657917075237785600" ]
+  },
+  "type" : [ "h-entry" ]
+}
