@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aidan W Steele" ],
+        "nickname" : [ "__steele" ],
+        "numeric-id" : [ "281819105" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199447204311617537/vzdPtfih.jpg" ],
+        "published" : [ "2011-04-14T01:23:40+00:00" ],
+        "uid" : [ "tag:twitter.com:__steele" ],
+        "url" : [ "https://twitter.com/__steele", "https://awsteele.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This afternoon I've been playing with an idea: adding OpenTelemetry to IaC tools (e.g. Terraform here) to get a visual insight into what takes the most time to provision.\n\nHere you can see TF needs to call CreateFunction four times before the IAM role becomes consistent</div>",
+      "value" : "This afternoon I've been playing with an idea: adding OpenTelemetry to IaC tools (e.g. Terraform here) to get a visual insight into what takes the most time to provision.\n\nHere you can see TF needs to call CreateFunction four times before the IAM role becomes consistent"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FwjfE-pakAAI7UR.jpg" ],
+    "published" : [ "2023-05-20T07:22:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1659822002470014976" ],
+    "url" : [ "https://twitter.com/__steele/status/1659822002470014976" ]
+  },
+  "type" : [ "h-entry" ]
+}
