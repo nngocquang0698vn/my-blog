@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "PGX + sqlc v4 to v5 upgrade notes" ],
+    "summary" : [ "Upgrading a Go project from pgx v4 to v5, and more specifically, from sqlc&rsquo;s <code>pgx/v4</code> to <code>pgx/v5</code> driver (the hard part)." ],
+    "url" : [ "https://brandur.org/fragments/pgx-v5-sqlc-upgrade" ]
+  }
+}
