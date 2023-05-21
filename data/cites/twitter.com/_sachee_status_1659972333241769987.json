@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "pdx | sf" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sachee@macaw.social" ],
+        "nickname" : [ "sachee" ],
+        "numeric-id" : [ "69721758" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1576669552678559744/X3haCdsw.jpg" ],
+        "published" : [ "2009-08-28T23:11:59+00:00" ],
+        "uid" : [ "tag:twitter.com:sachee" ],
+        "url" : [ "https://twitter.com/sachee", "http://sashatsolomon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "dumping code on github doesn’t really count as “open-source” just sayin" ],
+    "published" : [ "2023-05-20T17:20:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1659972333241769987" ],
+    "url" : [ "https://twitter.com/sachee/status/1659972333241769987" ]
+  },
+  "type" : [ "h-entry" ]
+}
