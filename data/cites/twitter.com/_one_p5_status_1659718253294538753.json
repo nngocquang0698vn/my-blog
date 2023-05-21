@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "here" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "That one persona in p5" ],
+        "nickname" : [ "one_p5" ],
+        "numeric-id" : [ "1289436757692309505" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1607766799533105153/o5j3NHJi.jpg" ],
+        "published" : [ "2020-08-01T05:44:59+00:00" ],
+        "uid" : [ "tag:twitter.com:one_p5" ],
+        "url" : [ "https://twitter.com/one_p5" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/yuwuki1\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/yuwuki1/status/1659357421133766662" ],
+    "published" : [ "2023-05-20T00:30:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1659718253294538753" ],
+    "url" : [ "https://twitter.com/one_p5/status/1659718253294538753" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1659718137275908096/pu/vid/720x722/nWaofalje90Cb0N8.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
