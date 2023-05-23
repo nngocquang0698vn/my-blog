@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica Crosby" ],
+        "nickname" : [ "Jhyp3" ],
+        "numeric-id" : [ "2299674648" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1649491759779684353/iFFxhCeW.jpg" ],
+        "published" : [ "2014-01-19T13:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:Jhyp3" ],
+        "url" : [ "https://twitter.com/Jhyp3" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When your test payload ends up in production" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fw14DxqaUAAHTxr.jpg" ],
+    "published" : [ "2023-05-23T21:04:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1661115848533368832" ],
+    "url" : [ "https://twitter.com/Jhyp3/status/1661115848533368832" ]
+  },
+  "type" : [ "h-entry" ]
+}
