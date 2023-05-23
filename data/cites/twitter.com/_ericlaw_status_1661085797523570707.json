@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Texas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🎻 Eric Lawrence" ],
+        "nickname" : [ "ericlaw" ],
+        "numeric-id" : [ "5725652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1540416140912087043/C1IEOsY7.jpg" ],
+        "published" : [ "2007-05-02T22:43:15+00:00" ],
+        "uid" : [ "tag:twitter.com:ericlaw" ],
+        "url" : [ "https://twitter.com/ericlaw", "https://textslashplain.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Facebook got sued for failing to preserve user privacy. \n\nThe lawsuit's settlement administrator subsequently sent out non-secure HTTP links to collect user's private information.</div>",
+      "value" : "Facebook got sued for failing to preserve user privacy. \n\nThe lawsuit's settlement administrator subsequently sent out non-secure HTTP links to collect user's private information."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Fw1corTWwAMWSvS.png" ],
+    "published" : [ "2023-05-23T19:04:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1661085797523570707" ],
+    "url" : [ "https://twitter.com/ericlaw/status/1661085797523570707" ]
+  },
+  "type" : [ "h-entry" ]
+}
