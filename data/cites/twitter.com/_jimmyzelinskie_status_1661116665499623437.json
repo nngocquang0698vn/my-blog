@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@jimmy.zelinskie.com" ],
+        "nickname" : [ "jimmyzelinskie" ],
+        "numeric-id" : [ "709065850767204352" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315329734579027973/uEO5SD3j.jpg" ],
+        "published" : [ "2016-03-13T17:17:27+00:00" ],
+        "uid" : [ "tag:twitter.com:jimmyzelinskie" ],
+        "url" : [ "https://twitter.com/jimmyzelinskie", "http://jimmy.zelinskie.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "nope a terminal recorder: <a href=\"https://github.com/charmbracelet/vhs\">github.com/charmbracelet/…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/veekorbes\"></a>",
+      "value" : "nope a terminal recorder: github.com/charmbracelet/…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/veekorbes/status/1661114188205260800" ],
+    "published" : [ "2023-05-23T21:07:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1661116665499623437" ],
+    "url" : [ "https://twitter.com/jimmyzelinskie/status/1661116665499623437" ]
+  },
+  "type" : [ "h-entry" ]
+}
