@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "b3ta towers" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "b3ta" ],
+          "nickname" : [ "b3ta" ],
+          "numeric-id" : [ "66637408" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/876108248377589761/RHvhzjpF.jpg" ],
+          "published" : [ "2009-08-18T09:12:36+00:00" ],
+          "uid" : [ "tag:twitter.com:b3ta" ],
+          "url" : [ "https://twitter.com/b3ta", "http://www.b3ta.com", "https://b3ta.com/subscribe/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We want to hear about your work related fuck-ups. Reply, quote tweet, do your worst." ],
+      "published" : [ "2018-05-03T11:19:29+00:00" ],
+      "uid" : [ "tag:twitter.com:992000687935557632" ],
+      "url" : [ "https://twitter.com/b3ta/status/992000687935557632" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Buy my book here:" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The author, Séamas O'Reilly" ],
+        "nickname" : [ "shockproofbeats" ],
+        "numeric-id" : [ "111449829" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1282765412539695104/4Z-HDQsh.jpg" ],
+        "published" : [ "2010-02-04T23:52:53+00:00" ],
+        "uid" : [ "tag:twitter.com:shockproofbeats" ],
+        "url" : [ "https://twitter.com/shockproofbeats", "http://mammybook.com", "https://mastodon.ie/@shockproofbeats" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Got my days wrong and ended up alone in a room with my boss and the President of Ireland while I was on ketamine." ],
+    "published" : [ "2018-05-03T11:42:45+00:00" ],
+    "uid" : [ "tag:twitter.com:992006545473966082" ],
+    "url" : [ "https://twitter.com/shockproofbeats/status/992006545473966082" ]
+  },
+  "type" : [ "h-entry" ]
+}
