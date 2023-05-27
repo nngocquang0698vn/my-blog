@@ -1,5 +1,6 @@
 ---
-title: "Getting a `--version` flag for Cobra CLIs in Go"
+title: "Getting a `--version` flag for Cobra CLIs in Go, built with GoReleaser"
+
 description: "How to get Cobra to provide a `--version` flag when using GoReleaser."
 tags:
 - blogumentation
@@ -11,6 +12,8 @@ license_code: Apache-2.0
 slug: go-cobra-goreleaser-version
 image: https://media.jvt.me/b41202acf7.png
 ---
+**Update 2023-05-27**: If you're looking for an option that works with GoReleaser and `go install`s, check out my more recent post [_Getting a `--version` flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/05/27/go-cobra-version/).
+
 As part of working on my new Go CLI [`dmd`](https://www.jvt.me/posts/2023/02/20/dmd-cli/), I wanted to implement a `--version` flag to be able to check what version is currently installed.
 
 I'd started looking at how to do this after I spotted that [GoReleaser populates `main.version` ldflags](https://goreleaser.com/cookbooks/using-main.version/) which mean that you can easily consume the data introduced.
