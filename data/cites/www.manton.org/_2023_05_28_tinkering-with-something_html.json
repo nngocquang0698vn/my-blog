@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Manton Reece" ],
+    "summary" : [ "Tinkering with something in Go this morning. Always felt like it would be a good language to know more about, and now finally have a real need." ],
+    "featured" : [ "https://micro.blog/manton/avatar.jpg", "https://micro.blog/manton/avatar.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ]
+      }
+    } ],
+    "url" : [ "https://www.manton.org/2023/05/28/tinkering-with-something.html" ],
+    "published" : [ "2023-05-28T10:37:24-05:00" ]
+  }
+}
