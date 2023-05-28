@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gunnar Morling 🌍" ],
+        "nickname" : [ "gunnarmorling" ],
+        "numeric-id" : [ "2342011352" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411051861415759880/4vzagQao.jpg" ],
+        "published" : [ "2014-02-13T13:48:11+00:00" ],
+        "uid" : [ "tag:twitter.com:gunnarmorling" ],
+        "url" : [ "https://twitter.com/gunnarmorling", "https://morling.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My favourite feature in <a href=\"https://twitter.com/search?q=%23Java\">#Java</a>: the generally small amount of drama in the community.",
+      "value" : "My favourite feature in #Java: the generally small amount of drama in the community."
+    } ],
+    "published" : [ "2023-05-28T15:29:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1662843470141173762" ],
+    "url" : [ "https://twitter.com/gunnarmorling/status/1662843470141173762" ]
+  },
+  "type" : [ "h-entry" ]
+}
