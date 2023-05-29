@@ -1,0 +1,132 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Week 92 - Employed" ],
+    "category" : [ "weeknotes", "emoji-👨🏻‍💼", "job" ],
+    "url" : [ "https://barryfrost.com/2023/05/week-92-employed" ],
+    "syndication" : [ "https://mastodon.social/@barryf/110448148131948765", "https://staging.bsky.app/profile/barryfrost.com/post/3jwsunh4w2i2t" ],
+    "published" : [ "2023-05-28T20:15:07.859Z" ],
+    "updated" : [ "2023-05-28T20:16:54.967Z" ],
+    "content" : [ {
+      "html" : "<ul>\n<li>I (finally) have a new job! On Tuesday I’m joining <a href=\"https://altium.com\">Altium</a>, a leading electronics design software company, as VP Product &amp; Engineering of its <a href=\"https://nexar.com\">Nexar</a> division in Cambridge.</li>\n<li>I’ve been introduced to the team this week over Zoom by CTO, Leigh, but Tuesday will be my first day in the office. I’ve much to learn about the industry, but I’m feeling positive about using my experience with product and engineering teams to help my new colleagues.</li>\n<li>I had stopped writing about my job search in these weeknotes a while ago. It’s taken far longer than I expected. The number of relevant, open, tech leadership roles has been very low, certainly the scarcest I’ve experienced in my career. It’s been a painful process so it’s a huge relief to be able to move forward and get back to work.</li>\n<li>The upturn in my fortunes coincided with a return to shorts weather. Sunshine makes everyone happier doesn’t it? Playing football in the park, walking to the shop to get ice creams, leaving the windows open to let in fresh air. All marvellous.</li>\n</ul>",
+      "value" : "I (finally) have a new job! On Tuesday I’m joining Altium, a leading electronics design software company, as VP Product & Engineering of its Nexar division in Cambridge. I’ve been introduced to the team this week over Zoom by CTO, Leigh, but Tuesday will be my first day in the office. I’ve much to learn about the industry, but I’m feeling positive about using my experience with product and engineering teams to help my new colleagues. I had stopped writing about my job search in these weeknotes a while ago. It’s taken far longer than I expected. The number of relevant, open, tech leadership roles has been very low, certainly the scarcest I’ve experienced in my career. It’s been a painful process so it’s a huge relief to be able to move forward and get back to work. The upturn in my fortunes coincided with a return to shorts weather. Sunshine makes everyone happier doesn’t it? Playing football in the park, walking to the shop to get ice creams, leaving the windows open to let in fresh air. All marvellous.",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "photo" : [ {
+          "value" : "https://barryfrost.com/barryfrost.jpg",
+          "alt" : "Photo of Barry"
+        } ],
+        "url" : [ "https://barryfrost.com/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://barryfrost.com/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@barryf/110448148131948765#favorited-by-109539068736577837" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ {
+              "value" : "https://webmention.io/avatar/files.mastodon.social/c30669b86c5d09c259c8576995c65e9392c5a31cc43f4c1c02b84e92a3917203.png",
+              "alt" : "Joel Chippindale"
+            } ],
+            "name" : [ "Joel Chippindale" ]
+          },
+          "lang" : "en-GB",
+          "value" : "Joel Chippindale"
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "Joel Chippindale"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Paul Robert Lloyd" ],
+        "url" : [ "https://mastodon.social/@paulrobertlloyd", "https://mastodon.social/@paulrobertlloyd/110448997062150780" ],
+        "published" : [ "2023-05-28T23:52:28" ],
+        "content" : [ {
+          "html" : "@barryf Congratulations! And phew! 😅",
+          "value" : "@barryf Congratulations! And phew! 😅",
+          "lang" : "en-GB"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "url" : [ "https://mastodon.social/@paulrobertlloyd/110448997062150780" ],
+            "photo" : [ {
+              "value" : "https://webmention.io/avatar/files.mastodon.social/e815c45874d8fbbedf2d91ee2bcdb312cdc76683900d5600d1af52137a45ab31.jpg",
+              "alt" : "Paul Robert Lloyd"
+            } ],
+            "name" : [ "Paul Robert Lloyd" ]
+          },
+          "lang" : "en-GB",
+          "value" : "Paul Robert Lloyd"
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "Paul Robert Lloyd"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "url" : [ "https://mastodon.social/@barryf", "https://mastodon.social/@barryf/110450685845573309" ],
+        "published" : [ "2023-05-29T07:01:57" ],
+        "content" : [ {
+          "html" : "@paulrobertlloyd Thanks, Paul! 😅",
+          "value" : "@paulrobertlloyd Thanks, Paul! 😅",
+          "lang" : "en-GB"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "url" : [ "https://mastodon.social/@barryf/110450685845573309" ],
+            "photo" : [ {
+              "value" : "https://webmention.io/avatar/files.mastodon.social/ab1f18e6bc612b927dff2e049d718ba7863170a3f5d687c135429401ec564267.png",
+              "alt" : "Barry Frost"
+            } ],
+            "name" : [ "Barry Frost" ]
+          },
+          "lang" : "en-GB",
+          "value" : "Barry Frost"
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "Barry Frost"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Joel Chippindale" ],
+        "url" : [ "https://social.monkeysthumb.co.uk/@joel", "https://social.monkeysthumb.co.uk/@joel/110450742647869408" ],
+        "published" : [ "2023-05-29T07:16:23" ],
+        "content" : [ {
+          "html" : "@barryf That is such good news. Congratulations!!",
+          "value" : "@barryf That is such good news. Congratulations!!",
+          "lang" : "en-GB"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "url" : [ "https://social.monkeysthumb.co.uk/@joel/110450742647869408" ],
+            "photo" : [ {
+              "value" : "https://webmention.io/avatar/files.mastodon.social/c30669b86c5d09c259c8576995c65e9392c5a31cc43f4c1c02b84e92a3917203.png",
+              "alt" : "Joel Chippindale"
+            } ],
+            "name" : [ "Joel Chippindale" ]
+          },
+          "lang" : "en-GB",
+          "value" : "Joel Chippindale"
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "Joel Chippindale"
+    } ]
+  },
+  "lang" : "en-GB"
+}
