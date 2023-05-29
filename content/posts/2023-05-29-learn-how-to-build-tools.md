@@ -9,7 +9,6 @@ date: 2023-05-29T07:57:24-06:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: learn-how-to-build-tools
-image: https://media.jvt.me/0460384ac4.jpeg
 ---
 <blockquote>This article was <a href="https://letterstoanewdeveloper.com/2023/05/29/learn-how-to-build-tools/" class="u-repost-of">originally published</a> for <a href="https://letterstoanewdeveloper.com/">Letters to a New Developer</a>.</blockquote>
 
