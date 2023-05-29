@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Long Beach, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack" ],
+        "nickname" : [ "Jac5Connor" ],
+        "numeric-id" : [ "1396205948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526191522923917312/U0D49GGz.jpg" ],
+        "published" : [ "2013-05-02T03:56:32+00:00" ],
+        "uid" : [ "tag:twitter.com:Jac5Connor" ],
+        "url" : [ "https://twitter.com/Jac5Connor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Do you think \"lines of code\" is a useful measurement of developer work? Because I definitely don't.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/chsrbrts\"></a>",
+      "value" : "Do you think \"lines of code\" is a useful measurement of developer work? Because I definitely don't."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/chsrbrts/status/1662157270002851841" ],
+    "published" : [ "2023-05-27T14:49:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1662471010871025665" ],
+    "url" : [ "https://twitter.com/Jac5Connor/status/1662471010871025665" ]
+  },
+  "type" : [ "h-entry" ]
+}
