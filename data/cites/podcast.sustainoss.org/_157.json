@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Joel Wasserman on lessons learned with Flossbank" ],
+    "summary" : [ "Joel goes in-depth about what he learned about the open source ecosystem while building and running Flossbank, a dependency-funding tool that closed down last year. " ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/27729c65-f4a6-4496-8c86-820e7f13b285/episodes/e/ee2079f6-1f91-44b8-8465-875830039e07/cover_medium.jpg?v=2" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/27729c65-f4a6-4496-8c86-820e7f13b285/ee2079f6-1f91-44b8-8465-875830039e07.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SustainOSS" ]
+      }
+    } ],
+    "url" : [ "https://podcast.sustainoss.org/157" ]
+  }
+}
