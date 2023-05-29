@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Coruscant 1313" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "StarWarsOnly" ],
+          "nickname" : [ "StarWars0nly" ],
+          "numeric-id" : [ "1534592728637616129" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1654288204332257281/4XrfhyH_.jpg" ],
+          "published" : [ "2022-06-08T17:48:02+00:00" ],
+          "uid" : [ "tag:twitter.com:StarWars0nly" ],
+          "url" : [ "https://twitter.com/StarWars0nly" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Does this bother you in ROTJ?" ],
+      "published" : [ "2023-05-18T16:38:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1659237070504640515" ],
+      "url" : [ "https://twitter.com/StarWars0nly/status/1659237070504640515" ],
+      "video" : [ "https://video.twimg.com/tweet_video/FwbLQhhWABEd40V.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Mark Hamill" ],
+        "nickname" : [ "MarkHamill" ],
+        "numeric-id" : [ "304679484" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1650221053145419776/E_lIqqm1.jpg" ],
+        "published" : [ "2011-05-24T22:52:49+00:00" ],
+        "uid" : [ "tag:twitter.com:MarkHamill" ],
+        "url" : [ "https://twitter.com/MarkHamill" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How could anyone possibly be bothered by my widely celebrated, perfectly executed Force-Kick?!" ],
+    "published" : [ "2023-05-27T18:42:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1662529702207303680" ],
+    "url" : [ "https://twitter.com/MarkHamill/status/1662529702207303680" ]
+  },
+  "type" : [ "h-entry" ]
+}
