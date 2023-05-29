@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oklahoma City, OK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Rackis" ],
+        "nickname" : [ "AdamRackis" ],
+        "numeric-id" : [ "68567860" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1183169082243375104/FwXKVe5H.jpg" ],
+        "published" : [ "2009-08-25T01:15:35+00:00" ],
+        "uid" : [ "tag:twitter.com:AdamRackis" ],
+        "url" : [ "https://twitter.com/AdamRackis", "https://github.com/arackaf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "So the Rust community is becoming toxic? My interest it piqued. Looks like it might be ready for production lessgooo" ],
+    "published" : [ "2023-05-27T15:52:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1662487027198164993" ],
+    "url" : [ "https://twitter.com/AdamRackis/status/1662487027198164993" ]
+  },
+  "type" : [ "h-entry" ]
+}
