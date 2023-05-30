@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Global" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tauri" ],
+        "nickname" : [ "TauriApps" ],
+        "numeric-id" : [ "1168568340492750849" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1427375984475578389/jWzgho1b.png" ],
+        "published" : [ "2019-09-02T16:56:45+00:00" ],
+        "uid" : [ "tag:twitter.com:TauriApps" ],
+        "url" : [ "https://twitter.com/TauriApps", "https://tauri.app", "http://opencollective.com/tauri" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We identified a naive attack on our docs repo. It didn't do anything, except get us to rotate our secrets and revisit the posture of our actions. Many others were similarly attacked, and after we informed <a href=\"https://twitter.com/github\">@GitHub</a> security, the user account has been suspended. \n\n<a href=\"https://twitter.com/search?q=%23secureinpublic\">#secureinpublic</a></div>",
+      "value" : "We identified a naive attack on our docs repo. It didn't do anything, except get us to rotate our secrets and revisit the posture of our actions. Many others were similarly attacked, and after we informed @GitHub security, the user account has been suspended. \n\n#secureinpublic"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FxTXDMfWwAECF00.jpg" ],
+    "published" : [ "2023-05-29T14:34:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1663192002681356290" ],
+    "url" : [ "https://twitter.com/TauriApps/status/1663192002681356290" ]
+  },
+  "type" : [ "h-entry" ]
+}
