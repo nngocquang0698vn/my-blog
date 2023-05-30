@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Excited to be hearing from @pluralistic@mamot.fr this evening 🙌🏽"
+      "value" : "Excited to be hearing from <span class=\"h-card\"><a class=\"u-url\" href=\"https://pluralistic.net/\">Cory Doctorow</a></span> this evening 🙌🏽"
     } ]
   },
   "kind" : "notes",
