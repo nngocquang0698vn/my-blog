@@ -35,6 +35,7 @@ There are a few Free and Open Source projects that I maintain:
 - [dependabot-graph](https://gitlab.com/tanna.dev/dependabot-graph)
 - [dmd.tanna.dev / dependency-management-data](https://dmd.tanna.dev/)
 - [`serve`](https://gitlab.com/tanna.dev/serve)
+- [schema-sorbet](https://gitlab.com/tanna.dev/schema-sorbet)
 
 I also work very hard on producing Free and Open Source solutions as part of the content on this website.
 
