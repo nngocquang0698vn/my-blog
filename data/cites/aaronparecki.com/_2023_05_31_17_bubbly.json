@@ -1,0 +1,238 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "pk-num-likes" : [ "4" ],
+    "pk-num-reposts" : [ "2" ],
+    "pk-num-replies" : [ "4" ],
+    "url" : [ "https://aaronparecki.com/2023/05/31/17/bubbly" ],
+    "syndication" : [ "at://did:plc:s2koow7r6t7tozgd4slc3dsg/app.bsky.feed.post/3jx3c46u3ck2i", "https://micro.blog/aaronpk/19548948" ],
+    "published" : [ "2023-05-31T21:39:04-07:00" ],
+    "content" : [ {
+      "html" : "I just had a glass of $900 champagne and I swear I couldn't tell the difference between that and the $8 bottle Trader Joe's bubbly",
+      "value" : "I just had a glass of $900 champagne and I swear I couldn't tell the difference between that and the $8 bottle Trader Joe's bubbly"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Las Vegas" ],
+        "region" : [ "Nevada" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Las Vegas, Nevada, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://pl.starnix.network/activities/4b04a991-d2a4-491e-9a7a-9f7d3ddea45a" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Vad fan?" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://pl.starnix.network/users/VikingKong" ]
+          },
+          "value" : "Vad fan?"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Vad fan?"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/zastrow#likes/89343086" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Philip Zastrow" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/zastrow" ]
+          },
+          "value" : "Philip Zastrow"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Philip Zastrow"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://emacs.ch/users/skybert#likes/70726" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Torstein Krause Johansen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://emacs.ch/users/skybert" ]
+          },
+          "value" : "Torstein Krause Johansen"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Torstein Krause Johansen"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://pablomorales.blog/o/2b5f331f05b44648a112ec952f13c4d1" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Pablo Morales" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://pablomorales.blog" ]
+          },
+          "value" : "Pablo Morales"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Pablo Morales"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://pablomorales.blog/o/ee7f2e5a414442b9bd3a498370090cc2" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Pablo Morales" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://pablomorales.blog" ]
+          },
+          "value" : "Pablo Morales"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Pablo Morales"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://pablomorales.blog/o/bdf561cc7f664f7ba142dddb71d8440f" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Pablo Morales" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://pablomorales.blog" ]
+          },
+          "value" : "Pablo Morales"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Pablo Morales"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.cloud/@michaelslade/110467685623866517" ],
+        "published" : [ "2023-06-01T00:05:13-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> You remind me of the EE prof. I had who was graced with $500 ears. He claimed he couldn’t hear the difference between a $500 and a $50,000 stereo so he saved a lot.</p>",
+          "value" : "@aaronpk You remind me of the EE prof. I had who was graced with $500 ears. He claimed he couldn’t hear the difference between a $500 and a $50,000 stereo so he saved a lot."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Michael Slade" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.cloud/users/michaelslade" ]
+          },
+          "value" : "Michael Slade"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Michael Slade mastodon.cloud/users/michaelslade\n@aaronpk You remind me of the EE prof. I had who was graced with $500 ears. He claimed he couldn’t hear the difference between a $500 and a $50,000 stereo so he saved a lot. Thu, Jun 1, 2023 12:05am -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://emacs.ch/@skybert/110467500982610152" ],
+        "published" : [ "2023-05-31T23:18:15-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> Joined the fediverse in 1999. Impressive! 😂</p>",
+          "value" : "@aaronpk Joined the fediverse in 1999. Impressive! 😂"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Torstein Krause Johansen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://emacs.ch/users/skybert" ]
+          },
+          "value" : "Torstein Krause Johansen"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Torstein Krause Johansen emacs.ch/users/skybert\n@aaronpk Joined the fediverse in 1999. Impressive! 😂 https://pkcdn.xyz/media.emacs.ch/81496d2224d6d8e8a6caf68b315a6baf957e662d1fa2c32cf05d7ef9341619cc.png Wed, May 31, 2023 11:18pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://tech.lgbt/@nelson/110467220137589220" ],
+        "published" : [ "2023-05-31T22:06:50-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> congratulations! That is a blessing.</p>",
+          "value" : "@aaronpk congratulations! That is a blessing."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nelson Minar" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://tech.lgbt/users/nelson" ]
+          },
+          "value" : "Nelson Minar"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Nelson Minar tech.lgbt/users/nelson\n@aaronpk congratulations! That is a blessing. Wed, May 31, 2023 10:06pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@spacer/110467212672625924" ],
+        "published" : [ "2023-05-31T22:04:56-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> if it's not from Trader county, it's just sparkling Joe, though ;)</p>",
+          "value" : "@aaronpk if it's not from Trader county, it's just sparkling Joe, though ;)"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "spacer" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://hachyderm.io/users/spacer" ]
+          },
+          "value" : "spacer"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png spacer hachyderm.io/users/spacer\n@aaronpk if it's not from Trader county, it's just sparkling Joe, though ;) Wed, May 31, 2023 10:04pm -07:00"
+    } ]
+  },
+  "id" : "post-id-99112"
+}
