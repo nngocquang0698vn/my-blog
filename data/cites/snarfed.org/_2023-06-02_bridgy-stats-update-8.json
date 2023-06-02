@@ -1,0 +1,100 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Bridgy stats update" ],
+    "url" : [ "https://snarfed.org/2023-06-02_bridgy-stats-update-8" ],
+    "syndication" : [ "https://news.indieweb.org/en", "https://snarfed.org/2023-06-02_bridgy-stats-update-8", "https://fed.brid.gy/user/snarfed.org", "https://news.indieweb.org/en", "https://snarfed.org/2023-06-02_bridgy-stats-update-8", "https://fed.brid.gy/user/snarfed.org" ],
+    "photo" : [ "https://snarfed.org/bridgy_stats/2023/accounts_stacked_thumb.png", "https://snarfed.org/bridgy_stats/2023/features_thumb.png", "https://snarfed.org/bridgy_stats/2023/webmentions_thumb.png", "https://snarfed.org/bridgy_stats/2023/publishes_thumb.png", "https://snarfed.org/bridgy_stats/2023/costs_users_recent_thumb.png", "https://snarfed.org/bridgy_stats/2023/accounts_stacked_recent_thumb.png", "https://snarfed.org/bridgy_stats/2023/github_commits_bridgy.png", "https://snarfed.org/bridgy_stats/2023/github_additions_bridgy.png", "https://snarfed.org/bridgy_stats/2023/github_commits_bridgy_fed.png", "https://snarfed.org/bridgy_stats/2023/github_additions_bridgy_fed.png", "https://snarfed.org/bridgy_stats/2023/github_commits_granary.png", "https://snarfed.org/bridgy_stats/2023/github_additions_granary.png", "https://snarfed.org/bridgy_stats/2023/costs_users_thumb.png" ],
+    "published" : [ "2023-06-02T10:29:50-07:00" ],
+    "content" : [ {
+      "html" : "<style type=\"text/css\">.half { margin-bottom: 1em; } .half.right { clear: both; margin-left: 0px; margin-right: -10px; } .half.left { margin-right: 0px; }</style>\n<p class=\"right third\">\n <a href=\"https://brid.gy/\">\n  <img decoding=\"async\" src=\"https://snarfed.org/bridgy_logo.png\" data-lazy-src=\"/bridgy_logo.png?is-pending-load=1\" srcset=\"\" class=\" jetpack-lazy-image\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" src=\"https://snarfed.org/bridgy_logo.png\"></noscript>\n<p>Well, well, well, what do we have here. It’s this year’s <a href=\"https://brid.gy/\">Bridgy</a> stats update, and it’s one of the most eventful in a long time. Notice anything new?</p>\n<p class=\"right half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/accounts_stacked.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/accounts_stacked_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/accounts_stacked_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/accounts_stacked_thumb.png\"></noscript>\n\n<p class=\"left half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/features.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/features_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/features_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/features_thumb.png\"></noscript>\n\n<p class=\"right half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/webmentions.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/webmentions_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/webmentions_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/webmentions_thumb.png\"></noscript>\n\n<p class=\"left half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/publishes.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/publishes_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/publishes_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/publishes_thumb.png\"></noscript>\n<p><span id=\"more-50358\"></span></p>\n<p><br style=\"clear: both\"></p>\n<p>That’s right, there’s a huge ass cliff a couple months ago. Let’s see that a bit closer….</p>\n<p class=\"right half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/costs_users_recent.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/costs_users_recent_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/costs_users_recent_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/costs_users_recent_thumb.png\"></noscript>\n\n<p class=\"left half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/accounts_stacked_recent.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/accounts_stacked_recent_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/accounts_stacked_recent_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/accounts_stacked_recent_thumb.png\"></noscript>\n\n<p><br style=\"clear: both\"></p>\n<p>If you guessed that cliff was Twitter, ding ding ding, winner winner chicken dinner. <a href=\"https://snarfed.org/2023-04-03_so-long-twitter-api-and-thanks-for-all-the-fish\">The Twitter API apocalypse came and went</a>, and they still haven’t managed to found the off button itself – some smaller apps like <a href=\"https://granary.io/\">granary</a> are still up and running just fine – but they manually suspended Bridgy and most other nontrivial apps.</p>\n<p>Twitter accounted for a majority of both Bridgy accounts, 4k of the 10k total as of April 2023, and backfeed and publish volume, which you can see in the plateaus in sent webmentions and successful publishes over the last couple months.</p>\n<p>The other striking trend is the marked uptick in Mastodon account growth since Elon took over back in November. It’s more than doubled in the last 6 months, from 557 on Nov. 1 to 1125 yesterday! Exodus indeed.</p>\n<p>In Bridgy land, the Twitter implosion and Mastodon growth has spurred more development on <a href=\"https://granary.io/\">granary</a> and especially <a href=\"https://fed.brid.gy/\">Bridgy Fed</a>, its decentralized/federated cousin, than on Bridgy itself. Expect that to continue for the foreseeable future.</p>\n<p class=\"right half\">\n <a href=\"https://github.com/snarfed/bridgy/graphs/contributors?from=2022-08-04&amp;to=2023-06-02&amp;type=c\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/github_commits_bridgy.png\" data-lazy-src=\"/bridgy_stats/2023/github_commits_bridgy.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/github_commits_bridgy.png\"></noscript>\n\n<p class=\"left half\">\n <a href=\"https://github.com/snarfed/bridgy/graphs/contributors?from=2022-08-04&amp;to=2023-06-02&amp;type=a\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/github_additions_bridgy.png\" data-lazy-src=\"/bridgy_stats/2023/github_additions_bridgy.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/github_additions_bridgy.png\"></noscript>\n\n<p class=\"right half\">\n <a href=\"https://github.com/snarfed/bridgy-fed/graphs/contributors?from=2022-08-04&amp;to=2023-06-02&amp;type=c\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/github_commits_bridgy_fed.png\" data-lazy-src=\"/bridgy_stats/2023/github_commits_bridgy_fed.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/github_commits_bridgy_fed.png\"></noscript>\n\n<p class=\"left half\">\n <a href=\"https://github.com/snarfed/bridgy-fed/graphs/contributors?from=2022-08-04&amp;to=2023-06-02&amp;type=a\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/github_additions_bridgy_fed.png\" data-lazy-src=\"/bridgy_stats/2023/github_additions_bridgy_fed.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/github_additions_bridgy_fed.png\"></noscript>\n\n<p class=\"right half\">\n <a href=\"https://github.com/snarfed/granary/graphs/contributors?from=2022-08-04&amp;to=2023-06-02&amp;type=c\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/github_commits_granary.png\" data-lazy-src=\"/bridgy_stats/2023/github_commits_granary.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/github_commits_granary.png\"></noscript>\n\n<p class=\"left half\">\n <a href=\"https://github.com/snarfed/granary/graphs/contributors?from=2022-08-04&amp;to=2023-06-02&amp;type=a\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/github_additions_granary.png\" data-lazy-src=\"/bridgy_stats/2023/github_additions_granary.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/github_additions_granary.png\"></noscript>\n\n<p><br style=\"clear: both\"></p>\n<p>As for the rest of the numbers: 6278 accounts (after subtracting Twitter), 32M silo responses, 5.3M links, 2.5M webmentions sent, 125K posts published, 138K <a href=\"https://brid.gy/about#blogs\">blog posts processed</a>, 18K <a href=\"https://brid.gy/about#blogs\">blog webmentions</a> received. Apart from Twitter and Mastodon, trends and growth and costs are largely stable <a href=\"https://snarfed.org/2022-06-05_bridgy-stats-update-7\">since last year</a>. The uptick in the “other” (ie not Bridgy) yellow line is largely due to Bridgy Fed growth.</p>\n<p class=\"half\">\n <a href=\"https://snarfed.org/bridgy_stats/2023/costs_users.png\">\n  <img decoding=\"async\" class=\"shadow jetpack-lazy-image\" src=\"https://snarfed.org/bridgy_stats/2023/costs_users_thumb.png\" data-lazy-src=\"/bridgy_stats/2023/costs_users_thumb.png?is-pending-load=1\" srcset=\"\"></a></p><noscript><img data-lazy-fallback=\"1\" decoding=\"async\" class=\"u-photo shadow\" src=\"https://snarfed.org/bridgy_stats/2023/costs_users_thumb.png\"></noscript>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1VhGiZ9Z9PEl7f9ciiVZZgupNcUTsRVltQ8_CqFETpfU/edit\">Data</a>,\n<a href=\"https://github.com/snarfed/bridgy#stats\">methodology</a>,\n<a href=\"https://snarfed.org/2022-06-05_bridgy-stats-update-7\">previously</a>,\n<a href=\"https://snarfed.org/2021-06-05_bridgy-stats-update-6\">previously</a>,\n<a href=\"https://snarfed.org/2020-06-27_bridgy-stats-update-5\">previously</a>,\n<a href=\"https://snarfed.org/2019-01-02_bridgy-stats-update-4\">previously</a>,\n<a href=\"https://snarfed.org/2018-01-02_bridgy-stats-update-3\">previously</a>,\n<a href=\"https://snarfed.org/2016-06-06_bridgy-stats-update-2\">previously</a>,\n<a href=\"https://snarfed.org/2015-12-07_bridgy-stats-update\">previously</a>,\n<a href=\"https://snarfed.org/2014-11-06_happy-1000th-bridgy\">previously</a>.</p>",
+      "value" : "https://snarfed.org/bridgy_logo.png https://snarfed.org/bridgy_logo.png\nWell, well, well, what do we have here. It’s this year’s Bridgy stats update, and it’s one of the most eventful in a long time. Notice anything new?\nhttps://snarfed.org/bridgy_stats/2023/accounts_stacked_thumb.png https://snarfed.org/bridgy_stats/2023/accounts_stacked_thumb.png\nhttps://snarfed.org/bridgy_stats/2023/features_thumb.png https://snarfed.org/bridgy_stats/2023/features_thumb.png\nhttps://snarfed.org/bridgy_stats/2023/webmentions_thumb.png https://snarfed.org/bridgy_stats/2023/webmentions_thumb.png\nhttps://snarfed.org/bridgy_stats/2023/publishes_thumb.png https://snarfed.org/bridgy_stats/2023/publishes_thumb.png\n\n\n\nThat’s right, there’s a huge ass cliff a couple months ago. Let’s see that a bit closer….\nhttps://snarfed.org/bridgy_stats/2023/costs_users_recent_thumb.png https://snarfed.org/bridgy_stats/2023/costs_users_recent_thumb.png\nhttps://snarfed.org/bridgy_stats/2023/accounts_stacked_recent_thumb.png https://snarfed.org/bridgy_stats/2023/accounts_stacked_recent_thumb.png\n\n\nIf you guessed that cliff was Twitter, ding ding ding, winner winner chicken dinner. The Twitter API apocalypse came and went, and they still haven’t managed to found the off button itself – some smaller apps like granary are still up and running just fine – but they manually suspended Bridgy and most other nontrivial apps.\nTwitter accounted for a majority of both Bridgy accounts, 4k of the 10k total as of April 2023, and backfeed and publish volume, which you can see in the plateaus in sent webmentions and successful publishes over the last couple months.\nThe other striking trend is the marked uptick in Mastodon account growth since Elon took over back in November. It’s more than doubled in the last 6 months, from 557 on Nov. 1 to 1125 yesterday! Exodus indeed.\nIn Bridgy land, the Twitter implosion and Mastodon growth has spurred more development on granary and especially Bridgy Fed, its decentralized/federated cousin, than on Bridgy itself. Expect that to continue for the foreseeable future.\nhttps://snarfed.org/bridgy_stats/2023/github_commits_bridgy.png https://snarfed.org/bridgy_stats/2023/github_commits_bridgy.png\nhttps://snarfed.org/bridgy_stats/2023/github_additions_bridgy.png https://snarfed.org/bridgy_stats/2023/github_additions_bridgy.png\nhttps://snarfed.org/bridgy_stats/2023/github_commits_bridgy_fed.png https://snarfed.org/bridgy_stats/2023/github_commits_bridgy_fed.png\nhttps://snarfed.org/bridgy_stats/2023/github_additions_bridgy_fed.png https://snarfed.org/bridgy_stats/2023/github_additions_bridgy_fed.png\nhttps://snarfed.org/bridgy_stats/2023/github_commits_granary.png https://snarfed.org/bridgy_stats/2023/github_commits_granary.png\nhttps://snarfed.org/bridgy_stats/2023/github_additions_granary.png https://snarfed.org/bridgy_stats/2023/github_additions_granary.png\n\n\nAs for the rest of the numbers: 6278 accounts (after subtracting Twitter), 32M silo responses, 5.3M links, 2.5M webmentions sent, 125K posts published, 138K blog posts processed, 18K blog webmentions received. Apart from Twitter and Mastodon, trends and growth and costs are largely stable since last year. The uptick in the “other” (ie not Bridgy) yellow line is largely due to Bridgy Fed growth.\nhttps://snarfed.org/bridgy_stats/2023/costs_users_thumb.png https://snarfed.org/bridgy_stats/2023/costs_users_thumb.png\nData, methodology, previously, previously, previously, previously, previously, previously, previously, previously.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://jamesg.coffee/2023/bridgy-stats-update-snarfedorg-1" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "James' Coffee Blog" ],
+            "url" : [ "https://jamesg.coffee/profile/capjamesg" ]
+          },
+          "lang" : "en-US",
+          "value" : "James' Coffee Blog"
+        } ]
+      },
+      "id" : "comment-2864295",
+      "lang" : "en-US",
+      "value" : "https://jamesg.coffee/2023/bridgy-stats-update-snarfedorg-1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/convert/activitypub/web/https:/mitra.social/objects/01887d3b-425d-d080-d774-8a033a50fdd4" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "silverpill" ],
+            "url" : [ "https://mitra.social/users/silverpill" ]
+          },
+          "lang" : "en-US",
+          "value" : "silverpill"
+        } ]
+      },
+      "id" : "comment-2864291",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/convert/activitypub/web/https:/mitra.social/objects/01887d3b-425d-d080-d774-8a033a50fdd4"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fed.brid.gy/convert/activitypub/web/https:/mstdn.social/users/rmdes/statuses/110475999346912381/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ricardo" ],
+            "url" : [ "https://mstdn.social/@rmdes" ]
+          },
+          "lang" : "en-US",
+          "value" : "Ricardo"
+        } ]
+      },
+      "id" : "comment-2864293",
+      "lang" : "en-US",
+      "value" : "https://fed.brid.gy/convert/activitypub/web/https:/mstdn.social/users/rmdes/statuses/110475999346912381/activity"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
