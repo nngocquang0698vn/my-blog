@@ -1,10 +1,10 @@
 {
   "type" : [ "h-entry" ],
   "properties" : {
-    "name" : [ "The Architecture of Mastodon" ],
-    "summary" : [ "I was curious about how Mastodon is actually implemented. A high-level overview:\n\n * Web app is written in Ruby on Rails\n * Persistence layer is PostgreSQL\n * File storage/mailer is S3/SMTP agnostic\n * Redis for precomputed social feed cache and worker queue\n * Sidekiq for background processing\n * A node handler for streaming (notifications, new posts, etc.)\n\nLooking at the code, it's definitely an interesting look into the early 2010s style of development. There's nothing wrong with it, and in " ],
-    "featured" : [ "https://matt-rickard.com/api/og?title=The%20Architecture%20of%20Mastodon" ],
+    "name" : [ "Practical Dependency Management for Developers" ],
+    "summary" : [ "Managing software dependencies is one of the most time-intensive tasks for most software developers. There are nine circles of dependency hell. It takes away from building new features or bringing down technical debt. However, it causes headaches at every step of the development cycle — from local development to CI/CD, production, and maintenance.\n\nSome useful tips on wrangling dependencies from someone who worked on large-scale projects, CI/CD, build tools, and more.\n\nPin your dependencies. If " ],
+    "featured" : [ "https://matt-rickard.com/api/og?title=Practical%20Dependency%20Management%20for%20Developers" ],
     "url" : [ "https://matt-rickard.com" ],
-    "published" : [ "2022-12-20T06:30:06.000-08:00" ]
+    "published" : [ "2023-06-02T06:30:57.000-07:00" ]
   }
 }
