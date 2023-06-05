@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netlify" ],
+        "nickname" : [ "Netlify" ],
+        "numeric-id" : [ "2571501973" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1633183038140981248/Mz4bv8Ja.png" ],
+        "published" : [ "2014-06-16T19:11:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Netlify" ],
+        "url" : [ "https://twitter.com/Netlify", "https://www.netlify.com", "http://answers.netlify.com", "http://netlify.com/support" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">3 things devs don’t ever want to do:\n1️⃣ Fix printers\n2️⃣ Update website copy\n3️⃣ Fix printers</div>",
+      "value" : "3 things devs don’t ever want to do:\n1️⃣ Fix printers\n2️⃣ Update website copy\n3️⃣ Fix printers"
+    } ],
+    "published" : [ "2023-06-05T15:45:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1665746725791776790" ],
+    "url" : [ "https://twitter.com/Netlify/status/1665746725791776790" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1665746599106977799/pu/vid/1280x720/bFEBtXZ7dvHg0Xld.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
