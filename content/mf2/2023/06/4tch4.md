@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Yup, I ended up [writing a tool](https://social.platypush.tech/@mjgardner@social.sdf.org/110497539816688354) for it as I ended up doing it a fair bit"
+      "value" : "Yup, I ended up [writing a tool](https://www.jvt.me/posts/2022/06/19/cli-feed-discovery/) for it as I ended up doing it a fair bit"
     } ]
   },
   "kind" : "replies",
