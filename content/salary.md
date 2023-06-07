@@ -27,6 +27,52 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
 
   <tr class=new-salary>
     <td>
+      2023-04-01
+    </td>
+    <td>
+      94500.00
+    </td>
+    <td>
+      Updated salary
+    </td>
+    <td>
+      Deliveroo
+    </td>
+    <td>
+      L5
+    </td>
+    <td>
+      Remote
+    </td>
+    <td>
+      Senior Software Engineer
+    </td>
+  </tr>
+
+  <tr class=bonus>
+    <td>
+    </td>
+    <td>
+      5000.00
+    </td>
+    <td>
+      Corporate bonus
+    </td>
+    <td>
+      Deliveroo
+    </td>
+    <td>
+      L5
+    </td>
+    <td>
+      Remote
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr class=new-salary>
+    <td>
       2022-04-25
     </td>
     <td>
