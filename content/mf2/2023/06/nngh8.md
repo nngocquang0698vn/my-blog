@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Very appreciative of the wonderful folks at <span class=\"h-card\"><a class=\"u-url\" href=\"https://leaddev.com/\">Lead Dev</a></span> for a complimentary ticket for the upcoming [Lead Dev London](https://leaddev.com/leaddev-london-22) - I've heard it's a great event so I'm very much looking forward to go and learn from some really awesome folks 🤓"
+      "value" : "Very appreciative of the wonderful folks at <span class=\"h-card\"><a class=\"u-url\" href=\"https://leaddev.com/\">Lead Dev</a></span> for a complimentary ticket for the upcoming [Lead Dev London](https://leaddev.com/leaddev-london-2023) - I've heard it's a great event so I'm very much looking forward to go and learn from some really awesome folks 🤓"
     } ]
   },
   "kind" : "notes",
