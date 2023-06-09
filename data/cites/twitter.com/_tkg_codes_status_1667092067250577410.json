@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tomasz Gałkowski" ],
+        "nickname" : [ "tkg_codes" ],
+        "numeric-id" : [ "409798253" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469690486893993984/lqFQFv6p.jpg" ],
+        "published" : [ "2011-11-11T07:14:20+00:00" ],
+        "uid" : [ "tag:twitter.com:tkg_codes" ],
+        "url" : [ "https://twitter.com/tkg_codes", "https://tkg.codes", "http://tkg.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If you build any sort of backend service, especially distributed, do yourself a favour and invest time and/or money in good tracing, logging, alerting and monitoring.\n\nYour future self will thank you. Even if you'll hate getting paged.</div>",
+      "value" : "If you build any sort of backend service, especially distributed, do yourself a favour and invest time and/or money in good tracing, logging, alerting and monitoring.\n\nYour future self will thank you. Even if you'll hate getting paged."
+    } ],
+    "published" : [ "2023-06-09T08:51:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1667092067250577410" ],
+    "url" : [ "https://twitter.com/tkg_codes/status/1667092067250577410" ]
+  },
+  "type" : [ "h-entry" ]
+}
