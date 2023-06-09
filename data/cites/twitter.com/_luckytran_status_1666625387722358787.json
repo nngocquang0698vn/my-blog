@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City and Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Lucky Tran" ],
+        "nickname" : [ "luckytran" ],
+        "numeric-id" : [ "159955958" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541499488149307392/oQ0id3Ty.jpg" ],
+        "published" : [ "2010-06-26T19:47:02+00:00" ],
+        "uid" : [ "tag:twitter.com:luckytran" ],
+        "url" : [ "https://twitter.com/luckytran", "https://linktr.ee/luckytran", "http://linktr.ee/luckytran" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The United Nations building surrounded by an apocalyptic orange sky is the perfect image for how world leaders have failed at stopping the climate crisis." ],
+    "photo" : [ {
+      "alt" : "United Nations building in NYC covered in orange wildfire smoke",
+      "value" : "https://pbs.twimg.com/media/FyEKsALWIAAVRmX.jpg"
+    } ],
+    "published" : [ "2023-06-08T01:57:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1666625387722358787" ],
+    "url" : [ "https://twitter.com/luckytran/status/1666625387722358787" ]
+  },
+  "type" : [ "h-entry" ]
+}
