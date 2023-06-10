@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1427987061789843458/tnGJ3Yl9.jpg" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Me watching the couple over the road have an argument" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Loughborough, England" ],
+        "uid" : [ "tag:twitter.com:44225138caa10f19" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "A ten pound note folded so that the Queen is smiling through the security window",
+      "value" : "https://pbs.twimg.com/media/FyMbXToWIAAcAFM.jpg"
+    } ],
+    "published" : [ "2023-06-09T16:25:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1667206378362904578" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1667206378362904578" ]
+  },
+  "type" : [ "h-entry" ]
+}
