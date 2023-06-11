@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "SQL Server Query: Using JOIN to include NULL values" ],
+    "summary" : [ "I need help with the following SQL Server query where the columns a.TAProfileID and c.CountryCode have \"NULL\" values in the database.\n\nI want my JOIN statements to return \"NULL\" values where they e..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/24227728/sql-server-query-using-join-to-include-null-values" ]
+  }
+}
