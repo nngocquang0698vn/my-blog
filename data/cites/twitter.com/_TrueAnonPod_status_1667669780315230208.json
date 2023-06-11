@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Maryland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Poe's Law, Esq: Poe's Lawyer" ],
+          "nickname" : [ "dyingscribe" ],
+          "numeric-id" : [ "1269867105794568194" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1667847080382017536/jVM67L9W.jpg" ],
+          "published" : [ "2020-06-08T05:41:40+00:00" ],
+          "uid" : [ "tag:twitter.com:dyingscribe" ],
+          "url" : [ "https://twitter.com/dyingscribe", "https://youtube.com/c/digitalblackface" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<a href=\"https://twitter.com/nypost/status/1667276823242190852\">twitter.com/nypost/status/…</a>",
+        "value" : "twitter.com/nypost/status/…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FyOKtcpWwAIqj9O.jpg" ],
+      "published" : [ "2023-06-10T00:32:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1667328802488307713" ],
+      "url" : [ "https://twitter.com/dyingscribe/status/1667328802488307713" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "MCC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "TrueAnon" ],
+        "nickname" : [ "TrueAnonPod" ],
+        "numeric-id" : [ "1151947743188774912" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440377518163312646/Uifm67Op.jpg" ],
+        "published" : [ "2019-07-18T20:11:58+00:00" ],
+        "uid" : [ "tag:twitter.com:TrueAnonPod" ],
+        "url" : [ "https://twitter.com/TrueAnonPod", "https://www.patreon.com/TrueAnonPod", "http://www.trueanon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Every single one of the huge number of t-shirt bots in this thread has a blue check—meant to verify that a user is a real person— while literally none of the actual human beings do" ],
+    "published" : [ "2023-06-10T23:07:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1667669780315230208" ],
+    "url" : [ "https://twitter.com/TrueAnonPod/status/1667669780315230208" ]
+  },
+  "type" : [ "h-entry" ]
+}
