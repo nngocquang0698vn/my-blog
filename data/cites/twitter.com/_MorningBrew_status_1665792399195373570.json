@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Morning Brew ☕️" ],
+        "nickname" : [ "MorningBrew" ],
+        "numeric-id" : [ "3092541736" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1587421878523764747/QR8puQq5.png" ],
+        "published" : [ "2015-03-16T18:43:25+00:00" ],
+        "uid" : [ "tag:twitter.com:MorningBrew" ],
+        "url" : [ "https://twitter.com/MorningBrew", "https://www.morningbrew.com/daily?utm_source=twitter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Zuck watching this presentation" ],
+    "photo" : [ "https://pbs.twimg.com/media/Fx4T9DzXwAsBbsC.jpg" ],
+    "published" : [ "2023-06-05T18:47:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1665792399195373570" ],
+    "url" : [ "https://twitter.com/MorningBrew/status/1665792399195373570" ]
+  },
+  "type" : [ "h-entry" ]
+}
