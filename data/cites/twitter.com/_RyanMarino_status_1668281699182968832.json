@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "#LEGALIZE" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Marino, MD" ],
+        "nickname" : [ "RyanMarino" ],
+        "numeric-id" : [ "24252027" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461588110526099456/VlkquoMX.jpg" ],
+        "published" : [ "2009-03-13T20:55:05+00:00" ],
+        "uid" : [ "tag:twitter.com:RyanMarino" ],
+        "url" : [ "https://twitter.com/RyanMarino", "https://youtube.com/@RyanMD" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Are men ok\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/chaiconsumer\"></a>",
+      "value" : "Are men ok"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/chaiconsumer/status/1668137988956782592" ],
+    "published" : [ "2023-06-12T15:38:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1668281699182968832" ],
+    "url" : [ "https://twitter.com/RyanMarino/status/1668281699182968832" ]
+  },
+  "type" : [ "h-entry" ]
+}
