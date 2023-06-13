@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marcus Hellberg" ],
+        "nickname" : [ "marcushellberg" ],
+        "numeric-id" : [ "17237180" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1573430196107374594/d-oiv-RP.jpg" ],
+        "published" : [ "2008-11-07T19:42:05+00:00" ],
+        "uid" : [ "tag:twitter.com:marcushellberg" ],
+        "url" : [ "https://twitter.com/marcushellberg", "https://marcushellberg.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Java 21 will be mainly void. \n\n<a href=\"https://openjdk.org/jeps/445\">openjdk.org/jeps/445</a></div>",
+      "value" : "Java 21 will be mainly void. \n\nopenjdk.org/jeps/445"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FybvRxGakAAUSAE.jpg" ],
+    "published" : [ "2023-06-12T15:47:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1668283861284040706" ],
+    "url" : [ "https://twitter.com/marcushellberg/status/1668283861284040706" ]
+  },
+  "type" : [ "h-entry" ]
+}
