@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Singer" ],
+        "nickname" : [ "AdamSinger" ],
+        "numeric-id" : [ "14031032" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526507327574220804/vDv7S4U7.jpg" ],
+        "published" : [ "2008-02-26T22:01:28+00:00" ],
+        "uid" : [ "tag:twitter.com:AdamSinger" ],
+        "url" : [ "https://twitter.com/AdamSinger", "https://adamsinger.substack.com/welcome" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ballmer promoting Windows 1.0 is amazing. You could swap this in as Tim & Eric sketch as-is. 10/10, no notes " ],
+    "published" : [ "2023-06-12T14:54:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1668270495714738179" ],
+    "url" : [ "https://twitter.com/AdamSinger/status/1668270495714738179" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1668214661395652610/vid/960x720/_E04VyvL6Q45aQ6q.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
