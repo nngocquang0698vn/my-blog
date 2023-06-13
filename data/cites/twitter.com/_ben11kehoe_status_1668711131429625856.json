@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ely, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Kehoe" ],
+        "nickname" : [ "ben11kehoe" ],
+        "numeric-id" : [ "3326912038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/938429074543869952/p-Coz-7j.jpg" ],
+        "published" : [ "2015-06-15T12:32:14+00:00" ],
+        "uid" : [ "tag:twitter.com:ben11kehoe" ],
+        "url" : [ "https://twitter.com/ben11kehoe", "https://mastodon.cloud/@ben11kehoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Without a job, this AWS outage isn't stressful for me at all. I'm not sure it can't work as a general outage strategy, but something to consider" ],
+    "published" : [ "2023-06-13T20:05:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1668711131429625856" ],
+    "url" : [ "https://twitter.com/ben11kehoe/status/1668711131429625856" ]
+  },
+  "type" : [ "h-entry" ]
+}
