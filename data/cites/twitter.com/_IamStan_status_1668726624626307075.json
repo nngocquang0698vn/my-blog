@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Durban, South Africa" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ant Stanley" ],
+        "nickname" : [ "IamStan" ],
+        "numeric-id" : [ "14879896" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1653853788606799873/BFsqrmXd.jpg" ],
+        "published" : [ "2008-05-23T10:13:37+00:00" ],
+        "uid" : [ "tag:twitter.com:IamStan" ],
+        "url" : [ "https://twitter.com/IamStan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I've actively avoided workloads in us-east-1 for years. Does wonders for stress levels, though not guaranteed strategy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ben11kehoe\"></a>",
+      "value" : "I've actively avoided workloads in us-east-1 for years. Does wonders for stress levels, though not guaranteed strategy"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ben11kehoe/status/1668711131429625856" ],
+    "published" : [ "2023-06-13T21:06:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1668726624626307075" ],
+    "url" : [ "https://twitter.com/IamStan/status/1668726624626307075" ]
+  },
+  "type" : [ "h-entry" ]
+}
