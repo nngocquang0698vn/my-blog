@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1569874863753510912/pbIV2JK0.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "https://www.alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Platform engineering isn’t a thing. Just like how DevOps and SRE aren’t actually things. They’re just vague concepts that have been redefined into oblivion until they turned out to mean nothing. You do you and make sure you’re doing something meaningful. That’s all that matters." ],
+    "published" : [ "2023-06-13T04:30:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1668475789229146112" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1668475789229146112" ]
+  },
+  "type" : [ "h-entry" ]
+}
