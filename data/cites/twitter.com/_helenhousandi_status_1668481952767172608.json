@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "https://toot.cafe/@helen" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Helen 侯-Sandí" ],
+        "nickname" : [ "helenhousandi" ],
+        "numeric-id" : [ "21204689" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1666857964379025427/7utrzsmu.jpg" ],
+        "published" : [ "2009-02-18T15:18:07+00:00" ],
+        "uid" : [ "tag:twitter.com:helenhousandi" ],
+        "url" : [ "https://twitter.com/helenhousandi", "https://helen.blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I wanna be* a billionaire so freaking bad\n\n*rob</div>",
+      "value" : "I wanna be* a billionaire so freaking bad\n\n*rob"
+    } ],
+    "published" : [ "2023-06-13T04:54:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1668481952767172608" ],
+    "url" : [ "https://twitter.com/helenhousandi/status/1668481952767172608" ]
+  },
+  "type" : [ "h-entry" ]
+}
