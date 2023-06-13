@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicole Sullivan" ],
+        "nickname" : [ "stubbornella" ],
+        "numeric-id" : [ "15629200" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1631841908397084673/SrsYakCH.jpg" ],
+        "published" : [ "2008-07-28T07:42:21+00:00" ],
+        "uid" : [ "tag:twitter.com:stubbornella" ],
+        "url" : [ "https://twitter.com/stubbornella", "http://front-end.social/@stubbornella" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "*eat\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/helenhousandi\"></a>",
+      "value" : "*eat"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/helenhousandi/status/1668481952767172608" ],
+    "published" : [ "2023-06-13T06:08:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1668500513086906368" ],
+    "url" : [ "https://twitter.com/stubbornella/status/1668500513086906368" ]
+  },
+  "type" : [ "h-entry" ]
+}
