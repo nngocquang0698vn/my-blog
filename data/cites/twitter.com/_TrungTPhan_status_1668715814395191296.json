@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "LA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dan White" ],
+          "nickname" : [ "atdanwhite" ],
+          "numeric-id" : [ "58691643" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1651296492840427520/8nSB1p7-.jpg" ],
+          "published" : [ "2009-07-21T03:33:08+00:00" ],
+          "uid" : [ "tag:twitter.com:atdanwhite" ],
+          "url" : [ "https://twitter.com/atdanwhite", "http://danwhitewebsite.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Love my Instant Pot. Makes cooking a breeze. Just tossed in an apple and a cup of water and in 25 minutes I had a really hot apple." ],
+      "published" : [ "2020-04-16T18:39:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1250856297370660864" ],
+      "url" : [ "https://twitter.com/atdanwhite/status/1250856297370660864" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1250855476318949377/pu/vid/720x1280/NlwAneycY---g1BG.mp4?tag=10" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Trung Phan" ],
+        "nickname" : [ "TrungTPhan" ],
+        "numeric-id" : [ "945817135816654848" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1506362585448296448/LJg8kVSD.jpg" ],
+        "published" : [ "2017-12-27T00:42:32+00:00" ],
+        "uid" : [ "tag:twitter.com:TrungTPhan" ],
+        "url" : [ "https://twitter.com/TrungTPhan", "https://trungphan.substack.com/", "http://Bearly.AI" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Here’s the best Instant Pot recipe ever" ],
+    "in-reply-to" : [ "https://twitter.com/TrungTPhan/status/1668715678680113153" ],
+    "published" : [ "2023-06-13T20:23:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1668715814395191296" ],
+    "url" : [ "https://twitter.com/TrungTPhan/status/1668715814395191296" ]
+  },
+  "type" : [ "h-entry" ]
+}
