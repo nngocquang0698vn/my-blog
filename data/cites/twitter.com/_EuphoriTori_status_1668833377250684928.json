@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Lost" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kelly" ],
+          "nickname" : [ "kelly_cadigan" ],
+          "numeric-id" : [ "1888107732" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1527417525872513032/Eci4KR68.jpg" ],
+          "published" : [ "2013-09-20T23:18:53+00:00" ],
+          "uid" : [ "tag:twitter.com:kelly_cadigan" ],
+          "url" : [ "https://twitter.com/kelly_cadigan", "http://snipfeed.co/kellyuncensored" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What was life saving care for me was life devastating for someone else. Should we just ignore those people?" ],
+      "published" : [ "2023-06-14T00:45:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1668781679895248896" ],
+      "url" : [ "https://twitter.com/kelly_cadigan/status/1668781679895248896" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "She/Her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Victoria 🎀🔆" ],
+        "nickname" : [ "EuphoriTori" ],
+        "numeric-id" : [ "123100411" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1668558804881924096/BqywRNYt.jpg" ],
+        "published" : [ "2010-03-15T00:38:03+00:00" ],
+        "uid" : [ "tag:twitter.com:EuphoriTori" ],
+        "url" : [ "https://twitter.com/EuphoriTori", "http://linktr.ee/EuphoriTori", "http://ko-fi.com/euphoritori" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FyjjHMaXgAENJIF.jpg" ],
+    "published" : [ "2023-06-14T04:10:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1668833377250684928" ],
+    "url" : [ "https://twitter.com/EuphoriTori/status/1668833377250684928" ]
+  },
+  "type" : [ "h-entry" ]
+}
