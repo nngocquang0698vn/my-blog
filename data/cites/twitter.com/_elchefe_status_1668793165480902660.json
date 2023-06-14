@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Banks: Principal VibeOps Engineer" ],
+        "nickname" : [ "elchefe" ],
+        "numeric-id" : [ "22486576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1649147498596823047/_Q6G_zce.jpg" ],
+        "published" : [ "2009-03-02T14:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:elchefe" ],
+        "url" : [ "https://twitter.com/elchefe", "https://venmo.com/code?user_id=1781409760935936183" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hard to build new projects when companies laid off the engineers that build new projects and maintain larger fleets of infrastructure...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CTOAdvisor\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jeffhollan\"></a>",
+      "value" : "Hard to build new projects when companies laid off the engineers that build new projects and maintain larger fleets of infrastructure..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jeffhollan/status/1668778392681074689" ],
+    "published" : [ "2023-06-14T01:31:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1668793165480902660" ],
+    "url" : [ "https://twitter.com/elchefe/status/1668793165480902660" ]
+  },
+  "type" : [ "h-entry" ]
+}
