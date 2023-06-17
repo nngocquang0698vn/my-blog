@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Ikea-Oriented Development" ],
+    "summary" : [ "To frugally furnish a codebase, imitate Ikea." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Taylor Troesh" ]
+      }
+    } ],
+    "url" : [ "https://taylor.town/ikea-oriented-development" ]
+  }
+}
