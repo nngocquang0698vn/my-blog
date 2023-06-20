@@ -1,5 +1,4 @@
 ---
-image: https://media.jvt.me/00fdea0d32.png
 title: "Why I Consistently Reach for Server-Driven Content Negotiation (For Versioning)"
 description: "Why I use server-driven content negotiation for APIs to allow for versioning and allowing different representations of APIs."
 tags:
