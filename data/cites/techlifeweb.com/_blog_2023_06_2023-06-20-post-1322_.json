@@ -1,0 +1,26 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I can tell on Bridgy Fed that I got a webmention \"like\" but it isn't showing up on Webmention.io. #indieweb" ],
+    "category" : [ "#indieweb" ],
+    "url" : [ "https://techlifeweb.com/blog/2023/06/2023-06-20-post-1322/" ],
+    "bridgy-fed" : [ "https://fed.brid.gy/" ],
+    "updated" : [ "2023-06-20T06:22:24.000-07:00" ],
+    "published" : [ "2023-06-20T06:22:24.000-07:00" ],
+    "content" : [ {
+      "html" : "I can tell on Bridgy Fed that I got a webmention \"like\" but it isn't showing up on Webmention.io. <a href=\"https://indieweb.social/tags/indieweb\" class=\"p-category\">#indieweb</a>",
+      "value" : "I can tell on Bridgy Fed that I got a webmention \"like\" but it isn't showing up on Webmention.io. #indieweb",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Scott Kingery" ],
+        "url" : [ "https://techlifeweb.com/hcard" ]
+      },
+      "lang" : "en",
+      "value" : "Scott Kingery"
+    } ]
+  },
+  "lang" : "en"
+}
