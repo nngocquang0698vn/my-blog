@@ -73,4 +73,4 @@ This gives us the benefit of being purely managed through our `go.mod`, meaning 
 
 Note that there is a slight performance hit here, as `go run` does not cache the built binary, at least as of Go 1.20. There is [a proposal](https://github.com/golang/go/issues/48429) to track tool dependencies in `go.mod`, which additionally discusses allowing caching for `go run`s for the purpose of build tooling.
 
-In my experience, the performance hit is negligent, but if you're not seeing the same, you can look at [how to `go install` via the `go.mod`](https://www.jvt.me/posts/2023/06/19/go-install-from-mod/).
+In my experience, the performance hit is negligible, but if you're not seeing the same, you can look at [how to `go install` via the `go.mod`](https://www.jvt.me/posts/2023/06/19/go-install-from-mod/).
