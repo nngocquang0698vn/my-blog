@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Goodbye, Twilio" ],
+    "summary" : [ "As of this week and after almost four years, I'm not a Twilio employee anymore. I'm writing this while I work through a range of conflicting emotions, and try to adapt to new daily routines without…" ],
+    "featured" : [ "http://blog.miguelgrinberg.com/static/cards/goodbye-twilio.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Miguel Grinberg" ]
+      }
+    } ],
+    "url" : [ "http://blog.miguelgrinberg.com/post/goodbye-twilio" ]
+  }
+}
