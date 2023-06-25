@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Commit Times and Work Culture" ],
+    "summary" : [ "Punchcards for a collection of projects may give you some indication of work culture." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jean Niklas hyPiRion L'orange" ]
+      }
+    } ],
+    "url" : [ "https://hypirion.com/musings/git-multipunchcard" ]
+  }
+}
