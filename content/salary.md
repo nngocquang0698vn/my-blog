@@ -27,6 +27,51 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
 
   <tr class=new-salary>
     <td>
+      2023-08-14
+    </td>
+    <td>
+      99000.00
+    </td>
+    <td>
+      Hiring Salary
+    </td>
+    <td>
+      Elastic
+    </td>
+    <td>
+      C6
+    </td>
+    <td>
+      Remote
+    </td>
+    <td>
+      Senior Software Engineer
+    </td>
+  </tr>
+
+  <tr class=stock>
+    <td>
+    </td>
+    <td>
+      122000 ($)
+    </td>
+    <td>
+      Stock
+    </td>
+    <td>
+      Elastic
+    </td>
+    <td>
+      C6
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr class=new-salary>
+    <td>
       2023-04-01
     </td>
     <td>
