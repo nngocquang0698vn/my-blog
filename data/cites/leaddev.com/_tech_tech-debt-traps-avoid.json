@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Tech debt traps to avoid" ],
+    "summary" : [ "Tech debt is a term that often catches people out. Here are some ways to make sure you avoid falling into that trap!" ],
+    "featured" : [ "https://leaddev.com/sites/default/files/styles/linkedin_card/public/2023-06/Avoid%20these%20tech%20debt%20traps_0.png?itok=KQuwxQ9U" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Pat Kua" ]
+      }
+    } ],
+    "url" : [ "https://leaddev.com/tech/tech-debt-traps-avoid" ]
+  }
+}
