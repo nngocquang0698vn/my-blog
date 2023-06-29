@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "CLI tools hidden in the Python standard library" ],
+    "summary" : [ "Seth Michael Larson pointed out that the Python gzip module can be used as a CLI tool like this:" ],
+    "featured" : [ "https://s3.amazonaws.com/til.simonwillison.net/b339137492f83f300923b55a039cc0cc.jpg" ],
+    "url" : [ "https://til.simonwillison.net/python/stdlib-cli-tools" ]
+  }
+}
