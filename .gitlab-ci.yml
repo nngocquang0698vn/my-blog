@@ -59,7 +59,7 @@ deploy:
   before_script:
     - echo "Current GitLab OIDC thumbprint:"
     - go install gitlab.com/tanna.dev/oidc-thumbprint@HEAD
-    - oidc-thumbprint https://gitlab.com
+    - ~/go/bin/oidc-thumbprint https://gitlab.com
     - >
       STS=($(aws sts assume-role-with-web-identity
       --role-arn ${HUGO_ROLE_ARN}
