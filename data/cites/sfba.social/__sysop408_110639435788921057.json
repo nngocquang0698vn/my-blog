@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Sheldon Chang 🇺🇸 (@sysop408@sfba.social)" ],
+    "summary" : [ "Attached: 2 images\n\nThis is hilarious. It appears that Twitter is DDOSing itself.\n\nThe Twitter home feed's been down for most of this morning. Even though nothing loads, the Twitter website never stops trying and trying.\n\nIn the first video, notice the error message that I'm being rate limited. Then notice the jiggling scrollbar on the right.\n\nThe second video shows why it's jiggling. Twitter is firing off about 10 requests a second to itself to try and fetch content that never arrives because Elon's latest genius innovation is to block people from being able to read Twitter without logging in. \n\nThis likely created some hellish conditions that the engineers never envisioned and so we get this comedy of errors resulting in the most epic of self-owns, the self-DDOS.\n\nUnbelievable. It's amateur hour.\n\n#TwitterDown #MastodonMigration #DDOS #TwitterFail #SelfDDOS" ],
+    "featured" : [ "https://files.sfba.social/media_attachments/files/110/639/431/637/549/188/small/2703bc32146235f0.png" ],
+    "audio" : [ "https://files.sfba.social/media_attachments/files/110/639/431/637/549/188/original/2703bc32146235f0.mp4" ],
+    "url" : [ "https://sfba.social/@sysop408/110639435788921057" ]
+  }
+}
