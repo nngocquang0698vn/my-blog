@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "A guide on how to use Chainguard Images for Public catalog tier users" ],
+    "summary" : [ "Starting on August 16, pulling tags other than `:latest` and `:latest-dev` will be available only to Standard and Custom Chainguard Images catalog tier users. This blog post further explains the change and actions required for users of Public tier usage. Everything you need to know about securing the software supply chain." ],
+    "featured" : [ "https://assets.website-files.com/6228fdbc6c971401d02a9c42/63b5dcb91a3fc338064c0dfb_Card%20Images.png" ],
+    "url" : [ "https://chainguard.dev/unchained/a-guide-on-how-to-use-chainguard-images-for-public-catalog-tier-users" ]
+  }
+}
