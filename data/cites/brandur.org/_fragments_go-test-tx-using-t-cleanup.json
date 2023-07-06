@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "A `TestTx` helper in Go using `t.Cleanup`" ],
+    "summary" : [ "An elegant way of combining test transactions with Go&rsquo;s built-in test abstractions." ],
+    "url" : [ "https://brandur.org/fragments/go-test-tx-using-t-cleanup" ]
+  }
+}
