@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "So Threads... just another inaccessible social media platform built by people who think accessibility is just another low priority feature request in the backlog 😥 #a11y https://calumryan.com/notes/3671" ],
+    "comment" : [ "Likes (1) Zara B" ],
+    "category" : [ "Threads", "accessibility" ],
+    "author" : [ "https://calumryan.com/" ],
+    "url" : [ "https://calumryan.com/notes/3671" ],
+    "bridgy-omit-link" : [ "https://brid.gy/publish/mastodon" ],
+    "published" : [ "2023-07-06T09:30:00+01:00" ],
+    "content" : [ {
+      "html" : "<p>So Threads... just another inaccessible social media platform built by people who think accessibility is just another low priority feature request in the backlog 😥 #a11y</p><span hidden=\"\"> https://calumryan.com/notes/3671</span>",
+      "value" : "So Threads... just another inaccessible social media platform built by people who think accessibility is just another low priority feature request in the backlog 😥 #a11y https://calumryan.com/notes/3671",
+      "lang" : "en"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://mastodon.social/@zaranosaur" ],
+          "photo" : [ {
+            "value" : "https://webmention.io/avatar/assets.toot.cafe/533bff8401ace684567e6828f4231e4e0a26a26395a4d53aa57b0f8042cfd9b6.png",
+            "alt" : "Zara B"
+          } ],
+          "name" : [ "Zara B" ]
+        },
+        "lang" : "en",
+        "value" : "Zara B"
+      } ]
+    },
+    "lang" : "en"
+  } ]
+}
