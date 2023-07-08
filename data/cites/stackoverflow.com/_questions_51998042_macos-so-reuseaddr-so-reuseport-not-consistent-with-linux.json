@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "MacOS SO_REUSEADDR/SO_REUSEPORT not consistent with Linux?" ],
+    "summary" : [ "Consider this code:\n#include &lt;arpa/inet.h&gt;\n#include &lt;sys/socket.h&gt;\n#include &lt;sys/ioctl.h&gt;\n#include &lt;unistd.h&gt;\n#include &lt;string.h&gt;\n#include &lt;stdio.h&gt;\n#include &lt..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/51998042/macos-so-reuseaddr-so-reuseport-not-consistent-with-linux" ]
+  }
+}
