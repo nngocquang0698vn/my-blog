@@ -41,3 +41,5 @@ go install github.com/deepmap/oapi-codegen@v1.11.0
 ```
 
 Note that this will not try and update dependencies that aren't pointing to tags, such as `@latest`, `@HEAD` or pointing to a Git SHA.
+
+**Note** This doesn't currently work for [anything `go install`ing a non-module import](https://gitlab.com/tanna.dev/jvt.me/-/issues/1310)
