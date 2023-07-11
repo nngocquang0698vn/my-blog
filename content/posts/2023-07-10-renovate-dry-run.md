@@ -19,7 +19,7 @@ We can create a file, `config.js` and add the following configuration to it. Not
 ```javascript
 module.exports = {
   // --------------------------------------------------------------------------------
-  // required configuration, which makes sure that we
+  // required configuration, which makes sure that we don't require Renovate configuration, and even if it's there, we ignore it
   "onboarding": false,
   "requireConfig": "ignored",
 
