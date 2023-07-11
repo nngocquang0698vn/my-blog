@@ -29,9 +29,6 @@ module.exports = {
   // optional but recommended to keep if you don't want to have PRs/issues raised. Alternatively, set it to `full` to see what Renovate would compute as expected updates
   "dryRun": "extract",
 
-  // optional, but recommended to get more info about the dependencies you're **??**
-  "logLevel": "debug",
-
   // --------------------------------------------------------------------------------
   // finally, the configuration we're looking to validate
 
