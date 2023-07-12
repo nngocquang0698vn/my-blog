@@ -1,14 +1,28 @@
 {
-  "type" : [ "h-event" ],
-  "properties" : {
-    "name" : [ "devopsdays London" ],
-    "location" : [ "QEII Centre, Broad Sanctuary, Westminster" ],
-    "url" : [ "https://devopsdays.org/events/2023-london/welcome/" ],
-    "start" : [ "2023-09-21T00:00:00+0100" ],
-    "end" : [ "2023-09-22T00:00:00+0100" ],
-    "summary" : [ {
-      "html" : "DevOpsDays returns to London in 2023!",
-      "value" : "DevOpsDays returns to London in 2023!"
-    } ]
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "name": [
+      "devopsdays London"
+    ],
+    "location": [
+      "QEII Centre, Broad Sanctuary, Westminster"
+    ],
+    "url": [
+      "https://devopsdays.org/events/2023-london/welcome/"
+    ],
+    "start": [
+      "2023-09-21T00:00:00+0100"
+    ],
+    "end": [
+      "2023-09-22T00:00:00+0100"
+    ],
+    "summary": [
+      "DevOpsDays returns to London in 2023!"
+    ],
+    "featured": [
+      "https://d33wubrfki0l68.cloudfront.net/b3557ca6258aad7fd7cd7d874c8802fbb81b6c57/49553/events/2023-london/logo.png"
+    ]
   }
 }
