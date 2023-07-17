@@ -10,7 +10,7 @@ tags:
 - management
 - agile
 - on-call
-date: 2023-07-17T21:16:38
+date: 2023-07-17T21:16:38+0100
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: lead-dev-2023
