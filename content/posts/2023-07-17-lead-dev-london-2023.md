@@ -578,7 +578,7 @@ But if it has gone well - and we hope it will - we shouldn't forget this, and ta
 
 As someone who thrives in a culture where I can be a bit more honest and open - as seen with [my salary page](/salary/), as well as [posts about my job hunt](/posts/2022/05/02/lessons-learned-job-hunt/) or [my career progression](/posts/2023/03/22/next-promo/) - this greatly spoke to me.
 
-David's talk was a well crafted story going through the process of building this culture inside Yelp through his direct team, and then across the whole org, making it a topic that can provide a huge amount of value into understanding your team's motivations, and being able to more applicably action **situtations** for their team.
+David's talk was a well crafted story going through the process of building this culture inside Yelp through his direct team, and then across the whole org, making it a topic that can provide a huge amount of value into understanding your team's motivations, and being able to more applicably action situations for their team.
 
 David talked about how an engineering leader hearing that a technology choice is not the right fit and may lead to a team member leaving can give them a lever to be able to find other opportunities internally. Knowing that one of your team may quit due to frustration in a spectacular state of burnout will allow you to work to manage their stress levels better. If someone would be looking at leaving for career progression, there could be opportunities internally they can be given. And finally, if it's purely a case of money, well, there's only so much the company can/is willing to do.
 
