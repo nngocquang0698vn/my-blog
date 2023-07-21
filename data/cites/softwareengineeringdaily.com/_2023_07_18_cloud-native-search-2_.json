@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Cloud-native Search with Paul Masurel - Software Engineering Daily" ],
+    "summary" : [ "Elasticsearch is the most established solution today to search and analyze large amounts of logs. However, it can be costly and complex to manage. Quickwit searches large amounts of append only cloud data like logs or ledgers in a fraction time with significantly less cost than Elasticsearch. In this episode, we interview Paul Masurel, one" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2023/07/quickwit_featuredimage.png" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED9529833632.mp3?_=1" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SE Daily" ]
+      }
+    } ],
+    "url" : [ "https://softwareengineeringdaily.com/2023/07/18/cloud-native-search-2/" ],
+    "published" : [ "2023-07-18T18:01:52+00:00" ]
+  }
+}
