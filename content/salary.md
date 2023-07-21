@@ -121,7 +121,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
       2022-04-25
     </td>
     <td>
-      90000.00
+      90000.00 <sup>(Note that 1 year later, L5 promotions/new hires are starting at 81000)</sup>
     </td>
     <td>
       Hiring salary
