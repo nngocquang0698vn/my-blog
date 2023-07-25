@@ -2,7 +2,6 @@
 title: "LeadDev London 2023"
 description: "A writeup of LeadDev London 2023 conference."
 tags:
-- 'TODO'
 - lead-dev
 - lead-dev-london
 - events
