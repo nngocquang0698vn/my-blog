@@ -19,6 +19,7 @@ Want to know a bit more in-depth what it is and how it works? I've recently [spo
 At a minimum, you need to:
 
 - retrieve some data, for instance via [renovate-graph](https://gitlab.com/tanna.dev/renovate-graph)
+  - note that you do _not_ need to be already using Renovate to use this!
 - create the SQLite database for dependency-management-data
 - import the data
 
