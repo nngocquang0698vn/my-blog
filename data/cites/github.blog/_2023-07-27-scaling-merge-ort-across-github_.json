@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Scaling merge-ort across GitHub - The GitHub Blog" ],
+    "summary" : [ "GitHub switched to performing merges and rebases using merge-ort. Come behind the scenes to see why and how we made this change." ],
+    "featured" : [ "https://github.blog/wp-content/uploads/2023/07/Open-Source-Engineering@2x.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Matt Cooper" ]
+      }
+    } ],
+    "url" : [ "https://github.blog/2023-07-27-scaling-merge-ort-across-github/" ],
+    "published" : [ "2023-07-27T16:03:15+00:00" ]
+  }
+}
