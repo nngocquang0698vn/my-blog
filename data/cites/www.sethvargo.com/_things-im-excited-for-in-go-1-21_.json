@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Things I'm excited for in Go 1.21 | Seth Vargo" ],
+    "summary" : [ "Go 1.21 has some awesome new functionality that improves the developer experience and performance." ],
+    "featured" : [ "https://www.sethvargo.com/posts/things-im-excited-for-in-go-1-21/things-im-excited-for-in-go-1-21.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Seth Vargo" ]
+      }
+    } ],
+    "url" : [ "https://www.sethvargo.com/things-im-excited-for-in-go-1-21/" ],
+    "published" : [ "2023-07-28" ]
+  }
+}
