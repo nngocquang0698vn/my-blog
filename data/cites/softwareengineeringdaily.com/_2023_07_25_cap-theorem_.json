@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "CAP Theorem 23 Years Later with Eric Brewer - Software Engineering Daily" ],
+    "summary" : [ "The CAP theorem, also known as Brewer’s theorem, is a fundamental principle in distributed systems that states that it is impossible to simultaneously achieve three desirable properties in a distributed data system: Consistency, Availability, and Partition tolerance. Eric Brewer is the VP of Infrastructure & Google Fellow at Google and he joins us today. This" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2023/05/cap.png" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED9790646432.mp3?_=1" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SE Daily" ]
+      }
+    } ],
+    "url" : [ "https://softwareengineeringdaily.com/2023/07/25/cap-theorem/" ],
+    "published" : [ "2023-07-25T17:02:08+00:00" ]
+  }
+}
