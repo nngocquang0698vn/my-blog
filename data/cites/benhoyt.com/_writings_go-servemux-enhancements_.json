@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The proposal to enhance Go's HTTP router" ],
+    "summary" : [ "A brief look at the proposed enhancements to the Go standard library HTTP request router, net/http.ServeMux: matching on HTTP method, and supporting wildcards in matched paths." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ben Hoyt" ]
+      }
+    } ],
+    "url" : [ "https://benhoyt.com/writings/go-servemux-enhancements/" ]
+  }
+}
