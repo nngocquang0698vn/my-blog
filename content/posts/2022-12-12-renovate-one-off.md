@@ -2,8 +2,6 @@
 title: "Performing arbitrary executions with Renovate"
 description: "How to run Renovate for one-off package upgrades, rather than using it for longer term maintenance."
 date: 2022-12-12T21:27:32+0000
-syndication:
-- https://brid.gy/publish/twitter
 tags:
 - "blogumentation"
 - "renovate"
@@ -21,22 +19,20 @@ As I mentioned in [this GitHub Discussion](https://github.com/renovatebot/renova
 
 > For instance, let's say that in Go, there's a package called `github.com/<org>/grpc-models-go` and a Ruby gem called `grpc-models`, and in v2.0.0 there's a required update that all repositories must update to, for some arbitrary reason.
 
-In this case, there's no handy way to roll out a change across your repos as part of Renovate, while also ignoring existing Renovate PRs or Dependency Dashboards, which meant I needed to roll my own lightweight wrapper on top of Renovate, which is available in the new NPM package, [`@jamietanna/renovate-one-off`](https://www.npmjs.com/package/@jamietanna/renovate-one-off).
+**Update 2023-07-31**: I previously had released a package, [`@jamietanna/renovate-one-off`](https://www.npmjs.com/package/@jamietanna/renovate-one-off), for this, but it's not necessary.
 
-As mentioned in [the README](https://gitlab.com/tanna.dev/renovate-one-off), can be run like so:
-
-```sh
-renovate-one-off --token $GITHUB_COM_TOKEN --autodiscover --autodiscover-filter '<org>/*'
-```
-
-This works alongside a `config.js`:
+This requires we set up the following `config.js`:
 
 ```javascript
 module.exports = {
-  // i.e.
-  platform: "github",
-  // if you pin to forks, for instance
-  includeForks: true,
+  // --------------------------------------------------------------------------------
+  // required configuration, which makes sure that we don't require Renovate configuration, and even if it's there, we ignore it
+  "onboarding": false,
+  "requireConfig": "ignored",
+
+  // --------------------------------------------------------------------------------
+  //
+  // add any global `extends` here
 
   // to only pin to certain package managers
   enabledManagers: ["ruby", "gomod"],
@@ -57,4 +53,10 @@ module.exports = {
 };
 ```
 
-Which will then raise any relevant PRs your organisation for relevant package updates - straightforward, and only rolls out the changes as required!
+From here, we can then run i.e.
+
+```sh
+npx renovate@latest --token $GITHUB_COM_TOKEN --autodiscover --autodiscover-filter '<org>/*'
+```
+
+**Note** that if you are running Renovate regularly using the same token as you're doing for this one-off, it may lead to closing existing Renovate PRs or Dependency Dashboards.
