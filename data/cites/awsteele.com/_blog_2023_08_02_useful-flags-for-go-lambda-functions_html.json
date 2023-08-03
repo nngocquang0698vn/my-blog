@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Useful flags for Go Lambda functions" ],
+    "summary" : [ "Last week AWS published a blog post advising that the go1.x Lambda runtime will be deprecated and people should migrate to provided.al2. I was already using the newer runtime, but I also learned from the blog post that AWS SAM can now build Go Lambda functions for the newer runtime - no more Makefiles required!" ],
+    "url" : [ "https://awsteele.com/blog/2023/08/02/useful-flags-for-go-lambda-functions.html" ],
+    "published" : [ "2023-08-02T04:04:00+00:00" ]
+  }
+}
