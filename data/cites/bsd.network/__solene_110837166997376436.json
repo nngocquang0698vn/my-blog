@@ -1,0 +1,691 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://bsd.network/@solene/110837166997376436" ],
+    "uid" : [ "https://bsd.network/@solene/110837166997376436" ],
+    "published" : [ "2023-08-05T13:09:11+00:00" ],
+    "content" : [ {
+      "html" : "<p>The Vim original author Bram Moolenaar has passed away.</p><p><a href=\"https://groups.google.com/g/vim_announce/c/tWahca9zkt4?pli=1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">groups.google.com/g/vim_announ</span><span class=\"invisible\">ce/c/tWahca9zkt4?pli=1</span></a></p><p><a href=\"https://en.wikipedia.org/wiki/Bram_Moolenaar\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Bram_Moo</span><span class=\"invisible\">lenaar</span></a></p><p>I think Vim is a kind of piece of software that I found fabulous when I first migrated to Linux.</p><p>At first I had to deal with Vi, but I quickly discovered <a href=\"https://bsd.network/tags/Vim\" class=\"mention hashtag\" rel=\"tag\">#<span>Vim</span></a> which was a lot more powerful.</p>",
+      "value" : "The Vim original author Bram Moolenaar has passed away.\nhttps://groups.google.com/g/vim_announce/c/tWahca9zkt4?pli=1\nhttps://en.wikipedia.org/wiki/Bram_Moolenaar\nI think Vim is a kind of piece of software that I found fabulous when I first migrated to Linux.\nAt first I had to deal with Vi, but I quickly discovered #Vim which was a lot more powerful.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Solène :flan_hacker:" ],
+        "url" : [ "https://bsd.network/@solene" ],
+        "photo" : [ {
+          "value" : "https://media.bsd.network/accounts/avatars/000/066/881/original/9a1d7a19d8dd8db7.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Solène :flan_hacker:"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/@michelin/110837338888223379" ],
+        "uid" : [ "https://hachyderm.io/@michelin/110837338888223379" ],
+        "published" : [ "2023-08-05T13:52:54+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> RIP Bram. Thank you for introducing me (not personally) to the joys of Vi keybindings.</p>",
+          "value" : "@solene RIP Bram. Thank you for introducing me (not personally) to the joys of Vi keybindings.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Michel Salim :fedora:" ],
+            "url" : [ "https://hachyderm.io/@michelin" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/110/827/153/154/992/706/original/1dae2f97a1703df4.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Michel Salim :fedora:"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 13:52 Michel Salim :fedora: @michelin@hachyderm.io\n@solene RIP Bram. Thank you for introducing me (not personally) to the joys of Vi keybindings. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.sdf.org/@ParadeGrotesque/110837436086238884" ],
+        "uid" : [ "https://mastodon.sdf.org/@ParadeGrotesque/110837436086238884" ],
+        "published" : [ "2023-08-05T14:17:37+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> </p><p>Oh ****.  😭</p>",
+          "value" : "@solene\nOh ****. 😭",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Parade du Grotesque 💀" ],
+            "url" : [ "https://mastodon.sdf.org/@ParadeGrotesque" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/000/008/044/original/f1fc4fb1e879672c.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Parade du Grotesque 💀"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 14:17 Parade du Grotesque 💀 @ParadeGrotesque@mastodon.sdf.org\n@solene\nOh ****. 😭 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "summary" : [ "free software, death " ],
+        "url" : [ "https://meow.social/@frummidge/110837469436402943" ],
+        "uid" : [ "https://meow.social/@frummidge/110837469436402943" ],
+        "published" : [ "2023-08-05T14:26:06+00:00" ],
+        "content" : [ {
+          "html" : "<p>Oh no. I am very sad to hear that Bram Moolenaar, original author of Vim, has passed away. I am a regular user of Vim as it is and love the editor. <img rel=\"emoji\" draggable=\"false\" width=\"16\" height=\"16\" class=\"emojione custom-emoji\" alt=\":blobcatsadreach:\" title=\":blobcatsadreach:\" data-original=\"https://media.bsd.network/cache/custom_emojis/images/000/031/403/original/835a339887d4fed1.png\" data-static=\"https://media.bsd.network/cache/custom_emojis/images/000/031/403/static/835a339887d4fed1.png\" src=\"https://media.bsd.network/cache/custom_emojis/images/000/031/403/static/835a339887d4fed1.png\"></p>",
+          "value" : "Oh no. I am very sad to hear that Bram Moolenaar, original author of Vim, has passed away. I am a regular user of Vim as it is and love the editor. :blobcatsadreach:",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Frummidge :mew:" ],
+            "url" : [ "https://meow.social/@frummidge" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/avatars/original/missing.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Frummidge :mew:"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Aug 05, 2023, 14:26 Frummidge :mew: @frummidge@meow.social\nfree software, death Show more\nOh no. I am very sad to hear that Bram Moolenaar, original author of Vim, has passed away. I am a regular user of Vim as it is and love the editor. :blobcatsadreach: 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@brynet/110837519208826080" ],
+        "uid" : [ "https://bsd.network/@brynet/110837519208826080" ],
+        "published" : [ "2023-08-05T14:38:45+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\">@<span>solene</span></a></span> Interesting factoid, Vim (version 4.5!) was part of the OpenBSD base system up until the 2.2 release (1997), and then it was moved to ports in '98.</p><p>Sad to hear of Bram's passing.</p>",
+          "value" : "@solene Interesting factoid, Vim (version 4.5!) was part of the OpenBSD base system up until the 2.2 release (1997), and then it was moved to ports in '98.\nSad to hear of Bram's passing.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Bryan Steele :flan_beard:" ],
+            "url" : [ "https://bsd.network/@brynet" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/accounts/avatars/000/001/413/original/0b5adec6fdf83b8d.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Bryan Steele :flan_beard:"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 14:38 Bryan Steele :flan_beard: @brynet@bsd.network\n@solene Interesting factoid, Vim (version 4.5!) was part of the OpenBSD base system up until the 2.2 release (1997), and then it was moved to ports in '98.\nSad to hear of Bram's passing. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bladerunner.social/@stevelord/110837555573539463" ],
+        "uid" : [ "https://bladerunner.social/@stevelord/110837555573539463" ],
+        "published" : [ "2023-08-05T14:48:00+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> oh fudge. I still use his own versions of vim on Amiga.</p>",
+          "value" : "@solene oh fudge. I still use his own versions of vim on Amiga.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Steve Lord" ],
+            "url" : [ "https://bladerunner.social/@stevelord" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/308/673/307/190/865/original/abb66965cf416d61.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Steve Lord"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 14:48 Steve Lord @stevelord@bladerunner.social\n@solene oh fudge. I still use his own versions of vim on Amiga. 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://eightpoint.app/@orc/110837583752921928" ],
+        "uid" : [ "https://eightpoint.app/@orc/110837583752921928" ],
+        "published" : [ "2023-08-05T14:55:10+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> The circle of vi clone authors grows smaller :-( </p><p>I, and levee, will pour one out for our compatriot. RIP</p>",
+          "value" : "@solene The circle of vi clone authors grows smaller :-(\nI, and levee, will pour one out for our compatriot. RIP",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Orc" ],
+            "url" : [ "https://eightpoint.app/@orc" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/367/640/369/406/460/original/5c8b29e1275f86ac.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Orc"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 14:55 Orc @orc@eightpoint.app\n@solene The circle of vi clone authors grows smaller :-(\nI, and levee, will pour one out for our compatriot. RIP 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.alastair87.me/notes/9i1pdf4arch0o9p3", "https://bsd.network/@solene" ],
+        "uid" : [ "https://social.alastair87.me/notes/9i1pdf4arch0o9p3" ],
+        "published" : [ "2023-08-05T14:57:21+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@solene@bsd.network</a><span> There was also Jonathan Fernyhough who maintained the PPA for Ubuntu and did a lot for the Linux community, he sadly passed away too.</span></p>",
+          "value" : "@solene@bsd.network There was also Jonathan Fernyhough who maintained the PPA for Ubuntu and did a lot for the Linux community, he sadly passed away too.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Alastair Cooper" ],
+            "url" : [ "https://social.alastair87.me/@alastair" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/110/774/785/932/319/931/original/831c6e51443b3d35.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Alastair Cooper"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Aug 05, 2023, 14:57 Alastair Cooper @alastair@social.alastair87.me\n@solene@bsd.network There was also Jonathan Fernyhough who maintained the PPA for Ubuntu and did a lot for the Linux community, he sadly passed away too. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/@ovid/110837199188118423" ],
+        "uid" : [ "https://fosstodon.org/@ovid/110837199188118423" ],
+        "published" : [ "2023-08-05T13:17:22+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> And I still use his software every day :(</p><p>RIP, Bram. Thanks for making my world a better place.</p>",
+          "value" : "@solene And I still use his software every day :(\nRIP, Bram. Thanks for making my world a better place.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Curtis \"Ovid\" Poe" ],
+            "url" : [ "https://fosstodon.org/@ovid" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/305/735/706/864/608/original/855ead4caadedee8.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Curtis \"Ovid\" Poe"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 13:17 Curtis \"Ovid\" Poe @ovid@fosstodon.org\n@solene And I still use his software every day :(\nRIP, Bram. Thanks for making my world a better place. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.tchncs.de/@aronza/110837665200501146" ],
+        "uid" : [ "https://social.tchncs.de/@aronza/110837665200501146" ],
+        "published" : [ "2023-08-05T15:15:53+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> thank you for everything, Bram.</p>",
+          "value" : "@solene thank you for everything, Bram.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Alberto Ronzani" ],
+            "url" : [ "https://social.tchncs.de/@aronza" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/472/029/075/961/909/original/2cc5177e57f553f6.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Alberto Ronzani"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 15:15 Alberto Ronzani @aronza@social.tchncs.de\n@solene thank you for everything, Bram. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://floss.social/@mcepl/110837722137349661" ],
+        "uid" : [ "https://floss.social/@mcepl/110837722137349661" ],
+        "published" : [ "2023-08-05T15:30:22+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span></p><p>May His Lord bless his soul!</p>",
+          "value" : "@solene\nMay His Lord bless his soul!",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Matěj Cepl 🇪🇺 🇨🇿" ],
+            "url" : [ "https://floss.social/@mcepl" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/000/073/183/original/7aa1ef9478a8a16b.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Matěj Cepl 🇪🇺 🇨🇿"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 15:30 Matěj Cepl 🇪🇺 🇨🇿 @mcepl@floss.social\n@solene\nMay His Lord bless his soul! 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://floss.social/@mcepl/110837780634450248" ],
+        "uid" : [ "https://floss.social/@mcepl/110837780634450248" ],
+        "published" : [ "2023-08-05T15:45:14+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> </p><p>If you want to honour his memory, you know that Vim was actually charityware? Please, donate! <a href=\"https://iccf-holland.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">iccf-holland.org/</span><span class=\"invisible\"></span></a></p>",
+          "value" : "@solene\nIf you want to honour his memory, you know that Vim was actually charityware? Please, donate! https://iccf-holland.org/",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Matěj Cepl 🇪🇺 🇨🇿" ],
+            "url" : [ "https://floss.social/@mcepl" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/000/073/183/original/7aa1ef9478a8a16b.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Matěj Cepl 🇪🇺 🇨🇿"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 15:45 Matěj Cepl 🇪🇺 🇨🇿 @mcepl@floss.social\n@solene\nIf you want to honour his memory, you know that Vim was actually charityware? Please, donate! https://iccf-holland.org/ 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/@efftoyz/110837807160482219" ],
+        "uid" : [ "https://fosstodon.org/@efftoyz/110837807160482219" ],
+        "published" : [ "2023-08-05T15:51:59+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> </p><p>:wq</p>",
+          "value" : "@solene\n:wq",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "The Ancient Good" ],
+            "url" : [ "https://fosstodon.org/@efftoyz" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/avatars/original/missing.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "The Ancient Good"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 15:51 The Ancient Good @efftoyz@fosstodon.org\n@solene\n:wq 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.tchncs.de/@ichbinpeter/110838016373668497" ],
+        "uid" : [ "https://social.tchncs.de/@ichbinpeter/110838016373668497" ],
+        "published" : [ "2023-08-05T16:45:11+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> oh wow, that's unexpected. I'm not a vim user, but still.. respect..</p>",
+          "value" : "@solene oh wow, that's unexpected. I'm not a vim user, but still.. respect..",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Peter" ],
+            "url" : [ "https://social.tchncs.de/@ichbinpeter" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/avatars/original/missing.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Peter"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 16:45 Peter @ichbinpeter@social.tchncs.de\n@solene oh wow, that's unexpected. I'm not a vim user, but still.. respect.. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/@canleaf/110838053671710171" ],
+        "uid" : [ "https://mastodon.social/@canleaf/110838053671710171" ],
+        "published" : [ "2023-08-05T16:54:41+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> Vim has become my goto editor for yaml files and other files.</p><p>Sad and devastating news! RIP.</p>",
+          "value" : "@solene Vim has become my goto editor for yaml files and other files.\nSad and devastating news! RIP.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "canleaf08 ⌘ ✅" ],
+            "url" : [ "https://mastodon.social/@canleaf" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/400/070/610/122/972/original/b93532b6930d4c8d.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "canleaf08 ⌘ ✅"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 16:54 canleaf08 ⌘ ✅ @canleaf@mastodon.social\n@solene Vim has become my goto editor for yaml files and other files.\nSad and devastating news! RIP. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://chaos.social/@ajuvo/110838063581310509" ],
+        "uid" : [ "https://chaos.social/@ajuvo/110838063581310509" ],
+        "published" : [ "2023-08-05T16:57:12+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> sad. this makes me remember sven <a href=\"https://chaos.social/tags/Guckes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Guckes</span></a> , too</p>",
+          "value" : "@solene sad. this makes me remember sven #Guckes , too",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "ajuvo ✔" ],
+            "url" : [ "https://chaos.social/@ajuvo" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/000/024/709/original/46685ad5610db247.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "ajuvo ✔"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 16:57 ajuvo ✔ @ajuvo@chaos.social\n@solene sad. this makes me remember sven #Guckes , too 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://paquita.masto.host/@anthk/110838348744123139" ],
+        "uid" : [ "https://paquita.masto.host/@anthk/110838348744123139" ],
+        "published" : [ "2023-08-05T18:09:43+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> RIP Moolenaar. I remember the infamous poston what sw do nix gurus use and what they used years later, his child grew up in the photos.<br>On vi vs vim, nvi2 gives me great balance, but vim was my first vi clone.</p>",
+          "value" : "@solene RIP Moolenaar. I remember the infamous poston what sw do nix gurus use and what they used years later, his child grew up in the photos.\nOn vi vs vim, nvi2 gives me great balance, but vim was my first vi clone.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Anthk" ],
+            "url" : [ "https://paquita.masto.host/@anthk" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/382/661/085/730/410/original/a76f4b5316d4e4df.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Anthk"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 18:09 Anthk @anthk@paquita.masto.host\n@solene RIP Moolenaar. I remember the infamous poston what sw do nix gurus use and what they used years later, his child grew up in the photos.\nOn vi vs vim, nvi2 gives me great balance, but vim was my first vi clone. 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://foxi.sh/@hakei/110838358677295005" ],
+        "uid" : [ "https://foxi.sh/@hakei/110838358677295005" ],
+        "published" : [ "2023-08-05T18:12:15+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> I was lucky enough to meet him at a conference once. He seemed like a genuinely nice person, and a little surprised that a relatively small piece of software thrust him into stardom? Thanks for sharing the sad news, though.</p>",
+          "value" : "@solene I was lucky enough to meet him at a conference once. He seemed like a genuinely nice person, and a little surprised that a relatively small piece of software thrust him into stardom? Thanks for sharing the sad news, though.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hakei" ],
+            "url" : [ "https://foxi.sh/@hakei" ],
+            "photo" : [ {
+              "value" : "https://media.bsd.network/cache/accounts/avatars/109/412/245/014/348/292/original/1418e784d67e90f2.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Hakei"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://bsd.network/@solene" ],
+          "name" : [ "@solene" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Aug 05, 2023, 18:12 Hakei @hakei@foxi.sh\n@solene I was lucky enough to meet him at a conference once. He seemed like a genuinely nice person, and a little surprised that a relatively small piece of software thrust him into stardom? Thanks for sharing the sad news, though. 0"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://paquita.masto.host/@anthk/110838352867268745" ],
+      "uid" : [ "https://paquita.masto.host/@anthk/110838352867268745" ],
+      "published" : [ "2023-08-05T18:10:46+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://bladerunner.social/@stevelord\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>stevelord</span></a></span> <span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> vim was born IN the Amiga :*)</p>",
+        "value" : "@stevelord @solene vim was born IN the Amiga :*)",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Anthk" ],
+          "url" : [ "https://paquita.masto.host/@anthk" ],
+          "photo" : [ {
+            "value" : "https://media.bsd.network/cache/accounts/avatars/109/382/661/085/730/410/original/a76f4b5316d4e4df.png",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Anthk"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bladerunner.social/@stevelord" ],
+        "name" : [ "@stevelord" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@solene" ],
+        "name" : [ "@solene" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://troet.cafe/@sci_photos/110837931999354396" ],
+      "uid" : [ "https://troet.cafe/@sci_photos/110837931999354396" ],
+      "published" : [ "2023-08-05T16:23:44+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@efftoyz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>efftoyz</span></a></span><br><span class=\"h-card\"><a href=\"https://bsd.network/@solene\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>solene</span></a></span> <br>or :x<br>or ZZ</p>",
+        "value" : "@efftoyz\n@solene\nor :x\nor ZZ",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Markus Osterhoff" ],
+          "url" : [ "https://troet.cafe/@sci_photos" ],
+          "photo" : [ {
+            "value" : "https://media.bsd.network/cache/accounts/avatars/109/298/023/637/270/396/original/6e152a222a5101b1.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Markus Osterhoff"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/@efftoyz" ],
+        "name" : [ "@efftoyz" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@solene" ],
+        "name" : [ "@solene" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
