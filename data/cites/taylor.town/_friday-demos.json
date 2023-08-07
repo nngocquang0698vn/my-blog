@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Share Demos Every Friday" ],
+    "summary" : [ "Add demos to a #demo-friday channel in Slack or Teams." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Taylor Troesh" ]
+      }
+    } ],
+    "url" : [ "https://taylor.town/friday-demos" ]
+  }
+}
