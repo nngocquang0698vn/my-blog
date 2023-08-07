@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Ergonomic Map in Go" ],
+    "summary" : [ "In many languages, on of the things I find myself doing is maping over a list to extract some field. For example, coverting a []Person to []Name.\nMost languages these days have ways to do this pretty easily:\nKotlin:\npeople.map { it.Name } JavaScript:\npeople.map(p => p.Name) Rust:\npeople.map(|p| p.Name) Scala:\npeople.map(_.Name) With generics, Go finally can do this in a type safe manner:\nMap(people, func(t Person) string { return t." ],
+    "url" : [ "https://blog.howardjohn.info/posts/go-map/" ],
+    "published" : [ "2023-01-31T00:00:00+00:00" ]
+  }
+}
