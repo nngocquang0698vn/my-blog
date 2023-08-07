@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Some tactics for writing in public" ],
+    "summary" : [ "Some tactics for writing in public" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Julia Evans" ]
+      }
+    } ],
+    "url" : [ "https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/" ]
+  }
+}
