@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "My [\"pumped\" Spotify playlist] (https://open.spotify.com/playlist/664XTaQfwj0vnSHxrI6tXc?si=22Th8cELR3mEw68K-ocIIA) is my alarm and my \"trick my ADHD brain into doing the thing\" 😁 I find a few of the artists like Maduk and Fox Stevenson coming on usually do the trick"
+      "value" : "My [\"pumped\" Spotify playlist](https://open.spotify.com/playlist/664XTaQfwj0vnSHxrI6tXc?si=22Th8cELR3mEw68K-ocIIA) is my alarm and my \"trick my ADHD brain into doing the thing\" 😁 I find a few of the artists like Maduk and Fox Stevenson coming on usually do the trick"
     } ]
   },
   "kind" : "replies",
