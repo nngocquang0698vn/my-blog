@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Four tips to keep your GitHub Actions workflows secure" ],
+    "summary" : [ "Researchers from Purdue and NCSU have found a large number of command injection vulnerabilities in the workflows of projects on GitHub. Follow these four tips to keep your GitHub Actions workflows secure." ],
+    "featured" : [ "https://github.blog/wp-content/uploads/2023/05/1200.630-Security-wLogo.png?fit=1200%2C630" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jaroslav Lobacevski, Kevin Backhouse" ]
+      }
+    } ],
+    "url" : [ "https://github.blog/2023-08-09-four-tips-to-keep-your-github-actions-workflows-secure/" ],
+    "published" : [ "2023-08-09T14:31:10+00:00" ]
+  }
+}
