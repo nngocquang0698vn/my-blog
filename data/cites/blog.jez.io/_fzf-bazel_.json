@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Driving Bazel with fzf – Jake Zimmerman" ],
+    "summary" : [ "I find that the easiest way to work with Bazel is to use fzf.\n" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jake Zimmerman" ]
+      }
+    } ],
+    "url" : [ "https://blog.jez.io/fzf-bazel/" ]
+  }
+}
