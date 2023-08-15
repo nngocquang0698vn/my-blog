@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language" ],
+    "summary" : [ "Go 1.21 expands Go's commitment to backward compatibility, so that every new Go toolchain is the best possible implementation of older toolchain semantics as well." ],
+    "featured" : [ "https://go.dev/doc/gopher/gopher5logo.jpg" ],
+    "url" : [ "https://go.dev/blog/compat" ]
+  }
+}
