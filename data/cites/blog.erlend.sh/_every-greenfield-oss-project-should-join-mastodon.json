@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Every greenfield OSS project should join Mastodon" ],
+    "summary" : [ "If you are running a new open source project that's ready to start its social media presence, I urge you to do it on Mastodon, the defaul..." ],
+    "featured" : [ "https://cdn.writeas.net/img/w-sq-light.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Open Indie" ]
+      }
+    } ],
+    "url" : [ "https://blog.erlend.sh/every-greenfield-oss-project-should-join-mastodon" ],
+    "published" : [ "2023-08-15T16:31:33Z" ]
+  }
+}
