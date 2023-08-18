@@ -22,3 +22,9 @@ git diff-index --quiet HEAD --
 ```
 
 This exits with a non-zero error code if there are changes found, so you can use it to fail the build.
+
+Alternatively, you may want to see the unexpected changes, in which case you can run:
+
+```sh
+git diff-index --exit-code --patch HEAD --
+```
