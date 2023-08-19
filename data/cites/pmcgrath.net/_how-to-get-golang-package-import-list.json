@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to get golang package import list" ],
+    "url" : [ "https://pmcgrath.net/how-to-get-golang-package-import-list" ],
+    "published" : [ "2014-10-21T00:00:00+00:00" ],
+    "content" : [ {
+      "html" : "<p>This <a href=\"https://golang.org/cmd/go/#hdr-List_packages\">page</a> contains the data that is available to the go list command, we use golang templates to extract subsets of this data below</p>\n\n<h2 id=\"get-imports-for-the-current-directory-package\">Get imports for the current directory package</h2>\n<div class=\"language-bash highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>\ngo list <span class=\"nt\">-f</span> <span class=\"s1\">'{{range $imp := .Imports}}{{printf \"%s\\n\" $imp}}{{end}}'</span> | sort\n\n</code></pre></div></div>\n<p>This lists all the imports for the current package</p>\n\n<h2 id=\"get-list-of-non-standard-dependencies\">Get list of non standard dependencies</h2>\n<div class=\"language-bash highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>\ngo list <span class=\"nt\">-f</span> <span class=\"s1\">'{{range $dep := .Deps}}{{printf \"%s\\n\" $dep}}{{end}}'</span> | xargs go list <span class=\"nt\">-f</span> <span class=\"s1\">'{{if not .Standard}}{{.ImportPath}}{{end}}'</span>\n\n</code></pre></div></div>\n<p>This lists all the non standard dependencies for the current package</p>",
+      "value" : "This page contains the data that is available to the go list command, we use golang templates to extract subsets of this data below Get imports for the current directory package go list -f '{{range $imp := .Imports}}{{printf \"%s\\n\" $imp}}{{end}}' | sort\nThis lists all the imports for the current package Get list of non standard dependencies go list -f '{{range $dep := .Deps}}{{printf \"%s\\n\" $dep}}{{end}}' | xargs go list -f '{{if not .Standard}}{{.ImportPath}}{{end}}'\nThis lists all the non standard dependencies for the current package",
+      "lang" : "en"
+    } ]
+  },
+  "lang" : "en"
+}
