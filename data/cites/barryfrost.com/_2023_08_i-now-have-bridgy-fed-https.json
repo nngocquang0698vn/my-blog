@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I now have Bridgy Fed (https://fed.brid.gy) set up on my website. It does all the heavy lifting so that websites can be a part of the Fediverse. While I was aware of Bridgy Fed I hadn’t quite understood it. A few minutes with Ryan’s docs and all became clear.\nMy content should now automatically federate to @barry@barryfrost.com. I’m still using my @barryf@mastodon.social account for reading my feed in Mastodon clients, but I intend to switch over." ],
+    "url" : [ "https://barryfrost.com/2023/08/i-now-have-bridgy-fed-https" ],
+    "syndication" : [ "https://mastodon.social/@barryf/110926743214041985" ],
+    "bridgy-fed" : [ "https://fed.brid.gy/" ],
+    "published" : [ "2023-08-21T08:46:39.381Z" ],
+    "updated" : [ "2023-08-21T08:49:35.771Z" ],
+    "content" : [ {
+      "html" : "<p>I now have Bridgy Fed (<a href=\"https://fed.brid.gy\">https://fed.brid.gy</a>) set up on my website. It does all the heavy lifting so that websites can be a part of the Fediverse. While I was aware of Bridgy Fed I hadn’t quite understood it. A few minutes with Ryan’s docs and all became clear.</p>\n<p>My content should now automatically federate to <code>@barry@barryfrost.com</code>. I’m still using my <code>@barryf@mastodon.social</code> account for reading my feed in Mastodon clients, but I intend to switch over.</p>",
+      "value" : "I now have Bridgy Fed (https://fed.brid.gy) set up on my website. It does all the heavy lifting so that websites can be a part of the Fediverse. While I was aware of Bridgy Fed I hadn’t quite understood it. A few minutes with Ryan’s docs and all became clear.\nMy content should now automatically federate to @barry@barryfrost.com. I’m still using my @barryf@mastodon.social account for reading my feed in Mastodon clients, but I intend to switch over.",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "photo" : [ {
+          "value" : "https://barryfrost.com/barryfrost.jpg",
+          "alt" : "Photo of Barry"
+        } ],
+        "url" : [ "https://barryfrost.com/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://barryfrost.com/"
+    } ]
+  },
+  "lang" : "en-GB"
+}
