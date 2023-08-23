@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to develop a great CLI with Go" ],
+    "summary" : [ "Alex shares his insights from building half a dozen popular Go CLIs. Which can you apply to your projects?" ],
+    "featured" : [ "https://actuated.dev/images/2023-08-great-cli/background.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "OpenFaaS Ltd" ]
+      }
+    } ],
+    "url" : [ "https://actuated.dev/blog/develop-a-great-go-cli" ]
+  }
+}
