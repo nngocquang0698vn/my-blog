@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Good-Bye Kris Nóva" ],
+    "summary" : [ "The developer, open source leader, and alpinist died in a climbing accident, leaving the world poorer for her absence." ],
+    "featured" : [ "https://cdn.thenewstack.io/media/2023/08/ff521b3e-kris_nova.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Steven J. Vaughan-Nichols" ]
+      }
+    } ],
+    "url" : [ "https://thenewstack.io/good-bye-kris-nova/" ],
+    "published" : [ "2023-08-23T12:57:36+00:00" ]
+  }
+}
