@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Alex Wilson (@probablyfine@tech.lgbt)" ],
+    "summary" : [ "You don't need a full-featured testing framework, or something that outputs in JUnit format, to get the value of a red-green-refactor loop.\n\nAll you need is a feedback mechanism, which can be as simple as \"does the exit code for this process indicate an error or success?\".\n\nKent Beck's test-commit-revert demo using python does exactly this - no importing a framework or test runner, but leaning on python's built-in `assert` keyword.\n\nhttps://youtu.be/Aof0F9DvTFg?t=220&si=D7afjzT2GvTEhTQn" ],
+    "url" : [ "https://tech.lgbt/@probablyfine/110944244578528934" ]
+  }
+}
