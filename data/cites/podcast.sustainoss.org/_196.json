@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "FOSSY 2023 with Vagrant Cascadian" ],
+    "summary" : [ "Vagrant walks us through his role at Reproducible Builds and how its mission changes the face of Linux distros, Arch Linux, openSUSE, and F-Droid." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/27729c65-f4a6-4496-8c86-820e7f13b285/episodes/6/61a38392-13a0-4f6f-ae1e-175e1b9ee688/cover_medium.jpg?v=1" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/27729c65-f4a6-4496-8c86-820e7f13b285/61a38392-13a0-4f6f-ae1e-175e1b9ee688.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SustainOSS" ]
+      }
+    } ],
+    "url" : [ "https://podcast.sustainoss.org/196" ]
+  }
+}
