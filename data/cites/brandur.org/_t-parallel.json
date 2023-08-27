@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "On Using Go's `t.Parallel()`" ],
+    "summary" : [ "How and why we started annotating all our Go tests with <code>t.Parallel()</code>, and why you might want to consider doing so too." ],
+    "url" : [ "https://brandur.org/t-parallel" ]
+  }
+}
