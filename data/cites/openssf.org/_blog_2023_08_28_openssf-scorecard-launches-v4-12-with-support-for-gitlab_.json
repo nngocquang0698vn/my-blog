@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "OpenSSF Scorecard Launches v4.12 with Support for GitLab - Open Source Security Foundation" ],
+    "summary" : [ "Today, we are excited to announce OpenSSF Scorecard v4.12. This release adds support for GitLab and brings the project closer to its longer-term goal of supporting all types of hosted repositories. Previously, Scorecard has been limited to GitHub-based repositories along with some support for local Git repositories. " ],
+    "featured" : [ "https://openssf.org/wp-content/uploads/sites/132/2023/08/OpenSSF-Scorecard-v4.12.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "OpenSSF" ]
+      }
+    } ],
+    "url" : [ "https://openssf.org/blog/2023/08/28/openssf-scorecard-launches-v4-12-with-support-for-gitlab/" ],
+    "published" : [ "2023-08-28T19:17:07+00:00" ]
+  }
+}
