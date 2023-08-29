@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Lewis Cowles (@lewiscowles1986@phpc.social)" ],
+    "summary" : [ "@www.jvt.me@www.jvt.me @simon@simonwillison.net does Datasette use CSS variables for consistent theme colours?\n\nhttps://darkreader.org/ works pretty good on the demo site https://global-power-plants.datasettes.com/global-power-plants/global-power-plants.\n\nThat page does not use CSS variables.\n\nhttps://github.com/simonw/datasette/issues/1746 explores something that looks dark-mode adjacent.\n\na simple invert(1) also worked on the same demo.\n\nThe core site (I think powered by datasette) \n\nfilter: invert(1); background-color: white;\n\nworks'ish\n\nfilter: hue-rotate(160deg) invert(1) 🧑‍🍳" ],
+    "url" : [ "https://phpc.social/@lewiscowles1986/110974963849466249" ]
+  }
+}
