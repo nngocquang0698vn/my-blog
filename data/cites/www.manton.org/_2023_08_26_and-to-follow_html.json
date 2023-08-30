@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Manton Reece" ],
+    "summary" : [ "And to follow up on this, there’s a little known policy for Micro.blog hosting: when you have a paid subscription, we continue to host your blog forever even after you cancel and stop paying. Good URLs don’t change and don’t go away, unless you want them to." ],
+    "featured" : [ "https://micro.blog/manton/avatar.jpg", "https://micro.blog/manton/avatar.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ]
+      }
+    } ],
+    "url" : [ "https://www.manton.org/2023/08/26/and-to-follow.html" ],
+    "published" : [ "2023-08-26T08:59:57-05:00" ]
+  }
+}
