@@ -55,4 +55,16 @@ Then, we can specify the secrets needed by Renovate with i.e.
 flyctl secrets set WEBHOOK_SECRET=.....
 ```
 
+You should scale down to 1 instance (as it doesn't horizontally scale):
+
+```sh
+flyctl scale count
+```
+
+And I've found that 512MB is a good amount of memory to set for Renovate On-Prem to work (it crashes with Out Of Memory (OOM) errors with the default minimal memory limit Fly gives you):
+
+```sh
+flyctl scale memory 512
+```
+
 The [Renovate On-Prem documentation for GitLab](https://github.com/mend/renovate-on-prem/blob/main/docs/configuration-gitlab.md) covers the definition of the variables, and what you need to do to get Webhooks set up.
