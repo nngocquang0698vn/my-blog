@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "FOSSY 2023 with Matthew Wild & Stephen Paul Weber" ],
+    "summary" : [ "Matthew discusses Snikket, improving XMPP for friendly communication while Stephen presents JMP, easing transitions from other platforms using XMPP." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/27729c65-f4a6-4496-8c86-820e7f13b285/episodes/4/40bea1a7-ee3a-4c35-9a0c-b8ea32cb1b56/cover_medium.jpg?v=1" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/27729c65-f4a6-4496-8c86-820e7f13b285/40bea1a7-ee3a-4c35-9a0c-b8ea32cb1b56.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SustainOSS" ]
+      }
+    } ],
+    "url" : [ "https://podcast.sustainoss.org/193" ]
+  }
+}
