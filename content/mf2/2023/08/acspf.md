@@ -13,7 +13,7 @@
     "category" : [ "public-speaking", "dependency-management-data", "tech-mids2023" ],
     "content" : [ {
       "html" : "",
-      "value" : "Very excited to be speaking at <a href=\"/tags/tech-mids2023/\">#TechMids2023</a> on October 20th about [Quantifying your reliance on Open Source software](https://talks.jvt.me/dmd/), where we'll look at how you can get a better view of your organisation's Open Source and internal dependency usage 🎉"
+      "value" : "Very excited to be speaking at <a href=\"/tags/tech-mids2023/\">#TechMids2023</a> on October 20th about [Quantifying your reliance on Open Source software](https://talks.jvt.me/dmd/), where we'll look at how you can get a better view of your organisation's Open Source and internal dependency usage using [dependency-management-data](https://dmd.tanna.dev) 🎉"
     } ]
   },
   "kind" : "photos",
