@@ -45,3 +45,5 @@ But it _also_ needs us to explicitly opt in tests by making the following change
 ```
 
 This is a bit of a shame, as it'd be great to be able to parallelise by default, but I get that it's useful to allow tests to opt-in.
+
+You may also want to read <span class="h-card"><a class="u-url" href="https://brandur.org/">Brandur</a></span>'s post [On using Go's `t.Parallel()`](https://brandur.org/t-parallel) as there are some interesting points on the practicality of it.
