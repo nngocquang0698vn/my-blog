@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Calling shell functions with xargs" ],
+    "summary" : [ "I am trying to use xargs to call a more complex function in parallel.  \n\n#!/bin/bash\necho_var(){\n    echo $1\n    return 0\n}\nseq -f \"n%04g\" 1 100 |xargs -n 1 -P 10 -i echo_var {} \nexit 0\r\nThis retur..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/11003418/calling-shell-functions-with-xargs" ]
+  }
+}
