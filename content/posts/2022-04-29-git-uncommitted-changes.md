@@ -27,4 +27,6 @@ Alternatively, you may want to see the unexpected changes, in which case you can
 
 ```sh
 git diff-index --exit-code --patch HEAD --
+# alternatively
+git diff --exit-code HEAD --
 ```
