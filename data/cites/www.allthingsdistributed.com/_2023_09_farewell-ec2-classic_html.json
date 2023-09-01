@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Farewell EC2-Classic, it’s been swell " ],
+    "summary" : [ "It is time to celebrate EC2-Classic, which defined early cloud computing, and which is finally retiring." ],
+    "featured" : [ "https://www.allthingsdistributed.com/images/farewell-ec2-classic-header.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Dr Werner Vogels - https://www.allthingsdistributed.com/" ]
+      }
+    } ],
+    "url" : [ "https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html" ],
+    "published" : [ "2023-09-01T05:30:00-08:00" ]
+  }
+}
