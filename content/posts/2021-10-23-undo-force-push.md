@@ -88,6 +88,80 @@ However, if you want to try it, GitLab lists the set of commits that are new to 
 
 In this case, we can see that `5e2791da4` was force pushed over by `4b682452`, which means `5e2791da4` is the one we need to restore to.
 
+## Using the GitHub Events API
+
+Following [this StackOverflow answer](https://stackoverflow.com/a/35273807/2257038) we may be able to recover this using the GitHub [Events](https://docs.github.com/en/rest/activity/events) and [Git references](https://docs.github.com/en/rest/git/refs?apiVersion=2022-11-28) APIs.
+
+Let's say that we overwrote the `main` branch, we could run ([docs](https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28#list-public-events)):
+
+```sh
+gh api /repos/oapi-codegen/nethttp-middleware/events
+```
+
+This gives us a JSON blob that we can use to find the most recent event that pushed to `refs/heads/main`:
+
+```json
+[
+  {
+    "actor": {
+      "avatar_url": "https://avatars.githubusercontent.com/u/3315059?",
+      "display_login": "jamietanna",
+      "gravatar_id": "",
+      "id": 3315059,
+      "login": "jamietanna",
+      "url": "https://api.github.com/users/jamietanna"
+    },
+    "created_at": "2023-09-03T15:00:44Z",
+    "id": "31563695994",
+    "org": {
+      "avatar_url": "https://avatars.githubusercontent.com/u/142752710?",
+      "gravatar_id": "",
+      "id": 142752710,
+      "login": "oapi-codegen",
+      "url": "https://api.github.com/orgs/oapi-codegen"
+    },
+    "payload": {
+      "before": "05f0bc05b2f492fa733352779777a79fafc047d2",
+      "commits": [
+        {
+          "author": {
+            "email": "...",
+            "name": "Jamie Tanna"
+          },
+          "distinct": true,
+          "message": "Migrate to net/http middleware\n\nInstead of just being for chi, we can take this opportunity to make it\nclear this works for any net/http compatible router.\n\nWe can also make sure we've got test coverage for both Chi and Gorilla,\nthe routers that right now would be using this middleware.",
+          "sha": "52a3f7be6e47b6f93fcdd8821eca08ead613f14b",
+          "url": "https://api.github.com/repos/oapi-codegen/nethttp-middleware/commits/52a3f7be6e47b6f93fcdd8821eca08ead613f14b"
+        }
+      ],
+      "distinct_size": 1,
+      "head": "52a3f7be6e47b6f93fcdd8821eca08ead613f14b",
+      "push_id": 14904507573,
+      "ref": "refs/heads/main",
+      "repository_id": 685699676,
+      "size": 1
+    },
+    "public": true,
+    "repo": {
+      "id": 685699676,
+      "name": "oapi-codegen/nethttp-middleware",
+      "url": "https://api.github.com/repos/oapi-codegen/nethttp-middleware"
+    },
+    "type": "PushEvent"
+  }
+]
+```
+
+From here, we can see `payload.before` refers to the commit that was present before the push occurred.
+
+Then, we can create a new branch from that commit:
+
+```sh
+gh api /repos/oapi-codegen/nethttp-middleware/git/refs -f ref=refs/heads/tmp-branch-recover -f sha=05f0bc05b2f492fa733352779777a79fafc047d2
+```
+
+Now if you run `git fetch` we'll get the old version of the branch available.
+
 # Restoring the branch
 
 Now we've got the commit hash we need to restore to, I'd recommend backing up where we currently are, with the commits we've just force pushed over with:
