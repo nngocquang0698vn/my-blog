@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Sal Ferrarello (@salcode@phpc.social)" ],
+    "summary" : [ "@www.jvt.me@www.jvt.me Thanks for writing this post. I hadn't considered that the output of `git push --force` includes the old commit hash - good to know!\n\nOne suggestion, instead of `git push --force`, perhaps you'd consider using `git push --force-with-lease` instead\n\nIn my experience, `--force-with-lease` is nearly always a better option.\n\nI've even written my notes about it at https://salferrarello.com/never-git-push-force/\n\nThanks!" ],
+    "url" : [ "https://phpc.social/@salcode/111003230982809674" ]
+  }
+}
