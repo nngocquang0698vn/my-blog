@@ -3,7 +3,7 @@ title: Open Source Projects I Maintain
 ---
 There are a few Free and Open Source projects that I maintain:
 
-- [oapi-codegen](https://github.com/deepmap/oapi-codegen)
+- [oapi-codegen](https://github.com/deepmap/oapi-codegen) and its subprojects in the [oapi-codegen GitHub org](https://github.com/oapi-codegen)
 - [Wiremock](https://github.com/wiremock/wiremock) (albeit I've been pretty absent for a year or so)
 - [openapi-doc-http-handler](https://gitlab.com/jamietanna/openapi-doc-http-handler)
 - [content-negotiation-go](https://gitlab.com/jamietanna/content-negotiation-go)
