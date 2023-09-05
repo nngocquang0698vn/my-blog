@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "codapi: Code Playgrounds" ],
+    "summary" : [ "Embeddable code playgrounds for education, documentation, and fun." ],
+    "featured" : [ "https://codapi.org/assets/cover.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Anton Zhiyanov" ]
+      }
+    } ],
+    "url" : [ "https://codapi.org/" ]
+  }
+}
