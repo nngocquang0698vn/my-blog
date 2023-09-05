@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Sarah Brown" ],
+    "summary" : [ "Techbros: self driving cars are inevitable!\n\nAlso techbros: prove you are human by performing a task that computers can’t do, like identifying traffic lights." ],
+    "featured" : [ "https://thegoatery.dyndns.org/" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Sarah Brown" ]
+      }
+    } ],
+    "url" : [ "https://thegoatery.dyndns.org/display/8a89e8f8-1264-f6fd-f8ed-d57680787268" ]
+  }
+}
