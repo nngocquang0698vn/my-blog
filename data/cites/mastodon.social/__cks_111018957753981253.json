@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Chris Siebenmann (@cks@mastodon.social)" ],
+    "summary" : [ "Current status: looking around for a test server that gives you scratch accounts that you can then enable TOTP MFA for, so you can test TOTP MFA clients so you can understand them and the tricks you can pull for TOTP authentication.\n\nThere are public expendable-account test servers for email, but I imagine the MFA TOTP case is more obscure (and maybe requires more backend work)." ],
+    "url" : [ "https://mastodon.social/@cks/111018957753981253" ]
+  }
+}
