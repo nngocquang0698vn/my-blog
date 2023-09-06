@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Why to prefer `t.Cleanup` to `defer` in tests with subtests using `t.Parallel`" ],
+    "summary" : [ "Go&rsquo;s <code>defer</code> and <code>t.Cleanup</code> have similar semantics, but there&rsquo;s a good reason to prefer the use of <code>t.Cleanup</code> specifically in the presence of parallel subtests." ],
+    "url" : [ "https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests" ]
+  }
+}
