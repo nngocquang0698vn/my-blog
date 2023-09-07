@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Adapting Illustrations to Dark Mode" ],
+    "summary" : [ "I want to share with you a quick way to make illustrations on your website work in both light and dark mode:\n.dark .invert-on-dark {\n  filter: invert(1) hue-rotate(180deg);\n}\n\nTry it!\nToggle dark mode in the navigation bar and see the cover photo swi..." ],
+    "featured" : [ "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1692280871250%2F8a9e84ca-c502-482e-be0b-f5017a0d0b0c.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng" ],
+    "audio" : [ "https://prodstage-services-audiohashnodeaudioblog02f14287-1k4ui7vrgv13u.s3-us-west-2.amazonaws.com/cllcbr30500070al94z1rfuyj-male" ],
+    "url" : [ "https://blog.simonfarshid.com/adapting-illustrations-to-dark-mode" ]
+  }
+}
