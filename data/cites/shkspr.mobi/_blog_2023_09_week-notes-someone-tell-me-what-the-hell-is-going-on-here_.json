@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Week Notes - \"Someone tell me what the hell is going on here?\"" ],
+    "category" : [ "weeknotes" ],
+    "url" : [ "https://shkspr.mobi/blog/2023/09/week-notes-someone-tell-me-what-the-hell-is-going-on-here/" ],
+    "published" : [ "2023-09-08" ],
+    "updated" : [ "2023-09-08" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "photo" : [ {
+          "value" : "https://shkspr.mobi/apple-touch-icon.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
