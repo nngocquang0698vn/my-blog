@@ -81,6 +81,8 @@ done
 
 #### Listing the dependency graph
 
+**Update 2023-09-10**: I'd now much recommend [Software Bill of Materials (SBOMs)](https://docs.github.com/en/rest/dependency-graph/sboms?apiVersion=2022-11-28) endpoint - check out [_Prefer using the GitHub Software Bill of Materials (SBOMs) API over the Dependency Graph GraphQL API_](https://www.jvt.me/posts/2023/09/10/github-dependency-api-sbom/) for more details.
+
 Until I found [Simon Willison's post](https://til.simonwillison.net/github/dependencies-graphql-api) about this, I was getting a bit disheartened that this wasn't possible, but it turns out it was just hidden in a preview API.
 
 While playing around in the GraphQL API docs, I found that this was the best way to get all the packages that a given package has for direct and transitive dependencies.
