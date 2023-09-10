@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Who reads my blog?" ],
+    "category" : [ "blogging", "meta" ],
+    "url" : [ "https://shkspr.mobi/blog/2023/09/who-reads-my-blog/" ],
+    "published" : [ "2023-09-10" ],
+    "updated" : [ "2023-09-10" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "photo" : [ {
+          "value" : "https://shkspr.mobi/apple-touch-icon.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
