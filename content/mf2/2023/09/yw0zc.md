@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "New release of deepmap/oapi-codegen 🚀 v1.15.0 comes to downgrade the version of Go in use by a couple of dependencies, which was leading to build issues for folks running Go 1.21 🔧"
+      "value" : "New release of deepmap/oapi-codegen 🚀 [v1.15.0](https://github.com/deepmap/oapi-codegen/releases/tag/v1.15.0) comes to downgrade the version of Go in use by a couple of dependencies, which was leading to build issues for folks running Go 1.21 🔧"
     } ]
   },
   "kind" : "notes",
