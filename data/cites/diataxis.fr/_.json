@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Diátaxis" ],
+    "summary" : [ "The Diátaxis framework solves a problem of quality in technical documentation, describing an information architecture that makes it easier to create, maintain and use." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Daniele Procida" ]
+      }
+    } ],
+    "url" : [ "https://diataxis.fr/" ]
+  }
+}
