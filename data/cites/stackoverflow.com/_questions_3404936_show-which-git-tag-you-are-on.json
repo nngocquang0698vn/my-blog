@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Show which git tag you are on?" ],
+    "summary" : [ "I'm having trouble finding out which tag is currently checked out.\n\nWhen I do:  \n\ngit checkout tag1\ngit branch\r\nI can't seem to find out which tag I'm on. It only logs:\n\n* (no branch)\nmaster\r\nIs it " ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/3404936/show-which-git-tag-you-are-on" ]
+  }
+}
