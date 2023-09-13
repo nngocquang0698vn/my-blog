@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Shrink your Go binaries with this one weird trick" ],
+    "summary" : [ "Ok, I lied, there's no weird trick. However, you can easily reduce a Go binary\nsize by more than 6 times with some flags and common tools.\n\nNote: I don't actually believe a 30MB static binary is a problem in this day and\nage, and I would not trade (build" ],
+    "featured" : [ "https://words.filippo.io/content/images/2023/02/Logo-Nero-Filippo-Valsorda-def-web.png", "https://words.filippo.io/content/images/2016/04/go-1.png", "https://words.filippo.io/content/images/2016/04/go--sw-2.png" ],
+    "url" : [ "https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/" ],
+    "published" : [ "2018-02-20T01:52:37.000Z" ]
+  }
+}
