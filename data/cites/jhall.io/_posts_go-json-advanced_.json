@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Talk Notes: Advanced JSON Handling in Go" ],
+    "summary" : [ " For more content like this, buy my in-progress eBook, Data Serialization in Go⁠, and get updates immediately as they are added! This post contains links and notes for the presentation I gave on March 5, 2020, for the Golang Rotterdam meetup group.\nDownload the slides in PDF format, or you can view the Go Present source file.\nPrevious blog posts on related topics:\n“Slightly” custom marshaling JSON Arrays as Go structs " ],
+    "featured" : [ "https://jhall.io/images/post-card-placeholder.jpeg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jonathan Hall" ]
+      }
+    } ],
+    "url" : [ "https://jhall.io/posts/go-json-advanced/" ]
+  }
+}
