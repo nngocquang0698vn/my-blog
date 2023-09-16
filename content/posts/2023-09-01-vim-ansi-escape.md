@@ -14,7 +14,7 @@ image: https://media.jvt.me/efa7085abe.jpeg
 Sometimes you'll be working with tools that may end up (accidentally) writing ANSI escape codes to the console, and these can be captured by tools like `tee` and then end up in a file.
 
 ```
-[00;32mSuccessful deployment[0m
+^[[00;32mSuccessful deployment^[[0m
 \033[00;32mhuzzah, the thing has been done!\033[0m
 ```
 
