@@ -331,7 +331,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
       56700.00
     </td>
     <td>
-      Competitive increase
+      Updated salary
     </td>
     <td>
       Capital One
@@ -420,7 +420,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
       55169.10
     </td>
     <td>
-      Competitive increase
+      Updated salary
     </td>
     <td>
       Capital One
