@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "This blog is now on the Fediverse!" ],
+    "category" : [ "activitypub", "mastodon", "wordpress" ],
+    "url" : [ "https://shkspr.mobi/blog/2023/09/this-blog-is-now-on-the-fediverse/" ],
+    "published" : [ "2023-09-16" ],
+    "updated" : [ "2023-09-16" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "photo" : [ {
+          "value" : "https://shkspr.mobi/apple-touch-icon.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
