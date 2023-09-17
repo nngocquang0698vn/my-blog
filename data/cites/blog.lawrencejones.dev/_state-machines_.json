@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Use your database to power state machines" ],
+    "summary" : [ "If you build a state machine on top of a relational database you can abstract concurrency problems away from your business logic and allow developers to write safe-by-default code without dealing with concurrency concerns. This post explains how to build a library that offers those protections, and how they work under-the-hood." ],
+    "featured" : [ "https://blog.lawrencejones.dev/assets/images/state-machines.png" ],
+    "url" : [ "https://blog.lawrencejones.dev/state-machines/" ],
+    "published" : [ "2023-09-16T12:00:00+00:00" ]
+  }
+}
