@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "my battlestation" ],
+    "summary" : [ "...in case you were wondering." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Taylor Troesh" ]
+      }
+    } ],
+    "url" : [ "https://taylor.town/my-battlestation" ]
+  }
+}
