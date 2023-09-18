@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Ableist interactions" ],
+    "summary" : [ "Hidde's blog about web accessibility, standards, HTML, CSS, JavaScript and more." ],
+    "featured" : [ "https://hidde.blog/_images/ableist.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Hidde de Vries" ]
+      }
+    } ],
+    "url" : [ "https://hidde.blog/interactions-about-accessibility/" ]
+  }
+}
