@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Price of the Hallway Track" ],
+    "summary" : [ "There are many good reasons to not go to every talk possible when attending conferences. However increasingly it became hip to boast about avoiding going to talks – encouraging others to follow suit. As a speaker, that rubs me the wrong way and I’ll try to explain why." ],
+    "featured" : [ "https://hynek.me/cards/hallway-track.png?1694864503" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Hynek Schlawack" ]
+      }
+    } ],
+    "url" : [ "https://hynek.me/articles/hallway-track/" ],
+    "published" : [ "2019-05-15T18:00:00Z" ]
+  }
+}
