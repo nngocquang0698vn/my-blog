@@ -227,6 +227,12 @@ notAlternative = true
     url = "/post-frequency/"
     weight = 45
   [[menu.footer]]
+    identifier = "archives"
+    name = "Archives"
+    title = "Archives"
+    url = "/archives/"
+    weight = 45
+  [[menu.footer]]
     identifier = "manual-of-me"
     name = "Manual of Me"
     title = "Manual of Me"
