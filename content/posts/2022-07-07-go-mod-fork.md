@@ -12,6 +12,8 @@ license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
 slug: "go-mod-fork"
 ---
+**Update 2023-09-20**: If you're writing a module that is consumed through `go install`, check out [this separate post to avoid a gotcha](https://www.jvt.me/posts/2023/09/20/go-mod-fork-gotcha/).
+
 If you're building on top of an Open Source Go library through Go modules, there may be times that you need to use a forked version of the project, such as when the library hasn't yet merged your changes, or is no longer actively maintained.
 
 Let's say that we want to pin to the forked branch [`defect/doc`](https://github.com/jamietanna/oapi-codegen/tree/defect/doc), we'd need to retrieve the latest Git SHA on that branch, which is currently `921b1b1504b413079e3cbe9457cc317014e299ce`.
