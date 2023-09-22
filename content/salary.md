@@ -928,3 +928,13 @@ table.salary td:nth-child(2) {
   color: #fabd2f;
 }
 </style>
+
+Other excellent people sharing their own salary histories:
+
+- [Carol Gomez-Gilabert](https://carol.gg/salary/)
+- [Josh Ghent](https://joshghent.com/salary-history/)
+- [Kristófer Reykjalín](https://www.thorlaksson.com/salary/)
+- [Matt Brunt](https://brunty.me/salary/
+- [Tom Withers](https://tomwithers.dev/salary/)
+- [Waleed Khan](https://blog.waleedkhan.name/compensation-history/)
+- [Xe Iaso (Christine Dodrill)](https://xeiaso.net/salary-transparency)
