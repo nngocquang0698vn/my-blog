@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "More Effective Remote Working" ],
+    "summary" : [ "COVID-19 was many people’s first introduction to the working-from-home experience. I’ve been lucky enough to have been working from home exclusively since 2009 and at US-based companies (e.g. GitHub) since 2012. I’ve also been an EU-based open-source maintainer since 2007 and maintaining the globally-distributed Homebrew package manager since 2009. These experiences have helped me learn some tips on how to be more effective working remotely that I’d like to share with you:" ],
+    "featured" : [ "https://mikemcquaid.com/images/default-card.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mike McQuaid" ]
+      }
+    } ],
+    "url" : [ "https://mikemcquaid.com/more-effective-remote-working/" ],
+    "published" : [ "2023-08-21T00:00:00+00:00" ]
+  }
+}
