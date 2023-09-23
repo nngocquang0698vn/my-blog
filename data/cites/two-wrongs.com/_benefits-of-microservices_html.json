@@ -1,0 +1,13 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Okay, Microservices Have Benefits Too" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "kqr" ]
+      }
+    } ],
+    "url" : [ "https://two-wrongs.com/benefits-of-microservices.html" ]
+  }
+}
