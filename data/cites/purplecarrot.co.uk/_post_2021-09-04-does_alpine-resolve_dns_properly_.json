@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Does Alpine resolve DNS properly?" ],
+    "summary" : [ "Investigations into musl libc DNS resolver used in Alpine containers" ],
+    "featured" : [ "https://purplecarrot.co.uk/images/thumbnails/container.png" ],
+    "url" : [ "https://purplecarrot.co.uk/post/2021-09-04-does_alpine-resolve_dns_properly/" ]
+  }
+}
