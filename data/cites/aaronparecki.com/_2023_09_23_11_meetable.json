@@ -1,0 +1,150 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "meetable", "events" ],
+    "pk-num-likes" : [ "4" ],
+    "pk-num-reposts" : [ "1" ],
+    "pk-num-mentions" : [ "2" ],
+    "url" : [ "https://aaronparecki.com/2023/09/23/11/meetable" ],
+    "published" : [ "2023-09-23T19:24:00-07:00" ],
+    "content" : [ {
+      "html" : "I spent most of the day working on Meetable, my event listing website that powers <a href=\"https://events.indieweb.org\"><span class=\"protocol\">https://</span>events.indieweb.org</a> and a few other sites. Some great new features and bugfixes! <br> <br>• Added passkeys for admin login <br>• \"Live Now\" indicator is now aware of the actual Zoom meeting status <br>• Zoom meeting updates if event time changes <br>• Added tooltip to show local time on event pages",
+      "value" : "I spent most of the day working on Meetable, my event listing website that powers https://events.indieweb.org and a few other sites. Some great new features and bugfixes!\n\n• Added passkeys for admin login\n• \"Live Now\" indicator is now aware of the actual Zoom meeting status\n• Zoom meeting updates if event time changes\n• Added tooltip to show local time on event pages"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.tchncs.de/users/teleclimber#likes/6179882" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Olivier Forget" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://social.tchncs.de/users/teleclimber" ]
+          },
+          "value" : "Olivier Forget"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Olivier Forget"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/sass#likes/114991355" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "sass" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/sass" ]
+          },
+          "value" : "sass"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png sass"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mas.to/users/calebjasik#likes/13033018" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "caleb" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mas.to/users/calebjasik" ]
+          },
+          "value" : "caleb"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png caleb"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://indieweb.social/users/dariusdunlap#likes/1189651" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Darius" ],
+            "url" : [ "https://indieweb.social/users/dariusdunlap" ]
+          },
+          "value" : "Darius"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Darius"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://hachyderm.io/users/oh_that_courtney/statuses/111117829288341624/activity" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "" ],
+            "url" : [ "https://hachyderm.io/users/oh_that_courtney" ]
+          },
+          "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "I spent most of the day working on Meetable, my event listing ... • Aaron Parecki" ],
+        "url" : [ "https://jamesg.coffee/2023/i-spent-most-of-the-day-working-on-meetable-my" ],
+        "published" : [ "2023-09-24T04:13:05-07:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "James' Coffee Blog" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://jamesg.coffee/profile/capjamesg" ]
+          },
+          "value" : "James' Coffee Blog"
+        } ]
+      },
+      "value" : "I spent most of the day working on Meetable, my event listing ... • Aaron Parecki"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://aaronparecki.com/2023/09/23/11/meetable" ],
+        "published" : [ "2023-09-23T19:24:00-07:00" ],
+        "content" : [ {
+          "html" : "I spent most of the day working on Meetable, my event listing website that powers https://events.indieweb.org and a few other sites. Some great new features and bugfixes! • Added passkeys for admin login • \"Live Now\" indicator is now aware of the actual Zoom meeting status • Zoom meeting updates if event t... <a href=\"https://aaronparecki.com/2023/09/23/11/meetable\" rel=\"nofollow\">aaronparecki.com</a>",
+          "value" : "I spent most of the day working on Meetable, my event listing website that powers https://events.indieweb.org and a few other sites. Some great new features and bugfixes! • Added passkeys for admin login • \"Live Now\" indicator is now aware of the actual Zoom meeting status • Zoom meeting updates if event t... aaronparecki.com"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "aaronpk" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/aaronpk" ]
+          },
+          "value" : "aaronpk"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png aaronpk micro.blog/aaronpk I spent most of the day working on Meetable, my event listing website that powers https://events.indieweb.org and a few other sites. Some great new features and bugfixes! • Added passkeys for admin login • \"Live Now\" indicator is now aware of the actual Zoom meeting status • Zoom meeting updates if event t... aaronparecki.com Sat, Sep 23, 2023 7:24pm -07:00 (via micro.blog)"
+    } ]
+  },
+  "id" : "post-id-101402"
+}
