@@ -64,6 +64,7 @@ flyctl scale count
 And I've found that 512MB is a good amount of memory to set for Renovate On-Prem to work (it crashes with Out Of Memory (OOM) errors with the default minimal memory limit Fly gives you):
 
 ```sh
+fly scale vm shared-cpu-2x
 flyctl scale memory 512
 ```
 
