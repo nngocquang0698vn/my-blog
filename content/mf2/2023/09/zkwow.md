@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://youtube.com/watch?v=Q0v2YJLq8n8" ],
+    "listen-of" : [ "https://www.youtube.com/watch?v=Q0v2YJLq8n8" ],
     "published" : [ "2023-09-27T18:45:45.208400789Z" ],
     "post-status" : [ "published" ]
   },
