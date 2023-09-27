@@ -78,6 +78,17 @@ dmd import renovate --db dmd.db 'out/*.json'
 
 Now our database is ready to go 👏
 
+## Generating missing data (optional)
+
+This is an optional step, but for ecosystems like the Java, the full dependency tree may not be immediately available.
+
+We can run the following to (try) to fill in the missing dependency tree:
+
+```sh
+# note that this can take several minutes depending on how many dependencies you have!
+dmd db generate missing-data --db dmd.db
+```
+
 ## Generating advisories (optional)
 
 This is an optional step, but allows us to get some more meaningful information about our dependencies.
