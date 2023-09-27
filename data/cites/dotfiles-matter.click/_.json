@@ -1,0 +1,13 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Dotfiles matter!" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "anonymous" ]
+      }
+    } ],
+    "url" : [ "https://dotfiles-matter.click/" ]
+  }
+}
