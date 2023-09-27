@@ -18,7 +18,7 @@ But I couldn't remember how I did it last, and [the documentation](https://githu
 1. Browse to your user settings, and under the `Integration` heading, select `Scheduled reminders` ([link](https://github.com/settings/reminders))
 1. Select the GitHub organisation that you want to set up real-time notifications
 1. Select `Authorize Slack workspace` and connect to the Slack you want the notifications in
-1. Select `Enable real-time alerts` **??**
+1. Select `Enable real-time alerts`
 1. Unselect `Review requests assigned to you` (if you don't want reminders)
 1. Click `Create reminder`
 

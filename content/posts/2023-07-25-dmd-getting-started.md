@@ -95,7 +95,7 @@ dmd db generate advisories --db dmd.db
 
 ## Running some queries
 
-Now we've got the data available, we can **??**.
+Now we've got the data available, we can start to query it.
 
 It's recommended you find your SQLite browser of choice and try the following queries:
 
