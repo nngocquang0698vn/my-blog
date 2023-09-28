@@ -1,6 +1,6 @@
 ---
-title: "Setting up Renovate On-Prem for GitLab.com on Fly.io"
-description: "How to set up Renovate On-Prem on Fly.io, when integrating with GitLab.com."
+title: "Setting up Mend Renovate Community Edition for GitLab.com on Fly.io"
+description: "How to set up Mend Renovate Community Edition on Fly.io, when integrating with GitLab.com."
 date: 2023-08-30T10:16:22+0100
 tags:
 - "blogumentation"
@@ -18,13 +18,13 @@ I first set up Renovate for my personal GitLab.com projects using [the official 
 
 This model works well for a while, but at some point, losing out on the real-time updates on Pull/Merge Requests or through the Dependency Dashboard can make the app feel rather sluggish, especially if you've been using the hosted app on GitHub.
 
-Fortunately Mend, the company behind Renovate, provide a _free_ tool called [Renovate On-Prem](https://www.mend.io/free-developer-tools/renovate/on-premises/) which wraps the Renovate Open Source project with the ability to react real-time to notifications.
+Fortunately Mend, the company behind Renovate, provide a _free_ tool called [Mend Renovate Community Edition](https://www.mend.io/renovate-community/) (previously called Mend Renovate On-Prem) which wraps the Renovate Open Source project with the ability to react real-time to notifications.
 
 The last couple of days I was clearing down the backlog of dependency updates I had to do in [dependency-management-data](https://dmd.tanna.dev) and found that conflicts in the `go.mod` and `go.sum` between different dependency updates meant the upgrade process was fairly slow.
 
-Because I've run Renovate On-Prem before at work, I set about doing the same for [my Open Source projects](/open-source/).
+Because I've run Mend Renovate Community Edition before at work, I set about doing the same for [my Open Source projects](/open-source/).
 
-I've been using Fly.io for hosting all my apps recently, so set about doing the same for Renovate On-Prem. All the code and config below can be found [in the repo on GitLab.com](https://gitlab.com/tanna.dev/renovate-runner).
+I've been using Fly.io for hosting all my apps recently, so set about doing the same for Mend Renovate Community Edition. All the code and config below can be found [in the repo on GitLab.com](https://gitlab.com/tanna.dev/renovate-runner).
 
 We can use the following `Dockerfile` for the app:
 
@@ -52,7 +52,7 @@ EXPOSE 8080
 Then, we can specify the secrets needed by Renovate with i.e.
 
 ```sh
-flyctl secrets set WEBHOOK_SECRET=.....
+flyctl secrets set MEND_RNV_WEBHOOK_SECRET=.....
 ```
 
 You should scale down to 1 instance (as it doesn't horizontally scale):
@@ -61,11 +61,15 @@ You should scale down to 1 instance (as it doesn't horizontally scale):
 flyctl scale count
 ```
 
-And I've found that 512MB is a good amount of memory to set for Renovate On-Prem to work (it crashes with Out Of Memory (OOM) errors with the default minimal memory limit Fly gives you):
+And I've found that 1024MB is a good amount of memory to set for Mend Renovate Community Edition to work (it crashes with Out Of Memory (OOM) errors with the default minimal memory limit Fly gives you):
 
 ```sh
 fly scale vm shared-cpu-2x
-flyctl scale memory 512
+flyctl scale memory 1024
 ```
 
 The [Renovate On-Prem documentation for GitLab](https://github.com/mend/renovate-on-prem/blob/main/docs/configuration-gitlab.md) covers the definition of the variables, and what you need to do to get Webhooks set up.
+
+Also, make sure you've turned off the ability for Fly to [Automatically stop and start Machines](https://fly.io/docs/apps/autostart-stop/).
+
+**Update 2023-09-28**: Coming from Renovate On Prem? Check out [the official migration docs](https://github.com/mend/renovate-ce-ee/blob/main/docs/migrating-to-renovate-ce.md) and [the changes I needed to make on my personal installation](https://gitlab.com/tanna.dev/renovate-runner/-/merge_requests/1).
