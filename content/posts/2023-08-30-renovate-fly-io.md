@@ -29,22 +29,18 @@ I've been using Fly.io for hosting all my apps recently, so set about doing the 
 We can use the following `Dockerfile` for the app:
 
 ```dockerfile
-FROM whitesource/renovate:5.0.1
+FROM ghcr.io/mend/renovate-ce:6.0.0-full
 
-# defaults
-ENV ACCEPT_WHITESOURCE_TOS=y
-ENV RENOVATE_PLATFORM=gitlab
-ENV RENOVATE_ENDPOINT=https://gitlab.com/api/v4/
-
-# personal configuration
-ENV SCHEDULER_CRON='0 * * * *'
+ENV MEND_RNV_ACCEPT_TOS=y
+ENV MEND_RNV_PLATFORM=gitlab
+ENV MEND_RNV_ENDPOINT=https://gitlab.com/api/v4/
+ENV MEND_RNV_CRON_JOB_SCHEDULER='0 * * * *'
 ENV RENOVATE_EXTRA_FLAGS=--autodiscover=true
 
-# secrets
-ARG LICENSE_KEY
-ARG RENOVATE_TOKEN
+ARG MEND_RNV_LICENSE_KEY
+ARG MEND_RNV_GITLAB_PAT
 ARG GITHUB_COM_TOKEN
-ARG WEBHOOK_SECRET
+ARG MEND_RNV_WEBHOOK_SECRET
 
 EXPOSE 8080
 ```
