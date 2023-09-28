@@ -24,7 +24,7 @@ The last couple of days I was clearing down the backlog of dependency updates I 
 
 Because I've run Renovate On-Prem before at work, I set about doing the same for [my Open Source projects](/open-source/).
 
-I've been using Fly.io for hosting all my apps recently, so set about doing the same for Renovate On-Prem. All the code and config below can be found [in the repo on GitLab.com](https://www.mend.io/free-developer-tools/renovate/on-premises/).
+I've been using Fly.io for hosting all my apps recently, so set about doing the same for Renovate On-Prem. All the code and config below can be found [in the repo on GitLab.com](https://gitlab.com/tanna.dev/renovate-runner).
 
 We can use the following `Dockerfile` for the app:
 
