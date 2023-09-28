@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Documentation as a path to Open Source with Sarah Rainsberger" ],
+    "summary" : [ "Sarah Rainsberger owns technical documentation at Astro. What was her path into open source and technology? It might surprise you. Sarah started as an avid user of the Astro project and turned it into a career. She chats with scott about how important technical writing and documentation is to the end user experience." ],
+    "featured" : [ "https://images.hanselminutes.com/podcast/shows/911.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Scott Hanselman" ]
+      }
+    } ],
+    "url" : [ "https://hanselminutes.com/911/documentation-as-a-path-to-open-source-with-sarah-rainsberger" ]
+  }
+}
