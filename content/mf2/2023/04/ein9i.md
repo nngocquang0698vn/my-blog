@@ -16,5 +16,5 @@
   "kind" : "notes",
   "slug" : "2023/04/ein9i",
   "tags" : [ "twitter" ],
-  "client_id" : "https://indigenous.marksuth.dev/"
+  "client_id" : "https://indiepass.app/"
 }
