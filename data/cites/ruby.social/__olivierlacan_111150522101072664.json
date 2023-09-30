@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "olivierlacan (@olivierlacan@ruby.social)" ],
+    "summary" : [ "Is anybody aware of existing solutions that: \n\n- scan all (multi-lingual) codebases of a given organization on code hosting platforms\n- retrieve all third-party dependencies in use\n- aggregate all versions of each dependency in use\n- aggregate the licenses for each version of each dependency\n\nI'd be shocked if something like this didn't exist, probably on the very expensive side of \"Entreprise SaaS\". This feels very tangential to tools like Dependabot, Snyk, etc.\n\nBoosts welcome for reach." ],
+    "url" : [ "https://ruby.social/@olivierlacan/111150522101072664" ]
+  }
+}
