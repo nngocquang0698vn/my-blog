@@ -1,0 +1,20 @@
+{
+  "type" : [ "h-card" ],
+  "properties" : {
+    "tel" : [ "614.349.4279" ],
+    "name" : [ "Test Double" ],
+    "org" : [ "Test Double" ],
+    "url" : [ "https://mastodon.social/@testdouble", "https://github.com/testdouble", "https://www.linkedin.com/company/testdouble", "https://twitter.com/testdouble", "https://testdouble.com" ],
+    "email" : [ "mailto:hello@testdouble.com" ],
+    "adr" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Columbus" ],
+        "region" : [ "OH" ]
+      },
+      "lang" : "en-us",
+      "value" : "Columbus, OH"
+    } ]
+  },
+  "lang" : "en-us"
+}
