@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/620/jessica-rose-and-the-worst-advice-ever" ],
+    "listen-of" : [ "https://hanselminutes.com/620/jessica-rose-and-the-worst-advice-ever" ],
     "published" : [ "2018-03-08T10:46:49+00:00" ]
   },
   "kind" : "listens",

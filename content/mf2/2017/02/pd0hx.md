@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/549/orchestrating-and-automating-deployments-with-octopus-deploy-and-damian-brady" ],
+    "listen-of" : [ "https://hanselminutes.com/549/orchestrating-and-automating-deployments-with-octopus-deploy-and-damian-brady" ],
     "published" : [ "2017-02-28T10:27:06+00:00" ]
   },
   "kind" : "listens",

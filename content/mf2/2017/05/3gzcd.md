@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/574/the-road-to-lead-developer-with-linda-kamau-of-ushahidi" ],
+    "listen-of" : [ "https://hanselminutes.com/574/the-road-to-lead-developer-with-linda-kamau-of-ushahidi" ],
     "published" : [ "2017-05-18T09:07:26+01:00" ]
   },
   "kind" : "listens",

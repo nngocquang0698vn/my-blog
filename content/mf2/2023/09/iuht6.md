@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/911/documentation-as-a-path-to-open-source-with-sarah-rainsberger" ],
+    "listen-of" : [ "https://hanselminutes.com/911/documentation-as-a-path-to-open-source-with-sarah-rainsberger" ],
     "published" : [ "2023-09-28T08:20:12.164237068Z" ],
     "post-status" : [ "published" ]
   },

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/697/managing-the-burnout-burndown-with-dr-aneika-simmons" ],
+    "listen-of" : [ "https://hanselminutes.com/697/managing-the-burnout-burndown-with-dr-aneika-simmons" ],
     "published" : [ "2022-07-25T17:09:56Z" ]
   },
   "kind" : "listens",

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/621/developing-online-identity-with-sarah-squire" ],
+    "listen-of" : [ "https://hanselminutes.com/621/developing-online-identity-with-sarah-squire" ],
     "published" : [ "2018-04-11T18:43:30+01:00" ]
   },
   "kind" : "listens",

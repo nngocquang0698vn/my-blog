@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/855/growing-your-career-via-technical-content-creation-with-mohammed-osman" ],
+    "listen-of" : [ "https://hanselminutes.com/855/growing-your-career-via-technical-content-creation-with-mohammed-osman" ],
     "published" : [ "2023-02-22T19:11:19.134127319Z" ],
     "post-status" : [ "published" ]
   },

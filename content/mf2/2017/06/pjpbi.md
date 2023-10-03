@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant" ],
+    "listen-of" : [ "https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant" ],
     "published" : [ "2017-06-16T18:27:20+01:00" ]
   },
   "kind" : "listens",

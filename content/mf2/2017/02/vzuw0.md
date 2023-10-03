@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/556/being-a-polyglot-programmer-with-amir-rajan" ],
+    "listen-of" : [ "https://hanselminutes.com/556/being-a-polyglot-programmer-with-amir-rajan" ],
     "published" : [ "2017-02-20T08:31:06+00:00" ]
   },
   "kind" : "listens",

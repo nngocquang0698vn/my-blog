@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/559/including-automation-in-your-definition-of-done-with-angie-jones" ],
+    "listen-of" : [ "https://hanselminutes.com/559/including-automation-in-your-definition-of-done-with-angie-jones" ],
     "published" : [ "2017-01-21T19:17:37+00:00" ]
   },
   "kind" : "listens",

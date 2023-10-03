@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/645/container-catharsis-with-laura-frank-tacho" ],
+    "listen-of" : [ "https://hanselminutes.com/645/container-catharsis-with-laura-frank-tacho" ],
     "published" : [ "2022-07-23T09:00:10Z" ]
   },
   "kind" : "listens",

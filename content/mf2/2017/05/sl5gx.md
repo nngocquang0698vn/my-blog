@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/577/todays-cloud-containers-and-architecture-with-kelsey-hightower" ],
+    "listen-of" : [ "https://hanselminutes.com/577/todays-cloud-containers-and-architecture-with-kelsey-hightower" ],
     "published" : [ "2017-05-16T08:19:11+01:00" ]
   },
   "kind" : "listens",

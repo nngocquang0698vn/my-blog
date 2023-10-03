@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/872/hachyderms-kris-nova-on-running-a-mastodon-server" ],
+    "listen-of" : [ "https://hanselminutes.com/872/hachyderms-kris-nova-on-running-a-mastodon-server" ],
     "published" : [ "2022-12-23T08:20:58.451583528Z" ],
     "post-status" : [ "published" ]
   },

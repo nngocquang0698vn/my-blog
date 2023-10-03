@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/663/test-commit-revert-with-kent-beck" ],
+    "listen-of" : [ "https://hanselminutes.com/663/test-commit-revert-with-kent-beck" ],
     "published" : [ "2022-07-23T09:17:56Z" ]
   },
   "kind" : "listens",

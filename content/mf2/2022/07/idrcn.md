@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde" ],
+    "listen-of" : [ "https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde" ],
     "published" : [ "2022-07-07T07:29:44Z" ]
   },
   "kind" : "listens",
