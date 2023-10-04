@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Coco" ],
+    "summary" : [ "This is Coco. She came to live with us at 9 weeks old last Saturday. She's a bundle of love and has us all already on our toes!" ],
+    "featured" : [ "https://remysharp.com/images/coco.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Remy Sharp" ]
+      }
+    } ],
+    "url" : [ "https://remysharp.com/2023/10/04/coco" ]
+  }
+}
