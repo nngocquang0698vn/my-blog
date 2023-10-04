@@ -12,3 +12,4 @@ I'm a huge fan of Gousto, and have [written about how much I enjoy it](/posts/20
 Also:
 
 - Buy [a Stimagz fidget toy with my referral code](https://www.stimagz.com/?bon_ref=2dW5lwrd)
+- Buy [pet insurance through Waggel](https://waggel.co.uk/jhevyp)
