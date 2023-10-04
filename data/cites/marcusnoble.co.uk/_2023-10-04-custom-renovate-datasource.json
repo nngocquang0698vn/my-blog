@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Custom Renovate datasource" ],
+    "summary" : [ "I'm quite a fan of Renovate for automating my dependancy updates. I've been using it quite extensively - at Giant Swarm, with my personal infrastructure and with k8s.social - to keep things up-to-date in the various Kubernetes clusters I manage. This has been working great for container images and Helm charts, with both being managed via GitOps and Renovate automating the version updates via PRs, but I have now found myself wanting to automate the updating of the Kubernetes version for my Civo cluster. Renovate doesn't have built in support for this but we can make it work with the use of custom datasources!\n" ],
+    "featured" : [ "https://opengraph.cluster.fun/opengraph/?siteTitle=Marcus%20Noble&title=Custom Renovate datasource&tags=Renovate,dependancies&image=https%3A%2F%2Fmarcusnoble.co.uk%2Fimages%2Fmarcus.jpg&twitter=Marcus_Noble_&github=AverageMarcus&website=www.MarcusNoble.co.uk&bgColor=%23ffffff&fgColor=%23263943" ],
+    "url" : [ "https://marcusnoble.co.uk/2023-10-04-custom-renovate-datasource" ]
+  }
+}
