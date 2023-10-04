@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Why is there no OpenBanking API for personal use?" ],
+    "category" : [ "api", "money", "openbanking" ],
+    "url" : [ "https://shkspr.mobi/blog/2023/10/why-is-there-no-openbanking-api-for-personal-use/" ],
+    "published" : [ "2023-10-04" ],
+    "updated" : [ "2023-10-04" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "photo" : [ {
+          "value" : "https://shkspr.mobi/apple-touch-icon.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
