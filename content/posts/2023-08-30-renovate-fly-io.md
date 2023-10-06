@@ -54,13 +54,13 @@ flyctl secrets set MEND_RNV_WEBHOOK_SECRET=.....
 You should scale down to 1 instance (as it doesn't horizontally scale):
 
 ```sh
-flyctl scale count
+flyctl scale count 1
 ```
 
 And I've found that 1024MB is a good amount of memory to set for Mend Renovate Community Edition to work (it crashes with Out Of Memory (OOM) errors with the default minimal memory limit Fly gives you):
 
 ```sh
-fly scale vm shared-cpu-2x
+fly scale vm shared-cpu-1x
 flyctl scale memory 1024
 ```
 
