@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Ben Hutton on JSON Schema" ],
+    "summary" : [ "Ben explores how JSON Schema is shaping the development stack and its potential impact on various industries." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/27729c65-f4a6-4496-8c86-820e7f13b285/episodes/2/2d924ae0-09b8-4bec-ac17-f326eca411f1/cover_medium.jpg?v=1" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/27729c65-f4a6-4496-8c86-820e7f13b285/2d924ae0-09b8-4bec-ac17-f326eca411f1.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SustainOSS" ]
+      }
+    } ],
+    "url" : [ "https://podcast.sustainoss.org/202" ]
+  }
+}
