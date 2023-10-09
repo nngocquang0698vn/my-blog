@@ -1,0 +1,245 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "pk-num-likes" : [ "3" ],
+    "pk-num-replies" : [ "3" ],
+    "pk-num-mentions" : [ "4" ],
+    "url" : [ "https://aaronparecki.com/2023/10/08/8/" ],
+    "syndication" : [ "at://did:plc:s2koow7r6t7tozgd4slc3dsg/app.bsky.feed.post/3kbbii4wkcn2v" ],
+    "published" : [ "2023-10-08T15:01:02-07:00" ],
+    "content" : [ {
+      "html" : "I know \"I hope this message finds you well\" is a normal way to start an email, but what about if I am in fact not well? Am I supposed to say thanks but this message didn't find me well??",
+      "value" : "I know \"I hope this message finds you well\" is a normal way to start an email, but what about if I am in fact not well? Am I supposed to say thanks but this message didn't find me well??"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ {
+          "value" : "https://aaronparecki.com/images/profile.jpg",
+          "alt" : "Aaron Parecki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ],
+        "country" : [ "USA" ]
+      },
+      "value" : "Portland, Oregon, USA"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://urbanists.social/users/arudwick#likes/729669" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Allan Rudwick" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://urbanists.social/users/arudwick" ]
+          },
+          "value" : "Allan Rudwick"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Allan Rudwick"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.social/users/karabaic#likes/118176347" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "jack the nonabrasive" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://mastodon.social/users/karabaic" ]
+          },
+          "value" : "jack the nonabrasive"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png jack the nonabrasive"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://zirk.us/users/ash#likes/2017994" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "אש" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://zirk.us/users/ash" ]
+          },
+          "value" : "אש"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png אש"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://emacs.ch/@skybert/111203254689578678" ],
+        "published" : [ "2023-10-08T21:50:06-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> if the person is your friend, then yes 😊</p><p>If someone wrote me that not being a close friend, I'd find it shallow. Which, perhaps, was your point?</p>",
+          "value" : "@aaronpk if the person is your friend, then yes 😊\nIf someone wrote me that not being a close friend, I'd find it shallow. Which, perhaps, was your point?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Torstein Krause Johansen" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://emacs.ch/users/skybert" ]
+          },
+          "value" : "Torstein Krause Johansen"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Torstein Krause Johansen emacs.ch/users/skybert\n@aaronpk if the person is your friend, then yes 😊\nIf someone wrote me that not being a close friend, I'd find it shallow. Which, perhaps, was your point? Sun, Oct 8, 2023 9:50pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://solarpunk.moe/@alilly/111201676919678795" ],
+        "published" : [ "2023-10-08T15:08:51-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> Like this:</p><p>&gt; I hope this message finds you well,</p><p>I regret to inform you that unfortunately it did not. Apologies for the delayed response.</p><p>&gt; I'm writing to inform you that...</p>",
+          "value" : "@aaronpk Like this:\n> I hope this message finds you well,\nI regret to inform you that unfortunately it did not. Apologies for the delayed response.\n> I'm writing to inform you that..."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Alexandra-Lilith" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://solarpunk.moe/users/alilly" ]
+          },
+          "value" : "Alexandra-Lilith"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Alexandra-Lilith solarpunk.moe/users/alilly\n@aaronpk Like this:\n> I hope this message finds you well,\nI regret to inform you that unfortunately it did not. Apologies for the delayed response.\n> I'm writing to inform you that... Sun, Oct 8, 2023 3:08pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://solarpunk.moe/@alilly/111201676083184396" ],
+        "published" : [ "2023-10-08T15:08:38-07:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\">@<span>aaronpk</span></a></span> Like this:</p><blockquote><p>I hope this message finds you well,</p></blockquote><p>I regret to inform you that unfortunately it did not. Apologies for the delayed response.</p><blockquote><p>I'm writing to inform you that...</p></blockquote>",
+          "value" : "@aaronpk Like this:\nI hope this message finds you well,\nI regret to inform you that unfortunately it did not. Apologies for the delayed response.\nI'm writing to inform you that..."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Alexandra-Lilith" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://solarpunk.moe/users/alilly" ]
+          },
+          "value" : "Alexandra-Lilith"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Alexandra-Lilith solarpunk.moe/users/alilly\n@aaronpk Like this:\nI hope this message finds you well,\nI regret to inform you that unfortunately it did not. Apologies for the delayed response.\nI'm writing to inform you that... Sun, Oct 8, 2023 3:08pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://martymcgui.re/2023/10/08/203922/" ],
+        "published" : [ "2023-10-08T17:39:22-07:00" ],
+        "content" : [ {
+          "html" : "<p>Constraint failed, message safe to ignore. 🚮</p>",
+          "value" : "Constraint failed, message safe to ignore. 🚮"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marty McGuire" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://martymcgui.re/" ]
+          },
+          "value" : "Marty McGuire"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Marty McGuire martymcgui.re\nConstraint failed, message safe to ignore. 🚮 Sun, Oct 8, 2023 5:39pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/rmdes/24655177" ],
+        "published" : [ "2023-10-08T16:39:53-07:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/aaronpk\" rel=\"nofollow\">@aaronpk</a> 😅</p>",
+          "value" : "@aaronpk 😅"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "rmdes" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/rmdes" ]
+          },
+          "value" : "rmdes"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png rmdes micro.blog/rmdes\n@aaronpk 😅 Sun, Oct 8, 2023 4:39pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/rmdes/24654504" ],
+        "published" : [ "2023-10-08T16:12:23-07:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/aaronpk\" rel=\"nofollow\">@aaronpk</a> my English isn't so good, and not my primary language.. so I always thought that it meant literally for the email to arrive in the inbox well (not in spam) , and not about the state, well-being of the receiving end 😅</p>",
+          "value" : "@aaronpk my English isn't so good, and not my primary language.. so I always thought that it meant literally for the email to arrive in the inbox well (not in spam) , and not about the state, well-being of the receiving end 😅"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "rmdes" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/rmdes" ]
+          },
+          "value" : "rmdes"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png rmdes micro.blog/rmdes\n@aaronpk my English isn't so good, and not my primary language.. so I always thought that it meant literally for the email to arrive in the inbox well (not in spam) , and not about the state, well-being of the receiving end 😅 Sun, Oct 8, 2023 4:12pm -07:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://aaronparecki.com/2023/10/08/8/" ],
+        "published" : [ "2023-10-08T15:01:02-07:00" ],
+        "content" : [ {
+          "html" : "I know \"I hope this message finds you well\" is a normal way to start an email, but what about if I am in fact not well? Am I supposed to say thanks but this message didn't find me well??",
+          "value" : "I know \"I hope this message finds you well\" is a normal way to start an email, but what about if I am in fact not well? Am I supposed to say thanks but this message didn't find me well??"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "aaronpk" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/aaronpk" ]
+          },
+          "value" : "aaronpk"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png aaronpk micro.blog/aaronpk I know \"I hope this message finds you well\" is a normal way to start an email, but what about if I am in fact not well? Am I supposed to say thanks but this message didn't find me well?? Sun, Oct 8, 2023 3:01pm -07:00 (via micro.blog)"
+    } ]
+  },
+  "id" : "post-id-101739"
+}
