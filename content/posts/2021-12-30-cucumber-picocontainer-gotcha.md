@@ -1,7 +1,7 @@
 ---
-title: "Gotcha: PicoContainer Doesn't Support Zero-Argument Constructors"
+title: "Gotcha: PicoContainer requires Zero-Argument Constructors"
 description: "A little gotcha around using PicoContainer (with Cucumber) where it\
-  \ may not be usable."
+  \ may not be usable unless you have zero-arg constructors."
 date: "2021-12-30T21:01:52+0000"
 tags:
 - "blogumentation"
@@ -93,3 +93,5 @@ Yes, we could create i.e. a `Config` object that provides a container for the de
 A common solution to this is to create default wrapper objects for each of our classes, i.e. a `BellyWrapper` which produces a zero-args contructor.
 
 If you hit this, I recommend looking at the other options, such as [those called out in the Cucumber docs for _Sharing state between steps_](https://cucumber.io/docs/cucumber/state/), or my article on using [_Using Dagger for Dependency Injection with Cucumber Tests_](/posts/2021/12/30/cucumber-dagger-dependency-injection/).
+
+See also [discussion on the Cucumber issue tracker](https://github.com/cucumber/cucumber-jvm/issues/2449).
