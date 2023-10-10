@@ -14,6 +14,8 @@ I've broken this down into the:
 
 It may be worth looking at [my CV](https://hire.jvt.me) to see what work was required as part of the different roles.
 
+You can also see the on-call payment details on my [my on-call compensation history](/on-call-compensation/) page.
+
 <table class=salary>
   <tr>
     <th>Date</th>
