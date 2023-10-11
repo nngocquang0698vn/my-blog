@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Tim Perry (@pimterry@toot.cafe)" ],
+    "summary" : [ "The Cypress.io situation is wild! https://currents.dev/posts/v13-blocking\n\nIn short: when installing the Cypress npm package, on postinstall it checks what other packages you installed, and you're using any packages they don't like (e.g. tools for self-hosting that compete with their cloud service) then it refuses to run. More detailed summary from @jess@webtoo.ls here: https://twitter.com/_jessicasachs/status/1712043659330310488\n\nVery hard to argue your product is good if you have to actively block your customers from even testing alternatives! Yikes." ],
+    "url" : [ "https://toot.cafe/@pimterry/111216277792041907" ]
+  }
+}
