@@ -3,7 +3,7 @@ title: 'Support Me'
 ---
 Have any of my blog posts saved you time, and taught you some great time-saving tricks? Have they helped you close off that piece of work a little bit quicker, or made your tooling more secure?
 
-I maintain a number of [Open Source projects](/open-source/) that you may be using, or IndieWeb-related contributions or services you depend on?
+I maintain a number of [Open Source projects](/open-source/) that you may be using, or IndieWeb-related contributions or services you depend on? I can be sponsored through [GitHub Sponsors](https://github.com/sponsors/jamietanna/).
 
 I'd appreciate if you paid it forwards by either contributing your own blogs to the world, or [supporting me on Buy Me a Coffee](https://www.buymeacoffee.com/jamietanna) - you can also support me through [PayPal.me](https://paypal.me/jamiet) or [Monzo.me](https://monzo.me/jamesvivektanna/5).
 
