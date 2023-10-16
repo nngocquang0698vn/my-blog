@@ -1,0 +1,105 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://social.librem.one/@johns/111245408595647254" ],
+    "uid" : [ "https://social.librem.one/@johns/111245408595647254" ],
+    "published" : [ "2023-10-16T15:30:23+00:00" ],
+    "content" : [ {
+      "html" : "<p>It's okay to publish code under a free software / open source license without starting a \"project\". Not every act of sharing code for others to use and/or build on is a \"project\". Which is something that studies about how many \"projects\" are \"maintained\" should keep in mind.</p>",
+      "value" : "It's okay to publish code under a free software / open source license without starting a \"project\". Not every act of sharing code for others to use and/or build on is a \"project\". Which is something that studies about how many \"projects\" are \"maintained\" should keep in mind.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "John Sullivan" ],
+        "url" : [ "https://social.librem.one/@johns" ],
+        "photo" : [ {
+          "value" : "https://social.librem.one/system/accounts/avatars/000/029/001/original/9bfce3ed26fb8cdc.jpg?1692463309",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "John Sullivan"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.km6g.us/@kevin/111245489108175596" ],
+        "uid" : [ "https://mastodon.km6g.us/@kevin/111245489108175596" ],
+        "published" : [ "2023-10-16T15:50:52+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://social.librem.one/@johns\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>johns</span></a></span> Years ago there was a prominent person in the community who wanted to make these 'project' attributes a requirement for something to be labeled as 'open source'.</p><p>I just could not seem to get them to understand these are different (but related) concepts, but their ideas didn't get any traction with the rest of the community either so the problem solved itself.</p><p>This person literally told me that if I published my own code in a public repository with a GPLv3 (for example) license, they would not have considered that 'open source' on its own.</p>",
+          "value" : "@johns Years ago there was a prominent person in the community who wanted to make these 'project' attributes a requirement for something to be labeled as 'open source'.\nI just could not seem to get them to understand these are different (but related) concepts, but their ideas didn't get any traction with the rest of the community either so the problem solved itself.\nThis person literally told me that if I published my own code in a public repository with a GPLv3 (for example) license, they would not have considered that 'open source' on its own.",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kevin P. Fleming" ],
+            "url" : [ "https://mastodon.km6g.us/@kevin" ],
+            "photo" : [ {
+              "value" : "https://social.librem.one/system/accounts/avatars/000/323/787/original/ac0c74a4281291b1.jpeg?1658369587",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Kevin P. Fleming"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://social.librem.one/@johns" ],
+          "name" : [ "@johns" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Oct 16, 2023, 15:50 Kevin P. Fleming   @kevin@km6g.us\n@johns Years ago there was a prominent person in the community who wanted to make these 'project' attributes a requirement for something to be labeled as 'open source'.\nI just could not seem to get them to understand these are different (but related) concepts, but their ideas didn't get any traction with the rest of the community either so the problem solved itself.\nThis person literally told me that if I published my own code in a public repository with a GPLv3 (for example) license, they would not have considered that 'open source' on its own. 1"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://mastodon.social/@Sdowney/111245540562768093" ],
+      "uid" : [ "https://mastodon.social/@Sdowney/111245540562768093" ],
+      "published" : [ "2023-10-16T16:03:57+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.km6g.us/@kevin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kevin</span></a></span> <span class=\"h-card\"><a href=\"https://social.librem.one/@johns\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>johns</span></a></span> <br>No, you obviously need a \"Foundation\" to manage the \"Project\" that maintains the code.</p>",
+        "value" : "@kevin @johns\nNo, you obviously need a \"Foundation\" to manage the \"Project\" that maintains the code.",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Steve Downey" ],
+          "url" : [ "https://mastodon.social/@Sdowney" ],
+          "photo" : [ {
+            "value" : "https://social.librem.one/system/accounts/avatars/000/374/570/original/fcdf381934a031e3.jpeg?1667659943",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Steve Downey"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.km6g.us/@kevin" ],
+        "name" : [ "@kevin" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://social.librem.one/@johns" ],
+        "name" : [ "@johns" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
