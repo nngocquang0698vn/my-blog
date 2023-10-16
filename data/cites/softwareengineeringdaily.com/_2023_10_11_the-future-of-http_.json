@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Future of HTTP with Nick Shadrin and Roman Arutyunyan - Software Engineering Daily" ],
+    "summary" : [ "The Hypertext Transfer Protocol, or HTTP, is used to load webpages using hypertext links, and it’s the foundation of the web. Tim Berners-Lee famously created HTTP version 0.9 in 1989, and defined the essential behavior of a client and a server. Version 1.0 was eventually finalized in 1996, and its secure variant called HTTPS is" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2023/10/image-featured.png" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED5061770253.mp3?_=1" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SE Daily" ]
+      }
+    } ],
+    "url" : [ "https://softwareengineeringdaily.com/2023/10/11/the-future-of-http/" ],
+    "published" : [ "2023-10-12T05:11:38+00:00" ]
+  }
+}
