@@ -12,7 +12,7 @@ This is a companion post to go alongside [my talk writeup](https://www.jvt.me/po
 
 This is intended as a quick setup guide, rather than an exhaustive jump into what it is and how it works - if you'd like that, check out the talk writeup 👆
 
-Want to know a bit more in-depth what it is and how it works? I've recently [spoken at DevOpsNotts](https://www.meetup.com/devops-notts/events/293929326/) about it and I [have done a talk writeup] which digs into it a little further.
+Want to know a bit more in-depth what it is and how it works? Check out [the more-indepth writeup](https://www.jvt.me/posts/2023/07/25/dmd-getting-started/).
 
 ## TL;DR extraordinaire
 
