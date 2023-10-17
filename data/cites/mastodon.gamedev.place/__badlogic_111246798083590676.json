@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Mario Zechner (@badlogic@mastodon.gamedev.place)" ],
+    "summary" : [ "Attached: 1 image\n\nThe past two nights I wrote a \"thread reader app\" for BlueSky.\n\nhttps://skyview.social\n\nOh boy. The protocol is absolutely insane. RPC galore, responses are only partially typed. The docs are pretty much useless.\n\nBut the \"funniest\" part is this: there's no privacy. And I don't mean missing DMs.\n\nAll your posts are available through API endpoints. Without any authentication. By design.\n\nThe \"invite-only\" thing may have you think otherwise.\n\nHere are my last 100 posts.\n\nhttps://bsky.social/xrpc/com.atproto.repo.listRecords?repo=badlogic.bsky.social&collection=app.bsky.feed.post" ],
+    "featured" : [ "https://cdn.masto.host/mastodongamedevplace/media_attachments/files/111/246/791/778/477/909/original/9070f60b3991b347.png" ],
+    "url" : [ "https://mastodon.gamedev.place/@badlogic/111246798083590676" ]
+  }
+}
