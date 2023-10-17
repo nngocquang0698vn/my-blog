@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "lestrrat (@lestrrat@mastodon.social)" ],
+    "summary" : [ "Just experience a test of what @bagder has been talking about CVEs\n\nMy JWT/JWx library was reported for HTTP/2 rapid reset vuln. It's from a dep in golang.org/x/net, and the reporter said Snyk has flagged it\n\nBut my lib can only be used as a model/parser for JWx, and never as a HTTP/2 server (and Go doesn't let deps of deps transitively affect other parts of the app)\n\nI fully thank the reporter for taking the time to report, but these tools need one more checks before flagging software for vulns" ],
+    "url" : [ "https://mastodon.social/@lestrrat/111247370313535209" ]
+  }
+}
