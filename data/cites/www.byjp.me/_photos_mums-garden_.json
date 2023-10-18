@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Mum's Garden" ],
+    "summary" : [ "Mum's garden today 🌱 I miss her. 🖤" ],
+    "featured" : [ "https://www.byjp.me" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "hello@byjp.me JP Hastings-Spital " ]
+      }
+    } ],
+    "url" : [ "https://www.byjp.me/photos/mums-garden/" ],
+    "published" : [ "2023-10-17T17:17:09+01:00" ]
+  }
+}
