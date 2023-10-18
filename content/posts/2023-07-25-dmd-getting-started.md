@@ -8,6 +8,8 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: dmd-getting-started
 ---
+**Note**: This blog post has been replaced by [the official getting started guide for dependency-management-data](https://dmd.tanna.dev/cookbooks/getting-started/). I've kept a copy here for posterity, but it's worthwhile checking out the up-to-date docs now, as this will not be updated in the future.
+
 This is a companion post to go alongside [my talk writeup](https://www.jvt.me/posts/2023/07/25/dmd-getting-started/) of [my talk at DevOpsNotts July 2023](https://www.meetup.com/devops-notts/events/293929326/) about [the dependency-management-data (DMD) project](https://dmd.tanna.dev)
 
 This is intended as a quick setup guide, rather than an exhaustive jump into what it is and how it works - if you'd like that, check out the talk writeup 👆
