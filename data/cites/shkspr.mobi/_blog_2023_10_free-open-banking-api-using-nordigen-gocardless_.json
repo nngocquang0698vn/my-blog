@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Free Open Banking API using Nordigen / GoCardless" ],
+    "category" : [ "api", "data", "finance", "money", "openbanking", "programming" ],
+    "url" : [ "https://shkspr.mobi/blog/2023/10/free-open-banking-api-using-nordigen-gocardless/" ],
+    "published" : [ "2023-10-22" ],
+    "updated" : [ "2023-10-22" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "photo" : [ {
+          "value" : "https://shkspr.mobi/apple-touch-icon.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
