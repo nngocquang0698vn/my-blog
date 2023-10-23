@@ -77,21 +77,21 @@ The high-level package structure looks like this:
 
 ```
 cmd/oapi-codegen
-examples									Example code for various servers and use-cases, as a means to show how you can get started, as well as what a realistic usecase would look like
-internal/test/						Integration / regression tests to cover bugs or features
+examples              Example code for various servers and use-cases, as a means to show how you can get started, as well as what a realistic usecase would look like
+internal/test/        Integration / regression tests to cover bugs or features
 pkg/
-	chi-middleware					HTTP middleware for Chi web server, as well as anything implementing net/http compatible interfaces such as gorilla/mux
-	codegen									Actual code generation functionality exposed by oapi-codegen, sometimes imported as a library by other projects
-	ecdsafile								Utility for working with ECDSA public and private keys
-	fiber-middleware				HTTP middleware for Fiber web server
-	gin-middleware					HTTP middleware for Gin web server
-	iris-middleware					HTTP middleware for Iris web server
-	middleware							HTTP middleware for Echo web server
-	runtime									Runtime-specific code, such as converting a URL-encoded form request to a struct, or performing `allOf`/`anyOf`/etc manipulation
-	securityprovider				Perform common authentication schemes for use with the generated HTTP client
-	testutil								Utilities for making it easier to test HTTP handlers with a fluent interface
-	types										Types that may be required by the generated code, such as a UUID type
-	util										Utilities for handling command-line flags, validating JSON media types and loading OpenAPI specs
+    chi-middleware    HTTP middleware for Chi web server, as well as anything implementing net/http compatible interfaces such as gorilla/mux
+    codegen           Actual code generation functionality exposed by oapi-codegen, sometimes imported as a library by other projects
+    ecdsafile         Utility for working with ECDSA public and private keys
+    fiber-middleware  HTTP middleware for Fiber web server
+    gin-middleware    HTTP middleware for Gin web server
+    iris-middleware   HTTP middleware for Iris web server
+    middleware        HTTP middleware for Echo web server
+    runtime           Runtime-specific code, such as converting a URL-encoded form request to a struct, or performing `allOf`/`anyOf`/etc manipulation
+    securityprovider  Perform common authentication schemes for use with the generated HTTP client
+    testutil          Utilities for making it easier to test HTTP handlers with a fluent interface
+    types             Types that may be required by the generated code, such as a UUID type
+    util              Utilities for handling command-line flags, validating JSON media types and loading OpenAPI specs
 ```
 
 This structure mostly has existed since the v1.0.0 release in 2019, and has expanded over the years as we've added support for more servers and functionality.
