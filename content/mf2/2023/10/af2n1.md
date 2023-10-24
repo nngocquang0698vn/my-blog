@@ -1,0 +1,14 @@
+{
+  "date" : "2023-10-24T22:23:00+0100",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "published" : [ "2023-10-24T22:23:00+0100" ],
+    "like-of" : [ "https://med-mastodon.com/@luckytran/111286800122657538" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2023/10/af2n1",
+  "client_id" : "https://indiepass.app/"
+}
