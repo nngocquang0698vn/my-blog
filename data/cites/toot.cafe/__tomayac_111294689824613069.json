@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Thomas Steiner :chrome: (@tomayac@toot.cafe)" ],
+    "summary" : [ "URL Patterns is now a proper standard: https://blog.whatwg.org/2023/10. It's maintained by the WHATWG: https://urlpattern.spec.whatwg.org/. For example, the pathname pattern `/blog/:title` will match `/blog/hello-world` but not `/blog/2012/02`. If you've worked with HTTP frameworks like Express.js in Node.js, this will look very familiar." ],
+    "url" : [ "https://toot.cafe/@tomayac/111294689824613069" ]
+  }
+}
