@@ -44,7 +44,7 @@ import (
 func main() {
 	f, err := buildinfo.ReadFile(os.Args[1])
 	if err != nil {
-		log.Fatal(
+		log.Fatal(err)
 	}
 
 	fmt.Printf("f.GoVersion: %v\n", f.GoVersion)
