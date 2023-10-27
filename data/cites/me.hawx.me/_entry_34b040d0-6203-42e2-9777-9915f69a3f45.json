@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I've finally got around to updating https://auth.hawx.me/ to use the prefixed api key format for tokens, which means I have removed all previous data. On the plus side the database no longer contains usable raw data https://github.com/hawx/relme-auth/pull/14" ],
+    "url" : [ "https://me.hawx.me/entry/34b040d0-6203-42e2-9777-9915f69a3f45" ],
+    "syndication" : [ "https://twitter.com/hawx/status/1717529097893482959" ],
+    "published" : [ "2023-10-26T13:10:21Z" ],
+    "content" : [ {
+      "html" : "I've finally got around to updating <a href=\"https://auth.hawx.me/\">https://auth.hawx.me/</a> to use the prefixed api key format for tokens, which means I have removed all previous data. On the plus side the database no longer contains usable raw data <a href=\"https://github.com/hawx/relme-auth/pull/14\">https://github.com/hawx/relme-auth/pull/14</a>",
+      "value" : "I've finally got around to updating https://auth.hawx.me/ to use the prefixed api key format for tokens, which means I have removed all previous data. On the plus side the database no longer contains usable raw data https://github.com/hawx/relme-auth/pull/14",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Joshua Hawxwell" ],
+        "url" : [ "https://hawx.me/" ]
+      },
+      "lang" : "en",
+      "value" : "https://hawx.me/"
+    } ]
+  },
+  "lang" : "en"
+}
