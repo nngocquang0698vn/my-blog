@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "summary" : [ "replied to https://me.hawx.me/entry/fe2dcbfc-b1fc-444c-bf20-6b61fe5c4f77" ],
+    "in-reply-to" : [ "https://me.hawx.me/entry/fe2dcbfc-b1fc-444c-bf20-6b61fe5c4f77" ],
+    "url" : [ "https://me.hawx.me/entry/f5f78082-42e7-4abe-9a2e-290c1f0a8113" ],
+    "syndication" : [ "https://twitter.com/hawx/status/1719457924093821339" ],
+    "published" : [ "2023-10-31T20:54:00Z" ],
+    "content" : [ {
+      "html" : "Can I not have to create an account to control a lightbulb. This wasn't the future we wanted.",
+      "value" : "Can I not have to create an account to control a lightbulb. This wasn't the future we wanted.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Joshua Hawxwell" ],
+        "url" : [ "https://hawx.me/" ]
+      },
+      "lang" : "en",
+      "value" : "https://hawx.me/"
+    } ]
+  },
+  "lang" : "en"
+}
