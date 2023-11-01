@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Halloween" ],
+    "summary" : [ "Hope you're having a spooky/happy Halloween! 🎃👻" ],
+    "featured" : [ "https://www.byjp.me" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "hello@byjp.me JP Hastings-Spital " ]
+      }
+    } ],
+    "url" : [ "https://www.byjp.me/photos/halloween/" ],
+    "published" : [ "2023-10-31T21:31:01+00:00" ]
+  }
+}
