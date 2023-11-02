@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Mark Sutherland - Forgetting to Post\n" ],
+    "summary" : [ "Forgetting to Post, a Note posted by Mark Sutherland, a developer and digital creative based in Leicester, UK" ],
+    "featured" : [ "https://marksuth.dev/images/marksuth-opengraph.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mark Sutherland" ]
+      }
+    } ],
+    "url" : [ "https://marksuth.dev/posts/2023/11/forgetting-to-post" ],
+    "published" : [ "2023-11-01T14:41:00+00:00" ]
+  }
+}
