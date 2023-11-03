@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Filippo Valsorda :go: (@filippo@abyssdomain.expert)" ],
+    "summary" : [ "Since I always vent about other language ecosystems when they suck, I want to also share a counterexample.\n\nToday I spent the day doing tooling integration and testing and compatibility work on https://github.com/FiloSottile/age.ts and things mostly just worked, including Node/Bun/esbuild, and ES Modules, and Typescript, and Puppeteer, and GitHub Actions.\n\nhttps://github.com/FiloSottile/age.ts/pull/14" ],
+    "url" : [ "https://abyssdomain.expert/@filippo/111348258460804300" ]
+  }
+}
