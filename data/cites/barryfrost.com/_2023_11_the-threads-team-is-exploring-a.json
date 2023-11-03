@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Threads team is exploring a content publishing API\nI’ve replied to encourage them to consider adopting #micropub rather than defining their own unique API. They’ve committed to support ActivityPub so if they’re serious about the open web then Micropub should also be considered." ],
+    "category" : [ "micropub", "threads", "indieweb" ],
+    "url" : [ "https://barryfrost.com/2023/11/the-threads-team-is-exploring-a" ],
+    "bridgy-fed" : [ "https://fed.brid.gy/" ],
+    "published" : [ "2023-11-02T21:46:46.636Z" ],
+    "content" : [ {
+      "html" : "<blockquote>\n<p><a href=\"https://www.threads.net/@0xjessel/post/CzJoc1GRQpC\">The Threads team is exploring a content publishing API</a></p>\n</blockquote>\n<p>I’ve <a href=\"https://barryfrost.com/2023/11/it-would-be-great-if-threads\">replied</a> to encourage them to consider adopting <a href=\"https://barryfrost.com/categories/micropub\">#micropub</a> rather than defining their own unique API. They’ve committed to support ActivityPub so if they’re serious about the open web then Micropub should also be considered.</p>",
+      "value" : "The Threads team is exploring a content publishing API\nI’ve replied to encourage them to consider adopting #micropub rather than defining their own unique API. They’ve committed to support ActivityPub so if they’re serious about the open web then Micropub should also be considered.",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Barry Frost" ],
+        "photo" : [ {
+          "value" : "https://barryfrost.com/barryfrost.jpg",
+          "alt" : "Photo of Barry"
+        } ],
+        "url" : [ "https://barryfrost.com/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "https://barryfrost.com/"
+    } ]
+  },
+  "lang" : "en-GB"
+}
