@@ -1,0 +1,36 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "webmentions", "fediverse" ],
+    "url" : [ "https://adhoc.systems/notes/aee4c004-b7a2-4d3b-89db-65a8fb8d2973" ],
+    "published" : [ "2023-11-06 13:08:17Z" ],
+    "content" : [ {
+      "html" : "A lot of ppl write about how they wish blogs had better reply functionality and that's why blogging will always lose out to social media. They may list solutions to blog replies and even include <a href=\"https://adhoc.systems/tags/webmentions\">#webmentions</a> but say none of those solve the problem the way they want. But what do they want?",
+      "value" : "A lot of ppl write about how they wish blogs had better reply functionality and that's why blogging will always lose out to social media. They may list solutions to blog replies and even include #webmentions but say none of those solve the problem the way they want. But what do they want?",
+      "lang" : "en-US"
+    }, {
+      "html" : "Social media is usually someone else's software running on someone else's computer. You don't control your data. With self-hosted decentralized social media, like the <a href=\"https://adhoc.systems/tags/fediverse\">#fediverse</a>, you can control your data but most others are still using someone else's service and don't control their data.",
+      "value" : "Social media is usually someone else's software running on someone else's computer. You don't control your data. With self-hosted decentralized social media, like the #fediverse, you can control your data but most others are still using someone else's service and don't control their data.",
+      "lang" : "en-US"
+    }, {
+      "html" : "Blogs are still the best way for individuals to express their thoughts while retaining control of them. And webmentions allow for those separate, decentralized blogs to reply to each other. Social software bundles various affordances into one easy-to-use package that hides most of its drawbacks. If CMS's received the same level of polish, they could be far superior for an individual. Blogging/webmentions still need to work to make them useful for most people, but they're already here and they solve the main problem people have in the space. We just need to build the tools to use them.",
+      "value" : "Blogs are still the best way for individuals to express their thoughts while retaining control of them. And webmentions allow for those separate, decentralized blogs to reply to each other. Social software bundles various affordances into one easy-to-use package that hides most of its drawbacks. If CMS's received the same level of polish, they could be far superior for an individual. Blogging/webmentions still need to work to make them useful for most people, but they're already here and they solve the main problem people have in the space. We just need to build the tools to use them.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Zachary Dunn" ],
+        "nickname" : [ "zack" ],
+        "url" : [ "https://adhoc.systems/" ],
+        "photo" : [ {
+          "value" : "https://adhoc.systems/images/avatar.jpg",
+          "alt" : "Zachary Dunn's avatar."
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "Zachary Dunn"
+    } ]
+  },
+  "lang" : "en-US"
+}
