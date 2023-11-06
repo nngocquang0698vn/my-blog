@@ -92,6 +92,9 @@ components:
           enum:
             - move
             - copy
+        from:
+          description: A JSON Pointer path.
+          type: string
 ```
 
 Note that we use a separate `schema` for each option of the request, so we can i.e. autogenerate each portion of the request.
