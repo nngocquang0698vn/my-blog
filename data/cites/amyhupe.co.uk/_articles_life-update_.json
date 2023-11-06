@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Interrupting scheduled blogging with a life update by Amy Hupe, content designer." ],
+    "summary" : [ "I'm Amy Hupe and I care about making services accessible and inclusive, starting with the basics – the words we use to talk about them." ],
+    "featured" : [ "https://amyhupe.co.uk/assets/images/card.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adam Silver" ]
+      }
+    } ],
+    "url" : [ "https://amyhupe.co.uk/articles/life-update/" ]
+  }
+}
