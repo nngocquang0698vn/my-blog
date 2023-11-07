@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "in-reply-to" : [ "https://www.jvt.me/mf2/2023/11/imcyu/" ],
+    "url" : [ "https://gregorlove.com/2023/11/not-sure-that-can/" ],
+    "published" : [ "2023-11-07 10:27-0800" ],
+    "content" : [ {
+      "html" : "<p>Not sure that can work directly with the GROUP_BY query, but I tried below with only SUM and IF. It will depend on how the \"quantity\" of each type works. Below assumes it's quantity=1 for each.</p>\n\n<pre>\nSELECT\n\tSUM(IF(advisory_type = 'SECURITY', 1, 0)) AS total_security\n\t,SUM(IF(advisory_type = 'DEPRECATED', 1, 0)) AS total_deprecated\nFROM\n\texample_table\nWHERE\n\t-- conditions\nGROUP BY\n\t-- need to group by something here</pre>",
+      "value" : "Not sure that can work directly with the GROUP_BY query, but I tried below with only SUM and IF. It will depend on how the \"quantity\" of each type works. Below assumes it's quantity=1 for each. SELECT SUM(IF(advisory_type = 'SECURITY', 1, 0)) AS total_security ,SUM(IF(advisory_type = 'DEPRECATED', 1, 0)) AS total_deprecated FROM example_table WHERE -- conditions GROUP BY -- need to group by something here",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://gregorlove.com/" ],
+        "photo" : [ {
+          "value" : "https://gregorlove.com/site/assets/files/6268/profile-2021-square.300x0.jpg",
+          "alt" : "gRegor Morrill"
+        } ],
+        "name" : [ "gRegor Morrill" ]
+      },
+      "lang" : "en",
+      "value" : "gRegor Morrill"
+    } ]
+  },
+  "lang" : "en"
+}
