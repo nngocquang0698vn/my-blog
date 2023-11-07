@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Roy Tang 🇵🇭 (@roytang@indieweb.social)" ],
+    "summary" : [ "@www.jvt.me@www.jvt.me dont have time to test it or anything, but something like this would probably work:\n\nselect repo, \n  sum(case when advisory_type='SECURITY' then 1 else 0 end) as total_security,\n  sum(case when advisory_type='DEPRECATED' then 1 else 0 end) as total_deprecated,\n  sum(case when advisory_type='UNMAINTAINED' then 1 else 0 end) as total_unmaintained\nfrom (\n your original big query\n)\ngroup by repo" ],
+    "url" : [ "https://indieweb.social/@roytang/111370326820183406" ]
+  }
+}
