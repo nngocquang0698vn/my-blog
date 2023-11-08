@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "It's almost time for your trip by Amy Hupe, content designer." ],
+    "summary" : [ "A case study in why thoughtful content matters" ],
+    "featured" : [ "https://amyhupe.co.uk/assets/images/card.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adam Silver" ]
+      }
+    } ],
+    "url" : [ "https://amyhupe.co.uk/articles/its-almost-time-for-your-trip/" ]
+  }
+}
