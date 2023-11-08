@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "published" : [ "2023-11-08T17:07:00+0000" ],
-    "repost-of" : [ "https://indieweb.social/@brad_frost@mastodon.social/111375377821865820" ],
+    "repost-of" : [ "https://mastodon.social/@brad_frost/111375377821865820" ],
     "post-status" : [ "published" ]
   },
   "kind" : "reposts",
