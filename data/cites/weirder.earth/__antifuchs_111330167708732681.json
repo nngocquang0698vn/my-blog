@@ -1,0 +1,362 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://weirder.earth/@antifuchs/111330167708732681" ],
+    "uid" : [ "https://weirder.earth/@antifuchs/111330167708732681" ],
+    "published" : [ "2023-10-31T14:45:45+00:00" ],
+    "content" : [ {
+      "html" : "<p>STOP DOING GNUPG</p><p>ASCII was never supposed to be armored</p><p>Decades of mouse jiggling and yet no real world use found for generating person-bound long-lived keys</p><p>Want to establish trust? We have a tool for that: it’s called “talk to people”</p>",
+      "value" : "STOP DOING GNUPG\nASCII was never supposed to be armored\nDecades of mouse jiggling and yet no real world use found for generating person-bound long-lived keys\nWant to establish trust? We have a tool for that: it’s called “talk to people”",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Suitably ballyhooed" ],
+        "url" : [ "https://weirder.earth/@antifuchs" ],
+        "photo" : [ {
+          "value" : "https://s3.amazonaws.com/files.weirder.earth/accounts/avatars/000/023/641/original/03ea849b215100cf.jpg",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Suitably ballyhooed"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@xenotrope/111330216050910319" ],
+        "uid" : [ "https://bsd.network/@xenotrope/111330216050910319" ],
+        "published" : [ "2023-10-31T14:58:03+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://weirder.earth/@antifuchs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antifuchs</span></a></span> \"Generate separate signing, encrypting, and authenticating subkeys.\" -- statement dreamed up by the utterly deranged</p>",
+          "value" : "@antifuchs \"Generate separate signing, encrypting, and authenticating subkeys.\" -- statement dreamed up by the utterly deranged",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Toby" ],
+            "url" : [ "https://bsd.network/@xenotrope" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.weirder.earth/cache/accounts/avatars/000/016/956/original/1912d75928276058.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Toby"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "name" : [ "@antifuchs" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Oct 31, 2023, 14:58 Toby @xenotrope@bsd.network\n@antifuchs \"Generate separate signing, encrypting, and authenticating subkeys.\" -- statement dreamed up by the utterly deranged 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://social.coop/@luis_in_brief/111332389497184601" ],
+        "uid" : [ "https://social.coop/@luis_in_brief/111332389497184601" ],
+        "published" : [ "2023-11-01T00:10:47+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://weirder.earth/@antifuchs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antifuchs</span></a></span> <span class=\"h-card\"><a href=\"https://fiasco.social/@indirect\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>indirect</span></a></span> Statements dreamed up by the utterly deranged: (accidentally attaches private key instead of public key)</p>",
+          "value" : "@antifuchs @indirect Statements dreamed up by the utterly deranged: (accidentally attaches private key instead of public key)",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Luis Villa" ],
+            "url" : [ "https://social.coop/@luis_in_brief" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.weirder.earth/cache/accounts/avatars/109/459/121/002/931/242/original/630eb60725314ff8.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Luis Villa"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "name" : [ "@antifuchs" ]
+        },
+        "lang" : "en"
+      }, {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://fiasco.social/@indirect" ],
+          "name" : [ "@indirect" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 01, 2023, 00:10 Luis Villa @luis_in_brief@social.coop\n@antifuchs @indirect Statements dreamed up by the utterly deranged: (accidentally attaches private key instead of public key) 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://mastodon.davidciani.com/@david/111377251995322756" ],
+        "uid" : [ "https://mastodon.davidciani.com/@david/111377251995322756" ],
+        "published" : [ "2023-11-08T22:19:54+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://weirder.earth/@antifuchs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antifuchs</span></a></span> <span class=\"h-card\"><a href=\"https://abyssdomain.expert/@filippo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>filippo</span></a></span> and PGP/GNUPG didn’t even avoid the “talking to people” part… those key parties were a thing…</p>",
+          "value" : "@antifuchs @filippo and PGP/GNUPG didn’t even avoid the “talking to people” part… those key parties were a thing…",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "David Ciani" ],
+            "url" : [ "https://mastodon.davidciani.com/@david" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.weirder.earth/cache/accounts/avatars/109/356/769/089/471/516/original/6b47f7e2ea14034d.jpeg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "David Ciani"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "name" : [ "@antifuchs" ]
+        },
+        "lang" : "en"
+      }, {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://abyssdomain.expert/@filippo" ],
+          "name" : [ "@filippo" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 08, 2023, 22:19 David Ciani @david@davidciani.com\n@antifuchs @filippo and PGP/GNUPG didn’t even avoid the “talking to people” part… those key parties were a thing… 1"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://conesphere.social/@zem/111379368371452307" ],
+        "uid" : [ "https://conesphere.social/@zem/111379368371452307" ],
+        "published" : [ "2023-11-09T07:18:03+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://weirder.earth/@antifuchs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antifuchs</span></a></span><br>Sorry, to break the news to you, but the need to <a href=\"https://conesphere.social/tags/armor\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>armor</span></a> your encryption and everyrhing else is an <a href=\"https://conesphere.social/tags/EMail\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EMail</span></a> thing, <a href=\"https://conesphere.social/tags/GnuPG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GnuPG</span></a> can be blamed for many things but not this! <br><span class=\"h-card\"><a href=\"https://chaos.social/@leyrer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>leyrer</span></a></span></p>",
+          "value" : "@antifuchs\nSorry, to break the news to you, but the need to #armor your encryption and everyrhing else is an #EMail thing, #GnuPG can be blamed for many things but not this!\n@leyrer",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "zem" ],
+            "url" : [ "https://conesphere.social/@zem" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.weirder.earth/cache/accounts/avatars/000/094/864/original/dd7266d17986a536.jpg",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "zem"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "name" : [ "@antifuchs" ]
+        },
+        "lang" : "en"
+      }, {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://chaos.social/@leyrer" ],
+          "name" : [ "@leyrer" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 09, 2023, 07:18 zem @zem@conesphere.social\n@antifuchs\nSorry, to break the news to you, but the need to #armor your encryption and everyrhing else is an #EMail thing, #GnuPG can be blamed for many things but not this!\n@leyrer 0"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://beach.city/@cassiopeia/111387151710968273" ],
+        "uid" : [ "https://beach.city/@cassiopeia/111387151710968273" ],
+        "published" : [ "2023-11-10T16:17:32+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://weirder.earth/@antifuchs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antifuchs</span></a></span> OKAY FIRST OF ALL</p><p>FIRST OF ALL</p><p>OKAY</p><p>FIRST OF ALL</p><p>the armor is made out of ascii, it's not being armored</p>",
+          "value" : "@antifuchs OKAY FIRST OF ALL\nFIRST OF ALL\nOKAY\nFIRST OF ALL\nthe armor is made out of ascii, it's not being armored",
+          "lang" : "en"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Cassiopeia 🔞" ],
+            "url" : [ "https://beach.city/@cassiopeia" ],
+            "photo" : [ {
+              "value" : "https://s3.amazonaws.com/files.weirder.earth/cache/accounts/avatars/108/643/787/443/705/897/static/f04f7b993604da0e.png",
+              "alt" : ""
+            } ]
+          },
+          "lang" : "en",
+          "value" : "Cassiopeia 🔞"
+        } ]
+      },
+      "lang" : "en",
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "name" : [ "@antifuchs" ]
+        },
+        "lang" : "en"
+      } ],
+      "value" : "Nov 10, 2023, 16:17 Cassiopeia 🔞 @cassiopeia@beach.city\n@antifuchs OKAY FIRST OF ALL\nFIRST OF ALL\nOKAY\nFIRST OF ALL\nthe armor is made out of ascii, it's not being armored 0"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://weirder.earth/@antifuchs/111377258892073588" ],
+      "uid" : [ "https://weirder.earth/@antifuchs/111377258892073588" ],
+      "published" : [ "2023-11-08T22:21:39+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://mastodon.davidciani.com/@david\" class=\"u-url mention\">@<span>david</span></a></span> <span class=\"h-card\"><a href=\"https://abyssdomain.expert/@filippo\" class=\"u-url mention\">@<span>filippo</span></a></span> “in real life, people do this at parties” - my colleague, chuckling, after observing a couple early stripe engineers yell hex strings across the office to get each others’ keys signed</p>",
+        "value" : "@david @filippo “in real life, people do this at parties” - my colleague, chuckling, after observing a couple early stripe engineers yell hex strings across the office to get each others’ keys signed",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Suitably ballyhooed" ],
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.weirder.earth/accounts/avatars/000/023/641/original/03ea849b215100cf.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Suitably ballyhooed"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.davidciani.com/@david" ],
+        "name" : [ "@david" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://abyssdomain.expert/@filippo" ],
+        "name" : [ "@filippo" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://brvt.telent.net/objects/fec2c64e-9199-4da5-abfc-b24e8f9c4641" ],
+      "uid" : [ "https://brvt.telent.net/objects/fec2c64e-9199-4da5-abfc-b24e8f9c4641" ],
+      "published" : [ "2023-11-08T22:53:10+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a class=\"u-url mention\" href=\"https://weirder.earth/@antifuchs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>antifuchs</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://mastodon.davidciani.com/@david\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>david</span></a></span> <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://abyssdomain.expert/@filippo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>filippo</span></a></span> </p><p>“The above example is very simplified and things can get a lot more complicated than that. “ – GnuPG Keysigning Party HOWTO</p><p><a href=\"https://ww.telent.net/2003/9/13/as_an_example_let_s_say_that_alice_and_bob_generate_pgp_keys_with_gpg_and_hold_a_pgp_key_signing_party\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://ww.telent.net/2003/9/13/as_an_example_let_s_say_that_alice_and_bob_generate_pgp_keys_with_gpg_and_hold_a_pgp_key_signing_party</a></p>",
+        "value" : "@antifuchs @david @filippo\n“The above example is very simplified and things can get a lot more complicated than that. “ – GnuPG Keysigning Party HOWTO\nhttps://ww.telent.net/2003/9/13/as_an_example_let_s_say_that_alice_and_bob_generate_pgp_keys_with_gpg_and_hold_a_pgp_key_signing_party",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Daniel Barlow" ],
+          "url" : [ "https://brvt.telent.net/users/dan" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.weirder.earth/cache/accounts/avatars/108/249/530/277/028/988/original/9bfa23489806fbef.jpeg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Daniel Barlow"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://weirder.earth/@antifuchs" ],
+        "name" : [ "@antifuchs" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.davidciani.com/@david" ],
+        "name" : [ "@david" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://abyssdomain.expert/@filippo" ],
+        "name" : [ "@filippo" ]
+      },
+      "lang" : "en"
+    } ]
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://weirder.earth/@antifuchs/111377397286740595" ],
+      "uid" : [ "https://weirder.earth/@antifuchs/111377397286740595" ],
+      "published" : [ "2023-11-08T22:56:51+00:00" ],
+      "content" : [ {
+        "html" : "<p><span class=\"h-card\"><a href=\"https://brvt.telent.net/users/dan\" class=\"u-url mention\">@<span>dan</span></a></span> <span class=\"h-card\"><a href=\"https://abyssdomain.expert/@filippo\" class=\"u-url mention\">@<span>filippo</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.davidciani.com/@david\" class=\"u-url mention\">@<span>david</span></a></span> lmao the person I was back then when I first read this would surely like to have Words with the person I am now (:</p>",
+        "value" : "@dan @filippo @david lmao the person I was back then when I first read this would surely like to have Words with the person I am now (:",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Suitably ballyhooed" ],
+          "url" : [ "https://weirder.earth/@antifuchs" ],
+          "photo" : [ {
+            "value" : "https://s3.amazonaws.com/files.weirder.earth/accounts/avatars/000/023/641/original/03ea849b215100cf.jpg",
+            "alt" : ""
+          } ]
+        },
+        "lang" : "en",
+        "value" : "Suitably ballyhooed"
+      } ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://brvt.telent.net/users/dan" ],
+        "name" : [ "@dan" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://abyssdomain.expert/@filippo" ],
+        "name" : [ "@filippo" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://mastodon.davidciani.com/@david" ],
+        "name" : [ "@david" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
