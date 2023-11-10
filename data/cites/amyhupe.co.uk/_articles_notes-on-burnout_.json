@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Burnout diaries by Amy Hupe, content designer." ],
+    "summary" : [ "Notes on burnout, from the depths of burnout." ],
+    "featured" : [ "https://amyhupe.co.uk/assets/images/card.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adam Silver" ]
+      }
+    } ],
+    "url" : [ "https://amyhupe.co.uk/articles/notes-on-burnout/" ]
+  }
+}
