@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Chris Siebenmann (@cks@mastodon.social)" ],
+    "summary" : [ "Today, if you publish a popular Go module on a URL and you lose control of the URL (through, eg, domain expiration and having the domain snatched up), you have a problem that's probably more or less impossible to deal with short of making blog/Fediverse/etc posts about the situation. Go module identity is tied to URLs with more or less no external override or way to automatically announce and see problems (individual people can override for their usage, but that doesn't scale)." ],
+    "url" : [ "https://mastodon.social/@cks/111393138822542824" ]
+  }
+}
