@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Eight years of blogging | pawelgrzybek.com" ],
+    "summary" : [ "Exactly eight years ago, I published “Hello there!” on this website. Since then, I have published hundreds of articles. Persistent writing is excellent for many reasons and is the best thing I have ever done for my personal and professional development." ],
+    "featured" : [ "https://pawelgrzybek.com/eight-years-of-blogging/og.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Pawel Grzybek - https://pawelgrzybek.com" ]
+      }
+    } ],
+    "url" : [ "https://pawelgrzybek.com/eight-years-of-blogging/" ]
+  }
+}
