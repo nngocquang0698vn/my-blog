@@ -1,0 +1,44 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Trudi Canavan"
+          ],
+          "photo": [
+            {
+              "alt": "Picture of Trudi Canavan",
+              "value": "https://covers.openlibrary.org/b/id/13441392.jpg"
+            }
+          ],
+          "url": [
+            "https://openlibrary.org/authors/OL2629960A"
+          ]
+        }
+      }
+    ],
+    "name": [
+      "The High Lord (The Black Magician Trilogy, Book 3)"
+    ],
+    "photo": [
+      {
+        "alt": "Cover picture of The High Lord (The Black Magician Trilogy, Book 3)",
+        "value": "https://covers.openlibrary.org/b/id/30349.jpg"
+      }
+    ],
+    "uid": [
+      "isbn:9780060575304"
+    ],
+    "url": [
+      "https://books-mf2.fly.dev/isbn/9780060575304",
+      "https://openlibrary.org/books/OL7279029M"
+    ]
+  }
+}
