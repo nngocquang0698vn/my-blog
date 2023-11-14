@@ -1,10 +1,9 @@
 {
   "type" : [ "h-entry" ],
   "properties" : {
-    "name" : [ "Practical Dependency Management for Developers" ],
-    "summary" : [ "Managing software dependencies is one of the most time-intensive tasks for most software developers. There are nine circles of dependency hell. It takes away from building new features or bringing down technical debt. However, it causes headaches at every step of the development cycle — from local development to CI/CD, production, and maintenance.\n\nSome useful tips on wrangling dependencies from someone who worked on large-scale projects, CI/CD, build tools, and more.\n\nPin your dependencies. If " ],
-    "featured" : [ "https://matt-rickard.com/api/og?title=Practical%20Dependency%20Management%20for%20Developers" ],
-    "url" : [ "https://matt-rickard.com" ],
-    "published" : [ "2023-06-02T06:30:57.000-07:00" ]
+    "name" : [ "Static Sites Aren't Simple Anymore" ],
+    "summary" : [ "There is an iceberg of complexity under modern static sites. The complexity means that it’s harder than ever to build a statically generated site like this blog.\n\nYes, it’s possible (and even desirable in many cases) to publish raw HTML or markdown. Sometimes, a simple file server can suffice (or GitHub Pages). We used to drop files over FTP. Or run a small PHP script that served content. If you were at a university, you could log in and drop a file in your home directory that would be served (h" ],
+    "featured" : [ "https://matt-rickard.com/api/og?slug=static-sites-arent-simple-anymore" ],
+    "url" : [ "https://matt-rickard.com/" ]
   }
 }
