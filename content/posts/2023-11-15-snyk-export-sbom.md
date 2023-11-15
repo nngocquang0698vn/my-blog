@@ -33,3 +33,5 @@ env SNYK_API_TOKEN=... snyk-sbom-export -orgID ... -format cyclonedx1.4+json
 This will then iterate through each of the projects in your organisation, generating an SBOM and adding any licensing information it knows about your dependencies.
 
 Something I didn't realise until _after_ I've built it is that [SBOM export is only available for Open Source projects](https://docs.snyk.io/more-info/error-catalog#snyk-os-9004), which is a bit disappointing 😅 I'm considering [writing export functionality myself using the legacy APIs](https://gitlab.com/tanna.dev/snyk-sbom-export/-/issues/1) to make it possible to get SBOMs from the data that Snyk collects on your projects.
+
+**Update**: this appears to affect Docker-based SBOM exports, not other ecosystems, at least for the few I've tried.
