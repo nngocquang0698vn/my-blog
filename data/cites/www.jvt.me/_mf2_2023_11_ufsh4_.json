@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "https://www.jvt.me/mf2/2023/11/ufsh4/" ],
+    "url" : [ "https://www.jvt.me/mf2/2023/11/ufsh4/" ],
+    "published" : [ "2023-11-17T10:24:00+0000" ],
+    "content" : [ {
+      "html" : "<p>Every time I work on a project like that I end up having to put myself through more ceremony to keep the atomic changes and commit messages, and I feel \"if y'all would just let me rebase-and-merge or we learn together how to write better commits, it'd be easier\"</p>",
+      "value" : "Every time I work on a project like that I end up having to put myself through more ceremony to keep the atomic changes and commit messages, and I feel \"if y'all would just let me rebase-and-merge or we learn together how to write better commits, it'd be easier\"",
+      "lang" : "en-gb"
+    } ],
+    "in-reply-to" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "lornajane (@lornajane@indieweb.social)" ],
+        "summary" : [ "When you work on a project with squash-and-merge as a strategy, you end up splitting concepts across multiple pull requests to make coherent git history that could be untangled later if needed. Teams throw away the context because they have poor git commit practices, but they have poor git commit practices because they throw all that context away ..." ],
+        "url" : [ "https://indieweb.social/@lornajane/111425261462048360" ]
+      },
+      "lang" : "en-gb",
+      "value" : "https://indieweb.social/@lornajane/111425261462048360"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jamie Tanna" ],
+        "photo" : [ {
+          "value" : "https://www.jvt.me/img/profile.png",
+          "alt" : "Jamie Tanna's profile image"
+        } ],
+        "url" : [ "https://www.jvt.me" ]
+      },
+      "lang" : "en-gb",
+      "value" : "Jamie Tanna"
+    } ]
+  },
+  "lang" : "en-gb"
+}
