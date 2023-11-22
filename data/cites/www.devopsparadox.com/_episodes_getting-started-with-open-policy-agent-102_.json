@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "DOP 102: Getting Started With Open Policy Agent" ],
+    "summary" : [ "Open Policy Agent and Gatekeeper give us the ability to have a unified framework to manage policies across Kubernetes and our cloud native stacks." ],
+    "featured" : [ "https://www.devopsparadox.com/img/episode/102-social.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Darin Pope and Viktor Farcic" ]
+      }
+    } ],
+    "url" : [ "https://www.devopsparadox.com/episodes/getting-started-with-open-policy-agent-102/" ],
+    "published" : [ "2021-04-07T06:00:00-04:00" ]
+  }
+}
