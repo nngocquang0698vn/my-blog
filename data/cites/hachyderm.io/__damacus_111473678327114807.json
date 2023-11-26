@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Dan Webb (@damacus@hachyderm.io)" ],
+    "summary" : [ "Finally got fed up with manually releasing the test-kitchen gems. \nThere's now a working set of actions that release the gems to both github and ruby gems.\nThey're only on kitchen-docker and kitchen-dokken right now. But that's a lot of the pay back already." ],
+    "url" : [ "https://hachyderm.io/@damacus/111473678327114807" ]
+  }
+}
