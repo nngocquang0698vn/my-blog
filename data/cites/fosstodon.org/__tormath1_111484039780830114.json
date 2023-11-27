@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "tormath1 (@tormath1@fosstodon.org)" ],
+    "summary" : [ "idea: replace the Advent of Code by a random issue from your favorite Open-Source project:\n\n\n```\n$ curl --silent https://api.github.com/repos/flatcar/flatcar/issues?per_page=100 | jq -r ' .[] | .html_url' | shuf | head -n 1\n```\n\nand contribute each day on a completely different topic: doc? Bug? Feature request?\n\nCan't wait to see what I'm going to get the 1st of Dec." ],
+    "url" : [ "https://fosstodon.org/@tormath1/111484039780830114" ]
+  }
+}
