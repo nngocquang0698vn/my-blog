@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Chris Siebenmann (@cks@mastodon.social)" ],
+    "summary" : [ "Dear Go (1.21): why are you refusing to build this open source program with 'go build -mod=readonly', complaining that go.mod needs updates, when 'go build' works and results in no changes to go.mod or go.sum?\n\nAny interested parties: current git tip of https://github.com/go-delve/delve (in cmd/dlv)" ],
+    "url" : [ "https://mastodon.social/@cks/111484989725312650" ]
+  }
+}
