@@ -1,0 +1,952 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Re-introducing Bridgy Fed" ],
+    "url" : [ "https://snarfed.org/2023-11-27_re-introducing-bridgy-fed" ],
+    "syndication" : [ "https://bsky.app/profile/snarfed.org/post/3kfbxhqfsto2t", "https://news.indieweb.org/en", "https://fed.brid.gy/web/snarfed.org", "https://bsky.app/profile/snarfed.org/post/3kfbxhqfsto2t", "https://news.indieweb.org/en", "https://fed.brid.gy/web/snarfed.org" ],
+    "published" : [ "2023-11-27T12:48:43-08:00", "2023-11-28T16:18:42-08:00", "2023-11-28T17:07:56-08:00", "2023-11-28T17:15:16-08:00", "2023-11-28T17:17:45-08:00", "2023-11-28T17:20:02-08:00", "2023-11-28T18:20:25-08:00", "2023-11-28T18:20:33-08:00" ],
+    "content" : [ {
+      "html" : "<a href=\"https://snarfed.org/ryan_cowboy_costume.jpg\">\n  <img decoding=\"async\" class=\"shadow third right\" src=\"https://snarfed.org/ryan_cowboy_costume.jpg\"></a>\n<p>Hi! I’m <a href=\"https://snarfed.org/\">Ryan</a>. I’ve been building social network bridges and related tools for over 12 years, including <a href=\"https://brid.gy/\">Bridgy</a>, which connects personal web sites and blogs to centralized social networks, and <a href=\"https://fed.brid.gy/\">Bridgy Fed</a>, which connects them to the fediverse.</p>\n<p>I love how decentralized social networks like the fediverse and the <a href=\"https://indieweb.org/\">IndieWeb</a> let us move away from walled gardens controlled by single monolithic entities. I love that we can control our own destinies online, nurture and grow our own communities and instances, and still interact with people elsewhere. I want to be able to interact across networks just like we interact across servers. That’s why I build bridges!</p>\n<p>Recently, I’ve been working on adding new protocols to Bridgy Fed, starting with <a href=\"https://blueskyweb.xyz/\">Bluesky</a>. It’s still months away from launching, but I expect it will draw in people who aren’t familiar with Bridgy Fed yet, and I know it will affect people in obvious and not-so-obvious ways, so I want to start a conversation. What do you think? How do you hope this will work? What are your concerns? What feedback do you have, especially now while big changes may be easier to make? I’ve talked with a number of fediverse admins and representatives so far, but I want to hear from you too.</p>\n<p>Here’s some information about Bridgy Fed:\n<span id=\"more-51485\"></span></p>\n<ul>\n<li>I build and run it myself, with occasional contributors and lots of support, but still mostly alone. It’s <a href=\"https://github.com/snarfed/bridgy-fed\">open source</a>.</li>\n<li>I don’t plan to incorporate or monetize in any way. No donations, no paid tiers, no VC funding. I’ve self-funded Bridgy classic for 12 years and Bridgy Fed for 6 years so far, and I can continue indefinitely. I have experience scaling services like these as personal projects. I care about and believe in decentralized social networks, and I build and pay for these tools as a way to give back.</li>\n<li>The bridge is fully bidirectional. Anyone on supported network A can follow anyone else on supported network B, see their posts, and reply, like, and repost them. Bridgy Fed translates interactions from A to B, and vice versa.</li>\n<li>The two currently supported networks are the fediverse and the IndieWeb, specifically HTML with <a href=\"https://microformats.org/wiki/microformats2\">microformats2</a> and <a href=\"https://webmention.net/\">webmentions</a>.</li>\n<li><a href=\"https://snarfed.org/2023-11-15_bridgy-fed-status-update-9\">Bluesky support is under development</a>, but hasn’t launched yet. Two things need to happen first: <a href=\"https://blueskyweb.xyz/blog/11-15-2023-toward-federation\">Bluesky themselves need to enable federation</a>, and I need to reach out to people and gather feedback. Thanks for getting this far!</li>\n<li>All native moderation features will work automatically: blocking, muting, server level blocking/defederating, etc. This includes the fediverse’s <a href=\"https://fedi.tips/authorized-fetch/\">authorized fetch</a> aka secure mode, which Bridgy Fed supports: it always includes valid HTTP Signatures when fetching actors and other objects.</li>\n<li>Bridgy Fed doesn’t index anything and has no search functionality. You can only follow someone on a different network by entering their exact Bridgy Fed handle.</li>\n<li>You can opt out of Bridgy Fed entirely by adding <em>#nobridge</em> or <em>#nobot</em> to your profile bio, or by <a href=\"https://snarfed.org/about\">sending me a request privately</a>. Opt out isn’t as conservative as opt in, but opt in results in far fewer users, and users are critical for a bridge to be useful. Bridgy Fed has no indexing or search, so hopefully this is a reasonable tradeoff.</li>\n<li>Accounts and posts are not bridged proactively. A user on network A is only bridged into network B if someone on network B follows them.</li>\n<li><a href=\"https://fed.brid.gy/docs#translate\">Here’s how handles and ids are translated across networks.</a></li>\n<li>Bridges are never quite as good as native accounts. Feature parity between networks is incomplete, culture and norms differ, context collapses, etc. I don’t expect to ever make the bridged experience as good as native, I just hope to make it possible.</li>\n<li>I know some admins may determine that this kind of bridge isn’t in their users’ best interests and choose to defederate/block it. That’s their prerogative. I hope to be open minded, hear where they’re coming from, and see if I can make any changes that might allay their concerns. I don’t always expect to change everyone’s mind, but I do plan to honor and abide by admins’ decisions on behalf of their users.</li>\n<li>I’m familiar with many of the existing bridge/cross-posting efforts, eg <a href=\"https://mostr.pub/\">mostr.pub</a>, <a href=\"https://sasquatch.planetexpress.me/\">Sasquatch</a>, and <a href=\"https://github.com/videah/SkyBridge\">SkyBridge</a>. They’re great! They rarely reach this level of functionality though, specifically bridging any existing account to any other supported network.</li>\n</ul>\n<p>What do you think? Feel free to let me know in the comments here, <a href=\"https://github.com/snarfed/bridgy-fed/discussions/\">in GitHub discussions</a>, <a href=\"https://snarfed.org/about\">over email privately</a>, or anywhere else you like. Thank you for reading!</p>",
+      "value" : "https://snarfed.org/ryan_cowboy_costume.jpg\nHi! I’m Ryan. I’ve been building social network bridges and related tools for over 12 years, including Bridgy, which connects personal web sites and blogs to centralized social networks, and Bridgy Fed, which connects them to the fediverse.\nI love how decentralized social networks like the fediverse and the IndieWeb let us move away from walled gardens controlled by single monolithic entities. I love that we can control our own destinies online, nurture and grow our own communities and instances, and still interact with people elsewhere. I want to be able to interact across networks just like we interact across servers. That’s why I build bridges!\nRecently, I’ve been working on adding new protocols to Bridgy Fed, starting with Bluesky. It’s still months away from launching, but I expect it will draw in people who aren’t familiar with Bridgy Fed yet, and I know it will affect people in obvious and not-so-obvious ways, so I want to start a conversation. What do you think? How do you hope this will work? What are your concerns? What feedback do you have, especially now while big changes may be easier to make? I’ve talked with a number of fediverse admins and representatives so far, but I want to hear from you too.\nHere’s some information about Bridgy Fed: I build and run it myself, with occasional contributors and lots of support, but still mostly alone. It’s open source. I don’t plan to incorporate or monetize in any way. No donations, no paid tiers, no VC funding. I’ve self-funded Bridgy classic for 12 years and Bridgy Fed for 6 years so far, and I can continue indefinitely. I have experience scaling services like these as personal projects. I care about and believe in decentralized social networks, and I build and pay for these tools as a way to give back. The bridge is fully bidirectional. Anyone on supported network A can follow anyone else on supported network B, see their posts, and reply, like, and repost them. Bridgy Fed translates interactions from A to B, and vice versa. The two currently supported networks are the fediverse and the IndieWeb, specifically HTML with microformats2 and webmentions. Bluesky support is under development, but hasn’t launched yet. Two things need to happen first: Bluesky themselves need to enable federation, and I need to reach out to people and gather feedback. Thanks for getting this far! All native moderation features will work automatically: blocking, muting, server level blocking/defederating, etc. This includes the fediverse’s authorized fetch aka secure mode, which Bridgy Fed supports: it always includes valid HTTP Signatures when fetching actors and other objects. Bridgy Fed doesn’t index anything and has no search functionality. You can only follow someone on a different network by entering their exact Bridgy Fed handle. You can opt out of Bridgy Fed entirely by adding #nobridge or #nobot to your profile bio, or by sending me a request privately. Opt out isn’t as conservative as opt in, but opt in results in far fewer users, and users are critical for a bridge to be useful. Bridgy Fed has no indexing or search, so hopefully this is a reasonable tradeoff. Accounts and posts are not bridged proactively. A user on network A is only bridged into network B if someone on network B follows them. Here’s how handles and ids are translated across networks. Bridges are never quite as good as native accounts. Feature parity between networks is incomplete, culture and norms differ, context collapses, etc. I don’t expect to ever make the bridged experience as good as native, I just hope to make it possible. I know some admins may determine that this kind of bridge isn’t in their users’ best interests and choose to defederate/block it. That’s their prerogative. I hope to be open minded, hear where they’re coming from, and see if I can make any changes that might allay their concerns. I don’t always expect to change everyone’s mind, but I do plan to honor and abide by admins’ decisions on behalf of their users. I’m familiar with many of the existing bridge/cross-posting efforts, eg mostr.pub, Sasquatch, and SkyBridge. They’re great! They rarely reach this level of functionality though, specifically bridging any existing account to any other supported network.\nWhat do you think? Feel free to let me know in the comments here, in GitHub discussions, over email privately, or anywhere else you like. Thank you for reading!",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "🫡" ],
+        "url" : [ "https://bsky.app/profile/captain-stacks.bsky.social" ]
+      },
+      "lang" : "en-US",
+      "value" : "🫡"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aleggra" ],
+        "url" : [ "https://bsky.app/profile/aleggra.bsky.social" ]
+      },
+      "lang" : "en-US",
+      "value" : "Aleggra"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Titania" ],
+        "url" : [ "https://bsky.app/profile/archfey.bsky.social" ]
+      },
+      "lang" : "en-US",
+      "value" : "Titania"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kuba Suder" ],
+        "url" : [ "https://mackuba.eu/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Kuba Suder"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kuba Suder" ],
+        "url" : [ "https://mackuba.eu/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Kuba Suder"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adrian Randall" ],
+        "url" : [ "https://bsky.app/profile/anidealhusbando.bsky.social" ]
+      },
+      "lang" : "en-US",
+      "value" : "Adrian Randall"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adrian Randall" ],
+        "url" : [ "https://bsky.app/profile/anidealhusbando.bsky.social" ]
+      },
+      "lang" : "en-US",
+      "value" : "Adrian Randall"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "James' Coffee Blog" ],
+            "url" : [ "https://jamesg.coffee/profile/capjamesg" ]
+          },
+          "lang" : "en-US",
+          "value" : "James' Coffee Blog"
+        } ]
+      },
+      "id" : "comment-2869977",
+      "lang" : "en-US",
+      "value" : "👍 James' Coffee Blog"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Doxx" ],
+            "url" : [ "https://bsky.app/profile/bye-bye.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Doxx"
+        } ]
+      },
+      "id" : "comment-2869952",
+      "lang" : "en-US",
+      "value" : "👍 Doxx"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andrés Cárdenas" ],
+            "url" : [ "https://kandr3s.co" ]
+          },
+          "lang" : "en-US",
+          "value" : "Andrés Cárdenas"
+        } ]
+      },
+      "id" : "comment-2869932",
+      "lang" : "en-US",
+      "value" : "👍 Andrés Cárdenas"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Hilary Baumann 💻 🥃☕️" ],
+            "url" : [ "https://hilarybaumann.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Hilary Baumann 💻 🥃☕️"
+        } ]
+      },
+      "id" : "comment-2869926",
+      "lang" : "en-US",
+      "value" : "👍 Hilary Baumann 💻 🥃☕️"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Srijan Choudhary" ],
+            "url" : [ "https://srijan.ch" ]
+          },
+          "lang" : "en-US",
+          "value" : "Srijan Choudhary"
+        } ]
+      },
+      "id" : "comment-2869925",
+      "lang" : "en-US",
+      "value" : "👍 Srijan Choudhary"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "boston powers" ],
+            "url" : [ "https://jorto.org/" ]
+          },
+          "lang" : "en-US",
+          "value" : "boston powers"
+        } ]
+      },
+      "id" : "comment-2869923",
+      "lang" : "en-US",
+      "value" : "👍 boston powers"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "anonymous" ],
+            "url" : [ "https://bsky.app/profile/j12t.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "anonymous"
+        } ]
+      },
+      "id" : "comment-2869914",
+      "lang" : "en-US",
+      "value" : "👍 anonymous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "anonymous" ],
+            "url" : [ "https://bsky.app/profile/akiphumi.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "anonymous"
+        } ]
+      },
+      "id" : "comment-2869911",
+      "lang" : "en-US",
+      "value" : "👍 anonymous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Noah Andrews" ],
+            "url" : [ "https://noahandrews.me/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Noah Andrews"
+        } ]
+      },
+      "id" : "comment-2869900",
+      "lang" : "en-US",
+      "value" : "👍 Noah Andrews"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dr Pieter Peach" ],
+            "url" : [ "https://pieterpeach.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Dr Pieter Peach"
+        } ]
+      },
+      "id" : "comment-2869899",
+      "lang" : "en-US",
+      "value" : "👍 Dr Pieter Peach"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Brian O'Connor" ],
+            "url" : [ "https://bsky.app/profile/machinecode.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Brian O'Connor"
+        } ]
+      },
+      "id" : "comment-2869898",
+      "lang" : "en-US",
+      "value" : "👍 Brian O'Connor"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jim Pick" ],
+            "url" : [ "https://jimpick.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jim Pick"
+        } ]
+      },
+      "id" : "comment-2869897",
+      "lang" : "en-US",
+      "value" : "👍 Jim Pick"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Adrian Randall" ],
+            "url" : [ "https://bsky.app/profile/anidealhusbando.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Adrian Randall"
+        } ]
+      },
+      "id" : "comment-2869896",
+      "lang" : "en-US",
+      "value" : "👍 Adrian Randall"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "anonymous" ],
+            "url" : [ "https://jacky.wtf/about" ]
+          },
+          "lang" : "en-US",
+          "value" : "anonymous"
+        } ]
+      },
+      "id" : "comment-2869895",
+      "lang" : "en-US",
+      "value" : "👍 anonymous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mike Merritt" ],
+            "url" : [ "https://mikewmerritt.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Mike Merritt"
+        } ]
+      },
+      "id" : "comment-2869887",
+      "lang" : "en-US",
+      "value" : "👍 Mike Merritt"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Fat, Bald Dabus" ],
+            "url" : [ "https://bsky.app/profile/mr86400.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Fat, Bald Dabus"
+        } ]
+      },
+      "id" : "comment-2869886",
+      "lang" : "en-US",
+      "value" : "👍 Fat, Bald Dabus"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kuba Suder" ],
+            "url" : [ "https://mackuba.eu/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Kuba Suder"
+        } ]
+      },
+      "id" : "comment-2869885",
+      "lang" : "en-US",
+      "value" : "👍 Kuba Suder"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chad Kohalyk" ],
+            "url" : [ "https://chadkohalyk.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Chad Kohalyk"
+        } ]
+      },
+      "id" : "comment-2869884",
+      "lang" : "en-US",
+      "value" : "👍 Chad Kohalyk"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Amith (අමිත්) 🏳️‍🌈🗽" ],
+            "url" : [ "https://bsky.app/profile/amwg.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Amith (අමිත්) 🏳️‍🌈🗽"
+        } ]
+      },
+      "id" : "comment-2869882",
+      "lang" : "en-US",
+      "value" : "👍 Amith (අමිත්) 🏳️‍🌈🗽"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Daniel" ],
+            "url" : [ "https://bsky.app/profile/daniel12345.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Daniel"
+        } ]
+      },
+      "id" : "comment-2869881",
+      "lang" : "en-US",
+      "value" : "👍 Daniel"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jaz" ],
+            "url" : [ "https://bsky.app/profile/jaz.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jaz"
+        } ]
+      },
+      "id" : "comment-2869870",
+      "lang" : "en-US",
+      "value" : "👍 Jaz"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Emily" ],
+            "url" : [ "https://emily.bsky.team/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Emily"
+        } ]
+      },
+      "id" : "comment-2869869",
+      "lang" : "en-US",
+      "value" : "👍 Emily"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aleggra" ],
+            "url" : [ "https://bsky.app/profile/aleggra.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Aleggra"
+        } ]
+      },
+      "id" : "comment-2869868",
+      "lang" : "en-US",
+      "value" : "👍 Aleggra"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "@ml8ml8" ],
+            "url" : [ "https://bsky.app/profile/ml8ml8.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "@ml8ml8"
+        } ]
+      },
+      "id" : "comment-2869867",
+      "lang" : "en-US",
+      "value" : "👍 @ml8ml8"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "@siygle" ],
+            "url" : [ "https://sylee.dev/" ]
+          },
+          "lang" : "en-US",
+          "value" : "@siygle"
+        } ]
+      },
+      "id" : "comment-2869866",
+      "lang" : "en-US",
+      "value" : "👍 @siygle"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Paul Frazee" ],
+            "url" : [ "https://pfrazee.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Paul Frazee"
+        } ]
+      },
+      "id" : "comment-2869865",
+      "lang" : "en-US",
+      "value" : "👍 Paul Frazee"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "🃏" ],
+            "url" : [ "https://jik.wtf/" ]
+          },
+          "lang" : "en-US",
+          "value" : "🃏"
+        } ]
+      },
+      "id" : "comment-2869852",
+      "lang" : "en-US",
+      "value" : "👍 🃏"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "🫡" ],
+            "url" : [ "https://bsky.app/profile/captain-stacks.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "🫡"
+        } ]
+      },
+      "id" : "comment-2869850",
+      "lang" : "en-US",
+      "value" : "👍 🫡"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "‏ futur‏ ‭" ],
+            "url" : [ "https://futur.blue/" ]
+          },
+          "lang" : "en-US",
+          "value" : "‏ futur‏ ‭"
+        } ]
+      },
+      "id" : "comment-2869851",
+      "lang" : "en-US",
+      "value" : "👍 ‏ futur‏ ‭"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "error 206 : Patrick" ],
+            "url" : [ "https://psingletary.me/" ]
+          },
+          "lang" : "en-US",
+          "value" : "error 206 : Patrick"
+        } ]
+      },
+      "id" : "comment-2869849",
+      "lang" : "en-US",
+      "value" : "👍 error 206 : Patrick"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "deck.blue" ],
+            "url" : [ "https://deck.blue/" ]
+          },
+          "lang" : "en-US",
+          "value" : "deck.blue"
+        } ]
+      },
+      "id" : "comment-2869848",
+      "lang" : "en-US",
+      "value" : "👍 deck.blue"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "R1Airport" ],
+            "url" : [ "https://bsky.app/profile/airportline.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "R1Airport"
+        } ]
+      },
+      "id" : "comment-2869847",
+      "lang" : "en-US",
+      "value" : "👍 R1Airport"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Paisley P. Peinforte" ],
+            "url" : [ "https://p3.paisleypeinforte.co.uk/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Paisley P. Peinforte"
+        } ]
+      },
+      "id" : "comment-2869846",
+      "lang" : "en-US",
+      "value" : "👍 Paisley P. Peinforte"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "さきむら" ],
+            "url" : [ "https://bsky.app/profile/murasaki.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "さきむら"
+        } ]
+      },
+      "id" : "comment-2869844",
+      "lang" : "en-US",
+      "value" : "👍 さきむら"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shreyan" ],
+            "url" : [ "https://shreyanjain.net/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Shreyan"
+        } ]
+      },
+      "id" : "comment-2869845",
+      "lang" : "en-US",
+      "value" : "👍 Shreyan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "IAAPBIANYP" ],
+            "url" : [ "https://bsky.app/profile/mtrkdjoyce.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "IAAPBIANYP"
+        } ]
+      },
+      "id" : "comment-2869843",
+      "lang" : "en-US",
+      "value" : "👍 IAAPBIANYP"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Toni Alatalo" ],
+            "url" : [ "https://an.org/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Toni Alatalo"
+        } ]
+      },
+      "id" : "comment-2869964",
+      "lang" : "en-US",
+      "value" : "♻️ Toni Alatalo"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "anonymous" ],
+            "url" : [ "https://bsky.app/profile/j12t.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "anonymous"
+        } ]
+      },
+      "id" : "comment-2869916",
+      "lang" : "en-US",
+      "value" : "♻️ anonymous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "seb" ],
+            "url" : [ "https://bsky.app/profile/iocseb.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "seb"
+        } ]
+      },
+      "id" : "comment-2869915",
+      "lang" : "en-US",
+      "value" : "♻️ seb"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jeff Sikes" ],
+            "url" : [ "https://box464.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jeff Sikes"
+        } ]
+      },
+      "id" : "comment-2869912",
+      "lang" : "en-US",
+      "value" : "♻️ Jeff Sikes"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Adrian Randall" ],
+            "url" : [ "https://bsky.app/profile/anidealhusbando.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Adrian Randall"
+        } ]
+      },
+      "id" : "comment-2869901",
+      "lang" : "en-US",
+      "value" : "♻️ Adrian Randall"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mario Zechner" ],
+            "url" : [ "https://bsky.app/profile/badlogic.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Mario Zechner"
+        } ]
+      },
+      "id" : "comment-2869890",
+      "lang" : "en-US",
+      "value" : "♻️ Mario Zechner"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aiyoku Nakasu 💜🌷 VTuber" ],
+            "url" : [ "https://aiyoku.xyz/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Aiyoku Nakasu 💜🌷 VTuber"
+        } ]
+      },
+      "id" : "comment-2869889",
+      "lang" : "en-US",
+      "value" : "♻️ Aiyoku Nakasu 💜🌷 VTuber"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kuba Suder" ],
+            "url" : [ "https://mackuba.eu/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Kuba Suder"
+        } ]
+      },
+      "id" : "comment-2869888",
+      "lang" : "en-US",
+      "value" : "♻️ Kuba Suder"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Brett Holman" ],
+            "url" : [ "https://bsky.app/profile/airminded.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Brett Holman"
+        } ]
+      },
+      "id" : "comment-2869874",
+      "lang" : "en-US",
+      "value" : "♻️ Brett Holman"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Mary Branscombe" ],
+            "url" : [ "https://bsky.app/profile/marypcbuk.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Mary Branscombe"
+        } ]
+      },
+      "id" : "comment-2869872",
+      "lang" : "en-US",
+      "value" : "♻️ Mary Branscombe"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Emily" ],
+            "url" : [ "https://emily.bsky.team/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Emily"
+        } ]
+      },
+      "id" : "comment-2869873",
+      "lang" : "en-US",
+      "value" : "♻️ Emily"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "@siygle" ],
+            "url" : [ "https://sylee.dev/" ]
+          },
+          "lang" : "en-US",
+          "value" : "@siygle"
+        } ]
+      },
+      "id" : "comment-2869871",
+      "lang" : "en-US",
+      "value" : "♻️ @siygle"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "🃏" ],
+            "url" : [ "https://jik.wtf/" ]
+          },
+          "lang" : "en-US",
+          "value" : "🃏"
+        } ]
+      },
+      "id" : "comment-2869857",
+      "lang" : "en-US",
+      "value" : "♻️ 🃏"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "deck.blue" ],
+            "url" : [ "https://deck.blue/" ]
+          },
+          "lang" : "en-US",
+          "value" : "deck.blue"
+        } ]
+      },
+      "id" : "comment-2869856",
+      "lang" : "en-US",
+      "value" : "♻️ deck.blue"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shreyan" ],
+            "url" : [ "https://shreyanjain.net/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Shreyan"
+        } ]
+      },
+      "id" : "comment-2869854",
+      "lang" : "en-US",
+      "value" : "♻️ Shreyan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "error 206 : Patrick" ],
+            "url" : [ "https://psingletary.me/" ]
+          },
+          "lang" : "en-US",
+          "value" : "error 206 : Patrick"
+        } ]
+      },
+      "id" : "comment-2869855",
+      "lang" : "en-US",
+      "value" : "♻️ error 206 : Patrick"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "さきむら" ],
+            "url" : [ "https://bsky.app/profile/murasaki.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "さきむら"
+        } ]
+      },
+      "id" : "comment-2869853",
+      "lang" : "en-US",
+      "value" : "♻️ さきむら"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
