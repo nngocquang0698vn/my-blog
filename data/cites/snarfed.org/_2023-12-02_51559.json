@@ -1,0 +1,344 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2023-12-02_51559" ],
+    "syndication" : [ "https://bsky.app/profile/snarfed.org/post/3kflrfkfayp2z", "https://fed.brid.gy/web/snarfed.org", "https://bsky.app/profile/snarfed.org/post/3kflrfkfayp2z", "https://fed.brid.gy/web/snarfed.org" ],
+    "published" : [ "2023-12-02T13:51:12-08:00", "2023-12-02T14:06:34-08:00", "2023-12-02T14:08:13-08:00", "2023-12-02T14:11:45-08:00" ],
+    "content" : [ {
+      "html" : "<p>I tried something inspired by <a href=\"https://en.wikipedia.org/wiki/Bryan_Cantrill\">Bryan Cantrill</a>‘s seminal <a href=\"https://archive.org/details/vimeo-230142234\"><em>Platform as a Reflection of Values</em></a> and <a href=\"https://fed.brid.gy/docs#values\">took a stab at enumerating Bridgy Fed’s product and engineering values</a>.</p>\n<p>Bryan has said that sometimes (often?) you don’t know your own project’s values, at least up front, and boy did that land here. Definitely a valuable exercise. Feedback is welcome!</p>",
+      "value" : "I tried something inspired by Bryan Cantrill‘s seminal Platform as a Reflection of Values and took a stab at enumerating Bridgy Fed’s product and engineering values.\nBryan has said that sometimes (often?) you don’t know your own project’s values, at least up front, and boy did that land here. Definitely a valuable exercise. Feedback is welcome!",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "nori scrutab li" ],
+        "url" : [ "https://nori.gay/" ]
+      },
+      "lang" : "en-US",
+      "value" : "nori scrutab li"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Shreyan" ],
+        "url" : [ "https://shreyanjain.net/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Shreyan"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jack Lo Russo" ],
+        "url" : [ "https://jacklorusso.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Jack Lo Russo"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Matthias Pfefferle" ],
+            "url" : [ "https://mastodon.social/@pfefferle" ]
+          },
+          "lang" : "en-US",
+          "value" : "Matthias Pfefferle"
+        } ]
+      },
+      "id" : "comment-2870206",
+      "lang" : "en-US",
+      "value" : "👍 Matthias Pfefferle"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "dietrich" ],
+            "url" : [ "https://mastodon.social/@dietrich" ]
+          },
+          "lang" : "en-US",
+          "value" : "dietrich"
+        } ]
+      },
+      "id" : "comment-2870204",
+      "lang" : "en-US",
+      "value" : "👍 dietrich"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Fediverse Report" ],
+            "url" : [ "https://mastodon.social/@fediversereport" ]
+          },
+          "lang" : "en-US",
+          "value" : "Fediverse Report"
+        } ]
+      },
+      "id" : "comment-2870203",
+      "lang" : "en-US",
+      "value" : "👍 Fediverse Report"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sibilant" ],
+            "url" : [ "https://kind.social/@Sibilant" ]
+          },
+          "lang" : "en-US",
+          "value" : "Sibilant"
+        } ]
+      },
+      "id" : "comment-2870199",
+      "lang" : "en-US",
+      "value" : "👍 Sibilant"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Erlend" ],
+            "url" : [ "https://writing.exchange/@erlend" ]
+          },
+          "lang" : "en-US",
+          "value" : "Erlend"
+        } ]
+      },
+      "id" : "comment-2870197",
+      "lang" : "en-US",
+      "value" : "👍 Erlend"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ricardo" ],
+            "url" : [ "https://mstdn.social/@rmdes" ]
+          },
+          "lang" : "en-US",
+          "value" : "Ricardo"
+        } ]
+      },
+      "id" : "comment-2870195",
+      "lang" : "en-US",
+      "value" : "👍 Ricardo"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "nunesdennis" ],
+            "url" : [ "https://social.vivaldi.net/@nunesdennis" ]
+          },
+          "lang" : "en-US",
+          "value" : "nunesdennis"
+        } ]
+      },
+      "id" : "comment-2870192",
+      "lang" : "en-US",
+      "value" : "👍 nunesdennis"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric" ],
+            "url" : [ "https://esb.lol/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Eric"
+        } ]
+      },
+      "id" : "comment-2870183",
+      "lang" : "en-US",
+      "value" : "👍 Eric"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chad Kohalyk" ],
+            "url" : [ "https://chadkohalyk.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Chad Kohalyk"
+        } ]
+      },
+      "id" : "comment-2870182",
+      "lang" : "en-US",
+      "value" : "👍 Chad Kohalyk"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jonathan LaCour" ],
+            "url" : [ "https://cleverdevil.io/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jonathan LaCour"
+        } ]
+      },
+      "id" : "comment-2870181",
+      "lang" : "en-US",
+      "value" : "👍 Jonathan LaCour"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "nori scrutab li" ],
+            "url" : [ "https://nori.gay/" ]
+          },
+          "lang" : "en-US",
+          "value" : "nori scrutab li"
+        } ]
+      },
+      "id" : "comment-2870180",
+      "lang" : "en-US",
+      "value" : "👍 nori scrutab li"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shreyan" ],
+            "url" : [ "https://shreyanjain.net/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Shreyan"
+        } ]
+      },
+      "id" : "comment-2870179",
+      "lang" : "en-US",
+      "value" : "👍 Shreyan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jack Lo Russo" ],
+            "url" : [ "https://jacklorusso.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jack Lo Russo"
+        } ]
+      },
+      "id" : "comment-2870178",
+      "lang" : "en-US",
+      "value" : "👍 Jack Lo Russo"
+    } ],
+    "repost" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Matthias Pfefferle" ],
+            "url" : [ "https://mastodon.social/@pfefferle" ]
+          },
+          "lang" : "en-US",
+          "value" : "Matthias Pfefferle"
+        } ]
+      },
+      "id" : "comment-2870205",
+      "lang" : "en-US",
+      "value" : "♻️ Matthias Pfefferle"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Fediverse Report" ],
+            "url" : [ "https://mastodon.social/@fediversereport" ]
+          },
+          "lang" : "en-US",
+          "value" : "Fediverse Report"
+        } ]
+      },
+      "id" : "comment-2870202",
+      "lang" : "en-US",
+      "value" : "♻️ Fediverse Report"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Erlend" ],
+            "url" : [ "https://writing.exchange/@erlend" ]
+          },
+          "lang" : "en-US",
+          "value" : "Erlend"
+        } ]
+      },
+      "id" : "comment-2870198",
+      "lang" : "en-US",
+      "value" : "♻️ Erlend"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chad Kohalyk" ],
+            "url" : [ "https://chadkohalyk.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Chad Kohalyk"
+        } ]
+      },
+      "id" : "comment-2870184",
+      "lang" : "en-US",
+      "value" : "♻️ Chad Kohalyk"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
