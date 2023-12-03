@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "You Buy; They Fly" ],
+    "summary" : [ "Friends are cool. Spending money sucks; travel is exhausting." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Taylor Troesh" ]
+      }
+    } ],
+    "url" : [ "https://taylor.town/you-buy-they-fly" ]
+  }
+}
