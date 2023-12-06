@@ -1,0 +1,263 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "" ],
+    "url" : [ "https://snarfed.org/2023-12-03_51578" ],
+    "syndication" : [ "https://bsky.app/profile/snarfed.org/post/3kfoknatvqr2t", "https://fed.brid.gy/web/snarfed.org", "https://bsky.app/profile/snarfed.org/post/3kfoknatvqr2t", "https://fed.brid.gy/web/snarfed.org" ],
+    "published" : [ "2023-12-03T16:26:44-08:00", "2023-12-03T16:50:10-08:00" ],
+    "content" : [ {
+      "html" : "<p>My dad has spent some of his retirement doing hobbyist machine learning projects. He heard the term “data lake” a while back and has taken to calling his datasets a “data swamp.” Feels like a terminology improvement the whole field could get behind.</p>",
+      "value" : "My dad has spent some of his retirement doing hobbyist machine learning projects. He heard the term “data lake” a while back and has taken to calling his datasets a “data swamp.” Feels like a terminology improvement the whole field could get behind.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ryan Barrett" ],
+        "photo" : [ {
+          "value" : "https://secure.gravatar.com/avatar/947b5f3f323da0ef785b6f02d9c265d6?s=96&d=blank&r=g",
+          "alt" : ""
+        } ],
+        "url" : [ "https://snarfed.org/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Ryan Barrett"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jonathan LaCour" ],
+        "url" : [ "https://cleverdevil.io/" ]
+      },
+      "lang" : "en-US",
+      "value" : "Jonathan LaCour"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Blackett Music" ],
+            "url" : [ "https://bsky.app/profile/blackettmusic.bsky.social" ]
+          },
+          "lang" : "en-US",
+          "value" : "Blackett Music"
+        } ]
+      },
+      "id" : "comment-2870293",
+      "lang" : "en-US",
+      "value" : "👍 Blackett Music"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Rev. Jesus “H” Christ, KSC" ],
+            "url" : [ "https://reverendjesus.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Rev. Jesus “H” Christ, KSC"
+        } ]
+      },
+      "id" : "comment-2870288",
+      "lang" : "en-US",
+      "value" : "👍 Rev. Jesus “H” Christ, KSC"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "ewan" ],
+            "url" : [ "https://gilchrist.scot/" ]
+          },
+          "lang" : "en-US",
+          "value" : "ewan"
+        } ]
+      },
+      "id" : "comment-2870287",
+      "lang" : "en-US",
+      "value" : "👍 ewan"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "anonymous" ],
+            "url" : [ "https://brainsteam.co.uk/likes/1e8f384917/" ]
+          },
+          "lang" : "en-US",
+          "value" : "anonymous"
+        } ]
+      },
+      "id" : "comment-2870268",
+      "lang" : "en-US",
+      "value" : "👍 anonymous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Henry Rodman" ],
+            "url" : [ "https://fosstodon.org/@hrodmn" ]
+          },
+          "lang" : "en-US",
+          "value" : "Henry Rodman"
+        } ]
+      },
+      "id" : "comment-2870260",
+      "lang" : "en-US",
+      "value" : "👍 Henry Rodman"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Kev Quirk" ],
+            "url" : [ "https://fosstodon.org/@kev" ]
+          },
+          "lang" : "en-US",
+          "value" : "Kev Quirk"
+        } ]
+      },
+      "id" : "comment-2870256",
+      "lang" : "en-US",
+      "value" : "👍 Kev Quirk"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "anonymous" ],
+            "url" : [ "https://cagrimmett.com/likes/cb2d2526b1/" ]
+          },
+          "lang" : "en-US",
+          "value" : "anonymous"
+        } ]
+      },
+      "id" : "comment-2870243",
+      "lang" : "en-US",
+      "value" : "👍 anonymous"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shreyan Jain :verified:" ],
+            "url" : [ "https://mstdn.social/@shreyan" ]
+          },
+          "lang" : "en-US",
+          "value" : "Shreyan Jain :verified:"
+        } ]
+      },
+      "id" : "comment-2870241",
+      "lang" : "en-US",
+      "value" : "👍 Shreyan Jain :verified:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eric Davis" ],
+            "url" : [ "https://edavis.dev/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Eric Davis"
+        } ]
+      },
+      "id" : "comment-2870236",
+      "lang" : "en-US",
+      "value" : "👍 Eric Davis"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Joe Fabisevich :verified:" ],
+            "url" : [ "https://macaw.social/@mergesort" ]
+          },
+          "lang" : "en-US",
+          "value" : "Joe Fabisevich :verified:"
+        } ]
+      },
+      "id" : "comment-2870235",
+      "lang" : "en-US",
+      "value" : "👍 Joe Fabisevich :verified:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Louis Gray" ],
+            "url" : [ "https://louisgray.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Louis Gray"
+        } ]
+      },
+      "id" : "comment-2870234",
+      "lang" : "en-US",
+      "value" : "👍 Louis Gray"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jonathan LaCour" ],
+            "url" : [ "https://cleverdevil.io/" ]
+          },
+          "lang" : "en-US",
+          "value" : "Jonathan LaCour"
+        } ]
+      },
+      "id" : "comment-2870232",
+      "lang" : "en-US",
+      "value" : "👍 Jonathan LaCour"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Health Data Abacus" ],
+            "url" : [ "https://mstdn.ca/@health_data_abacus" ]
+          },
+          "lang" : "en-US",
+          "value" : "Health Data Abacus"
+        } ]
+      },
+      "id" : "comment-2870230",
+      "lang" : "en-US",
+      "value" : "👍 Health Data Abacus"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-card" ],
+    "properties" : {
+      "name" : [ "Ryan Barrett" ],
+      "locality" : [ "San Francisco" ],
+      "region" : [ "California" ],
+      "photo" : [ {
+        "value" : "https://snarfed.org/ryan_profile_medium.jpg",
+        "alt" : "Ryan"
+      } ],
+      "email" : [ "mailto:public@ryanb.org" ],
+      "key" : [ "https://snarfed.org/pubkey.txt" ],
+      "url" : [ "https://snarfed.org/" ],
+      "uid" : [ "https://snarfed.org/" ],
+      "featured" : [ "https://snarfed.org/w/wp-content/uploads/2013/06/copy-cropped-iraq_bar.jpg" ]
+    },
+    "lang" : "en-US"
+  } ]
+}
