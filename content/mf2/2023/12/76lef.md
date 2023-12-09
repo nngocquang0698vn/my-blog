@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://changelog.com/friends/24/discuss" ],
+    "listen-of" : [ "https://changelog.com/friends/24" ],
     "published" : [ "2023-12-09T10:03:21.444248991Z" ],
     "post-status" : [ "published" ],
     "content" : [ {
