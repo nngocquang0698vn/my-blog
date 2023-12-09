@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Aral Balkan (@aral@mastodon.ar.al)" ],
+    "summary" : [ "A little unconventional #coding #tip:\n\nAlways copy and paste code. At least at first. Don’t overthink it. \n\nAnd: Don’t start refactoring right away. \n\nWhy?\n\nBecause you might think you’re creating almost similar behaviour but you don’t know that really until you actually customise what you pasted. Refractoring based on the assumption of redundancy instead of the fact of it is premature refactoring. Once you’ve specialised your pasted code, then look for redundancy and then refactor.\n\n#dev" ],
+    "url" : [ "https://mastodon.ar.al/@aral/111552687593232370" ]
+  }
+}
