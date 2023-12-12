@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Dark Mode in One Line of Code!" ],
+    "summary" : [ "Though it's not a true \"dark mode\", you can use CSS' filter to create dark mode of your own." ],
+    "featured" : [ "https://davidwalsh.name/wp-content/themes/punky/images/logo.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Walsh" ]
+      }
+    } ],
+    "url" : [ "https://davidwalsh.name/dark-mode-invert-filter" ],
+    "published" : [ "2021-07-18T16:43:22+00:00" ]
+  }
+}
