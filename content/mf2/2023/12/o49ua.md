@@ -1,0 +1,14 @@
+{
+  "date" : "2023-12-14T14:24:00+0000",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "published" : [ "2023-12-14T14:24:00+0000" ],
+    "repost-of" : [ "https://mastodon.social/@MrLovenstein/111579187886033253" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "reposts",
+  "slug" : "2023/12/o49ua",
+  "client_id" : "https://indiepass.app/"
+}
