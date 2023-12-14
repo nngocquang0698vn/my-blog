@@ -44,7 +44,7 @@ This will output the following files for the `#!/components/schemas` in the Open
 Generated from OpenAPI specification for
   Swagger Petstore 1.0.0
 using
-  openapi-sorbet version (unknown).
+  openapi-sorbet version v0.4.0.
 DO NOT EDIT.
 =end
  module ExternalClients
@@ -52,7 +52,7 @@ DO NOT EDIT.
 =begin
 Pets
 =end
-Pets = T.type_alias { T::Array[T.untyped]}
+Pets = T.type_alias { T::Array[Pet]}
 end
 end
 ```
@@ -67,7 +67,7 @@ end
 Generated from OpenAPI specification for
   Swagger Petstore 1.0.0
 using
-  openapi-sorbet version (unknown).
+  openapi-sorbet version v0.4.0.
 DO NOT EDIT.
 =end
  module ExternalClients
