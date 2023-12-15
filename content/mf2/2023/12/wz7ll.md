@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Anyone recommend a good graphic designed or artist who'd be up for a (paid) commission to create a logo for an Open Source project of mine?"
+      "value" : "Anyone recommend a good graphic designer or artist who'd be up for a (paid) commission to create a logo for an Open Source project of mine?"
     } ]
   },
   "kind" : "notes",
