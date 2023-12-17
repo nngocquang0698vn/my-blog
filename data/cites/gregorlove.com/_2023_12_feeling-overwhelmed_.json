@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "syndication" : [ "https://bsky.app/profile/gregorlove.com/post/3kgk2lhxucr24" ],
+    "bridgy-omit-link" : [ "https://bsky.app/profile/gregorlove.com/post/3kgk2lhxucr24" ],
+    "url" : [ "https://gregorlove.com/2023/12/feeling-overwhelmed/" ],
+    "published" : [ "2023-12-14 14:49-0800" ],
+    "content" : [ {
+      "html" : "<p>Feeling overwhelmed and like some things are just meaningless, but I got a short little walk in for my stupid mental health. The sun felt good at least.</p>",
+      "value" : "Feeling overwhelmed and like some things are just meaningless, but I got a short little walk in for my stupid mental health. The sun felt good at least.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "url" : [ "https://gregorlove.com/" ],
+        "photo" : [ {
+          "value" : "https://gregorlove.com/site/assets/files/6268/profile-2021-square.300x0.jpg",
+          "alt" : "gRegor Morrill"
+        } ],
+        "name" : [ "gRegor Morrill" ]
+      },
+      "lang" : "en",
+      "value" : "gRegor Morrill"
+    } ]
+  },
+  "lang" : "en"
+}
