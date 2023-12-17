@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "test", "MicroPub" ],
+    "url" : [ "https://adhoc.systems/notes/66275153-9cc3-4c03-8672-60efe0c17367" ],
+    "published" : [ "2023-12-16 14:05:20Z" ],
+    "content" : [ {
+      "html" : "Testing my new <a href=\"https://adhoc.systems/tags/micropub\">#MicroPub</a> client.",
+      "value" : "Testing my new #MicroPub client.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Zachary Dunn" ],
+        "nickname" : [ "zack" ],
+        "url" : [ "https://adhoc.systems/" ],
+        "photo" : [ {
+          "value" : "https://adhoc.systems/images/avatar.jpg",
+          "alt" : "Zachary Dunn's avatar."
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "Zachary Dunn"
+    } ]
+  },
+  "lang" : "en-US"
+}
