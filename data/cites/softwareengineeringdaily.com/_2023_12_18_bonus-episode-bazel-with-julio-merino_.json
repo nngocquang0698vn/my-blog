@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Bonus Episode: Bazel with Julio Merino - Software Engineering Daily" ],
+    "summary" : [ "Build systems coordinate all the steps to transform source code into a production application. Bazel is a build system and testing tool that was first released in 2015 as a free and open-source port of Google’s internal build system called Blaze. Historically, each language has its own build system which can create complexity when developing" ],
+    "featured" : [ "https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/12/Bazel.png?fit=600%2C315&ssl=1" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED8421245239.mp3?_=1" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "SEDaily" ]
+      }
+    } ],
+    "url" : [ "https://softwareengineeringdaily.com/2023/12/18/bonus-episode-bazel-with-julio-merino/" ],
+    "published" : [ "2023-12-11T01:37:03+00:00" ]
+  }
+}
