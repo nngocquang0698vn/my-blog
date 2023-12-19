@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://softwareengineeringdaily.com/2023/12/18/bonus-episode-bazel-with-julio-merino/?utm_source=rss&utm_medium=rss&utm_campaign=bonus-episode-bazel-with-julio-merino" ],
+    "listen-of" : [ "https://softwareengineeringdaily.com/2023/12/18/bonus-episode-bazel-with-julio-merino/" ],
     "published" : [ "2023-12-19T18:27:46.853745455Z" ],
     "post-status" : [ "published" ]
   },
