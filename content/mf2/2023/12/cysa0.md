@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://changelog.com/podcast/571/discuss" ],
+    "listen-of" : [ "https://changelog.com/podcast/571" ],
     "published" : [ "2023-12-22T13:22:23.122930566Z" ],
     "post-status" : [ "published" ]
   },
