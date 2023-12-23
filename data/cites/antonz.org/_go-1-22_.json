@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Go 1.22: Interactive release notes" ],
+    "summary" : [ "Isolated loop variables, range over integers, math/rand v2 and enhanced routing." ],
+    "featured" : [ "https://antonz.org/go-1-22/cover.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Anton Zhiyanov" ]
+      }
+    } ],
+    "url" : [ "https://antonz.org/go-1-22/" ]
+  }
+}
