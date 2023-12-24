@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Sometimes a bad patch is better than no patch" ],
+    "category" : [ "github", "open-source" ],
+    "url" : [ "https://shkspr.mobi/blog/2020/12/sometimes-a-bad-patch-is-better-than-no-patch/" ],
+    "published" : [ "2020-12-24" ],
+    "updated" : [ "2020-12-24" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "photo" : [ {
+          "value" : "https://shkspr.mobi/apple-touch-icon.png",
+          "alt" : ""
+        } ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
