@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Manton Reece" ],
+    "summary" : [ "I don’t mind flying under the radar. There are benefits for a product to start small and grow slowly. But I’m still kind of puzzled why Micro.blog is rarely mentioned when articles talk about platforms that support the fediverse. We first added ActivityPub in 2018. Must be doing something wrong." ],
+    "featured" : [ "https://micro.blog/manton/avatar.jpg", "https://micro.blog/manton/avatar.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ]
+      }
+    } ],
+    "url" : [ "https://www.manton.org/2023/12/19/i-dont-mind.html" ],
+    "published" : [ "2023-12-19T08:46:29-06:00" ]
+  }
+}
