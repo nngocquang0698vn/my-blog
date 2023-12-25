@@ -1,0 +1,14 @@
+{
+  "date" : "2023-12-25T14:04:00+0000",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "published" : [ "2023-12-25T14:04:00+0000" ],
+    "repost-of" : [ "https://indieweb.social/@whalecoiner/111641264771849762" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "reposts",
+  "slug" : "2023/12/islnc",
+  "client_id" : "https://indiepass.app/"
+}
