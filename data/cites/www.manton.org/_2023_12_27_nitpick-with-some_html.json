@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://www.manton.org/2023/12/27/nitpick-with-some.html" ],
+    "syndication" : [ "at://did:plc:pko7wbcggok753hnvndxh3ni/app.bsky.feed.post/3khjydqterl2n" ],
+    "published" : [ "2023-12-27 09:32:02 -0600" ],
+    "content" : [ {
+      "html" : "<p>Nitpick with some modern web services: I don’t like the trend of expiring URLs, like temp S3 resources for profile photos. It makes caching more difficult. In everything I design, I assume that a human might see the URL. That makes everything simpler and more stable.</p>",
+      "value" : "Nitpick with some modern web services: I don’t like the trend of expiring URLs, like temp S3 resources for profile photos. It makes caching more difficult. In everything I design, I assume that a human might see the URL. That makes everything simpler and more stable.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Manton Reece" ],
+        "url" : [ "https://www.manton.org/" ],
+        "photo" : [ "https://micro.blog/manton/avatar.jpg" ]
+      },
+      "id" : "post-meta",
+      "lang" : "en",
+      "value" : "Manton Reece"
+    } ]
+  },
+  "lang" : "en"
+}
