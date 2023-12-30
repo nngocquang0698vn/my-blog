@@ -30,17 +30,32 @@ Note that if you have an OpenAPI schema that uses `$ref`s, we will need to [bund
 
 We can take advantage of the great [oapi-codegen](https://github.com/deepmap/oapi-codegen) project, to give us a generator that we can use to produce our client implementation.
 
-We can install it as a command-line utility by running:
+**Update 2023-12-30**: Since writing this post, I've become a maintainer on oapi-codegen.
+
+I'd recommend you manage the install of the `oapi-codegen` CLI via [a `tools.go`](https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/), but alternatively you could use `go install`:
 
 ```sh
+go install github.com/deepmap/oapi-codegen/v2/cmd/oapi-codegen@latest
 # optionally, pin to a version
-go install github.com/deepmap/oapi-codegen/cmd/oapi-codegen
+go install github.com/deepmap/oapi-codegen/v2/cmd/oapi-codegen@v2.0.0
 ```
 
 This then allows us to use the really handy Go directive `go:generate` which we embed in (any) source file in the project:
 
 ```go
-//go:generate oapi-codegen --package=main -generate=types,client -o ./petstore.gen.go https://petstore3.swagger.io/api/v3/openapi.json
+//go:generate go run github.com/deepmap/oapi-codegen/v2/cmd/oapi-codegen --config=config.yaml https://petstore3.swagger.io/api/v3/openapi.json
+// alternatively, if you've not used a `tools.go`:
+//go:generate oapi-codegen --config=config.yaml https://petstore3.swagger.io/api/v3/openapi.json
+```
+
+This requires we have the following `config.yaml`:
+
+```yaml
+package: main
+generate:
+  client: true
+  models: true
+output: petstore.gen.go
 ```
 
 This allows us to execute the `oapi-codegen` when we execute `go generate` on the command-line.
@@ -50,13 +65,11 @@ This then allows us to write the following code, which can utilise the generated
 ```go
 package main
 
-//go:generate oapi-codegen --package=main -generate=client,types -o ./petstore.gen.go https://petstore3.swagger.io/api/v3/openapi.json
+//go:generate go run github.com/deepmap/oapi-codegen/v2/cmd/oapi-codegen --config=config.yaml https://petstore3.swagger.io/api/v3/openapi.json
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
-	"io/ioutil"
 )
 
 func main() {
@@ -73,8 +86,21 @@ func main() {
 	}
 	pets := *resp.JSON200
 	if len(pets) > 0 {
-		fmt.Println(*pets[0].Id)
+		if pets[0].Id != nil {
+			fmt.Println(*pets[0].Id)
+		}
 		fmt.Println(pets[0].Name)
 	}
 }
+```
+
+This allows us to run:
+
+```console
+$ go generate
+$ go mod tidy
+# then, the resulting output is
+$ go run main.go petstore.gen.go
+4
+Dog 1
 ```
