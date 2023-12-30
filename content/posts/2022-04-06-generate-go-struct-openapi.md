@@ -90,7 +90,7 @@ func main() {
 
 This allows us to run:
 
-```console
+```sh
 $ go generate
 $ go mod tidy
 # then, the resulting output is
