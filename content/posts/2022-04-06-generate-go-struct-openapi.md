@@ -94,7 +94,7 @@ This allows us to run:
 $ go generate
 $ go mod tidy
 # then, the resulting output is
-$ go run main.go petstore.gen.go
+$ go run .
 {0xc0000103e0 <nil> 0xc0000183d0 <nil> <nil> <nil> <nil> <nil>}
 example@example.com
 123

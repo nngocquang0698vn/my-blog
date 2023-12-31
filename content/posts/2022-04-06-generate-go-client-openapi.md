@@ -100,7 +100,7 @@ This allows us to run:
 $ go generate
 $ go mod tidy
 # then, the resulting output is
-$ go run main.go petstore.gen.go
+$ go run .
 4
 Dog 1
 ```
